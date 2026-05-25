@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/%EA%B8%B0%EC%B6%9C/2025-%EC%88%98%EB%8A%A5-%EC%83%98%ED%94%8C/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/2025/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/%EC%97%B0%EA%B3%84/ebs-2025%ED%95%99%EB%85%84%EB%8F%84-%EC%88%98%EB%8A%A5%ED%8A%B9%EA%B0%95-%EB%AC%B8%ED%95%99%EC%9E%91%ED%92%88-%EC%97%B0%EA%B3%84-%EA%B8%B0%EC%B6%9C1-%EA%B3%A0%EC%A0%84%EC%8B%9C%EA%B0%80_%ED%98%84%EB%8C%80%EC%8B%9C/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ebs-%EC%88%98%EB%8A%A5%ED%8A%B9%EA%B0%95/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ebs-%EC%97%B0%EA%B3%84/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -17,16 +20,47 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%EA%B8%B0%EC%B6%9C/</loc>
+    <loc>http://localhost:1313/tags/%EA%B0%95%EC%82%AC%EC%9A%A9-%EB%B6%84%EC%84%9D/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%EC%83%98%ED%94%8C/</loc>
+    <loc>http://localhost:1313/tags/%EB%AC%B8%ED%95%99/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/%EC%97%B0%EA%B3%84/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EC%97%B0%EA%B3%84%EA%B5%90%EC%9E%AC/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/2026/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/%EA%B8%B0%EC%B6%9C/2026-%EC%88%98%EB%8A%A5/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%EA%B8%B0%EC%B6%9C/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EA%B8%B0%EC%B6%9C/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EB%8F%85%EC%84%9C/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%EC%88%98%EB%8A%A5/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/%EA%B8%B0%EC%B6%9C/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EC%96%B8%EC%96%B4%EC%99%80%EB%A7%A4%EC%B2%B4/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%ED%99%94%EB%B2%95%EA%B3%BC%EC%9E%91%EB%AC%B8/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/2025/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EC%83%98%ED%94%8C/</loc>
   </url>
 </urlset>
