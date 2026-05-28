@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>문법 on 독서지도 · readingmap.kr</title>
-    <link>https://readingmap.kr/grammar/</link>
+    <link>http://localhost:1313/grammar/</link>
     <description>Recent content in 문법 on 독서지도 · readingmap.kr</description>
     <generator>Hugo</generator>
     <language>ko_KR</language>
-    <atom:link href="https://readingmap.kr/grammar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/grammar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>음운의 변동</title>
-      <link>https://readingmap.kr/grammar/eumun-byeondong/</link>
+      <link>http://localhost:1313/grammar/eumun-byeondong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://readingmap.kr/grammar/eumun-byeondong/</guid>
+      <guid>http://localhost:1313/grammar/eumun-byeondong/</guid>
       <description>음운이 환경에 따라 다른 음운으로 바뀌는 현상. 교체·탈락·첨가·축약 네 갈래로 정리.</description>
     </item>
   </channel>

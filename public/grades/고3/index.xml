@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>고3 on 독서지도 · readingmap.kr</title>
-    <link>https://readingmap.kr/grades/%EA%B3%A03/</link>
+    <link>http://localhost:1313/grades/%EA%B3%A03/</link>
     <description>Recent content in 고3 on 독서지도 · readingmap.kr</description>
     <generator>Hugo</generator>
     <language>ko_KR</language>
     <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://readingmap.kr/grades/%EA%B3%A03/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/grades/%EA%B3%A03/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026학년도 수능 국어</title>
-      <link>https://readingmap.kr/exams/2026/suneung/</link>
+      <link>http://localhost:1313/exams/2026/suneung/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://readingmap.kr/exams/2026/suneung/</guid>
+      <guid>http://localhost:1313/exams/2026/suneung/</guid>
       <description>2026학년도 대학수학능력시험 국어 영역 — 문제지·정답표·출제 작품.</description>
     </item>
     <item>
       <title>음운의 변동</title>
-      <link>https://readingmap.kr/grammar/eumun-byeondong/</link>
+      <link>http://localhost:1313/grammar/eumun-byeondong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://readingmap.kr/grammar/eumun-byeondong/</guid>
+      <guid>http://localhost:1313/grammar/eumun-byeondong/</guid>
       <description>음운이 환경에 따라 다른 음운으로 바뀌는 현상. 교체·탈락·첨가·축약 네 갈래로 정리.</description>
     </item>
     <item>
       <title>자화상</title>
-      <link>https://readingmap.kr/literature/jahwasang/</link>
+      <link>http://localhost:1313/literature/jahwasang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://readingmap.kr/literature/jahwasang/</guid>
+      <guid>http://localhost:1313/literature/jahwasang/</guid>
       <description>우물에 비친 자신을 미워하고 그리워하기를 반복하며 자아를 성찰하는 시.</description>
     </item>
   </channel>
