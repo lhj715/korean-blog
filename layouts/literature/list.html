@@ -14,9 +14,9 @@
   {{- range (.RegularPagesRecursive.ByTitle) }}
     <tr onclick="location.href='{{ .RelPermalink }}'" style="cursor:pointer">
       <td><b>{{ .Title }}</b></td>
-      <td>{{ .Params.genre }}</td>
-      <td>{{ .Params.author }}</td>
-      <td>{{ .Params.era }}</td>
+      <td>{{ delimit .Params.genres ", " }}</td>
+      <td>{{ delimit .Params.authors ", " }}</td>
+      <td>{{ delimit .Params.eras ", " }}</td>
       <td>{{ delimit .Params.grades ", " }}</td>
     </tr>
   {{- end }}

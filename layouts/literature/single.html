@@ -2,9 +2,9 @@
 <article class="work">
   <h1>{{ .Title }}</h1>
   <div class="work-meta">
-    {{ with .Params.author }}<b>{{ . }}</b>{{ end }}
-    {{ with .Params.genre }} · {{ . }}{{ end }}
-    {{ with .Params.era }} · {{ . }}{{ end }}
+    {{ with .Params.authors }}<b>{{ delimit . " · " }}</b>{{ end }}
+    {{ with .Params.genres }} · {{ delimit . " · " }}{{ end }}
+    {{ with .Params.eras }} · {{ delimit . " · " }}{{ end }}
     {{ with .Params.year_approx }} · {{ . }}{{ end }}
     {{ with .Params.source }} · 출전 《{{ . }}》{{ end }}
   </div>
@@ -32,8 +32,8 @@
     {{ .Content }}
   </div>
 
-  {{- with .Params.author }}
-  <p style="margin-top:2rem"><a href="{{ (printf "/authors/%s/" (urlize .)) | relURL }}">→ {{ . }}의 다른 작품 보기</a></p>
+  {{- with .Params.authors }}{{ $a := index . 0 }}
+  <p style="margin-top:2rem"><a href="{{ (printf "/authors/%s/" (urlize $a)) | relURL }}">→ {{ $a }}의 다른 작품 보기</a></p>
   {{- end }}
 </article>
 {{ end }}
