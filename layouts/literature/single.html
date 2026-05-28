@@ -1,0 +1,39 @@
+{{ define "main" }}
+<article class="work">
+  <h1>{{ .Title }}</h1>
+  <div class="work-meta">
+    {{ with .Params.author }}<b>{{ . }}</b>{{ end }}
+    {{ with .Params.genre }} · {{ . }}{{ end }}
+    {{ with .Params.era }} · {{ . }}{{ end }}
+    {{ with .Params.year_approx }} · {{ . }}{{ end }}
+    {{ with .Params.source }} · 출전 《{{ . }}》{{ end }}
+  </div>
+
+  <div class="badges">
+    {{- range .Params.grades }}<span class="badge">{{ . }}</span>{{ end }}
+    {{- range .Params.themes }}<span class="badge">#{{ . }}</span>{{ end }}
+    {{- if eq .Params.copyright "public" }}<span class="badge gold">원문 공개(저작권 만료)</span>{{ end }}
+  </div>
+
+  {{- with .Params.original }}
+  <pre class="poem">{{ . }}</pre>
+  {{- end }}
+
+  {{- with .Params.appearances }}
+  <div class="exam-box">
+    <h4>📌 출제 이력</h4>
+    <div class="badges">
+      {{- range . }}<a class="badge gold" href="{{ (printf "/appearances/%s/" (urlize .)) | relURL }}">{{ . }}</a>{{ end }}
+    </div>
+  </div>
+  {{- end }}
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  {{- with .Params.author }}
+  <p style="margin-top:2rem"><a href="{{ (printf "/authors/%s/" (urlize .)) | relURL }}">→ {{ . }}의 다른 작품 보기</a></p>
+  {{- end }}
+</article>
+{{ end }}

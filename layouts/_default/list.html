@@ -1,0 +1,33 @@
+{{ define "main" }}
+<h1 class="serif">{{ .Title }}</h1>
+{{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+{{ .Content }}
+
+{{- $sections := .Sections }}
+{{- if $sections }}
+<div class="grid">
+  {{- range $sections }}
+  <a class="card" href="{{ .RelPermalink }}">
+    <h3>{{ .Title }}</h3>
+    <span class="count">{{ len .RegularPagesRecursive }}개</span>
+  </a>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- $pages := .RegularPages }}
+{{- if $pages }}
+<table class="work-list">
+  <thead><tr><th>제목</th><th>분류</th><th>작가</th></tr></thead>
+  <tbody>
+  {{- range $pages }}
+    <tr onclick="location.href='{{ .RelPermalink }}'" style="cursor:pointer">
+      <td>{{ .Title }}</td>
+      <td>{{ with .Params.genre }}{{ . }}{{ else }}{{ with .Params.category }}{{ . }}{{ end }}{{ end }}</td>
+      <td>{{ with .Params.author }}{{ . }}{{ end }}</td>
+    </tr>
+  {{- end }}
+  </tbody>
+</table>
+{{- end }}
+{{ end }}

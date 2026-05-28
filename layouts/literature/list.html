@@ -1,0 +1,25 @@
+{{ define "main" }}
+<h1 class="serif">{{ .Title }}</h1>
+{{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+
+<div class="badges">
+  {{- range $g := slice "고전시가" "현대시" "고전산문" "현대소설" "극" "수필" }}
+    <a class="badge" href="{{ (printf "/genres/%s/" (urlize $g)) | relURL }}">{{ $g }}</a>
+  {{- end }}
+</div>
+
+<table class="work-list">
+  <thead><tr><th>작품</th><th>갈래</th><th>작가</th><th>시대</th><th>학년</th></tr></thead>
+  <tbody>
+  {{- range (.RegularPagesRecursive.ByTitle) }}
+    <tr onclick="location.href='{{ .RelPermalink }}'" style="cursor:pointer">
+      <td><b>{{ .Title }}</b></td>
+      <td>{{ .Params.genre }}</td>
+      <td>{{ .Params.author }}</td>
+      <td>{{ .Params.era }}</td>
+      <td>{{ delimit .Params.grades ", " }}</td>
+    </tr>
+  {{- end }}
+  </tbody>
+</table>
+{{ end }}

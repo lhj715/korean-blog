@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1 class="serif">{{ .Title }}</h1>
+<p>{{ .Data.Singular }} 분류 — 총 {{ len .Data.Terms }}개</p>
+<div class="grid">
+  {{- range .Data.Terms.Alphabetical }}
+  <a class="card" href="{{ .Page.RelPermalink }}">
+    <h3>{{ .Page.Title }}</h3>
+    <span class="count">{{ .Count }}개 작품</span>
+  </a>
+  {{- end }}
+</div>
+{{ end }}
