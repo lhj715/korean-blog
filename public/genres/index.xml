@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genres on 독서지도 · readingmap.kr</title>
+    <link>https://readingmap.kr/genres/</link>
+    <description>Recent content in Genres on 독서지도 · readingmap.kr</description>
+    <generator>Hugo</generator>
+    <language>ko_KR</language>
+    <atom:link href="https://readingmap.kr/genres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>현대시</title>
+      <link>https://readingmap.kr/genres/%ED%98%84%EB%8C%80%EC%8B%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://readingmap.kr/genres/%ED%98%84%EB%8C%80%EC%8B%9C/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

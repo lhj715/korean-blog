@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>고1 on 독서지도 · readingmap.kr</title>
+    <link>https://readingmap.kr/grades/%EA%B3%A01/</link>
+    <description>Recent content in 고1 on 독서지도 · readingmap.kr</description>
+    <generator>Hugo</generator>
+    <language>ko_KR</language>
+    <atom:link href="https://readingmap.kr/grades/%EA%B3%A01/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>음운의 변동</title>
+      <link>https://readingmap.kr/grammar/eumun-byeondong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://readingmap.kr/grammar/eumun-byeondong/</guid>
+      <description>음운이 환경에 따라 다른 음운으로 바뀌는 현상. 교체·탈락·첨가·축약 네 갈래로 정리.</description>
+    </item>
+  </channel>
+</rss>
