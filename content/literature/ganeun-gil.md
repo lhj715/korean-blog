@@ -3,7 +3,7 @@ title: "가는 길"
 hanja: "— 떠나는 길 위에서 느끼는 이별의 정한"
 authors: ["김소월"]
 genres: ["현대시"]
-eras: ["근대"]
+eras: ["일제강점기"]
 year_approx: "1923년 《개벽》 발표"
 form: "자유시 · 서정시 · 민요시"
 source: "진달래꽃(1925)"
