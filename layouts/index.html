@@ -1,34 +1,46 @@
 {{ define "main" }}
 <section class="hero">
-  <p class="hero-eyebrow">고1 · 고2 · 고3 국어 학습 아카이브</p>
-  <h1 class="hero-title">수능 국어를<br><em>지도</em>처럼 읽다</h1>
-  <p class="hero-sub">문학 작품 해설 · 문법 정리 · 기출 자료를 한곳에서.</p>
-  <div class="hero-actions">
-    <a class="btn" href="{{ "/literature/" | relURL }}">작품 둘러보기</a>
-    <a class="btn ghost" href="{{ "/search/" | relURL }}">검색</a>
+  <div>
+    <p class="kicker">고1 · 고2 · 고3 국어 학습 아카이브</p>
+    <h1 class="hero-title">수능 국어를<br><em>지도</em>처럼 읽다</h1>
+    <p class="hero-desc">문학 작품 해설 · 문법 정리 · 수능 기출 자료를 한곳에서. 갈래·작가·시대로 엮어, 흩어진 자료를 하나의 지도로 모읍니다.</p>
+    <div class="hero-actions">
+      <a class="btn" href="{{ "/literature/" | relURL }}">작품 둘러보기</a>
+      <a class="btn ghost" href="{{ "/search/" | relURL }}">검색</a>
+    </div>
+  </div>
+  <div>
+    <div class="hero-stats">
+      {{- $lit := site.GetPage "/literature" }}{{ $gr := site.GetPage "/grammar" }}{{ $ex := site.GetPage "/exams" }}
+      <div><div class="hero-stat-num">{{ with $lit }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">문학 작품</div></div>
+      <div><div class="hero-stat-num">{{ with $gr }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">문법 정리</div></div>
+      <div><div class="hero-stat-num">{{ with $ex }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">기출 자료</div></div>
+    </div>
   </div>
 </section>
 
-<section class="pillars">
-  {{- $defs := dict
-      "literature" (dict "label" "문학" "desc" "고전시가부터 현대소설까지, 작품별 해설·핵심정리·출제이력")
-      "grammar"    (dict "label" "문법" "desc" "음운·단어·문장·어문규정·어휘를 체계별로 정리")
-      "exams"      (dict "label" "기출" "desc" "수능·모의평가·학력평가 문제와 해설 자료실") }}
-  {{- range $key := slice "literature" "grammar" "exams" }}
-    {{- $s := site.GetPage (printf "/%s" $key) }}
-    {{- $d := index $defs $key }}
-    {{- if $s }}
-    <a class="pillar" href="{{ $s.RelPermalink }}">
-      <div class="pillar-head"><h3>{{ $d.label }}</h3><span class="arrow">→</span></div>
-      <p>{{ $d.desc }}</p>
-      <span class="count">{{ len $s.RegularPagesRecursive }}편 수록</span>
-    </a>
+<section class="home-section">
+  <div class="section-head"><h2>세 갈래로 시작하기</h2><span class="sub">문학 · 문법 · 기출</span></div>
+  <div class="pillars">
+    {{- $defs := dict
+        "literature" (dict "label" "문학" "desc" "고전시가부터 현대소설까지, 작품별 해설·핵심정리·출제이력")
+        "grammar"    (dict "label" "문법" "desc" "음운·단어·문장·어문규정·어휘를 체계별로 정리")
+        "exams"      (dict "label" "기출" "desc" "수능·모의평가·학력평가 문제와 해설 자료실") }}
+    {{- range $key := slice "literature" "grammar" "exams" }}
+      {{- $s := site.GetPage (printf "/%s" $key) }}{{ $d := index $defs $key }}
+      {{- if $s }}
+      <a class="pillar" href="{{ $s.RelPermalink }}">
+        <div class="pillar-head"><h3>{{ $d.label }}</h3><span class="arrow">→</span></div>
+        <p>{{ $d.desc }}</p>
+        <span class="count">{{ len $s.RegularPagesRecursive }}편 수록</span>
+      </a>
+      {{- end }}
     {{- end }}
-  {{- end }}
+  </div>
 </section>
 
-<section class="axes-band">
-  <h2 class="band-title">다르게 찾아보기</h2>
+<section class="home-section">
+  <div class="section-head"><h2>다르게 찾아보기</h2><span class="sub">같은 작품, 여러 갈래의 입구</span></div>
   <div class="axes-row">
     <a href="{{ "/genres/" | relURL }}"><b>갈래</b><span>고전시가·현대시·소설…</span></a>
     <a href="{{ "/authors/" | relURL }}"><b>작가</b><span>작가별 모아보기</span></a>
@@ -36,15 +48,17 @@
   </div>
 </section>
 
-{{- $recent := first 6 (where site.RegularPages "Section" "literature") }}
+{{- $recent := first 8 (where site.RegularPages "Section" "literature") }}
 {{- with $recent }}
-<section class="recent">
-  <h2 class="band-title">수록 작품</h2>
-  <div class="recent-grid">
+<section class="home-section">
+  <div class="section-head"><h2>수록 작품</h2><span class="sub">최근 추가</span></div>
+  <div class="works-grid">
     {{- range . }}
-    <a class="work-chip" href="{{ .RelPermalink }}">
-      <h4>{{ .Title }}</h4>
-      <span>{{ delimit .Params.authors " · " }}{{ with .Params.genres }} · {{ delimit . " · " }}{{ end }}</span>
+    <a class="work-card" href="{{ .RelPermalink }}">
+      <div class="wc-num">{{ with .Params.genres }}{{ index . 0 }}{{ end }}</div>
+      <div class="wc-title">{{ .Title }}</div>
+      <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
+      <div class="work-tags">{{ range first 3 .Params.themes }}<span class="work-tag">{{ . }}</span>{{ end }}</div>
     </a>
     {{- end }}
   </div>
