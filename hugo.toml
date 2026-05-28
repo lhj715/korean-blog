@@ -1,5 +1,5 @@
 baseURL = 'https://readingmap.kr/'
-title = '독서지도 · readingmap.kr'
+title = '수능국어 리딩맵'
 
 [languages.ko]
   label = '한국어'
