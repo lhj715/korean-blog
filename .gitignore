@@ -1,0 +1,4 @@
+# Hugo 빌드 산출물 (CF Pages가 빌드하므로 커밋 불필요)
+/public/
+/resources/
+.hugo_build.lock
