@@ -1,13 +1,11 @@
-<header class="site-header">
-  <div class="wrap">
-    <a class="brand" href="{{ "/" | relURL }}">
-      {{ .Site.Title }}
-      <small>{{ .Site.Params.subtitle }}</small>
-    </a>
-    <nav class="nav">
-      {{- range .Site.Menus.main }}
-        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
-      {{- end }}
-    </nav>
-  </div>
+<header class="topbar">
+  {{- $parts := split .Site.Title " " }}
+  <a class="brand" href="{{ "/" | relURL }}">{{ index $parts 0 }}{{ if gt (len $parts) 1 }} <em>{{ index $parts 1 }}</em>{{ end }}</a>
+  <nav class="nav">
+    {{- $cur := .RelPermalink }}
+    {{- range .Site.Menus.main }}
+      {{- $u := .URL | relURL }}
+      <a href="{{ $u }}"{{ if and (ne $u "/") (hasPrefix $cur $u) }} class="active"{{ end }}>{{ .Name }}</a>
+    {{- end }}
+  </nav>
 </header>
