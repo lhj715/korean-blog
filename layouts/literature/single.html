@@ -1,38 +1,99 @@
 {{ define "main" }}
-<article class="work">
-  <h1>{{ .Title }}</h1>
-  <div class="work-meta">
-    {{ with .Params.authors }}<b>{{ delimit . " · " }}</b>{{ end }}
-    {{ with .Params.genres }} · {{ delimit . " · " }}{{ end }}
-    {{ with .Params.eras }} · {{ delimit . " · " }}{{ end }}
-    {{ with .Params.year_approx }} · {{ . }}{{ end }}
-    {{ with .Params.source }} · 출전 《{{ . }}》{{ end }}
+<div class="wrap">
+<article>
+
+  <div class="work-header">
+    <div>
+      <div class="work-kicker">
+        {{- with .Params.genres }}{{ delimit . " · " }}{{ end }}{{ with .Params.form }} · {{ . }}{{ end }}
+      </div>
+      <h1 class="work-title">{{ .Title }}</h1>
+      {{- with .Params.hanja }}<div class="work-hanja">{{ . }}</div>{{ end }}
+      <div class="work-meta-pills">
+        {{- with .Params.form }}<span class="pill accent">{{ . }}</span>{{ end }}
+        {{- range .Params.authors }}<span class="pill">{{ . }}</span>{{ end }}
+        {{- with .Params.year_approx }}<span class="pill">{{ . }}</span>{{ end }}
+        {{- with .Params.source }}<span class="pill">{{ . }}</span>{{ end }}
+        {{- if eq .Params.copyright "public" }}<span class="pill">원문 공개</span>{{ end }}
+      </div>
+      {{- with .Params.summary }}<p class="work-summary">{{ . }}</p>{{ end }}
+    </div>
+    <div>
+      <div class="meta-card">
+        <div class="meta-card-header">작품 정보</div>
+        {{- with .Params.genres }}<div class="meta-row"><span class="meta-key">갈래</span><span class="meta-val">{{ delimit . ", " }}</span></div>{{ end }}
+        {{- with .Params.authors }}<div class="meta-row"><span class="meta-key">작자</span><span class="meta-val">{{ delimit . ", " }}</span></div>{{ end }}
+        {{- with .Params.eras }}<div class="meta-row"><span class="meta-key">시대</span><span class="meta-val">{{ delimit . ", " }}</span></div>{{ end }}
+        {{- with .Params.year_approx }}<div class="meta-row"><span class="meta-key">창작 시기</span><span class="meta-val">{{ . }}</span></div>{{ end }}
+        {{- with .Params.source }}<div class="meta-row"><span class="meta-key">출전</span><span class="meta-val">{{ . }}</span></div>{{ end }}
+        {{- with .Params.themes }}<div class="meta-row"><span class="meta-key">주제</span><span class="meta-val">{{ delimit . ", " }}</span></div>{{ end }}
+      </div>
+    </div>
   </div>
 
-  <div class="badges">
-    {{- range .Params.themes }}<span class="badge">#{{ . }}</span>{{ end }}
-    {{- if eq .Params.copyright "public" }}<span class="badge gold">원문 공개(저작권 만료)</span>{{ end }}
+  {{- if or .Params.original .Params.original_source }}
+  <div class="block-label">원문{{ if .Params.original_source }} · 현대어 풀이{{ end }}</div>
+  <div class="original-box">
+    {{- if .Params.original_source }}
+    <div class="original-tabs">
+      <button class="orig-tab active" onclick="rmTab(this,'modern')">현대어 풀이</button>
+      <button class="orig-tab" onclick="rmTab(this,'source')">원문</button>
+    </div>
+    <div class="orig-content active" data-tab="modern"><pre class="poem">{{ .Params.original }}</pre></div>
+    <div class="orig-content" data-tab="source"><pre class="poem">{{ .Params.original_source }}</pre></div>
+    {{- else }}
+    <div class="orig-content active"><pre class="poem">{{ .Params.original }}</pre></div>
+    {{- end }}
   </div>
-
-  {{- with .Params.original }}
-  <pre class="poem">{{ . }}</pre>
   {{- end }}
 
   {{- with .Params.appearances }}
+  <div class="block-label">수능·내신 출제 이력</div>
   <div class="exam-box">
-    <h4>📌 출제 이력</h4>
-    <div class="badges">
-      {{- range . }}<a class="badge gold" href="{{ (printf "/appearances/%s/" (urlize .)) | relURL }}">{{ . }}</a>{{ end }}
+    <div class="exam-header"><span class="exam-header-text">출제 기록</span></div>
+    <div class="exam-body">
+      <div class="exam-badges">
+        {{- range . }}<a class="exam-badge" href="{{ (printf "/appearances/%s/" (urlize .)) | relURL }}">{{ . }}</a>{{ end }}
+      </div>
     </div>
   </div>
   {{- end }}
 
-  <div class="content">
-    {{ .Content }}
-  </div>
+  {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
 
-  {{- with .Params.authors }}{{ $a := index . 0 }}
-  <p style="margin-top:2rem"><a href="{{ (printf "/authors/%s/" (urlize $a)) | relURL }}">→ {{ $a }}의 다른 작품 보기</a></p>
+  {{- with .Params.keywords }}
+  <div class="block-label">핵심 키워드</div>
+  <div class="keyword-cloud">{{ range . }}<span class="keyword">{{ . }}</span>{{ end }}</div>
   {{- end }}
+
+  {{- $genre := "" }}{{ with .Params.genres }}{{ $genre = index . 0 }}{{ end }}
+  {{- $self := .Permalink }}
+  {{- $rel := slice }}
+  {{- if $genre }}{{ range first 8 (where (where site.RegularPages "Section" "literature") ".Params.genres" "intersect" (slice $genre)) }}{{ if ne .Permalink $self }}{{ $rel = $rel | append . }}{{ end }}{{ end }}{{ end }}
+  {{- with $rel }}
+  <div class="related-section">
+    <div class="related-label">같은 갈래의 다른 작품</div>
+    <div class="works-grid">
+      {{- range first 6 . }}
+      <a class="work-card" href="{{ .RelPermalink }}">
+        <div class="wc-num">{{ with .Params.form }}{{ . }}{{ else }}{{ $genre }}{{ end }}</div>
+        <div class="wc-title">{{ .Title }}</div>
+        <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+
 </article>
+</div>
+
+<script>
+function rmTab(btn, name){
+  document.querySelectorAll('.orig-tab').forEach(t=>t.classList.remove('active'));
+  document.querySelectorAll('.orig-content').forEach(c=>c.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelector('.orig-content[data-tab="'+name+'"]').classList.add('active');
+}
+</script>
 {{ end }}

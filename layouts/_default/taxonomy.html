@@ -1,28 +1,28 @@
 {{ define "main" }}
-<h1 class="serif">{{ .Title }}</h1>
-{{- with .Data.Terms }}
-<p>{{ $.Data.Singular }} 분류 — 총 {{ len . }}개</p>
-<div class="grid">
-  {{- range .Alphabetical }}
-  <a class="card" href="{{ .Page.RelPermalink }}">
-    <h3>{{ .Page.Title }}</h3>
-    <span class="count">{{ .Count }}개 작품</span>
-  </a>
+<div class="wrap">
+  <div class="page-header"><h1>{{ .Title }}</h1></div>
+  {{- with .Data.Terms }}
+  <p style="color:var(--ink-soft);font-size:13px;margin-bottom:20px">총 {{ len . }}개</p>
+  <div class="term-grid">
+    {{- range .Alphabetical }}
+    <a class="term-card" href="{{ .Page.RelPermalink }}">
+      <h3>{{ .Page.Title }}</h3>
+      <span class="count">{{ .Count }}편</span>
+    </a>
+    {{- end }}
+  </div>
+  {{- else }}
+  <p style="color:var(--ink-soft);font-size:13px;margin-bottom:20px">{{ len .Pages }}편</p>
+  <div class="works-grid">
+    {{- range .Pages.ByTitle }}
+    <a class="work-card" href="{{ .RelPermalink }}">
+      <div class="wc-num">{{ with .Params.genres }}{{ index . 0 }}{{ else }}{{ with .Params.category }}{{ . }}{{ end }}{{ end }}</div>
+      <div class="wc-title">{{ .Title }}</div>
+      <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
+      <div class="work-tags">{{ range first 3 .Params.themes }}<span class="work-tag">{{ . }}</span>{{ end }}</div>
+    </a>
+    {{- end }}
+  </div>
   {{- end }}
 </div>
-{{- else }}
-<p>{{ len .Pages }}개</p>
-<table class="work-list">
-  <thead><tr><th>작품</th><th>갈래</th><th>작가</th></tr></thead>
-  <tbody>
-  {{- range .Pages.ByTitle }}
-    <tr onclick="location.href='{{ .RelPermalink }}'" style="cursor:pointer">
-      <td><b>{{ .Title }}</b></td>
-      <td>{{ with .Params.genres }}{{ delimit . ", " }}{{ else }}{{ with .Params.category }}{{ . }}{{ end }}{{ end }}</td>
-      <td>{{ with .Params.authors }}{{ delimit . ", " }}{{ end }}</td>
-    </tr>
-  {{- end }}
-  </tbody>
-</table>
-{{- end }}
 {{ end }}

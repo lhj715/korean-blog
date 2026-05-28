@@ -1,33 +1,32 @@
 {{ define "main" }}
-<h1 class="serif">{{ .Title }}</h1>
-{{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
-{{ .Content }}
+<div class="wrap">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+  </div>
+  {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
 
-{{- $sections := .Sections }}
-{{- if $sections }}
-<div class="grid">
-  {{- range $sections }}
-  <a class="card" href="{{ .RelPermalink }}">
-    <h3>{{ .Title }}</h3>
-    <span class="count">{{ len .RegularPagesRecursive }}개</span>
-  </a>
+  {{- with .Sections }}
+  <div class="term-grid">
+    {{- range . }}
+    <a class="term-card" href="{{ .RelPermalink }}">
+      <h3>{{ .Title }}</h3>
+      <span class="count">{{ len .RegularPagesRecursive }}편</span>
+    </a>
+    {{- end }}
+  </div>
+  {{- end }}
+
+  {{- with .RegularPages }}
+  <div class="works-grid" style="margin-top:20px">
+    {{- range .ByTitle }}
+    <a class="work-card" href="{{ .RelPermalink }}">
+      <div class="wc-num">{{ with .Params.category }}{{ . }}{{ else }}{{ with .Params.genres }}{{ index . 0 }}{{ end }}{{ end }}</div>
+      <div class="wc-title">{{ .Title }}</div>
+      <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
+    </a>
+    {{- end }}
+  </div>
   {{- end }}
 </div>
-{{- end }}
-
-{{- $pages := .RegularPages }}
-{{- if $pages }}
-<table class="work-list">
-  <thead><tr><th>제목</th><th>분류</th><th>작가</th></tr></thead>
-  <tbody>
-  {{- range $pages }}
-    <tr onclick="location.href='{{ .RelPermalink }}'" style="cursor:pointer">
-      <td>{{ .Title }}</td>
-      <td>{{ with .Params.genre }}{{ . }}{{ else }}{{ with .Params.category }}{{ . }}{{ end }}{{ end }}</td>
-      <td>{{ with .Params.author }}{{ . }}{{ end }}</td>
-    </tr>
-  {{- end }}
-  </tbody>
-</table>
-{{- end }}
 {{ end }}

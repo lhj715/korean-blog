@@ -1,24 +1,25 @@
 {{ define "main" }}
-<h1 class="serif">{{ .Title }}</h1>
-{{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+<div class="wrap">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+  </div>
 
-<div class="badges">
-  {{- range $g := slice "고전시가" "현대시" "고전산문" "현대소설" "극" "수필" }}
-    <a class="badge" href="{{ (printf "/genres/%s/" (urlize $g)) | relURL }}">{{ $g }}</a>
-  {{- end }}
+  <div class="work-tags" style="margin-bottom:28px">
+    {{- range $g := slice "고전시가" "현대시" "고전산문" "현대소설" "극" "수필" }}
+      <a class="work-tag" href="{{ (printf "/genres/%s/" (urlize $g)) | relURL }}">{{ $g }}</a>
+    {{- end }}
+  </div>
+
+  <div class="works-grid">
+    {{- range .RegularPagesRecursive.ByTitle }}
+    <a class="work-card" href="{{ .RelPermalink }}">
+      <div class="wc-num">{{ with .Params.genres }}{{ index . 0 }}{{ end }}{{ with .Params.eras }} · {{ index . 0 }}{{ end }}</div>
+      <div class="wc-title">{{ .Title }}</div>
+      <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
+      <div class="work-tags">{{ range first 3 .Params.themes }}<span class="work-tag">{{ . }}</span>{{ end }}</div>
+    </a>
+    {{- end }}
+  </div>
 </div>
-
-<table class="work-list">
-  <thead><tr><th>작품</th><th>갈래</th><th>작가</th><th>시대</th></tr></thead>
-  <tbody>
-  {{- range (.RegularPagesRecursive.ByTitle) }}
-    <tr onclick="location.href='{{ .RelPermalink }}'" style="cursor:pointer">
-      <td><b>{{ .Title }}</b></td>
-      <td>{{ delimit .Params.genres ", " }}</td>
-      <td>{{ delimit .Params.authors ", " }}</td>
-      <td>{{ delimit .Params.eras ", " }}</td>
-    </tr>
-  {{- end }}
-  </tbody>
-</table>
 {{ end }}
