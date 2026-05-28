@@ -14,7 +14,7 @@
         {{- range .Params.authors }}<span class="pill">{{ . }}</span>{{ end }}
         {{- with .Params.year_approx }}<span class="pill">{{ . }}</span>{{ end }}
         {{- with .Params.source }}<span class="pill">{{ . }}</span>{{ end }}
-        {{- if eq .Params.copyright "public" }}<span class="pill">원문 공개</span>{{ end }}
+        {{- if and .Params.original (eq .Params.copyright "public") }}<span class="pill">원문 공개</span>{{ end }}
       </div>
       {{- with .Params.summary }}<p class="work-summary">{{ . }}</p>{{ end }}
     </div>
