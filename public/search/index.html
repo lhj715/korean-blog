@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>검색 · 독서지도 · readingmap.kr</title>
+  <meta name="description" content="고1~고3 국어 학습 아카이브 — 문학 작품·문법·수능 기출 자료실">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="/css/main.min.271522730214bc35213b7f2fbf7efcf93bc492e931e8e0a5a241bb8452bbbe81.css">
+    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="독서지도 · readingmap.kr">
+</head>
+<body><header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">
+      독서지도 · readingmap.kr
+      <small>문학 · 문법 · 기출을 한 장의 지도로</small>
+    </a>
+    <nav class="nav">
+        <a href="/literature/">문학</a>
+        <a href="/grammar/">문법</a>
+        <a href="/exams/">기출</a>
+        <a href="/authors/">작가</a>
+        <a href="/search/">검색</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+<h1 class="serif">검색</h1>
+<input id="q" type="search" placeholder="작품·작가·문법·기출 검색…"
+  style="width:100%;max-width:520px;padding:.7rem 1rem;font-size:1rem;border:1px solid var(--paper-line);border-radius:8px;margin:.6rem 0 1rem">
+<div id="results"></div>
+<script>
+const sectionLabel = {literature:"문학", grammar:"문법", exams:"기출"};
+let DATA = [];
+fetch("\/index.json").then(r=>r.json()).then(d=>{DATA=d;render("")});
+const $q = document.getElementById("q"), $r = document.getElementById("results");
+$q.addEventListener("input", e=>render(e.target.value.trim()));
+function render(term){
+  const t = term.toLowerCase();
+  const hits = !t ? DATA : DATA.filter(x =>
+    (x.title+x.author+x.genre+x.summary).toLowerCase().includes(t));
+  $r.innerHTML = "<table class='work-list'><tbody>" + hits.map(x =>
+    `<tr onclick="location.href='${x.url}'" style="cursor:pointer">
+       <td><b>${x.title}</b> <span class="badge">${sectionLabel[x.section]||x.section}</span></td>
+       <td>${x.author||""}</td><td>${x.genre||""}</td></tr>`).join("") +
+    "</tbody></table>" + (hits.length?"":"<p>결과가 없습니다.</p>");
+}
+</script>
+</main><footer class="site-footer">
+  <div class="wrap">
+    <p>독서지도 · readingmap.kr · 고1~고3 국어 학습 아카이브<br>
+    문학 작품·문법·수능 기출 · © 2026 readingmap.kr</p>
+  </div>
+</footer>
+</body>
+</html>

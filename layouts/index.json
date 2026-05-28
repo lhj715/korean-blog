@@ -1,0 +1,12 @@
+{{- $list := slice -}}
+{{- range where site.RegularPages "Section" "in" (slice "literature" "grammar" "exams") -}}
+  {{- $list = $list | append (dict
+      "title" .Title
+      "url" .RelPermalink
+      "section" .Section
+      "genre" (delimit .Params.genres " ")
+      "author" (delimit .Params.authors " ")
+      "summary" (or .Params.summary "")
+  ) -}}
+{{- end -}}
+{{- $list | jsonify -}}
