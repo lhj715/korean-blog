@@ -23,7 +23,7 @@
     <a class="work-card" href="{{ .RelPermalink }}">
       <div class="wc-num">{{ with .Params.category }}{{ . }}{{ else }}{{ with .Params.genres }}{{ index . 0 }}{{ end }}{{ end }}</div>
       <div class="wc-title">{{ .Title }}</div>
-      <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
+      <div class="wc-author">{{ with .Params.authors }}{{ delimit . " · " }}{{ else }}{{ with .Params.summary }}{{ . | truncate 40 }}{{ end }}{{ end }}</div>
     </a>
     {{- end }}
   </div>

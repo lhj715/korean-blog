@@ -1,16 +1,15 @@
 {{ define "main" }}
-<article class="work">
-  <h1>{{ .Title }}</h1>
-  <div class="work-meta">
-    {{ with .Params.category }}<b>{{ . }}</b>{{ end }}
-    {{ with .Params.author }} · {{ . }}{{ end }}
-    {{ with .Date }}{{ if not .IsZero }} · {{ .Format "2006-01-02" }}{{ end }}{{ end }}
+<div class="wrap">
+<article>
+  <div class="page-header">
+    <div class="work-kicker">{{ with .Params.category }}{{ . }}{{ end }}</div>
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.summary }}<p>{{ . }}</p>{{ end }}
   </div>
-  <div class="badges">
-    {{- range .Params.keywords }}<span class="badge">#{{ . }}</span>{{ end }}
-  </div>
-  <div class="content">
-    {{ .Content }}
-  </div>
+  {{- with .Params.keywords }}
+  <div class="keyword-cloud">{{ range . }}<span class="keyword">{{ . }}</span>{{ end }}</div>
+  {{- end }}
+  <div class="prose">{{ .Content }}</div>
 </article>
+</div>
 {{ end }}

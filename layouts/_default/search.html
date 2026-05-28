@@ -1,8 +1,9 @@
 {{ define "main" }}
-<h1 class="serif">검색</h1>
-<input id="q" type="search" placeholder="작품·작가·문법·기출 검색…"
-  style="width:100%;max-width:520px;padding:.7rem 1rem;font-size:1rem;border:1px solid var(--paper-line);border-radius:8px;margin:.6rem 0 1rem">
-<div id="results"></div>
+<div class="wrap">
+  <div class="page-header"><h1>검색</h1></div>
+  <input id="q" type="search" placeholder="작품·작가·문법·기출 검색…" autocomplete="off">
+  <div id="results"></div>
+</div>
 <script>
 const sectionLabel = {literature:"문학", grammar:"문법", exams:"기출"};
 let DATA = [];
@@ -11,13 +12,12 @@ const $q = document.getElementById("q"), $r = document.getElementById("results")
 $q.addEventListener("input", e=>render(e.target.value.trim()));
 function render(term){
   const t = term.toLowerCase();
-  const hits = !t ? DATA : DATA.filter(x =>
-    (x.title+x.author+x.genre+x.summary).toLowerCase().includes(t));
-  $r.innerHTML = "<table class='work-list'><tbody>" + hits.map(x =>
-    `<tr onclick="location.href='${x.url}'" style="cursor:pointer">
-       <td><b>${x.title}</b> <span class="badge">${sectionLabel[x.section]||x.section}</span></td>
+  const hits = !t ? DATA : DATA.filter(x => (x.title+x.author+x.genre+x.summary).toLowerCase().includes(t));
+  $r.innerHTML = "<table class='search-list'><tbody>" + hits.map(x =>
+    `<tr onclick="location.href='${x.url}'">
+       <td><b>${x.title}</b> <span class="work-tag">${sectionLabel[x.section]||x.section}</span></td>
        <td>${x.author||""}</td><td>${x.genre||""}</td></tr>`).join("") +
-    "</tbody></table>" + (hits.length?"":"<p>결과가 없습니다.</p>");
+    "</tbody></table>" + (hits.length?"":"<p style='color:var(--ink-soft)'>결과가 없습니다.</p>");
 }
 </script>
 {{ end }}
