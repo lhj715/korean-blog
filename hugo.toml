@@ -1,72 +1,60 @@
 baseURL = 'https://readingmap.kr/'
 languageCode = 'ko-kr'
-title = 'readingmap.kr'
-theme = 'PaperMod'
-
+title = '독서지도 · readingmap.kr'
 defaultContentLanguage = 'ko'
-enableRobotsTXT = true
-enableEmoji = true
 hasCJKLanguage = true
+enableEmoji = true
+enableRobotsTXT = true
+summaryLength = 30
+
+[pagination]
+  pagerSize = 24
+
+# 다축 분류 — 작품 하나를 갈래·작가·시대·학년·출제이력으로 동시 태깅
+[taxonomies]
+  genre = 'genres'
+  author = 'authors'
+  era = 'eras'
+  grade = 'grades'
+  appearance = 'appearances'
 
 [params]
-  env = 'production'
-  defaultTheme = 'auto'
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
-  ShowToc = true
-  TocOpen = false
-  ShowFullTextinRSS = false
-  description = "고등학교 국어교사가 운영하는 수능 기출 해설·작품 정리·수업 자료 아카이브"
-  keywords = ["수능 국어", "기출 해설", "고등 국어", "문학 작품", "EBS 수능특강"]
+  description = "고1~고3 국어 학습 아카이브 — 문학 작품·문법·수능 기출 자료실"
+  subtitle = "문학 · 문법 · 기출을 한 장의 지도로"
 
-[params.homeInfoParams]
-  Title = "수능 국어를 지도처럼 읽다"
-  Content = "고등학교 국어교사가 운영하는 **기출 해설 · 작품 정리 · 수업 자료** 아카이브"
-
-[params.assets]
-  disableHLJS = false
-  favicon = "/favicon.ico"
-
+# 상위 메뉴
 [[menu.main]]
-  identifier = "기출"
-  name = "기출"
-  url = "/categories/기출/"
+  name = '문학'
+  url = '/literature/'
   weight = 10
-
 [[menu.main]]
-  identifier = "작품"
-  name = "작품"
-  url = "/categories/작품/"
+  name = '문법'
+  url = '/grammar/'
   weight = 20
-
 [[menu.main]]
-  identifier = "수업"
-  name = "수업"
-  url = "/categories/수업/"
+  name = '기출'
+  url = '/exams/'
   weight = 30
-
 [[menu.main]]
-  identifier = "태그"
-  name = "태그"
-  url = "/tags/"
+  name = '작가'
+  url = '/authors/'
   weight = 40
-
 [[menu.main]]
-  identifier = "검색"
-  name = "검색"
-  url = "/search/"
+  name = '검색'
+  url = '/search/'
   weight = 50
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 4
+    endLevel = 3
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[outputFormats.JSON]
+  mediaType = 'application/json'
+  baseName = 'index'
+  isPlainText = true
