@@ -47,6 +47,27 @@
   </div>
   {{- end }}
 
+  {{- with .Params.structure }}
+  <div class="block-label">시상 구조</div>
+  <div class="structure-grid">
+    {{- range . }}
+    <div class="structure-cell">
+      <div class="structure-num">{{ .lines }}</div>
+      {{ with .stage }}<span class="structure-stage">{{ . }}</span>{{ end }}
+      <div class="structure-name">{{ .label }}</div>
+      <div class="structure-desc">{{ .desc }}</div>
+    </div>
+    {{- end }}
+  </div>
+  {{- end }}
+
+  {{- with .Params.textbooks }}
+  <div class="block-label">교과서 수록</div>
+  <div class="textbook-row">
+    {{- range . }}<span class="textbook-chip">{{ . }}</span>{{ end }}
+  </div>
+  {{- end }}
+
   {{- with .Params.appearances }}
   <div class="block-label">수능·내신 출제 이력</div>
   <div class="exam-box">
