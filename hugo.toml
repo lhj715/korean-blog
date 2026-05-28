@@ -1,6 +1,9 @@
 baseURL = 'https://readingmap.kr/'
-languageCode = 'ko-kr'
 title = '독서지도 · readingmap.kr'
+
+[languages.ko]
+  languageName = '한국어'
+  locale = 'ko_KR'
 defaultContentLanguage = 'ko'
 hasCJKLanguage = true
 enableEmoji = true

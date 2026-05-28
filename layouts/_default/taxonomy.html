@@ -1,12 +1,28 @@
 {{ define "main" }}
 <h1 class="serif">{{ .Title }}</h1>
-<p>{{ .Data.Singular }} 분류 — 총 {{ len .Data.Terms }}개</p>
+{{- with .Data.Terms }}
+<p>{{ $.Data.Singular }} 분류 — 총 {{ len . }}개</p>
 <div class="grid">
-  {{- range .Data.Terms.Alphabetical }}
+  {{- range .Alphabetical }}
   <a class="card" href="{{ .Page.RelPermalink }}">
     <h3>{{ .Page.Title }}</h3>
     <span class="count">{{ .Count }}개 작품</span>
   </a>
   {{- end }}
 </div>
+{{- else }}
+<p>{{ len .Pages }}개</p>
+<table class="work-list">
+  <thead><tr><th>작품</th><th>갈래</th><th>작가</th></tr></thead>
+  <tbody>
+  {{- range .Pages.ByTitle }}
+    <tr onclick="location.href='{{ .RelPermalink }}'" style="cursor:pointer">
+      <td><b>{{ .Title }}</b></td>
+      <td>{{ with .Params.genres }}{{ delimit . ", " }}{{ else }}{{ with .Params.category }}{{ . }}{{ end }}{{ end }}</td>
+      <td>{{ with .Params.authors }}{{ delimit . ", " }}{{ end }}</td>
+    </tr>
+  {{- end }}
+  </tbody>
+</table>
+{{- end }}
 {{ end }}

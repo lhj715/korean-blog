@@ -1,11 +1,13 @@
 {{- $list := slice -}}
 {{- range where site.RegularPages "Section" "in" (slice "literature" "grammar" "exams") -}}
+  {{- $genre := "" -}}{{- with .Params.genres }}{{ $genre = delimit . " " }}{{ end -}}
+  {{- $author := "" -}}{{- with .Params.authors }}{{ $author = delimit . " " }}{{ end -}}
   {{- $list = $list | append (dict
       "title" .Title
       "url" .RelPermalink
       "section" .Section
-      "genre" (delimit .Params.genres " ")
-      "author" (delimit .Params.authors " ")
+      "genre" $genre
+      "author" $author
       "summary" (or .Params.summary "")
   ) -}}
 {{- end -}}
