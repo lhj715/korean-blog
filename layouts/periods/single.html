@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <div class="breadcrumb__inner">
+    <a href="/">홈</a><span class="sep">›</span>
+    <span>{{ .Title }}</span>
+  </div>
+</div>
+<main class="main-wrap">
+  <div class="page-header">
+    <div class="page-header__eyebrow">시대 / Period</div>
+    <h1 class="page-header__title">{{ .Title }}</h1>
+    <div class="page-header__meta">
+      <span>{{ .Params.period_start | default "?" }} – {{ .Params.period_end | default "현재" }}</span>
+    </div>
+    <p class="page-header__desc">{{ .Params.summary }}</p>
+  </div>
+
+  {{ if .Params.literary_features }}
+  <div class="info-box info-box--accent">
+    <div class="info-box__title">문학적 특징</div>
+    <ul>{{ range .Params.literary_features }}<li>{{ . }}</li>{{ end }}</ul>
+  </div>
+  {{ end }}
+
+  {{ if .Params.exam_points }}
+  <div class="info-box info-box--gold">
+    <div class="info-box__title">📌 수능 출제 포인트</div>
+    <ul>{{ range .Params.exam_points }}<li>{{ . }}</li>{{ end }}</ul>
+  </div>
+  {{ end }}
+
+  <h2 class="section-title">이 시대의 장르</h2>
+  {{ $t := .Title }}
+  {{ $genres := where .Site.Pages "Section" "genres" }}
+  {{ $mine := sort (where $genres "Params.period" $t) "Params.order" }}
+  <div class="genre-grid">
+    {{ range $mine }}
+    <article class="genre-card">
+      <div class="genre-card__label">{{ .Params.era_range }}</div>
+      <h3 class="genre-card__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <p class="genre-card__desc">{{ .Params.description | truncate 80 }}</p>
+      {{ $gname := .Title }}
+      {{ $works := where $.Site.Pages "Section" "works" }}
+      {{ $wcount := len (where $works "Params.genre" $gname) }}
+      <div class="genre-card__count">작품 {{ $wcount }}편</div>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ .Content }}
+</main>
+{{ end }}

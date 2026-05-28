@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <div class="breadcrumb__inner">
+    <a href="/">홈</a><span class="sep">›</span>
+    <span>{{ .Title }}</span>
+  </div>
+</div>
+<main class="main-wrap">
+  <div class="page-header">
+    <h1 class="page-header__title">{{ .Title }}</h1>
+  </div>
+  <ol class="work-list">
+    {{ range .Pages }}
+    <li class="work-item">
+      <div class="work-item__body">
+        <div class="work-item__title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        <div class="work-item__meta">
+          {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+          {{ with .Params.era_range }}<span>{{ . }}</span>{{ end }}
+          {{ with .Params.period }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </div>
+    </li>
+    {{ end }}
+  </ol>
+</main>
+{{ end }}

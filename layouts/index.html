@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main class="main-wrap">
+  <div class="page-header">
+    <div class="page-header__eyebrow">Korean Literature Timeline</div>
+    <h1 class="page-header__title">한국 문학 연표</h1>
+    <p class="page-header__desc">고대부터 현대까지, 수능·내신에 필요한 모든 작품을 시대·장르·작품 순서로 탐색하세요.</p>
+  </div>
+
+  <div class="timeline">
+    {{ $periods := where .Site.Pages "Section" "periods" }}
+    {{ range sort $periods "Params.order" }}
+    <article class="period-card">
+      <div class="period-card__era">{{ .Params.period_start | default "?" }} – {{ .Params.period_end | default "현재" }}</div>
+      <h2 class="period-card__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p class="period-card__summary">{{ .Params.summary }}</p>
+      <div class="period-card__genres">
+        {{ $t := .Title }}
+        {{ $genres := where $.Site.Pages "Section" "genres" }}
+        {{ range sort (where $genres "Params.period" $t) "Params.order" }}
+          <a class="chip" href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

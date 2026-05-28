@@ -1,0 +1,72 @@
+{{ define "main" }}
+{{ $period := .Params.period }}
+{{ $genre := .Params.genre }}
+{{ $periodPage := "" }}
+{{ $genrePage := "" }}
+{{ range where .Site.Pages "Section" "periods" }}
+  {{ if eq .Title $period }}{{ $periodPage = . }}{{ end }}
+{{ end }}
+{{ range where .Site.Pages "Section" "genres" }}
+  {{ if eq .Title $genre }}{{ $genrePage = . }}{{ end }}
+{{ end }}
+<div class="breadcrumb">
+  <div class="breadcrumb__inner">
+    <a href="/">홈</a><span class="sep">›</span>
+    {{ if $periodPage }}<a href="{{ $periodPage.Permalink }}">{{ $period }}</a><span class="sep">›</span>{{ end }}
+    {{ if $genrePage }}<a href="{{ $genrePage.Permalink }}">{{ $genre }}</a><span class="sep">›</span>{{ end }}
+    <span>{{ .Title }}</span>
+  </div>
+</div>
+<main class="main-wrap">
+  <div class="page-header">
+    <div class="page-header__eyebrow">작품 / Work</div>
+    <h1 class="page-header__title">{{ .Title }}</h1>
+    <div class="page-header__meta">
+      {{ with .Params.author }}<span>작자: {{ . }}</span>{{ end }}
+      {{ with .Params.year_approx }}<span>{{ . }}</span>{{ end }}
+      {{ with .Params.source }}<span>출처: {{ . }}</span>{{ end }}
+      {{ with .Params.form }}<span>형식: {{ . }}</span>{{ end }}
+    </div>
+    {{ with .Params.summary }}<p class="page-header__desc">{{ . }}</p>{{ end }}
+  </div>
+
+  {{ if .Params.original_text }}
+  <div class="original-text">
+    <div class="original-text__label">원문</div>
+    {{ .Params.original_text }}
+  </div>
+  {{ end }}
+
+  {{ if .Params.modern_translation }}
+  <div class="translation-text">
+    <div class="translation-text__label">현대어 풀이</div>
+    {{ .Params.modern_translation }}
+  </div>
+  {{ end }}
+
+  {{ if .Params.features }}
+  <div class="info-box info-box--accent">
+    <div class="info-box__title">작품 특징</div>
+    <ul>{{ range .Params.features }}<li>{{ . }}</li>{{ end }}</ul>
+  </div>
+  {{ end }}
+
+  {{ if .Params.exam_points }}
+  <div class="info-box info-box--gold">
+    <div class="info-box__title">📌 수능 출제 포인트</div>
+    <ul>{{ range .Params.exam_points }}<li>{{ . }}</li>{{ end }}</ul>
+  </div>
+  {{ end }}
+
+  {{ if .Params.keywords }}
+  <h2 class="section-title">핵심 키워드</h2>
+  <div class="keywords">
+    {{ range .Params.keywords }}<span class="chip chip--gold">{{ . }}</span>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ if .Content }}
+  <div style="margin-top:2rem">{{ .Content }}</div>
+  {{ end }}
+</main>
+{{ end }}

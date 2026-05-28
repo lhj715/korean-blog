@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $period := .Params.period }}
+{{ $periodPage := "" }}
+{{ range where .Site.Pages "Section" "periods" }}
+  {{ if eq .Title $period }}{{ $periodPage = . }}{{ end }}
+{{ end }}
+<div class="breadcrumb">
+  <div class="breadcrumb__inner">
+    <a href="/">홈</a><span class="sep">›</span>
+    {{ if $periodPage }}<a href="{{ $periodPage.Permalink }}">{{ $period }}</a><span class="sep">›</span>{{ end }}
+    <span>{{ .Title }}</span>
+  </div>
+</div>
+<main class="main-wrap">
+  <div class="page-header">
+    <div class="page-header__eyebrow">장르 / Genre · {{ .Params.era_range }}</div>
+    <h1 class="page-header__title">{{ .Title }}</h1>
+    <div class="page-header__meta">
+      <span>시대: {{ $period }}</span>
+    </div>
+    <p class="page-header__desc">{{ .Params.description }}</p>
+  </div>
+
+  {{ if .Params.features }}
+  <div class="info-box info-box--accent">
+    <div class="info-box__title">장르적 특징</div>
+    <ul>{{ range .Params.features }}<li>{{ . }}</li>{{ end }}</ul>
+  </div>
+  {{ end }}
+
+  {{ if .Params.exam_points }}
+  <div class="info-box info-box--gold">
+    <div class="info-box__title">📌 수능 출제 포인트</div>
+    <ul>{{ range .Params.exam_points }}<li>{{ . }}</li>{{ end }}</ul>
+  </div>
+  {{ end }}
+
+  <h2 class="section-title">수록 작품</h2>
+  {{ $gname := .Title }}
+  {{ $works := where .Site.Pages "Section" "works" }}
+  {{ $mine := sort (where $works "Params.genre" $gname) "Params.order" }}
+  <ol class="work-list">
+    {{ range $i, $w := $mine }}
+    <li class="work-item">
+      <span class="work-item__order">{{ add $i 1 }}</span>
+      <div class="work-item__body">
+        <div class="work-item__title"><a href="{{ $w.Permalink }}">{{ $w.Title }}</a></div>
+        <div class="work-item__meta">
+          {{ with $w.Params.author }}<span>작자: {{ . }}</span>{{ end }}
+          {{ with $w.Params.year_approx }}<span>{{ . }}</span>{{ end }}
+          {{ with $w.Params.source }}<span>출처: {{ . }}</span>{{ end }}
+        </div>
+      </div>
+    </li>
+    {{ end }}
+  </ol>
+
+  {{ .Content }}
+</main>
+{{ end }}

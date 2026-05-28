@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <div class="breadcrumb__inner">
+    <a href="/">홈</a><span class="sep">›</span>
+    <span>{{ .Title }}</span>
+  </div>
+</div>
+<main class="main-wrap">
+  <div class="page-header">
+    <h1 class="page-header__title">{{ .Title }}</h1>
+  </div>
+  <div>{{ .Content }}</div>
+</main>
+{{ end }}
