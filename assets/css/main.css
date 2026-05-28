@@ -135,15 +135,22 @@ a:hover{text-decoration:underline}
 .exam-badge{font-size:12px;padding:5px 12px;background:#fff;border:1px solid #e8d9b8;border-radius:2px;color:#7a5a06}
 .exam-badge:hover{background:var(--gold);color:#fff;text-decoration:none}
 
-/* 본문(해제/핵심정리 등) */
-.prose{font-size:15px;color:var(--ink-mid);line-height:1.9;margin-bottom:48px}
-.prose h2{font-family:'Noto Serif KR',serif;font-size:11px;font-weight:500;letter-spacing:.1em;
-  text-transform:uppercase;color:var(--ink-soft);margin:36px 0 14px;padding-bottom:8px;
-  border-bottom:1px solid var(--paper-line)}
-.prose h3{font-family:'Noto Serif KR',serif;font-size:17px;color:var(--ink);margin:24px 0 10px}
-.prose p{margin:0 0 14px}
-.prose ul,.prose ol{margin:0 0 16px;padding-left:22px}
-.prose li{margin:6px 0}
+/* 본문(해제/핵심정리/시어풀이 등) */
+.prose{font-size:16.5px;color:var(--ink-mid);line-height:2;margin-bottom:48px}
+.prose > h2:first-child{margin-top:0}
+.prose h2{font-family:'Noto Serif KR',serif;font-size:24px;font-weight:700;line-height:1.35;
+  color:var(--ink);margin:48px 0 18px;padding:10px 0 10px 18px;
+  border-left:5px solid var(--accent);background:linear-gradient(90deg,var(--accent-tint),transparent 70%)}
+.prose h3{font-family:'Noto Serif KR',serif;font-size:19px;font-weight:700;color:var(--accent);margin:30px 0 10px}
+.prose p{margin:0 0 18px;color:var(--ink-mid)}
+.prose ul,.prose ol{margin:0 0 20px;padding-left:8px;list-style:none}
+.prose ol{counter-reset:li}
+.prose li{margin:12px 0;padding:2px 0 2px 26px;position:relative}
+.prose ul li::before{content:'';position:absolute;left:6px;top:16px;width:8px;height:8px;
+  border-radius:50%;background:var(--accent-light)}
+.prose ol li::before{counter-increment:li;content:counter(li);position:absolute;left:0;top:3px;
+  width:20px;height:20px;border-radius:50%;background:var(--accent);color:#fff;
+  font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center}
 .prose blockquote{border-left:3px solid var(--accent-light);background:var(--paper-warm);
   padding:14px 18px;margin:16px 0;border-radius:0 4px 4px 0;color:var(--ink-mid)}
 .prose table{width:100%;border-collapse:collapse;margin:16px 0;font-size:14px}
