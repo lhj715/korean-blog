@@ -3,7 +3,6 @@ title: "자화상"
 authors: ["윤동주"]
 genres: ["현대시"]
 eras: ["근대"]
-grades: ["고2", "고3"]
 appearances: ["2016 수능", "2021 고3 9월 모평"]   # ※ 예시 데이터 — 실제 출제이력으로 교체 예정
 year_approx: "1939년 창작"
 form: "자유시 · 서정시"

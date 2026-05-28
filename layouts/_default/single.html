@@ -7,7 +7,6 @@
     {{ with .Date }}{{ if not .IsZero }} · {{ .Format "2006-01-02" }}{{ end }}{{ end }}
   </div>
   <div class="badges">
-    {{- range .Params.grades }}<span class="badge">{{ . }}</span>{{ end }}
     {{- range .Params.keywords }}<span class="badge">#{{ . }}</span>{{ end }}
   </div>
   <div class="content">

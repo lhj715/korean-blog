@@ -13,12 +13,11 @@ summaryLength = 30
 [pagination]
   pagerSize = 24
 
-# 다축 분류 — 작품 하나를 갈래·작가·시대·학년·출제이력으로 동시 태깅
+# 다축 분류 — 작품 하나를 갈래·작가·시대·출제이력으로 동시 태깅
 [taxonomies]
   genre = 'genres'
   author = 'authors'
   era = 'eras'
-  grade = 'grades'
   appearance = 'appearances'
 
 [params]
