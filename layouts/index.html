@@ -1,27 +1,54 @@
 {{ define "main" }}
 <section class="hero">
-  <h1>{{ .Site.Title }}</h1>
-  <p>{{ .Site.Params.subtitle }}</p>
+  <p class="hero-eyebrow">고1 · 고2 · 고3 국어 학습 아카이브</p>
+  <h1 class="hero-title">수능 국어를<br><em>지도</em>처럼 읽다</h1>
+  <p class="hero-sub">문학 작품 해설 · 문법 정리 · 기출 자료를 한곳에서.</p>
+  <div class="hero-actions">
+    <a class="btn" href="{{ "/literature/" | relURL }}">작품 둘러보기</a>
+    <a class="btn ghost" href="{{ "/search/" | relURL }}">검색</a>
+  </div>
 </section>
 
-<div class="grid">
-  {{- range slice "literature" "grammar" "exams" }}
-    {{- $s := site.GetPage (printf "/%s" .) }}
+<section class="pillars">
+  {{- $defs := dict
+      "literature" (dict "label" "문학" "desc" "고전시가부터 현대소설까지, 작품별 해설·핵심정리·출제이력")
+      "grammar"    (dict "label" "문법" "desc" "음운·단어·문장·어문규정·어휘를 체계별로 정리")
+      "exams"      (dict "label" "기출" "desc" "수능·모의평가·학력평가 문제와 해설 자료실") }}
+  {{- range $key := slice "literature" "grammar" "exams" }}
+    {{- $s := site.GetPage (printf "/%s" $key) }}
+    {{- $d := index $defs $key }}
     {{- if $s }}
-    <a class="card" href="{{ $s.RelPermalink }}">
-      <h3>{{ $s.Title }}</h3>
-      <p>{{ $s.Params.blurb }}</p>
-      <span class="count">{{ len $s.RegularPagesRecursive }}개 자료</span>
+    <a class="pillar" href="{{ $s.RelPermalink }}">
+      <div class="pillar-head"><h3>{{ $d.label }}</h3><span class="arrow">→</span></div>
+      <p>{{ $d.desc }}</p>
+      <span class="count">{{ len $s.RegularPagesRecursive }}편 수록</span>
     </a>
     {{- end }}
   {{- end }}
-</div>
+</section>
 
-<h2 class="serif">문학 — 이렇게도 찾아보세요</h2>
-<div class="grid">
-  <a class="card" href="{{ "/genres/" | relURL }}"><h3>갈래별</h3><p>고전시가·현대시·고전산문·현대소설·극·수필</p></a>
-  <a class="card" href="{{ "/authors/" | relURL }}"><h3>작가별</h3><p>작가 이름으로 작품 모아보기</p></a>
-  <a class="card" href="{{ "/eras/" | relURL }}"><h3>시대별</h3><p>고대 → 고려 → 조선 → 근대 → 현대 연표</p></a>
-  <a class="card" href="{{ "/grades/" | relURL }}"><h3>학년별</h3><p>고1·고2·고3 수준별</p></a>
-</div>
+<section class="axes-band">
+  <h2 class="band-title">다르게 찾아보기</h2>
+  <div class="axes-row">
+    <a href="{{ "/genres/" | relURL }}"><b>갈래</b><span>고전시가·현대시·소설…</span></a>
+    <a href="{{ "/authors/" | relURL }}"><b>작가</b><span>작가별 모아보기</span></a>
+    <a href="{{ "/eras/" | relURL }}"><b>시대</b><span>고대→현대 연표</span></a>
+    <a href="{{ "/grades/" | relURL }}"><b>학년</b><span>고1·고2·고3</span></a>
+  </div>
+</section>
+
+{{- $recent := first 6 (where site.RegularPages "Section" "literature") }}
+{{- with $recent }}
+<section class="recent">
+  <h2 class="band-title">수록 작품</h2>
+  <div class="recent-grid">
+    {{- range . }}
+    <a class="work-chip" href="{{ .RelPermalink }}">
+      <h4>{{ .Title }}</h4>
+      <span>{{ delimit .Params.authors " · " }}{{ with .Params.genres }} · {{ delimit . " · " }}{{ end }}</span>
+    </a>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
 {{ end }}
