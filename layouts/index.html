@@ -48,17 +48,17 @@
   </div>
 </section>
 
-{{- $recent := first 8 (where site.RegularPages "Section" "literature") }}
+{{- $lbl := dict "literature" "문학" "grammar" "문법" "exams" "기출" }}
+{{- $recent := first 8 (where site.RegularPages "Section" "in" (slice "literature" "grammar" "exams")) }}
 {{- with $recent }}
 <section class="home-section">
-  <div class="section-head"><h2>수록 작품</h2><span class="sub">최근 추가</span></div>
+  <div class="section-head"><h2>최근 추가된 자료</h2><span class="sub">문학 · 문법 · 기출</span></div>
   <div class="works-grid">
     {{- range . }}
     <a class="work-card" href="{{ .RelPermalink }}">
-      <div class="wc-num">{{ with .Params.genres }}{{ index . 0 }}{{ end }}</div>
+      <div class="wc-num">{{ index $lbl .Section }}{{ with .Params.genres }} · {{ index . 0 }}{{ end }}{{ with .Params.category }} · {{ . }}{{ end }}</div>
       <div class="wc-title">{{ .Title }}</div>
-      <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
-      <div class="work-tags">{{ range first 3 .Params.themes }}<span class="work-tag">{{ . }}</span>{{ end }}</div>
+      <div class="wc-author">{{ with .Params.authors }}{{ delimit . " · " }}{{ else }}{{ with .Params.summary }}{{ . | truncate 40 }}{{ end }}{{ end }}</div>
     </a>
     {{- end }}
   </div>
