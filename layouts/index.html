@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>{{ .Site.Title }}</h1>
+  <p>{{ .Site.Params.subtitle }}</p>
+</section>
+
+<div class="grid">
+  {{- range slice "literature" "grammar" "exams" }}
+    {{- $s := site.GetPage (printf "/%s" .) }}
+    {{- if $s }}
+    <a class="card" href="{{ $s.RelPermalink }}">
+      <h3>{{ $s.Title }}</h3>
+      <p>{{ $s.Params.blurb }}</p>
+      <span class="count">{{ len $s.RegularPagesRecursive }}개 자료</span>
+    </a>
+    {{- end }}
+  {{- end }}
+</div>
+
+<h2 class="serif">문학 — 이렇게도 찾아보세요</h2>
+<div class="grid">
+  <a class="card" href="{{ "/genres/" | relURL }}"><h3>갈래별</h3><p>고전시가·현대시·고전산문·현대소설·극·수필</p></a>
+  <a class="card" href="{{ "/authors/" | relURL }}"><h3>작가별</h3><p>작가 이름으로 작품 모아보기</p></a>
+  <a class="card" href="{{ "/eras/" | relURL }}"><h3>시대별</h3><p>고대 → 고려 → 조선 → 근대 → 현대 연표</p></a>
+  <a class="card" href="{{ "/grades/" | relURL }}"><h3>학년별</h3><p>고1·고2·고3 수준별</p></a>
+</div>
+{{ end }}
