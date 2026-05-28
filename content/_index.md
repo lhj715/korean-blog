@@ -1,3 +1,3 @@
 ---
-title: "독서지도 · readingmap.kr"
+title: "수능국어 리딩맵"
 ---
