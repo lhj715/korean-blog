@@ -3,6 +3,7 @@
   <div class="page-header">
     <h1>{{ .Title }}</h1>
     {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+    <p class="count" style="font-size:1.1rem;color:#8a6d3b;margin-top:8px"><strong>총 {{ len .RegularPagesRecursive }}편</strong> 수록</p>
   </div>
 
   <div class="work-tags" style="margin-bottom:28px">
