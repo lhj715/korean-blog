@@ -113,7 +113,7 @@ a:hover{text-decoration:underline}
   border-bottom:1px solid var(--paper-line)}
 .meta-row:last-child{border-bottom:none}
 .meta-key{color:var(--ink-soft);white-space:nowrap}
-.meta-val{color:var(--ink-mid);font-weight:500;text-align:right}
+.meta-val{color:var(--ink-mid);font-weight:500;text-align:left}
 
 /* 원문 박스 */
 .original-box{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;overflow:hidden;margin-bottom:48px}
