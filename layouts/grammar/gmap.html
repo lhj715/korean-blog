@@ -62,17 +62,27 @@
   var body=document.getElementById('mm-body'), title=document.getElementById('mm-title');
   var leaves=Array.prototype.slice.call(document.querySelectorAll('.leaf'));
   var current=null;
+  var TOPBAR=68; // 고정 상단바(56px) + 여백
+  function scrollToAnchor(anchor){
+    var el=body.querySelector('[id="'+anchor+'"]');
+    if(!el) return;
+    var y=el.getBoundingClientRect().top + window.pageYOffset - TOPBAR;
+    window.scrollTo({top: y<0?0:y, behavior:'smooth'});
+  }
   function show(slug, opts){
     opts=opts||{};
     if(!store[slug]) return;
-    if(current!==slug){
+    var changed = current!==slug;
+    if(changed){
       body.innerHTML=store[slug]; title.textContent=titles[slug]; current=slug;
       leaves.forEach(function(b){ b.classList.toggle('active', b.dataset.slug===slug); });
       if(history.replaceState) history.replaceState(null,'','#'+slug);
     }
     if(opts.anchor){
-      var el=body.querySelector('[id="'+opts.anchor+'"]');
-      if(el){ el.scrollIntoView({behavior:'smooth',block:'start'}); return; }
+      // 글이 바뀌었으면 레이아웃이 잡힌 다음 프레임에 정확한 위치로 스크롤
+      if(changed) requestAnimationFrame(function(){ requestAnimationFrame(function(){ scrollToAnchor(opts.anchor); }); });
+      else scrollToAnchor(opts.anchor);
+      return;
     }
     if(opts.scrollTop){
       if(window.innerWidth<=900) document.querySelector('.mm-detail').scrollIntoView({behavior:'smooth',block:'start'});
