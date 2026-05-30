@@ -6,6 +6,8 @@ units:
     slugs: [eumun-chegye, eumun-byeondong]
   - title: "2. 단어"
     slugs: [hyeongtaeso, daneo-hyeongseong, pumsa, uimi-gwangye]
+  - title: "2-1. 어휘"
+    slugs: [eohwi]
   - title: "3. 문장"
     slugs: [munjang-seongbun, munjang-jjaeim, munbeop-yoso]
   - title: "4. 담화"

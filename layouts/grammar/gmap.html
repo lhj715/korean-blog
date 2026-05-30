@@ -19,7 +19,16 @@
                 {{- range .slugs }}
                 {{- $p := site.GetPage (printf "/grammar/%s" .) }}
                 {{- with $p }}
-                <li><button type="button" class="node leaf" data-slug="{{ .File.BaseFileName }}">{{ .Title }}</button></li>
+                <li>
+                  <button type="button" class="node leaf" data-slug="{{ .File.BaseFileName }}">{{ .Title }}</button><!--frag:{{ len .Fragments.Headings }}-->
+                  {{- with .Fragments.Headings }}
+                  <div class="subs">
+                    {{- range . }}{{ range .Headings }}{{ if .Title }}
+                    <button type="button" class="node sub" data-slug="{{ $p.File.BaseFileName }}" data-anchor="{{ .ID }}">{{ .Title }}</button>
+                    {{- end }}{{ end }}{{ end }}
+                  </div>
+                  {{- end }}
+                </li>
                 {{- end }}
                 {{- end }}
               </ul>
@@ -52,27 +61,39 @@
   });
   var body=document.getElementById('mm-body'), title=document.getElementById('mm-title');
   var leaves=Array.prototype.slice.call(document.querySelectorAll('.leaf'));
-  function show(slug, scroll){
-    if(!store[slug])return;
-    body.innerHTML=store[slug];
-    title.textContent=titles[slug];
-    leaves.forEach(function(b){b.classList.toggle('active', b.dataset.slug===slug);});
-    if(history.replaceState) history.replaceState(null,'','#'+slug);
-    if(scroll && window.innerWidth<=900){
-      document.querySelector('.mm-detail').scrollIntoView({behavior:'smooth',block:'start'});
+  var current=null;
+  function show(slug, opts){
+    opts=opts||{};
+    if(!store[slug]) return;
+    if(current!==slug){
+      body.innerHTML=store[slug]; title.textContent=titles[slug]; current=slug;
+      leaves.forEach(function(b){ b.classList.toggle('active', b.dataset.slug===slug); });
+      if(history.replaceState) history.replaceState(null,'','#'+slug);
+    }
+    if(opts.anchor){
+      var el=body.querySelector('[id="'+opts.anchor+'"]');
+      if(el){ el.scrollIntoView({behavior:'smooth',block:'start'}); return; }
+    }
+    if(opts.scrollTop){
+      if(window.innerWidth<=900) document.querySelector('.mm-detail').scrollIntoView({behavior:'smooth',block:'start'});
+      else window.scrollTo({top:0,behavior:'smooth'});
     }
   }
-  leaves.forEach(function(b){ b.addEventListener('click', function(){ show(b.dataset.slug, true); }); });
-  // 패널 안의 다른 문법 글 링크도 새 창 대신 인라인으로
+  document.querySelectorAll('.leaf').forEach(function(b){
+    b.addEventListener('click', function(){ show(b.dataset.slug, {scrollTop:true}); });
+  });
+  document.querySelectorAll('.sub').forEach(function(b){
+    b.addEventListener('click', function(){ show(b.dataset.slug, {anchor:b.dataset.anchor}); });
+  });
   body.addEventListener('click', function(e){
     var a=e.target.closest('a'); if(!a) return;
     var href=a.getAttribute('href')||'';
-    if(/^https?:/.test(href)) return; // 외부 링크는 그대로
+    if(/^https?:/.test(href)) return;
     var seg=href.replace(/[\/#]+$/,'').split('/').pop();
-    if(store[seg]){ e.preventDefault(); show(seg,false); window.scrollTo({top:0,behavior:'smooth'}); }
+    if(store[seg]){ e.preventDefault(); show(seg,{scrollTop:true}); }
   });
   var hash=(location.hash||'').slice(1);
-  show(store[hash]?hash:(leaves[0]&&leaves[0].dataset.slug), false);
+  show(store[hash]?hash:(leaves[0]&&leaves[0].dataset.slug), {});
 })();
 </script>
 {{ end }}

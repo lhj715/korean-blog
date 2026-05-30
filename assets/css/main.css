@@ -249,6 +249,10 @@ a:hover{text-decoration:underline}
   background:#fff;border:1px solid var(--paper-line);border-radius:14px;padding:4px 12px;transition:.15s}
 .node.leaf:hover{border-color:var(--accent-light);background:var(--accent-tint)}
 .node.leaf.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+.subs{display:flex;flex-wrap:wrap;gap:4px;margin:5px 0 9px 6px}
+.node.sub{font-size:11.5px;color:var(--ink-soft);background:transparent;border:1px solid var(--paper-line);
+  border-radius:10px;padding:2px 9px;cursor:pointer;transition:.12s}
+.node.sub:hover{color:var(--accent);border-color:var(--accent-light);background:#fff}
 
 .mm-detail{min-width:0}
 .mm-title{font-family:'Noto Serif KR',serif;font-size:27px;font-weight:700;color:var(--ink);
