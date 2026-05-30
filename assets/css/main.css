@@ -125,6 +125,14 @@ a:hover{text-decoration:underline}
 .orig-content.active{display:block}
 .poem{font-family:'Noto Serif KR',serif;font-size:17px;line-height:2.3;color:var(--ink);
   letter-spacing:.02em;white-space:pre-wrap}
+.orig-lines{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;
+  padding:26px 30px;margin:8px 0 48px;display:flex;flex-direction:column;gap:18px}
+.orig-line{display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:start}
+.orig-original{display:flex;flex-direction:column;gap:4px}
+.orig-text{font-family:'Noto Serif KR',serif;font-size:18px;color:var(--ink);letter-spacing:.04em;line-height:1.6}
+.orig-sound{font-family:'Noto Serif KR',serif;font-size:14px;color:#1e6fbf;line-height:1.5;letter-spacing:.02em}
+.orig-modern{font-family:'Noto Serif KR',serif;font-size:16.5px;color:var(--ink-mid);line-height:1.7;padding-top:1px}
+@media (max-width:720px){.orig-line{grid-template-columns:1fr;gap:6px}.orig-modern{padding-top:8px;border-top:1px dashed var(--paper-line)}}
 
 /* 출제 포인트 */
 .exam-box{background:#fdf8f0;border:1px solid #e8d9b8;border-radius:4px;overflow:hidden;margin-bottom:48px}

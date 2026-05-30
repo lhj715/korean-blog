@@ -31,6 +31,20 @@
     </div>
   </div>
 
+  {{- with .Params.original_lines }}
+  <div class="block-label">원문</div>
+  <div class="orig-lines">
+    {{- range . }}
+    <div class="orig-line">
+      <div class="orig-original">
+        <div class="orig-text">{{ .text }}</div>
+        {{- with .sound }}<div class="orig-sound">{{ . }}</div>{{ end }}
+      </div>
+      {{- with .modern }}<div class="orig-modern">{{ . }}</div>{{ end }}
+    </div>
+    {{- end }}
+  </div>
+  {{- else }}
   {{- if or .Params.original .Params.original_source }}
   <div class="block-label">원문{{ if .Params.original_source }} · 현대어 풀이{{ end }}</div>
   <div class="original-box">
@@ -45,6 +59,7 @@
     <div class="orig-content active"><pre class="poem">{{ .Params.original }}</pre></div>
     {{- end }}
   </div>
+  {{- end }}
   {{- end }}
 
   {{- with .Params.structure }}
