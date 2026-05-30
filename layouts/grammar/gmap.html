@@ -103,7 +103,8 @@
     if(store[seg]){ e.preventDefault(); show(seg,{scrollTop:true}); }
   });
   var hash=(location.hash||'').slice(1);
-  show(store[hash]?hash:(leaves[0]&&leaves[0].dataset.slug), {});
+  var target=store[hash]?hash:(leaves[0]&&leaves[0].dataset.slug);
+  show(target, (hash&&store[hash]) ? {scrollTop:true} : {});
 })();
 </script>
 {{ end }}

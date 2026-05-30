@@ -6,6 +6,7 @@
   </div>
   {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
 
+  {{- $mapURL := (site.GetPage "/grammar/map").RelPermalink }}
   {{- range site.Data.grammar.units }}
   <section class="gunit">
     <h2 class="gunit-title">{{ .title }}</h2>
@@ -13,7 +14,7 @@
       {{- range .slugs }}
       {{- $p := site.GetPage (printf "/grammar/%s" .) }}
       {{- with $p }}
-      <a class="work-card" href="{{ .RelPermalink }}">
+      <a class="work-card" href="{{ $mapURL }}#{{ .File.BaseFileName }}">
         <div class="wc-num">{{ with .Params.category }}{{ . }}{{ end }}</div>
         <div class="wc-title">{{ .Title }}</div>
         <div class="wc-author">{{ with .Params.summary }}{{ . | truncate 44 }}{{ end }}</div>
