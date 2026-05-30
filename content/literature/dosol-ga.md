@@ -12,11 +12,11 @@ keywords: ["도솔가", "월명사", "산화공덕", "미륵 좌주", "두 개�
 copyright: public
 decode_by: "양주동"
 structure:
-  - lines: "1구~2구"
+  - lines: "1구〜2구"
     stage: "기"
     label: "꽃을 뿌림"
     desc: "오늘 이 자리에서 산화가를 부르며 꽃을 인격화해 호명함."
-  - lines: "3구~4구"
+  - lines: "3구〜4구"
     stage: "결"
     label: "꽃을 뿌려 부처를 모심"
     desc: "곧은 마음의 명에 따라 꽃을 부리고, 미륵 좌주(미륵보살)를 모셔 늘어서게 하라고 명령함."

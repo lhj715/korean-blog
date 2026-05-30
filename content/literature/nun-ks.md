@@ -11,11 +11,11 @@ themes: ["자유와 순수", "저항 정신", "억압에 대한 응시"]
 keywords: ["눈", "자유", "살아있다", "김수영", "저항"]
 copyright: public
 structure:
-  - lines: "1~2행"
+  - lines: "1〜2행"
     stage: "기"
     label: "눈은 살아있다"
     desc: "눈이 내리는 것은 그냥 자연 현상이 아니라 살아있음의 증거."
-  - lines: "3~4행"
+  - lines: "3〜4행"
     stage: "승"
     label: "자유와 눈"
     desc: "눈이 내림으로써 드러나는 자유와 순수의 세계."

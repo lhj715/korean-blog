@@ -11,7 +11,7 @@ themes: ["단절과 소외의 슬픔", "낙엽에 투영된 상처", "관계의 
 keywords: ["가을밤", "낙엽", "의인화", "행간 걸침", "소외", "오창렬"]
 copyright: public
 structure:
-  - lines: "1~2연"
+  - lines: "1〜2연"
     stage: "기"
     label: "가을밤 지는 낙엽"
     desc: "가을밤 떨어지는 낙엽의 모습을 통해 화자의 정서를 환기함."
