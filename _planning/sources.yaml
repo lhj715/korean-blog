@@ -1,6 +1,7 @@
 # 자료 수집 출처 등록부 (readingmap.kr)
 # 주기적 수집(RSS형) 대상. collector가 이 파일을 읽어 자료를 가져온다.
 # fetch_method: kice_pdf | naver_blog_scrape | rss | ebs | wiki_index | manual
+#               | stdict_api | urimalsaem_api | norm_doc   ← 문법 전용(공신력 1·2순위)
 # priority: 1(매일) | 2(주간) | 3(월간/수동)
 
 sources:
@@ -54,6 +55,46 @@ sources:
     provides: [수능특강 현대시/문학 해설·분석]
     priority: 3
 
+  # ── 문법 (1차 출처: 국가 공신력. 문법은 정답이 정해진 영역이라 블로그 금지) ──
+  #    원칙: 사실 검증은 반드시 아래 1·2순위로만. m.blog은 '설명 표현' 참고용 보조.
+  - id: stdict
+    name: 국립국어원 표준국어대사전 오픈 API
+    type: 문법-어휘
+    url: https://stdict.korean.go.kr/openapi/openApiInfo.do
+    fetch_method: stdict_api
+    auth: 무료 인증키(API key) 발급 필요 → .env에 STDICT_API_KEY
+    provides: [단어 뜻풀이, 품사, 표준 발음, 활용형, 어원, 동의/반의]
+    priority: 3
+    note: 단어·품사·발음·활용 자료의 1순위 뼈대. 응답 XML/JSON. 단어 차원 사실 검증용.
+
+  - id: urimalsaem
+    name: 국립국어원 우리말샘 (개방형 사전)
+    type: 문법-어휘
+    url: https://www.data.go.kr/data/15019347/openapi.do
+    fetch_method: urimalsaem_api
+    auth: 공공데이터포털 인증키 → .env에 DATAGO_API_KEY
+    provides: [표준국어대사전보다 넓은 어휘, 신어, 문법 정보, 방언, 어원]
+    priority: 3
+    note: 표준대사전에 없는 어휘 보완용. 사용자 등록 항목 포함이라 표준대사전을 우선.
+
+  - id: korean_norm
+    name: 국립국어원 어문 규범 (한글 맞춤법·표준어·표준 발음법·외래어 표기법)
+    type: 문법-규범
+    url: https://www.korean.go.kr/front/page/pageView.do?page_id=P000099
+    fetch_method: norm_doc
+    provides: [한글 맞춤법, 표준어 규정, 표준 발음법, 외래어 표기법 규정 원문]
+    priority: 3
+    note: 규정 원문 자체 = 인용 100% 안전. 맞춤법·띄어쓰기·발음 자료의 2순위 근거.
+
+  - id: kice_grammar
+    name: 평가원 기출 + 교재 PDF (문법 개념/이론 근거)
+    type: 문법-개념
+    fetch_method: kice_pdf
+    collector: teacher-materials/kice/collect.py   # 기출 공유, 문법 문항만 추출
+    provides: [음운변동, 형태소·품사, 문장성분·문법요소, 국어사 출제 사례]
+    priority: 3
+    note: 개념/이론은 API에 없음 → 학교문법(교과서)+기출 근거. '교재·원문 근거만, 임의 추정 금지' 원칙을 문법엔 더 엄격 적용.
+
   # ── 연계교재 / 인덱스 ───────────────────────────────────
   - id: ebsi
     name: EBSi 수능특강·수능완성
@@ -81,3 +122,23 @@ naver_blog_scrape_rules:
   list_method: 네이버 검색 API(blog.json)로 작품명 검색 → log_no 수집
   rate_limit: 요청 간 2~3초 (봇 차단 회피)
   caution: 저작권. 원문 통째 복제 금지 → 출처 표기 + 자체 재가공/요약 원칙.
+
+# 문법 수집 규칙 (문학과 다름: 정답이 정해진 영역)
+grammar_collection_rules:
+  source_priority:
+    - "1순위: 국립국어원 API(표준국어대사전·우리말샘) — 단어·품사·발음·활용"
+    - "2순위: 어문 규범 원문 — 맞춤법·띄어쓰기·표준어·발음"
+    - "3순위: 평가원 기출 + 교재 PDF — 음운변동·형태소·문장성분 등 개념"
+  blog_policy: "m.blog은 사실 출처 금지. '쉬운 설명 표현' 참고용 보조로만, 모든 사실은 1·2순위로 재검증."
+  rationale: "문법은 맞고 틀림이 있어 블로그 오개념 위험이 큼. 문학의 '교재 근거만' 원칙을 더 엄격히 적용."
+  category_to_source:    # structure.md 7분류 → 권장 출처
+    음운: 어문 규범(표준 발음법) + 기출
+    단어: 표준국어대사전 API(품사·활용) + 기출
+    문장: 기출 + 교재(학교문법)
+    담화: 기출 + 교재
+    국어사: 교재 + 평가원 기출
+    어문규정: 어문 규범 원문(맞춤법·표준어·외래어) ← 가장 안전
+  todo:
+    - "표준국어대사전 인증키 발급 → .env STDICT_API_KEY"
+    - "어문 규범 원문 4종 로컬 저장(인용 근거용)"
+    - "collect.py에서 문법 문항만 추출하는 필터 추가"
