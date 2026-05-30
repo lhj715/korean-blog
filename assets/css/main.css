@@ -126,23 +126,15 @@ a:hover{text-decoration:underline}
 .poem{font-family:'Noto Serif KR',serif;font-size:17px;line-height:2.3;color:var(--ink);
   letter-spacing:.02em;white-space:pre-wrap}
 .orig-lines{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;
-  padding:22px 28px;margin:8px 0 24px;display:flex;flex-direction:column;gap:0}
-.orig-line{padding:8px 0;border-bottom:1px dashed rgba(0,0,0,.06)}
+  padding:20px 26px;margin:8px 0 48px;display:flex;flex-direction:column;gap:0}
+.orig-line{padding:6px 0;border-bottom:1px dashed rgba(0,0,0,.06)}
 .orig-line:first-child{padding-top:0}
 .orig-line:last-child{border-bottom:none;padding-bottom:0}
-.orig-row{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:start}
-.orig-left{display:flex;flex-direction:column;gap:3px}
-.orig-text{font-family:'Noto Serif TC','Noto Serif KR',serif;font-size:17px;color:var(--ink);letter-spacing:.04em;line-height:1.5}
-.orig-sound{font-family:'Noto Serif KR',serif;font-size:13.5px;color:#1e6fbf;letter-spacing:.02em;line-height:1.5}
-.orig-pairs{display:flex;flex-wrap:wrap;line-height:1.05;row-gap:6px}
-.orig-pair{display:inline-flex;flex-direction:column;align-items:center;padding:0 .12em;margin:0}
-.orig-char{font-family:'Noto Serif TC','Noto Serif KR',serif;font-size:18px;color:var(--ink);letter-spacing:.02em;line-height:1.25}
-.orig-read{font-family:'Noto Serif KR',serif;font-size:13.5px;color:#1e6fbf;letter-spacing:.01em;line-height:1.2;margin-top:2px;font-weight:500}
-.orig-decode{font-family:'Noto Serif KR',serif;font-size:16px;color:#5c3d1e;line-height:1.6;letter-spacing:.04em;padding-top:4px}
-.orig-decode-by{font-family:'Noto Serif KR',serif;font-size:12.5px;color:var(--ink-soft);text-align:right;margin-top:10px;padding-top:8px;border-top:1px solid var(--paper-line);font-style:italic}
-.modern-box{background:#fcf9f0;border:1px solid var(--paper-line);border-radius:4px;padding:22px 28px;margin:0 0 48px}
-.modern-line{font-family:'Noto Serif KR',serif;font-size:17px;color:var(--ink);line-height:2;letter-spacing:.02em}
-@media (max-width:720px){.orig-row{grid-template-columns:1fr;gap:4px}.orig-sound{padding-left:8px}}
+.orig-row{display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:start}
+.orig-decode{font-family:'Noto Serif KR',serif;font-size:17px;color:var(--ink);line-height:1.8;letter-spacing:.04em}
+.orig-modern{font-family:'Noto Serif KR',serif;font-size:16px;color:var(--ink-mid);line-height:1.8;letter-spacing:.02em}
+.orig-decode-by{font-family:'Noto Serif KR',serif;font-size:12.5px;color:var(--ink-soft);text-align:right;margin-top:12px;padding-top:10px;border-top:1px solid var(--paper-line);font-style:italic}
+@media (max-width:720px){.orig-row{grid-template-columns:1fr;gap:4px}.orig-modern{padding-left:8px;color:var(--ink-soft)}}
 
 /* 출제 포인트 */
 .exam-box{background:#fdf8f0;border:1px solid #e8d9b8;border-radius:4px;overflow:hidden;margin-bottom:48px}
