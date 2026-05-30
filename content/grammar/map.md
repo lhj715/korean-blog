@@ -36,16 +36,16 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   <details class="area">
   <summary>0. 언어와 국어</summary>
   <div class="branch">
-    <a class="leaf" href="/grammar/eoneo-bonjil/">언어의 본질</a>
-    <a class="leaf" href="/grammar/gugeo-teukjil/">국어의 특질</a>
+    <a class="leaf" href="../eoneo-bonjil/">언어의 본질</a>
+    <a class="leaf" href="../gugeo-teukjil/">국어의 특질</a>
   </div>
   </details>
 
   <details class="area" open>
   <summary>1. 음운</summary>
   <div class="branch">
-    <a class="leaf" href="/grammar/eumun-chegye/">음운의 체계</a>
-    <a class="leaf" href="/grammar/eumun-byeondong/">음운의 변동</a>
+    <a class="leaf" href="../eumun-chegye/">음운의 체계</a>
+    <a class="leaf" href="../eumun-byeondong/">음운의 변동</a>
     <div class="note">교체 · 탈락 · 첨가 · 축약</div>
   </div>
   </details>
@@ -53,19 +53,19 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   <details class="area" open>
   <summary>2. 단어</summary>
   <div class="branch">
-    <a class="leaf" href="/grammar/hyeongtaeso/">형태소</a>
-    <a class="leaf" href="/grammar/daneo-hyeongseong/">단어의 형성</a>
-    <a class="leaf" href="/grammar/pumsa/">품사 (9품사)</a>
-    <a class="leaf" href="/grammar/uimi-gwangye/">단어의 의미 관계</a>
+    <a class="leaf" href="../hyeongtaeso/">형태소</a>
+    <a class="leaf" href="../daneo-hyeongseong/">단어의 형성</a>
+    <a class="leaf" href="../pumsa/">품사 (9품사)</a>
+    <a class="leaf" href="../uimi-gwangye/">단어의 의미 관계</a>
   </div>
   </details>
 
   <details class="area" open>
   <summary>3. 문장</summary>
   <div class="branch">
-    <a class="leaf" href="/grammar/munjang-seongbun/">문장 성분</a>
-    <a class="leaf" href="/grammar/munjang-jjaeim/">문장의 짜임</a>
-    <a class="leaf" href="/grammar/munbeop-yoso/">문법 요소</a>
+    <a class="leaf" href="../munjang-seongbun/">문장 성분</a>
+    <a class="leaf" href="../munjang-jjaeim/">문장의 짜임</a>
+    <a class="leaf" href="../munbeop-yoso/">문법 요소</a>
     <div class="note">높임 · 시간(시제) · 피동/사동 · 부정</div>
   </div>
   </details>
@@ -73,7 +73,7 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   <details class="area">
   <summary>4. 담화</summary>
   <div class="branch">
-    <a class="leaf" href="/grammar/damhwa/">담화</a>
+    <a class="leaf" href="../damhwa/">담화</a>
     <div class="note">화자·청자·맥락 / 지시·대용·접속 / 통일성·응집성</div>
   </div>
   </details>
@@ -81,19 +81,19 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   <details class="area">
   <summary>5. 국어의 역사</summary>
   <div class="branch">
-    <a class="leaf" href="/grammar/hunminjeongeum/">훈민정음</a>
-    <a class="leaf" href="/grammar/jungse-gugeo/">중세 국어</a>
-    <a class="leaf" href="/grammar/geundae-gugeo/">근대·현대 국어</a>
+    <a class="leaf" href="../hunminjeongeum/">훈민정음</a>
+    <a class="leaf" href="../jungse-gugeo/">중세 국어</a>
+    <a class="leaf" href="../geundae-gugeo/">근대·현대 국어</a>
   </div>
   </details>
 
   <details class="area">
   <summary>6. 어문 규범</summary>
   <div class="branch">
-    <a class="leaf" href="/grammar/hangeul-matchumbeop/">한글 맞춤법</a>
-    <a class="leaf" href="/grammar/pyojuneo/">표준어 규정</a>
-    <a class="leaf" href="/grammar/pyojun-bareum/">표준 발음법</a>
-    <a class="leaf" href="/grammar/oeraeeo-romaja/">외래어·로마자 표기법</a>
+    <a class="leaf" href="../hangeul-matchumbeop/">한글 맞춤법</a>
+    <a class="leaf" href="../pyojuneo/">표준어 규정</a>
+    <a class="leaf" href="../pyojun-bareum/">표준 발음법</a>
+    <a class="leaf" href="../oeraeeo-romaja/">외래어·로마자 표기법</a>
   </div>
   </details>
 
