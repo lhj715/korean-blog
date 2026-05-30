@@ -122,7 +122,7 @@
   </div>
   {{- end }}
 
-  {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+  {{- with .Content }}<div class="prose{{ if in $.Params.genres "고전시가" }} prose-2col{{ end }}">{{ . }}</div>{{ end }}
 
   {{- with .Params.keywords }}
   <div class="block-label">핵심 키워드</div>

@@ -176,6 +176,23 @@ a:hover{text-decoration:underline}
 .prose th{color:var(--ink-soft);font-weight:600;background:var(--paper-warm)}
 .prose strong{color:var(--ink)}
 
+/* 고전시가 본문 2단 (가독성 안정 규칙) */
+.prose-2col{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05)}
+.prose-2col > h2{break-inside:avoid;break-after:avoid;margin-top:0}
+.prose-2col > h2:first-child{margin-top:0}
+.prose-2col > h2 + p,
+.prose-2col > h2 + ul,
+.prose-2col > h2 + ol,
+.prose-2col > h2 + blockquote,
+.prose-2col > h2 + table{break-before:avoid}
+.prose-2col > p,
+.prose-2col > ul,
+.prose-2col > ol,
+.prose-2col > blockquote{break-inside:avoid-column}
+.prose-2col > table{column-span:all;break-inside:avoid;margin:20px 0 28px}
+.prose-2col > h3{break-after:avoid}
+@media (max-width:900px){.prose-2col{column-count:1;column-rule:none}}
+
 /* 키워드 */
 .keyword-cloud{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:48px}
 .keyword{font-size:13px;padding:6px 14px;border:1px solid var(--paper-line);border-radius:2px;
