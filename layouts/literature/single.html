@@ -36,30 +36,29 @@
   <div class="orig-lines">
     {{- range . }}
     <div class="orig-line">
-      <div class="orig-original">
-        {{- if .sound -}}
-          {{- $tc := split .text "" -}}
-          {{- $sc := split (replaceRE "\\s+" "" .sound) "" -}}
-          {{- if eq (len $tc) (len $sc) }}
-          <div class="orig-pairs">
-            {{- range $i, $ch := $tc -}}
-              <span class="orig-pair"><span class="orig-char">{{ $ch }}</span><span class="orig-read">{{ index $sc $i }}</span></span>
-            {{- end }}
-          </div>
-          {{- else }}
-          <div class="orig-text">{{ .text }}</div>
-          <div class="orig-sound">{{ .sound }}</div>
-          {{- end }}
-        {{- else -}}
-          <div class="orig-text">{{ .text }}</div>
-        {{- end }}
-        {{- with .decode }}<div class="orig-decode">{{ . }}</div>{{ end }}
+      {{- if .sound }}
+      <div class="orig-row">
+        <div class="orig-text">{{ .text }}</div>
+        <div class="orig-sound">{{ .sound }}</div>
       </div>
-      {{- with .modern }}<div class="orig-modern">{{ . }}</div>{{ end }}
+      {{- else }}
+      <div class="orig-text">{{ .text }}</div>
+      {{- end }}
+      {{- with .decode }}<div class="orig-decode">{{ . }}</div>{{ end }}
     </div>
     {{- end }}
     {{- with $.Params.decode_by }}<div class="orig-decode-by">─ {{ . }} 해독</div>{{ end }}
   </div>
+  {{- $hasMod := false }}
+  {{- range . }}{{ if .modern }}{{ $hasMod = true }}{{ end }}{{ end }}
+  {{- if $hasMod }}
+  <div class="block-label">현대어 풀이</div>
+  <div class="modern-box">
+    {{- range . }}
+    {{- with .modern }}<div class="modern-line">{{ . }}</div>{{ end }}
+    {{- end }}
+  </div>
+  {{- end }}
   {{- else }}
   {{- if or .Params.original .Params.original_source }}
   <div class="block-label">원문{{ if .Params.original_source }} · 현대어 풀이{{ end }}</div>
