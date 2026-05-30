@@ -12,24 +12,21 @@
         <li>
           <span class="node root">국어 문법</span>
           <ul>
-            {{- range site.Data.grammar.units }}
+            {{- range site.Data.grammar_map.chapters }}
             <li>
               <span class="node unit">{{ .title }}</span>
               <ul>
-                {{- range .slugs }}
-                {{- $p := site.GetPage (printf "/grammar/%s" .) }}
-                {{- with $p }}
+                {{- range .sections }}
                 <li>
-                  <button type="button" class="node leaf" data-slug="{{ .File.BaseFileName }}">{{ .Title }}</button><!--frag:{{ len .Fragments.Headings }}-->
-                  {{- with .Fragments.Headings }}
+                  <button type="button" class="node leaf" data-slug="{{ .slug }}"{{ with .anchor }} data-anchor="{{ . }}"{{ end }}>{{ .title }}</button>
+                  {{- with .subs }}
                   <div class="subs">
-                    {{- range . }}{{ range .Headings }}{{ if .Title }}
-                    <button type="button" class="node sub" data-slug="{{ $p.File.BaseFileName }}" data-anchor="{{ .ID }}">{{ .Title }}</button>
-                    {{- end }}{{ end }}{{ end }}
+                    {{- range . }}
+                    <button type="button" class="node sub" data-slug="{{ .slug }}"{{ with .anchor }} data-anchor="{{ . }}"{{ end }}>{{ .title }}</button>
+                    {{- end }}
                   </div>
                   {{- end }}
                 </li>
-                {{- end }}
                 {{- end }}
               </ul>
             </li>
@@ -47,10 +44,11 @@
 </div>
 
 <div id="mm-store" hidden>
-  {{- range site.Data.grammar.units }}{{ range .slugs }}
-  {{- $p := site.GetPage (printf "/grammar/%s" .) }}{{ with $p }}
+  {{- range (where site.RegularPages "Section" "grammar") }}
+  {{- if ne .File.BaseFileName "map" }}
   <template data-slug="{{ .File.BaseFileName }}" data-title="{{ .Title }}">{{ .Content }}</template>
-  {{- end }}{{ end }}{{ end }}
+  {{- end }}
+  {{- end }}
 </div>
 
 <script>
@@ -60,9 +58,9 @@
     store[t.dataset.slug]=t.innerHTML; titles[t.dataset.slug]=t.dataset.title;
   });
   var body=document.getElementById('mm-body'), title=document.getElementById('mm-title');
-  var leaves=Array.prototype.slice.call(document.querySelectorAll('.leaf'));
+  var nodes=Array.prototype.slice.call(document.querySelectorAll('.leaf, .sub'));
   var current=null;
-  var TOPBAR=68; // 고정 상단바(56px) + 여백
+  var TOPBAR=68;
   function scrollToAnchor(anchor){
     var el=body.querySelector('[id="'+anchor+'"]');
     if(!el) return;
@@ -75,11 +73,12 @@
     var changed = current!==slug;
     if(changed){
       body.innerHTML=store[slug]; title.textContent=titles[slug]; current=slug;
-      leaves.forEach(function(b){ b.classList.toggle('active', b.dataset.slug===slug); });
+      nodes.forEach(function(b){ b.classList.toggle('active', b.dataset.slug===slug && (b.dataset.anchor||'')===(opts.anchor||'')); });
       if(history.replaceState) history.replaceState(null,'','#'+slug);
+    } else {
+      nodes.forEach(function(b){ b.classList.toggle('active', b.dataset.slug===slug && (b.dataset.anchor||'')===(opts.anchor||'')); });
     }
     if(opts.anchor){
-      // 글이 바뀌었으면 레이아웃이 잡힌 다음 프레임에 정확한 위치로 스크롤
       if(changed) requestAnimationFrame(function(){ requestAnimationFrame(function(){ scrollToAnchor(opts.anchor); }); });
       else scrollToAnchor(opts.anchor);
       return;
@@ -89,11 +88,8 @@
       else window.scrollTo({top:0,behavior:'smooth'});
     }
   }
-  document.querySelectorAll('.leaf').forEach(function(b){
-    b.addEventListener('click', function(){ show(b.dataset.slug, {scrollTop:true}); });
-  });
-  document.querySelectorAll('.sub').forEach(function(b){
-    b.addEventListener('click', function(){ show(b.dataset.slug, {anchor:b.dataset.anchor}); });
+  nodes.forEach(function(b){
+    b.addEventListener('click', function(){ show(b.dataset.slug, b.dataset.anchor ? {anchor:b.dataset.anchor} : {scrollTop:true}); });
   });
   body.addEventListener('click', function(e){
     var a=e.target.closest('a'); if(!a) return;
@@ -103,7 +99,8 @@
     if(store[seg]){ e.preventDefault(); show(seg,{scrollTop:true}); }
   });
   var hash=(location.hash||'').slice(1);
-  var target=store[hash]?hash:(leaves[0]&&leaves[0].dataset.slug);
+  var first=document.querySelector('.leaf');
+  var target=store[hash]?hash:(first&&first.dataset.slug);
   show(target, (hash&&store[hash]) ? {scrollTop:true} : {});
 })();
 </script>
