@@ -137,7 +137,7 @@ a:hover{text-decoration:underline}
 .orig-pairs{display:flex;flex-wrap:wrap;line-height:1.3}
 .orig-pair{display:inline-flex;flex-direction:column;align-items:center;padding:0 .15em;margin:0}
 .orig-char{font-family:'Noto Serif TC','Noto Serif KR',serif;font-size:21px;color:var(--ink);letter-spacing:.02em;line-height:1.35}
-.orig-read{font-family:'Noto Serif KR',serif;font-size:11.5px;color:#1e6fbf;letter-spacing:0;line-height:1.2;margin-top:3px;font-weight:500}
+.orig-read{font-family:'Noto Serif KR',serif;font-size:15px;color:#1e6fbf;letter-spacing:.01em;line-height:1.3;margin-top:4px;font-weight:500}
 .orig-decode{font-family:'Noto Serif KR',serif;font-size:16px;color:#5c3d1e;line-height:1.6;letter-spacing:.04em;padding-top:4px}
 .orig-decode-by{font-family:'Noto Serif KR',serif;font-size:12.5px;color:var(--ink-soft);text-align:right;margin-top:10px;padding-top:8px;border-top:1px solid var(--paper-line);font-style:italic}
 .modern-box{background:#fcf9f0;border:1px solid var(--paper-line);border-radius:4px;padding:22px 28px;margin:0 0 48px}
