@@ -3,18 +3,19 @@
   <div class="page-header">
     <h1>{{ .Title }}</h1>
     {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
-    <p class="count" style="font-size:1.1rem;color:#8a6d3b;margin-top:8px"><strong>총 {{ len .RegularPagesRecursive }}편</strong> 수록</p>
+    <p class="count" style="font-size:1.1rem;color:#8a6d3b;margin-top:8px"><strong>총 <span id="visible-count">{{ len .RegularPagesRecursive }}</span>편</strong> 수록</p>
   </div>
 
-  <div class="work-tags" style="margin-bottom:28px">
+  <div class="work-tags genre-filters" style="margin-bottom:28px">
+    <button type="button" class="work-tag active" data-genre="ALL">전체</button>
     {{- range $g := slice "고전시가" "현대시" "고전산문" "현대소설" "극" "수필" }}
-      <a class="work-tag" href="{{ (printf "/genres/%s/" (urlize $g)) | relURL }}">{{ $g }}</a>
+      <button type="button" class="work-tag" data-genre="{{ $g }}">{{ $g }}</button>
     {{- end }}
   </div>
 
-  <div class="works-grid">
+  <div class="works-grid" id="works-grid">
     {{- range .RegularPagesRecursive.ByTitle }}
-    <a class="work-card" href="{{ .RelPermalink }}">
+    <a class="work-card" href="{{ .RelPermalink }}" data-genres="{{ delimit .Params.genres "|" }}">
       <div class="wc-num">{{ with .Params.genres }}{{ index . 0 }}{{ end }}{{ with .Params.eras }} · {{ index . 0 }}{{ end }}</div>
       <div class="wc-title">{{ .Title }}</div>
       <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
@@ -23,4 +24,30 @@
     {{- end }}
   </div>
 </div>
+
+<script>
+(function(){
+  var filters = document.querySelectorAll('.genre-filters button[data-genre]');
+  var cards = document.querySelectorAll('#works-grid .work-card');
+  var counter = document.getElementById('visible-count');
+  function apply(g){
+    var n = 0;
+    cards.forEach(function(c){
+      var gs = (c.dataset.genres || '').split('|');
+      var show = (g === 'ALL') || gs.indexOf(g) !== -1;
+      c.style.display = show ? '' : 'none';
+      if(show) n++;
+    });
+    if(counter) counter.textContent = n;
+  }
+  filters.forEach(function(b){
+    b.addEventListener('click', function(e){
+      e.preventDefault();
+      filters.forEach(function(x){ x.classList.remove('active'); });
+      b.classList.add('active');
+      apply(b.dataset.genre);
+    });
+  });
+})();
+</script>
 {{ end }}

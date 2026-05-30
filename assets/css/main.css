@@ -91,6 +91,12 @@ a:hover{text-decoration:underline}
 .work-tag{font-size:10px;padding:2px 8px;border:1px solid var(--paper-line);border-radius:2px;
   color:var(--ink-soft);background:var(--paper-warm)}
 .work-tag.form{background:var(--accent);border-color:var(--accent);color:#fff}
+.genre-filters{gap:8px;margin-bottom:28px}
+.genre-filters button.work-tag{font-family:inherit;font-size:13px;padding:7px 16px;cursor:pointer;
+  background:var(--paper-warm);border:1px solid var(--paper-line);color:var(--ink-soft);
+  border-radius:3px;transition:all .15s}
+.genre-filters button.work-tag:hover{color:var(--accent);border-color:var(--accent-light)}
+.genre-filters button.work-tag.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:500}
 
 /* ───────── 작품 상세 ───────── */
 .work-header{display:grid;grid-template-columns:1fr 300px;gap:56px;
