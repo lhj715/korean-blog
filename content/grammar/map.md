@@ -33,7 +33,7 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
 <summary>국어 문법</summary>
 <div class="branch">
 
-  <details class="area">
+  <details class="area" open>
   <summary>0. 언어와 국어</summary>
   <div class="branch">
     <a class="leaf" href="../eoneo-bonjil/">언어의 본질</a>
@@ -70,7 +70,7 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   </div>
   </details>
 
-  <details class="area">
+  <details class="area" open>
   <summary>4. 담화</summary>
   <div class="branch">
     <a class="leaf" href="../damhwa/">담화</a>
@@ -78,7 +78,7 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   </div>
   </details>
 
-  <details class="area">
+  <details class="area" open>
   <summary>5. 국어의 역사</summary>
   <div class="branch">
     <a class="leaf" href="../hunminjeongeum/">훈민정음</a>
@@ -87,7 +87,7 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   </div>
   </details>
 
-  <details class="area">
+  <details class="area" open>
   <summary>6. 어문 규범</summary>
   <div class="branch">
     <a class="leaf" href="../hangeul-matchumbeop/">한글 맞춤법</a>

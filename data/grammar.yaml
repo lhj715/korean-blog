@@ -1,0 +1,16 @@
+# 문법 단원 순서 (grammar_system.md 기준) — 목록 그룹·이전/다음 글에 사용
+units:
+  - title: "0. 언어와 국어"
+    slugs: [eoneo-bonjil, gugeo-teukjil]
+  - title: "1. 음운"
+    slugs: [eumun-chegye, eumun-byeondong]
+  - title: "2. 단어"
+    slugs: [hyeongtaeso, daneo-hyeongseong, pumsa, uimi-gwangye]
+  - title: "3. 문장"
+    slugs: [munjang-seongbun, munjang-jjaeim, munbeop-yoso]
+  - title: "4. 담화"
+    slugs: [damhwa]
+  - title: "5. 국어의 역사"
+    slugs: [hunminjeongeum, jungse-gugeo, geundae-gugeo]
+  - title: "6. 어문 규범"
+    slugs: [hangeul-matchumbeop, pyojuneo, pyojun-bareum, oeraeeo-romaja]

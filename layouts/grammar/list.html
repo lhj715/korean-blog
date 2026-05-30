@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="wrap">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+  </div>
+  {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+
+  {{- range site.Data.grammar.units }}
+  <section class="gunit">
+    <h2 class="gunit-title">{{ .title }}</h2>
+    <div class="works-grid">
+      {{- range .slugs }}
+      {{- $p := site.GetPage (printf "/grammar/%s" .) }}
+      {{- with $p }}
+      <a class="work-card" href="{{ .RelPermalink }}">
+        <div class="wc-num">{{ with .Params.category }}{{ . }}{{ end }}</div>
+        <div class="wc-title">{{ .Title }}</div>
+        <div class="wc-author">{{ with .Params.summary }}{{ . | truncate 44 }}{{ end }}</div>
+      </a>
+      {{- end }}
+      {{- end }}
+    </div>
+  </section>
+  {{- end }}
+</div>
+{{ end }}

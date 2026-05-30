@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{- $isMap := eq .Params.category "지도" }}
+<div class="wrap">
+<article>
+  <div class="page-header">
+    <div class="work-kicker">{{ with .Params.category }}{{ . }}{{ end }}</div>
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.summary }}<p>{{ . }}</p>{{ end }}
+  </div>
+  {{- with .Params.keywords }}
+  <div class="keyword-cloud">{{ range . }}<span class="keyword">{{ . }}</span>{{ end }}</div>
+  {{- end }}
+
+  {{- if and (not $isMap) (ge (len (findRE "<h2" .Content)) 2) }}
+  <details class="toc" open>
+    <summary>이 글의 차례</summary>
+    {{ .TableOfContents }}
+  </details>
+  {{- end }}
+
+  <div class="prose">{{ .Content }}</div>
+
+  {{- if not $isMap }}
+    {{- $slugs := slice }}
+    {{- range site.Data.grammar.units }}{{ range .slugs }}{{ $slugs = $slugs | append . }}{{ end }}{{ end }}
+    {{- $cur := .File.BaseFileName }}
+    {{- $idx := -1 }}
+    {{- range $i, $s := $slugs }}{{ if eq $s $cur }}{{ $idx = $i }}{{ end }}{{ end }}
+    {{- if ge $idx 0 }}
+    <nav class="prevnext">
+      {{- if gt $idx 0 }}{{ $p := site.GetPage (printf "/grammar/%s" (index $slugs (sub $idx 1))) }}{{ with $p }}<a class="pn prev" href="{{ .RelPermalink }}"><span>← 이전</span><b>{{ .Title }}</b></a>{{ end }}{{ else }}<span></span>{{ end }}
+      {{- if lt $idx (sub (len $slugs) 1) }}{{ $p := site.GetPage (printf "/grammar/%s" (index $slugs (add $idx 1))) }}{{ with $p }}<a class="pn next" href="{{ .RelPermalink }}"><span>다음 →</span><b>{{ .Title }}</b></a>{{ end }}{{ else }}<span></span>{{ end }}
+    </nav>
+    <p class="back-to-map"><a href="{{ "/grammar/map/" | relURL }}">🗺️ 문법 지도로 돌아가기</a></p>
+    {{- end }}
+  {{- end }}
+</article>
+</div>
+{{ end }}

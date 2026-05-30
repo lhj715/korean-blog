@@ -152,7 +152,7 @@ a:hover{text-decoration:underline}
 .exam-badge:hover{background:var(--gold);color:#fff;text-decoration:none}
 
 /* 본문(해제/핵심정리/시어풀이 등) */
-.prose{font-size:16.5px;color:var(--ink-mid);line-height:2;margin-bottom:48px}
+.prose{font-size:16.5px;color:var(--ink-mid);line-height:2;margin-bottom:48px;max-width:760px}
 .prose > h2:first-child{margin-top:0}
 .prose h2{font-family:'Noto Serif KR',serif;font-size:24px;font-weight:700;line-height:1.35;
   color:var(--ink);margin:48px 0 18px;padding:10px 0 10px 18px;
@@ -175,7 +175,7 @@ a:hover{text-decoration:underline}
 .prose strong{color:var(--ink)}
 
 /* 고전시가 본문 2단 (가독성 안정 규칙) */
-.prose-2col{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05)}
+.prose-2col{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05);max-width:none}
 .prose-2col > h2{break-inside:avoid;break-after:avoid;margin-top:0}
 .prose-2col > h2:first-child{margin-top:0}
 .prose-2col > h2 + p,
@@ -190,6 +190,43 @@ a:hover{text-decoration:underline}
 .prose-2col > table{column-span:all;break-inside:avoid;margin:20px 0 28px}
 .prose-2col > h3{break-after:avoid}
 @media (max-width:900px){.prose-2col{column-count:1;column-rule:none}}
+
+/* 본문 표 — 모바일 가로 스크롤 (깨짐 방지) */
+@media(max-width:780px){
+  .prose table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;white-space:nowrap}
+}
+
+/* 글 목차 (문법) */
+.toc{max-width:760px;background:var(--paper-warm);border:1px solid var(--paper-line);
+  border-radius:4px;padding:6px 18px;margin:0 0 36px}
+.toc summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--ink-mid);
+  letter-spacing:.02em;padding:8px 0;list-style:none}
+.toc summary::-webkit-details-marker{display:none}
+.toc summary::before{content:"≡ ";color:var(--accent-light)}
+.toc #TableOfContents ul{list-style:none;margin:0;padding:0 0 8px}
+.toc #TableOfContents li{margin:3px 0;padding:0}
+.toc #TableOfContents li::before{content:none}
+.toc #TableOfContents a{font-size:14px;color:var(--ink-mid)}
+.toc #TableOfContents a:hover{color:var(--accent)}
+.toc #TableOfContents ul ul{padding-left:16px}
+.toc #TableOfContents ul ul a{font-size:13px;color:var(--ink-soft)}
+
+/* 이전/다음 글 */
+.prevnext{display:grid;grid-template-columns:1fr 1fr;gap:12px;max-width:760px;margin:8px 0 18px}
+.pn{display:flex;flex-direction:column;gap:4px;border:1px solid var(--paper-line);
+  border-radius:4px;padding:14px 18px;background:var(--paper-warm);transition:.2s}
+.pn:hover{border-color:var(--accent-light);background:var(--accent-tint);text-decoration:none}
+.pn span{font-size:11px;color:var(--ink-soft);letter-spacing:.04em}
+.pn b{font-family:'Noto Serif KR',serif;font-size:15px;color:var(--ink);font-weight:700}
+.pn.next{text-align:right;align-items:flex-end}
+.back-to-map{max-width:760px;text-align:center;margin:8px 0 0;font-size:13px}
+
+/* 문법 목록 — 단원별 그룹 */
+.gunit{margin-bottom:36px}
+.gunit-title{font-family:'Noto Serif KR',serif;font-size:18px;font-weight:700;color:var(--accent);
+  letter-spacing:-.01em;margin:0 0 14px;padding-bottom:8px;border-bottom:1px solid var(--paper-line)}
+
+@media(max-width:560px){.prevnext{grid-template-columns:1fr}}
 
 /* 키워드 */
 .keyword-cloud{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:48px}
