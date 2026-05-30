@@ -37,8 +37,22 @@
     {{- range . }}
     <div class="orig-line">
       <div class="orig-original">
-        <div class="orig-text">{{ .text }}</div>
-        {{- with .sound }}<div class="orig-sound">{{ . }}</div>{{ end }}
+        {{- if .sound -}}
+          {{- $tc := split .text "" -}}
+          {{- $sc := split (replaceRE "\\s+" "" .sound) "" -}}
+          {{- if eq (len $tc) (len $sc) }}
+          <div class="orig-pairs">
+            {{- range $i, $ch := $tc -}}
+              <span class="orig-pair"><span class="orig-char">{{ $ch }}</span><span class="orig-read">{{ index $sc $i }}</span></span>
+            {{- end }}
+          </div>
+          {{- else }}
+          <div class="orig-text">{{ .text }}</div>
+          <div class="orig-sound">{{ .sound }}</div>
+          {{- end }}
+        {{- else -}}
+          <div class="orig-text">{{ .text }}</div>
+        {{- end }}
       </div>
       {{- with .modern }}<div class="orig-modern">{{ . }}</div>{{ end }}
     </div>
