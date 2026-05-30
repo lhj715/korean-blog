@@ -1,6 +1,11 @@
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-logo">{{ .Site.Title }}</div>
+    <nav class="footer-links">
+      {{- with site.GetPage "/about" }}<a href="{{ .RelPermalink }}">소개</a>{{ end }}
+      {{- with site.GetPage "/privacy" }}<a href="{{ .RelPermalink }}">개인정보처리방침</a>{{ end }}
+      {{- with site.GetPage "/contact" }}<a href="{{ .RelPermalink }}">연락처</a>{{ end }}
+    </nav>
     <div class="footer-note">고1~고3 국어 학습 아카이브 · 문학 · 문법 · 기출 · © {{ now.Year }} readingmap.kr</div>
   </div>
 </footer>
