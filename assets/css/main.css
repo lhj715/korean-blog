@@ -175,6 +175,14 @@ a:hover{text-decoration:underline}
 .prose th,.prose td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--paper-line)}
 .prose th{color:var(--ink-soft);font-weight:600;background:var(--paper-warm)}
 .prose strong{color:var(--ink)}
+.work-prose{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05)}
+.work-prose > h2{break-after:avoid;margin-top:24px}
+.work-prose > h2:first-child{margin-top:0}
+.work-prose > h2 + p,.work-prose > h2 + ul,.work-prose > h2 + ol,.work-prose > h2 + blockquote{break-before:avoid}
+.work-prose > p,.work-prose > ul,.work-prose > ol,.work-prose > blockquote{break-inside:avoid-column}
+.work-prose > table{column-span:all;break-inside:avoid;margin:20px 0 28px}
+.work-prose > h2:has(+ table){column-span:all;break-after:auto}
+@media (max-width:900px){.work-prose{column-count:1}}
 
 /* 키워드 */
 .keyword-cloud{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:48px}
