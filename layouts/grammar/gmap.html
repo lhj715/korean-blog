@@ -1,0 +1,78 @@
+{{ define "main" }}
+<div class="wrap mm-page">
+  <div class="page-header">
+    <div class="work-kicker">문법 지도</div>
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.summary }}<p>{{ . }}</p>{{ end }}
+  </div>
+
+  <div class="mm-layout">
+    <nav class="mm-tree" aria-label="국어 문법 체계">
+      <ul class="tree">
+        <li>
+          <span class="node root">국어 문법</span>
+          <ul>
+            {{- range site.Data.grammar.units }}
+            <li>
+              <span class="node unit">{{ .title }}</span>
+              <ul>
+                {{- range .slugs }}
+                {{- $p := site.GetPage (printf "/grammar/%s" .) }}
+                {{- with $p }}
+                <li><button type="button" class="node leaf" data-slug="{{ .File.BaseFileName }}">{{ .Title }}</button></li>
+                {{- end }}
+                {{- end }}
+              </ul>
+            </li>
+            {{- end }}
+          </ul>
+        </li>
+      </ul>
+    </nav>
+
+    <section class="mm-detail">
+      <h2 class="mm-title" id="mm-title"></h2>
+      <div class="prose" id="mm-body"></div>
+    </section>
+  </div>
+</div>
+
+<div id="mm-store" hidden>
+  {{- range site.Data.grammar.units }}{{ range .slugs }}
+  {{- $p := site.GetPage (printf "/grammar/%s" .) }}{{ with $p }}
+  <template data-slug="{{ .File.BaseFileName }}" data-title="{{ .Title }}">{{ .Content }}</template>
+  {{- end }}{{ end }}{{ end }}
+</div>
+
+<script>
+(function(){
+  var store={}, titles={};
+  document.querySelectorAll('#mm-store template').forEach(function(t){
+    store[t.dataset.slug]=t.innerHTML; titles[t.dataset.slug]=t.dataset.title;
+  });
+  var body=document.getElementById('mm-body'), title=document.getElementById('mm-title');
+  var leaves=Array.prototype.slice.call(document.querySelectorAll('.leaf'));
+  function show(slug, scroll){
+    if(!store[slug])return;
+    body.innerHTML=store[slug];
+    title.textContent=titles[slug];
+    leaves.forEach(function(b){b.classList.toggle('active', b.dataset.slug===slug);});
+    if(history.replaceState) history.replaceState(null,'','#'+slug);
+    if(scroll && window.innerWidth<=900){
+      document.querySelector('.mm-detail').scrollIntoView({behavior:'smooth',block:'start'});
+    }
+  }
+  leaves.forEach(function(b){ b.addEventListener('click', function(){ show(b.dataset.slug, true); }); });
+  // 패널 안의 다른 문법 글 링크도 새 창 대신 인라인으로
+  body.addEventListener('click', function(e){
+    var a=e.target.closest('a'); if(!a) return;
+    var href=a.getAttribute('href')||'';
+    if(/^https?:/.test(href)) return; // 외부 링크는 그대로
+    var seg=href.replace(/[\/#]+$/,'').split('/').pop();
+    if(store[seg]){ e.preventDefault(); show(seg,false); window.scrollTo({top:0,behavior:'smooth'}); }
+  });
+  var hash=(location.hash||'').slice(1);
+  show(store[hash]?hash:(leaves[0]&&leaves[0].dataset.slug), false);
+})();
+</script>
+{{ end }}

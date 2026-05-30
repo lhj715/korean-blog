@@ -228,6 +228,38 @@ a:hover{text-decoration:underline}
 
 @media(max-width:560px){.prevnext{grid-template-columns:1fr}}
 
+/* ───────── 문법 지도 (마인드맵 + 인라인 내용) ───────── */
+.mm-layout{display:grid;grid-template-columns:300px 1fr;gap:36px;align-items:start}
+.mm-tree{position:sticky;top:72px;max-height:calc(100vh - 92px);overflow:auto;
+  background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:6px;padding:18px 16px}
+.mm-tree .tree,.mm-tree ul{list-style:none;margin:0;padding:0}
+.mm-tree .tree ul{padding-left:16px}
+.mm-tree li{position:relative;padding-left:16px}
+/* 연결선 (엘보) */
+.mm-tree li::before{content:"";position:absolute;left:0;top:0;height:100%;border-left:1px solid var(--paper-line)}
+.mm-tree li::after{content:"";position:absolute;left:0;top:16px;width:12px;border-top:1px solid var(--paper-line)}
+.mm-tree li:last-child::before{height:16px}
+.mm-tree > .tree > li{padding-left:0}
+.mm-tree > .tree > li::before,.mm-tree > .tree > li::after{display:none}
+.node{display:inline-block;margin:3px 0;line-height:1.4}
+.node.root{font-family:'Noto Serif KR',serif;font-size:17px;font-weight:700;color:var(--accent);
+  padding:2px 0 6px}
+.node.unit{font-size:13.5px;font-weight:700;color:var(--ink);padding:3px 0}
+.node.leaf{font:inherit;font-size:13.5px;cursor:pointer;color:var(--accent);
+  background:#fff;border:1px solid var(--paper-line);border-radius:14px;padding:4px 12px;transition:.15s}
+.node.leaf:hover{border-color:var(--accent-light);background:var(--accent-tint)}
+.node.leaf.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+
+.mm-detail{min-width:0}
+.mm-title{font-family:'Noto Serif KR',serif;font-size:27px;font-weight:700;color:var(--ink);
+  letter-spacing:-.02em;margin:0 0 18px;padding-bottom:14px;border-bottom:2px solid var(--accent-tint)}
+.mm-detail .prose{max-width:none;margin-bottom:0}
+
+@media(max-width:900px){
+  .mm-layout{grid-template-columns:1fr;gap:20px}
+  .mm-tree{position:static;max-height:none}
+}
+
 /* 키워드 */
 .keyword-cloud{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:48px}
 .keyword{font-size:13px;padding:6px 14px;border:1px solid var(--paper-line);border-radius:2px;
