@@ -36,8 +36,8 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   <details class="area">
   <summary>0. 언어와 국어</summary>
   <div class="branch">
-    <span class="soon">언어의 본질 <span class="tag">준비 중</span></span>
-    <span class="soon">국어의 특질 <span class="tag">준비 중</span></span>
+    <a class="leaf" href="/grammar/eoneo-bonjil/">언어의 본질</a>
+    <a class="leaf" href="/grammar/gugeo-teukjil/">국어의 특질</a>
   </div>
   </details>
 
@@ -60,39 +60,40 @@ summary: "국어 문법 전체 체계를 한눈에. 가지를 펼치고 항목�
   </div>
   </details>
 
-  <details class="area">
+  <details class="area" open>
   <summary>3. 문장</summary>
   <div class="branch">
-    <span class="soon">문장 성분 <span class="tag">준비 중</span></span>
-    <span class="soon">문장의 짜임 <span class="tag">준비 중</span></span>
-    <span class="soon">문법 요소 (높임·시제·피동사동·부정) <span class="tag">준비 중</span></span>
+    <a class="leaf" href="/grammar/munjang-seongbun/">문장 성분</a>
+    <a class="leaf" href="/grammar/munjang-jjaeim/">문장의 짜임</a>
+    <a class="leaf" href="/grammar/munbeop-yoso/">문법 요소</a>
+    <div class="note">높임 · 시간(시제) · 피동/사동 · 부정</div>
   </div>
   </details>
 
   <details class="area">
   <summary>4. 담화</summary>
   <div class="branch">
-    <span class="soon">담화의 개념과 구성 <span class="tag">준비 중</span></span>
-    <span class="soon">담화의 표현 (지시·대용·접속) <span class="tag">준비 중</span></span>
+    <a class="leaf" href="/grammar/damhwa/">담화</a>
+    <div class="note">화자·청자·맥락 / 지시·대용·접속 / 통일성·응집성</div>
   </div>
   </details>
 
   <details class="area">
   <summary>5. 국어의 역사</summary>
   <div class="branch">
-    <span class="soon">훈민정음 <span class="tag">준비 중</span></span>
-    <span class="soon">중세 국어 <span class="tag">준비 중</span></span>
-    <span class="soon">근대·현대 국어 <span class="tag">준비 중</span></span>
+    <a class="leaf" href="/grammar/hunminjeongeum/">훈민정음</a>
+    <a class="leaf" href="/grammar/jungse-gugeo/">중세 국어</a>
+    <a class="leaf" href="/grammar/geundae-gugeo/">근대·현대 국어</a>
   </div>
   </details>
 
   <details class="area">
   <summary>6. 어문 규범</summary>
   <div class="branch">
-    <span class="soon">한글 맞춤법 <span class="tag">준비 중</span></span>
-    <span class="soon">표준어 규정 <span class="tag">준비 중</span></span>
-    <span class="soon">표준 발음법 <span class="tag">준비 중</span></span>
-    <span class="soon">외래어·로마자 표기법 <span class="tag">준비 중</span></span>
+    <a class="leaf" href="/grammar/hangeul-matchumbeop/">한글 맞춤법</a>
+    <a class="leaf" href="/grammar/pyojuneo/">표준어 규정</a>
+    <a class="leaf" href="/grammar/pyojun-bareum/">표준 발음법</a>
+    <a class="leaf" href="/grammar/oeraeeo-romaja/">외래어·로마자 표기법</a>
   </div>
   </details>
 
