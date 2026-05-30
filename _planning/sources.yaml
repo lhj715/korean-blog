@@ -77,6 +77,19 @@ sources:
     priority: 3
     note: 표준대사전에 없는 어휘 보완용. 사용자 등록 항목 포함이라 표준대사전을 우선.
 
+  - id: book_school_grammar
+    name: 「학교 문법과 문법 교육」 (임지룡 외, 박이정 2005)
+    type: 문법-개념백본(교재)
+    location: Google Drive 도서/국어/학교 문법과 문법 교육.pdf (24MB, fileId 1xdf8YAabvW-pwJuU1S7ZzKaxEYHdyA-I)
+    fetch_method: gdrive_read_file_content
+    provides: [총론, 언어와 국어, 음운, 형태론, 어휘, 문장, 의미, 이야기(담화), 중세국어, 국어의 변화, 국어 규범]
+    chapter_map: "02장→언어단원+훈민정음 / 03장→음운 / 04장→단어 / 06장→문장 / 07장→의미관계 / 08장→담화 / 09·10장→국어사 / 11장→어문규범 / 05장→어휘(신설가능)"
+    priority: 1
+    caution: >
+      저작권 교재 → 통째 복사 금지. 사실·틀만 근거로 우리 말로 재작성.
+      read_file_content는 대용량 PDF를 앞부분(~79쪽=02장까지)만 추출함.
+      뒷장(음운 83쪽~)은 챕터별로 분할 업로드해야 전체 추출 가능.
+
   - id: global_encyc_grammar
     name: 글로벌 세계 대백과사전 - 국어 문법 (위키문헌)
     type: 문법-개념백본
