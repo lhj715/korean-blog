@@ -5,7 +5,7 @@
     <div class="work-kicker">문법 지도</div>
     <h1>{{ .Title }}</h1>
     {{- with .Params.summary }}<p>{{ . }}</p>{{ end }}
-    <p class="mm-hint">가운데 ‘국어 문법’에서 사방으로 뻗어요. 가지를 누르면 접기/펼치기, 빈 곳을 끌어 이동, 휠로 확대·축소. 맨 끝 항목을 누르면 그 정리 글로 이동합니다.</p>
+    <p class="mm-hint">왼쪽 ‘국어 문법’에서 오른쪽으로 단계별로 뻗어요. 가지를 누르면 접기/펼치기, 빈 곳을 끌어 이동, 휠로 확대·축소. 맨 끝 항목을 누르면 그 정리 글로 이동합니다.</p>
   </div>
   <div id="mindmap" class="echarts-map"></div>
 </div>
@@ -181,17 +181,19 @@ chart.setOption({
   series: [{
     type:'tree',
     data:[DATA],
-    layout:'radial',
+    layout:'orthogonal',
+    orient:'LR',
+    edgeShape:'polyline',
     symbol:'emptyCircle',
     symbolSize: 8,
     roam: true,
     initialTreeDepth: -1,
     expandAndCollapse: true,
-    animationDuration: 450,
-    nodePadding: 6,
-    label: { fontSize: 11, color:'#1a1814', fontFamily:"'Noto Sans KR',sans-serif" },
-    leaves: { label: { fontSize: 10.5, color:'#4a4640' } },
-    lineStyle: { color:'#c9b9a0', width:1, curveness:0.55 },
+    animationDuration: 400,
+    top:'1%', left:'7%', bottom:'1%', right:'20%',
+    label: { position:'left', align:'right', verticalAlign:'middle', distance:6, fontSize: 11.5, color:'#1a1814', fontFamily:"'Noto Sans KR',sans-serif" },
+    leaves: { label: { position:'right', align:'left', verticalAlign:'middle', distance:6, fontSize: 11, color:'#4a4640' } },
+    lineStyle: { color:'#c9b9a0', width:1 },
     itemStyle: { color:'#8b5e3c', borderColor:'#5c3d1e' },
     emphasis: { focus:'descendant', itemStyle:{ color:'#9b2335' } }
   }]
