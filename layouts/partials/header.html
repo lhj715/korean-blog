@@ -1,6 +1,6 @@
 <header class="topbar">
   {{- $parts := split .Site.Title " " }}
-  <a class="brand" href="{{ "/" | relURL }}">{{ index $parts 0 }}{{ if gt (len $parts) 1 }} <em>{{ index $parts 1 }}</em>{{ end }}</a>
+  <a class="brand" href="{{ site.Home.RelPermalink }}">{{ index $parts 0 }}{{ if gt (len $parts) 1 }} <em>{{ index $parts 1 }}</em>{{ end }}</a>
   <nav class="nav">
     {{- $cur := .RelPermalink }}
     {{- range .Site.Menus.main }}
