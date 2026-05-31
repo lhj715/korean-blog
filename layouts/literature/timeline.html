@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="wrap">
+  <div class="page-header">
+    <div class="work-kicker">문학사 연표</div>
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.summary }}<p>{{ . }}</p>{{ end }}
+    <p class="mm-hint">▸ 시대는 왼쪽에서 오른쪽으로 흐릅니다. 화면이 좁으면 옆으로 넘겨 보세요. 파란 작품을 누르면 그 작품 글로 이동합니다.</p>
+  </div>
+</div>
+
+<div class="lh-scroll">
+  <div class="lh-track">
+    {{- range hugo.Data.lithistory.periods }}
+    <section class="lh-period">
+      <div class="lh-axis"><span class="lh-dot"></span></div>
+      <div class="lh-era">{{ .years }}</div>
+      <h2 class="lh-name">{{ .name }}</h2>
+      <div class="lh-genres">
+        {{- range .genres }}<span class="lh-chip">{{ . }}</span>{{ end }}
+      </div>
+      <div class="lh-works">
+        {{- range .works }}
+          {{- if .slug }}<a class="lh-work" href="{{ printf "/literature/%s/" .slug | relURL }}">{{ .title }}</a>
+          {{- else }}<span class="lh-work plain">{{ .title }}</span>{{ end }}
+        {{- end }}
+      </div>
+      <p class="lh-feat">{{ .summary }}</p>
+    </section>
+    {{- end }}
+  </div>
+</div>
+
+<div class="wrap">
+  <p style="margin:8px 0 0;font-size:12px;color:var(--ink-soft)">
+    파란 작품은 아카이브에 정리된 글로 연결됩니다. 그 밖의 작품(소설·악장 등)은 갈래 흐름을 보여 주기 위한 대표작입니다.
+  </p>
+</div>
+{{ end }}

@@ -1,12 +1,15 @@
 {{ define "main" }}
 <div class="wrap">
+  {{- $works := where .RegularPagesRecursive "Params.genres" "!=" nil }}
   <div class="page-header">
     <h1>{{ .Title }}</h1>
     {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
-    <p class="count" style="font-size:1.1rem;color:#8a6d3b;margin-top:8px"><strong>총 <span id="visible-count">{{ len .RegularPagesRecursive }}</span>편</strong> 수록</p>
+    <p class="count" style="font-size:1.1rem;color:#8a6d3b;margin-top:8px"><strong>총 <span id="visible-count">{{ len $works }}</span>편</strong> 수록</p>
   </div>
 
-  <p style="margin:-4px 0 22px;font-size:13px;color:var(--ink-soft)">
+  <p style="margin:-4px 0 18px"><a class="btn" href="{{ "/literature/timeline/" | relURL }}">🗺️ 한국 문학사 연표 — 시대 흐름 한눈에</a></p>
+
+  <p style="margin:0 0 22px;font-size:13px;color:var(--ink-soft)">
     다른 축으로 찾기 ·
     <a href="{{ "/authors/" | relURL }}">작가별</a> ·
     <a href="{{ "/eras/" | relURL }}">시대별</a> ·
@@ -21,7 +24,7 @@
   </div>
 
   {{- $present := slice }}
-  {{- range .RegularPagesRecursive }}{{ range .Params.eras }}{{ if not (in $present .) }}{{ $present = $present | append . }}{{ end }}{{ end }}{{ end }}
+  {{- range $works }}{{ range .Params.eras }}{{ if not (in $present .) }}{{ $present = $present | append . }}{{ end }}{{ end }}{{ end }}
   <div class="work-tags genre-filters era-filters" style="margin-bottom:28px">
     <button type="button" class="work-tag active" data-era="ALL">전체 시대</button>
     {{- range $e := slice "삼국시대" "통일신라" "발해" "고려" "조선전기" "조선후기" "개화기" "일제강점기" "광복이후" }}
@@ -32,7 +35,7 @@
   </div>
 
   <div class="works-grid" id="works-grid">
-    {{- range .RegularPagesRecursive.ByTitle }}
+    {{- range $works.ByTitle }}
     <a class="work-card" href="{{ .RelPermalink }}" data-genres="{{ delimit .Params.genres "|" }}" data-eras="{{ delimit .Params.eras "|" }}">
       <div class="wc-num">{{ with .Params.genres }}{{ index . 0 }}{{ end }}{{ with .Params.eras }} · {{ index . 0 }}{{ end }}</div>
       <div class="wc-title">{{ .Title }}</div>

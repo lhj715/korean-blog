@@ -1,0 +1,68 @@
+# 한국 고전문학사 연표 — 교재(한국 고전문학사 시대별 정리) 기반
+# periods: 시대 띠. works의 slug가 있으면 아카이브 작품으로 링크, 없으면 텍스트로만 표시.
+periods:
+  - key: godae
+    name: "고대"
+    years: "상고 ~ 통일신라"
+    genres: ["고대 가요", "향가", "건국 신화"]
+    summary: "구비 전승·제의적·집단 창작. 통일신라에서 한문 수용과 개인 창작이 싹튼다."
+    works:
+      - { title: "제망매가", slug: "jemangmae-ga" }
+      - { title: "찬기파랑가", slug: "chan-gipa-rangga" }
+      - { title: "공무도하가" }
+      - { title: "구지가" }
+      - { title: "황조가" }
+      - { title: "정읍사" }
+
+  - key: goryeo-jeon
+    name: "고려 전기"
+    years: "918 ~ 1170"
+    genres: ["고려 가요(속요)", "경기체가", "한문학"]
+    summary: "무신정변 이후 평민 의식이 자라며, 평민 문학(여요)과 귀족 문학(경기체가)이 갈라진다."
+    works:
+      - { title: "가시리", slug: "gasiri" }
+      - { title: "청산별곡", slug: "cheongsanbyeolgok" }
+      - { title: "동동", slug: "dongdong" }
+      - { title: "정석가", slug: "jeongseok-ga" }
+      - { title: "서경별곡", slug: "seogyeong-byeolgok" }
+      - { title: "한림별곡", slug: "hallim-byeolgok-2" }
+
+  - key: goryeo-mal
+    name: "고려 말 ~ 조선 초"
+    years: "1170 ~ 16C초"
+    genres: ["시조(발생)", "악장", "가사(발생)"]
+    summary: "성리학과 함께 시조가 발생하고, 훈민정음 창제로 악장·가사 등 국문 문학이 자리 잡는다."
+    works:
+      - { title: "용비어천가" }
+      - { title: "관동별곡", slug: "gwandong-byeolgok-anchuk" }
+      - { title: "사미인곡", slug: "samiingok" }
+      - { title: "속미인곡", slug: "sokmiingok" }
+      - { title: "탄로가" }
+      - { title: "다정가" }
+
+  - key: joseon-jeon
+    name: "조선 전기 ~ 중기"
+    years: "16 ~ 17C"
+    genres: ["시조(황금기)", "가사", "소설(발생)"]
+    summary: "사림의 시조가 황금기를 맞고, 전란을 거치며 한글 소설이 탄생한다."
+    works:
+      - { title: "도산십이곡", slug: "dosan-sibigok" }
+      - { title: "어부사시사", slug: "eobusasisa" }
+      - { title: "동짓달 기나긴 밤", slug: "dongjitdal-ginagin-bameul" }
+      - { title: "누항사", slug: "nuhangsa" }
+      - { title: "선상탄", slug: "seonsangtan" }
+      - { title: "홍길동전" }
+      - { title: "구운몽" }
+
+  - key: joseon-hu
+    name: "조선 후기"
+    years: "18 ~ 19C"
+    genres: ["판소리계 소설", "사설시조", "한문 소설(실학)", "민요"]
+    summary: "실학과 서민 의식이 퍼지며 판소리계 소설·사설시조·민요 등 서민 문학이 전성기를 이룬다."
+    works:
+      - { title: "춘향전" }
+      - { title: "심청전" }
+      - { title: "흥부전" }
+      - { title: "양반전" }
+      - { title: "장진주사", slug: "jangjinjusa" }
+      - { title: "아리랑" }
