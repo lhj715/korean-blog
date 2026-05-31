@@ -41,11 +41,19 @@ chapters:
         subs:
           - { title: "파생어", slug: daneo-hyeongseong, anchor: "파생어" }
           - { title: "합성어(대등·종속·융합 / 통사·비통사)", slug: daneo-hyeongseong, anchor: "합성어--세-가지로-나눈다" }
-      - title: "품사"
+      - title: "품사 (9품사)"
         slug: pumsa
+        anchor: "품사란"
         subs:
-          - { title: "체언·용언·수식언·관계언·독립언", slug: pumsa, anchor: "5언-9품사" }
-          - { title: "하위 갈래(의존명사·격/보조사 등)", slug: pumsa, anchor: "하위-갈래" }
+          - { title: "명사", slug: pumsa, anchor: "명사" }
+          - { title: "대명사", slug: pumsa, anchor: "대명사" }
+          - { title: "수사", slug: pumsa, anchor: "수사" }
+          - { title: "동사", slug: pumsa, anchor: "동사" }
+          - { title: "형용사", slug: pumsa, anchor: "형용사" }
+          - { title: "관형사", slug: pumsa, anchor: "관형사" }
+          - { title: "부사", slug: pumsa, anchor: "부사" }
+          - { title: "조사", slug: pumsa, anchor: "관계언--조사" }
+          - { title: "감탄사", slug: pumsa, anchor: "독립언--감탄사" }
       - title: "단어의 의미 관계"
         slug: uimi-gwangye
         subs:
