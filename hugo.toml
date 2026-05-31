@@ -38,13 +38,9 @@ summaryLength = 30
   url = '/exams/'
   weight = 30
 [[menu.main]]
-  name = '작가'
-  url = '/authors/'
-  weight = 40
-[[menu.main]]
   name = '검색'
   url = '/search/'
-  weight = 50
+  weight = 40
 
 [markup]
   [markup.goldmark.renderer]

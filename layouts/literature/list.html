@@ -6,16 +6,34 @@
     <p class="count" style="font-size:1.1rem;color:#8a6d3b;margin-top:8px"><strong>총 <span id="visible-count">{{ len .RegularPagesRecursive }}</span>편</strong> 수록</p>
   </div>
 
-  <div class="work-tags genre-filters" style="margin-bottom:28px">
-    <button type="button" class="work-tag active" data-genre="ALL">전체</button>
+  <p style="margin:-4px 0 22px;font-size:13px;color:var(--ink-soft)">
+    다른 축으로 찾기 ·
+    <a href="{{ "/authors/" | relURL }}">작가별</a> ·
+    <a href="{{ "/eras/" | relURL }}">시대별</a> ·
+    <a href="{{ "/genres/" | relURL }}">갈래별</a>
+  </p>
+
+  <div class="work-tags genre-filters" style="margin-bottom:14px">
+    <button type="button" class="work-tag active" data-genre="ALL">전체 갈래</button>
     {{- range $g := slice "고전시가" "현대시" "고전산문" "현대소설" "극" "수필" }}
       <button type="button" class="work-tag" data-genre="{{ $g }}">{{ $g }}</button>
     {{- end }}
   </div>
 
+  {{- $present := slice }}
+  {{- range .RegularPagesRecursive }}{{ range .Params.eras }}{{ if not (in $present .) }}{{ $present = $present | append . }}{{ end }}{{ end }}{{ end }}
+  <div class="work-tags genre-filters era-filters" style="margin-bottom:28px">
+    <button type="button" class="work-tag active" data-era="ALL">전체 시대</button>
+    {{- range $e := slice "삼국시대" "통일신라" "발해" "고려" "조선전기" "조선후기" "개화기" "일제강점기" "광복이후" }}
+      {{- if in $present $e }}
+      <button type="button" class="work-tag" data-era="{{ $e }}">{{ $e }}</button>
+      {{- end }}
+    {{- end }}
+  </div>
+
   <div class="works-grid" id="works-grid">
     {{- range .RegularPagesRecursive.ByTitle }}
-    <a class="work-card" href="{{ .RelPermalink }}" data-genres="{{ delimit .Params.genres "|" }}">
+    <a class="work-card" href="{{ .RelPermalink }}" data-genres="{{ delimit .Params.genres "|" }}" data-eras="{{ delimit .Params.eras "|" }}">
       <div class="wc-num">{{ with .Params.genres }}{{ index . 0 }}{{ end }}{{ with .Params.eras }} · {{ index . 0 }}{{ end }}</div>
       <div class="wc-title">{{ .Title }}</div>
       <div class="wc-author">{{ delimit .Params.authors " · " }}</div>
@@ -27,27 +45,37 @@
 
 <script>
 (function(){
-  var filters = document.querySelectorAll('.genre-filters button[data-genre]');
+  var genreBtns = document.querySelectorAll('.genre-filters:not(.era-filters) button[data-genre]');
+  var eraBtns = document.querySelectorAll('.era-filters button[data-era]');
   var cards = document.querySelectorAll('#works-grid .work-card');
   var counter = document.getElementById('visible-count');
-  function apply(g){
+  var curGenre = 'ALL', curEra = 'ALL';
+  function apply(){
     var n = 0;
     cards.forEach(function(c){
       var gs = (c.dataset.genres || '').split('|');
-      var show = (g === 'ALL') || gs.indexOf(g) !== -1;
+      var es = (c.dataset.eras || '').split('|');
+      var gOk = (curGenre === 'ALL') || gs.indexOf(curGenre) !== -1;
+      var eOk = (curEra === 'ALL') || es.indexOf(curEra) !== -1;
+      var show = gOk && eOk;
       c.style.display = show ? '' : 'none';
       if(show) n++;
     });
     if(counter) counter.textContent = n;
   }
-  filters.forEach(function(b){
-    b.addEventListener('click', function(e){
-      e.preventDefault();
-      filters.forEach(function(x){ x.classList.remove('active'); });
-      b.classList.add('active');
-      apply(b.dataset.genre);
+  function wire(btns, setter){
+    btns.forEach(function(b){
+      b.addEventListener('click', function(e){
+        e.preventDefault();
+        btns.forEach(function(x){ x.classList.remove('active'); });
+        b.classList.add('active');
+        setter(b);
+        apply();
+      });
     });
-  });
+  }
+  wire(genreBtns, function(b){ curGenre = b.dataset.genre; });
+  wire(eraBtns, function(b){ curEra = b.dataset.era; });
 })();
 </script>
 {{ end }}
