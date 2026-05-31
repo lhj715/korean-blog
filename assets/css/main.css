@@ -137,8 +137,8 @@ a:hover{text-decoration:underline}
 .orig-line:first-child{padding-top:0}
 .orig-line:last-child{border-bottom:none;padding-bottom:0}
 .orig-row{display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:start}
-.orig-decode{font-family:'Noto Serif KR',serif;font-size:17px;color:var(--ink);line-height:1.8;letter-spacing:.04em}
-.orig-modern{font-family:'Noto Serif KR',serif;font-size:16px;color:var(--ink-mid);line-height:1.8;letter-spacing:.02em}
+.orig-decode{font-family:'Noto Serif KR',serif;font-size:17px;color:var(--ink);line-height:1.8;letter-spacing:.04em;white-space:pre-line}
+.orig-modern{font-family:'Noto Serif KR',serif;font-size:16px;color:var(--ink-mid);line-height:1.8;letter-spacing:.02em;white-space:pre-line}
 .orig-decode-by{font-family:'Noto Serif KR',serif;font-size:12.5px;color:var(--ink-soft);text-align:right;margin-top:12px;padding-top:10px;border-top:1px solid var(--paper-line);font-style:italic}
 @media (max-width:720px){.orig-row{grid-template-columns:1fr;gap:4px}.orig-modern{padding-left:8px;color:var(--ink-soft)}}
 
