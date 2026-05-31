@@ -5,145 +5,202 @@
     <div class="work-kicker">문법 지도</div>
     <h1>{{ .Title }}</h1>
     {{- with .Params.summary }}<p>{{ . }}</p>{{ end }}
-    <p class="mm-hint">가지(●)를 누르면 펼치고 접을 수 있어요. 빈 곳을 끌어 이동, 휠로 확대·축소. 항목을 누르면 그 정리 글로 이동합니다.</p>
+    <p class="mm-hint">가운데 ‘국어 문법’에서 사방으로 뻗어요. 가지를 누르면 접기/펼치기, 빈 곳을 끌어 이동, 휠로 확대·축소. 맨 끝 항목을 누르면 그 정리 글로 이동합니다.</p>
   </div>
-
-  <div class="markmap">
-    <script type="text/template">
----
-markmap:
-  initialExpandLevel: 6
-  colorFreezeLevel: 2
-  spacingVertical: 6
----
-# 국어 문법
-
-## 1. 언어와 국어
-### [언어의 본질]({{ $g }}eoneo-bonjil/)
-- 기호성 · 자의성 · 사회성 · 역사성 · 창조성
-### [국어의 특질]({{ $g }}gugeo-teukjil/)
-- [음운의 특질]({{ $g }}gugeo-teukjil/#음운적-특질)
-- [어휘의 특질]({{ $g }}gugeo-teukjil/#어휘적-특질)
-- [문법의 특질]({{ $g }}gugeo-teukjil/#문법적-특질)
-
-## 2. 음운
-### [음운의 체계]({{ $g }}eumun-chegye/)
-- [자음 체계]({{ $g }}eumun-chegye/#자음-체계-19개)
-- [모음 체계]({{ $g }}eumun-chegye/#모음-체계-21개)
-  - 단모음
-  - 이중모음
-- [운소(소리의 길이)]({{ $g }}eumun-chegye/#운소--소리의-길이)
-### [음운의 변동]({{ $g }}eumun-byeondong/)
-- [교체]({{ $g }}eumun-byeondong/#1-교체)
-  - 음절의 끝소리 규칙
-  - 비음화
-  - 유음화
-  - 구개음화
-  - 된소리되기
-- [탈락]({{ $g }}eumun-byeondong/#2-탈락)
-  - 자음군 단순화
-  - 'ㅎ' 탈락
-  - 'ㅡ' 탈락
-  - 'ㄹ' 탈락
-- [첨가]({{ $g }}eumun-byeondong/#3-첨가)
-  - 'ㄴ' 첨가
-  - 사잇소리 현상
-- [축약]({{ $g }}eumun-byeondong/#4-축약)
-  - 거센소리되기
-  - 모음 축약
-
-## 3. 단어
-### [형태소]({{ $g }}hyeongtaeso/)
-- 자립 / 의존 형태소
-- 실질 / 형식 형태소
-- 이형태(음운론적·형태론적)
-### [단어의 형성]({{ $g }}daneo-hyeongseong/)
-- 단일어
-- 파생어
-  - 접두 파생
-  - 접미 파생
-- 합성어
-  - 대등 / 종속 / 융합
-  - 통사적 / 비통사적
-### [품사]({{ $g }}pumsa/)
-- 체언
-  - [명사]({{ $g }}pumsa/#명사)
-  - [대명사]({{ $g }}pumsa/#대명사)
-  - [수사]({{ $g }}pumsa/#수사)
-- 용언
-  - [동사]({{ $g }}pumsa/#동사)
-  - [형용사]({{ $g }}pumsa/#형용사)
-- 수식언
-  - [관형사]({{ $g }}pumsa/#관형사)
-  - [부사]({{ $g }}pumsa/#부사)
-- 관계언
-  - [조사]({{ $g }}pumsa/#관계언--조사)
-- 독립언
-  - [감탄사]({{ $g }}pumsa/#독립언--감탄사)
-### [단어의 의미 관계]({{ $g }}uimi-gwangye/)
-- [의미의 종류(사전적·함축적)]({{ $g }}uimi-gwangye/#의미의-종류)
-- [유의 관계]({{ $g }}uimi-gwangye/#유의-관계)
-- [반의 관계]({{ $g }}uimi-gwangye/#반의-관계)
-  - 정도 / 상보 / 방향 반의어
-- [상하 관계]({{ $g }}uimi-gwangye/#상하-관계)
-- 다의어 / 동음이의어
-
-## 4. 어휘
-### [어휘의 체계]({{ $g }}eohwi/)
-- 고유어 · 한자어 · 외래어
-### [어휘의 양상]({{ $g }}eohwi/#어휘의-양상)
-- 방언 · 은어 · 속어
-- 관용어 · 속담
-- 전문어 · 새말
-
-## 5. 문장
-### [문장 성분]({{ $g }}munjang-seongbun/)
-- 주성분
-  - 주어 · 서술어 · 목적어 · 보어
-- 부속 성분
-  - 관형어 · 부사어
-- 독립 성분(독립어)
-- 서술어의 자릿수
-### [문장의 짜임]({{ $g }}munjang-jjaeim/)
-- 홑문장 / 겹문장
-- 안은문장
-  - 명사절 · 관형절 · 부사절 · 서술절 · 인용절
-- 이어진문장
-  - 대등 / 종속
-### [문법 요소]({{ $g }}munbeop-yoso/)
-- [종결 표현]({{ $g }}munbeop-yoso/#1-종결-표현)
-- [높임 표현]({{ $g }}munbeop-yoso/#2-높임-표현)
-  - 주체 / 객체 / 상대 높임
-- [시간 표현(시제)]({{ $g }}munbeop-yoso/#3-시간-표현-시제)
-- [피동 · 사동]({{ $g }}munbeop-yoso/#4-피동사동-표현)
-- [부정 표현]({{ $g }}munbeop-yoso/#5-부정-표현)
-
-## 6. 담화
-### [담화]({{ $g }}damhwa/)
-- 발화(직접 / 간접 발화)
-- 구성 요소 · 맥락
-- 표현(지시 · 대용 · 접속)
-- 통일성 · 응집성
-
-## 7. 국어의 역사
-### [훈민정음]({{ $g }}hunminjeongeum/)
-- 제자 원리(초성 · 중성 · 종성)
-- 한글의 우수성
-### [중세 국어]({{ $g }}jungse-gugeo/)
-- 음운 · 표기 · 문법
-### [근대 · 현대 국어]({{ $g }}geundae-gugeo/)
-- 시대 구분과 변화
-
-## 8. 어문 규범
-### [한글 맞춤법]({{ $g }}hangeul-matchumbeop/)
-- 소리대로 · 어법에 맞도록
-- 띄어쓰기 · 사이시옷
-### [표준어 규정]({{ $g }}pyojuneo/)
-### [표준 발음법]({{ $g }}pyojun-bareum/)
-### [외래어 · 로마자 표기법]({{ $g }}oeraeeo-romaja/)
-    </script>
-  </div>
+  <div id="mindmap" class="echarts-map"></div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@latest"></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<script>
+var G = "{{ $g }}";
+function L(s){ return G + s; }
+var DATA = { name:"국어 문법", children:[
+  { name:"1. 언어와 국어", children:[
+    { name:"언어의 본질", url:L("eoneo-bonjil/"), children:[
+      { name:"기호성·자의성·사회성·역사성·창조성", url:L("eoneo-bonjil/#언어란") }
+    ]},
+    { name:"국어의 특질", url:L("gugeo-teukjil/"), children:[
+      { name:"음운의 특질", url:L("gugeo-teukjil/#음운적-특질") },
+      { name:"어휘의 특질", url:L("gugeo-teukjil/#어휘적-특질") },
+      { name:"문법의 특질", url:L("gugeo-teukjil/#문법적-특질") }
+    ]}
+  ]},
+  { name:"2. 음운", children:[
+    { name:"음운의 체계", url:L("eumun-chegye/"), children:[
+      { name:"자음 체계", url:L("eumun-chegye/#자음-체계-19개") },
+      { name:"모음 체계", url:L("eumun-chegye/#모음-체계-21개"), children:[
+        { name:"단모음", url:L("eumun-chegye/#모음-체계-21개") },
+        { name:"이중모음", url:L("eumun-chegye/#모음-체계-21개") }
+      ]},
+      { name:"운소(소리의 길이)", url:L("eumun-chegye/#운소--소리의-길이") }
+    ]},
+    { name:"음운의 변동", url:L("eumun-byeondong/"), children:[
+      { name:"교체", url:L("eumun-byeondong/#1-교체"), children:[
+        { name:"음절의 끝소리 규칙", url:L("eumun-byeondong/#1-교체") },
+        { name:"비음화", url:L("eumun-byeondong/#1-교체") },
+        { name:"유음화", url:L("eumun-byeondong/#1-교체") },
+        { name:"구개음화", url:L("eumun-byeondong/#1-교체") },
+        { name:"된소리되기", url:L("eumun-byeondong/#1-교체") }
+      ]},
+      { name:"탈락", url:L("eumun-byeondong/#2-탈락"), children:[
+        { name:"자음군 단순화", url:L("eumun-byeondong/#2-탈락") },
+        { name:"'ㅎ' 탈락", url:L("eumun-byeondong/#2-탈락") },
+        { name:"'ㅡ' 탈락", url:L("eumun-byeondong/#2-탈락") },
+        { name:"'ㄹ' 탈락", url:L("eumun-byeondong/#2-탈락") }
+      ]},
+      { name:"첨가", url:L("eumun-byeondong/#3-첨가"), children:[
+        { name:"'ㄴ' 첨가", url:L("eumun-byeondong/#3-첨가") },
+        { name:"사잇소리 현상", url:L("eumun-byeondong/#3-첨가") }
+      ]},
+      { name:"축약", url:L("eumun-byeondong/#4-축약"), children:[
+        { name:"거센소리되기", url:L("eumun-byeondong/#4-축약") },
+        { name:"모음 축약", url:L("eumun-byeondong/#4-축약") }
+      ]}
+    ]}
+  ]},
+  { name:"3. 단어", children:[
+    { name:"형태소", url:L("hyeongtaeso/"), children:[
+      { name:"자립/의존 형태소", url:L("hyeongtaeso/#두-가지-분류-기준") },
+      { name:"실질/형식 형태소", url:L("hyeongtaeso/#두-가지-분류-기준") },
+      { name:"이형태", url:L("hyeongtaeso/#이형태--한-형태소-여러-꼴") }
+    ]},
+    { name:"단어의 형성", url:L("daneo-hyeongseong/"), children:[
+      { name:"단일어", url:L("daneo-hyeongseong/#단어의-짜임") },
+      { name:"파생어", url:L("daneo-hyeongseong/#파생어"), children:[
+        { name:"접두 파생", url:L("daneo-hyeongseong/#파생어") },
+        { name:"접미 파생", url:L("daneo-hyeongseong/#파생어") }
+      ]},
+      { name:"합성어", url:L("daneo-hyeongseong/#합성어--세-가지로-나눈다"), children:[
+        { name:"대등·종속·융합", url:L("daneo-hyeongseong/#합성어--세-가지로-나눈다") },
+        { name:"통사적·비통사적", url:L("daneo-hyeongseong/#합성어--세-가지로-나눈다") }
+      ]}
+    ]},
+    { name:"품사", url:L("pumsa/"), children:[
+      { name:"체언", children:[
+        { name:"명사", url:L("pumsa/#명사") },
+        { name:"대명사", url:L("pumsa/#대명사") },
+        { name:"수사", url:L("pumsa/#수사") }
+      ]},
+      { name:"용언", children:[
+        { name:"동사", url:L("pumsa/#동사") },
+        { name:"형용사", url:L("pumsa/#형용사") }
+      ]},
+      { name:"수식언", children:[
+        { name:"관형사", url:L("pumsa/#관형사") },
+        { name:"부사", url:L("pumsa/#부사") }
+      ]},
+      { name:"관계언", children:[
+        { name:"조사", url:L("pumsa/#관계언--조사") }
+      ]},
+      { name:"독립언", children:[
+        { name:"감탄사", url:L("pumsa/#독립언--감탄사") }
+      ]}
+    ]},
+    { name:"단어의 의미 관계", url:L("uimi-gwangye/"), children:[
+      { name:"의미의 종류", url:L("uimi-gwangye/#의미의-종류") },
+      { name:"유의 관계", url:L("uimi-gwangye/#유의-관계") },
+      { name:"반의 관계", url:L("uimi-gwangye/#반의-관계"), children:[
+        { name:"정도·상보·방향", url:L("uimi-gwangye/#반의-관계") }
+      ]},
+      { name:"상하 관계", url:L("uimi-gwangye/#상하-관계") },
+      { name:"다의어/동음이의어", url:L("uimi-gwangye/#다의어와-동음이의어--한-형태-여러-뜻") }
+    ]}
+  ]},
+  { name:"4. 어휘", children:[
+    { name:"어휘의 체계(어종)", url:L("eohwi/#어종--삼중-체계"), children:[
+      { name:"고유어·한자어·외래어", url:L("eohwi/#어종--삼중-체계") }
+    ]},
+    { name:"어휘의 양상", url:L("eohwi/#어휘의-양상"), children:[
+      { name:"방언·은어·속어", url:L("eohwi/#어휘의-양상") },
+      { name:"관용어·속담", url:L("eohwi/#관용어와-속담") },
+      { name:"전문어·새말", url:L("eohwi/#어휘의-양상") }
+    ]}
+  ]},
+  { name:"5. 문장", children:[
+    { name:"문장 성분", url:L("munjang-seongbun/"), children:[
+      { name:"주성분(주어·서술어·목적어·보어)", url:L("munjang-seongbun/#주성분") },
+      { name:"부속 성분(관형어·부사어)", url:L("munjang-seongbun/#부속-성분--독립-성분") },
+      { name:"독립어", url:L("munjang-seongbun/#부속-성분--독립-성분") },
+      { name:"서술어의 자릿수", url:L("munjang-seongbun/#서술어의-자릿수") }
+    ]},
+    { name:"문장의 짜임", url:L("munjang-jjaeim/"), children:[
+      { name:"홑문장/겹문장", url:L("munjang-jjaeim/#홑문장과-겹문장") },
+      { name:"안은문장", url:L("munjang-jjaeim/#안은문장--다섯-가지-안긴-절"), children:[
+        { name:"명사절", url:L("munjang-jjaeim/#안은문장--다섯-가지-안긴-절") },
+        { name:"관형절", url:L("munjang-jjaeim/#안은문장--다섯-가지-안긴-절") },
+        { name:"부사절", url:L("munjang-jjaeim/#안은문장--다섯-가지-안긴-절") },
+        { name:"서술절", url:L("munjang-jjaeim/#안은문장--다섯-가지-안긴-절") },
+        { name:"인용절", url:L("munjang-jjaeim/#안은문장--다섯-가지-안긴-절") }
+      ]},
+      { name:"이어진문장", url:L("munjang-jjaeim/#이어진문장--절과-절이-나란히"), children:[
+        { name:"대등·종속", url:L("munjang-jjaeim/#이어진문장--절과-절이-나란히") }
+      ]}
+    ]},
+    { name:"문법 요소", url:L("munbeop-yoso/"), children:[
+      { name:"종결 표현", url:L("munbeop-yoso/#1-종결-표현") },
+      { name:"높임 표현", url:L("munbeop-yoso/#2-높임-표현"), children:[
+        { name:"주체·객체·상대 높임", url:L("munbeop-yoso/#2-높임-표현") }
+      ]},
+      { name:"시간 표현(시제)", url:L("munbeop-yoso/#3-시간-표현-시제") },
+      { name:"피동·사동", url:L("munbeop-yoso/#4-피동사동-표현") },
+      { name:"부정 표현", url:L("munbeop-yoso/#5-부정-표현") }
+    ]}
+  ]},
+  { name:"6. 담화", url:L("damhwa/"), children:[
+    { name:"발화(직접·간접)", url:L("damhwa/#발화의-기능--직접-발화와-간접-발화") },
+    { name:"구성 요소·맥락", url:L("damhwa/#담화의-구성-요소") },
+    { name:"표현(지시·대용·접속)", url:L("damhwa/#담화의-표현") },
+    { name:"통일성·응집성", url:L("damhwa/#좋은-담화의-요건") }
+  ]},
+  { name:"7. 국어의 역사", children:[
+    { name:"훈민정음", url:L("hunminjeongeum/"), children:[
+      { name:"제자 원리", url:L("hunminjeongeum/#제자-원리--초성자음") },
+      { name:"한글의 우수성", url:L("hunminjeongeum/#한글의-우수성") }
+    ]},
+    { name:"중세 국어", url:L("jungse-gugeo/"), children:[
+      { name:"음운·표기·문법", url:L("jungse-gugeo/#표기") }
+    ]},
+    { name:"근대·현대 국어", url:L("geundae-gugeo/"), children:[
+      { name:"시대 구분과 변화", url:L("geundae-gugeo/#국어사의-시대-구분") }
+    ]}
+  ]},
+  { name:"8. 어문 규범", children:[
+    { name:"한글 맞춤법", url:L("hangeul-matchumbeop/"), children:[
+      { name:"소리대로·어법에 맞도록", url:L("hangeul-matchumbeop/#총칙--세-가지-원칙") },
+      { name:"띄어쓰기·사이시옷", url:L("hangeul-matchumbeop/#띄어쓰기") }
+    ]},
+    { name:"표준어 규정", url:L("pyojuneo/") },
+    { name:"표준 발음법", url:L("pyojun-bareum/") },
+    { name:"외래어·로마자 표기법", url:L("oeraeeo-romaja/") }
+  ]}
+]};
+
+var chart = echarts.init(document.getElementById('mindmap'));
+chart.setOption({
+  tooltip: { trigger:'item', triggerOn:'mousemove', formatter: function(p){ return p.data.url ? '클릭하면 이동' : '클릭하면 펼치기/접기'; } },
+  series: [{
+    type:'tree',
+    data:[DATA],
+    layout:'radial',
+    symbol:'emptyCircle',
+    symbolSize: 8,
+    roam: true,
+    initialTreeDepth: -1,
+    expandAndCollapse: true,
+    animationDuration: 450,
+    nodePadding: 6,
+    label: { fontSize: 11, color:'#1a1814', fontFamily:"'Noto Sans KR',sans-serif" },
+    leaves: { label: { fontSize: 10.5, color:'#4a4640' } },
+    lineStyle: { color:'#c9b9a0', width:1, curveness:0.55 },
+    itemStyle: { color:'#8b5e3c', borderColor:'#5c3d1e' },
+    emphasis: { focus:'descendant', itemStyle:{ color:'#9b2335' } }
+  }]
+});
+chart.on('click', function(p){
+  if(p.data && p.data.url && (!p.data.children || !p.data.children.length)){
+    window.location.href = p.data.url;
+  }
+});
+window.addEventListener('resize', function(){ chart.resize(); });
+</script>
 {{ end }}
