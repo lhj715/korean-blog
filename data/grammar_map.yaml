@@ -1,33 +1,24 @@
-# 문법 지도 = 「학교 문법과 문법 교육」 목차 구조 (장 → 절 → 소절)
-# 각 노드: title, slug(글), anchor(글 안 소제목 id). anchor가 안 맞으면 글 상단으로(무해).
+# 문법 지도 = 현행 고등학교 문법 체계 (2022 개정 / 언어와 매체·공통국어)
+# 학술서 전용(언어와 인간, 전제·함의, 담화 구조 등)은 제외.
+# 각 노드: title, slug(글), anchor(소제목 id). anchor 불일치 시 글 상단으로(무해).
 chapters:
   - title: "1. 언어와 국어"
     sections:
       - title: "언어의 본질"
         slug: eoneo-bonjil
-        anchor: "언어란"
         subs:
-          - { title: "기호성·자의성·사회성", slug: eoneo-bonjil, anchor: "자의성과-사회성--함께-보기" }
-          - { title: "언어의 기능", slug: eoneo-bonjil, anchor: "언어의-기능" }
-          - { title: "언어와 인간 (사고·사회·문화)", slug: eoneo-bonjil, anchor: "언어와-인간" }
+          - { title: "기호성·자의성·사회성·역사성·창조성", slug: eoneo-bonjil, anchor: "언어란" }
       - title: "국어의 특질"
         slug: gugeo-teukjil
         subs:
           - { title: "음운의 특질", slug: gugeo-teukjil, anchor: "음운적-특질" }
           - { title: "어휘의 특질", slug: gugeo-teukjil, anchor: "어휘적-특질" }
           - { title: "문법의 특질", slug: gugeo-teukjil, anchor: "문법적-특질" }
-      - title: "한글"
-        slug: hunminjeongeum
-        subs:
-          - { title: "문자의 유형", slug: hunminjeongeum, anchor: "문자의-자리--음소-문자-한글" }
-          - { title: "제자 원리", slug: hunminjeongeum, anchor: "제자-원리--초성자음" }
-          - { title: "한글의 우수성", slug: hunminjeongeum, anchor: "한글의-우수성" }
   - title: "2. 음운"
     sections:
-      - title: "음운과 음운 체계"
+      - title: "음운의 체계"
         slug: eumun-chegye
         subs:
-          - { title: "음운과 음성(변이음)", slug: eumun-chegye, anchor: "음운과-음성--변이음" }
           - { title: "자음 체계", slug: eumun-chegye, anchor: "자음-체계-19개" }
           - { title: "모음 체계", slug: eumun-chegye, anchor: "모음-체계-21개" }
           - { title: "운소(소리의 길이)", slug: eumun-chegye, anchor: "운소--소리의-길이" }
@@ -38,17 +29,16 @@ chapters:
           - { title: "탈락(자음군단순화·ㅎ/ㅡ/ㄹ 탈락)", slug: eumun-byeondong, anchor: "2-탈락" }
           - { title: "첨가(ㄴ첨가·사잇소리)", slug: eumun-byeondong, anchor: "3-첨가" }
           - { title: "축약(거센소리되기·모음축약)", slug: eumun-byeondong, anchor: "4-축약" }
-  - title: "3. 단어(형태론)"
+  - title: "3. 단어"
     sections:
-      - title: "형태소와 단어"
+      - title: "형태소"
         slug: hyeongtaeso
         subs:
-          - { title: "자립/의존·실질/형식 형태소", slug: hyeongtaeso, anchor: "두-가지-분류-기준" }
+          - { title: "자립/의존·실질/형식", slug: hyeongtaeso, anchor: "두-가지-분류-기준" }
           - { title: "이형태", slug: hyeongtaeso, anchor: "이형태--한-형태소-여러-꼴" }
       - title: "단어의 형성"
         slug: daneo-hyeongseong
         subs:
-          - { title: "어근과 접사", slug: daneo-hyeongseong, anchor: "어근과-접사" }
           - { title: "파생어", slug: daneo-hyeongseong, anchor: "파생어" }
           - { title: "합성어(대등·종속·융합 / 통사·비통사)", slug: daneo-hyeongseong, anchor: "합성어--세-가지로-나눈다" }
       - title: "품사"
@@ -56,13 +46,18 @@ chapters:
         subs:
           - { title: "체언·용언·수식언·관계언·독립언", slug: pumsa, anchor: "5언-9품사" }
           - { title: "하위 갈래(의존명사·격/보조사 등)", slug: pumsa, anchor: "하위-갈래" }
-          - { title: "가변어/불변어", slug: pumsa, anchor: "형태로-본-가변어--불변어" }
+      - title: "단어의 의미 관계"
+        slug: uimi-gwangye
+        subs:
+          - { title: "의미의 종류(사전적·함축적)", slug: uimi-gwangye, anchor: "의미의-종류" }
+          - { title: "유의·반의·상하 관계", slug: uimi-gwangye, anchor: "유의-관계" }
+          - { title: "다의어와 동음이의어", slug: uimi-gwangye, anchor: "다의어와-동음이의어--한-형태-여러-뜻" }
   - title: "4. 어휘"
     sections:
-      - title: "어휘의 개념과 분류"
+      - title: "어휘의 체계(어종)"
         slug: eohwi
         subs:
-          - { title: "어종(고유어·한자어·외래어)", slug: eohwi, anchor: "어종--삼중-체계" }
+          - { title: "고유어·한자어·외래어", slug: eohwi, anchor: "어종--삼중-체계" }
       - title: "어휘의 양상"
         slug: eohwi
         subs:
@@ -89,69 +84,43 @@ chapters:
           - { title: "시간 표현(시제·동작상)", slug: munbeop-yoso, anchor: "3-시간-표현-시제" }
           - { title: "피동·사동 표현", slug: munbeop-yoso, anchor: "4-피동사동-표현" }
           - { title: "부정 표현", slug: munbeop-yoso, anchor: "5-부정-표현" }
-  - title: "6. 의미"
-    sections:
-      - title: "언어의 의미"
-        slug: uimi-gwangye
-        subs:
-          - { title: "의미의 종류(사전적·함축적)", slug: uimi-gwangye, anchor: "의미의-종류" }
-      - title: "단어의 의미 관계"
-        slug: uimi-gwangye
-        subs:
-          - { title: "유의 관계", slug: uimi-gwangye, anchor: "유의-관계" }
-          - { title: "반의 관계(정도·상보·방향)", slug: uimi-gwangye, anchor: "반의-관계" }
-          - { title: "상하 관계", slug: uimi-gwangye, anchor: "상하-관계" }
-      - title: "의미의 확장 / 문장의 의미"
-        slug: uimi-gwangye
-        subs:
-          - { title: "다의어와 동음이의어", slug: uimi-gwangye, anchor: "다의어와-동음이의어--한-형태-여러-뜻" }
-          - { title: "문장의 의미(동의성·중의성·전제·함의)", slug: uimi-gwangye, anchor: "문장의-의미" }
-  - title: "7. 담화(이야기)"
+  - title: "6. 담화"
     sections:
       - title: "담화의 개념과 발화"
         slug: damhwa
         subs:
           - { title: "직접 발화·간접 발화", slug: damhwa, anchor: "발화의-기능--직접-발화와-간접-발화" }
-      - title: "담화의 요소"
+      - title: "담화의 구성과 표현"
         slug: damhwa
         subs:
           - { title: "구성 요소·맥락", slug: damhwa, anchor: "담화의-구성-요소" }
-          - { title: "지시·대용·높임·생략 표현", slug: damhwa, anchor: "담화의-표현" }
-      - title: "담화의 구조와 요건"
-        slug: damhwa
-        subs:
+          - { title: "지시·대용·접속 표현", slug: damhwa, anchor: "담화의-표현" }
           - { title: "통일성·응집성", slug: damhwa, anchor: "좋은-담화의-요건" }
-          - { title: "담화의 구조", slug: damhwa, anchor: "담화의-구조" }
-  - title: "8. 국어의 역사"
+  - title: "7. 국어의 역사"
     sections:
+      - title: "훈민정음"
+        slug: hunminjeongeum
+        subs:
+          - { title: "제자 원리", slug: hunminjeongeum, anchor: "제자-원리--초성자음" }
+          - { title: "한글의 우수성", slug: hunminjeongeum, anchor: "한글의-우수성" }
       - title: "중세 국어"
         slug: jungse-gugeo
         subs:
-          - { title: "음운(성조·된소리·ㅸㅿㆁ)", slug: jungse-gugeo, anchor: "음운" }
-          - { title: "표기(8종성·연철·사잇소리)", slug: jungse-gugeo, anchor: "표기" }
-          - { title: "문법(주격 이/ㅣ·높임 선어말어미)", slug: jungse-gugeo, anchor: "문법" }
-      - title: "국어의 변화"
+          - { title: "음운·표기·문법", slug: jungse-gugeo, anchor: "표기" }
+      - title: "근대·현대 국어"
         slug: geundae-gugeo
         subs:
-          - { title: "국어사 시대 구분", slug: geundae-gugeo, anchor: "국어사의-시대-구분" }
-          - { title: "근대 국어", slug: geundae-gugeo, anchor: "근대-국어-17세기--19세기" }
-          - { title: "현대 국어", slug: geundae-gugeo, anchor: "현대-국어-20세기-" }
-  - title: "9. 국어의 규범"
+          - { title: "시대 구분과 변화", slug: geundae-gugeo, anchor: "국어사의-시대-구분" }
+  - title: "8. 어문 규범"
     sections:
-      - title: "표준어와 표준 발음"
-        slug: pyojuneo
-        subs:
-          - { title: "표준어 규정", slug: pyojuneo, anchor: "총칙" }
-          - { title: "표준 발음법", slug: pyojun-bareum, anchor: "총칙" }
       - title: "한글 맞춤법"
         slug: hangeul-matchumbeop
         subs:
-          - { title: "총칙(소리대로·어법)", slug: hangeul-matchumbeop, anchor: "총칙--세-가지-원칙" }
-          - { title: "띄어쓰기", slug: hangeul-matchumbeop, anchor: "띄어쓰기" }
-          - { title: "사이시옷", slug: hangeul-matchumbeop, anchor: "사이시옷-제30항" }
-          - { title: "자주 틀리는 맞춤법", slug: hangeul-matchumbeop, anchor: "자주-틀리는-맞춤법" }
+          - { title: "소리대로·어법에 맞도록", slug: hangeul-matchumbeop, anchor: "총칙--세-가지-원칙" }
+          - { title: "띄어쓰기·사이시옷", slug: hangeul-matchumbeop, anchor: "띄어쓰기" }
+      - title: "표준어 규정"
+        slug: pyojuneo
+      - title: "표준 발음법"
+        slug: pyojun-bareum
       - title: "외래어·로마자 표기법"
         slug: oeraeeo-romaja
-        subs:
-          - { title: "외래어 표기법", slug: oeraeeo-romaja, anchor: "외래어-표기법" }
-          - { title: "국어의 로마자 표기법", slug: oeraeeo-romaja, anchor: "국어의-로마자-표기법" }
