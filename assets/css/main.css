@@ -229,39 +229,46 @@ a:hover{text-decoration:underline}
 @media(max-width:560px){.prevnext{grid-template-columns:1fr}}
 
 /* ───────── 문법 지도 (마인드맵 + 인라인 내용) ───────── */
-.mm-layout{display:grid;grid-template-columns:300px 1fr;gap:36px;align-items:start}
-.mm-tree{position:sticky;top:72px;max-height:calc(100vh - 92px);overflow:auto;
-  background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:6px;padding:18px 16px}
+.mm-layout{display:grid;grid-template-columns:268px 1fr;gap:26px;align-items:start}
+.mm-tree{position:sticky;top:62px;max-height:calc(100vh - 78px);overflow:auto;
+  background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:6px;padding:10px 11px}
 .mm-tree .tree,.mm-tree ul{list-style:none;margin:0;padding:0}
-.mm-tree .tree ul{padding-left:16px}
-.mm-tree li{position:relative;padding-left:16px}
+.mm-tree .tree ul{padding-left:11px}
+.mm-tree li{position:relative;padding-left:11px}
 /* 연결선 (엘보) */
 .mm-tree li::before{content:"";position:absolute;left:0;top:0;height:100%;border-left:1px solid var(--paper-line)}
-.mm-tree li::after{content:"";position:absolute;left:0;top:16px;width:12px;border-top:1px solid var(--paper-line)}
-.mm-tree li:last-child::before{height:16px}
+.mm-tree li::after{content:"";position:absolute;left:0;top:9px;width:8px;border-top:1px solid var(--paper-line)}
+.mm-tree li:last-child::before{height:9px}
 .mm-tree > .tree > li{padding-left:0}
 .mm-tree > .tree > li::before,.mm-tree > .tree > li::after{display:none}
-.node{display:inline-block;margin:3px 0;line-height:1.4}
-.node.root{font-family:'Noto Serif KR',serif;font-size:17px;font-weight:700;color:var(--accent);
-  padding:2px 0 6px}
-.node.unit{font-size:13.5px;font-weight:700;color:var(--ink);padding:3px 0}
-.node.leaf{font:inherit;font-size:13.5px;cursor:pointer;color:var(--accent);
-  background:#fff;border:1px solid var(--paper-line);border-radius:14px;padding:4px 12px;transition:.15s}
+.node{display:inline-block;margin:1px 0;line-height:1.2}
+.node.root{font-family:'Noto Serif KR',serif;font-size:13.5px;font-weight:700;color:var(--accent);padding:0 0 3px}
+.node.unit{font-size:12px;font-weight:700;color:var(--ink);padding:1px 0}
+.node.leaf{font:inherit;font-size:11.5px;cursor:pointer;color:var(--accent);
+  background:#fff;border:1px solid var(--paper-line);border-radius:10px;padding:2px 8px;transition:.15s}
 .node.leaf:hover{border-color:var(--accent-light);background:var(--accent-tint)}
 .node.leaf.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
-.subs{display:flex;flex-direction:column;align-items:flex-start;gap:3px;margin:4px 0 9px 10px;
-  padding-left:10px;border-left:1px dashed var(--paper-line)}
-.node.sub{font-size:11.5px;color:var(--ink-soft);background:transparent;border:1px solid var(--paper-line);
-  border-radius:10px;padding:2px 9px;cursor:pointer;transition:.12s;text-align:left}
+.subs{display:flex;flex-direction:column;align-items:flex-start;gap:2px;margin:2px 0 5px 7px;
+  padding-left:7px;border-left:1px dashed var(--paper-line)}
+.node.sub{font-size:10.5px;color:var(--ink-soft);background:transparent;border:1px solid var(--paper-line);
+  border-radius:9px;padding:1px 7px;cursor:pointer;transition:.12s;text-align:left;line-height:1.2}
 .node.sub:hover{color:var(--accent);border-color:var(--accent-light);background:#fff}
 
 .mm-detail{min-width:0}
-.mm-title{font-family:'Noto Serif KR',serif;font-size:27px;font-weight:700;color:var(--ink);
-  letter-spacing:-.02em;margin:0 0 18px;padding-bottom:14px;border-bottom:2px solid var(--accent-tint)}
-.mm-detail .prose{max-width:none;margin-bottom:0}
+.mm-title{font-family:'Noto Serif KR',serif;font-size:21px;font-weight:700;color:var(--ink);
+  letter-spacing:-.02em;margin:0 0 12px;padding-bottom:9px;border-bottom:2px solid var(--accent-tint)}
+.mm-detail .prose{max-width:none;margin-bottom:0;font-size:14.5px;line-height:1.7}
+.mm-detail .prose h2{font-size:17px;margin:20px 0 9px;padding:5px 0 5px 13px}
+.mm-detail .prose h3{font-size:15px;margin:15px 0 7px}
+.mm-detail .prose p{margin:0 0 11px}
+.mm-detail .prose li{margin:6px 0}
+.mm-detail .prose ul,.mm-detail .prose ol{margin:0 0 12px}
+.mm-detail .prose table{font-size:13px;margin:11px 0}
+.mm-detail .prose th,.mm-detail .prose td{padding:6px 9px}
+.mm-detail .prose blockquote{margin:11px 0;padding:9px 13px}
 
 @media(max-width:900px){
-  .mm-layout{grid-template-columns:1fr;gap:20px}
+  .mm-layout{grid-template-columns:1fr;gap:16px}
   .mm-tree{position:static;max-height:none}
 }
 
