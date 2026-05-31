@@ -1,7 +1,7 @@
 ---
 title: "상사별곡"
 hanja: "相思別曲 — 서로 그리워하는 이별의 노래"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기 (18세기)"

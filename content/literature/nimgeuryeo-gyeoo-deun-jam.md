@@ -1,7 +1,7 @@
 ---
 title: "님 그려 겨오 든 잠에"
 hanja: "님 그려 겨오 든 잠에"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

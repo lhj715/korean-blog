@@ -1,7 +1,7 @@
 ---
 title: "옹헤야"
 hanja: "옹헤야"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기 (전승 민요)"

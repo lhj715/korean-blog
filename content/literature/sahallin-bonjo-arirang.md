@@ -1,7 +1,7 @@
 ---
 title: "사할린 본조 아리랑"
 hanja: "사할린 本調 아리랑"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "일제 강점기 (20세기 전반)"

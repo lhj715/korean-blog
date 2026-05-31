@@ -1,7 +1,7 @@
 ---
 title: "창 내고자 창을 내고자"
 hanja: "窓 내고자 窓을 내고자"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

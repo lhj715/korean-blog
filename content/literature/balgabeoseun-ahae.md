@@ -1,7 +1,7 @@
 ---
 title: "붉가버슨 아해들이"
 hanja: "붉가버슨 아해들이"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

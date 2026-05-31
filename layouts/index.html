@@ -5,7 +5,7 @@
     <h1 class="hero-title">수능 국어를<br><em>지도</em>처럼 읽다</h1>
     <p class="hero-desc">문학 작품 해설 · 문법 정리 · 수능 기출 자료를 한곳에서. 갈래·작가·시대로 엮어, 흩어진 자료를 하나의 지도로 모읍니다.</p>
     <div class="hero-actions">
-      <a class="btn" href="{{ "/literature/" | relURL }}">작품 둘러보기</a>
+      <a class="btn" href="#start">둘러보기</a>
       <a class="btn ghost" href="{{ "/search/" | relURL }}">검색</a>
     </div>
   </div>
@@ -19,7 +19,7 @@
   </div>
 </section>
 
-<section class="home-section">
+<section class="home-section" id="start">
   <div class="section-head"><h2>세 갈래로 시작하기</h2><span class="sub">문학 · 문법 · 기출</span></div>
   <div class="pillars">
     {{- $defs := dict

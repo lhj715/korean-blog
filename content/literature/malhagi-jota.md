@@ -1,7 +1,7 @@
 ---
 title: "말하기 좋다 하고"
 hanja: "말하기 좋다 하고"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

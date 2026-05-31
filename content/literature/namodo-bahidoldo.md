@@ -1,7 +1,7 @@
 ---
 title: "나모도 바위돌도 없는 뫼에"
 hanja: "나모도 바위돌도 없는 뫼에"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

@@ -1,7 +1,7 @@
 ---
 title: "바람도 쉬어 넘는 고개"
 hanja: "바람도 쉬어 넘는 고개"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

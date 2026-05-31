@@ -1,7 +1,7 @@
 ---
 title: "재 우희 우뚝 션 소나모"
 hanja: "재 우희 우뚝 션 소나모"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

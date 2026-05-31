@@ -1,7 +1,7 @@
 ---
 title: "한숨아 세 한숨아"
 hanja: "한숨아 세 한숨아"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

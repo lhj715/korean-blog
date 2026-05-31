@@ -1,7 +1,7 @@
 ---
 title: "개를 여라믄이나 기르되"
 hanja: "개를 여라믄이나 기르되"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

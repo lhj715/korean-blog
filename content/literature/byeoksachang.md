@@ -1,7 +1,7 @@
 ---
 title: "벽사창이 어른어른커늘"
 hanja: "碧紗窓이 어른어른커늘"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

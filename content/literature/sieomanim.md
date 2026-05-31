@@ -1,7 +1,7 @@
 ---
 title: "시어머님 며느라기 나빠"
 hanja: "싀어마님 며느라기 낫바"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

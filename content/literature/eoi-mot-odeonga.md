@@ -1,7 +1,7 @@
 ---
 title: "어이 못 오던가"
 hanja: "어이 못 오던가"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 후기"

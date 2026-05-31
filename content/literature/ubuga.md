@@ -1,7 +1,7 @@
 ---
 title: "우부가"
 hanja: "愚夫歌 — 어리석은 사내의 노래"
-authors: ["미상"]
+authors: ["작자 미상"]
 genres: ["고전시가"]
 eras: ["조선후기"]
 year_approx: "조선 숙종〜영조 (17세기 말〜18세기)"
