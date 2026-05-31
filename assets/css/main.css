@@ -248,6 +248,10 @@ a:hover{text-decoration:underline}
 .gtree .gleaf{display:inline-block;white-space:nowrap;padding:5px 0;font-size:17px;color:var(--accent)}
 .gtree .gleaf:hover{text-decoration:underline}
 .gtree .gleaf::before{content:"· ";margin-right:6px;color:var(--accent-light)}
+/* 옆으로 퍼지는(가로) 하위 목록 */
+.gtree ul.inline{display:flex;flex-wrap:wrap;align-items:center;gap:4px 16px;padding-left:22px}
+.gtree ul.inline > li{padding-left:0}
+.gtree ul.inline > li::before,.gtree ul.inline > li::after{display:none}
 
 /* ───────── (구) 문법 지도 인라인 트리 ───────── */
 .mm-layout{display:grid;grid-template-columns:268px 1fr;gap:26px;align-items:start}
