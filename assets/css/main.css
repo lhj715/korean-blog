@@ -228,9 +228,27 @@ a:hover{text-decoration:underline}
 
 @media(max-width:560px){.prevnext{grid-template-columns:1fr}}
 
-/* ───────── 문법 지도 (ECharts 방사형 마인드맵) ───────── */
-.mm-hint{font-size:12.5px;color:var(--ink-soft);margin-top:8px;line-height:1.6}
-.echarts-map{width:100%;height:82vh;min-height:560px;margin-top:8px}
+/* ───────── 문법 지도 (계단형 트리) ───────── */
+.mm-page{max-width:1480px;overflow-x:auto}
+.mm-hint{font-size:13px;color:var(--ink-soft);margin-top:8px;line-height:1.6}
+.gtree,.gtree ul{list-style:none;margin:0;padding:0}
+.gtree{margin-top:14px}
+.gtree ul{padding-left:22px}
+.gtree li{position:relative;padding-left:20px}
+.gtree li::before{content:"";position:absolute;left:0;top:0;height:100%;border-left:1px solid var(--paper-line)}
+.gtree li::after{content:"";position:absolute;left:0;top:17px;width:15px;border-top:1px solid var(--paper-line)}
+.gtree li:last-child::before{height:17px}
+.gtree > li{padding-left:0}
+.gtree > li::before,.gtree > li::after{display:none}
+.gtree details{margin:0}
+.gtree summary{cursor:pointer;list-style:none;white-space:nowrap;
+  padding:5px 0;font-size:18px;font-weight:700;color:var(--ink);font-family:'Noto Serif KR',serif}
+.gtree summary::-webkit-details-marker{display:none}
+.gtree summary::before{content:"▸ ";color:var(--accent-light);font-size:13px;display:inline-block;transition:transform .15s}
+.gtree details[open]>summary::before{transform:rotate(90deg)}
+.gtree .gleaf{display:inline-block;white-space:nowrap;padding:5px 0;font-size:17px;color:var(--accent)}
+.gtree .gleaf:hover{text-decoration:underline}
+.gtree .gleaf::before{content:"· ";margin-right:6px;color:var(--accent-light)}
 
 /* ───────── (구) 문법 지도 인라인 트리 ───────── */
 .mm-layout{display:grid;grid-template-columns:268px 1fr;gap:26px;align-items:start}
