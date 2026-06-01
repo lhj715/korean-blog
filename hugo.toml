@@ -38,9 +38,13 @@ summaryLength = 30
   url = '/exams/'
   weight = 30
 [[menu.main]]
+  name = '한자성어'
+  url = '/idioms/'
+  weight = 40
+[[menu.main]]
   name = '검색'
   url = '/search/'
-  weight = 40
+  weight = 50
 
 [markup]
   [markup.goldmark.renderer]

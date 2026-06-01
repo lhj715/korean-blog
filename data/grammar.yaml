@@ -5,7 +5,7 @@ units:
   - title: "1. 음운"
     slugs: [eumun-chegye, eumun-byeondong, eumun-byeondong-gyoche, eumun-byeondong-talrak, eumun-byeondong-cheomga, eumun-byeondong-chukyak]
   - title: "2. 단어"
-    slugs: [hyeongtaeso, daneo-hyeongseong, pumsa, uimi-gwangye]
+    slugs: [hyeongtaeso, daneo-hyeongseong, pumsa, pumsa-cheeon, pumsa-yongeon, pumsa-susigeon, pumsa-gwangyeeon, pumsa-dongnibeon, uimi-gwangye]
   - title: "2-1. 어휘"
     slugs: [eohwi]
   - title: "3. 문장"

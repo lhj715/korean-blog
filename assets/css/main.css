@@ -349,6 +349,20 @@ a:hover{text-decoration:underline}
 .footer-links a:hover{color:var(--accent)}
 .footer-note{font-size:12px;color:var(--ink-soft)}
 
+/* 한자성어 */
+.idiom-search{margin-bottom:24px}
+.idiom-search input{width:100%;max-width:520px;padding:11px 16px;font-size:15px;font-family:inherit;
+  border:1px solid var(--paper-line);border-radius:4px;background:var(--paper);color:var(--ink)}
+.idiom-search input:focus{outline:none;border-color:var(--accent-light);background:#fff}
+.idiom-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.idiom-card{background:var(--paper);border:1px solid var(--paper-line);border-radius:4px;padding:16px 18px}
+.idiom-head{display:flex;align-items:baseline;gap:10px;margin-bottom:8px;flex-wrap:wrap}
+.idiom-word{font-family:'Noto Serif KR',serif;font-size:18px;font-weight:700;color:var(--ink)}
+.idiom-hanja{font-family:'Noto Serif TC','Noto Serif KR',serif;font-size:14px;color:var(--accent-light)}
+.idiom-meaning{font-size:13.5px;color:var(--ink-mid);line-height:1.65}
+.idiom-ex{font-size:12.5px;color:var(--ink-soft);line-height:1.6;margin-top:8px;
+  padding-top:8px;border-top:1px solid var(--paper-line)}
+
 /* 한국 문학사 가로 연표 */
 .lh-scroll{max-width:var(--maxw);margin:0 auto;padding:4px 48px 8px;overflow-x:auto;-webkit-overflow-scrolling:touch}
 .lh-track{display:flex;align-items:stretch;min-width:min-content}

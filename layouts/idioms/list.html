@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="wrap">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+    {{- $idioms := hugo.Data.idioms }}
+    <p class="count" style="font-size:1.1rem;color:#8a6d3b;margin-top:8px"><strong>총 <span id="visible-count">{{ len $idioms }}</span>개</strong> 수록</p>
+  </div>
+
+  <div class="idiom-search">
+    <input type="search" id="idiom-q" placeholder="한글·한자·뜻으로 검색  (예: 고진감래, 苦盡, 노력)" autocomplete="off">
+  </div>
+
+  <div class="idiom-grid" id="idiom-grid">
+    {{- range $idioms }}
+    <div class="idiom-card" data-q="{{ .word }} {{ .hanja }} {{ .meaning }}">
+      <div class="idiom-head">
+        <span class="idiom-word">{{ .word }}</span>
+        <span class="idiom-hanja">{{ .hanja }}</span>
+      </div>
+      <div class="idiom-meaning">{{ .meaning }}</div>
+      {{- with .example }}<div class="idiom-ex">예) {{ . }}</div>{{ end }}
+    </div>
+    {{- end }}
+  </div>
+
+  <p id="idiom-none" style="display:none;color:var(--ink-soft);font-size:14px;margin-top:20px">검색 결과가 없습니다.</p>
+</div>
+
+<script>
+(function(){
+  var q = document.getElementById('idiom-q');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('#idiom-grid .idiom-card'));
+  var counter = document.getElementById('visible-count');
+  var none = document.getElementById('idiom-none');
+  function norm(s){ return (s||'').toLowerCase().replace(/\s+/g,''); }
+  function apply(){
+    var term = norm(q.value);
+    var n = 0;
+    cards.forEach(function(c){
+      var show = !term || norm(c.dataset.q).indexOf(term) !== -1;
+      c.style.display = show ? '' : 'none';
+      if(show) n++;
+    });
+    if(counter) counter.textContent = n;
+    none.style.display = n ? 'none' : '';
+  }
+  q.addEventListener('input', apply);
+})();
+</script>
+{{ end }}
