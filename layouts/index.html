@@ -15,6 +15,7 @@
       <div><div class="hero-stat-num">{{ with $lit }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">문학 작품</div></div>
       <div><div class="hero-stat-num">{{ with $gr }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">문법 정리</div></div>
       <div><div class="hero-stat-num">{{ with $ex }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">기출 자료</div></div>
+      <div><div class="hero-stat-num">{{ len hugo.Data.idioms }}</div><div class="hero-stat-label">한자성어</div></div>
     </div>
   </div>
 </section>
