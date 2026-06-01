@@ -385,7 +385,11 @@ a.lh-work:hover{border-bottom-color:var(--accent-light);text-decoration:none}
 
 @media(max-width:780px){
   .topbar,.breadcrumb,.wrap,.hero,.home-section,.site-footer{padding-left:20px;padding-right:20px}
-  .nav{gap:16px}
+  .topbar{padding-left:14px;padding-right:14px;gap:10px}
+  .brand{flex:0 0 auto;font-size:15px}
+  .nav{gap:14px;min-width:0;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .nav::-webkit-scrollbar{display:none}
+  .nav a{font-size:13px;white-space:nowrap}
   .hero{grid-template-columns:1fr;gap:28px;padding-top:72px}
   .hero-title{font-size:32px}
   .work-header{grid-template-columns:1fr;gap:28px}
