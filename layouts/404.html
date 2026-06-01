@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="wrap" style="text-align:center;padding-top:80px">
+  <p class="kicker" style="color:var(--accent-light);font-size:13px;letter-spacing:.1em">404</p>
+  <h1 style="font-family:'Noto Serif KR',serif;font-size:40px;margin:8px 0 14px">길을 잃으셨나요?</h1>
+  <p style="color:var(--ink-mid);font-size:15px;margin-bottom:36px">찾으시는 페이지가 없거나 주소가 바뀌었습니다. 아래에서 이어가 보세요.</p>
+  <div class="pillars" style="max-width:760px;margin:0 auto;text-align:left">
+    {{- $items := slice
+        (dict "u" "/literature/" "h" "문학" "d" "고전시가·현대시 작품 해설")
+        (dict "u" "/grammar/" "h" "문법" "d" "음운·단어·문장·어문규정")
+        (dict "u" "/exams/" "h" "기출" "d" "수능·모평·학평 자료실")
+        (dict "u" "/idioms/" "h" "한자성어" "d" "빈출 한자성어 뜻·예문") }}
+    {{- range $items }}
+    <a class="pillar" href="{{ .u | relURL }}">
+      <div class="pillar-head"><h3>{{ .h }}</h3><span class="arrow">→</span></div>
+      <p>{{ .d }}</p>
+    </a>
+    {{- end }}
+  </div>
+  <p style="margin-top:30px"><a class="btn ghost" href="{{ "/search/" | relURL }}">검색으로 찾기</a></p>
+</div>
+{{ end }}

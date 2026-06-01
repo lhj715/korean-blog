@@ -1,14 +1,16 @@
 {{ define "main" }}
 <div class="wrap">
   <div class="page-header"><h1>검색</h1></div>
-  <input id="q" type="search" placeholder="작품·작가·문법·기출 검색…" autocomplete="off">
+  <input id="q" type="search" placeholder="작품·작가·문법·기출·한자성어 검색…" autocomplete="off">
   <div id="results"></div>
 </div>
 <script>
-const sectionLabel = {literature:"문학", grammar:"문법", exams:"기출"};
+const sectionLabel = {literature:"문학", grammar:"문법", exams:"기출", idioms:"한자성어"};
 let DATA = [];
-fetch("{{ "/index.json" | relURL }}").then(r=>r.json()).then(d=>{DATA=d;render("")});
 const $q = document.getElementById("q"), $r = document.getElementById("results");
+const q0 = new URLSearchParams(location.search).get("q") || "";
+if(q0) $q.value = q0;
+fetch("{{ "/index.json" | relURL }}").then(r=>r.json()).then(d=>{DATA=d;render(q0)});
 $q.addEventListener("input", e=>render(e.target.value.trim()));
 function render(term){
   const t = term.toLowerCase();

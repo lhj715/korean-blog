@@ -11,4 +11,14 @@
       "summary" (or .Params.summary "")
   ) -}}
 {{- end -}}
+{{- range hugo.Data.idioms -}}
+  {{- $list = $list | append (dict
+      "title" .word
+      "url" (printf "%s#%s" (relURL "/idioms/") .word)
+      "section" "idioms"
+      "genre" .hanja
+      "author" ""
+      "summary" .meaning
+  ) -}}
+{{- end -}}
 {{- $list | jsonify -}}

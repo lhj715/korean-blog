@@ -1,0 +1,26 @@
+{{- /* JSON-LD 구조화 데이터 */ -}}
+{{- $base := .Site.BaseURL -}}
+{{- $secLabel := dict "literature" "문학" "grammar" "문법" "exams" "기출" "idioms" "한자성어" -}}
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"WebSite","@id":"{{ $base }}#website","url":"{{ $base }}","name":{{ .Site.Title | jsonify }},"description":{{ .Site.Params.description | jsonify }},"inLanguage":"ko-KR","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"{{ "search/?q={search_term_string}" | absURL }}"},"query-input":"required name=search_term_string"}},
+{"@type":"Organization","@id":"{{ $base }}#org","name":{{ .Site.Title | jsonify }},"url":"{{ $base }}","logo":"{{ "favicon-180.png" | absURL }}"}
+]}
+</script>
+{{- else if and .IsPage (eq .Section "literature") -}}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"CreativeWork","name":{{ .Title | jsonify }},"url":"{{ .Permalink }}","inLanguage":"ko-KR"{{ with .Params.authors }},"author":[{{ range $i,$a := . }}{{ if $i }},{{ end }}{"@type":"Person","name":{{ $a | jsonify }}}{{ end }}]{{ end }}{{ with .Params.genres }},"genre":{{ (delimit . ", ") | jsonify }}{{ end }}{{ with .Description }},"description":{{ . | jsonify }}{{ end }},"isPartOf":{"@type":"WebSite","name":{{ .Site.Title | jsonify }},"url":"{{ $base }}"}}
+</script>
+{{- end -}}
+{{- if or .IsPage (and .IsSection (not .IsHome)) -}}
+{{- $crumbs := slice (dict "name" "홈" "item" $base) -}}
+{{- if and .Section (index $secLabel .Section) -}}
+  {{- $sp := .Site.GetPage (printf "/%s" .Section) -}}
+  {{- if $sp }}{{ $crumbs = $crumbs | append (dict "name" (index $secLabel .Section) "item" $sp.Permalink) }}{{ end -}}
+{{- end -}}
+{{- if .IsPage }}{{ $crumbs = $crumbs | append (dict "name" .Title "item" .Permalink) }}{{ end -}}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{{ range $i,$c := $crumbs }}{{ if $i }},{{ end }}{"@type":"ListItem","position":{{ add $i 1 }},"name":{{ $c.name | jsonify }},"item":"{{ $c.item }}"}{{ end }}]}
+</script>
+{{- end -}}

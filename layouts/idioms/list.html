@@ -13,7 +13,7 @@
 
   <div class="idiom-grid" id="idiom-grid">
     {{- range $idioms }}
-    <div class="idiom-card" data-q="{{ .word }} {{ .hanja }} {{ .meaning }}">
+    <div class="idiom-card" id="{{ .word }}" data-q="{{ .word }} {{ .hanja }} {{ .meaning }}">
       <div class="idiom-head">
         <span class="idiom-word">{{ .word }}</span>
         <span class="idiom-hanja">{{ .hanja }}</span>
