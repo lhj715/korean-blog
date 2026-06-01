@@ -25,10 +25,10 @@ chapters:
       - title: "음운의 변동"
         slug: eumun-byeondong
         subs:
-          - { title: "교체(음절끝소리·비음화·유음화·구개음화·된소리되기)", slug: eumun-byeondong, anchor: "1-교체" }
-          - { title: "탈락(자음군단순화·ㅎ/ㅡ/ㄹ 탈락)", slug: eumun-byeondong, anchor: "2-탈락" }
-          - { title: "첨가(ㄴ첨가·사잇소리)", slug: eumun-byeondong, anchor: "3-첨가" }
-          - { title: "축약(거센소리되기·모음축약)", slug: eumun-byeondong, anchor: "4-축약" }
+          - { title: "교체(음절끝소리·비음화·유음화·구개음화·된소리되기)", slug: eumun-byeondong-gyoche }
+          - { title: "탈락(자음군단순화·ㅎ/ㅡ/ㄹ 탈락)", slug: eumun-byeondong-talrak }
+          - { title: "첨가(ㄴ첨가·사잇소리)", slug: eumun-byeondong-cheomga }
+          - { title: "축약(거센소리되기·모음축약)", slug: eumun-byeondong-chukyak }
   - title: "3. 단어"
     sections:
       - title: "형태소"

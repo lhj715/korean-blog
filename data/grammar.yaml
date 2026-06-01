@@ -3,7 +3,7 @@ units:
   - title: "0. 언어와 국어"
     slugs: [eoneo-bonjil, gugeo-teukjil]
   - title: "1. 음운"
-    slugs: [eumun-chegye, eumun-byeondong]
+    slugs: [eumun-chegye, eumun-byeondong, eumun-byeondong-gyoche, eumun-byeondong-talrak, eumun-byeondong-cheomga, eumun-byeondong-chukyak]
   - title: "2. 단어"
     slugs: [hyeongtaeso, daneo-hyeongseong, pumsa, uimi-gwangye]
   - title: "2-1. 어휘"
