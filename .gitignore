@@ -2,3 +2,7 @@
 /public/
 /resources/
 .hugo_build.lock
+
+# 작업용 임시 파일
+new_idioms*.json
+fetch_*.log
