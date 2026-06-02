@@ -43,20 +43,73 @@
 </section>
 
 
-{{- $lbl := dict "literature" "문학" "grammar" "문법" "exams" "기출" }}
-{{- $recent := first 8 (where site.RegularPages "Section" "in" (slice "literature" "grammar" "exams")) }}
-{{- with $recent }}
+{{/* ───────── 오늘의 한자성어 (매일 자동 교체) ───────── */}}
+{{- with hugo.Data.idioms }}
+{{- $first := index . 0 }}
 <section class="home-section">
-  <div class="section-head"><h2>최근 추가된 자료</h2><span class="sub">문학 · 문법 · 기출</span></div>
-  <div class="works-grid">
-    {{- range . }}
-    <a class="work-card" href="{{ .RelPermalink }}">
-      <div class="wc-num">{{ index $lbl .Section }}{{ with .Params.genres }} · {{ index . 0 }}{{ end }}{{ with .Params.category }} · {{ . }}{{ end }}</div>
-      <div class="wc-title">{{ .Title }}</div>
-      <div class="wc-author">{{ with .Params.authors }}{{ delimit . " · " }}{{ else }}{{ with .Params.summary }}{{ . | truncate 40 }}{{ end }}{{ end }}</div>
-    </a>
+  <div class="section-head"><h2>오늘의 한자성어</h2><span class="sub">매일 새로 — 뜻과 예문</span></div>
+  <div class="idiom-card" id="idiom-today" style="max-width:600px">
+    <div class="idiom-head">
+      <span class="idiom-word" id="it-word">{{ $first.word }}</span>
+      <span class="idiom-hanja" id="it-hanja">{{ $first.hanja }}</span>
+    </div>
+    <div class="idiom-meaning" id="it-meaning">{{ $first.meaning }}</div>
+    <div class="idiom-ex" id="it-ex">{{ with $first.example }}예) {{ . }}{{ end }}</div>
+  </div>
+  <p style="margin-top:14px"><a class="btn ghost" href="{{ "/idioms/" | relURL }}">한자성어 전체 {{ len . }}개 보기 →</a></p>
+</section>
+<script id="idioms-data" type="application/json">{{ . | jsonify }}</script>
+<script>
+(function(){
+  var el=document.getElementById('idioms-data'); if(!el) return;
+  var data=JSON.parse(el.textContent); if(!data.length) return;
+  var now=new Date(), start=new Date(now.getFullYear(),0,0);
+  var doy=Math.floor((now-start)/86400000);
+  var it=data[doy%data.length];
+  document.getElementById('it-word').textContent=it.word;
+  document.getElementById('it-hanja').textContent=it.hanja||'';
+  document.getElementById('it-meaning').textContent=it.meaning||'';
+  var ex=document.getElementById('it-ex');
+  if(it.example){ex.textContent='예) '+it.example; ex.style.display='';}else{ex.style.display='none';}
+})();
+</script>
+{{- end }}
+
+{{/* ───────── 시대로 찾기 ───────── */}}
+{{- $eraOrder := slice "삼국시대" "발해" "통일신라" "고려" "조선전기" "조선후기" "개화기" "일제강점기" "광복이후" }}
+<section class="home-section">
+  <div class="section-head"><h2>시대로 찾기</h2><span class="sub">고대부터 현대까지 — 문학사 흐름</span></div>
+  <div class="era-chips">
+    {{- range $era := $eraOrder }}
+      {{- $t := site.GetPage (printf "/eras/%s" $era) }}
+      {{- with $t }}
+      <a class="era-chip" href="{{ .RelPermalink }}">
+        <span class="era-chip-name">{{ $era }}</span>
+        <span class="era-chip-count">{{ len .Pages }}</span>
+      </a>
+      {{- end }}
+    {{- end }}
+  </div>
+  <p style="margin-top:16px"><a class="btn ghost" href="{{ "/literature/timeline/" | relURL }}">🗺️ 문학사 연표 전체 보기 →</a></p>
+</section>
+
+{{/* ───────── 빈출 작가 ───────── */}}
+<section class="home-section">
+  <div class="section-head"><h2>빈출 작가</h2><span class="sub">작품이 많은 작가부터</span></div>
+  <div class="era-chips">
+    {{- $n := 0 }}
+    {{- range site.Taxonomies.authors.ByCount }}
+      {{- if and (lt $n 24) (not (in (slice "미상" "작자 미상" "작자미상") .Term)) }}
+        {{- $n = add $n 1 }}
+        {{- $term := .Term }}{{ $cnt := .Count }}
+        {{- with .Page }}
+        <a class="era-chip" href="{{ .RelPermalink }}">
+          <span class="era-chip-name">{{ $term }}</span>
+          <span class="era-chip-count">{{ $cnt }}</span>
+        </a>
+        {{- end }}
+      {{- end }}
     {{- end }}
   </div>
 </section>
-{{- end }}
 {{ end }}
