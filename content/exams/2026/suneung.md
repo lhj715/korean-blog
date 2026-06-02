@@ -2,12 +2,6 @@
 title: "2026학년도 수능 국어"
 category: "수능"
 date: 2025-11-13
-grade: "go3"
-grade_label: "고3"
-exam_year: 2026
-exam_month: 11
-exam_label: "수능"
-aliases: ["/exams/2026/suneung/"]
 keywords: ["수능", "2026", "국어"]
 summary: "2026학년도 대학수학능력시험 국어 영역 — 문제지·정답표·출제 작품."
 ---

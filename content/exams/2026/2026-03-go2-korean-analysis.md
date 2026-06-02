@@ -2,12 +2,6 @@
 title: "2026년 3월 고2 국어 기출 분석"
 category: "학력평가"
 date: 2026-03-24
-grade: "go2"
-grade_label: "고2"
-exam_year: 2026
-exam_month: 3
-exam_label: "3월 학력평가"
-aliases: ["/exams/2026/2026-03-go2-korean-analysis/"]
 keywords: ["고2", "2026년 3월", "학력평가", "국어", "기출 분석", "근거 표시"]
 summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트의 정답 근거와 선지 판단을 지문 근거에 연결한 분석."
 ---
