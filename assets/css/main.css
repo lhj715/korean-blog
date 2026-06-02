@@ -174,6 +174,35 @@ a:hover{text-decoration:underline}
 .prose th{color:var(--ink-soft);font-weight:600;background:var(--paper-warm)}
 .prose strong{color:var(--ink)}
 
+/* 기출 근거 표시형 분석 */
+.exam-analysis{display:block}
+.exam-overview{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1px;
+  background:var(--paper-line);border:1px solid var(--paper-line);border-radius:4px;overflow:hidden;margin:0 0 24px}
+.exam-overview-item{background:var(--paper-warm);padding:15px 18px}
+.exam-overview-item span{display:block;font-size:11px;color:var(--ink-soft);letter-spacing:.08em;margin-bottom:3px}
+.exam-overview-item strong{display:block;font-size:15px;color:var(--ink);font-weight:700}
+.source-note{background:#fff;border:1px solid var(--paper-line);border-left:5px solid var(--gold);
+  border-radius:4px;padding:14px 18px;margin:0 0 28px;color:var(--ink-mid);font-size:14px;line-height:1.75}
+.evidence-map{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;margin:18px 0 34px}
+.evidence-card{background:#fff;border:1px solid var(--paper-line);border-radius:4px;padding:18px 18px 16px;scroll-margin-top:82px}
+.evidence-card:target{border-color:var(--gold);box-shadow:0 0 0 3px rgba(184,134,11,.14)}
+.evidence-id{display:inline-flex;align-items:center;justify-content:center;min-width:34px;height:24px;
+  background:var(--accent);color:#fff;border-radius:2px;font-size:12px;font-weight:700;margin-bottom:10px}
+.evidence-card h3{margin:0 0 8px!important;font-size:17px!important;color:var(--ink)!important}
+.evidence-quote{font-size:14px!important;line-height:1.75!important;color:var(--ink-mid);margin-bottom:10px!important}
+.evidence-use{font-size:12px!important;color:#7a5a06;background:#fdf8f0;border:1px solid #e8d9b8;
+  border-radius:2px;padding:5px 8px;margin:0!important}
+.question-analysis{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;
+  padding:18px 20px;margin:14px 0 18px}
+.answer-line{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.answer-line span{font-size:12px;color:var(--ink-soft);letter-spacing:.08em}
+.answer-line strong{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;
+  border-radius:50%;background:var(--red);color:#fff;font-size:19px}
+.linked-evidence{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}
+.linked-evidence a{font-size:12px;padding:5px 10px;border:1px solid var(--accent-light);border-radius:2px;
+  color:var(--accent);background:#fff}
+.linked-evidence a:hover{background:var(--accent);border-color:var(--accent);color:#fff;text-decoration:none}
+
 /* 고전시가 본문 2단 (가독성 안정 규칙) */
 .prose-2col{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05);max-width:none}
 .prose-2col > h2{break-inside:avoid;break-after:avoid;margin-top:0}
