@@ -408,3 +408,16 @@ a.lh-work:hover{border-bottom-color:var(--accent-light);text-decoration:none}
 .era-chip-count{font-size:11px;color:var(--ink-soft);background:var(--paper);
   border:1px solid var(--paper-line);border-radius:10px;padding:1px 8px;min-width:20px;text-align:center}
 .era-chip:hover .era-chip-count{color:var(--accent);border-color:var(--accent-light)}
+
+/* ───────── 메인: 검색창 (네이버/구글식 흰 입력칸) ───────── */
+.home-search{display:flex;max-width:480px;margin-bottom:20px;
+  border:1.5px solid var(--accent-light);border-radius:8px;overflow:hidden;
+  background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.05);transition:.15s}
+.home-search:focus-within{border-color:var(--accent);box-shadow:0 2px 12px rgba(92,61,30,.14)}
+.home-search-input{flex:1;min-width:0;border:0;outline:0;background:transparent;
+  padding:14px 18px;font-size:15px;font-family:inherit;color:var(--ink)}
+.home-search-input::placeholder{color:var(--ink-soft)}
+.home-search-btn{flex:0 0 auto;border:0;background:var(--accent);color:#fff;
+  padding:0 20px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s}
+.home-search-btn:hover{background:#4a3017}
+.home-search-btn svg{width:20px;height:20px}

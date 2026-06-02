@@ -4,9 +4,14 @@
     <p class="kicker">고1 · 고2 · 고3 국어 학습 아카이브</p>
     <h1 class="hero-title">수능 국어를<br><em>지도</em>처럼 읽다</h1>
     <p class="hero-desc">문학 작품 해설 · 문법 정리 · 수능 기출 자료를 한곳에서. 갈래·작가·시대로 엮어, 흩어진 자료를 하나의 지도로 모읍니다.</p>
+    <form class="home-search" action="{{ "/search/" | relURL }}" method="get" role="search">
+      <input class="home-search-input" type="search" name="q" placeholder="작품 · 작가 · 문법 · 한자성어 검색" autocomplete="off" aria-label="사이트 검색">
+      <button class="home-search-btn" type="submit" aria-label="검색">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      </button>
+    </form>
     <div class="hero-actions">
-      <a class="btn" href="#start">둘러보기</a>
-      <a class="btn ghost" href="{{ "/search/" | relURL }}">검색</a>
+      <a class="btn ghost" href="#start">전체 둘러보기 ↓</a>
     </div>
   </div>
   <div>
