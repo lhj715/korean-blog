@@ -14,7 +14,7 @@
         {{- range .Params.authors }}<span class="pill">{{ . }}</span>{{ end }}
         {{- with .Params.year_approx }}<span class="pill">{{ . }}</span>{{ end }}
         {{- with .Params.source }}<span class="pill">{{ . }}</span>{{ end }}
-        {{- if and .Params.original (eq .Params.copyright "public") }}<span class="pill">원문 공개</span>{{ end }}
+        {{- if and (or .Params.original .Params.original_lines .Params.original_source) (eq .Params.copyright "public") }}<span class="pill">원문 공개</span>{{ end }}
       </div>
       {{- with .Params.summary }}<p class="work-summary">{{ . }}</p>{{ end }}
     </div>
@@ -95,7 +95,7 @@
   </div>
   {{- end }}
 
-  {{- with .Content }}<div class="prose{{ if in $.Params.genres "고전시가" }} prose-2col{{ end }}">{{ . }}</div>{{ end }}
+  {{- with .Content }}<div class="prose prose-2col">{{ . }}</div>{{ end }}
 
   {{- with .Params.keywords }}
   <div class="block-label">핵심 키워드</div>
