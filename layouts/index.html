@@ -63,19 +63,23 @@
   </div>
   <p style="margin-top:14px"><a class="btn ghost" href="{{ "/idioms/" | relURL }}">한자성어 전체 {{ len . }}개 보기 →</a></p>
 </section>
-<script id="idioms-data" type="application/json">{{ . | jsonify }}</script>
+{{/* array-root 데이터파일은 . | jsonify 가 이중 인코딩되는 Hugo quirk → 깨끗한 slice를 직접 빌드 */}}
+{{- $arr := slice }}
+{{- range . }}{{ $arr = $arr | append (dict "w" .word "h" .hanja "m" .meaning "e" .example) }}{{ end }}
+<script id="idioms-data" type="application/json">{{ $arr | jsonify | safeJS }}</script>
 <script>
 (function(){
   var el=document.getElementById('idioms-data'); if(!el) return;
-  var data=JSON.parse(el.textContent); if(!data.length) return;
+  var data; try{ data=JSON.parse(el.textContent); }catch(e){ return; }
+  if(!Array.isArray(data)||!data.length) return;
   var now=new Date(), start=new Date(now.getFullYear(),0,0);
   var doy=Math.floor((now-start)/86400000);
-  var it=data[doy%data.length];
-  document.getElementById('it-word').textContent=it.word;
-  document.getElementById('it-hanja').textContent=it.hanja||'';
-  document.getElementById('it-meaning').textContent=it.meaning||'';
+  var it=data[doy%data.length]; if(!it) return;
+  document.getElementById('it-word').textContent=it.w||'';
+  document.getElementById('it-hanja').textContent=it.h||'';
+  document.getElementById('it-meaning').textContent=it.m||'';
   var ex=document.getElementById('it-ex');
-  if(it.example){ex.textContent='예) '+it.example; ex.style.display='';}else{ex.style.display='none';}
+  if(it.e){ex.textContent='예) '+it.e; ex.style.display='';}else{ex.style.display='none';}
 })();
 </script>
 {{- end }}
