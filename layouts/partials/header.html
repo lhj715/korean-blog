@@ -1,11 +1,25 @@
 <header class="topbar">
   {{- $parts := split .Site.Title " " }}
   <a class="brand" href="{{ site.Home.RelPermalink }}">{{ index $parts 0 }}{{ if gt (len $parts) 1 }} <em>{{ index $parts 1 }}</em>{{ end }}</a>
-  <nav class="nav">
-    {{- $cur := .RelPermalink }}
-    {{- range .Site.Menus.main }}
-      {{- $u := .URL | relURL }}
-      <a href="{{ $u }}"{{ if and (ne $u "/") (hasPrefix $cur $u) }} class="active"{{ end }}>{{ .Name }}</a>
-    {{- end }}
-  </nav>
+  <div class="topbar-right">
+    <nav class="nav">
+      {{- $cur := .RelPermalink }}
+      {{- $searchURL := "/search/" | relURL }}
+      {{- range .Site.Menus.main }}
+        {{- $u := .URL | relURL }}
+        {{- if ne $u $searchURL }}
+        <a href="{{ $u }}"{{ if and (ne $u "/") (hasPrefix $cur $u) }} class="active"{{ end }}>{{ .Name }}</a>
+        {{- end }}
+      {{- end }}
+    </nav>
+    <form class="topbar-search" action="{{ "/search/" | relURL }}" method="get" role="search">
+      <input type="search" name="q" placeholder="검색" aria-label="검색" autocomplete="off">
+      <button type="submit" aria-label="검색">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      </button>
+    </form>
+    <a class="topbar-search-icon" href="{{ "/search/" | relURL }}" aria-label="검색">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    </a>
+  </div>
 </header>

@@ -421,3 +421,22 @@ a.lh-work:hover{border-bottom-color:var(--accent-light);text-decoration:none}
   padding:0 20px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s}
 .home-search-btn:hover{background:#4a3017}
 .home-search-btn svg{width:20px;height:20px}
+
+/* ───────── 상단바 검색 (전 페이지) ───────── */
+.topbar-right{display:flex;align-items:center;gap:22px}
+.topbar-search{display:flex;align-items:center;background:#fff;border:1px solid var(--paper-line);
+  border-radius:20px;overflow:hidden;height:34px;width:150px;transition:.18s}
+.topbar-search:focus-within{border-color:var(--accent);width:200px}
+.topbar-search input{flex:1;min-width:0;border:0;outline:0;background:transparent;
+  padding:0 4px 0 14px;font-size:13px;font-family:inherit;color:var(--ink)}
+.topbar-search input::placeholder{color:var(--ink-soft)}
+.topbar-search button{flex:0 0 auto;border:0;background:transparent;color:var(--accent);
+  padding:0 12px 0 4px;cursor:pointer;display:flex;align-items:center}
+.topbar-search button svg{width:16px;height:16px}
+.topbar-search-icon{display:none;color:var(--accent);align-items:center}
+.topbar-search-icon svg{width:20px;height:20px}
+@media(max-width:780px){
+  .topbar-search{display:none}
+  .topbar-search-icon{display:flex}
+  .topbar-right{gap:14px}
+}
