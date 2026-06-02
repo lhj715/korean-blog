@@ -31,7 +31,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Build
-        run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        # 커스텀 도메인(readingmap.kr)으로 컷오버됨 → hugo.toml의 https baseURL 사용
+        # (Pages base_url은 http://readingmap.kr 를 주어 sitemap·og:url이 http로 나오는 문제)
+        run: hugo --gc --minify --baseURL "https://readingmap.kr/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
