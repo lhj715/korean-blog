@@ -4,7 +4,7 @@
   <div class="page-header">
     <div class="work-kicker">{{ with .Params.category }}{{ . }}{{ end }}</div>
     <h1>{{ .Title }}</h1>
-    {{- with .Params.summary }}<p>{{ . }}</p>{{ end }}
+    {{- if and .Params.summary (ne .Section "exams") }}<p>{{ .Params.summary }}</p>{{ end }}
   </div>
   {{- if and .Params.keywords (ne .Section "exams") }}
   <div class="keyword-cloud">{{ range .Params.keywords }}<span class="keyword">{{ . }}</span>{{ end }}</div>
@@ -60,6 +60,11 @@ document.addEventListener('click', function(e){
       if(anchors[i].getBoundingClientRect().top + window.pageYOffset <= y) cur = anchors[i].id;
     }
     links.forEach(function(a){ a.classList.toggle('active', a.getAttribute('href') === '#'+cur); });
+    var nav = document.querySelector('.set-nav');
+    var cl = nav && nav.querySelector('a.active');
+    if(nav && cl && nav.scrollWidth > nav.clientWidth){
+      nav.scrollLeft = cl.offsetLeft - nav.clientWidth/2 + cl.offsetWidth/2;
+    }
   }
   window.addEventListener('scroll', spy, { passive:true });
   spy();

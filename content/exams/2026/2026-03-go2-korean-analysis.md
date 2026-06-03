@@ -16,8 +16,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 </section>
 
 <nav class="set-nav">
-  <span class="set-nav-label">세트 바로가기</span>
-  <a href="#set1">1~3 화법</a><a href="#set2">4~6 화법</a><a href="#set3">7~10 문법</a><a href="#set4">11~13 독서</a><a href="#set5">14~17 독서</a><a href="#set6">18~23 독서</a><a href="#set7">24~27 독서·작문</a><a href="#set8">28~30 작문</a><a href="#set9">31~33 문학</a><a href="#set10">34~38 문학</a><a href="#set11">39~42 문학</a><a href="#set12">43~45 문학</a>
+  <a href="#set1">1~3</a><a href="#set2">4~6</a><a href="#set3">7~10</a><a href="#set4">11~13</a><a href="#set5">14~17</a><a href="#set6">18~23</a><a href="#set7">24~27</a><a href="#set8">28~30</a><a href="#set9">31~33</a><a href="#set10">34~38</a><a href="#set11">39~42</a><a href="#set12">43~45</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
