@@ -12,7 +12,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-10-14</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~21번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
 </section>
 
 <div id="set1" class="set-anchor"></div>
@@ -891,6 +891,174 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>⑤</td><td>오답</td><td>ⓔ=일을 당해 치르다 / 보기=대접하다.</td></tr>
         </tbody>
       </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 22~25번 독서(과학·기술) · 날씨를 계산하는 수치예보 모델
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘대기를 잘게 쪼개 슈퍼컴퓨터로 계산한다’가 큰 줄기다. <strong>두 가지 분해능</strong>과 <strong>세 가지 경계</strong>만 표로 잡으면 된다.</p>
+  <ul>
+    <li><strong>분해능</strong> — 공간(격자 간 거리)·시간(시간 간격). <strong>값이 작을수록 분해능이 높다</strong>(세밀). 수평 분해능을 2배 높이면 전체 계산량은 <strong>2⁴=16배</strong>.</li>
+    <li><strong>경계 3종</strong> — 하단(지표면, 연직 운동 없음+에너지 교환)·상단(연직 속도 0, 에너지 왜곡→감쇠층)·측면(지역 모델이 전지구 모델 자료를 받음).</li>
+    <li><strong>지역 모델 vs 전지구 모델</strong> — 측면 경계가 있는 쪽이 지역 모델, 자료를 ‘주는’ 쪽이 전지구 모델.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 25번[3점]은 ‘수평 분해능 2배 → 계산량 2⁴=16배’와 ‘시간분해능 상한선=수평분해능÷최대속도’ 두 공식으로 표를 계산한다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>대기는 연속적인 유체로 사방으로 운동하며, 그 상태는 기압·기온·습도·바람 등의 변수로 나타난다. 이를 예측하는 <strong>수치예보</strong>는 대기의 운동·변화를 설명하는 방대한 방정식을 슈퍼컴퓨터로 계산해 미래 대기를 모의하는 과정이다. ‘모의한다’는 것은 방정식들의 <strong>근사해</strong>를 구해 미래 대기를 도출하는 것이다. 가동 목적에 따라 모의 영역을 정한 뒤 그 영역을 <strong>격자</strong>로 세분화한다.</p>
+  <p>모의 영역은 연직 방향으로 여러 층, 각 층은 위도·경도의 수평 격자로 나뉘어, 대기는 육면체 ‘공기 덩이’들의 집합이 된다. 수평 해상도는 격자점 간 거리가 좁을수록, 연직 해상도는 층수가 많을수록 높다. 대기를 모의하는 정도를 <strong>분해능</strong>이라 하며, 공간분해능(격자 간 거리)·시간분해능(시간 간격)은 각각 <strong>값이 작을수록 높다</strong>.</p>
+  <p>공간분해능과 시간분해능은 서로 관련된다. <span class="ev" id="ev30">일반적으로 수평 공간분해능을 대기의 최대 속도로 나눈 값을 시간분해능의 상한선으로 둔다. 대기가 정해진 시간 간격 동안 격자점 간 거리보다 더 멀리 이동하면 변수의 값을 구할 수 없는 격자점이 생기기 때문이다.</span><a class="ev-tag" href="#q22-5">22-⑤</a> 또 <span class="ev" id="ev34">수평 공간분해능을 두 배로 높이면 계산 안정성을 위해 연직 공간분해능·시간분해능도 각각 두 배로 높여, 세 공간축과 시간축에서 계산량이 각각 두 배씩 늘어 전체 계산량은 2⁴(=16)배가 된다.</span><a class="ev-tag" href="#q25-4">25-④</a></p>
+  <p>세분화 뒤에는 계산 조건을 설정한다. <span class="ev" id="ev31">시간에 대한 초기 조건은 모의 시작 시점의 대기 상태로, 격자점마다 변수의 값을 개별적으로 부여한다.</span><a class="ev-tag" href="#q23-5">23-⑤</a> 공간에 대한 경계 조건은 하단·상단·측면에서의 대기 상태 설정이다. <span class="ev" id="ev32">하단 경계에서는 대기가 지표면을 통과할 수 없어 연직 운동이 없다고 가정</span><a class="ev-tag" href="#q24-1">24-①</a>하되, 지표면이 흡수한 태양 에너지가 열·수증기로 대기에 전달되는 에너지 흐름을 반영해 계산한다.</p>
+  <p>상단 경계에서는 고도가 높을수록 연직 운동이 약해지므로 <span class="ev" id="ev33">최상층에서 연직 운동이 없다고 가정해 연직 속도를 0으로 설정한다.</span><a class="ev-tag" href="#q24-1b">24-①</a> 그러면 빠져나가야 할 에너지가 최상층에서 반사·되돌아와 영역 내부 에너지가 비현실적으로 증가해 변수 값이 왜곡될 수 있다. 이를 완화하려 영역 내부에 <strong>감쇠층</strong>을 두는 방법과 에너지가 자연히 흩어지게 하는 방법을 함께 쓴다(최상층 고도 약 80km 이상이면 후자, 그보다 낮으면 전자가 주요).</p>
+  <p>측면 경계 조건은 제한된 영역을 모의하는 <strong>지역 모델</strong>에서 설정한다. 모든 층에서 대기의 유출입이 계속되므로 영역 외부의 변수 값을 내부에 반영해야 한다. 이 때문에 지역 모델은 지구 전체를 모의하는 <strong>전지구 모델</strong>에서 자료를 받아 측면 경계 조건으로 활용한다 — 상·하위 모델 간 변수 값의 불일치를 최소화하기 위해서다.</p>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 대기의 상태는 기압, 기온, 습도, 바람 등의 변수로 나타낸다.</li>
+    <li id="q22-2">② 시간 간격이 좁을수록 대기 상태의 변화 양상을 연속적으로 모의할 수 있다.</li>
+    <li id="q22-3">③ 모의하는 영역의 대기는 육면체 공기 덩이들의 집합체가 된다.</li>
+    <li id="q22-4">④ 대기를 모의하는 정도인 분해능에는 공간분해능과 시간분해능이 있다.</li>
+    <li id="q22-5">⑤ 정해진 시간 간격 동안 대기가 이동한 거리보다 격자점 간 거리가 멀면 변수의 값을 구할 수 없는 격자점이 생긴다.<a class="src-tag" href="#ev30">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘적절하지 <strong>않은</strong>’ 하나. 특히 ‘무엇이 무엇보다 더 멀리’의 방향을 본다.</p>
+        <p>지문은 ‘<strong>대기가</strong> 격자점 간 거리보다 더 멀리 이동하면’ 격자점이 빈다고 했다. ⑤는 ‘격자점 간 거리가 (대기 이동 거리보다) 멀면’이라며 방향을 뒤집었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>변수 = 기압·기온·습도·바람.</td></tr>
+          <tr><td>②</td><td>적절</td><td>시간 간격 좁을수록 연속 모의.</td></tr>
+          <tr><td>③</td><td>적절</td><td>대기 = 육면체 공기 덩이 집합.</td></tr>
+          <tr><td>④</td><td>적절</td><td>분해능 = 공간 + 시간.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘대기가 더 멀리 이동’이 맞는 방향.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. 윗글을 읽은 학생의 메모 ㉠~㉤에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 메모 &gt;</p>
+    <p><b>수치예보는?</b> 대기 상태를 모의해 기상 현상을 예측하는 일. ㉠ 방정식을 슈퍼컴퓨터로 계산 / ‘모의한다’의 의미 → ㉡<br>
+    <b>준비 과정:</b> 모의 영역 설정(㉢) → 격자 세분화(㉣) → 조건 설정(㉤)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠: 대기의 운동·변화를 설명하는 방정식들을 슈퍼컴퓨터로 계산한다.</li>
+    <li id="q23-2">② ㉡: 방정식들의 근사해를 구해 미래 대기 상태를 도출하는 것이다.</li>
+    <li id="q23-3">③ ㉢: 모델의 가동 목적에 따라 모의할 대기 영역을 정한다.</li>
+    <li id="q23-4">④ ㉣: 영역을 연직 여러 층으로, 각 층을 위도·경도 수평으로 나눈다.</li>
+    <li id="q23-5">⑤ ㉤: 초기 조건 설정 때 격자점마다 변수의 값을 <strong>동일하게</strong> 부여한다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 메모 각 칸이 지문과 맞는지. 특히 ‘동일하게’ vs ‘개별적으로’.</p>
+        <p>초기 조건은 격자점마다 변수의 값을 <strong>개별적으로</strong> 부여한다. ⑤는 ‘동일하게’라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>방정식을 슈퍼컴퓨터로 계산.</td></tr>
+          <tr><td>②</td><td>적절</td><td>모의 = 근사해로 미래 도출.</td></tr>
+          <tr><td>③</td><td>적절</td><td>목적에 따라 영역 결정.</td></tr>
+          <tr><td>④</td><td>적절</td><td>연직 층 + 수평 격자.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘동일하게’ 아니라 ‘개별적으로’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. 경계 조건에 대해 이해한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① 하단 경계에서는 상단 경계에서와 마찬가지로 대기의 연직 운동이 없다고 가정한다.<a class="src-tag" href="#ev32">근거(하단)</a><a class="src-tag" href="#ev33" id="q24-1b">근거(상단)</a></li>
+    <li id="q24-2">② 하단 경계에서는 측면 경계와 달리 영역 외부의 변수 값을 내부에 반영한다.</li>
+    <li id="q24-3">③ 상단·측면 경계에서는 하단 경계와 달리 경계의 에너지 교환을 조건에 반영한다.</li>
+    <li id="q24-4">④ 상단 경계에서는 하단 경계와 마찬가지로 변수 값이 왜곡돼 에너지가 비현실적으로 증가한다고 가정한다.</li>
+    <li id="q24-5">⑤ 측면 경계에서는 상단 경계와 달리 반사된 에너지가 영역 내부로 되돌아온다고 가정한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 세 경계(하단·상단·측면)의 가정을 서로 비교한다.</p>
+        <p>하단 경계도, 상단 경계도 모두 ‘대기의 <strong>연직 운동이 없다</strong>’고 가정한다(상단은 연직 속도 0). 공통점을 짚은 ①이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>하단·상단 모두 연직 운동 없음 가정.</td></tr>
+          <tr><td>②</td><td>오답</td><td>외부 값 반영은 ‘측면’ 경계다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>하단도 에너지 교환을 반영한다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>에너지 왜곡·증가는 ‘상단’만의 일.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>반사·되돌아옴은 ‘상단’ 경계다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘공통점’과 ‘차이점’을 뒤섞는다</div>
+        <p>②~⑤는 한 경계만의 특징을 다른 경계에 갖다 붙였다. ‘무엇이 어느 경계의 일인지’ 표로 먼저 정리해야 ①의 공통점이 보인다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. 윗글을 참고하여 〈보기〉를 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>A·C는 전지구 모델, B·D는 모의 영역이 같은 지역 모델. 현재 대기 최대 속도는 1km/s.<br>
+    <b>갑</b> — 모델 A: 수평 10km·최상층 80km·80층·시간 8초 / 모델 B: 수평 10km·최상층 50km·100층·시간 8초<br>
+    <b>을</b> — 모델 C: 수평 20km·최상층 80km·40층·시간 8초 / 모델 D: 수평 8km·최상층 40km·80층·시간 3초</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q25-1">① A는 C보다 수평·연직 해상도가 높아 더 세밀하게 모의할 수 있다.</li>
+    <li id="q25-2">② 최대 속도가 2배가 되면, D는 B와 달리 시간분해능을 다시 설정하지 않아도 된다.</li>
+    <li id="q25-3">③ B·D 모두 상단 경계에서 영역 내부 감쇠층에서 에너지가 흡수되는 방법이 주요하게 작용한다.</li>
+    <li id="q25-4">④ C의 수평 공간분해능을 A와 같게(10km) 높이면 C의 전체 계산량은 현재의 <strong>4배</strong>가 된다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q25-5">⑤ B·D는 상위 모델과의 불일치를 줄이려 A나 C에게서 받은 자료를 측면 경계 조건으로 쓴다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 표의 수치를 두 공식(계산량 2⁴=16배, 시간분해능 상한선)에 대입한다.</p>
+        <p>C의 수평 분해능을 20km→10km로 <strong>2배 높이면</strong>, 지문대로 전체 계산량은 <strong>2⁴=16배</strong>가 된다. ④는 ‘4배’라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>계산·근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>A: 수평 10km(C의 2배 해상도)·80층(C의 2배) → 더 세밀.</td></tr>
+          <tr><td>②</td><td>적절</td><td>속도 2km/s: B 상한 10/2=5초(8→재설정必), D 상한 8/2=4초(현재 3초 OK).</td></tr>
+          <tr><td>③</td><td>적절</td><td>B(50km)·D(40km) 모두 80km 미만 → 감쇠층 흡수가 주요.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>수평 2배 → 계산량 <strong>2⁴=16배</strong>(4배 아님).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>지역 모델(B·D)이 전지구(A·C) 자료를 측면 조건으로 활용.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 네 축이 동시에 2배</div>
+        <p>수평 분해능을 2배 높이면 연직 공간분해능·시간분해능까지 따라 2배가 된다. 그래서 <strong>세 공간축 + 시간축, 네 축이 각각 2배</strong>가 돼 전체 계산량은 <strong>2×2×2×2 = 2⁴ = 16배</strong>다. ④의 ‘4배’는 한두 축만 센 함정.</p>
+      </div>
     </div>
   </details>
 </div>
