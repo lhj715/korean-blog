@@ -12,13 +12,14 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
   <a href="#set2">4~7 화법·작문</a>
   <a href="#set3">8~10 작문</a>
+  <a href="#set4">11~15 문법</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -435,6 +436,195 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr class="correct"><td>③</td><td class="ok">부적절</td><td>언어는 3문단 요인(4문단 아님).</td></tr>
           <tr><td>④</td><td>적절</td><td>손잡이·바닥 = 구현 사례(3문단).</td></tr>
           <tr><td>⑤</td><td>적절</td><td>의료비 절감 = 사회 비용↓(4문단).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set4" class="set-anchor"></div>
+
+## 11~15번 문법 · 관형사절·파생어·음운 변동·중세 주격 조사
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>11~12번은 <strong>관형사절</strong> 지문, 13~15번은 파생어·음운·중세 국어 단독 문항이다.</p>
+  <ul>
+    <li><strong>관형사절 두 유형</strong> — (1) 생략 성분 없음(‘사실·소문’처럼 보충 필요한 체언 앞에만) / (2) 수식 체언 성분이 생략됨(모든 체언 앞). 단 특정 성분(특히 보어) 생략 시 의미가 달라짐.</li>
+    <li><strong>파생어</strong> — 접사가 어근의 ‘품사를 바꾸는’ 것(웃다→웃음)과 안 바꾸는 것 구분.</li>
+    <li><strong>읽고[일꼬]</strong> — 된소리되기(먼저)+자음군 단순화 순서로 설명.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 11번은 ‘(2)유형은 모든 체언 앞’(‘보충 필요 체언만’ 아님), 13번은 ‘일찍이=부사→부사(품사 안 바뀜)’가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><span class="ev" id="ev11s">‘이것은 내가 읽은 책이다’의 ‘내가 읽은’은 주어·서술어를 갖춘 채 체언을 수식하는 <strong>관형사절</strong>이다.</span><a class="ev-tag" href="#q11-1">11-①</a> 관형사절은 생략된 성분이 있는지에 따라 두 유형으로 나뉜다.</p>
+  <p>(1) ‘그는 우리가 학교로 돌아온 사실을 안다’ — 관형사절 ‘우리가 학교로 돌아온’은 <span class="ev" id="ev11b">서술어 형태만 변했을 뿐 필요한 성분을 다 갖췄다. 이 유형은 ‘사실·소문’처럼 내용을 보충할 필요가 있는 체언 앞에서만 나타난다.</span><a class="ev-tag" href="#q11-2">11-②</a></p>
+  <p>(2) ‘그는 이마에 흐르는 땀을 닦았다’ — 관형사절 ‘이마에 흐르는’은 수식 체언을 포함한 성분 ‘땀이’가 <span class="ev ans" id="ev11c">생략된 것으로, 이 유형은 모든 체언 앞에서 나타날 수 있다.</span><a class="ev-tag ans" href="#q11-4">11-④</a> <span class="ev" id="ev12">다만 특정 성분이 생략되면 원래 문장과 관형사절의 의미가 달라지거나 문법적으로 부적절해지는 경우가 있다.</span><a class="ev-tag" href="#q12-2">12-②</a></p>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 윗글을 읽고 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① 관형사절은 문장에서 체언을 수식하는 기능을 한다.<a class="src-tag" href="#ev11s">지문 근거</a></li>
+    <li id="q11-2">② 문장이 필요로 하는 모든 성분을 갖춘 관형사절이 있다.<a class="src-tag" href="#ev11b">지문 근거</a></li>
+    <li id="q11-3">③ 어떤 문장이 관형사절이 될 때 서술어의 형태가 변할 수 있다.</li>
+    <li id="q11-4">④ 관형사절 뒤에는 내용을 보충해 줄 필요가 있는 체언만 올 수 있다.<a class="src-tag ans" href="#ev11c">정답 근거</a></li>
+    <li id="q11-5">⑤ 관형사절이 수식하는 체언을 포함하는 성분은 관형사절에서 생략될 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘관형사절 뒤 체언’에 제한이 있는지 본다.</p>
+        <p>‘보충 필요 체언 앞에만’은 (1)유형의 특징이다. (2)유형은 <strong>모든 체언 앞</strong>에서 나타난다. ‘체언만 올 수 있다’는 ④는 전체 관형사절에 대해 틀리므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>체언 수식.</td></tr>
+          <tr><td>②</td><td>적절</td><td>(1)유형 = 성분 다 갖춤.</td></tr>
+          <tr><td>③</td><td>적절</td><td>서술어 형태 변화.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>(2)유형은 모든 체언 앞.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘땀이’ 생략.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 〈보기〉의 ㉠~㉤에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>문장: ‘철수가 학급 회장이 되었다’ / ‘영희가 철수를 불렀다’ / ‘영희가 학급 회장을 불렀다’.<br>
+    첫 문장이 둘째에 관형사절로 들어간 문장은 ㉠(주어 ‘철수가’ 생략), 셋째에 들어간 문장은 ㉡(㉢ ‘학급 회장이’ 생략). ‘학급 회장이’가 생략되며 ‘철수가’가 ㉣처럼 쓰여 의미가 달라진다. → 주어 생략은 의미 보존, <b>㉤</b> 생략은 의미 변화.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q12-1">① ㉠: ‘영희가 학급 회장이 된 철수를 불렀다.’</li>
+    <li id="q12-2">② ㉡: ‘영희가 철수가 된 학급 회장을 불렀다.’<a class="src-tag ans" href="#ev12">정답 근거</a></li>
+    <li id="q12-3">③ ㉢: 보어</li>
+    <li id="q12-4">④ ㉣: 주어</li>
+    <li id="q12-5">⑤ ㉤: 보어</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보어를 생략한 관형사절이 성립하는지 본다.</p>
+        <p>‘철수가 학급 회장이 되었다’에서 보어 ‘학급 회장이’를 생략하면 ‘철수가 된 학급 회장’이 되어 ‘철수가’가 보어처럼 해석돼 <strong>의미가 달라진다</strong>(원래 뜻의 관형사절이 못 됨). ②의 문장은 그래서 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>주어 생략 → 의미 보존.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>보어 생략 → 의미 달라져 성립 X.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘학급 회장이’ = 보어.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘철수가’가 주어처럼.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>보어 생략 시 의미 변화.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 〈보기〉의 ㉠(어근의 품사를 바꾸는 접사가 붙은 파생어)에 해당하는 예로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q13-1">① 일찍이</li>
+    <li id="q13-2">② 마음껏</li>
+    <li id="q13-3">③ 가리개</li>
+    <li id="q13-4">④ 높이다</li>
+    <li id="q13-5">⑤ 슬기롭다</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 접사가 ‘품사를 바꾸는지’ 본다.</p>
+        <p>‘일찍이’는 부사 어근 ‘일찍’에 ‘-이’가 붙어 <strong>부사 → 부사</strong>(품사 안 바뀜)다. ①은 ㉠의 예가 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>품사 변화</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>부사→부사(안 바뀜).</td></tr>
+          <tr><td>②</td><td>적절</td><td>명사→부사(마음+껏).</td></tr>
+          <tr><td>③</td><td>적절</td><td>동사→명사(가리+개).</td></tr>
+          <tr><td>④</td><td>적절</td><td>형용사→동사(높+이다).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>명사→형용사(슬기+롭다).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 〈보기〉의 ⓐ~ⓒ에 들어갈 말을 바르게 짝지은 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>‘읽고[일꼬]’는 자음군 단순화·된소리되기와 관련. ‘일고’가 [일고]인 점을 참고해, ‘읽고’의 두 변동 순서를 탐구한다.<br>
+    ② 자음군 단순화 먼저 → 종성 [ㄹ]. ‘일고’를 보면 [ㄹ]+‘ㄱ’은 된소리되기가 반드시 일어나는 ⓐ.<br>
+    ③ 된소리되기 먼저 → 종성 ‘ㄱ’ 때문에 둘째 음절 초성이 ⓑ. 그 후 자음군 단순화 → ‘읽고’ 발음 설명할 수 ⓒ.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q14-1">① 조건이다 / [ㄱ] / 없다</li>
+    <li id="q14-2">② 조건이다 / [ㄲ] / 있다</li>
+    <li id="q14-3">③ 조건이 아니다 / [ㄱ] / 있다</li>
+    <li id="q14-4">④ 조건이 아니다 / [ㄲ] / 있다</li>
+    <li id="q14-5">⑤ 조건이 아니다 / [ㄲ] / 없다</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 변동의 순서를 ‘일고’와 비교해 따진다.</p>
+        <p>ⓐ: ‘일고[일고]’를 보면 [ㄹ]+‘ㄱ’에선 된소리되기가 안 일어나니, 그것은 된소리되기의 <strong>조건이 아니다</strong>. ⓑ: 종성 ‘ㄱ’ 때문에 둘째 초성은 <strong>[ㄲ]</strong>. ⓒ: 그 후 자음군 단순화로 [일꼬]를 설명할 수 <strong>있다</strong>. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>빈칸</th><th>답</th></tr></thead>
+        <tbody>
+          <tr><td>ⓐ</td><td>조건이 아니다.</td></tr>
+          <tr><td>ⓑ</td><td>[ㄲ]</td></tr>
+          <tr><td>ⓒ</td><td>있다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. 〈보기1〉의 ㉠~㉢에 따라 〈보기2〉의 ⓐ~ⓔ를 바르게 분류한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>중세 주격 조사: ㉠ 자음 뒤 ‘이’ / ㉡ 모음 ‘이’·반모음 ‘ㅣ’ 뒤 안 나타남 / ㉢ 그 외 모음 뒤 ‘ㅣ’.<br>
+    ⓐ ᄆᆞᅀᆞ미(마음+이) · ⓑ 어미(어미+∅) · ⓒ 겨ᅀᅳ리(겨ᅀᅳᆯ+이) · ⓓ 줄기(줄기+∅) · ⓔ 孝道ㅣ(효도+ㅣ)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q15-1">① ㉠ ⓐ / ㉡ ⓒ,ⓔ / ㉢ ⓑ,ⓓ</li>
+    <li id="q15-2">② ㉠ ⓐ,ⓒ / ㉡ ⓓ / ㉢ ⓑ,ⓔ</li>
+    <li id="q15-3">③ ㉠ ⓐ,ⓒ / ㉡ ⓑ,ⓓ / ㉢ ⓔ</li>
+    <li id="q15-4">④ ㉠ ⓑ,ⓔ / ㉡ ⓒ,ⓓ / ㉢ ⓐ</li>
+    <li id="q15-5">⑤ ㉠ ⓔ / ㉡ ⓑ,ⓓ / ㉢ ⓐ,ⓒ</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 체언의 끝소리(자음/ㅣ/그 외 모음)로 분류한다.</p>
+        <p>ⓐ(ᄆᆞᅀᆞᆷ)·ⓒ(겨ᅀᅳᆯ)는 자음 뒤 ‘이’ → ㉠. ⓑ(어미)·ⓓ(줄기)는 ‘ㅣ’ 뒤라 조사 없음 → ㉡. ⓔ(효도)는 그 외 모음 뒤 ‘ㅣ’ → ㉢. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>분류</th><th>해당</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>㉠</td><td>ⓐ·ⓒ</td><td>자음 뒤 ‘이’.</td></tr>
+          <tr><td>㉡</td><td>ⓑ·ⓓ</td><td>‘ㅣ’ 뒤 → 조사 없음.</td></tr>
+          <tr><td>㉢</td><td>ⓔ</td><td>그 외 모음 뒤 ‘ㅣ’.</td></tr>
         </tbody>
       </table>
     </div>
