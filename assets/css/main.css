@@ -321,6 +321,13 @@ a.ev-tag:hover{background:#16487d}
   vertical-align:middle;text-decoration:none;line-height:1.7;white-space:nowrap}
 .src-tag:hover{background:var(--ev);color:#fff;border-color:var(--ev);text-decoration:none}
 .passage .ev.ev-hl{background:#dbe8fa;box-shadow:0 0 0 3px #dbe8fa;border-radius:2px}
+/* 정답 근거 = 녹색 (지문 근거=파랑과 구분) */
+.src-tag.ans{color:#1f7a3d;background:#e7f5ec;border-color:#b6dcc3}
+.src-tag.ans:hover{background:#1f7a3d;color:#fff;border-color:#1f7a3d}
+.passage .ev.ans{color:#1f7a3d;text-decoration-color:#1f7a3d}
+.ev-tag.ans{background:#1f7a3d}
+a.ev-tag.ans:hover{background:#155c2c}
+.passage .ev.ans.ev-hl{background:#d3eddd;box-shadow:0 0 0 3px #d3eddd}
 .q-plan{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:14px 16px}
 .q-plan p{font-size:14px!important;line-height:1.7!important;color:var(--ink-mid);margin:0 0 8px!important}
 .q-plan p:last-child{margin-bottom:0!important}
