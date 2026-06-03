@@ -236,6 +236,7 @@ a:hover{text-decoration:underline}
 .passage-guide{font-weight:700;color:var(--ink);margin:0 0 14px!important;padding-bottom:10px;border-bottom:1px solid var(--paper-line)}
 .passage-legend{display:block;margin-top:6px;font-size:12px;font-weight:400;color:var(--ink-soft)}
 .passage-legend b{color:var(--ev);font-weight:700;border-bottom:1.5px solid var(--ev);padding-bottom:1px}
+.passage-legend .click-hint{color:var(--ev);font-weight:700}
 .passage p{font-size:15px!important;line-height:1.95!important;color:var(--ink);margin:0 0 14px!important;text-indent:.4em}
 .passage p:last-child{margin-bottom:0!important}
 .passage .ev{color:var(--ev);text-decoration:underline;text-decoration-color:var(--ev);text-decoration-thickness:2px;text-underline-offset:3px;font-weight:500}
