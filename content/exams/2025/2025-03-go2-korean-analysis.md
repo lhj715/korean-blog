@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~34번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -23,6 +23,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set5">16~21 독서(인문)</a>
   <a href="#set6">22~26 독서(사회)</a>
   <a href="#set7">27~30 독서(과학·기술)</a>
+  <a href="#set8">31~34 현대소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1165,6 +1166,159 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
         <tbody>
           <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>한 사이클 후 동일 에너지(보존).</td></tr>
           <tr><td>①~④</td><td>오답</td><td>열원 종류·냉난방·역전 밸브·위치 이동은 전제 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 31~34번 현대소설 · 이청준 「과녁」 — 궁도(수양)와 솜씨(구경거리) 사이
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>활쏘기를 보는 <strong>두 시선</strong>이 충돌한다 — 노인의 ‘궁도(자기 수양)’ vs 석주호 일행의 ‘솜씨(과시·구경거리)’.</p>
+  <ul>
+    <li><strong>노인</strong> — ‘궁대를 매고 쏘아야 마음이 다르다’며 활쏘기를 수양으로 본다. 딸의 시범 강청에 깊이 상처받는다.</li>
+    <li><strong>석주호</strong> — 내력 있는 활을 ‘과시’하고 싶어 하고, 여인의 시범을 강청하면서도 ‘아름다움은 자랑돼야 한다’며 양면적이다.</li>
+    <li><strong>소년</strong> — 시범 사건 뒤에도 ‘여느 때처럼’ 행동(대조).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 33번은 ㉢(시범 강청 위한 고압적 태도이지 노인을 ‘돕는’ 게 아님), 34번은 ‘석주호=승부 수단으로 보고 승복’(실은 궁도 존중·두려움)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>석주호 검사가 다시 북호정에 와 활을 골랐다. 노인은 새 활만 내왔다. “㉠<u>전에 쓰던 것은 없습니까?</u>” 주호는 <span class="ev" id="ev33a">‘물건이라도 그럴듯한 것을 지니는 게 나을 법했다’</span><a class="ev-tag" href="#q33-1">33-①</a>며 내력 있는 활을 원했다. 노인이 2단 활을 쏘던 노인의 활을 지목했으나, ㉡<u>주호는 눈으로 다른 것을 찾고 있었다.</u> 결국 그 활로 정하고, 노인은 ‘궁대’(활 멜 때 매는 띠)를 주며 <span class="ev" id="ev34a">“법도도 법도지만 마음이 다르오”</span><a class="ev-tag" href="#q34-1">34-①</a>라 했다.</p>
+  <p class="muted">[중략] 석주호가 부른 지역 유지들이 노인의 딸에게 관심을 보이며 활 솜씨 시범을 강청한다.</p>
+  <p>유지들은 <span class="ev" id="ev34b">물러서지 않고 굳이 시범을 강청했다.</span><a class="ev-tag" href="#q34-3">34-③</a> 노인은 화가 나 거절했으나 그들은 물러서지 않았다.</p>
+  <div class="seg" id="segA"><p class="seg-label">[A]</p>
+  <p>석주호는 그 요구에서 묘한 희롱기를 느끼면서도, <span class="ev ans" id="ev32a">‘아름다운 것은 충분히 자랑되고 칭찬받아야 한다. 궁도에 바른 이해를 가지려는 이 석주호는 그럴 권리가 있다’고 생각했다.</span><a class="ev-tag ans" href="#q32-4">32-④</a> 그는 ㉢<u>노인보다 더 엄숙하고 법정처럼 고압적인 목소리</u>로 시범을 강조했다.</p></div>
+  <p>노인은 힘이 빠져 딸을 불렀고, 여인은 석양에 활을 쏘았다. 모두 “아름답습니다”라며 만족해 내려갔다. 그러나 노인은 그날 저녁을 들지 않고 ‘상처받은 짐승처럼’ 신음했고, 여인은 어두운 부엌에 말없이 앉았다. <span class="ev" id="ev31s">다만 소년만이 여느 때처럼 열심히 숟갈질을 했다.</span><a class="ev-tag" href="#q31-2">31-②</a></p>
+  <div class="seg" id="segB"><p class="seg-label">[B]</p>
+  <p>다음 새벽에도 노인은 같은 태도로 활쏘기를 살펴 주었다. ㉣<u>주호는 그들에게 무슨 욕이라도 보인 것 같은 생각</u>이 들었다. 노인은 다시 의연했다. <span class="ev ans" id="ev32b">㉤주호는 어딘지 서운한 느낌이었다. 그러나 그 편이 더 좋았다. <span class="ev ans" id="ev34c">두려운 마음으로 노인과 활에 순종하려고 했다.</span></span><a class="ev-tag ans" href="#q32-4b">32-④</a><a class="ev-tag ans" href="#q34-5">34-⑤</a></p></div>
+  <p class="muted" style="text-align:right">— 이청준, 「과녁」</p>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글의 내용에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 여인은 오전에 석주호 일행 앞에서 활쏘기 시범을 보였다.</li>
+    <li id="q31-2">② 소년은 여인의 활쏘기 시범 이후에도 전과 동일한 태도를 보였다.<a class="src-tag ans" href="#ev31s">정답 근거</a></li>
+    <li id="q31-3">③ 노인은 석주호가 다시 찾아올 것을 예상해 활을 미리 준비했다.</li>
+    <li id="q31-4">④ 석주호 일행은 활 만드는 사람이 활을 쏘는 것을 당연하다 여겼다.</li>
+    <li id="q31-5">⑤ 석주호 일행은 석주호와 달리 여인의 시범을 보고 만족했다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 시범 전후 인물들의 변화를 본다.</p>
+        <p>노인·여인은 시범 뒤 평소와 다른 모습(신음·침묵)인데, <strong>소년만 여느 때처럼</strong> 숟갈질했다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>시범은 ‘석양(저녁)’에.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>소년은 여느 때처럼.</td></tr>
+          <tr><td>③</td><td>오답</td><td>활을 골라 놓지 않았음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘해괴한 일’이라 여김.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>석주호도 함께 만족.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. [A]와 [B]의 서술상 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① [A]는 행적 요약, [B]는 대화 제시로 태도를 분석한다.</li>
+    <li id="q32-2">② [A]는 동시적 사건 병치, [B]는 시간 순서 역전으로 상이한 관점을 드러낸다.</li>
+    <li id="q32-3">③ [A]는 행동을 실감나게, [B]는 외양을 감각적으로 묘사한다.</li>
+    <li id="q32-4">④ [A]와 [B]는 모두 특정 인물(석주호)의 입장에서 그 내면을 서술한다.<a class="src-tag ans" href="#ev32a">정답 근거(A)</a><a class="src-tag ans" href="#ev32b" id="q32-4b">정답 근거(B)</a></li>
+    <li id="q32-5">⑤ [A]와 [B]는 모두 내면을 행위로 드러내 갈등을 표면화한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]·[B]가 ‘누구의’ 시각으로 서술되는지 본다.</p>
+        <p>[A]는 ‘권리가 있다’, [B]는 ‘서운한 느낌… 그 편이 더 좋았다’ — 모두 <strong>석주호의 내면</strong>을 그의 입장에서 서술한다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>둘 다 석주호 내면 서술.</td></tr>
+          <tr><td>①·②·③·⑤</td><td>오답</td><td>행적 요약·시간 역전·외양 묘사·갈등 표면화 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① ㉠: 남에게 과시하고 싶은 욕구가 드러난다.<a class="src-tag" href="#ev33a">지문 근거</a></li>
+    <li id="q33-2">② ㉡: 노인의 말에 동의하지 않음이 나타난다.</li>
+    <li id="q33-3">③ ㉢: 노인을 <strong>돕겠다는 의지</strong>가 드러난다.</li>
+    <li id="q33-4">④ ㉣: 전날 사건으로 노인에게 상처를 주었다는 성찰이 드러난다.</li>
+    <li id="q33-5">⑤ ㉤: 여전히 의연한 노인에 대한 심리가 나타난다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉢의 ‘고압적 목소리’가 무엇을 위한 것인지 본다.</p>
+        <p>㉢은 여인의 시범을 <strong>강청·관철</strong>하려는 고압적 태도다. 노인을 ‘돕겠다는 의지’가 아니므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>내력 있는 활 = 과시 욕구.</td></tr>
+          <tr><td>②</td><td>적절</td><td>다른 것을 찾음 = 비동의.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>시범 강청용 고압(돕는 것 아님).</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘욕보인 것 같은’ 성찰.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>서운함 = 노인에 대한 심리.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>「과녁」에는 활쏘기를 ‘<b>궁도</b>(자기 수양·내면 완성)’로 보는 인물, ‘<b>솜씨</b>(과시·승부·흥밋거리)’로 대상화하는 인물, 그리고 둘을 오가는 <b>양면적</b> 인물이 나온다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q34-1">① ‘법도도 법도지만 마음이 다르오’에서 노인이 활쏘기를 자기 수양으로 봄을 알 수 있다.<a class="src-tag" href="#ev34a">지문 근거</a></li>
+    <li id="q34-2">② 딸의 솜씨를 ‘볼 만한 게 못 된다’고 거절하는 데서 노인이 흥밋거리 시선에 거부감을 느낌을 알 수 있다.</li>
+    <li id="q34-3">③ ‘굳이 시범을 강청’하는 데서 일행이 활쏘기를 대상화될 기술로 봄을 알 수 있다.<a class="src-tag" href="#ev34b">지문 근거</a></li>
+    <li id="q34-4">④ ‘새벽 활쏘기에 자리를 피해’ 준 데서 석주호가 활쏘기를 궁도로 존중하려 함을 알 수 있다.</li>
+    <li id="q34-5">⑤ ‘두려운 마음으로 순종’한 데서 석주호가 <strong>승부 수단</strong>으로 보며 승패에 승복함을 알 수 있다.<a class="src-tag ans" href="#ev34c">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘두려운 마음으로 순종’이 무엇을 뜻하는지 본다.</p>
+        <p>‘두려운 마음으로 노인과 활에 순종’한 것은 활쏘기를 <strong>궁도로 존중</strong>하는 태도다. ‘승부 수단으로 보며 승패에 승복’과는 무관하므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘마음이 다르오’ = 수양.</td></tr>
+          <tr><td>②</td><td>적절</td><td>거절 = 흥밋거리 거부감.</td></tr>
+          <tr><td>③</td><td>적절</td><td>강청 = 기술 대상화.</td></tr>
+          <tr><td>④</td><td>적절</td><td>자리 피함 = 궁도 존중.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>순종 = 궁도 존중(승부 아님).</td></tr>
         </tbody>
       </table>
     </div>
