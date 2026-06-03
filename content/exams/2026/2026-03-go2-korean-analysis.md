@@ -3,7 +3,7 @@ title: "2026년 3월 고2 국어 기출 분석"
 category: "학력평가"
 date: 2026-03-24
 keywords: ["고2", "2026년 3월", "학력평가", "국어", "기출 분석", "근거 표시", "혼자 공부"]
-summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트. 지문에 정답 근거를 직접 표시하고, 문제마다 해설을 접어 두어 풀어본 뒤 펼쳐 볼 수 있게 구성한 분석."
+summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항을, 지문에 정답 근거를 표시하고 발문 해석·선지 판단·오답 함정·오답률까지 담아 풀이한 분석."
 ---
 
 <div class="exam-analysis">
@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전 문항 (1~45)</strong></div>
 </section>
 
 ## 지문
@@ -1386,6 +1386,495 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
       <div class="trap">
         <div class="trap-head">조심할 점 — 같은 ⓒ 안에서 갈린다</div>
         <p>ⓒ에는 ‘해결 방안·초월적 능력·사후 개입’ 세 가지가 있다. ③은 ⓒ에 연결은 맞지만 <strong>세부 항목(초월적 능력)</strong>을 잘못 골랐다. 보기 항목의 하위 갈래까지 확인한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (34~38번 · 문학, 가사·시조·고전수필)
+
+<div class="passage">
+  <p class="passage-guide">[34 ~ 38] (가) 「덴동어미화전가」 · (나) 박인로 「자경」 · (다) 박세당 「효애오잠」.<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다. (작품은 핵심 발췌)</span></p>
+  <p class="dt2"><b>(가)</b> 작자 미상, 「덴동어미화전가」(가사)</p>
+  <p>㉠ 내 팔자가 사는 대로 내 고생이 닫는 대로 / 좋은 일도 그뿐이요 그른 일도 그뿐이라 …<br><span class="ev" id="ev48">고운 꽃도 새겨보면 눈이 캄캄 안 보이고 … 새소리도 고쳐 듣고 슬픈 마음 절로 나네</span><a class="ev-tag" href="#q34-2">34-②</a> / 마음 심 자가 제일이라 … 마음만 여사 태평하면 … 고생될 일 별로 없소</p>
+  <p>앉아 울던 ⓐ청춘과부 크게 활짝 깨달아서 … ㉡ <span class="ev" id="ev50">이팔청춘 이내 마음 봄 춘(春) 자로 부쳐 두고 / 꽃다운 이내 얼굴 꽃 화(花) 자로 부쳐 두고</span><a class="ev-tag" href="#q37-2">37-②</a> … 천만 첩이나 쌓인 설움 웃음 끝에 하나 없네 … ㉢ 자네 말은 봄 춘 자요 내 생각은 꽃 화 자라 / <span class="ev" id="ev52">얼시고나 좋을시고</span><a class="ev-tag" href="#q36-5">36-⑤</a></p>
+  <p class="dt2"><b>(나)</b> 박인로, 「자경(自警)」(시조)</p>
+  <p>&lt;제1수&gt; 명경에 때 끼거든 값 주고 닦을 줄 / 아이 어른 없이 다 미치어 알건마는 / <span class="ev" id="ev49">값 없이 닦을 명덕(明德)을 닦을 줄을 모르는도다</span></p>
+  <p>&lt;제2수&gt; 성의관 돌아들어 팔덕문 바라보니 / 크나큰 한 길이 넓고도 곧다마는 / ㉣ <span class="ev" id="ev53">아이 어른 없이 다 미치어 알건마는</span><a class="ev-tag" href="#q37-4">37-④</a> 어찌 종일 행인이 오도 가도 안 하는게요</p>
+  <p>&lt;제3수&gt; 구인산 긴 솔 베어 제세주(濟世舟)를 만들어 내어 / 길 잃은 행인을 다 건네주려 하였더니 / 사공도 못나서 저무는 강가에 버렸도다</p>
+  <p class="dt2"><b>(다)</b> 박세당, 「효애오잠」(고전수필)</p>
+  <p>부구공: “남들이 나를 군자라 해도 내가 군자라 결정할 수 없고, 소인이라 해도 소인이라 결정할 수 없소. … 시비에 휩쓸려 근심·기뻐함은 지혜롭지 못한 일이오.” ⓑ 선문자가 “그렇다면 근심도 기쁨도 없다는 말이오?” 하고 묻자, 부구공: “있소. 나를 군자라 하는 이가 정말 군자라면 기뻐하고, 군자가 나를 소인이라 하면 근심하오. … 근본은 나에게 있지만 실상을 아는 것은 남에게 있으니, 가릴 바와 힘쓸 바를 알아야 하오.” 이에 <span class="ev" id="ev51">ⓑ 선문자가 팔짝팔짝 뛰면서 기뻐하여</span><a class="ev-tag" href="#q36-5">36-⑤</a> ㉤ “지금 선생의 말을 듣고 보니 내가 스승을 얻었소이다.”</p>
+</div>
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품들, 이렇게 읽는다</div>
+  <p>묶음 지문은 <strong>공통 주제</strong>부터 잡는다. 세 글 모두 <strong>마음가짐·자기 수양</strong>을 말한다.</p>
+  <ul>
+    <li><strong>(가)</strong> — 근심·기쁨은 외부가 아니라 <em>마음가짐</em>에 달렸다(덴동어미 → 청춘과부 깨달음).</li>
+    <li><strong>(나)</strong> — <em>명덕</em>을 닦고 유교 윤리를 실천해야 한다(자기 경계).</li>
+    <li><strong>(다)</strong> — 타인의 평가를 <em>가려서</em> 받아들이고 스스로 군자가 되도록 힘써라.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 비유의 원관념(명경·제세주·봄춘자), ‘마음가짐’이라는 공통 태도가 35·37·38번의 함정이다.</p>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. (가)~(다)의 공통점으로 가장 적절한 것은? <span class="q-rate">오답률 48.3%</span></p>
+  <ul class="q-opts">
+    <li id="q34-1">① 불가능한 상황을 가정하여 소망을 강조한다.</li>
+    <li id="q34-2">② 대비되는 상황을 제시하여 바람직한 삶의 태도를 드러낸다.<a class="src-tag" href="#ev48">지문 근거</a></li>
+    <li id="q34-3">③ 명령형 표현으로 대상의 가능성에 대한 믿음을 부각한다.</li>
+    <li id="q34-4">④ 사물의 속성에 도덕적 의미를 부여해 지향 가치를 드러낸다.</li>
+    <li id="q34-5">⑤ 시간 표현으로 자연 경관의 순차적 변화를 나타낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 세 글 ‘모두’에 해당해야 공통점이다. 하나라도 빠지면 탈락.</p>
+        <p>(가) 제대로 봄↔새겨 봄, (나) 명경↔명덕, (다) 군자 평가↔소인 평가 — 모두 <strong>대비</strong>로 바람직한 삶의 태도(마음가짐·수양)를 제시한다. ②가 공통점이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>‘불가능한 상황 가정’은 세 글에 없다.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>세 글 모두 대비로 바람직한 태도 제시.</td></tr>
+          <tr><td>③</td><td>오답</td><td>명령형은 (가)에만 일부, (나)·(다)엔 없다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘사물에 도덕적 의미 부여’는 세 글 공통이 아니다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>자연 경관의 순차적 변화는 없다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘모두’ 조건</div>
+        <p>③⑤는 (가)에만 걸쳐 있어 공통점이 아니다. 공통점 문제는 <strong>세 글 전부</strong>에 ○가 떠야 한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. 〈보기〉로 (나)를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.1%</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(나)는 ‘스스로 경계함(자경)’을 노래하며, 추상적 대상을 가상의 사물에 빗댄다 — 군자의 마음가짐=‘성의관’, 유교 8윤리=‘팔덕문’, 세상 구제의 포부=‘제세주’, 화자 자신=‘사공’.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q35-1">① ‘값 주고 닦을’ ‘명경’에 마음을 빗대어 자신의 마음가짐에 대한 비판적 성찰을 드러낸다.<a class="src-tag" href="#ev49">지문 근거</a></li>
+    <li id="q35-2">② ‘명덕을 닦을 줄을 모르는도다’로 자기 수양에 소홀한 사람들에 대한 안타까움을 드러낸다.</li>
+    <li id="q35-3">③ ‘팔덕문’ 길을 ‘크나큰 한 길’이라 해 8윤리가 실천해야 할 것임을 드러낸다.</li>
+    <li id="q35-4">④ ‘행인이 오도 가도 안 하는’ 상황으로 올바른 가치가 외면받는 세태를 문제 삼는다.</li>
+    <li id="q35-5">⑤ ‘제세주’를 ‘강가에 버’린 ‘사공’으로 포부를 못 이룬 자신을 반성한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 〈보기〉가 짚은 ‘비유 대응’과 다르게 해석한 선지를 찾는다.</p>
+        <p>‘명경(거울)’은 사물 자체일 뿐 <strong>마음을 비유한 게 아니다</strong>. 또 제1수는 자기 마음가짐이 아니라 ‘명덕 닦기에 소홀한 세태’를 성찰한다. 따라서 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>‘명경’은 마음 비유가 아니며, 대상은 세태 비판이다.</td></tr>
+          <tr><td>②</td><td>적절</td><td>명덕 안 닦는 이들에 대한 안타까움.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘크나큰 한 길’ = 누구나 실천할 윤리.</td></tr>
+          <tr><td>④</td><td>적절</td><td>행인 없는 길 = 외면받는 가치.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>버려진 제세주 = 못 이룬 포부 반성.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 오답률 60%, ‘무엇을 무엇에 빗댔나’</div>
+        <p>〈보기〉는 ‘마음=성의관’이라 했지 ‘마음=명경’이라 하지 않았다. 비유 대응표를 〈보기〉 그대로 따라가야 ①의 잘못된 짝이 보인다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. ⓐ(청춘과부)와 ⓑ(선문자)를 이해한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① ⓐ는 대화로 갈등을 해소하고, ⓑ는 대화로 갈등이 고조된다.</li>
+    <li id="q36-2">② ⓐ는 대화 결과 태도 변화를 보이고, ⓑ는 자신에 대한 상대 평가를 반박한다.</li>
+    <li id="q36-3">③ ⓐ는 물음으로 상대에 대한 우려를, ⓑ는 질문으로 상대 생각에 의문을 표한다.</li>
+    <li id="q36-4">④ ⓐ와 ⓑ 모두 자신의 경험을 예로 들어 상대를 설득한다.</li>
+    <li id="q36-5">⑤ ⓐ와 ⓑ는 모두 상대와 대화한 이후 기쁨의 정서를 표출한다.<a class="src-tag" href="#ev51">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 인물의 행위를 본문에서 확인해 공통/차이를 가린다.</p>
+        <p>ⓐ청춘과부는 덴동어미 말을 듣고 ‘얼시고나 좋을시고’ 하며, ⓑ선문자는 부구공 말을 듣고 ‘팔짝팔짝 뛰면서 기뻐’한다. 둘 다 대화 이후 <strong>기쁨</strong>을 표출한다. ⑤가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>갈등 해소·고조 장면이 없다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓑ는 상대 평가를 ‘반박’하지 않는다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ⓐ가 ‘우려’의 물음을 하는 장면은 없다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘자기 경험으로 설득’하는 인물이 아니다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>둘 다 대화 후 기쁨 표출(좋을시고 / 팔짝 뛰며 기뻐).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. 문맥을 고려해 ㉠~㉤을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q37-1">① ㉠: 주어진 상황을 운명으로 여기고 현실을 받아들이는 태도.</li>
+    <li id="q37-2">② ㉡: 젊고 어여쁜 시절이 금세 지나가는 것에 대한 아쉬움.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q37-3">③ ㉢: 상대의 말이 화자의 생각에 영향을 주었음.</li>
+    <li id="q37-4">④ ㉣: 대상이 되는 행위는 누구나 할 수 있는 일임을 강조.</li>
+    <li id="q37-5">⑤ ㉤: 상대의 말에서 새로 배운 것이 있었음.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 구절의 정서·의도를 문맥으로 푼다.</p>
+        <p>㉡은 청춘과부가 덴동어미 말에 깨달아, 자기 마음을 ‘봄’에 얼굴을 ‘꽃’에 부치는 <strong>기쁨·희망</strong>의 표현이다. ‘젊음이 지나가는 아쉬움’이 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠ 팔자·운명 수용 태도.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>㉡은 깨달음의 기쁨이지 ‘아쉬움’이 아니다.</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉢ 상대 말이 생각에 변화를 줌.</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉣ ‘아이 어른 없이 다’ = 누구나.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>㉤ ‘스승을 얻었소’ = 새로 배움.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘봄·꽃’의 정서 방향</div>
+        <p>㉡의 ‘봄·꽃’은 직전 ‘크게 활짝 깨달아’의 흐름상 <strong>기쁨</strong>이다. 단어만 보고 ‘젊음=덧없음(아쉬움)’으로 끌고 가면 ②에 낚인다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. 〈보기〉를 참고해 (가)·(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 45.1%</span> <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가) 덴동어미: 근심·기쁨은 일의 좋고 나쁨이 아니라 <b>마음가짐</b>에 달렸다. (다) 글쓴이: 근심·기쁨은 자신이 훌륭한지에 달렸으니 타인 평가에 얽매여 근심·기뻐함은 지혜롭지 못하다. 다만 자신의 실상은 타인을 통해 알 수 있으므로, 평가의 의미를 <b>가려서</b> 받아들이고 스스로 군자가 되도록 힘써야 한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q38-1">① (가) ‘귀도 또한 별일이지’ → 감정이 마음가짐에 따라 달라질 수 있음.</li>
+    <li id="q38-2">② (가) ‘마음만 여사 태평하면’ ‘고생될 일 별로 없소’ → 감정은 외부가 아니라 내면에서 비롯.</li>
+    <li id="q38-3">③ (다) ‘나를 군자라 하는’ 말을 군자가 하면 기뻐하고 소인이 하면 근심 → 평가의 의미를 가려 받아들임.</li>
+    <li id="q38-4">④ (다) ‘나를 소인이라 하는 이가 정말 군자라면’ 근심 → 타인 평가에 얽매이는 것을 지혜롭지 않게 여김.</li>
+    <li id="q38-5">⑤ (다) ‘근본은 나에게 있’으므로 ‘힘쓸 바를 알지 않아서야’ → 군자가 되려 노력함이 중요.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 〈보기〉의 두 층위(① 타인 평가에 얽매이지 말라 ② 그래도 평가를 가려 받아들여라)를 구분해 선지에 대입한다.</p>
+        <p>④의 ‘군자가 나를 소인이라 하면 근심’은 ‘평가를 <strong>가려서</strong> 받아들이는’ 태도(②층위)다. 이를 ‘타인 평가에 얽매이는 것(지혜롭지 않음)’으로 해석한 것은 잘못이다. 따라서 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>마음가짐에 따라 감정이 달라짐(가).</td></tr>
+          <tr><td>②</td><td>적절</td><td>감정은 내면에서 비롯(가).</td></tr>
+          <tr><td>③</td><td>적절</td><td>평가의 의미를 가려 받아들임(다).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>군자의 평가에 따른 근심은 ‘가려 받아들임’이지 ‘얽매임’이 아니다.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>스스로 군자 되려 힘씀(다).</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘얽매임’ vs ‘가려 받기’</div>
+        <p>(다)는 ‘무턱대고 얽매이지 말라’지만 ‘<strong>군자의 평가</strong>는 가려서 받아들이라’고 한다. ④는 후자를 전자로 잘못 분류했다. 같은 ‘근심’도 어느 층위인지 구분한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (39~42번 · 문학, 현대소설)
+
+<div class="passage">
+  <p class="passage-guide">[39 ~ 42] 송기숙, 「도깨비 잔치」.<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다. (작품은 핵심 발췌)</span></p>
+  <p class="muted">[앞부분 줄거리] 친일 인사 카네야마(김학모의 아버지)에게 큰아들을 잃은 성호의 할아버지는, 김학모의 딸 윤주와 성호의 약혼을 반대한다. 아버지는 출세를 위해 약혼식을 강행하려 하고, 윤주를 사랑하는 성호는 갈등한다.</p>
+  <p class="dlg">성호: “㉠ <span class="ev" id="ev54">그렇지만, 할아버지가 저러고 계시는데…….”</span><a class="ev-tag" href="#q40-1">40-①</a> 아버지: “네 어머니만 집에 있으라 하고 우리만 가자. … ㉡ 내일 열두 시 그대로다.”</p>
+  <p>성호는 ‘수모를 삼키고 식을 올리겠다’는 김학모를 보며, <span class="ev" id="ev57">카네야마 경부 아들로 손가락질을 이겨 낸 ‘배짱과 집념’의 인물임을 깨닫고 허탈해한다.</span><a class="ev-tag" href="#q42-2">42-②</a></p>
+  <p class="dlg">할아버지: “㉢ 오늘 무슨 일 없느냐?” 아버지: “별로 없습니다.”(겁먹은 얼굴) 할아버지: “㉣ 오늘이 동곡 영감 탈상이다. 너희들은 초상 때도 못 갔으니 같이 가자.”</p>
+  <div class="seg"><span class="seg-label">[ A ]</span>
+    <p class="dlg">아버지: “거기까지라면 일이 조금…….” 할아버지: “무슨 일인데….” 아버지: “㉤ <span class="ev" id="ev55">중요한 일이 있어서…….”</span><a class="ev-tag" href="#q40-5">40-⑤</a>(핑계가 얼른 잡히지 않는다)</p>
+    <p class="dlg">할아버지: “친구는 담에 만나도 될 것 아니냐?”(가벼운 노기) … “아니, 약혼식 날 무슨 일이 그렇게 번거롭다는 게야?”(낌새를 눈치챔)</p>
+  </div>
+  <p>그때 밖에서 자동차 <span class="ev" id="ev56">ⓐ 경적 소리가 울려 대화가 끊긴다.</span><a class="ev-tag" href="#q41-1">41-①</a> 어머니가 성호에게 귓속말을 하려는 순간, 할아버지의 <span class="ev" id="ev58">ⓑ “커엄!” 소리에 성호는 이끌리듯 차에 올라탄다(귓속말이 막힌다).</span><a class="ev-tag" href="#q41-1">41-①</a> 차가 시내를 벗어나자 <span class="ev" id="ev59">성호는 ‘가슴이 툭 트이는 것 같’은 해방감을 느끼고,</span><a class="ev-tag" href="#q42-3">42-③</a> 약혼식을 ‘도깨비들 잔치판’으로 떠올린다. 끝에 고고한 동곡 할아버지(갈매나무)를 떠올리며 옷깃을 여민다.</p>
+</div>
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>현대소설은 <strong>인물의 욕망과 갈등</strong>을 잡는다. 두 ‘잔치’가 충돌한다 — 아버지의 <em>약혼식</em>(출세 욕망)과 할아버지의 <em>탈상 동행</em>(역사의식·도리).</p>
+  <ul>
+    <li><strong>성호의 선택</strong> — 결국 할아버지를 따라가며 ‘가슴이 툭 트인다’(해방감). 세속적 ‘도깨비 잔치’에서 벗어남.</li>
+    <li><strong>소재</strong> — ⓐ경적·ⓑ‘커엄’은 둘 다 <em>말/대화를 끊는</em> 장치.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — ㉤(아버지의 핑계)을 ‘중요도 판단’으로 오해하게 만드는 40번, 김학모를 ‘긍정’으로 뒤집는 42번이 함정이다.</p>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. [A]의 서술상 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① 상징적 배경을 제시하여 긴장감을 고조한다.</li>
+    <li id="q39-2">② 현재와 과거를 교차해 사건 해결의 실마리를 제시한다.</li>
+    <li id="q39-3">③ 대화를 주고받는 장면으로 인물 간 갈등 양상을 보여 준다.</li>
+    <li id="q39-4">④ 인물의 외양을 과장 묘사해 부정적 면모를 부각한다.</li>
+    <li id="q39-5">⑤ 장면마다 서술자를 달리해 사건을 입체적으로 조명한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]에서 ‘어떻게 서술했나’(방식)를 본다. 내용이 아니라 표현 기법이다.</p>
+        <p>[A]는 탈상 동행을 두고 할아버지의 질문과 아버지의 둘러대는 대답이 오가며 <strong>대화로 갈등</strong>을 드러낸다. ③이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>상징적 배경 제시가 없다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>현재·과거 교차가 없다.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>대화로 할아버지·아버지의 갈등을 드러냄.</td></tr>
+          <tr><td>④</td><td>오답</td><td>외양 과장 묘사가 없다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>서술자는 바뀌지 않는다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 43.8%</span></p>
+  <ul class="q-opts">
+    <li id="q40-1">① ㉠의 상황은 성호가 ㉡의 행동을 주저하는 이유이다.<a class="src-tag" href="#ev54">지문 근거</a></li>
+    <li id="q40-2">② ㉡의 상황은 아버지·성호가 ㉢을 듣고 긴장하는 이유가 된다.</li>
+    <li id="q40-3">③ ㉡의 아버지 요구와 ㉣의 할아버지 요구 사이에서 성호는 할아버지의 뜻을 따른다.</li>
+    <li id="q40-4">④ ㉢에 대한 대답은 할아버지가 말한 ㉣로 이어진다.</li>
+    <li id="q40-5">⑤ ㉤은 아버지가, ㉣의 요구가 일의 중요도를 고려하지 않은 것임을 알리는 말이다.<a class="src-tag" href="#ev55">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 구절의 ‘의도·기능’을 문맥으로 본다. 특히 ㉤이 ‘진심’인지 ‘핑계’인지 구분.</p>
+        <p>㉤ “중요한 일이 있어서…”는 약혼식을 들킬 수 없어 <strong>둘러대는 핑계(얼버무림)</strong>다. ‘㉣ 요구가 중요도를 고려하지 않았다고 알리는 말’이 아니므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠(할아버지 반대)이 약혼식 강행을 주저하게 함.</td></tr>
+          <tr><td>②</td><td>적절</td><td>약혼식(㉡)을 들킬까 봐 ㉢에 긴장.</td></tr>
+          <tr><td>③</td><td>적절</td><td>결국 할아버지를 따라간다.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘없습니다’(㉢ 대답) 뒤 ㉣ 제안으로 이어짐.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>㉤은 핑계(얼버무림)지 ‘중요도 미고려’를 알리는 말이 아니다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘핑계’를 ‘판단’으로 오해</div>
+        <p>㉤은 진짜 이유를 숨기려 말끝을 흐린 것이다. 말 그대로 ‘중요한 일’을 평가한 게 아니다. 대사의 <strong>속뜻(은폐)</strong>을 본다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. ⓐ(경적)와 ⓑ(커엄)의 기능으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q41-1">① ⓐ는 대화를 중단시키고, ⓑ는 이어지려는 말을 막는다.<a class="src-tag" href="#ev56">지문 근거</a></li>
+    <li id="q41-2">② ⓐ는 성호·할아버지 갈등을 심화하고, ⓑ는 그 갈등을 해소한다.</li>
+    <li id="q41-3">③ ⓐ는 기대감을, ⓑ는 이미 일어난 일에 대한 실망감을 불러일으킨다.</li>
+    <li id="q41-4">④ ⓐ는 할아버지의 아버지 평가를 바꾸고, ⓑ는 성호의 거부감을 유발한다.</li>
+    <li id="q41-5">⑤ ⓐ는 전화로 약속한 일이 일어났음을, ⓑ는 그에 대한 만족감을 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 소리(소재)가 장면에서 하는 ‘기능’을 본다.</p>
+        <p>ⓐ경적은 할아버지·아버지의 대화를 <strong>중단</strong>시키고, ⓑ‘커엄’은 어머니가 성호에게 하려던 귓속말을 <strong>막는다</strong>. ①이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ=대화 중단, ⓑ=귓속말(이어질 말) 차단.</td></tr>
+          <tr><td>②</td><td>오답</td><td>갈등 심화·해소와 무관.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기대감·실망감을 일으키지 않는다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>평가 변화·거부감 유발이 아니다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>약속 이행·만족감 표현이 아니다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. 〈보기〉를 참고해 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>두 할아버지는 강직한 역사의식과 고고한 기품을 지닌 인물. 김학모는 친일 이력을 덮으려, 성호 아버지는 출세하려 결혼을 서두른다. 성호는 할아버지의 역사의식에 공감하면서도 현재의 삶도 중요하다 여긴다. 제목의 ‘도깨비’는 역사의식 없이 세속에 매몰된 인물들을, ‘잔치’는 그들이 활개치는 세상을 풍자한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q42-1">① ‘고개를 돌’린 것 → 아버지가 김학모의 환심으로 이익을 얻으려 함을 성호가 짐작.</li>
+    <li id="q42-2">② ‘수모를 삼키고 식을 올리겠다’는 김학모를 ‘배짱과 집념’으로 표현 → 과거에 얽매이지 않는 삶에 대한 성호의 긍정.<a class="src-tag" href="#ev57">지문 근거</a></li>
+    <li id="q42-3">③ 시내에서 멀어지며 ‘가슴이 툭 트이는’ 기분 → 할아버지 뜻을 따르게 된 성호의 심정.<a class="src-tag" href="#ev59">지문 근거</a></li>
+    <li id="q42-4">④ 약혼식을 ‘도깨비들 잔치판’으로 표현 → 세속에 매몰된 자들의 득세에 대한 비판 의식.</li>
+    <li id="q42-5">⑤ ‘갈매나무’를 떠올리고 ‘옷깃을 여’밈 → 고고한 동곡 할아버지의 삶에 대한 성호의 마음.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 인물·표현에 대한 성호의 ‘태도’를 본문 정서와 맞춘다.</p>
+        <p>성호가 김학모를 ‘배짱과 집념’으로 본 것은 <strong>허탈·비판</strong>의 인식이다(‘허탈한 기분이었다’). 이를 ‘긍정’으로 해석한 ②는 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>아버지의 출세 의도를 성호가 짐작.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘배짱과 집념’은 긍정이 아니라 허탈·비판의 인식.</td></tr>
+          <tr><td>③</td><td>적절</td><td>해방감 = 할아버지 뜻을 따른 심정.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘도깨비 잔치판’ = 세속 매몰 비판.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘갈매나무·옷깃’ = 동곡 할아버지 존경.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 정서의 부호(긍정/부정)</div>
+        <p>‘배짱·집념’은 칭찬처럼 들리지만 바로 뒤 ‘허탈한 기분’이 정서를 못 박는다. 표현의 겉뜻이 아니라 <strong>인물의 정서</strong>로 판단한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (43~45번 · 문학, 현대시)
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] (가) 시 감상 이론 · (나) 이동순 「필라멘트」 · (다) 이문재 「마지막 느림보」.<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="dt2"><b>(가)</b> (시 감상 관점)</p>
+  <p>화자는 대상의 속성에 주목해 주제 의식을 이끌어 낸다. ㉠ 주제 의식을 효과적으로 드러내려 다양한 표현법(감각적 시어, 특정 문장 형식, 사물에 인격 부여, <strong>한 문장을 서로 다른 행에 걸치게 하기</strong> 등)을 쓴다.</p>
+  <p class="dt2"><b>(나)</b> 이동순, 「필라멘트」</p>
+  <p>… 타협이라곤 아예 모르던 그대를 생각한다 / 유리공 속의 불투명이 깊어갈수록 / 오히려 그의 자세는 <span class="ev" id="ev63">꼿꼿하여 흩어지지 않았다</span><a class="ev-tag" href="#q45-1">45-①</a> … 결코 굽힘을 모른다던 어느 우국지사의 생애처럼 … <span class="ev" id="ev61">온갖 협잡의 시대를 감당해 내며 / 비오는 저녁 쓸쓸한 골목에 서서 / 보낼 수 있는 만큼은 그의 ⓐ눈빛을 보낸다</span><a class="ev-tag" href="#q44-1">44-①</a> … 진공 속에서 홀로 반짝이던 그대를 생각한다</p>
+  <p class="dt2"><b>(다)</b> 이문재, 「마지막 느림보 — 산책시 3」</p>
+  <p>이곳에선 아무도 걷지를 않습니다 / 내쳐 달리거나 길바닥 위에서 쓰러질 뿐입니다 / <span class="ev" id="ev60">이 도시는 느슨한 산책을 아주 / 싫어하는 모양입니다</span><a class="ev-tag" href="#q43-3">43-③</a> 산책은 아니 / ⓑ산책만이 두 눈과 귀를 열어 준다는 비밀을 … 도시는 단 한 사람의 산책자도 / 인정하지 않으려 합니다 느림보는 / 가장 큰 죄인으로 몰립니다 … <span class="ev" id="ev62">이 도시는 산책의 거대한 묘지입니다</span><a class="ev-tag" href="#q45-5">45-⑤</a></p>
+</div>
+
+<div class="read-guide">
+  <div class="read-guide-head">이 시들, 이렇게 읽는다</div>
+  <p>현대시는 <strong>대상의 속성 → 주제</strong>로 읽는다(가의 관점).</p>
+  <ul>
+    <li><strong>(나) 필라멘트</strong> — 불투명 속에서도 ‘꼿꼿이’ 빛남 → <em>불의의 시대에 절의를 지키는 의인</em>.</li>
+    <li><strong>(다) 산책</strong> — 속도만 강요하는 도시 비판. ‘산책=눈·귀를 여는 행위’, 도시=‘산책의 거대한 묘지’.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — (다)의 ‘행간 걸침’(43번), ‘거대한 묘지’를 ‘개인주의’로 오독하게 만드는 45번이 함정이다.</p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. ㉠을 중심으로 (나)·(다)를 이해한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 41.7%</span></p>
+  <ul class="q-opts">
+    <li id="q43-1">① (나)는 시각적 이미지의 대비로 대상의 의미 변화를 드러낸다.</li>
+    <li id="q43-2">② (나)는 명사형으로 시상을 마무리해 화자의 태도를 드러낸다.</li>
+    <li id="q43-3">③ (다)는 한 문장의 중간에서 행을 나누어 대상의 속성을 부각한다.<a class="src-tag" href="#ev60">지문 근거</a></li>
+    <li id="q43-4">④ (나)·(다) 모두 경어체로 대상에 대한 친근감을 강조한다.</li>
+    <li id="q43-5">⑤ (나)·(다) 모두 사물에 인격을 부여해 대상 간 갈등 해소를 부각한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(표현법)의 항목을 (나)·(다)에서 실제로 찾는다. ‘행간 걸침’이 핵심 단서.</p>
+        <p>(다)는 ‘이 도시는 느슨한 산책을 아주 / 싫어하는 모양입니다’처럼 <strong>한 문장을 중간에서 행으로 나눠</strong>, ‘싫어하는·인정하지 않으려’ 같은 부정 표현을 행 첫머리에 놓아 도시의 속성을 부각한다. ③이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>(나)에 ‘의미 변화’를 드러내는 이미지 대비는 없다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나)는 ‘생각한다’(동사)로 마무리한다.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(다) 행간 걸침으로 도시의 속성 부각.</td></tr>
+          <tr><td>④</td><td>오답</td><td>경어체는 (다)만 쓴다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘갈등 해소 과정’ 부각은 없다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — (나)/(다) 어느 쪽인지</div>
+        <p>경어체·행간 걸침은 (다)의 특징이다. 선지가 ‘(나)는~’으로 시작하면 (나)에 실제로 그 기법이 있는지부터 확인한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. ⓐ·ⓑ에 대한 이해로 가장 적절한 것은? <span class="q-rate">오답률 40.9%</span></p>
+  <ul class="q-opts">
+    <li id="q44-1">① ⓐ는 직면한 현실을 감당하려는 태도에서 비롯된 것이다.<a class="src-tag" href="#ev61">지문 근거</a></li>
+    <li id="q44-2">② ⓑ는 문제 해결의 책임을 회피하려는 의도에서 비롯된 것이다.</li>
+    <li id="q44-3">③ ⓐ·ⓑ는 모두 화자의 내적 성숙을 지연시키는 요인이다.</li>
+    <li id="q44-4">④ ⓐ는 화자와 세계의 소통을 방해하고, ⓑ는 소통을 가능하게 한다.</li>
+    <li id="q44-5">⑤ ⓐ는 한계 수용의 원인, ⓑ는 현실 순응의 결과이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ(필라멘트의 눈빛)·ⓑ(산책)의 함축을 시의 주제와 맞춘다.</p>
+        <p>ⓐ‘눈빛’은 ‘협잡의 시대를 감당해 내며 쓸쓸한 골목에 서서’ 보내는 빛이다. 즉 <strong>직면한 현실을 감당하려는 태도</strong>에서 비롯된다. ①이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ = 협잡의 시대를 감당하는 태도.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓑ(산책)는 회피가 아니라 ‘눈·귀를 여는’ 행위.</td></tr>
+          <tr><td>③</td><td>오답</td><td>내적 성숙을 ‘지연’시키지 않는다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓐ는 소통을 방해하지 않는다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>한계 수용·현실 순응과는 거리가 멀다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. (가)를 참고해 (나)·(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.3%</span> <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="q45-1">① (나)의 ‘꼿꼿하여 흩어지지 않았다’ → 부정적 현실에 굴하지 않는 삶의 태도.<a class="src-tag" href="#ev63">지문 근거</a></li>
+    <li id="q45-2">② (나)의 ‘온갖 협잡의 시대’ → 현실 세계에 대한 화자의 문제의식.</li>
+    <li id="q45-3">③ (다)의 ‘두 눈과 귀를 열어 준다’는 산책 → 여유로운 삶을 살아야 한다는 주제 의식.</li>
+    <li id="q45-4">④ (다)의 ‘유토피아의 초대장들’이 산책을 훼방 → 도시 문명의 기만적 속성.</li>
+    <li id="q45-5">⑤ (다)의 ‘도시’를 ‘거대한 묘지’로 표현 → 개인주의가 만연한 사회에 대한 문제의식.<a class="src-tag" href="#ev62">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 표현이 가리키는 <strong>주제(무엇에 대한 문제의식인가)</strong>를 시 전체 맥락과 맞춘다.</p>
+        <p>(다)의 ‘거대한 묘지’는 <strong>속도만 강요하고 산책(느림)을 허용하지 않는 도시</strong>에 대한 문제의식이다. ‘개인주의 만연’은 이 시의 주제가 아니므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘꼿꼿’ = 현실에 굴하지 않는 태도.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘협잡의 시대’ = 현실 문제의식.</td></tr>
+          <tr><td>③</td><td>적절</td><td>산책이 눈·귀를 엶 = 여유로운 삶의 주제.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘유토피아의 초대장’ = 도시의 기만성.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘거대한 묘지’는 ‘속도 강요·산책 불허’ 비판이지 개인주의 비판이 아니다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 오답률 60%, 주제의 ‘대상’</div>
+        <p>표현 해석은 맞아도 <strong>문제의식의 대상</strong>이 틀리면 오답이다. (다)의 적은 ‘속도 중심 도시 문명’이지 ‘개인주의’가 아니다.</p>
       </div>
     </div>
   </details>
