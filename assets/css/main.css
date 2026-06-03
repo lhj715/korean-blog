@@ -231,6 +231,27 @@ a:hover{text-decoration:underline}
 .self-check-head{font-size:16px;font-weight:700;color:#2f6b3a;margin-bottom:10px}
 .self-check ol{margin:0;padding-left:22px}
 .self-check li{font-size:14px;line-height:1.85;color:var(--ink-mid);margin-bottom:8px}
+/* 접는 해설 */
+.solution{margin-top:14px}
+.solution > summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:7px;
+  padding:8px 16px;background:var(--ev);color:#fff;border-radius:4px;font-size:13px;font-weight:700;
+  letter-spacing:.02em;user-select:none}
+.solution > summary::-webkit-details-marker{display:none}
+.solution > summary::before{content:"▶";font-size:9px;display:inline-block;transition:transform .2s}
+.solution[open] > summary::before{transform:rotate(90deg)}
+.solution > summary:hover{background:#16487d}
+.solution-body{margin-top:16px;padding-top:16px;border-top:1px solid var(--paper-line)}
+.solution-body > .question-analysis:first-child{margin-top:0}
+/* 선지 판단표 */
+.jt{width:100%;border-collapse:collapse;margin:14px 0;font-size:14px}
+.jt th,.jt td{border:1px solid var(--paper-line);padding:8px 11px;text-align:left;line-height:1.65}
+.jt th{background:var(--paper-warm);font-weight:700;color:var(--ink)}
+.jt th:first-child,.jt td:first-child{text-align:center;width:46px}
+.jt th:nth-child(2),.jt td:nth-child(2){text-align:center;width:74px;white-space:nowrap}
+.jt td{color:var(--ink-mid)}
+.jt tr.correct{background:#eef5fd}
+.jt tr.correct td{color:var(--ink)}
+.jt .ok{color:var(--ev);font-weight:700}
 /* 지문·문제 게시 */
 .passage{background:#fff;border:1px solid var(--paper-line);border-radius:6px;padding:20px 24px;margin:6px 0 28px}
 .passage-guide{font-weight:700;color:var(--ink);margin:0 0 14px!important;padding-bottom:10px;border-bottom:1px solid var(--paper-line)}
