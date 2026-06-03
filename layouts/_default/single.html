@@ -48,6 +48,22 @@ document.addEventListener('click', function(e){
     }
   }
 });
+// 세트 바로가기: 현재 보는 세트 버튼 강조 (scrollspy)
+(function(){
+  var anchors = [].slice.call(document.querySelectorAll('.set-anchor'));
+  var links = [].slice.call(document.querySelectorAll('.set-nav a'));
+  if(!anchors.length || !links.length) return;
+  function spy(){
+    var y = window.pageYOffset + 80;
+    var cur = anchors[0].id;
+    for(var i=0;i<anchors.length;i++){
+      if(anchors[i].getBoundingClientRect().top + window.pageYOffset <= y) cur = anchors[i].id;
+    }
+    links.forEach(function(a){ a.classList.toggle('active', a.getAttribute('href') === '#'+cur); });
+  }
+  window.addEventListener('scroll', spy, { passive:true });
+  spy();
+})();
 </script>
 {{ end }}
 {{ end }}
