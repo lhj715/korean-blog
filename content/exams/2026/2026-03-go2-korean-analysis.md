@@ -620,6 +620,16 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 
 ## 14~17번 독서 · 마찰 전기 나노 발전기
 
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>기술 지문은 <strong>구조 → 작동 원리</strong>를 단계로 잡는다. 핵심 사슬은 <strong>전자 친화도 차이 → 표면 전하 → 전위차 → 전류</strong>다.</p>
+  <ul>
+    <li><strong>두 방식</strong> — ㉠ 수직(접촉·분리 반복) / ㉡ 슬라이딩(수평으로 미끄러져 접촉 면적 변화). 둘 다 ‘기계적 움직임 → 전기 에너지’ 변환.</li>
+    <li><strong>성능 향상</strong> — 유효 접촉 면적↑ → 표면 전하↑ → 전기 에너지↑ (㉮ 나노 패턴).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — ‘전자 친화도는 변하지 않는다’가 17번의 핵심 함정이다(회전 방향이 바뀌어도 표면 전하 부호는 그대로).</p>
+</div>
+
 <div class="passage">
   <p class="passage-guide">[14 ~ 17] 마찰 전기 나노 발전기(TENG)의 구조와 원리(기술).<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>물질은 양전하의 원자핵과 음전하의 전자로 된 원자로 이루어지는데, <span class="ev" id="ev22">물질마다 전자를 끌어당기는 능력인 전자 친화도가 다르다.</span><a class="ev-tag" href="#q14-1">14-①</a> <span class="ev" id="ev23">유리보다 전자를 더 강하게 끌어당기는 비닐은 유리보다 전자 친화도가 크다.</span><a class="ev-tag" href="#q14-3">14-③</a> 전자 친화도가 다른 두 물질이 접촉하면 친화도가 큰 물질 쪽으로 전자가 이동하여 <span class="ev" id="ev25">한쪽에는 (+), 다른 쪽에는 (−)의 표면 전하가 생긴다.</span><a class="ev-tag" href="#q14-5">14-⑤</a> 이 원리로 전류를 발생시키는 것이 마찰 전기 나노 발전기(TENG)다.</p>
