@@ -4,7 +4,7 @@ category: "학력평가"
 date: 2024-10-15
 keywords: ["고2", "2024년 10월", "학력평가", "국어", "기출 분석", "근거 표시", "혼자 공부"]
 summary: "2024년 10월 고2 전국연합학력평가 국어 기출 분석 — 지문에 선지 판단 근거를 표시하고 발문 해석·선지 판단·오답 함정까지 담은 풀이."
-draft: true
+draft: false
 ---
 
 <div class="exam-analysis">
@@ -13,7 +13,7 @@ draft: true
   <div class="exam-overview-item"><span>시행</span><strong>2024-10-15</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
 <div id="set1" class="set-anchor"></div>
@@ -1153,6 +1153,395 @@ draft: true
 
 <div id="set9" class="set-anchor"></div>
 
-<!--SETS_35_45_PLACEHOLDER-->
+## 35~38번 갈래 복합 · 조성신 「개암정가」 · 김창협 「청청각기」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품들, 이렇게 읽는다</div>
+  <p>(가) 가사 「개암정가」: 꿈속 개암정 방문으로 <strong>풍류·가문 의식·유교 가치</strong>를 형상화. (나) 수필 「청청각기」: 이군의 청청각을 방문해 <strong>환경+행실+내면의 맑음(청)</strong>을 설명. 비유적 표현이 두 작품의 공통점이다.</p>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 36번 ⑤는 '초선도를 찾아간 것이 아니라 가려다 꿈에서 깸', 37번 ④는 '㉣에 주변 평판이 없음', 38번 ④는 '(나)의 내면은 잊고'라는 설명이 반대임이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 38] (가) 조성신 「개암정가」 · (나) 김창협 「청청각기」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p class="src-label">(가) 「개암정가」 (발췌)</p>
+  <p class="verse">청춘에 병이 들어 공산에 누웠더니 / 한 조각 남은 꿈에 호랑나비의 날개 빌려 … 개암정(皆巖亭)이 여기로다 [ⓐ입몽→개암정 방문]<br>
+  <span class="ev ans" id="ev35a">시냇가에 누은 돌은 석국(石局)처럼 벌려 잇고</span><a class="ev-tag ans" href="#q35-2">35-②</a> / 주인 영감께 인사하니 / 건장하도다 뛰어난 풍채 거룩하도다 고령의 건강 / 의좋은 삼 형제는 아버님과 함께 놀고 색동옷 입은 아이 재롱 [ⓑ개암정 방문·칭송]<br>
+  원근의 산천을 한눈에 굽어보니 / 동취병·서취병은 봉우리도 수려하고 기암괴석은 골짜기마다 절경이로구나 [ⓒ경관 감상]<br>
+  십팔군선 모인 곳에 … 거룩할사 우리 일문 장수한 어른이 많기도 많구나 … 술잔에 가득 부어 장수 기원 다시 하니 [ⓓ개암정 모임]<br>
+  군선의 손을 잡고 초선도(招仙島)로 가려 하니 / <span class="ev ans" id="ev36">청청한 학의 소리 깨달으니 꿈이로다</span><a class="ev-tag ans" href="#q36-5">36-⑤</a> [ⓔ각몽]</p>
+  <p class="src-label">(나) 「청청각기」 (발췌)</p>
+  <p>㉠<span class="ev" id="ev37a">이군의 청청각이 완성된 뒤로 산골 백성과 들녘 노인들이 모두들 와서 보고는 경이로워하였고, 지나가는 나그네도 신선의 거처가 아닌가 하고 생각하였다.</span><a class="ev-tag" href="#q37-1">37-㉠</a></p>
+  <p>㉡<span class="ev" id="ev37b">청청각은 모두 아홉 칸으로, 마루는 시원하고 방은 따뜻하며 둘레에 난간이 처져 있고, 창과 출입문은 밝고 깨끗하다.</span><a class="ev-tag" href="#q37-2">37-㉡</a></p>
+  <p>㉢<span class="ev" id="ev37c">이곳의 환경과 이군의 일이 모두 맑다고 할 수 있으니, 누각이 '청청각'이란 이름을 얻은 것은 당연하다.</span><a class="ev-tag" href="#q37-3">37-㉢</a> 그러나 환경은 외물(外物)이고 일은 거친 자취이다. 환경을 따르면 외면만 탐하고 내면은 잊게 되니 '청'은 되지만 '청'의 지극함은 아니다.</p>
+  <p>㉣<span class="ev ans" id="ev37d">'나'가 보건대, 이군은 사람됨이 온화하고 담박하여 세속적 이익에 무관심하다. 비단옷을 입고 옥을 차는 부귀한 집안에서 태어났지만, 그의 용모는 들판의 학과 같고 기운은 깊은 숲속의 난초와 같으니, 그는 실로 탁한 세상의 맑은 선비이다.</span><a class="ev-tag ans" href="#q37-4">37-㉣</a></p>
+  <p>㉤<span class="ev" id="ev37e">'청'이라고만 말하지 않고 굳이 그 글자를 중복한 이유는 스스로 재삼 다짐하는 깊은 뜻을 나타낸 것일 것이다.</span><a class="ev-tag" href="#q37-5">37-㉤</a></p>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① 색채의 대비를 통해 주제 의식을 강조하고 있다.</li>
+    <li id="q35-2">② 비유적 표현을 통해 대상의 속성을 드러내고 있다.<a class="src-tag ans" href="#ev35a">정답 근거</a></li>
+    <li id="q35-3">③ 문답의 방식을 통해 인식의 전환을 드러내고 있다.</li>
+    <li id="q35-4">④ 불가능한 상황의 가정을 통해 환상적 분위기를 조성하고 있다.</li>
+    <li id="q35-5">⑤ 자연물에 말을 건네는 방식을 통해 친근감을 표현하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글에 모두 나타나는 표현 기법을 찾는다.</p>
+        <p>(가) '시냇가 돌은 석국처럼', (나) '용모는 들판의 학과 같고, 기운은 난초와 같으니' — 둘 다 <strong>비유</strong>로 대상의 속성을 드러낸다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>둘 다 비유적 표현 사용.</td></tr>
+          <tr><td>①·③·④·⑤</td><td>오답</td><td>색채 대비·문답·환상적·말 건네기 공통 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. &lt;보기&gt;(ⓐ입몽·ⓑ개암정 방문·ⓒ경관 감상·ⓓ개암정 모임·ⓔ각몽)의 ⓐ~ⓔ에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① ⓐ: 꿈속에서 호랑나비의 날개를 빌려 개암정을 찾아가는 과정을 드러낸다.</li>
+    <li id="q36-2">② ⓑ: 개암정에서 주인 영감을 만나고 풍채·건강을 칭송하는 마음을 드러낸다.</li>
+    <li id="q36-3">③ ⓒ: 원근의 산천을 한눈에 굽어보며 산세의 모습을 감각적으로 드러낸다.</li>
+    <li id="q36-4">④ ⓓ: 조상의 집에 모인 사람들의 장수를 기원하며 모임에 대한 만족감을 드러낸다.</li>
+    <li id="q36-5">⑤ ⓔ: 군선의 손을 잡고 찾아간 초선도에서 학의 소리로 꿈에서 깨는 과정을 드러낸다.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '초선도를 찾아갔는지' 본다.</p>
+        <p>'군선의 손을 잡고 초선도로 <strong>가려 하니</strong>'이지 '찾아간' 것이 아니다. 학의 소리에 꿈에서 깨어나는 것이다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>적절</td><td>입몽·칭송·산세·장수 기원 모두 맞음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>'가려 하니'이지 '찾아간' 것 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q37-1">① ㉠: '나'가 청청각을 방문한 사람들의 반응을 제시하고 있다.<a class="src-tag" href="#ev37a">지문 근거</a></li>
+    <li id="q37-2">② ㉡: '나'가 누각을 직접 본 경험을 바탕으로 청청각의 구조와 모습을 제시하고 있다.<a class="src-tag" href="#ev37b">지문 근거</a></li>
+    <li id="q37-3">③ ㉢: '나'가 누각의 환경과 이군의 일을 비교하며 청청각의 이름에 대한 생각을 제시하고 있다.<a class="src-tag" href="#ev37c">지문 근거</a></li>
+    <li id="q37-4">④ ㉣: '나'가 이군에 대한 자신의 평가를 주변 평판과 함께 제시하고 있다.<a class="src-tag ans" href="#ev37d">정답 근거</a></li>
+    <li id="q37-5">⑤ ㉤: '나'가 이군이 누각을 청청각이라 명명한 이유에 대한 추측을 제시하고 있다.<a class="src-tag" href="#ev37e">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉣에 '주변 평판'이 있는지 본다.</p>
+        <p>㉣에서 '나'가 이군에 대한 자신의 평가를 제시하지만, <strong>주변의 평판은 함께 제시되지 않는다</strong>. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·②·③·⑤</td><td>적절</td><td>방문자 반응·구조·이름 비교·명명 추측 모두 맞음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>주변 평판 없이 '나'의 평가만.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>사대부 작품에서 자연은 풍류를 즐기는 공간·이상적 삶을 실현하는 공간이다. (가)의 자연은 흥취를 느끼는 공간·가문 의식·유교 가치를 실현하는 관념 공간으로, (나)의 자연은 속세와 단절된 사대부가 자연과 조화를 이루며 인격 수양을 실천하는 은일 공간으로 나타난다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q38-1">① (가)의 '돌 틈에 솟은 물에 표주박 술잔이 띄워 있'는 모습에서 풍류를 즐기는 공간으로서의 자연을 엿볼 수 있군.</li>
+    <li id="q38-2">② (가)의 '봉우리도 수려하고 기암괴석이 절경이로구나'에서 미적 가치를 인식하는 공간으로서의 자연을 엿볼 수 있군.</li>
+    <li id="q38-3">③ (나)의 '천천히 거닐'며 '세속의 잡다한 일이 조금도 없'는 이군의 모습에서 사대부가 은일하는 공간으로서의 자연을 엿볼 수 있군.</li>
+    <li id="q38-4">④ (가)의 '우리 일문'에 '장수한 어른이 많기도 많'다며 '거룩'하다고 감탄하는 것에서 가문 의식 실현의 공간을, (나)의 '내면은 잊'고 '텅 비고 밝은 본체'를 기르는 이군의 모습에서 인격 수양을 실천하는 공간으로서의 자연을 엿볼 수 있군.<a class="src-tag ans" href="#ev37c">정답 근거</a></li>
+    <li id="q38-5">⑤ (가)의 '삼 형제는 아버님과 함께 놀고'·'뛰어난 자식들은 뜰 앞에 벌려 있'는 것과 (나)의 '외물의 누를 씻어 내어 가슴속을 해맑게' 하면 '이 누각에 사는 것이 부끄럽지 않'다는 것에서 이상적 삶이 실현되는 공간으로서의 자연을 엿볼 수 있군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (나)에서 '내면은 잊고'가 이군의 모습인지 본다.</p>
+        <p>(나)는 '환경을 따르면 외면만 탐하고 <strong>내면은 잊게 된다</strong>'고 경고하는 것이지, 이군이 '내면을 잊고' 수양을 실천한다는 것이 아니다. 오히려 내면을 잊지 말아야 한다는 취지다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·②·③·⑤</td><td>적절</td><td>풍류·미적 가치·은일·이상적 삶 모두 맞음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>'내면은 잊고'는 이군의 모습 아님, 경고임.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 39~42번 고전소설 · 작자 미상 「당태종전」
+
+<div class="passage">
+  <p class="passage-guide">[39 ~ 42] 작자 미상, 「당태종전」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p class="muted">[앞부분 줄거리] 용왕에게 원한을 품은 태종이 저승으로 가게 된다. 위징이 최 판관에게 태종을 도와 달라 부탁한다.</p>
+  <p>최 판관은 생사부에서 태종의 수한이 13년임을 보고, 위징 부탁을 지키려 열 십자에 두 획을 더해 23년으로 바꾼 뒤 드린다. 십전 명왕은 10년을 지레 일찍 들어왔다며 태종에게 인간 세계로 돌아가도록 청한다.</p>
+  <p>귀졸들이 태종을 에워싸자 최 판관은 <span class="ev ans" id="ev39">높은 데 올라가 먼저 이를 인지하고 태종에게 알린다.</span><a class="ev-tag ans" href="#q39-5">39-⑤</a> 계교가 없다며 탄식하다, 판관 권위로 귀졸들을 물러서게 한 뒤 ㉠태종의 창고(빈 창고)로 안내한다.</p>
+  <p>창고지기: <span class="ev ans" id="ev40">㉠의 창고=빈 곳, 짚 한 뭇만 있음. 이는 태종이 이름 알려지기 전 손식 처의 해산 때 준 태거적의 결과.</span><a class="ev-tag ans" href="#q41-5">41-㉠</a> [A]에서 창고지기가 태종의 과거 행적(나눠 줌 없음)을 언급하며 힐책한다.</p>
+  <p>최 판관이 ㉡<span class="ev ans" id="ev41">장상의 창고(금은이 쌓임 — 장상은 평생 적선한 인물)</span><a class="ev-tag ans" href="#q41-5b">41-㉡</a>로 안내해 금을 꾸어 귀졸들에게 나누어 주니 귀졸들이 물러선다.</p>
+  <p>태종이 [B]에서 귀졸들에게 금을 나눠 주며 '십전 명부에서 원한이 가득 찼음을 알면 다시 세상으로 인도해 가게 하리라'고 설득해 귀졸들이 물러선다.</p>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. 윗글의 최 판관에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① 태종을 위해 자신이 맡은 직책의 권위를 이용하여 계략을 행하고 있다.</li>
+    <li id="q39-2">② 태종에게 자신이 베푼 선의의 대가로 지부에 없는 것을 요구하고 있다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
+    <li id="q39-3">③ 태종의 명령을 해결할 계교가 없어 탄식하고 있다.</li>
+    <li id="q39-4">④ 염라대왕의 명령을 수행하다 위징의 부탁을 들어주기 위한 계책을 떠올리고 있다.</li>
+    <li id="q39-5">⑤ 태종에게 닥친 위기 상황을 먼저 인지하고 그 내용을 태종에게 설명해 주고 있다.<a class="src-tag" href="#ev39">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '지부에 없는 것을 요구'한 것이 최 판관인지 본다.</p>
+        <p>'지부에 없으니 수박을 보내 달라'고 요구한 것은 <strong>십전 명왕</strong>이지 최 판관이 아니다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·③·④·⑤</td><td>적절</td><td>권위 이용·탄식·계책·먼저 인지 모두 확인됨.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>수박 요구=십전 명왕(최 판관 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q40-1">① [A]는 과거 사실로 상대를 조종, [B]는 미래 상황 가정으로 상대를 조롱한다.</li>
+    <li id="q40-2">② [A]는 정보를 제공하며 독려, [B]는 물건을 제공하며 회유한다.</li>
+    <li id="q40-3">③ [A]는 문제 상황을 언급하며 힐책, [B]는 해결 의지를 드러내며 설득한다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
+    <li id="q40-4">④ [A]는 주장을 내세우며 도우려 하고, [B]는 의도를 드러내며 억압한다.</li>
+    <li id="q40-5">⑤ [A]는 갈등의 원인을 밝히며 배려, [B]는 고통을 예측하며 독촉한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]·[B] 각각의 발화 기능을 본다.</p>
+        <p>[A] 창고지기가 빈 창고라는 문제 상황 언급하며 태종을 힐책. [B] 태종이 '세상으로 인도해 가게 하리라'며 해결 의지 드러내며 귀졸들을 설득. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>[A]=문제 언급+힐책, [B]=해결 의지+설득.</td></tr>
+          <tr><td>①·②·④·⑤</td><td>오답</td><td>조종·조롱·독려·억압·배려·독촉 해당 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q41-1">① ㉠은 인물 간 오해 발생, ㉡은 오해 해소 장소이다.</li>
+    <li id="q41-2">② ㉠은 타인 환심을 사려는, ㉡은 호의를 거절하는 장소이다.</li>
+    <li id="q41-3">③ ㉠은 상대를 의심하게, ㉡은 의심을 해소하는 장소이다.</li>
+    <li id="q41-4">④ ㉠은 예상치 못한 타인을 만나는, ㉡은 기대하던 타인을 만나는 장소이다.</li>
+    <li id="q41-5">⑤ ㉠은 자신의 과거 행적을 환기하는, ㉡은 타인의 과거 행적의 결과를 확인하는 장소이다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠·㉡이 각각 어떤 '과거 행적'과 관련되는지 본다.</p>
+        <p>㉠ 태종의 창고=빈 창고 → 태종이 나눠 주지 않았던 <strong>자신의 과거 행적</strong> 환기. ㉡ 장상의 창고=금은이 쌓임 → 장상이 평생 적선한 <strong>타인(장상)의 과거 행적 결과</strong> 확인. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉠=자기 과거 환기, ㉡=타인 과거 결과 확인.</td></tr>
+          <tr><td>①~④</td><td>오답</td><td>오해·환심·의심·예상치 못한 만남 해당 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>고전소설에서 저승은 업보에 대한 상벌·환생에 관여하는 사후 세계. 저승과 이승의 단절과 연결이라는 이중성으로 다양한 서사 기능을 한다. 이 작품에서 이승의 권력자 지위는 저승에서도 이어지나, 업보로 빈부가 전도된다. 권력자는 업보로 위기를 겪지만 이승에서 선행한 자의 업보를 통해 모면하고 환생 가능성을 되찾는다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q42-1">① 십전 명왕과 최 판관이 태종을 '폐하'라 지칭하는 모습에서 권력자 지위가 사후에도 이어짐을 알 수 있군.</li>
+    <li id="q42-2">② 십전 명왕이 태종의 생사부를 보고 '바삐 도로 인세에 나가심을 청하라'고 한 데서 저승이 환생에 관여하는 사후 세계임을 알 수 있군.</li>
+    <li id="q42-3">③ 귀졸들이 달려들어 태종이 정신을 잃는 모습에서 권력자가 업보로 저승에서 위기를 겪음을 알 수 있군.</li>
+    <li id="q42-4">④ 태종이 최 판관이 가리켜 들어간 집 안에서 짚 한 뭇을 발견한 것에서, 권력자가 끊어졌던 환생의 가능성을 되찾음을 알 수 있군.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
+    <li id="q42-5">⑤ 태종이 장상의 금을 꾸어 여러 혼을 위로하는 것에서, 이승에서 선행을 베푼 장상의 업보를 통해 권력자가 위기를 모면함을 알 수 있군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '짚 한 뭇'이 환생 가능성 회복과 관련 있는지 본다.</p>
+        <p>'짚 한 뭇'은 태종이 이름 알려지기 전 베푼 태거적의 결과이지, 이것으로 '환생 가능성을 되찾은' 것이 아니다. 환생 가능성은 최 판관의 생사부 조작으로 확보됐다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·②·③·⑤</td><td>적절</td><td>지위 이어짐·환생 관여·업보 위기·선행 통해 모면 맞음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>짚 한 뭇=업보 흔적, 환생 가능성 회복과 무관.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 현대시 · 김광균 「목련나무 옆에서」 · 정일근 「그리운 곳으로 돌아보라」
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] (가) 김광균 「목련나무 옆에서」 · (나) 정일근 「그리운 곳으로 돌아보라」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p class="src-label">(가) 「목련나무 옆에서」</p>
+  <p class="verse">사월이 돌아와 다사로운 봄볕에 / 목련이 꽃망울지기 시작하면 / 내 슬픔은 비롯하나보다.<br>
+  경운동집 앞마당에 / 목련이 ㉠<span class="ev" id="ev44a">가지마다 꽃등을 달면</span><a class="ev-tag" href="#q44-1">44-㉠</a> / 병석의 어머님은 방문을 열고 / 사월 팔일이 온 것 같다고 웃고 계셨다.<br>
+  늙은 나무는 죽은 지 오래이고 / 남은 가지가 자라난 지 스물 두 해 / 오늘은 ㉡<span class="ev" id="ev44b">아침부터 바람이 불고</span><a class="ev-tag" href="#q44-2">44-㉡</a> / 연약한 가지에 매어달린 목련은 / 떠나가는 몸짓을 한다.<br>
+  목련이 지면 어머님은 떠나가시고 / 삼백 예순 날이 또 지나가겠지 / 아 새봄이 와서 / 가지마다 새싹이 움틀 때까지 / 나는 서서 나무가 되고 싶다.</p>
+  <p class="src-label">(나) 「그리운 곳으로 돌아보라」</p>
+  <p class="verse"><span class="ev ans" id="ev43">그리운 곳에는 우리를 부르는 소리가 있네</span> [수미상관]<br>
+  천상의 사랑은 ㉢<span class="ev" id="ev44c">이미 빗장을 풀고 달아나버려</span><a class="ev-tag" href="#q44-3">44-㉢</a><br>
+  어제는 ㉣<span class="ev" id="ev44d">들판에서 잠자고 오늘은 길 위에서 눈뜨는</span><a class="ev-tag" href="#q44-4">44-㉣</a> / 노숙의 세월인들 꿈이 없으랴<br>
+  나는 대상에서 떨어져나온 외로운 쌍봉낙타 / 취하지 않고서는 건널 수 없는 도시의 불사막을 / 지글거리는 고통의 맨발로 걸어가네<br>
+  ㉤<span class="ev ans" id="ev44e">또 그렇게 가다보면</span><a class="ev-tag ans" href="#q44-5">44-㉤</a> 세상의 마지막 저녁과 / 두고온 고향의 바닷별과 조우하려니<br>
+  그리운 곳에는 우리를 부르는 소리가 있네 [수미상관]<a class="ev-tag ans" href="#q43-2">43-②</a></p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① (가)와 달리 (나)는 감탄사를 사용하여 고조된 감정을 표현하고 있다.</li>
+    <li id="q43-2">② (가)와 달리 (나)는 수미상관 기법을 사용하여 구조적 안정감을 부여하고 있다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
+    <li id="q43-3">③ (나)와 달리 (가)는 음성상징어를 사용하여 시의 리듬감을 주고 있다.</li>
+    <li id="q43-4">④ (나)와 달리 (가)는 설의적 표현을 사용하여 화자의 의도를 강조하고 있다.</li>
+    <li id="q43-5">⑤ (가)와 (나)는 모두 후각적 심상을 사용하여 시적 분위기를 조성하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (나)에만 수미상관이 있는지 본다.</p>
+        <p>(나)의 첫행·마지막행이 '그리운 곳에는 우리를 부르는 소리가 있네'로 동일하다. (가)는 수미상관이 없다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>(나) 수미상관, (가) 없음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가)에 '아'라는 감탄사 있음.</td></tr>
+          <tr><td>③·④·⑤</td><td>오답</td><td>음성상징어·설의적·후각 공통 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① ㉠: 목련이 가지에 낱낱이 피어 있는 형상을 부각하고 있다.<a class="src-tag" href="#ev44a">지문 근거</a></li>
+    <li id="q44-2">② ㉡: 화자가 인식한, 바람이 불기 시작한 시점을 드러내고 있다.<a class="src-tag" href="#ev44b">지문 근거</a></li>
+    <li id="q44-3">③ ㉢: 천상의 사랑이 달아나버린 것이 지나간 일임을 부각하고 있다.<a class="src-tag" href="#ev44c">지문 근거</a></li>
+    <li id="q44-4">④ ㉣: 잠자는 장소를 밝혀 노숙의 세월을 구체화하고 있다.<a class="src-tag" href="#ev44d">지문 근거</a></li>
+    <li id="q44-5">⑤ ㉤: 세상의 마지막 저녁을 거듭해서 겪고 있음을 부각하고 있다.<a class="src-tag ans" href="#ev44e">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉤ '또'가 무엇을 수식하는지 본다.</p>
+        <p>㉤ '또 그렇게 가다보면'은 '고통의 맨발로 걸어가는 행동'의 반복을 나타내지, '세상의 마지막 저녁'을 거듭 겪는다는 것이 아니다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>적절</td><td>낱낱이 피어남·아침 시점·지나간 일·처소 구체화 맞음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>'또'=걸어가는 행동 반복(저녁 거듭 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)에서 화자는 순환하는 자연에서 부재하는 혈육을 회상하고, 자신·혈육을 자연물과 동일시하는 상상력으로 그리움을 드러낸다. (나)에서 화자는 부정적 현실 속 고독함을 느끼며 고향과 이어지는 상상력으로 고향에 대한 그리움을 드러내며 현실을 인내한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① (가)의 '병석의 어머님'이 '방문을 열고' '웃고 계셨다'에서 혈육에 대한 과거 경험을 확인할 수 있군.</li>
+    <li id="q45-2">② (나)의 '나는 대상에서 떨어져나온 외로운 쌍봉낙타'에서 고독한 현실에 대한 화자의 인식을 확인할 수 있군.</li>
+    <li id="q45-3">③ (나)의 '그리운 곳에는 우리를 부르는 소리가 있네'에서 고향에 대한 그리움을 확인할 수 있군.</li>
+    <li id="q45-4">④ (가)의 '사월이 돌아'오고 '삼백 예순 날이 또 지나가겠지'에서 자연의 순환에 대한 인식을, (나)의 '고통의 맨발로 걸어가네'에서 부정적 현실을 인내하는 태도를 확인할 수 있군.</li>
+    <li id="q45-5">⑤ (가)의 '목련이 지면 어머님은 떠나가시고'와 '나는 서서 나무가 되고 싶다'에서 자연물을 통해 부재하는 어머니와 자신을 동일시하는, (나)의 '두고온 고향의 바닷별과 조우하려니'에서 고향과 이어지는 화자의 상상력을 확인할 수 있군.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (가)에서 '자신과 어머니를 동일시'하는지 본다.</p>
+        <p>'목련이 지면 어머님은 떠나가시고'는 목련·어머님 동일시이고, '나는 서서 나무가 되고 싶다'는 자신·나무 동일시다. <strong>자신과 어머니를 동일시하는 것은 아니다</strong>. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>적절</td><td>과거 경험·고독·그리움·자연 순환+인내 모두 맞음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>자신↔나무, 어머니↔목련 — 자신과 어머니 동일시 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="concept-cards">
+  <div class="concept-head">이 회차에서 챙길 개념</div>
+  <div class="concept-grid">
+    <div class="concept-card"><strong>연결 어미 '-고'</strong><span>보조적·나열(㉠)·순차(㉡)·지속(㉢) 세 가지를 [±완결성][±지속성]으로 구분.</span></div>
+    <div class="concept-card"><strong>투명·불투명 매체</strong><span>실러=투명(질료 감추기), 그린버그=불투명(질료 드러내기).</span></div>
+    <div class="concept-card"><strong>기술적 지지체</strong><span>물질적+비물질적 지지체의 복합 구조, 규칙 겹침으로 미적 효과.</span></div>
+    <div class="concept-card"><strong>지상권 vs 지역권</strong><span>지상권=배타적 점유, 지역권=비배타적. 둘 다 등기 필요.</span></div>
+  </div>
+</div>
+
+</div>
 
 </div>
