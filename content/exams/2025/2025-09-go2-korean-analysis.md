@@ -12,7 +12,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-09-03</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~21번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -21,6 +21,9 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~21 독서(인문)</a>
+  <a href="#set6">22~26 독서(과학·기술)</a>
+  <a href="#set7">27~30 현대소설</a>
+  <a href="#set8">31~33 고전소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -872,6 +875,474 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>잠·상태에 깊이 들다.</td></tr>
           <tr><td>④</td><td>오답</td><td>남보다 못하다(빠지지 않다).</td></tr>
           <tr><td>⑤</td><td>오답</td><td>참여하지 않다(결석).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 22~26번 독서(과학·기술) · 의류 건조기는 어떻게 옷을 말리나
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘뜨거운 공기로 수분을 증발시킨다’가 큰 줄기다. <strong>건조 3구간</strong>과 <strong>두 배출 방식</strong>만 표로 잡으면 된다.</p>
+  <ul>
+    <li><strong>건조 3구간</strong> — 예열(온도↑·함수율 최고) → 항률(온도·습도 일정, 증발량 일정) → 감률(속도↓→0, 온도↑·온도 차 줄어 종료 판단).</li>
+    <li><strong>증발이 빨라지는 이유</strong> — 온도↑ → 물 분자 결합력↓ + 포화 수증기량↑.</li>
+    <li><strong>배출 방식</strong> — ㉠배기식(수증기를 실외로) / ㉡응축식(열 교환기로 응축→배수, 공기 순환).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 22번은 ‘드럼 <em>안</em>에서 가열’(실제는 가열 후 드럼으로 이동), 23번은 ‘상변화는 두 방식의 공통점’(㉠만 아님)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>열에너지는 고온에서 저온으로 이동하며, 온도 차가 클수록 열전달이 활발하다. 수분을 포함한 물체로 열전달이 일어나면 물 분자의 운동 에너지가 커져 결합력이 약해지므로 기체로의 상변화가 활발해진다. 이렇게 수분을 제거하는 것이 <strong>건조</strong>이고, 단위 시간당 증발 수분량이 <strong>건조 속도</strong>다. <span class="ev" id="ev21">㉮<u>다른 조건이 같을 때 건조 속도는 공기 온도가 높을수록 빨라진다.</u></span><a class="ev-tag" href="#q24-5">24-㉮</a></p>
+  <p><span class="ev" id="ev19">의류 건조기는 가열 장치로 공기를 일정 온도까지 가열한 뒤, 이를 세탁물이 있는 드럼으로 이동시킨다.</span><a class="ev-tag" href="#q22-1">22-①</a> <span class="ev" id="ev20">세탁물 온도가 공기보다 낮아 세탁물로 열전달이 일어나고, 공기 온도가 높아지면 포화 수증기량(공기 1㎥ 속 최대 수증기량)이 증가해 수분 증발이 촉진된다.</span><a class="ev-tag" href="#q23-2">23-②</a></p>
+  <p>드럼 내부 건조는 함수율·건조 속도에 따라 세 구간으로 나뉜다. <span class="ev" id="ev22">먼저 <strong>예열 구간</strong>은 고온의 공기로 세탁물 온도가 오르며 건조 속도가 빨라지는 구간으로, 함수율이 가장 높다.</span><a class="ev-tag" href="#q25-4">25-④</a></p>
+  <p><strong>항률 건조 구간</strong>에서는 전달된 열에너지가 수분 증발에 집중돼 세탁물 온도가 일정하게 유지되고, 증발량·배출 공기 습도도 일정하다. 다만 열에너지 소모로 빠져나오는 공기 온도는 더 낮아진다. 함수율이 점차 줄어 건조 속도가 느려지기 시작하면 감률 건조 구간으로 ⓐ<u>넘어간다</u>.</p>
+  <p><strong>감률 건조 구간</strong>에서는 증발할 수분이 줄어 속도가 점점 느려지다 최대 증발량에 도달하면 건조 속도가 0이 되고, 세탁물 온도만 오른다. 종료 직전엔 유입·배출 공기의 온도 차가 줄어드는데, 이를 이용해 종료 시점을 설정한다.</p>
+  <p>증발한 수분은 ⓑ<u>사라지지</u> 않고 수증기로 존재하며, 배출 방식에 따라 ㉠<u>배기식</u>과 ㉡<u>응축식</u>으로 나뉜다. 배기식은 수증기가 실외로 ⓒ<u>이어지는</u> 배기 장치로 배출된다. 응축식은 습한 공기가 열 교환기에서 냉각돼 이슬점에서 물로 응축·배출되고, 습도 낮아진 공기는 다시 가열돼 드럼으로 순환한다.</p>
+  <p>의류 건조기는 자연 건조보다 시간을 줄이지만, 고온 공기와 ⓓ<u>맞닿으며</u> 수축될 수 있고 특히 천연 섬유는 합성 섬유보다 수축이 더 ⓔ<u>생기는</u> 편이다.</p>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. 의류 건조기에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 건조 속도를 조절하려 <strong>드럼 내에서 공기를 가열</strong>해 세탁물을 건조시키겠군.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q22-2">② 건조 시간을 자연 건조보다 줄이는 편의를 제공하겠군.</li>
+    <li id="q22-3">③ 같은 조건이어도 소재에 따라 수축 정도가 달라질 수 있겠군.</li>
+    <li id="q22-4">④ 건조 과정 동안 일정 온도의 공기를 드럼으로 계속 유입시키겠군.</li>
+    <li id="q22-5">⑤ 유입·배출 공기의 온도 차에 따라 작동 종료 여부가 결정될 수 있겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 가열이 ‘어디서’ 일어나는지 본다.</p>
+        <p>건조기는 <strong>가열 장치</strong>로 공기를 데운 뒤 그 공기를 드럼으로 보낸다. ‘드럼 안에서 가열’하는 것이 아니므로 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>가열 장치에서 데운 뒤 드럼으로 이동.</td></tr>
+          <tr><td>②</td><td>적절</td><td>자연 건조보다 시간 단축.</td></tr>
+          <tr><td>③</td><td>적절</td><td>천연 vs 합성 수축 차이.</td></tr>
+          <tr><td>④</td><td>적절</td><td>일정 온도 공기 계속 유입.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>온도 차로 종료 설정.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠(배기식)과 ㉡(응축식)에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠은 ㉡과 달리 수증기를 실외로 배출하는 별도 배기 장치가 필요하다.</li>
+    <li id="q23-2">② ㉠은 ㉡과 달리 세탁물 수분이 상변화를 거쳐 기체로 바뀐 뒤 드럼에서 빠져나온다.<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q23-3">③ ㉡은 ㉠과 달리 공기가 열 교환기를 거치며 온도·습도가 모두 낮아진다.</li>
+    <li id="q23-4">④ ㉡은 ㉠과 달리 수증기를 물로 응축시켜 물통·배수구로 배출한다.</li>
+    <li id="q23-5">⑤ ㉡은 ㉠과 달리 빠져나온 공기가 가열 과정을 거쳐 다시 드럼으로 유입되는 과정이 반복된다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘㉠은 ㉡과 달리’가 정말 차이점인지 본다.</p>
+        <p>수분이 기체로 상변화해 드럼을 빠져나오는 것은 <strong>두 방식 모두의 공통 특징</strong>이다. ②는 이를 배기식만의 것처럼 적었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>배기식만 실외 배기 장치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>상변화는 두 방식의 공통점.</td></tr>
+          <tr><td>③</td><td>적절</td><td>응축식: 열 교환기서 온도·습도↓.</td></tr>
+          <tr><td>④</td><td>적절</td><td>응축식: 물로 응축해 배수.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>응축식: 공기 순환 반복.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. ㉮(공기 온도가 높을수록 건조 속도가 빨라짐)의 이유를 추론한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① 물→수증기 상변화가 촉진돼 물체와 공기 사이 열전달이 활발해지기 때문.</li>
+    <li id="q24-2">② 물 분자 운동 에너지가 커져 물체에 존재할 수 있는 수분량이 늘기 때문.</li>
+    <li id="q24-3">③ 포화 수증기량이 늘어 물체→공기 열전달 속도가 빨라지고 상변화가 가속되기 때문.</li>
+    <li id="q24-4">④ 공기 부피가 일정해 증발이 활발해지고 같은 부피에서 더 많은 수분이 증발되기 때문.</li>
+    <li id="q24-5">⑤ 물 분자 결합력이 약해지고 공기가 품을 수 있는 수증기량이 늘어 증발이 촉진되기 때문.<a class="src-tag" href="#ev21">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘온도↑ → 건조 빨라짐’의 메커니즘 두 갈래를 합친다.</p>
+        <p>온도가 높으면 ① 물 분자 <strong>결합력이 약해져</strong> 증발이 쉽고 ② 공기의 <strong>포화 수증기량이 늘어</strong> 더 많이 품는다. 둘을 모두 담은 ⑤가 정답이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>인과 반대(열전달→상변화).</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘물체에 존재할 수분량 증가’ 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>물체→공기 열전달이 아니다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>부피 일정이 원인이 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>결합력↓ + 포화 수증기량↑.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>함수율·건조 속도 그래프. 함수율은 <b>C 구간이 가장 높고 A로 갈수록 낮아짐</b> → <b>C=예열, B=항률, A=감률</b>. (유입 공기 온도·습도·내부 압력은 일정.)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q25-1">① A 구간에서 그래프가 가로축과 만나는 지점의 함수율은 건조가 끝나는 시점의 함수율이겠군.</li>
+    <li id="q25-2">② B 구간에서 세탁물 온도와 배출 공기 습도는 각각 일정한 값으로 유지되겠군.</li>
+    <li id="q25-3">③ B 구간에서 함수율은 계속 감소하지만 단위 시간당 증발 수분량은 일정하겠군.</li>
+    <li id="q25-4">④ C 구간에서는 수분 증발에 쓰이는 열에너지가 점차 <strong>감소</strong>하여 세탁물 온도가 상승하겠군.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q25-5">⑤ 각 구간의 평균 온도는 A가 가장 높고 C가 가장 낮겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — C(예열) 구간에서 열에너지가 ‘증가’인지 ‘감소’인지 본다.</p>
+        <p>예열 구간(C)은 고온 공기로 건조 속도가 <strong>빨라지는</strong> 구간이므로 수분 증발에 쓰이는 열에너지는 점차 <strong>증가</strong>한다. ④는 ‘감소’라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>속도 0 = 건조 종료 함수율(감률 A).</td></tr>
+          <tr><td>②</td><td>적절</td><td>항률(B): 온도·습도 일정.</td></tr>
+          <tr><td>③</td><td>적절</td><td>항률: 함수율↓이나 증발량 일정.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>예열(C)은 열에너지 ‘증가’.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>감률(A) 온도 최고, 예열(C) 최저.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① ⓐ(넘어가게): 이전(移轉)하게</li>
+    <li id="q26-2">② ⓑ(사라지는): 소거(消去)되는</li>
+    <li id="q26-3">③ ⓒ(이어지는): 연동(聯動)되는</li>
+    <li id="q26-4">④ ⓓ(맞닿으며): 대면(對面)하며</li>
+    <li id="q26-5">⑤ ⓔ(생기는): 발생(發生)하는</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 한자어로 바꿔도 뜻이 통하는지 본다.</p>
+        <p>ⓔ‘수축이 생기다’는 ‘수축이 <strong>발생(發生)</strong>하다’로 자연스럽게 바꿔 쓸 수 있다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>구간 ‘이행’이지 물건 ‘이전’ 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘소거’는 지워 없앰, 문맥과 다름.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘연동’은 함께 움직임, ‘연결’과 다름.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘대면’은 사람이 마주봄.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘생기다’ = 발생하다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 27~30번 현대소설 · 오정희 「겨울 뜸부기」 — 일상을 벗어나려던 오빠
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>‘나’의 시선으로 <strong>일상을 벗어나려던 오빠</strong>의 거듭된 실패를 그린다. 오빠·어머니·‘나’의 <strong>가치관 대립</strong>을 따라가면 된다.</p>
+  <ul>
+    <li><strong>오빠</strong> — 선장의 꿈, 거듭된 입시·사업 실패. ‘인생이 그런 것뿐이라면 허전해서 못 산다’.</li>
+    <li><strong>어머니</strong> — ‘분수·안정’이 우선. 약대 가서 안정된 생활을 바람. 결국 ‘나는 이제 아무 힘이 없다’며 금반지를 내준다.</li>
+    <li><strong>‘나’</strong> — 어머니 생각에 동의하면서도, 오빠가 ‘다른 색채의 인생’을 살길 바란다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 27번은 ‘하루 종일 일해’(실은 서너 시간), 30번은 ‘기대가 사라졌다’(실은 그 모습으로 나타나길 바람)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오.</p>
+  <p>어머니 말을 빌리자면 오빠는 “머리는 좋은데 과거 운이 없어” 중학·고교 입시에서 떨어졌다. 학급에서 중간 성적인 오빠가 일류 학교만 겨냥했으니 그럴 수밖에 없었다. 대학은 달랐다 — ‘큰 배의 선장이 되어 먼 바다로 나가겠다’는 꿈으로 해양대학에 응시했으나 두 해 신체검사에서 걸려 낙방했다.</p>
+  <p>어머니는 2차 대학을 권했으나 오빠는 막무가내로 3수에 들어갔다. ㉠<u>그렇다고 별반 공부를 하는 것 같지도 않았다.</u> 밤늦게 술내를 풍기며 들어오기 일쑤였고, 당구장에서 보내는 시간이 더 많은 것 같기도 했다. 세 해째는 팬티 속 저울추로 신체검사는 통과했으나 필답에서 떨어졌다.</p>
+  <p>어머니는 “약학 대학쯤 들어가 약방을 차리고… 안정된 생활을 할 텐데 엉뚱한 귀신이 씌어 인생 망쳤다”라며 가슴을 쳤다. 오빠는 내게 슬며시 말하곤 했다. “인생이 다만 그런 것뿐이라면 허전하고 쓸쓸해서 어떻게 살겠니.”</p>
+  <p>분수·안정이 우선이라는 ㉡<u><span class="ev" id="ev24">어머니의 생각에 대체로 동의하고 있는 나였지만 그러나 또한 오빠는 그렇게는 살 수 없을 것 같은 느낌에</span> 애매하게 웃어 보이는 수밖에 없었다.</u><a class="ev-tag" href="#q28-2">28-㉡</a> 그건 오빠가 우리네 삶과는 ‘다른 색채의 인생’을 살아주기를 바라는 막연한 바람이었다.</p>
+  <p class="muted">(중략)</p>
+  <p>오빠는 “이번 한 번만 한밑천 해 주시면… 단돈 오십만 원”이라며 용산 야채 시장 사업 계획서를 떨리는 손으로 펴 보였다. <span class="ev" id="ev23">“두둑한 배포와 빠른 눈치작전이면 불과 서너 시간 장사로 ‘쇼부’를 치고, 남들 하루 종일 뼈 빠지게 일하는 몇 배를 번다”</span><a class="ev-tag" href="#q27-1">27-①</a>고 했다. ㉢<u>꼭 설득시켜야 한다는 초조감과 안간힘으로 쉴 새 없이 눈을 굴리며</u>, 얇은 눈꺼풀이 마파람에 떠는 문풍지처럼 경련했다.</p>
+  <p>어머니는 차갑게 잘랐다. “입만 가지고 하는 장사는 사기밖에 없다. … 나는 이제 아무 힘이 없다.” <span class="ev" id="ev25">그리고 왼손 무명지의 세 돈쭝 금반지를 뽑아 오빠 앞에 밀어놓았다 — 죽을 때까지 끼고 있다가 저승 갈 노자로 삼겠다던 유일한 패물이었다.</span><a class="ev-tag" href="#q29-3">29-③</a> 멈칫멈칫 챙겨 넣고 집을 나가는 오빠는 울고 있었다. 그것이 오빠를 본 마지막이었다.</p>
+  <p>이 년 전 울릉도에서 오징어잡이 배를 탄다는 엽서를 받았을 뿐이다. 연말 우체국에서 천 원권 서른 장을 부치려 줄을 서며, ㉣<u>오빠는 그동안 빚을 감당치 못해 벌써 어디론가 달아나 버렸을지도 몰랐다.</u></p>
+  <p>나는 오빠의 전락을 볼 때마다, ㉤<u>지금보다는 돼지를 기를 때가, 그보다는 혈서를 품고 다닐 때가, 아니 그보다는 여선생의 비로드 치마에 얼굴을 묻을 때가 더 좋았다</u>고 생각하곤 했다. <span class="ev" id="ev26">그러나 이 모든 것보다, 수산업으로 한때 재미를 보았으나 왕창 망해 버렸다는 호기와 허언으로 어느 날 불쑥 나타날 오빠와 맞닥뜨릴 것을 나는 바라는 것이 아닐까.</span><a class="ev-tag" href="#q30-5">30-⑤</a></p>
+  <p class="muted" style="text-align:right">— 오정희, 「겨울 뜸부기」</p>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 오빠는 야채 시장에서 <strong>하루 종일 일해</strong> 돈을 벌겠다고 말했다.<a class="src-tag" href="#ev23">지문 근거</a></li>
+    <li id="q27-2">② 오빠는 속임수를 써서 결국 해양대학의 신체검사를 통과했다.</li>
+    <li id="q27-3">③ 어머니는 오빠가 원하는 대학만 고집해 인생을 망쳤다고 생각했다.</li>
+    <li id="q27-4">④ 오빠가 눈물을 흘리며 집을 나선 날이 ‘나’가 오빠를 마지막으로 본 날이었다.</li>
+    <li id="q27-5">⑤ 오빠는 야채 시장 사업 계획서를 보이기 전에 다른 일에 실패한 경험이 있었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 본문 진술과 어긋난 곳을 찾는다.</p>
+        <p>오빠는 ‘<strong>서너 시간</strong> 장사로 남들 하루 종일의 몇 배를 번다’고 했다. ‘하루 종일 일해’ 번다는 ①은 정반대이므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>‘서너 시간’ 장사라 했다.</td></tr>
+          <tr><td>②</td><td>적절</td><td>저울추로 신체검사 통과.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘귀신 씌어 인생 망쳤다’.</td></tr>
+          <tr><td>④</td><td>적절</td><td>그날이 마지막.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>입시·신체검사 실패 경험.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① ㉠: 경험한 사실과 짐작한 내용을 언급하며 인물 판단의 근거를 제시한다.</li>
+    <li id="q28-2">② ㉡: ‘∼지만 그러나 또한’으로 서술자가 특정 인물의 의견에 <strong>동의해 가는 과정</strong>을 드러낸다.<a class="src-tag" href="#ev24">지문 근거</a></li>
+    <li id="q28-3">③ ㉢: 관용적·비유적 표현으로 인물 심리를 판단한 근거를 제시한다.</li>
+    <li id="q28-4">④ ㉣: ‘∼을지도 몰랐다’로 확인 못 한 사실을 단정 없이 추측해 서술한다.</li>
+    <li id="q28-5">⑤ ㉤: ‘∼보다는 ∼ㄹ 때가’ 반복으로 인물의 삶을 병렬해 현재와 비교한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉡의 ‘지만 그러나 또한’이 무엇을 드러내는지 본다.</p>
+        <p>㉡은 어머니 생각에 동의‘하면서도’ 오빠는 그렇게 못 살 것 같다는 ‘나’의 <strong>상반된 마음</strong>을 드러낸다. ‘동의해 가는 과정’이 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>경험(술내)+짐작(당구장).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>동의+그러나 = 상반된 마음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘눈 굴리며’·‘문풍지처럼’.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘∼을지도 몰랐다’ 추측.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘∼할 때가’ 병렬·비교.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 금반지에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① 가족을 위해 희생한 오빠에게 주는 심리적 보상이다.</li>
+    <li id="q29-2">② 오빠의 꿈을 이루게 하려 남겨 둔 마지막 자산이다.</li>
+    <li id="q29-3">③ 오빠가 원하는 도움을 줄 수 없는 상황임을 드러내는 어머니의 경제적 한계이다.<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q29-4">④ 오빠가 이상을 버리고 현실에 만족하게 만드는 모성의 결실이다.</li>
+    <li id="q29-5">⑤ 오빠가 가족의 안정을 지키려 어머니에게 요구하는 물질적 조력이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 금반지가 어떤 상황에서, 무슨 말과 함께 건네지는지 본다.</p>
+        <p>금반지는 어머니의 ‘유일한 패물(저승 노자)’이고, ‘나는 이제 아무 힘이 없다’는 말과 함께 내준다. 즉 더는 도울 수 없는 <strong>경제적 한계</strong>를 드러낸다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>오빠는 희생한 인물이 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>꿈을 이뤄 주려는 자산 아님.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>‘아무 힘이 없다’ = 경제적 한계.</td></tr>
+          <tr><td>④</td><td>오답</td><td>현실 만족시키는 결실 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>오빠가 요구한 조력이 아님(어머니가 내줌).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>이 소설은 일상으로부터 탈출을 꾀하던 오빠의 삶을 서술자 ‘나’의 시선으로 그린다. 오빠와 가족들은 각자의 가치관·태도를 드러내는데, 상황 변화에 따라 그것이 달라지기도 하고 유지되기도 한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q30-1">① 입시 실패 이유를 ‘과거 운’으로 보는 어머니와 ‘일류 학교만 겨냥해서’로 보는 ‘나’에서, 같은 사건에 다른 생각을 지님을 알 수 있다.</li>
+    <li id="q30-2">② ‘선장’의 꿈을 지녔던 오빠가 ‘오징어잡이 배’ 엽서를 보낸 데서, 예전 가치관과 다른 삶을 삶을 알 수 있다.</li>
+    <li id="q30-3">③ ‘약대 갈 실력’이라 믿던 어머니가 ‘입만 가지고 하는 장사는 사기’라 하는 데서, 오빠에 대한 불신을 보여 준다.</li>
+    <li id="q30-4">④ ‘안정된 생활’을 바라는 어머니와 ‘허전해서 못 산다’는 오빠에서, 서로 다른 가치관의 가족을 본다.</li>
+    <li id="q30-5">⑤ ‘다른 삶’을 기대했던 ‘나’가 ‘왕창 망해 호기·허언으로’ 나타날 오빠를 예상하며 <strong>기대가 사라졌음</strong>을 드러낸다.<a class="src-tag" href="#ev26">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘나’의 마지막 마음이 ‘기대 포기’인지 ‘기대 유지’인지 본다.</p>
+        <p>‘왕창 망해 호기·허언으로 나타날 오빠를 <strong>바라는 것이 아닐까</strong>’ — 이는 ‘나’가 바랐던 ‘다른 색채의 인생’ 그대로다. 기대가 사라진 게 아니라 <strong>여전히 그 모습을 바라는</strong> 것이므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘나’ vs 어머니, 다른 생각.</td></tr>
+          <tr><td>②</td><td>적절</td><td>선장→어부, 달라진 삶.</td></tr>
+          <tr><td>③</td><td>적절</td><td>믿음 → 불신으로 변화.</td></tr>
+          <tr><td>④</td><td>적절</td><td>안정 vs 허전함, 가치관 대립.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>기대가 사라진 게 아니라 ‘바람’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 31~33번 고전소설 · 「영이록」 — 두 번의 뱃놀이, 뒤집히는 우열
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>‘배’에서 벌어지는 <strong>두 번의 뱃놀이</strong>를 비교하는 게 핵심이다. 같은 인물들의 <strong>우열이 역전</strong>된다.</p>
+  <ul>
+    <li><strong>[가] 첫 뱃놀이</strong> — 소운성이 시를 안 짓는 손기를 조롱·수모. 손기는 침묵하며 원통한 눈물.</li>
+    <li><strong>[나] 둘째 뱃놀이</strong> — 출가해 도술을 익힌 손기가 피리·북으로 천지를 뒤흔든다. 소운성은 엎드려 두려워한다.</li>
+    <li><strong>역전</strong> — 무시당하던 손기가 ‘두려움·감탄의 대상’으로. 손기가 도리어 소운성을 놀린다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 32번은 ㉣(물음 형식으로 요구를 우회 전달), 33번은 ‘형 한림이 손기 요청으로 갈등을 중재’(실은 감탄만)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 33] 다음 글을 읽고 물음에 답하시오.</p>
+  <div class="seg" id="segGa"><p class="seg-label">[가] 첫 번째 뱃놀이</p>
+  <p>소운성이 술잔을 잡고 “먼저 지은 것을 본받는 법이니 화답하기를 더디게 하지 마십시오”라 하자, 형 한림과 세 동생이 차례로 글을 지어 읽고 기녀들이 노래했다. <span class="ev" id="ev27">이때 손기는 머리를 깊이 숙인 채 가만히 앉아 있었다.</span><a class="ev-tag" href="#q31-2">31-②</a> 화가 난 소운성이 “㉠<u>술 먹는 예절은 군대의 명령보다 엄하고 시 짓는 예는 법률보다 엄한 것</u>”이라며 반선을 잡아 얼굴에 먹을 칠하게 했다.</p>
+  <p>반선이 “말 못하는 부처를 받들게 하였으니 첩의 죄가 아닙니다”라 하자, 소운성은 웃으며 “㉡<u>네가 손 선생을 만난 것은 백년 인연</u>이니 좋든 싫든 감당하라”며 물을 권하게 했다. 억지로 버티던 손기는 점점 얼굴을 배 밑바닥에 박았고, 수모를 당한 손기의 눈에서 원통한 눈물이 흘렀다. 그러자 소운성이 “㉢<u>슬픈 눈물을 보니 절친한 이가 죽었거나 기일이 가까운 까닭이 있었던 것 같습니다… 애도의 예를 표합니다</u>”라며 크게 웃으니 모두 포복절도했다.</p>
+  </div>
+  <p class="muted">[중략] 손기는 출가해 학문·도술에 통달한 뒤 돌아와, 처가 식구들과 다시 뱃놀이를 간다.</p>
+  <div class="seg" id="segNa"><p class="seg-label">[나] 두 번째 뱃놀이</p>
+  <p>형 한림이 거문고를, 소운성이 해금을 타며 ㉣<u><span class="ev" id="ev28">“어찌 손 선생은 그대로 계실 뿐 우리들의 즐거움을 돕지 않으시는지요?”</span></u><a class="ev-tag" href="#q32-4">32-④</a>라 했다. 손기가 “음률은 아는 사람도 모르는 사람도 있으니 어찌 사람마다 다 하겠는가”라 하자, 소운성은 ㉤<u>“조나라 인상여가 진나라 왕에게 장구를 치게 한 일을 본받아 피리를 드리니 한번 불어 주십시오”</u>라며 옥피리를 건넸다.</p>
+  <p>손기가 피리를 불자 구름이 멈추고 기러기가 놀라 울며 가을바람이 일었다. 세 번째 곡조엔 강물이 솟고 학들이 어지럽게 날았다. 이어 큰 북으로 ‘어양삼과’를 치니 달·별이 어두워지고 비바람과 우레가 몰아쳐 배가 엎어질 듯했다. 담력 있는 소운성도 귀를 막고 바닥에 엎드려 두려워했다. <span class="ev" id="ev29">이 광경을 본 형 한림은 손기의 신기한 조화와 재주에 감탄하였다.</span><a class="ev-tag" href="#q33-5">33-⑤</a> 손기가 “북소리 하나를 이기지 못하는데 어찌 삼군을 거느리는 장수가 되겠는가”라며 소운성을 놀렸다.</p>
+  </div>
+  <p class="muted" style="text-align:right">— 작자 미상, 「영이록(靈異錄)」</p>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글의 내용에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 소운성은 손기에게 기녀들을 벌할 것을 강요한다.</li>
+    <li id="q31-2">② 손기는 시에 화답해 달라는 소운성의 요구에 침묵한다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q31-3">③ 반선은 소운성의 질책에 자신이 본분을 어긴 것을 자책한다.</li>
+    <li id="q31-4">④ 세 동생은 손기에게 강물을 먹일 것을 소운성에게 제안한다.</li>
+    <li id="q31-5">⑤ 형 한림은 손기의 연주에 대응하지 못하는 소운성의 어리석음을 꾸짖는다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 인물의 행동을 본문과 하나씩 맞춘다.</p>
+        <p>소운성이 화답을 재촉했지만 손기는 ‘머리를 깊이 숙인 채 가만히’ 있었다 — <strong>침묵</strong>으로 응했다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>기녀(반선)는 소운성이 직접 벌함.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>손기는 침묵으로 응함.</td></tr>
+          <tr><td>③</td><td>오답</td><td>반선은 ‘첩의 죄 아니다’라 항변.</td></tr>
+          <tr><td>④</td><td>오답</td><td>강물 먹이기는 소운성의 명령.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>형 한림은 감탄할 뿐 꾸짖지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. ㉠~㉤에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① ㉠은 사회적 관습을 내세워 상대를 안심시킨다.</li>
+    <li id="q32-2">② ㉡은 우월한 지위를 언급해 자신의 능력을 과시한다.</li>
+    <li id="q32-3">③ ㉢은 상황에 대한 추측을 나열해 자신에 대한 비난을 반박한다.</li>
+    <li id="q32-4">④ ㉣은 물음의 형식을 활용해 자신의 요구를 우회적으로 전달한다.<a class="src-tag" href="#ev28">지문 근거</a></li>
+    <li id="q32-5">⑤ ㉤은 고사를 인용해 상대가 고사 속 인물의 행적을 되풀이하지 않도록 조언한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 말의 ‘의도·방식’을 본다.</p>
+        <p>㉣은 ‘어찌 돕지 않으시는지요?’라는 <strong>물음 형식</strong>으로, 손기에게 연주하라는 <strong>요구를 우회적으로</strong> 건넨다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>관습으로 ‘잘못 지적’이지 안심 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>인연 강조로 반선에게 명령일 뿐.</td></tr>
+          <tr><td>③</td><td>오답</td><td>추측으로 손기를 ‘조롱’함(반박 아님).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>물음 형식 + 요구 우회 전달.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>고사를 ‘본받아’ 연주 유도이지 조언 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 〈보기〉 선생님의 질문에 대한 학생의 대답으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>「영이록」의 갈등은 ‘배’ 사건을 중심으로 변주된다. [가] 첫 뱃놀이 → [나] 둘째 뱃놀이를 ⓐ갈등 원인·ⓑ우열 관계·ⓒ능력 제시 방법·ⓓ주변 인물 평가·ⓔ방관자/중재자 측면에서 비교해 보자.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q33-1">① ⓐ: 소운성이 시 짓기·피리 불기를 강요하는 데서, 대립 인물이 주인공을 곤경에 빠뜨리려는 것이 갈등 원인이다.</li>
+    <li id="q33-2">② ⓑ: 눈물 흘리던 손기가 [나]에서 소운성을 놀리는 데서, 우열 관계가 역전된다.</li>
+    <li id="q33-3">③ ⓒ: 소운성은 문장으로, [나]의 손기는 신기한 조화로 능력을 드러내는 데서, 주인공의 능력이 비현실적 요소로 부각된다.</li>
+    <li id="q33-4">④ ⓓ: 무시당하던 손기가 두려움·감탄의 대상이 되는 데서, 주변 인물의 평가가 달라진다.</li>
+    <li id="q33-5">⑤ ⓔ: 형 한림이 [나]에서 소운성을 <strong>만류</strong>하는 데서, 방관자가 주인공의 요청으로 갈등을 <strong>중재</strong>한다.<a class="src-tag" href="#ev29">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [나]에서 형 한림이 실제로 한 일을 본다.</p>
+        <p>[나]에서 형 한림은 손기의 재주에 <strong>감탄</strong>할 뿐, 소운성을 만류하거나 손기의 요청으로 갈등을 <strong>중재</strong>하지 않는다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>시·피리 강요 = 곤경에 빠뜨림.</td></tr>
+          <tr><td>②</td><td>적절</td><td>눈물 → 놀림, 우열 역전.</td></tr>
+          <tr><td>③</td><td>적절</td><td>도술 = 비현실적 능력 제시.</td></tr>
+          <tr><td>④</td><td>적절</td><td>무시 → 두려움·감탄.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>형 한림은 감탄만, 중재 안 함.</td></tr>
         </tbody>
       </table>
     </div>
