@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~27번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -1140,6 +1140,128 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
       <div class="trap">
         <div class="trap-head">조심할 점 — ㉠을 ‘보강’하는 방향</div>
         <p>㉠은 ‘공개=이익 증가’ 주장이다. 보완은 같은 방향이어야 한다. ①③④는 공개를 부정적으로 돌려 ㉠과 어긋난다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (28~30번 · 작문)
+
+<div class="passage">
+  <p class="passage-guide">[28 ~ 30] ○○로 자전거·보행자 겸용 도로 안전 실태 조사 보고서(초고).<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="dt2">Ⅰ. 조사 동기 및 목적</p>
+  <p>○○로에서 자전거·보행자 충돌 사고가 발생하고 자전거 통학생이 늘어 안전 우려가 제기됨. 이에 ○○로의 <strong>㉠ 사고 현황</strong>을 조사하고 <strong>㉡ 원인</strong>을 분석하여 <strong>㉢ 해결 방안</strong>을 모색하고자 한다.</p>
+  <p class="dt2">Ⅱ. 조사 계획 · Ⅲ. 조사 결과</p>
+  <p>1. 사고 현황 — <span class="ev" id="ev43">□□ 연구소 자료에 따르면 최근 4년간 자전거·보행자 교통사고가 꾸준히 증가했음을 통계 자료로 제시한다.</span><a class="ev-tag" href="#q28-3">28-③</a><a class="ev-tag" href="#q29-1">29-①</a></p>
+  <p>2. 원인 분석·해결 — ① <strong>도로 정비·관리 미흡</strong>(균열·노상 장애물, 전문가 인터뷰 인용) ② <strong>안전 수칙 인식 부족</strong>(설문: 자전거 이용자 74% ‘안 지킴’). 해결로 ‘도로 정비·관리 요구’와 ‘안전 수칙 캠페인 실시’를 제시한다.</p>
+  <p class="dt2">Ⅳ. 결론</p>
+  <p>조사로 현황·원인을 파악하고 해결 방안을 도출했다. <span class="ev" id="ev44">(초고에는 “자전거 통학이 학생 체력 관리에 도움이 된다”는 조사와 무관한 문장이 섞여 있다.)</span><a class="ev-tag" href="#q30-4">30-④</a> 해결 방안 실현으로 안전한 통학 환경을 조성할 수 있을 것이다.</p>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ‘초고’의 글쓰기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① 각 해결 방안의 장단점을 비교하여 서술한다.</li>
+    <li id="q28-2">② 조사 내용 관련 보도 자료를 분류하여 요약한다.</li>
+    <li id="q28-3">③ 통계 자료를 활용하여 문제 상황의 심각성을 제시한다.<a class="src-tag" href="#ev43">지문 근거</a></li>
+    <li id="q28-4">④ 전문가 인터뷰로 주요 용어의 개념을 설명한다.</li>
+    <li id="q28-5">⑤ 문헌 자료 분석으로 해결 방안의 근거를 제시한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보고서에 실제로 ‘쓰인 방식’을 고른다. 자료가 ‘어디에 무슨 목적’으로 쓰였는지 확인한다.</p>
+        <p>Ⅲ-1에서 4년간 사고 증가 <strong>통계 자료</strong>로 문제의 심각성을 보여 준다. ③이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해결 방안의 장단점 비교는 없다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>보도 자료 분류·요약은 없다.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>통계로 사고 증가(심각성) 제시.</td></tr>
+          <tr><td>④</td><td>오답</td><td>인터뷰는 ‘용어 개념’이 아니라 원인 뒷받침에 쓰임.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>문헌은 현황 제시에 쓰였지 해결 근거가 아니다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 자료의 ‘용도’ 확인</div>
+        <p>④⑤는 인터뷰·문헌이 ‘쓰인 건 맞다’. 하지만 <strong>용도</strong>(용어 개념/해결 근거)가 틀렸다. 자료는 ‘있나’가 아니라 ‘무엇에 쓰였나’로 본다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. ㉠~㉢이 ‘Ⅲ. 조사 결과’에 구체화된 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① ㉠: 자전거·보행자 교통사고 건수 변동 추이<a class="src-tag" href="#ev43">지문 근거</a></li>
+    <li id="q29-2">② ㉡: 도로 정비 및 관리 미흡</li>
+    <li id="q29-3">③ ㉡: 안전 수칙 준수의 중요성에 대한 인식 부족</li>
+    <li id="q29-4">④ ㉢: 통행 구간 안내 표지판 설치 요구</li>
+    <li id="q29-5">⑤ ㉢: 이용자 인식 개선을 위한 캠페인 실시</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(현황)·㉡(원인)·㉢(해결)이 Ⅲ에 실제로 적혔는지 1:1 대조한다.</p>
+        <p>Ⅲ의 해결 방안은 ‘도로 정비·관리 요구’와 ‘캠페인 실시’ 둘뿐이다. ‘통행 구간 안내 표지판 설치’는 보고서에 <strong>없는</strong> 내용이라 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠ → 4년간 사고 추이(Ⅲ-1).</td></tr>
+          <tr><td>②</td><td>적절</td><td>㉡ → 도로 정비 미흡(Ⅲ-2).</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉡ → 안전 수칙 인식 부족(Ⅲ-2).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>‘표지판 설치 요구’는 보고서에 없다.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>㉢ → 캠페인 실시(Ⅲ-2).</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 그럴듯한 ‘없는 내용’</div>
+        <p>‘표지판 설치’는 안전 대책으로 그럴듯하지만 <strong>보고서엔 적히지 않았다</strong>. 구체화 문제는 ‘본문에 실제로 있나’만 따진다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. 〈보기〉(고쳐 쓴 ‘Ⅳ. 결론’)에 반영된 친구의 조언으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(고쳐 쓴 결론) 조사로 현황·원인을 파악하고 해결 방안을 도출했다. 사고 예방을 위해 <b>도로 정비·지속 관리, 안전 수칙 캠페인 실시</b> 등이 필요하다. 노력한다면 더 안전한 통학 환경을 조성할 수 있다. <span class="muted">(※ 초고의 ‘체력 관리에 도움’ 문장은 삭제됨)</span></p>
+  </div>
+  <ul class="q-opts">
+    <li id="q30-1">① 조사의 한계를 추가하고 후속 조사의 필요성을 제시한다.</li>
+    <li id="q30-2">② 의미가 중복되는 내용을 삭제하고 조사의 의의를 제시한다.</li>
+    <li id="q30-3">③ 문제 해결의 주체를 추가하고 문제 해결의 필요성을 제시한다.</li>
+    <li id="q30-4">④ 조사와 관련 없는 내용을 삭제하고 해결 방안을 요약하여 제시한다.<a class="src-tag" href="#ev44">지문 근거</a></li>
+    <li id="q30-5">⑤ 조사의 취지를 삭제하고 담당 기관의 참여를 촉구한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 초고 → 고친 글의 <strong>차이(무엇이 빠지고 무엇이 더해졌나)</strong>를 찾아 조언과 맞춘다.</p>
+        <p>초고의 ‘체력 관리에 도움’(조사 무관)이 <strong>삭제</strong>되고, ‘도로 정비·캠페인’ 해결 방안이 <strong>요약·추가</strong>됐다. 따라서 ④가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>한계·후속 조사 내용은 더해지지 않았다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>중복 내용 삭제·의의 추가가 아니다(의의는 이미 있었음).</td></tr>
+          <tr><td>③</td><td>오답</td><td>해결 주체 추가가 없다.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>무관 문장 삭제 + 해결 방안 요약 추가.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>조사 취지는 그대로 있고 기관 촉구도 없다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 고쳐쓰기는 ‘차이’가 답</div>
+        <p>고쳐쓰기 문제는 <strong>두 글을 겹쳐</strong> 무엇이 빠지고(체력 문장) 무엇이 더해졌는지(방안 요약)를 본다. 두 동작을 모두 만족하는 ④가 정답이다.</p>
       </div>
     </div>
   </details>
