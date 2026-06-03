@@ -21,6 +21,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~21 독서(인문)</a>
+  <a href="#set6">22~26 독서(사회)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
