@@ -12,13 +12,14 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
   <a href="#set2">4~7 화법·작문</a>
   <a href="#set3">8~10 작문</a>
+  <a href="#set4">11~15 문법</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -422,6 +423,200 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>‘주민 모두’ = 공동체.</td></tr>
           <tr><td>④</td><td>적절</td><td>‘예산 부담’ 명시.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>‘애정↑ 효과’ = 이점.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set4" class="set-anchor"></div>
+
+## 11~15번 문법 · 조사 ‘의/에’·문장 짜임·파생어·음운 변동
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>11~12번은 <strong>관형격 ‘의’·부사격 ‘에’</strong> 지문, 13~15번은 문장 짜임·파생어·음운 변동 단독 문항이다.</p>
+  <ul>
+    <li><strong>조사</strong> — ‘의’(관형격→관형어), ‘에’(부사격→부사어). 중세엔 ‘ᄋᆡ/의’·‘ㅅ’(관형격), ‘애/에/예’·‘ᄋᆡ/의’(부사격).</li>
+    <li><strong>파생어</strong> — 접두사(품사 안 바뀜) / 접미사(바뀌기도). [A]접두사 / [B]접미사+품사 바뀜 / [C]접미사+품사 동일.</li>
+    <li><strong>음운 변동</strong> — 교체·탈락·축약·첨가. 개수 변화까지 본다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 11번은 ‘중세 관형격은 관형어’(부사격이 도착점), 15번은 ‘넋두리=탈락+교체(첨가 아님), 개수 줆’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>현대 국어의 관형격 조사 ‘의’는 [ㅢ]가 원칙이나 [ㅔ]도 허용돼 부사격 ‘에’와 혼동되기도 한다. <span class="ev" id="ev11">‘의’·‘에’는 체언과 결합해 각각 관형어·부사어를 이루는데, 관형어는 체언만 수식하고 부사어는 주로 용언을 수식한다.</span><a class="ev-tag" href="#q11-3">11-③</a> ‘의’는 ⓐ<u>소유·소속</u>(동생의 가방)·ⓑ<u>행동의 주체</u>(과학자의 연구)를, ‘에’는 ⓒ<u>이동의 도착점</u>(집에 갔다)·ⓓ<u>시간</u>(저녁에)·ⓔ<u>원인</u>(큰 소리에 깼다)을 나타낸다.</p>
+  <p><span class="ev" id="ev12">중세 국어 관형격은 ‘ᄋᆡ/의’(유정·비존대; 양성 모음이면 ‘ᄋᆡ’, 음성 모음이면 ‘의’), ‘ㅅ’(존대 유정 또는 무정 체언)이 쓰였다.</span><a class="ev-tag" href="#q12-3">12-③</a> 부사격은 ‘애/에/예’(양성/음성/단모음 ‘이’·반모음 ‘ㅣ’)와, 특정 체언 뒤 ‘ᄋᆡ/의’가 쓰였다(바ᄐᆡ[밭에], 우희[위에]).</p>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 윗글을 읽고 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① 현대 국어 관형격 ‘의’는 [ㅢ]나 [ㅔ]로 발음할 수 있다.</li>
+    <li id="q11-2">② 중세 국어 관형격은 유정 체언과 결합할 때 존대 대상 여부에 따라 형태가 달랐다.</li>
+    <li id="q11-3">③ 현대 국어와 달리, 중세 국어 관형격 조사는 체언 뒤에 결합해 <strong>이동의 도착점을 나타내는 부사어</strong>를 이룰 수 있다.<a class="src-tag" href="#ev11">지문 근거</a></li>
+    <li id="q11-4">④ 현대·중세 모두 관형격 조사는 여러 의미를 나타낼 수 있다.</li>
+    <li id="q11-5">⑤ 현대·중세 모두 관형격 조사는 체언 뒤에 결합해 관형어를 이룬다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 관형격이 ‘관형어’인지 ‘부사어’인지 본다.</p>
+        <p>관형격 조사는 <strong>관형어</strong>를 이룬다. ‘이동의 도착점’을 나타내는 부사어는 <strong>부사격</strong> 조사의 일이므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>[ㅢ]/[ㅔ] 발음.</td></tr>
+          <tr><td>②</td><td>적절</td><td>존대 여부로 ‘ᄋᆡ/의’·‘ㅅ’.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>관형격=관형어(도착점은 부사격).</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘의’는 소유·주체 등.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>관형격 → 관형어.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. ⓐ~ⓔ를 바탕으로 〈보기〉를 이해한 내용으로 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>ㄱ. 아ᄃᆞᄅᆡ(아ᄃᆞᆯ+ᄋᆡ) 손 자바 [아들의 손을 잡아]<br>
+    ㄴ. 수픐(수플+ㅅ) 가온ᄃᆡ [수풀의 가운데]<br>
+    ㄷ. 그 무더믜(무덤+의) ᄂᆞᆯ아가아 [그 무덤에 날아가서]<br>
+    ㄹ. 서리예(서리+예) [서리에]<br>
+    ㅁ. 아ᄎᆞᄆᆡ(아ᄎᆞᆷ+ᄋᆡ) 닉더니 [아침에 익더니]</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q12-1">① ㄱ ‘아ᄃᆞᄅᆡ’의 ‘ᄋᆡ’는 음성 모음 유정 체언 뒤라 ⓐ를 나타낸다.</li>
+    <li id="q12-2">② ㄴ ‘수픐’의 ‘ㅅ’은 무정 체언 뒤라 ⓑ를 나타낸다.</li>
+    <li id="q12-3">③ ㄷ ‘무더믜’의 부사격 ‘의’는 음성 모음 체언 뒤라 ⓒ(도착점)를 나타낸다.<a class="src-tag" href="#ev12">지문 근거</a></li>
+    <li id="q12-4">④ ㄹ ‘서리예’의 ‘예’는 반모음 ‘ㅣ’로 끝난 체언 뒤라 ⓓ를 나타낸다.</li>
+    <li id="q12-5">⑤ ㅁ ‘아ᄎᆞᄆᆡ’의 부사격 ‘ᄋᆡ’는 양성 모음 체언 뒤라 ⓔ를 나타낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 조사의 ‘형태 조건’과 ‘의미(ⓐ~ⓔ)’를 함께 본다.</p>
+        <p>ㄷ ‘무덤(음성)+의’는 ‘날아가서’의 도착점을 나타내는 부사격이다. 음성 모음 뒤 ‘의’ + 의미 ⓒ(도착점)가 맞으므로 ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>‘아ᄃᆞᆯ’은 양성 모음(ㅏ).</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘수플’은 무정이나 ⓑ(주체) 아님.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>음성 모음 ‘의’ + 도착점 ⓒ.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘예’ 맞으나 의미는 ⓓ(시간) 아님(장소).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘아ᄎᆞᆷ’ ‘ᄋᆡ’는 시간(ⓓ)이지 ⓔ(원인) 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 〈학습 활동〉의 ⓐ에 들어갈 예문으로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 조건 &gt;</p>
+    <p>ㄱ. 안긴문장에 시간을 나타내는 부사어 포함 / ㄴ. 안은문장 서술어에 과거 시제 선어말 어미 포함 / ㄷ. 안은문장 사건이 안긴문장 사건보다 나중. <b>ⓐ = ㄱ+ㄴ</b></p>
+  </div>
+  <ul class="q-opts">
+    <li id="q13-1">① 우리는 <u>내일 만나기</u>로 약속<u>했</u>다.</li>
+    <li id="q13-2">② 그해 고향에 남은 친구가 생각난다.</li>
+    <li id="q13-3">③ 그는 자신이 대회에서 우승했음을 알렸다.</li>
+    <li id="q13-4">④ 형은 동생이 읽을 책을 도서관에서 빌렸다.</li>
+    <li id="q13-5">⑤ 나는 작년에 산 모자를 좋아한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ는 ㄱ(시간 부사어)+ㄴ(과거 선어말)을 모두 만족해야 한다.</p>
+        <p>①은 안긴문장 ‘내일 만나기’에 시간 부사어 ‘<strong>내일</strong>’(ㄱ), 안은문장 ‘약속<strong>했</strong>다’에 과거 선어말 어미(ㄴ)가 모두 있다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>‘내일’(ㄱ)+‘했다’(ㄴ).</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘생각난다’ 현재(ㄴ 없음).</td></tr>
+          <tr><td>③·④·⑤</td><td>오답</td><td>시간 부사어 또는 과거 선어말 누락.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 〈보기〉의 [A]~[C]에 들어갈 내용을 바르게 짝지은 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>자료: ㄱ.겁쟁이 ㄴ.날고기 ㄷ.넓히다 ㄹ.맡기다 ㅁ.지우개 ㅂ.풋사랑<br>
+    ① 접사가 어근 ‘뒤’에 결합? <b>아니요 → [A]</b> / 예 → ② 파생어 품사 = 어근 품사? <b>아니요 → [B]</b> / <b>예 → [C]</b></p>
+  </div>
+  <ul class="q-opts">
+    <li id="q14-1">① [A] ㄱ,ㄴ / [B] ㄷ,ㅁ / [C] ㄹ,ㅂ</li>
+    <li id="q14-2">② [A] ㄱ,ㄴ / [B] ㄹ,ㅁ / [C] ㄷ,ㅂ</li>
+    <li id="q14-3">③ [A] ㄴ,ㅂ / [B] ㄷ,ㄹ / [C] ㄱ,ㅁ</li>
+    <li id="q14-4">④ [A] ㄴ,ㅂ / [B] ㄷ,ㅁ / [C] ㄱ,ㄹ</li>
+    <li id="q14-5">⑤ [A] ㄷ,ㅁ / [B] ㄴ,ㅂ / [C] ㄱ,ㄹ</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 접두사/접미사, 품사 변화 여부로 분류한다.</p>
+        <p>[A](접두사)=ㄴ날고기·ㅂ풋사랑. [B](접미사+품사 바뀜)=ㄷ넓히다(형용사→동사)·ㅁ지우개(동사→명사). [C](접미사+품사 동일)=ㄱ겁쟁이(명사→명사)·ㄹ맡기다(동사→동사). ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>분류</th><th>단어</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>[A]</td><td>ㄴ·ㅂ</td><td>접두사(날-, 풋-).</td></tr>
+          <tr><td>[B]</td><td>ㄷ·ㅁ</td><td>접미사+품사 바뀜.</td></tr>
+          <tr><td>[C]</td><td>ㄱ·ㄹ</td><td>접미사+품사 동일.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. 〈보기〉의 ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>음운 변동: 교체·탈락·축약·첨가. 결과로 음운 개수가 달라지기도.<br>
+    ㉠ 첫해[처태] · ㉡ 넋두리[넉뚜리] · ㉢ 겉넓이[건널비] · ㉣ 낯익어[난니거] · ㉤ 물약[물략]</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q15-1">① ㉠은 교체·축약이 한 번씩 일어나 개수가 줄었다.</li>
+    <li id="q15-2">② ㉡은 <strong>탈락·첨가</strong>가 한 번씩 일어나 개수가 변하지 않았다.</li>
+    <li id="q15-3">③ ㉢은 교체가 두 번 일어나 개수가 변하지 않았다.</li>
+    <li id="q15-4">④ ㉣은 교체 두 번·첨가 한 번 일어나 개수가 늘었다.</li>
+    <li id="q15-5">⑤ ㉤은 첨가·교체가 한 번씩 일어나 개수가 늘었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉡의 변동 종류와 개수 변화를 따진다.</p>
+        <p>‘넋두리[넉뚜리]’는 자음군 단순화(ㅅ <strong>탈락</strong>)와 된소리되기(<strong>교체</strong>)가 일어난다. 첨가는 없고, 탈락으로 개수가 <strong>줄어든다</strong>. ②는 ‘탈락·첨가, 개수 불변’이라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠ 교체+축약, 개수↓.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>㉡ 탈락+교체, 개수↓.</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉢ 교체 2번, 개수 불변.</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉣ 교체 2+첨가 1, 개수↑.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>㉤ 첨가+교체, 개수↑.</td></tr>
         </tbody>
       </table>
     </div>
