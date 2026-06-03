@@ -170,27 +170,27 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[4 ~ 7] (가)는 반대 신문식 토론, (나)는 청중 학생이 교지에 실을 글이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="passage-guide">[4 ~ 7] (가)는 반대 신문식 토론, (나)는 청중 학생이 교지에 실을 글이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다. 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="src-label">(가) 토론</p>
   <p><b>사회자:</b> 논제는 ‘제주남방큰돌고래를 생태법인으로 인정해야 한다’입니다.</p>
-  <p><b>찬성1(입론):</b> 생태법인은 생태적 가치가 큰 대상에 법적 권리를 주는 제도입니다. <span class="seg-label">[A]</span> 제주남방큰돌고래는 해양 쓰레기·선박·혼획·소음으로 멸종 위기이며, 매년 10여 마리(작년 16마리)가 폐사해 100~120마리만 남았습니다. <span class="seg-label">[B]</span> 특별법 개정으로 생태법인이 되면 후견인을 통해 서식지 보호·구제 요청 권리를 가집니다. 뉴질랜드 황가누이강, 스페인 마르 메노르 호수가 이미 법인으로 인정됐습니다. <span class="seg-label">[C]</span> 이는 생존권 보호뿐 아니라 바다 환경 개선·생물 다양성 보존, 경제적 손실 방지, 인간 중심 자연관 성찰의 계기가 됩니다.</p>
-  <p><b>반대2(신문):</b> ㉠<u>폐사 개체 수 자료의 출처는 어디인가요?</u> / ㉡<u>언급한 사례가 모두 생태법인으로 인정된 것인가요?</u> / ㉢<u>생태법인이 되면 과다 번식으로 다른 어종이 줄지 않을까요?</u></p>
-  <p><b>반대1(입론):</b> <span class="seg-label">[D]</span> <span class="ev" id="ev2">법인이란 일정한 목적을 가진 단체에 인격을 부여한 것인데, 제주남방큰돌고래는 일정한 목적을 가졌다고 보기 어렵습니다.</span><a class="ev-tag" href="#q4-4">4-[D]</a> 인정 범위(황새·수달은?)·후견인 자격 문제도 있습니다. <span class="seg-label">[E]</span> 생태법인이 소송 주체가 되면 국가·기업·어민의 활동이 위축돼 경제적 손실이 생깁니다(어민 반대).</p>
-  <p><b>찬성2(신문):</b> ㉣<u>자연환경보전법은 해양 생태계를 제외하고 있어 돌고래 생존권을 보장 못 한다는 점을 아시나요?</u> / ㉤<u><span class="ev" id="ev3">자연을 도구로 보는 인간 중심적 사고가 멸종 위기를 초래한 것은 아닐까요?</span></u><a class="ev-tag" href="#q5-5">5-㉤</a></p>
+  <p><b>찬성1(입론):</b> 생태법인은 생태적 가치가 큰 대상에 법적 권리를 주는 제도입니다. <span class="seg-label">[A]</span> <span class="ev" id="ev4a">제주남방큰돌고래는 해양 쓰레기·선박·혼획·소음으로 멸종 위기이며, 매년 10여 마리(작년 16마리)가 폐사해 100~120마리만 남았습니다.</span><a class="ev-tag" href="#q4-1">4-①</a> <span class="seg-label">[B]</span> <span class="ev" id="ev4b">특별법 개정으로 생태법인이 되면 후견인을 통해 서식지 보호·구제 요청 권리를 가집니다. 뉴질랜드 황가누이강, 스페인 마르 메노르 호수가 이미 법인으로 인정됐습니다.</span><a class="ev-tag" href="#q4-2">4-②</a> <span class="seg-label">[C]</span> <span class="ev" id="ev4c">이는 생존권 보호뿐 아니라 바다 환경 개선·생물 다양성 보존, 경제적 손실 방지, 인간 중심 자연관 성찰의 계기가 됩니다.</span><a class="ev-tag" href="#q4-3">4-③</a></p>
+  <p><b>반대2(신문):</b> ㉠<span class="ev" id="ev5a">폐사 개체 수 자료의 출처는 어디인가요?</span><a class="ev-tag" href="#q5-1">5-①</a> / ㉡<span class="ev" id="ev5b">언급한 사례가 모두 생태법인으로 인정된 것인가요?</span><a class="ev-tag" href="#q5-2">5-②</a> / ㉢<span class="ev" id="ev5c">생태법인이 되면 과다 번식으로 다른 어종이 줄지 않을까요?</span><a class="ev-tag" href="#q5-3">5-③</a></p>
+  <p><b>반대1(입론):</b> <span class="seg-label">[D]</span> <span class="ev ans" id="ev2">법인이란 일정한 목적을 가진 단체에 인격을 부여한 것인데, 제주남방큰돌고래는 일정한 목적을 가졌다고 보기 어렵습니다.</span><a class="ev-tag ans" href="#q4-4">4-④</a> 인정 범위(황새·수달은?)·후견인 자격 문제도 있습니다. <span class="seg-label">[E]</span> <span class="ev" id="ev4e">생태법인이 소송 주체가 되면 국가·기업·어민의 활동이 위축돼 경제적 손실이 생깁니다(어민 반대).</span><a class="ev-tag" href="#q4-5">4-⑤</a></p>
+  <p><b>찬성2(신문):</b> ㉣<span class="ev" id="ev5d">자연환경보전법은 해양 생태계를 제외하고 있어 돌고래 생존권을 보장 못 한다는 점을 아시나요?</span><a class="ev-tag" href="#q5-4">5-④</a> / ㉤<span class="ev ans" id="ev3">자연을 도구로 보는 인간 중심적 사고가 멸종 위기를 초래한 것은 아닐까요?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a></p>
   <p class="src-label">(나) 교지글</p>
-  <p>이번 토론에서 찬성 측은 환경적 측면(생존권·바다 환경)과 사회적 측면(경제 손실 방지·자연관 성찰)을, 반대 측은 목적 부재, 인정 범위·후견인 문제, 경제 활동 위축을 들었다.</p>
-  <p>토론을 보며 과거 천성산 도롱뇽·설악산 산양이 원고로 참여한 소송이 떠올랐다. 법원은 ‘동물은 소송 당사자가 될 수 없다’며 기각했다. <span class="ev" id="ev4">토론을 본 A 학생은 동물에게 법인 자격을 주긴 어렵다고, B 학생은 돌고래가 생태법인이 되면 좋겠다고 말했다.</span><a class="ev-tag" href="#q7-4">7-④</a></p>
-  <p>지금은 두 관점이 양립하고 있다. 사회적 소통·합의로 우려를 줄여 나간다면 자연과 인간이 상생하는 방안을 찾을 수 있을 것이다.</p>
+  <p><span class="ev" id="ev7a">이번 토론에서 찬성 측은 환경적 측면(생존권·바다 환경)과 사회적 측면(경제 손실 방지·자연관 성찰)을, 반대 측은 목적 부재, 인정 범위·후견인 문제, 경제 활동 위축을 들었다.</span><a class="ev-tag" href="#q7-1">7-①</a><a class="ev-tag" href="#q7-2">7-②</a></p>
+  <p><span class="ev" id="ev7c">토론을 보며 과거 천성산 도롱뇽·설악산 산양이 원고로 참여한 소송이 떠올랐다. 법원은 ‘동물은 소송 당사자가 될 수 없다’며 기각했다.</span><a class="ev-tag" href="#q7-3">7-③</a> <span class="ev ans" id="ev4">토론을 본 A 학생은 동물에게 법인 자격을 주긴 어렵다고, B 학생은 돌고래가 생태법인이 되면 좋겠다고 말했다.</span><a class="ev-tag ans" href="#q7-4">7-④</a></p>
+  <p><span class="ev" id="ev7e">지금은 두 관점이 양립하고 있다. 사회적 소통·합의로 우려를 줄여 나간다면 자연과 인간이 상생하는 방안을 찾을 수 있을 것이다.</span><a class="ev-tag" href="#q7-5">7-⑤</a></p>
 </div>
 
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)의 ‘찬성1’과 ‘반대1’의 입론에 대한 청중의 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
-    <li id="q4-1">① [A]에서 찬성1은 문제 원인·통계로 ‘문제의 심각성’을 강조한다.</li>
-    <li id="q4-2">② [B]에서 찬성1은 해결 방안·실행 사례로 ‘해결·실행 가능성’을 드러낸다.</li>
-    <li id="q4-3">③ [C]에서 찬성1은 긍정적 결과로 ‘실행 효과·개선 이익’을 언급한다.</li>
-    <li id="q4-4">④ [D]에서 반대1은 용어를 재정의하며 찬성 측이 ‘문제의 심각성’을 <strong>과장</strong>함을 밝힌다.<a class="src-tag" href="#ev2">지문 근거</a></li>
-    <li id="q4-5">⑤ [E]에서 반대1은 부작용을 들어 ‘실행 효과·개선 이익’을 반박한다.</li>
+    <li id="q4-1">① [A]에서 찬성1은 문제 원인·통계로 ‘문제의 심각성’을 강조한다.<a class="src-tag" href="#ev4a">지문 근거</a></li>
+    <li id="q4-2">② [B]에서 찬성1은 해결 방안·실행 사례로 ‘해결·실행 가능성’을 드러낸다.<a class="src-tag" href="#ev4b">지문 근거</a></li>
+    <li id="q4-3">③ [C]에서 찬성1은 긍정적 결과로 ‘실행 효과·개선 이익’을 언급한다.<a class="src-tag" href="#ev4c">지문 근거</a></li>
+    <li id="q4-4">④ [D]에서 반대1은 용어를 재정의하며 찬성 측이 ‘문제의 심각성’을 <strong>과장</strong>함을 밝힌다.<a class="src-tag ans" href="#ev2">정답 근거</a></li>
+    <li id="q4-5">⑤ [E]에서 반대1은 부작용을 들어 ‘실행 효과·개선 이익’을 반박한다.<a class="src-tag" href="#ev4e">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -217,11 +217,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob5">
   <p class="q-stem">5. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q5-1">① ㉠: 폐사 개체 수 근거의 출처를 물어 ‘신뢰성’을 판단한다.</li>
-    <li id="q5-2">② ㉡: 외국 사례가 모두 주장을 뒷받침하는지 물어 ‘타당성’을 판단한다.</li>
-    <li id="q5-3">③ ㉢: 한 종에 치우쳐 다른 종 영향을 간과했는지 물어 ‘공정성’을 판단한다.</li>
-    <li id="q5-4">④ ㉣: 상대가 언급한 법이 주장을 뒷받침 못 함을 들어 ‘타당성’을 판단한다.</li>
-    <li id="q5-5">⑤ ㉤: 인간 중심 자연관으로는 생태계를 보호할 수 없다는 점을 들어 ‘<strong>신뢰성</strong>’을 판단한다.<a class="src-tag" href="#ev3">지문 근거</a></li>
+    <li id="q5-1">① ㉠: 폐사 개체 수 근거의 출처를 물어 ‘신뢰성’을 판단한다.<a class="src-tag" href="#ev5a">지문 근거</a></li>
+    <li id="q5-2">② ㉡: 외국 사례가 모두 주장을 뒷받침하는지 물어 ‘타당성’을 판단한다.<a class="src-tag" href="#ev5b">지문 근거</a></li>
+    <li id="q5-3">③ ㉢: 한 종에 치우쳐 다른 종 영향을 간과했는지 물어 ‘공정성’을 판단한다.<a class="src-tag" href="#ev5c">지문 근거</a></li>
+    <li id="q5-4">④ ㉣: 상대가 언급한 법이 주장을 뒷받침 못 함을 들어 ‘타당성’을 판단한다.<a class="src-tag" href="#ev5d">지문 근거</a></li>
+    <li id="q5-5">⑤ ㉤: 인간 중심 자연관으로는 생태계를 보호할 수 없다는 점을 들어 ‘<strong>신뢰성</strong>’을 판단한다.<a class="src-tag ans" href="#ev3">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -282,11 +282,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob7">
   <p class="q-stem">7. (가)의 토론 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q7-1">① 1문단에 찬성 측 입론을 두 측면으로 나누어 정리한다.</li>
-    <li id="q7-2">② 1문단에 찬성 주장을 받아들일 때의 문제점을 요약한다.</li>
-    <li id="q7-3">③ 2문단에 양측이 언급하지 않은 사례(도롱뇽·산양 소송)로 정보를 추가한다.</li>
-    <li id="q7-4">④ 2문단에 양측 주장에 대해 <strong>새로운 근거를 들어 옹호</strong>하는 학생 의견을 인용한다.<a class="src-tag" href="#ev4">지문 근거</a></li>
-    <li id="q7-5">⑤ 3문단에 양측 관점을 간추리며 나아갈 방향을 제안한다.</li>
+    <li id="q7-1">① 1문단에 찬성 측 입론을 두 측면으로 나누어 정리한다.<a class="src-tag" href="#ev7a">지문 근거</a></li>
+    <li id="q7-2">② 1문단에 찬성 주장을 받아들일 때의 문제점을 요약한다.<a class="src-tag" href="#ev7a">지문 근거</a></li>
+    <li id="q7-3">③ 2문단에 양측이 언급하지 않은 사례(도롱뇽·산양 소송)로 정보를 추가한다.<a class="src-tag" href="#ev7c">지문 근거</a></li>
+    <li id="q7-4">④ 2문단에 양측 주장에 대해 <strong>새로운 근거를 들어 옹호</strong>하는 학생 의견을 인용한다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
+    <li id="q7-5">⑤ 3문단에 양측 관점을 간추리며 나아갈 방향을 제안한다.<a class="src-tag" href="#ev7e">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
