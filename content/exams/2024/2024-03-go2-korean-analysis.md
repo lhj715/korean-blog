@@ -18,6 +18,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
   <a href="#set2">4~7 화법·작문</a>
+  <a href="#set3">8~10 작문</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -303,6 +304,137 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr class="correct"><td>③</td><td class="ok">부적절</td><td>도우미 = 선생님 부담(친구 아님).</td></tr>
           <tr><td>④</td><td>적절</td><td>‘우리 반 모두’ = 다수(ⓓ).</td></tr>
           <tr><td>⑤</td><td>적절</td><td>대처법 확인 = 기대 효과(ⓔ).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set3" class="set-anchor"></div>
+
+## 8~10번 작문 · 유니버설 디자인 소개 글
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘개념 → 도입 배경 → 확대·구현 방법 → 필요성·인식’ 흐름의 설명문이다.</p>
+  <ul>
+    <li><strong>개념</strong> — 모든 사용자가 이용하도록 설계(저상 버스·다국어 누리집).</li>
+    <li><strong>도입</strong> — 전용 시설(휠체어 리프트)이 장애 유무로 사람을 구분 짓는 문제 → 1980년대 유니버설 디자인.</li>
+    <li><strong>확대</strong> — 장애뿐 아니라 연령·질병·언어 차이까지. 구현: 조작 용이·안전 설계·그림 표지판.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 8번은 ‘반영된 것은 ㄱ(묻고답하기)·ㄹ(도입 목적)’, 10번은 자료를 ‘맞는 문단·측면’에 넣었는지가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 학생의 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p class="src-label">[작문 상황] 유니버설 디자인을 학생들에게 알리는 교지 글.</p>
+  <p><span class="ev ans" id="ev8a">바닥을 낮춰 계단을 없앤 저상 버스, 여러 언어로 콘텐츠를 제공하는 누리집의 공통점은 무엇일까? 더 많은 사람이 이용하도록 설계됐다는 점이다.</span><a class="ev-tag ans" href="#q8-1">8-ㄱ</a> ‘유니버설 디자인’은 시설·제품·서비스를 모든 사용자가 이용하도록 설계하는 것이다.</p>
+  <p><span class="ev ans" id="ev8b">도입 이전엔 장애인 접근성을 위해 전용 시설(휠체어 리프트)을 따로 뒀는데, 이것이 장애 유무로 사람을 구분 짓는다는 문제가 제기됐다. 1980년대에 이를 해결하려 장애와 무관하게 모두 접근 가능하도록 설계하는 유니버설 디자인이 도입됐다.</span><a class="ev-tag ans" href="#q8-4">8-ㄹ</a></p>
+  <p>현재는 취지가 확대돼 연령·질병·언어 등 신체적·인지적 차이와 무관하게 모두 접근하도록 설계한다. 구현 방법도 다양해 — 힘이 약해도 쓸 수 있는 조작, 다치지 않게 한 안전 설계, 언어 능력이 부족해도 이해하도록 그림을 넣은 표지판 등.</p>
+  <p><span class="ev" id="ev9">고령화로 필요성이 강조되지만, 사회 구성원의 관심은 저조하고 비용 때문에 경제적 손해라는 인식도 있다. 그러나 장기적으로는 유니버설 디자인으로 사회적 비용이 줄 수도 있다.</span><a class="ev-tag" href="#q9-1">9-[A]</a></p>
+  <div class="seg" id="segA"><p class="seg-label">[A] (마무리)</p><p class="muted">9번에서 작성 — 우리 사회 의식 개선 + 학생들이 지녀야 할 자세.</p></div>
+</div>
+
+<div class="q-block" id="prob8">
+  <p class="q-stem">8. 초고에 반영된 내용으로 적절한 것만 고른 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 떠올린 생각 &gt;</p>
+    <p>ㄱ. 묻고 답하는 방식으로 개념 설명 / ㄴ. 분류 기준 제시 후 항목별 사례 / ㄷ. 필요성에 대한 국내·국외 인식 비교 / ㄹ. 도입 목적을 이전 문제 상황과 관련지어 밝힘</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q8-1">① ㄱ, ㄴ</li>
+    <li id="q8-2">② ㄱ, ㄹ<a class="src-tag ans" href="#ev8a">정답 근거(ㄱ)</a><a class="src-tag ans" href="#ev8b">정답 근거(ㄹ)</a></li>
+    <li id="q8-3">③ ㄴ, ㄷ</li>
+    <li id="q8-4">④ ㄴ, ㄹ</li>
+    <li id="q8-5">⑤ ㄷ, ㄹ</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 떠올린 생각이 실제 글에 들어갔는지 본다.</p>
+        <p>ㄱ(공통점을 묻고 답함)·ㄹ(전용 시설 문제 → 도입 목적)은 반영됐다. ㄴ(분류 기준)·ㄷ(국외 인식)은 없다. 따라서 ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>항목</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>ㄱ</td><td>반영</td><td>공통점 묻고 답함.</td></tr>
+          <tr><td>ㄴ</td><td>미반영</td><td>요인 나열이지 분류 기준 아님.</td></tr>
+          <tr><td>ㄷ</td><td>미반영</td><td>국외 인식 없음.</td></tr>
+          <tr><td>ㄹ</td><td>반영</td><td>전용 시설 문제 → 도입 목적.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob9">
+  <p class="q-stem">9. 편집부장의 조언을 반영해 [A]를 작성한 내용으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 조언 &gt;</p>
+    <p>마지막 문단에서 지적한 ‘<b>사회의 의식 개선</b>’을 밝히고, 그와 관련해 <b>예상 독자(학생)가 지녀야 할 자세</b>를 언급하며 마무리할 것.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q9-1">① 저조한 관심을 높이고 부정적 인식을 해소해야 한다. 유니버설 디자인이 우리 모두에게 도움이 됨을 인식하고, 우리 학교에 필요한 곳은 없는지 관심을 가져 보자.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
+    <li id="q9-2">② 시민이 정책 수립에 참여하고 학생도 의견을 내야 한다. 그러면 누구나 접근할 환경을 구축할 수 있다.</li>
+    <li id="q9-3">③ 근시안적 시각으로는 확대가 어렵다. 사회적 비용을 최소화하며 확대할 방법을 찾아야 한다.</li>
+    <li id="q9-4">④ 관심 제고·인식 개선을 촉구해야 한다. 이를 위해 시민 홍보·교육을 강화하는 제도를 마련해야 한다.</li>
+    <li id="q9-5">⑤ 잠재된 경제적 가치가 간과되면 안 된다. 학생들도 적용된 제품·서비스를 적극 이용해 보자.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 조건(의식 개선 + 학생 자세)을 모두 만족하는지 본다.</p>
+        <p>①은 ‘관심을 높이고 인식을 해소(의식 개선)’ + ‘학교에 필요한 곳에 관심 갖자(학생 자세)’를 모두 담았다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>의식 개선 + 학생 자세 모두.</td></tr>
+          <tr><td>②</td><td>오답</td><td>의식 개선 언급 부족.</td></tr>
+          <tr><td>③</td><td>오답</td><td>학생 자세 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>제도 마련(학생 자세 아님).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>경제 가치 초점(의식 개선 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 〈보기〉 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>(가) 장애인 인터뷰</b> — 리프트는 소외감을 줌. 엘리베이터는 휠체어·짐 든 사람도 편리.<br>
+    <b>(나) 통계</b> — 국내 외국인 주민 비율·국적별 관광객 비율.<br>
+    <b>(다) 보고서</b> — ○○시 유니버설 디자인(레버식 손잡이·미끄럼 방지). 전국 확대 시 노인 부상↓로 연 1조 7천억 의료비 절감.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q10-1">① (가): 리프트 소외감을 ‘전용 시설이 사람을 구분 짓는다’ 근거로 2문단에 제시.</li>
+    <li id="q10-2">② (가): 엘리베이터 수혜 대상을 근거로 ‘연령·질병·언어를 고려하는 이유’로 3문단에 추가.</li>
+    <li id="q10-3">③ (나): 외국인 주민·관광객 다양화를 근거로 ‘언어 측면의 필요성’으로 <strong>4문단</strong>에 추가.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
+    <li id="q10-4">④ (다): 레버식 손잡이·미끄럼 방지를 ‘조작 용이·안전 설계’ 사례로 3문단에 제시.</li>
+    <li id="q10-5">⑤ (다): 의료비 절감액을 ‘사회적 비용이 줄 수 있다’ 근거로 4문단에 제시.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 자료의 ‘측면·문단’이 맞는지 본다.</p>
+        <p>외국인 주민·관광객 다양화는 유니버설 디자인이 다루는 ‘<strong>언어 차이(3문단의 확대된 요인)</strong>’와 연결된다. 4문단(고령화 필요성)에 ‘언어 측면 필요성’으로 넣는 것은 어긋나므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>소외감 = 구분 짓는 문제(2문단).</td></tr>
+          <tr><td>②</td><td>적절</td><td>다양한 수혜 = 요인 확대(3문단).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>언어는 3문단 요인(4문단 아님).</td></tr>
+          <tr><td>④</td><td>적절</td><td>손잡이·바닥 = 구현 사례(3문단).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>의료비 절감 = 사회 비용↓(4문단).</td></tr>
         </tbody>
       </table>
     </div>
