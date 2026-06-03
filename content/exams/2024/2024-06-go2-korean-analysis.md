@@ -12,7 +12,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~28번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -22,6 +22,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~20 문학(갈래복합)</a>
   <a href="#set6">21~25 독서(사회)</a>
+  <a href="#set7">26~28 현대 소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1014,6 +1015,130 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>그렇게 정하다.</td></tr>
           <tr><td>④</td><td>오답</td><td>사업체를 경영하다.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>화제로 삼다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 26~28번 문학(현대 소설) · 문순태 〈늙으신 어머니의 향기〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>아들 ‘나’가 어머니의 ‘냄새’를 문제 삼으며 빚어지는 가족 갈등을, ‘나’의 시선으로 풀어낸 소설이다. 젊은 시절(향기)과 현재(냄새)의 대비가 핵심.</p>
+  <ul>
+    <li><strong>현재 어머니</strong> — 생에 대한 집착(밥·주사), ‘나’와 아내는 어머니의 ‘냄새’를 역겨워함.</li>
+    <li><strong>젊은 시절 어머니</strong> — 자신을 돌보지 않고 가족 위해 희생. ‘나’ 가슴속 ‘가장 아름답고 강한 존재’.</li>
+    <li><strong>마지막</strong> — 어머니: “쓰디쓴 세월의 냄새”. 그 말이 ‘나’의 명치끝을 후벼 팜.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 27번은 ‘㉢=좋은지 나쁜지 판단 어려워함’(실제론 부정적으로 판단), 28번은 ‘궁핍·땀·희생으로 봄=부정적’(실제론 가장 아름다운 존재)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[26 ~ 28] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><span class="ev ans" id="ev26">어머니는 생에 대한 집착이 강했다.</span><a class="ev-tag ans" href="#q26-2">26-②</a> 밥이 없으면 까탈을 부려 며느리를 닦달했고, 몸이 조금만 나빠도 병원에 가 주사 맞기를 좋아했다. ㉠<span class="ev" id="ev27-1">노인이 항생제 주사를 많이 맞는 게 좋지 않다는 말을 해도 듣지 않았다.</span><a class="ev-tag" href="#q27-1">㉠ 27-①</a></p>
+  <p>어머니가 젊었을 적엔 그렇지 않았다. ㉡<span class="ev" id="ev27-2">몸살이 나 앓으면서도 휘청거리며 호미를 들고 밭에 나갔다. 배가 고파도 먹을 것은 자식 입에 먼저 넣어주며 행복해했다.</span><a class="ev-tag" href="#q27-2">㉡ 27-②</a> <span class="ev ans" id="ev28-2">어머니의 삶은 궁핍과 땀과 희생과 인종의 그것이었다. … 우리 식구의 생명줄을 이고 버둥거렸던 어머니는 내 가슴속에 이 세상에서 가장 아름답고 강한 존재로 살아 있었다.</span><a class="ev-tag ans" href="#q28-2">28-②</a></p>
+  <p>그러던 어머니가 달라졌다. 도시로 나와 아들 며느리와 함께 살며 고부 사이가 버그러지기 시작했다. ㉢<span class="ev ans" id="ev27-3">그 무렵부터 말로 형언할 수 없는 어머니의 냄새가 솔솔 풍기기 시작했다(신 김치 군내·된장·땀·곰팡이 냄새가 뒤섞인 듯).</span><a class="ev-tag ans" href="#q27-3">㉢ 27-③</a></p>
+  <p><span class="ev" id="ev28-4a">나는 어머니의 냄새가 역겹다고 느껴질 때마다 젊었을 때의 어머니를 떠올린다. 젊은 시절 어머니의 냄새는 풀잎 향기보다 상큼했다.</span><a class="ev-tag" href="#q28-4">28-④</a></p>
+  <p class="passage-note">[중략] 어머니의 냄새를 이유로 집을 나간 아내를, ‘나’는 어머니를 동생이 모시게 하겠다 약속하고 돌아오게 했다.</p>
+  <p>어머니가 한바탕 쏘아대자 아내는 쓰러져 이불을 뒤집어쓰고 <span class="ev" id="ev28-4b">“냄새 때문에 숨을 쉴 수가 없어요.”</span><a class="ev-tag" href="#q28-4">28-④</a> 했다. ㉣<span class="ev" id="ev27-4">아내가 누워 있는 사이 어머니는 기세 좋게 주방에서 저녁을 준비하고 있었다.</span><a class="ev-tag" href="#q27-4">㉣ 27-④</a></p>
+  <p>“어머니한테서 나는 냄새는 무슨 냄새지요?” / “나헌테서 냄새가 나냐?” / <span class="ev" id="ev28-5">“아주 심해요.” … “절대로 내 몸에서 나는 냄새가 아녀.”(단호히 부인)</span><a class="ev-tag" href="#q28-5">28-⑤</a></p>
+  <p>“이놈아, 에미한테서 나는 냄새는 자식 놈들을 위해 살아온, 길고도 쓰디쓴 세월의 냄샌겨.” ㉤<span class="ev" id="ev27-5">쓰디쓴 세월의 냄새라는 어머니의 말이 명치끝을 후벼 팠다.</span><a class="ev-tag" href="#q27-5">㉤ 27-⑤</a></p>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 윗글의 서술상 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① 동시에 진행되는 두 개의 사건을 교차하여 제시하고 있다.</li>
+    <li id="q26-2">② 특정 인물의 시선으로 한 인물의 삶의 모습을 보여 주고 있다.<a class="src-tag ans" href="#ev26">정답 근거</a></li>
+    <li id="q26-3">③ 과거의 사건을 현재 시제로 서술하여 긴박한 분위기를 조성하고 있다.</li>
+    <li id="q26-4">④ 장면에 따라 서술자를 전환하여 사건의 다양한 면모를 제시하고 있다.</li>
+    <li id="q26-5">⑤ 공간적 배경을 구체적으로 묘사하여 작중 상황의 현장감을 부각하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 누가, 누구를 보여 주는지 본다.</p>
+        <p>서술자 ‘나’의 <strong>시선</strong>으로 어머니의 과거·현재 <strong>삶의 모습</strong>을 보여 준다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>두 사건 교차 없음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>‘나’의 시선으로 어머니 삶 제시.</td></tr>
+          <tr><td>③</td><td>오답</td><td>과거를 현재 시제로 서술 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>서술자 ‘나’로 일관.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>공간 배경 묘사 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① ㉠: 다른 사람의 말을 듣지 않는 어머니의 완고한 모습이 드러나 있다.<a class="src-tag" href="#ev27-1">지문 근거</a></li>
+    <li id="q27-2">② ㉡: 자신을 돌보기보다 가족을 위해 헌신했던 어머니의 모습이 드러나 있다.<a class="src-tag" href="#ev27-2">지문 근거</a></li>
+    <li id="q27-3">③ ㉢: 어머니의 냄새가 좋은지 나쁜지 <strong>판단하기 어려워하는</strong> ‘나’의 모습이 드러나 있다.<a class="src-tag ans" href="#ev27-3">정답 근거</a></li>
+    <li id="q27-4">④ ㉣: 아내의 상황에 아랑곳하지 않는 어머니의 모습이 드러나 있다.<a class="src-tag" href="#ev27-4">지문 근거</a></li>
+    <li id="q27-5">⑤ ㉤: 어머니가 한 말에 아픔을 느끼는 ‘나’의 모습이 드러나 있다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉢에서 ‘나’가 냄새를 어떻게 여기는지 본다.</p>
+        <p>‘나’는 어머니의 냄새를 신 김치 군내 등에 빗대며 <strong>부정적</strong>으로 판단하고 있다. ‘좋은지 나쁜지 판단하기 어려워한다’는 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>주사 고집=완고함.</td></tr>
+          <tr><td>②</td><td>적절</td><td>아파도 밭일=헌신.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>‘나’는 냄새를 부정적으로 판단.</td></tr>
+          <tr><td>④</td><td>적절</td><td>아내 쓰러져도 저녁 준비=아랑곳 안 함.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>명치끝 후벼 팜=아픔.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. 〈보기〉를 바탕으로 윗글을 감상한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>소설은 감각적 소재로 현실 문제를 드러내기도 한다. 이 작품은 자식이 어머니의 인생을 이해하지 못한 채 그 기본적 삶의 욕구를 부정적으로 여기고 ‘냄새’를 문제 삼는 모습을 그린다. 작가는 냄새에 대한 서로 다른 인식이 빚는 갈등으로 부모 세대에 대한 그릇된 관념을 지적한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q28-1">① ‘밥이 없으면’ ‘까탈을 부리’는 어머니를 ‘생에 대한 집착’이라 여기는 데서 그릇된 관념이 드러난다.<a class="src-tag" href="#ev26">지문 근거</a></li>
+    <li id="q28-2">② ‘어머니의 삶’을 ‘궁핍과 땀과 희생과 인종’으로 보는 데서 어머니 인생을 <strong>부정적으로</strong> 여기는 ‘나’가 드러난다.<a class="src-tag ans" href="#ev28-2">정답 근거</a></li>
+    <li id="q28-3">③ ‘특유한 어머니의 냄새’는 현실의 문제를 드러내는 소재로 사용되고 있다.<a class="src-tag" href="#ev27-3">지문 근거</a></li>
+    <li id="q28-4">④ 냄새를 ‘역겹다’는 ‘나’와 ‘숨을 쉴 수가 없’다는 아내에게서 냄새를 문제시하는 자식의 모습이 드러난다.<a class="src-tag" href="#ev28-4b">지문 근거</a></li>
+    <li id="q28-5">⑤ ‘아주 심해요’와 ‘절대로 내 몸에서 나는 냄새가 아녀’에서 인식 차이로 형성된 갈등이 표출된다.<a class="src-tag" href="#ev28-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘궁핍·땀·희생’으로 보는 시선이 ‘부정적’인지 본다.</p>
+        <p>‘나’는 어머니의 희생적 삶을 ‘이 세상에서 <strong>가장 아름답고 강한 존재</strong>’로 기억한다. 따라서 그 삶을 부정적으로 여긴다는 ②는 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘생 집착’으로 봄=그릇된 관념.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘가장 아름답고 강한 존재’로 기억(부정 X).</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘냄새’=현실 문제 소재.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘역겹다’·‘숨 못 쉼’=문제시.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘심하다’ vs ‘아니다’=인식 차 갈등.</td></tr>
         </tbody>
       </table>
     </div>
