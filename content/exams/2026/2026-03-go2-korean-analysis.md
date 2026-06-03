@@ -178,3 +178,92 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
 </div>
 
 </div>
+
+<div class="wrongrate">
+
+## 이 회차에서 가장 많이 틀린 문항
+
+<p class="wr-intro">EBSi 채점 데이터 기준 <strong>오답률 상위 문항</strong>입니다. 막대는 ①~⑤ 선택 비율이며, <span style="color:#1f5c9e;font-weight:700">파란색이 정답</span>, <span style="color:#9b2335;font-weight:700">빨간색이 가장 많이 고른 오답</span>입니다. (1~3번 발표 세트는 오답률이 낮아 이 목록에 없습니다.)</p>
+
+<div class="wr-grid">
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">22번</span><span class="wr-rate">오답률 72.4%</span><span class="wr-pt">3점</span><span class="wr-ans">정답 ②</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:13.8%"></div></div><span class="wr-pct">13.8</span></div><div class="wr-bar is-answer"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:27.6%"></div></div><span class="wr-pct">27.6</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:15.0%"></div></div><span class="wr-pct">15.0</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:8.1%"></div></div><span class="wr-pct">8.1</span></div><div class="wr-bar is-trap"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:35.5%"></div></div><span class="wr-pct">35.5</span></div></div>
+    <div class="wr-note">정답 ②(27.6%)보다 <b>⑤(35.5%)</b>를 더 많이 골랐다 — ⑤가 매력적 오답.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">13번</span><span class="wr-rate">오답률 70.2%</span><span class="wr-pt">3점</span><span class="wr-ans">정답 ②</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:23.4%"></div></div><span class="wr-pct">23.4</span></div><div class="wr-bar is-answer"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:29.8%"></div></div><span class="wr-pct">29.8</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:21.9%"></div></div><span class="wr-pct">21.9</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:15.2%"></div></div><span class="wr-pct">15.2</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:9.8%"></div></div><span class="wr-pct">9.8</span></div></div>
+    <div class="wr-note">정답 ②에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">21번</span><span class="wr-rate">오답률 67.2%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ①</span></div>
+    <div class="wr-bars"><div class="wr-bar is-answer"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:32.8%"></div></div><span class="wr-pct">32.8</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:11.5%"></div></div><span class="wr-pct">11.5</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:27.3%"></div></div><span class="wr-pct">27.3</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:3.7%"></div></div><span class="wr-pct">3.7</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:24.7%"></div></div><span class="wr-pct">24.7</span></div></div>
+    <div class="wr-note">정답 ①에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">45번</span><span class="wr-rate">오답률 60.3%</span><span class="wr-pt">3점</span><span class="wr-ans">정답 ⑤</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:3.6%"></div></div><span class="wr-pct">3.6</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:5.0%"></div></div><span class="wr-pct">5.0</span></div><div class="wr-bar is-trap"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:39.9%"></div></div><span class="wr-pct">39.9</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:11.9%"></div></div><span class="wr-pct">11.9</span></div><div class="wr-bar is-answer"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:39.7%"></div></div><span class="wr-pct">39.7</span></div></div>
+    <div class="wr-note">정답 ⑤(39.7%)보다 <b>③(39.9%)</b>를 더 많이 골랐다 — ③가 매력적 오답.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">35번</span><span class="wr-rate">오답률 60.1%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ①</span></div>
+    <div class="wr-bars"><div class="wr-bar is-answer"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:39.9%"></div></div><span class="wr-pct">39.9</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:14.2%"></div></div><span class="wr-pct">14.2</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:8.9%"></div></div><span class="wr-pct">8.9</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:11.4%"></div></div><span class="wr-pct">11.4</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:25.5%"></div></div><span class="wr-pct">25.5</span></div></div>
+    <div class="wr-note">정답 ①에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">17번</span><span class="wr-rate">오답률 60.0%</span><span class="wr-pt">3점</span><span class="wr-ans">정답 ④</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:11.4%"></div></div><span class="wr-pct">11.4</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:19.4%"></div></div><span class="wr-pct">19.4</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:14.1%"></div></div><span class="wr-pct">14.1</span></div><div class="wr-bar is-answer"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:40.0%"></div></div><span class="wr-pct">40.0</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:15.0%"></div></div><span class="wr-pct">15.0</span></div></div>
+    <div class="wr-note">정답 ④에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">26번</span><span class="wr-rate">오답률 55.2%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ⑤</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:5.5%"></div></div><span class="wr-pct">5.5</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:12.1%"></div></div><span class="wr-pct">12.1</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:9.1%"></div></div><span class="wr-pct">9.1</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:28.5%"></div></div><span class="wr-pct">28.5</span></div><div class="wr-bar is-answer"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:44.8%"></div></div><span class="wr-pct">44.8</span></div></div>
+    <div class="wr-note">정답 ⑤에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">16번</span><span class="wr-rate">오답률 48.5%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ①</span></div>
+    <div class="wr-bars"><div class="wr-bar is-answer"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:51.5%"></div></div><span class="wr-pct">51.5</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:22.1%"></div></div><span class="wr-pct">22.1</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:11.5%"></div></div><span class="wr-pct">11.5</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:9.1%"></div></div><span class="wr-pct">9.1</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:5.8%"></div></div><span class="wr-pct">5.8</span></div></div>
+    <div class="wr-note">정답 ①에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">34번</span><span class="wr-rate">오답률 48.3%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ②</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:6.9%"></div></div><span class="wr-pct">6.9</span></div><div class="wr-bar is-answer"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:51.7%"></div></div><span class="wr-pct">51.7</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:4.9%"></div></div><span class="wr-pct">4.9</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:33.2%"></div></div><span class="wr-pct">33.2</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:3.3%"></div></div><span class="wr-pct">3.3</span></div></div>
+    <div class="wr-note">정답 ②에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">12번</span><span class="wr-rate">오답률 45.2%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ③</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:6.8%"></div></div><span class="wr-pct">6.8</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:8.7%"></div></div><span class="wr-pct">8.7</span></div><div class="wr-bar is-answer"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:54.8%"></div></div><span class="wr-pct">54.8</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:16.3%"></div></div><span class="wr-pct">16.3</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:13.5%"></div></div><span class="wr-pct">13.5</span></div></div>
+    <div class="wr-note">정답 ③에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">38번</span><span class="wr-rate">오답률 45.1%</span><span class="wr-pt">3점</span><span class="wr-ans">정답 ④</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:6.6%"></div></div><span class="wr-pct">6.6</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:6.4%"></div></div><span class="wr-pct">6.4</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:19.9%"></div></div><span class="wr-pct">19.9</span></div><div class="wr-bar is-answer"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:54.9%"></div></div><span class="wr-pct">54.9</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:12.3%"></div></div><span class="wr-pct">12.3</span></div></div>
+    <div class="wr-note">정답 ④에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">40번</span><span class="wr-rate">오답률 43.8%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ⑤</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:6.2%"></div></div><span class="wr-pct">6.2</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:7.2%"></div></div><span class="wr-pct">7.2</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:17.9%"></div></div><span class="wr-pct">17.9</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:12.5%"></div></div><span class="wr-pct">12.5</span></div><div class="wr-bar is-answer"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:56.2%"></div></div><span class="wr-pct">56.2</span></div></div>
+    <div class="wr-note">정답 ⑤에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">43번</span><span class="wr-rate">오답률 41.7%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ③</span></div>
+    <div class="wr-bars"><div class="wr-bar"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:13.9%"></div></div><span class="wr-pct">13.9</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:8.4%"></div></div><span class="wr-pct">8.4</span></div><div class="wr-bar is-answer"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:58.3%"></div></div><span class="wr-pct">58.3</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:5.8%"></div></div><span class="wr-pct">5.8</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:13.5%"></div></div><span class="wr-pct">13.5</span></div></div>
+    <div class="wr-note">정답 ③에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">8번</span><span class="wr-rate">오답률 41.5%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ①</span></div>
+    <div class="wr-bars"><div class="wr-bar is-answer"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:58.5%"></div></div><span class="wr-pct">58.5</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:26.0%"></div></div><span class="wr-pct">26.0</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:6.7%"></div></div><span class="wr-pct">6.7</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:7.9%"></div></div><span class="wr-pct">7.9</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:0.9%"></div></div><span class="wr-pct">0.9</span></div></div>
+    <div class="wr-note">정답 ①에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+  <div class="wr-card">
+    <div class="wr-head"><span class="wr-qno">44번</span><span class="wr-rate">오답률 40.9%</span><span class="wr-pt">2점</span><span class="wr-ans">정답 ①</span></div>
+    <div class="wr-bars"><div class="wr-bar is-answer"><span class="wr-ch">①</span><div class="wr-track"><div class="wr-fill" style="width:59.1%"></div></div><span class="wr-pct">59.1</span></div><div class="wr-bar"><span class="wr-ch">②</span><div class="wr-track"><div class="wr-fill" style="width:6.6%"></div></div><span class="wr-pct">6.6</span></div><div class="wr-bar"><span class="wr-ch">③</span><div class="wr-track"><div class="wr-fill" style="width:10.0%"></div></div><span class="wr-pct">10.0</span></div><div class="wr-bar"><span class="wr-ch">④</span><div class="wr-track"><div class="wr-fill" style="width:15.0%"></div></div><span class="wr-pct">15.0</span></div><div class="wr-bar"><span class="wr-ch">⑤</span><div class="wr-track"><div class="wr-fill" style="width:9.3%"></div></div><span class="wr-pct">9.3</span></div></div>
+    <div class="wr-note">정답 ①에 가장 많이 몰렸지만 오답률이 높은 까다로운 문항.</div>
+  </div>
+</div>
+
+<p class="wr-source">출처: EBSi 오답률 (2026년 3월 고2 전국연합학력평가 국어). EBSi는 오답률 상위 15문항만 제공합니다.</p>
+
+</div>
+
