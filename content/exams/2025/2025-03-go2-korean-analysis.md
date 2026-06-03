@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~34번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~38번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -24,6 +24,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set6">22~26 독서(사회)</a>
   <a href="#set7">27~30 독서(과학·기술)</a>
   <a href="#set8">31~34 현대소설</a>
+  <a href="#set9">35~38 고전소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1319,6 +1320,159 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>강청 = 기술 대상화.</td></tr>
           <tr><td>④</td><td>적절</td><td>자리 피함 = 궁도 존중.</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>순종 = 궁도 존중(승부 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+## 35~38번 고전소설 · 「금환기봉」 — 남장 여성 영웅 장선빙
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>여성 <strong>장선빙</strong>이 남장하고 과거 급제·전공을 세우지만, 정체가 밝혀지며 지위를 일부 잃는 이야기다.</p>
+  <ul>
+    <li><strong>성취</strong> — 남복으로 과거에 급제(김희경과 동시), 반란 진압 공으로 높은 지위.</li>
+    <li><strong>정체 발각</strong> — 부마 삼으려 하자 정체를 밝히는 ‘표’를 올림. 임금은 병부 상서는 거두되 태학사는 유지.</li>
+    <li><strong>관습 복귀</strong> — 사당에서 여자로 돌아가겠다 고하고 옷을 바꿔 입음(요조숙녀).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 35번은 ‘답을 받은 뒤 사당으로’(순서), 38번은 ‘혼약 적음=성취가 아니라 관습’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 38] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>두 글(김희경·장수정)의 우열을 못 가리자 좌승상 최후가 ‘둘을 임금 앞에서 비교하자’고 아뢰었다. 호명하니 김희경(아버지 김정)과 장수정(아버지 장자영)이었다. 장수정은 곧 남복한 <strong>장선빙</strong>이다.</p>
+  <div class="seg" id="segA"><p class="seg-label">[A]</p>
+  <p>김희경은 장자영의 아들이라는 말에 <span class="ev" id="ev37a">‘장 소저는 왜 나에게 혼자라고 했는가? 혹시 나를 속인 것인가?’ 의심하다 ‘동명이인인가?’ 생각했다.</span><a class="ev-tag" href="#q37-4">37-[A]</a> 임금은 ‘옥을 위해 진주를 버릴 수 없다’며 둘 다 등용했다.</p></div>
+  <p class="muted">[중략] 반란을 진압한 장선빙을 임금이 사위 삼으려 하자, 장선빙은 정체를 밝히는 표를 올린다.</p>
+  <p>임금이 답했다 — ‘무슨 죄를 청하느냐. … 군신의 의와 부자의 정을 겸하였다. … 병부 상서는 여자에게 맞지 않아 거두지만, 태학사는 그대로 두어 공에 감사한다.’ <span class="ev" id="ev35">장선빙이 답을 받아 황공해 사양했으나, 임금이 듣지 않아 태학사 관을 받았다. 그 뒤 집으로 돌아와 사당에서 ‘여자로 돌아가겠다’ 고하고 의복을 바꿔 입으니 요조숙녀가 되었다.</span><a class="ev-tag" href="#q35-4">35-④</a></p>
+  <div class="seg" id="segB"><p class="seg-label">[B]</p>
+  <p>임금이 표를 신하들에게 보이자, <span class="ev" id="ev37b">김희경도 이 표를 보고 가슴이 철렁해 넋이 나간 채 멍하니 있다가, 날이 저물어서야 진정해 표를 소매에 넣고 집으로 돌아왔다.</span><a class="ev-tag" href="#q37-4b">37-[B]</a></p></div>
+  <p>김정이 표를 보고 ‘여자가 칼로 적장을 베다니 기특하다’ 감탄했다. <span class="ev" id="ev36">김정이 김희경에게 ‘장 소저가 혼약을 적고 수절하려 하니 너의 골칫거리가 될 듯하다. 옥란·명월 공주와도 연을 맺었으니 어찌하려느냐?’</span><a class="ev-tag" href="#q36-3">36-③</a>고 했다. 김희경은 <span class="ev" id="ev35b">‘임금이 어질고 밝으시니 신하의 정을 헤아릴 것’</span><a class="ev-tag" href="#q35-3">35-③</a>이라 답했다.</p>
+  <p class="muted" style="text-align:right">— 작자 미상, 「금환기봉」</p>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① 임금은 장선빙을 신하로 얻은 후 자식처럼 아꼈다.</li>
+    <li id="q35-2">② 신하들은 두 사람을 모두 쓰겠다는 임금의 뜻에 따랐다.</li>
+    <li id="q35-3">③ 김희경은 자신과 장선빙의 약속을 임금이 헤아릴 것이라 예상했다.<a class="src-tag" href="#ev35b">지문 근거</a></li>
+    <li id="q35-4">④ 장선빙은 사당에서 여자로 돌아가리라 고한 <strong>후</strong> 임금의 답을 받았다.<a class="src-tag ans" href="#ev35">정답 근거</a></li>
+    <li id="q35-5">⑤ 최후는 두 글의 우열이 안 가려지자 둘을 임금 앞에 부르자고 아뢰었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘답’과 ‘사당’의 선후를 본다.</p>
+        <p>장선빙은 임금의 <strong>답을 받은 뒤</strong> 집에 돌아와 사당에서 여자로 돌아가겠다고 고했다. ④는 순서를 거꾸로 적었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘부자의 정’으로 아낌.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘큰 행운’이라며 따름.</td></tr>
+          <tr><td>③</td><td>적절</td><td>임금이 헤아릴 것이라 예상.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>답 받은 뒤 사당(순서 반대).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>최후가 비교 제안.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. 표에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① 설랑에게 장선빙에 대한 반감을 불러일으켰다.</li>
+    <li id="q36-2">② 장선빙에게 누명을 벗을 기회를 주었다.</li>
+    <li id="q36-3">③ 김정에게 김희경의 앞날에 대한 걱정을 유발했다.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
+    <li id="q36-4">④ 임금이 옥란과 명월 공주의 이해관계를 조정하게 했다.</li>
+    <li id="q36-5">⑤ 장선빙에게 임금과의 관계를 회복할 계기를 마련해 주었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 표(정체 밝힌 글)가 누구에게 어떤 영향을 줬는지 본다.</p>
+        <p>표를 본 김정은 ‘장 소저의 혼약이 김희경의 골칫거리가 되겠다’며 아들의 앞날을 걱정한다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>설랑은 위로하는 인물.</td></tr>
+          <tr><td>②</td><td>오답</td><td>누명 아니라 정체 고백.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>김정의 앞날 걱정 유발.</td></tr>
+          <tr><td>④</td><td>오답</td><td>이해관계 조정 내용 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>관계 회복 계기 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. [A]와 [B]에서 ‘김희경’에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q37-1">① [A]는 과거를 회상, [B]는 미래를 예상한다.</li>
+    <li id="q37-2">② [A]는 자신의 오해를 인정, [B]는 타인의 허물을 지적한다.</li>
+    <li id="q37-3">③ [A]는 상대의 반응을 이끌어 내고, [B]는 상대 행동에 반응한다.</li>
+    <li id="q37-4">④ [A]는 알던 사실에 의문을 갖고, [B]는 새로 알게 된 사실에 당황한다.<a class="src-tag ans" href="#ev37a">정답 근거(A)</a><a class="src-tag ans" href="#ev37b" id="q37-4b">정답 근거(B)</a></li>
+    <li id="q37-5">⑤ [A]는 타인 능력을 부정 평가, [B]는 자기 능력을 부정 평가한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]·[B]에서 김희경의 심리 변화를 본다.</p>
+        <p>[A]에서 김희경은 ‘장 소저가 혼자라더니 아들이 있다니?’ 하며 <strong>알던 사실에 의문</strong>을 품고, [B]에서 표로 ‘장선빙=여자’임을 알고 <strong>당황</strong>한다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>구간</th><th>김희경</th></tr></thead>
+        <tbody>
+          <tr><td>[A]</td><td>알던 사실에 의문(속였나/동명이인인가).</td></tr>
+          <tr><td>[B]</td><td>새 사실(여자였음)에 당황(넋이 나감).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>장선빙은 개인적 성취·가문 문제 해결을 위해 남장한다. 사회적 제약을 벗어나 높은 지위에 오를 만큼 능력을 발휘하지만, 성별이 밝혀진 후 지위를 일부 환수당하고 여자 옷으로 갈아입는 등 <b>여성이라는 사회적 관습에 얽매이는</b> 모습이 보인다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q38-1">① ‘남복을 입고’ ‘과거에 참여’한 데서 개인적 성취·가문 문제 해결을 위한 행동을 본다.</li>
+    <li id="q38-2">② ‘죄를 청하’면서도 김희경과의 ‘혼약을 적’은 데서 사회적 제약을 벗어나 <strong>개인적 성취</strong>를 이룬 모습을 본다.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
+    <li id="q38-3">③ ‘병부 상서 자리’에서 물러난 데서 성취가 일부 환수되는 모습을 본다.</li>
+    <li id="q38-4">④ ‘태학사’는 유지하되 ‘요조숙녀’로 변하는 데서 능력 인정과 관습 얽매임을 모두 본다.</li>
+    <li id="q38-5">⑤ ‘어찌 그리 장려’하냐며 ‘만고에 없었다’는 데서 뛰어난 능력을 본다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘혼약을 적음’이 ‘성취’인지 ‘관습’인지 본다.</p>
+        <p>혼약을 적고 수절하려는 것은 사회적 제약을 벗어난 ‘성취’가 아니라, 오히려 <strong>여성으로서 관습</strong>에 따르는 모습이다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>남복 과거 = 성취·가문.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>혼약·수절 = 관습(성취 아님).</td></tr>
+          <tr><td>③</td><td>적절</td><td>병부 상서 환수 = 성취 일부 회수.</td></tr>
+          <tr><td>④</td><td>적절</td><td>태학사 유지 + 요조숙녀 = 인정+관습.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘만고에 없었다’ = 뛰어난 능력.</td></tr>
         </tbody>
       </table>
     </div>
