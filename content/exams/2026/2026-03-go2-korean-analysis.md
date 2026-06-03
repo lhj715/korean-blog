@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~13번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -469,6 +469,135 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
       <div class="trap">
         <div class="trap-head">조심할 점 — ‘무엇’과 ‘어디서’를 따로</div>
         <p>음운 변동 문제는 <strong>변동 종류</strong>와 <strong>일어난 자리(내부/결합)</strong>를 각각 채점한다. ④처럼 종류는 맞아도 자리가 틀리면 오답이다. 두 칸을 분리해 ○✕한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (11~13번 · 독서)
+
+<div class="passage">
+  <p class="passage-guide">[11 ~ 13] 국제 물품 매매와 위험 부담(CISG).<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>물품 매매 계약은 매도인과 매수인이 물품 매매를 약속하는 것이다. 매매 계약의 이행 과정에서 양 당사자의 책임이 없는 사유로 물품이 멸실 또는 훼손되어 계약의 이행이 불가능하게 되었을 경우, 손해를 누가 부담할지에 관한 <strong>위험 부담</strong> 문제가 발생할 수 있다. 우리나라 민법에 따르면, <span class="ev" id="ev13">매도인의 책임이 없는 사유로 계약의 이행이 불가능하게 되었을지라도 그로 인한 손해를 매도인이 부담한다.</span><a class="ev-tag" href="#q11-1">11-①</a> 그러나 <span class="ev" id="ev14">물품을 매수인이 수령했거나, 매수인의 책임이 있는 사유 또는 매수인의 물품 수령이 늦어지는 중에 양 당사자의 책임이 없는 사유로 계약의 이행이 불가능해진 경우에는 매수인이 손해를 부담한다.</span><a class="ev-tag" href="#q11-2">11-②</a> 국제 거래에서도 위험 부담 문제가 발생하는데, 국제 물품 매매 계약에 관한 유엔 협약(CISG)에 이에 관한 규정이 있다.</p>
+  <p>CISG에 따르면 위험은 매매 계약이 체결된 시점부터 이행이 완료된 시점에 이르는 동안 매도인에서 매수인으로 이전된다. <span class="ev" id="ev15">위험이 매수인에게 이전되기 전에 양 당사자의 책임이 없는 사유로 물품이 멸실·훼손되어 이행이 불가능해졌다면, 매도인이 여전히 물품을 공급할 부담을 진다.</span><a class="ev-tag" href="#q11-3">11-③</a> <span class="ev" id="ev17">위험이 매수인에게 이전된 후에는 그 부담을 매수인이 지게 되어 물품 대금을 지급할 의무가 있다.</span><a class="ev-tag" href="#q13-3">13-③</a> <span class="ev" id="ev16">CISG의 위험 이전 규정이 적용되려면 당사자 간에 별도의 합의나 관행이 없고 매매 계약의 물품이 특정되어야 한다.</span><a class="ev-tag" href="#q11-4">11-④</a><a class="ev-tag" href="#q12-2">12-②</a></p>
+  <p>㉠ 매매 계약의 유형에 따른 위험 이전은 다음과 같다. 매매 계약에 물품의 운송이 포함되어 있고 매도인이 운송인에게 특정한 장소에서 인도할 의무가 <strong>없는</strong> 경우, <span class="ev" id="ev18">위험은 물품이 매도인으로부터 최초의 운송인에게 인도된 시점에 매수인에게 이전된다.</span><a class="ev-tag" href="#q12-1">12-①</a><a class="ev-tag" href="#q13-2">13-②</a> 이렇게 정하는 이유는 <span class="ev" id="ev19">운송 결과에 따른 손해 배상과 보험금의 지급 청구·수령에 매수인이 매도인보다 용이하기 때문이다.</span><a class="ev-tag" href="#q13-1">13-①</a> 인도할 의무가 <strong>있는</strong> 경우에는 그 특정한 장소에서 인도되는 시점에 이전된다. 운송이 포함되지 않고 매도인의 영업소에서 매수인이 수령하는 경우에는 수령했을 때 이전된다. 한편 <span class="ev" id="ev20">원유·천연가스처럼 운송 중에 매매 계약이 이루어지는 경우에는 위험이 계약 체결 시에 매수인에게 이전된다.</span><a class="ev-tag" href="#q12-3">12-③</a></p>
+  <p>위험 이전 시점은 물품 부적합에 대한 책임을 판단하는 기준이 된다. 물품 부적합이란 물품이 계약 내용이나 법적 안전 기준에 맞지 않는 상태다. <span class="ev" id="ev21">물품 부적합이 위험 이전 시점 전에 존재했다면 매도인이 책임지도록, 매수인은 수령한 물품이 품질·포장 등에서 계약에 합치하는지 확인할 의무가 있다.</span><a class="ev-tag" href="#q13-4">13-④</a></p>
+</div>
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>법·제도 지문의 축은 <strong>‘기준’</strong>이다. 이 글의 기준은 <strong>위험 이전 시점</strong> — 손해 부담이 매도인 → 매수인으로 넘어가는 순간이다. 그 전이면 매도인, 그 후면 매수인이 책임진다.</p>
+  <ul>
+    <li><strong>유형별 시점</strong>을 표로 — ① 운송 포함·인도의무 없음 → <em>최초 운송인에게 인도된 때</em> ② 인도의무 있음 → <em>특정 장소 인도 때</em> ③ 운송 없음 → <em>영업소 수령 때</em> ④ 운송 중 매매 → <em>계약 체결 때</em></li>
+    <li><strong>적용 조건</strong> — 별도 합의·관행이 <em>없고</em> 물품이 <em>특정</em>되어야 CISG 규정이 작동.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — ‘인도의무 없음 → 최초 운송인 인도 시점’이 12·13번의 핵심 함정이다(‘B에게 운송한 때’와 헷갈리게 낸다).</p>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① 우리나라 민법에 따르면 매도인의 책임이 없는 사유로 이행이 불가능해진 경우 손해는 매도인이 부담한다.<a class="src-tag" href="#ev13">지문 근거</a></li>
+    <li id="q11-2">② 우리나라 민법에 따르면 매수인의 물품 수령이 늦어지는 중 양 당사자 책임 없는 사유로 이행이 불가능해진 경우 손해는 매수인이 부담한다.<a class="src-tag" href="#ev14">지문 근거</a></li>
+    <li id="q11-3">③ CISG에 따르면 위험이 매수인에게 이전되기 전 물품이 멸실되어 이행이 불가능해진 경우 매도인이 물품을 공급할 부담을 진다.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q11-4">④ CISG의 위험 이전 규정이 적용되려면 당사자 간에 별도의 합의나 관행이 있어야 한다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q11-5">⑤ 국제 거래의 물품 매매 계약은 대부분 물품의 운송을 포함한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘일치하지 않는 것’이므로 선지를 지문과 1:1로 대조해 <strong>반대로 말한 하나</strong>를 찾는다.</p>
+        <p>2문단은 적용 조건을 “별도의 합의·관행이 <strong>없고</strong> 물품이 특정되어야”라고 했다. ④는 “있어야 한다”로 <strong>조건을 뒤집었다</strong>. 따라서 일치하지 않는다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>일치</td><td>민법: 매도인 무책 사유 → 매도인 부담(1문단).</td></tr>
+          <tr><td>②</td><td>일치</td><td>수령 지연 중 무책 사유 → 매수인 부담(1문단).</td></tr>
+          <tr><td>③</td><td>일치</td><td>이전 전 멸실 → 매도인 공급 부담(2문단).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">불일치</td><td>‘있어야’가 아니라 ‘없어야’ 적용된다 — 조건을 뒤집음.</td></tr>
+          <tr><td>⑤</td><td>일치</td><td>대부분 운송을 포함한다(3문단).</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘있다/없다’ 뒤집기</div>
+        <p>일치 문제의 단골은 <strong>긍정↔부정 뒤집기</strong>다. ④는 ‘없고’를 ‘있어야’로 바꿨다. 조건·자격 문장은 ‘있다/없다’를 특히 꼼꼼히 본다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글과 관련하여 ㉠을 이해한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 45.2%</span></p>
+  <ul class="q-opts">
+    <li id="q12-1">① 운송이 포함된 매매 계약은 운송인이 위험 이전 시점을 결정할 수 있다.<a class="src-tag" href="#ev18">지문 근거</a></li>
+    <li id="q12-2">② 운송이 포함되지 않은 매매 계약은 물품이 특정되지 않아도 위험 이전이 될 수 있다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q12-3">③ 운송 중에 있는 물품에 대해 체결된 매매 계약은 계약 체결 시점이 위험 이전 시점이 될 수 있다.<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q12-4">④ 운송이 포함되지 않은 매매 계약은 인도 장소가 특정되어 있으면 계약 체결 시점이 위험 이전 시점이 될 수 있다.</li>
+    <li id="q12-5">⑤ 운송이 포함된 매매 계약은 인도 장소가 특정되어 있지 않으면 물품 부적합이 발생한 시점이 위험 이전 시점이 될 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(유형별 위험 이전)을 표로 정리해 두고, 각 선지가 그 표와 맞는지 대조한다.</p>
+        <p>3문단에서 ‘운송 중에 매매가 이루어지는 물품(원유·천연가스)’은 위험이 <strong>계약 체결 시</strong>에 이전된다고 했다. 따라서 ③이 적절하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>시점은 규정으로 정해질 뿐 ‘운송인이 결정’하지 않는다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>물품이 특정돼야 CISG 규정이 적용된다.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>운송 중 매매 → 계약 체결 시 위험 이전.</td></tr>
+          <tr><td>④</td><td>오답</td><td>운송 없음은 ‘영업소 수령 시’ 이전이지 계약 체결 시가 아니다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘부적합 발생 시점’은 위험 이전 시점 기준이 아니다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 유형마다 시점이 다르다</div>
+        <p>‘계약 체결 시 = 운송 중 매매’ 한 줄만 정확히 잡으면 ③이 보인다. ④는 ‘운송 없음’인데 ‘계약 체결 시’라고 시점을 바꿔치기했다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 〈메모〉의 사례를 윗글로 떠올린 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 70.2%</span> <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 메모 &gt;</p>
+    <p>매도인 A와 매수인 B가 물품 ○○ 매매 계약 체결. 운송이 계약에 <b>포함</b>되어 있고 A가 운송인에게 특정한 장소에서 인도할 의무는 <b>없음</b>. B가 고용한 운송인이 A에게 ○○를 인도받아 B에게 운송. 운송 도중 양 당사자 책임 없는 사유(태풍 침수)로 ○○ 훼손. B는 수령 직후 훼손을 확인해 A에게 통지. (CISG의 유형별 위험 이전을 따름)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q13-1">① B가 발견한 훼손에 대한 보험금 지급 청구·수령은 A보다 B가 유리하다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q13-2">② A로부터 ○○를 인도받은 운송인이 B에게 운송한 시점에 위험이 A에서 B로 이전되었다.<a class="src-tag" href="#ev18">지문 근거</a></li>
+    <li id="q13-3">③ 태풍 침수로 ○○가 훼손되었음에도 B는 A에게 물품 대금을 지급할 의무를 진다.<a class="src-tag" href="#ev17">지문 근거</a></li>
+    <li id="q13-4">④ B가 수령 직후 훼손을 확인했으므로 계약 합치 여부를 확인할 의무를 수행했다.<a class="src-tag" href="#ev21">지문 근거</a></li>
+    <li id="q13-5">⑤ 계약 체결 시점의 위험 부담 주체는 A, 이행 완료 시점의 주체는 B이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 사례의 조건(운송 포함 + 인도의무 <strong>없음</strong>)을 지문 규칙에 대입한다. 이 유형은 ‘최초 운송인에게 인도된 시점’이 위험 이전 시점이다.</p>
+        <p>인도의무가 없으므로 위험은 <strong>A가 최초 운송인에게 인도한 시점</strong>에 B로 이전된다. 그런데 ②는 ‘운송인이 <strong>B에게 운송한 시점</strong>’이라고 했으니 시점이 틀렸다. 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>보험금 청구·수령은 매수인(B)이 유리(3문단).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>위험 이전은 ‘B에게 운송한 때’가 아니라 ‘최초 운송인에게 인도한 때’.</td></tr>
+          <tr><td>③</td><td>적절</td><td>이전 후 훼손이라도 B가 대금 지급 의무(2문단).</td></tr>
+          <tr><td>④</td><td>적절</td><td>수령 직후 합치 확인 = 매수인 확인 의무 수행(4문단).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>위험은 계약 체결 시점(A) → 이행 완료 시점(B)으로 이전.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 오답률 70.2%, ‘인도 시점’이 함정</div>
+        <p>‘인도의무 없음’이면 시점은 <strong>A→최초 운송인 인도 때</strong>다. ②는 ‘운송인→B 운송 때’로 한 단계 뒤로 미뤘다. 사례에선 ‘인도의무 유무’를 먼저 확인하고 해당 시점을 지문에서 찾는다.</p>
       </div>
     </div>
   </details>
