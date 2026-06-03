@@ -12,7 +12,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~20번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -21,6 +21,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~20 독서(과학)</a>
+  <a href="#set6">21~25 독서(인문)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -809,6 +810,191 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>제시=드러내 보이다(≠보이다=경향).</td></tr>
           <tr><td>④</td><td>오답</td><td>형성=형상을 이룸(≠만들어=방출되게 함).</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>거쳐=경유하여.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 21~25번 독서(인문) · 신고전주의와 낭만주의 미술
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>대립하는 두 미술 사조를 ‘배경 학자 + 미학 관점 + 특징’ 세 줄로 정리하면 끝난다.</p>
+  <ul>
+    <li><strong>신고전주의</strong>(빈켈만) — 아름다움은 사물이 본래 지닌 객관적 특질(㉠). 매끈한 표면·뚜렷한 윤곽선·형태 강조, 감정 절제로 정신적 숭고함(도덕성) 표현.</li>
+    <li><strong>낭만주의</strong>(헤르더) — 아름다움은 보는 마음의 감각적 즐거움(㉡, 흄). 강렬한 채색·거친 붓 자국·색채 강조, 불안·환상 등 주제 확장.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 22번은 ‘신고전주의=색채·불안 표현’(실제는 형태·절제)이 함정, 24번은 ‘빈켈만은 정신적 미를 더 높이 봤다’(아님, 형식·내용 완벽한 일치)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>18세기 중반 등장한 신고전주의는 고대 그리스 고전주의로 회귀한 복고주의 사조다. <span class="ev" id="ev22-1">계몽주의자들은 로코코 미술을 경박·부도덕하다 비판하고, 근대 시민 사회에 걸맞은 정제된 형식미·엄숙함의 고전주의 미술에 주목했다.</span><a class="ev-tag" href="#q22-1">22-①</a></p>
+  <p>고전주의는 <span class="ev ans" id="ev23">㉠아름다움은 사물이 본래 가진 어떤 특질(수학적 비례·조화·질서 같은 객관적 형식)이라고 보는 관점</span><a class="ev-tag ans" href="#q23-1">23-①</a>을 바탕으로 한다(플라톤). 엄격한 비례, 곧 기하학적 조형성을 갖춘 사물은 그 자체로 감각적 즐거움을 준다고 보았다. ⓐ<span class="ev" id="ev25">가졌는데</span></p>
+  <p>빈켈만은 고대 그리스 미술의 ‘고귀한 단순성(완벽한 비례의 형태)과 고요한 위대함(감정의 절제)’을 모방해야 한다 했고, <span class="ev" id="ev24">육체적 아름다움과 정신적 숭고함, 곧 형식과 내용이 ‘완벽히 일치’하는 그리스 미술에 절대미가 구현됐다</span><a class="ev-tag" href="#q24-5">24-⑤</a>고 보았다.</p>
+  <p>신고전주의 미술은 <span class="ev" id="ev22-2">붓 자국 없이 매끈한 표면, 뚜렷한 윤곽선, 균형 잡힌 구도로 색채보다 형태를 강조</span><a class="ev-tag" href="#q22-2">22-②</a>했다. 또 사회적 교훈을 담아 그리스 신화·역사 속 영웅의 애국적 희생을 주제로 삼되, <span class="ev ans" id="ev22-3">영웅의 표정은 한결같이 침착하게 표현됐다 — 감정을 절제해 정신적 숭고함(도덕성)을 드러내기 위해서다.</span><a class="ev-tag ans" href="#q22-3">22-③</a></p>
+  <p>19세기 전반 낭만주의는 신고전주의를 거부하고 개인의 상상력·감정의 자유로운 표현을 중시했다. <span class="ev" id="ev21">헤르더는 상대주의 관점에서 빈켈만의 그리스 편향을 비판하며 낭만주의를 열었다.</span><a class="ev-tag" href="#q21-4">21-④</a></p>
+  <p>낭만주의는 <span class="ev" id="ev23b">㉡아름다움은 사물에 대해 느끼는 감각적 즐거움에서 기인한다는 관점</span>(흄)을 토대로, <span class="ev" id="ev22-5">불안·공포의 감정이나 악마·유령 같은 비현실적·환상적 존재 등 신고전주의가 외면한 영역으로 주제를 확장</span><a class="ev-tag" href="#q22-5">22-⑤</a>했다. 또 <span class="ev" id="ev22-4">강렬한 채색, 거친 붓 자국, 역동적인 구도로 형태보다 색채를 강조</span><a class="ev-tag" href="#q22-4">22-④</a>했다.</p>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. 윗글에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q21-1">① 미술을 다른 예술 갈래와 비교하며 예술사를 통시적으로 고찰하고 있다.</li>
+    <li id="q21-2">② 미술 사조의 등장이 예술에 대한 관점을 형성하는 데 미친 영향을 인과적으로 서술하고 있다.</li>
+    <li id="q21-3">③ 특정 미술 사조에 대한 평가가 시대별로 달라진 원인을 하나의 사례로 분석하고 있다.</li>
+    <li id="q21-4">④ 대립적인 두 미술 사조가 등장한 배경을 각각 특정 학자의 견해와 관련지어 설명하고 있다.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
+    <li id="q21-5">⑤ 특정 학자의 미학 이론 변화 과정을 설명하고 그 사상의 역사적 의의와 한계를 제시하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글이 ‘무엇을 무엇과 엮어’ 서술하는지 본다.</p>
+        <p>신고전주의는 <strong>빈켈만</strong>, 낭만주의는 <strong>헤르더</strong>의 견해와 엮어, 대립하는 두 사조의 등장 배경을 설명한다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>다른 갈래 비교·통시 고찰 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>사조→관점 형성의 인과 서술 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>한 사조 평가의 시대별 변화 분석 아님.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>빈켈만·헤르더와 엮어 두 사조 설명.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>이론 변화 과정·의의·한계 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 로코코 미술에 대한 반발로 등장한 신고전주의는 당대 사회를 향한 교훈적 메시지를 미술에 반영하고자 했다.<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q22-2">② 신고전주의 미술에서는 붓질 흔적이 없는 매끈한 표면과 명확한 윤곽선으로 사물의 형태가 강조되어 있다.<a class="src-tag" href="#ev22-2">지문 근거</a></li>
+    <li id="q22-3">③ 신고전주의 화가들은 그리스 역사 속 죽음을 앞둔 영웅의 <strong>불안과 공포를 강렬한 색채</strong>를 통해 드러내고자 했다.<a class="src-tag ans" href="#ev22-3">정답 근거</a></li>
+    <li id="q22-4">④ 낭만주의 미술이 보여 준 역동적인 구도는 신고전주의가 추구한 이상적 형식미에 부합하지 않는 것이었다.<a class="src-tag" href="#ev22-4">지문 근거</a></li>
+    <li id="q22-5">⑤ 상상력의 표현을 중시한 낭만주의 화가들은 신고전주의가 다루지 않은 비현실적·환상적 주제에 관심을 보였다.<a class="src-tag" href="#ev22-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 신고전주의 영웅이 ‘어떻게’ 표현됐는지 본다.</p>
+        <p>신고전주의 영웅의 표정은 <strong>침착</strong>하게(감정 절제) 표현됐고, 미술은 <strong>형태</strong>를 강조했다. ‘불안·공포를 강렬한 색채로’는 낭만주의 쪽 특징이라 ③이 일치하지 않는다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>일치</td><td>로코코 반발+사회적 교훈.</td></tr>
+          <tr><td>②</td><td>일치</td><td>매끈 표면·윤곽선=형태 강조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">불일치</td><td>영웅은 침착·형태 강조(색채·불안 X).</td></tr>
+          <tr><td>④</td><td>일치</td><td>낭만=역동적 구도.</td></tr>
+          <tr><td>⑤</td><td>일치</td><td>낭만=비현실·환상 주제.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠은 ㉡과 달리 감상자가 느끼는 주관적 즐거움과 상관없이 사물의 아름다움이 이미 존재한다고 보겠군.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
+    <li id="q23-2">② ㉡은 ㉠과 달리 감상자가 동일한 사물의 아름다움에 대해 내린 판단은 변화할 수 없다고 보겠군.<a class="src-tag" href="#ev23b">지문 근거</a></li>
+    <li id="q23-3">③ ㉠과 ㉡은 모두 모든 사람이 공통적으로 아름답다고 생각하는 사물이 존재한다고 보겠군.</li>
+    <li id="q23-4">④ ㉠과 ㉡은 모두 조화와 질서를 갖추지 못한 사물도 감각적 즐거움을 줄 수 있다고 보겠군.</li>
+    <li id="q23-5">⑤ ㉠과 ㉡은 모두 아름다운 사물이라면 반드시 수학적 비례를 유지한다고 보겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘아름다움이 사물에 있나, 보는 마음에 있나’를 가른다.</p>
+        <p>㉠(고전주의)은 아름다움을 사물이 본래 가진 객관적 특질로 본다. 따라서 보는 사람의 <strong>주관적 즐거움과 무관하게</strong> 아름다움이 이미 존재한다고 본다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>㉠=객관적 특질, 주관과 무관.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡은 감각적 즐거움 기반 → 판단 변할 수 있음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉡은 보편적 미 부정.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉠은 조화·질서 없으면 아름다움 X.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉡은 비례 필수로 안 봄.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. 윗글을 읽은 학생이 〈보기〉에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>㉮ <b>에피카르모스</b>: 개는 개를, 소는 소를 가장 아름답게 여긴다 — 아름다움의 척도는 그 ‘종(種)’.<br>
+    ㉯ <b>소크라테스</b>: 사물이 목적·시간·환경에 적합할 때 아름답다(보편 기준 믿은 당대 그리스인과 상반).<br>
+    ㉰ <b>스토아 학파</b>: 감각적 미(비례 맞는 육체)와 정신적 미(도덕성)를 구분, 미학적 가치는 도덕에 종속 → <b>정신적 미를 더 높이 평가</b>.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q24-1">① ㉮: 종에 따라 척도가 다르다는 에피카르모스는, 상대주의 관점의 헤르더와 유사하군.</li>
+    <li id="q24-2">② ㉯: 보편 기준을 믿은 그리스인의 관점은, 변화·시간에 주목한 헤르더와 다르군.</li>
+    <li id="q24-3">③ ㉯: 시간·환경 적합성으로 미가 결정된다는 소크라테스는, 시대 초월적 미를 본 빈켈만과 다르군.</li>
+    <li id="q24-4">④ ㉰: 감각적 미를 비례 맞는 육체로 본 스토아는, ‘고귀한 단순성’의 빈켈만과 유사하군.</li>
+    <li id="q24-5">⑤ ㉰: 정신적 미의 우위를 주장한 스토아는, 그리스 미술이 육체보다 정신적 숭고함을 더 강조했다고 본 빈켈만과 유사하군.<a class="src-tag ans" href="#ev24">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 빈켈만이 정신과 육체 중 무엇을 ‘더’ 쳤는지 본다.</p>
+        <p>빈켈만은 육체적 아름다움과 정신적 숭고함이 <strong>완벽히 일치</strong>한다고 봤지, 정신을 ‘더 높이’ 본 게 아니다. 스토아(정신 우위)와 유사하다는 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>종별 상대성=헤르더 상대주의.</td></tr>
+          <tr><td>②</td><td>적절</td><td>보편 기준≠헤르더(변화 주목).</td></tr>
+          <tr><td>③</td><td>적절</td><td>적합성 미≠빈켈만(시대 초월).</td></tr>
+          <tr><td>④</td><td>적절</td><td>비례 육체=고귀한 단순성.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>빈켈만=형식·내용 완벽 일치(정신 우위 X).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. 문맥상 ⓐ(가졌는데)와 가장 가까운 의미로 쓰인 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① 빈 깡통을 가지고 연필꽂이를 만들었다.</li>
+    <li id="q25-2">② 두 나라는 문화적 교류를 가지기로 합의했다.</li>
+    <li id="q25-3">③ 최근 그는 여러 사람과 만나는 자리를 가졌다.</li>
+    <li id="q25-4">④ 그는 사업체를 여럿 가진 사업가로 알려져 있다.</li>
+    <li id="q25-5">⑤ 사람들은 그의 사글사글한 인상에 호감을 가졌다.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ ‘관심을 가졌다’의 ‘가지다’ 뜻을 본다.</p>
+        <p>ⓐ는 ‘생각·관심을 <strong>마음에 품다</strong>’의 뜻. 같은 뜻은 ‘호감을 가졌다’의 ⑤다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>‘가지다’ 뜻</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>도구로 사용하다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(관계를) 맺다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(모임을) 열다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>소유하다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>마음에 품다.</td></tr>
         </tbody>
       </table>
     </div>
