@@ -12,7 +12,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~20번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -21,6 +21,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~20 독서(과학·기술)</a>
+  <a href="#set6">21~25 고전 복합</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -624,6 +625,196 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>합성 용언(덤벼들어) → 띄어 씀.</td></tr>
           <tr><td>④</td><td>적절</td><td>조사 ‘도’ → 띄어 씀.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>의존 명사 뒤 조사 → 띄어 씀.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set5" class="set-anchor"></div>
+
+## 16~20번 독서(과학) · 약물은 몸속에서 어떻게 이동하나
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘약제의 구성 → 체내 3단계 → 세 지표’를 표로 잡으면 된다.</p>
+  <ul>
+    <li><strong>약제 구성</strong> — 활성 성분(약물) + 불활성 성분(첨가제). 약물은 농도가 ‘높은 곳→낮은 곳’으로 확산(농도 구배·확산 계수가 클수록 빠름).</li>
+    <li><strong>3단계</strong> — 흡수(혈액 도달, <strong>생체이용률</strong>) → 분포(조직에 퍼짐, <strong>분포 용적</strong>) → 제거(배출, <strong>청소율</strong>).</li>
+    <li><strong>지표</strong> — 생체이용률(정맥 주사=1, 경구<1), 분포 용적=도달 약물량÷혈장 농도, 청소율↑이면 빨리 제거.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 16번은 ‘농도 구배가 작아도 높은→낮은 농도로 이동’, 20번은 ‘빠르게 분포되면 Ⓐ–Ⓑ 간격이 <em>좁다</em>’(넓다 아님)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>약의 재료가 되는 물질을 <strong>약물</strong>, 투여 가능한 형태로 가공한 것을 <strong>약제</strong>라 한다. 약제는 약효를 내는 ㉠<u>활성 성분</u>(약물)과 첨가제인 불활성 성분으로 구성된다. 정제제(당류 등), 경구 액체제(정제수·감미료), 주사형 액체제(생리식염수·항균제)가 대표 유형이다.</p>
+  <p><span class="ev" id="ev9">약물은 농도 구배를 원동력 삼아 <strong>높은 농도에서 낮은 농도로</strong> 이동·확산한다. 농도 구배가 크거나 확산 계수가 클수록 빠르다.</span><a class="ev-tag" href="#q16-3">16-③</a> 같은 약물이라도 액체제는 이미 용해돼 표면적이 넓어 정제제보다 확산 계수가 크다.</p>
+  <p>체내 약물은 <strong>흡수→분포→제거</strong> 단계를 거친다. 흡수 단계에서 혈액까지 도달하는 비율이 <strong>생체이용률</strong>이다. 정맥 주사는 항상 1, 경구 투여는 초회통과효과로 항상 1보다 작다(100mg×0.3 → 30mg 도달).</p>
+  <p>분포 단계에서 <strong>분자량이 적거나 지용성이 높은 약물</strong>은 세포막을 통과하기 쉬워 넓게 분포한다. <strong>분포 용적</strong> = 도달 약물량 ÷ 혈장 약물 농도(30mg ÷ 5mg/L = 6L). 제거 단계의 <strong>청소율</strong>이 높으면 약물이 빨리 제거된다.</p>
+  <p><span class="ev" id="ev10">혈액에 도달한 약물 중 일부는 간·장 등에서 대사돼 약효가 더 강한 ㉡<u>활성 형태</u>로 변할 수 있다.</span><a class="ev-tag" href="#q17-4">17-④</a> 목표 조직은 시료 채취가 어려워 혈장 약물 농도를 측정한다(혈장 농도↑이면 목표 조직 농도도↑로 가정). 목표 조직 외에 분포하면 목표 조직 농도가 낮아 약효가 기대보다 낮을 수 있다.</p>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. 윗글을 통해 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① 혈액에 도달한 약물은 여러 조직에 분포한다.</li>
+    <li id="q16-2">② 경구 투여 약물은 항상 투여량의 일부만 혈액에 도달한다.</li>
+    <li id="q16-3">③ 농도 구배가 작은 경우에 약물은 낮은 농도에서 높은 농도로 이동한다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q16-4">④ 혈장 약물 농도보다 목표 조직의 약물 농도 측정이 더 어렵다.</li>
+    <li id="q16-5">⑤ 주사형 액체제 약물은 정제제 약물과 달리 용매에 녹아 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 약물 이동의 ‘방향’을 본다.</p>
+        <p>약물은 농도 구배가 크든 작든 늘 <strong>높은 농도 → 낮은 농도</strong>로 이동한다. ③은 ‘낮은 → 높은’이라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>흡수→분포로 조직에 퍼짐.</td></tr>
+          <tr><td>②</td><td>적절</td><td>초회통과효과로 일부만 도달.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>늘 높은→낮은 농도로 이동.</td></tr>
+          <tr><td>④</td><td>적절</td><td>목표 조직은 채취 어려움.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>액체제는 용매에 용해.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. ㉠(활성 성분)과 ㉡(활성 형태)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q17-1">① ㉠은 ㉡과 달리 세포막을 통과하지 못한다.</li>
+    <li id="q17-2">② ㉠은 ㉡과 달리 불활성 성분을 구성 요소로 포함한다.</li>
+    <li id="q17-3">③ ㉡은 ㉠과 달리 약제의 구성 성분 중 하나이다.</li>
+    <li id="q17-4">④ ㉡은 ㉠과 달리 간이나 장 등에서 대사를 거친 상태이다.<a class="src-tag" href="#ev10">지문 근거</a></li>
+    <li id="q17-5">⑤ ㉡은 ㉠과 달리 목표 조직에서 약효와 무관한 반응이 일어날 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(원래 약물)과 ㉡(대사된 형태)의 차이를 본다.</p>
+        <p>㉡‘활성 형태’는 간·장 등에서 <strong>대사를 거쳐</strong> 변한 상태다. ㉠과 달리 대사 과정을 거쳤다는 ④가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>㉠도 약물이라 세포막 통과.</td></tr>
+          <tr><td>②</td><td>오답</td><td>불활성 성분 포함은 ‘약제’.</td></tr>
+          <tr><td>③</td><td>오답</td><td>약제 성분은 ㉠(활성 성분).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉡ = 대사 거친 상태.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>무관 반응은 ㉠·㉡ 공통 가능.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. ㄱ~ㄷ에 들어갈 말을 바르게 짝지은 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>생체이용률이 낮을수록 혈액 도달량이 적어, 생체이용률 낮은 약물은 투여량이 ( ㄱ ). 청소율이 높을수록 약물이 체내에 머무는 시간이 ( ㄴ ), 청소율 높은 약물은 투여 간격이 ( ㄷ ).</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q18-1">① 많을 / 길기 / 길</li>
+    <li id="q18-2">② 많을 / 짧기 / 길</li>
+    <li id="q18-3">③ 많을 / 짧기 / 짧을</li>
+    <li id="q18-4">④ 적을 / 길기 / 길</li>
+    <li id="q18-5">⑤ 적을 / 짧기 / 짧을</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 지표(생체이용률·청소율)와 투여량·간격의 관계를 잇는다.</p>
+        <p>생체이용률↓ → 도달량↓ → 투여량 <strong>많을</strong>(ㄱ). 청소율↑ → 빨리 제거 → 머무는 시간 <strong>짧기</strong>(ㄴ) → 투여 간격 <strong>짧을</strong>(ㄷ). ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>빈칸</th><th>답</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>ㄱ</td><td>많을</td><td>도달량 적음 → 더 많이 투여.</td></tr>
+          <tr><td>ㄴ</td><td>짧기</td><td>청소율↑ → 빨리 제거.</td></tr>
+          <tr><td>ㄷ</td><td>짧을</td><td>빨리 빠짐 → 자주 투여.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. 윗글을 바탕으로 〈보기〉를 탐구한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 — 약물량 12mg, 혈장 농도 측정 &gt;</p>
+    <p>㉮ 정제제(약물 ⓐ, 생체이용률 0.25, 당류, 혈장 농도 3mg/L) · ㉯ 액체제(ⓑ, 0.75, 정제수·감미료, 1mg/L) · ㉰ 액체제(ⓒ, 1, 생리식염수·항균제, 2mg/L)<br>
+    <span class="muted">분포 용적 = 도달 약물량(12×생체이용률) ÷ 혈장 농도 → ⓐ=1L, ⓑ=9L, ⓒ=6L.</span></p>
+  </div>
+  <ul class="q-opts">
+    <li id="q19-1">① ⓐ는 ⓑ에 비해 분자량이 적거나 지용성이 높은 약물일 것이다.<a class="src-tag" href="#ev10">지문 근거</a></li>
+    <li id="q19-2">② ⓐ는 ⓒ와 달리 흡수 단계에서 초회통과효과가 발생할 것이다.</li>
+    <li id="q19-3">③ ⓑ는 ⓒ에 비해 체내의 더 넓은 면적에 분포할 것이다.</li>
+    <li id="q19-4">④ ㉮는 ㉰와 달리 복용 편의 성분이 포함된 경구 투여형 약제일 것이다.</li>
+    <li id="q19-5">⑤ ㉯와 ㉰는 모두 활성 성분을 녹이기 위한 불활성 성분이 포함된 약제일 것이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 분포 용적을 계산해 ‘누가 더 넓게 분포하나’를 본다.</p>
+        <p>분포 용적은 ⓐ=1L, ⓑ=9L다. 분포 용적이 큰 쪽이 분자량이 적거나 지용성이 높아 넓게 분포한다. 즉 <strong>ⓑ가 ⓐ보다</strong> 그렇다. ①은 ⓐ·ⓑ를 뒤집었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>분포 용적 ⓑ(9L)>ⓐ(1L), 방향 반대.</td></tr>
+          <tr><td>②</td><td>적절</td><td>ⓐ=경구(초회통과), ⓒ=주사.</td></tr>
+          <tr><td>③</td><td>적절</td><td>ⓑ(9L)>ⓒ(6L) → 더 넓게 분포.</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉮=정제제(당류), ㉰=주사형.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>정제수·생리식염수 = 용매.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 — 히스테레시스 &gt;</p>
+    <p>‘혈장 약물 농도가 최대치에 도달한 시간(Ⓐ)’보다 ‘목표 조직 약효가 최대치에 도달한 시간(Ⓑ)’이 늦는 현상. 약물이 목표 조직까지 분포하는 데 시간이 걸리기 때문이다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q20-1">① 약물이 목표 조직 외 다른 조직에 더 분포하면 Ⓑ에서 약효 최대치는 낮아진다.</li>
+    <li id="q20-2">② Ⓑ에서는 Ⓐ와 달리 목표 조직 농도가 혈장 농도보다 높다.</li>
+    <li id="q20-3">③ 같은 약물이면 정제제가 액체제보다 Ⓐ–Ⓑ 간격이 더 넓다.</li>
+    <li id="q20-4">④ 확산 계수가 큰 약물은 작은 약물보다 Ⓐ–Ⓑ 간격이 더 좁다.</li>
+    <li id="q20-5">⑤ 혈액에서 목표 조직으로 <strong>빠르게</strong> 분포되는 약물은 느린 약물보다 Ⓐ–Ⓑ 간격이 더 <strong>넓다</strong>.<a class="src-tag" href="#ev9">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘분포 속도’와 ‘Ⓐ–Ⓑ 간격’의 관계를 본다.</p>
+        <p>목표 조직으로 <strong>빠르게</strong> 분포되면 약효가 빨리 최대에 도달해 Ⓐ–Ⓑ 간격이 <strong>좁아진다</strong>. ⑤는 ‘넓다’라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>다른 조직 분포↑ → 약효↓.</td></tr>
+          <tr><td>②</td><td>적절</td><td>Ⓑ는 목표 조직 농도가 더 높음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>정제제 = 확산 계수↓ → 간격↑.</td></tr>
+          <tr><td>④</td><td>적절</td><td>확산 계수↑ → 간격↓.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>빠르게 분포 → 간격 ‘좁음’.</td></tr>
         </tbody>
       </table>
     </div>
