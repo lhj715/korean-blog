@@ -241,6 +241,7 @@ a:hover{text-decoration:underline}
 .q-stem{font-weight:700;color:var(--ink);font-size:15px!important;margin:0 0 12px!important;line-height:1.7!important}
 .q-opts{list-style:none;margin:0;padding:0}
 .q-opts li{font-size:14px;line-height:1.8;color:var(--ink-mid);padding:3px 0;margin:0}
+.q-opts li::before{display:none!important}
 .q-plan{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:14px 16px}
 .q-plan p{font-size:14px!important;line-height:1.7!important;color:var(--ink-mid);margin:0 0 8px!important}
 .q-plan p:last-child{margin-bottom:0!important}
