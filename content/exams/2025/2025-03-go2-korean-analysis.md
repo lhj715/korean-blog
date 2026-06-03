@@ -41,7 +41,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     <li><strong>입지</strong> — 평야가 아닌 좁고 돌 많은 산비탈에 계단식으로([자료2]·[자료3]).</li>
     <li><strong>물 이용</strong> — 통수로로 상부 물을 하부에 재사용, ‘샛똘’로 물 흐름·양 조절.</li>
   </ul>
-  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 2번은 ‘물 효율은 [자료1]·[자료3]’(2번 선지의 [자료1]·[자료2]는 틀림), 3번은 ‘신뢰성 판단은 학생1만’이 함정이다.</p>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 2번은 ‘[자료2]·[자료3]은 청산도 구들장논의 구조적 특징(불리한 지형 극복)을 설명하려 쓴 것’인데 ⑤가 그 활용 목적을 ‘일반 논에서 논농사 짓기 어려운 지형’으로 바꿔치기한 게 함정, 3번은 ‘신뢰성 판단은 학생1만’이 함정이다.</p>
 </div>
 
 <div class="passage">
@@ -95,24 +95,24 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q2-2">② 일반 논의 지리적 입지 조건을 제시하려 [자료2]를 활용했다.<a class="src-tag" href="#ev2-2">지문 근거</a></li>
     <li id="q2-3">③ 청산도 구들장논에서 물을 효율적으로 쓰는 특징을 설명하려 [자료1]과 [자료2]를 활용했다.<a class="src-tag" href="#ev2-3">지문 근거</a></li>
     <li id="q2-4">④ 샛똘의 역할을 보여 주려 [자료1]과 [자료3]을 활용했다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q2-5">⑤ 일반 논에서 논농사 짓기 어려운 지형 특징을 설명하려 [자료2]와 [자료3]을 활용했다.<a class="src-tag" href="#ev2-2">지문 근거</a></li>
+    <li id="q2-5">⑤ 일반 논에서 논농사 짓기 어려운 지형 특징을 설명하려 [자료2]와 [자료3]을 활용했다.<a class="src-tag ans" href="#ev2-2">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 각 자료가 ‘어느 설명’에 쓰였는지 짝짓는다.</p>
-        <p>물의 효율적 이용(통수로·샛똘)은 <strong>[자료1]과 [자료3]</strong>으로 설명했다. ③은 ‘[자료1]과 [자료2]’라 했으니 적절하지 않다([자료2]는 일반 논 입지용).</p>
+        <p>[자료2]와 [자료3]은 <strong>청산도 구들장논의 구조적 특징</strong>(불리한 지형을 극복한 계단식 구조)을 설명하려 활용했다. ⑤는 이를 ‘일반적인 논에서 논농사를 짓기 어려운 지형적 특징’을 설명하려 쓴 것이라며 <strong>활용 목적을 바꿔</strong> 말했으니 적절하지 않다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>적절</td><td>[자료1] = 이름의 유래.</td></tr>
-          <tr><td>②</td><td>적절</td><td>[자료2] = 일반 논 입지.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>물 효율은 [자료1]·[자료3].</td></tr>
+          <tr><td>①</td><td>적절</td><td>[자료1] = 구들장논 이름의 유래.</td></tr>
+          <tr><td>②</td><td>적절</td><td>[자료2] = 일반 논의 입지 조건.</td></tr>
+          <tr><td>③</td><td>적절</td><td>[자료1]·[자료2] = 물 효율 특징 설명.</td></tr>
           <tr><td>④</td><td>적절</td><td>[자료1]·[자료3] = 샛똘 역할.</td></tr>
-          <tr><td>⑤</td><td>적절</td><td>[자료2]·[자료3] = 지형 특징.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>[자료2]·[자료3]은 구들장논의 구조적 특징용 — ‘일반 논의 어려운 지형’이 아님.</td></tr>
         </tbody>
       </table>
     </div>
