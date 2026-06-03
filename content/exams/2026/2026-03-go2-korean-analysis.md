@@ -28,7 +28,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
 
 ## 문제
 
-<div class="q-block">
+<div class="q-block" id="prob1">
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표 내용을 추가하여 청중의 요청에 따르고 있다.</li>
@@ -39,7 +39,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   </ul>
 </div>
 
-<div class="q-block">
+<div class="q-block" id="prob2">
   <p class="q-stem">2. 다음은 위 발표를 하기 위해 학생이 세운 계획이다. 발표에 반영되지 <strong>않은</strong> 것은?</p>
   <div class="q-plan">
     <p class="plan-sec">[도입]</p>
@@ -53,7 +53,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   </div>
 </div>
 
-<div class="q-block">
+<div class="q-block" id="prob3">
   <p class="q-stem">3. &lt;보기&gt;는 위 발표 후 이어진 수업의 일부이다. [가]에 들어갈 학생의 말로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>

@@ -247,8 +247,8 @@ a:hover{text-decoration:underline}
 .q-opts{list-style:none;margin:0;padding:0}
 .q-opts li{font-size:14px;line-height:1.8;color:var(--ink-mid);padding:3px 0;margin:0}
 .q-opts li::before{display:none!important}
-.q-opts li[id],.q-plan p[id]{scroll-margin-top:82px;border-radius:3px;transition:background .35s,box-shadow .35s}
-.q-opts li:target,.q-plan p:target{background:#e8f1fb;box-shadow:0 0 0 6px #e8f1fb}
+.q-opts li[id],.q-plan p[id]{border-radius:3px;transition:background .35s,box-shadow .35s}
+.q-opts li.opt-hl,.q-plan p.opt-hl{background:#e8f1fb;box-shadow:0 0 0 6px #e8f1fb}
 a.ev-tag{cursor:pointer;text-decoration:none}
 a.ev-tag:hover{background:#16487d}
 .q-plan{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:14px 16px}

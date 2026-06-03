@@ -12,4 +12,26 @@
   <div class="prose">{{ .Content }}</div>
 </article>
 </div>
+{{ if eq .Section "exams" }}
+<script>
+document.addEventListener('click', function(e){
+  var a = e.target.closest('a.ev-tag');
+  if(!a) return;
+  e.preventDefault();
+  var optId = (a.getAttribute('href') || '').slice(1);   // 예: q3-5
+  var m = optId.match(/^q(\d+)-/);
+  if(!m) return;
+  var block = document.getElementById('prob' + m[1]);    // 문제 시작 블록
+  var opt = document.getElementById(optId);              // 강조할 선지
+  if(block){
+    var y = block.getBoundingClientRect().top + window.pageYOffset - 70;
+    window.scrollTo({ top: y, behavior: 'smooth' });
+  }
+  if(opt){
+    document.querySelectorAll('.opt-hl').forEach(function(el){ el.classList.remove('opt-hl'); });
+    opt.classList.add('opt-hl');
+  }
+});
+</script>
+{{ end }}
 {{ end }}
