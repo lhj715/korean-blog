@@ -12,7 +12,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~20번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -21,6 +21,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~20 문학(갈래복합)</a>
+  <a href="#set6">21~25 독서(사회)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -826,6 +827,193 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr class="correct"><td>③</td><td class="ok">부적절</td><td>소 모는 노래=생활 모습(배제 아님).</td></tr>
           <tr><td>④</td><td>적절</td><td>물소리 묘사=생동감.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>모내기 노래=건강한 생활.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 21~25번 독서(사회) · 납세 의무의 성립·확정·소멸
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>세금(조세 채권)이 ‘성립 → 확정 → 소멸’되는 흐름과, 확정 ‘방식 3종’의 차이를 표로 정리하면 된다.</p>
+  <ul>
+    <li><strong>성립</strong> — 과세 요건(납세 의무자·과세 물건·과세 표준·세율) 충족 시 자동. 성립 단계는 ‘추상적’이라 과세권 행사 불가.</li>
+    <li><strong>확정 3방식</strong> — ㉠자동 확정(성립과 동시) / ㉡신고 납세(납세자가 신고로 확정, 더 민주적) / ㉢부과 과세(과세 관청만 확정, 고지서 도달 시 효력; 증여·상속세).</li>
+    <li><strong>수정·경정</strong> — 적게 신고=수정 신고(2년 내 가산세 감면), 많이 신고=경정 청구(5년 내). <strong>소멸</strong>=납부, 또는 환급금 미납 충당.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 21번은 ‘환급금 충당’이 정답, 24번은 ‘갑·을 모두 개정 후 세법 적용’(갑은 개정 전)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><span class="ev" id="ev21-5">세금은 국가 등이 행정 서비스 경비를 위해 ‘어떤 대가도 지급하지 않고’ 납세 의무자로부터 강제 징수하는 금전·재물</span><a class="ev-tag" href="#q21-5">21-⑤</a>이다. 조세 채권 이행은 납세 의무의 성립·확정·소멸로 이해한다.</p>
+  <p>납세 의무는 과세 요건(<span class="ev" id="ev21-2">납세 의무자·과세 물건·과세 표준(과세 물건의 수량·금액)·세율(과세 표준에 대한 법정 비율)</span><a class="ev-tag" href="#q21-2">21-②</a>)을 만족하면 자동 성립한다. 소득세는 과세 기간이 끝나는 때, 상속세는 상속이 개시되는 때 성립한다. <span class="ev" id="ev24-5">세법이 개정·시행되며 경과 규정이 없으면 ‘성립 당시’의 법령이 적용된다.</span><a class="ev-tag" href="#q24-5">24-⑤</a> ㉮<span class="ev ans" id="ev22">성립 단계에선 납세 의무가 아직 추상적이라 과세 관청이 과세권을 행사할 수 없다.</span><a class="ev-tag ans" href="#q22-4">22-㉮</a></p>
+  <p>납세 의무를 <span class="ev ans" id="ev25">확정해야(납부할 세액·납부 기한 등이 정해지는 것을 확정이라 ⓐ한다)</span><a class="ev-tag ans" href="#q25-1">25-ⓐ</a> 징수할 수 있다. 예외로 ㉠<span class="ev ans" id="ev23a">자동 확정 방식은 성립과 동시에 세액이 정해진다(수입 조기 확보).</span><a class="ev-tag ans" href="#q23-5">23-㉠</a></p>
+  <p>절차에 따른 확정엔 ㉡신고 납세·㉢부과 과세가 있다. <span class="ev" id="ev23b">㉡신고 납세 방식은 납세자가 스스로 세액을 계산·신고해 확정(더 민주적), 1차 확정권은 납세자에게.</span><a class="ev-tag" href="#q23-2">23-㉡</a> 미신고·위반 시 세무조사로 과세 관청이 2차 확정한다.</p>
+  <p><span class="ev ans" id="ev23c">㉢부과 과세 방식은 확정권이 과세 관청에만 있고, 납세자의 신고는 협력 의무일 뿐. 과세 관청이 세액을 결정·통지해 ‘납세 고지서가 도달했을 때’ 확정 효력이 생긴다(증여세·상속세).</span><a class="ev-tag ans" href="#q23-5">23-㉢</a></p>
+  <p>적게 신고하면 <span class="ev" id="ev24-1">수정 신고(법정 신고 기한까지 제출한 경우에 한해, 기한으로부터 2년 전 하면 과소 신고 가산세 감면)</span><a class="ev-tag" href="#q24-1">24-①·②</a>, 많이 신고하면 <span class="ev" id="ev24-3">경정 청구(법정 신고 기한으로부터 5년 전, 경정 통지 전까지)</span><a class="ev-tag" href="#q24-3">24-③</a>를 한다.</p>
+  <p><span class="ev ans" id="ev21-3">확정된 세금은 누구든 납부하면 소멸하고, 납부 못 해도 다른 세금의 환급금이 있으면 과세 관청 직권으로 미납 세금에 충당해 소멸하기도 한다.</span><a class="ev-tag ans" href="#q21-3">21-③·④</a></p>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. 윗글의 내용과 일치하는 것은?</p>
+  <ul class="q-opts">
+    <li id="q21-1">① 증여세와 상속세는 납세 의무자가 탈루할 가능성이 없다.</li>
+    <li id="q21-2">② 세금의 대상이 되는 물건의 법정 비율을 과세 표준이라고 한다.<a class="src-tag" href="#ev21-2">지문 근거</a></li>
+    <li id="q21-3">③ 과세 관청은 납세 의무자의 환급금을 미납 세금에 충당할 수 있다.<a class="src-tag ans" href="#ev21-3">정답 근거</a></li>
+    <li id="q21-4">④ 납세 의무는 타인이 세금을 납부한 경우에는 소멸하지 않는다.<a class="src-tag" href="#ev21-3">지문 근거</a></li>
+    <li id="q21-5">⑤ 국가는 납세 의무자에게 대가를 지급하고 그에 상응하게 세금을 징수한다.<a class="src-tag" href="#ev21-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글과 ‘일치하는’ 것을 고른다(나머지는 어긋남).</p>
+        <p>7문단: 납부하지 못해도 다른 세금의 <strong>환급금을 미납 세금에 직권 충당</strong>할 수 있다. ③이 일치한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>불일치</td><td>증여·상속세는 탈루 위험 ‘높음’.</td></tr>
+          <tr><td>②</td><td>불일치</td><td>법정 비율=세율(과세 표준=수량·금액).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">일치</td><td>환급금 미납 충당.</td></tr>
+          <tr><td>④</td><td>불일치</td><td>누구든 납부하면 소멸.</td></tr>
+          <tr><td>⑤</td><td>불일치</td><td>대가 없이 강제 징수.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. 문맥을 고려할 때 ㉮의 의미로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 국가가 조세 채권을 납세 의무자로부터 징수한 상황을 가리킨다.</li>
+    <li id="q22-2">② 국가가 세금 수입을 조기에 확보할 수 있는 상황을 가리킨다.</li>
+    <li id="q22-3">③ 과세 관청이 의무적으로 세무조사를 해야 하는 상황을 가리킨다.</li>
+    <li id="q22-4">④ 납세 의무자의 납부 세액과 납부 기한 등이 정해지지 않은 상황을 가리킨다.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
+    <li id="q22-5">⑤ 과세 요건 충족으로 과세 관청의 과세권이 자동적으로 성립한 상황을 가리킨다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘추상적인 상태’가 무슨 뜻인지 본다.</p>
+        <p>과세권을 행사하려면 ‘확정’(세액·기한 정해짐)이 있어야 하는데, ㉮는 아직 그 전 단계다. 즉 <strong>납부 세액·기한이 정해지지 않은</strong> 상황을 가리킨다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>징수는 확정 이후.</td></tr>
+          <tr><td>②</td><td>오답</td><td>조기 확보는 자동 확정(㉠) 이야기.</td></tr>
+          <tr><td>③</td><td>오답</td><td>세무조사 의무와 무관.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>세액·기한 미정(추상적).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>성립 단계엔 과세권 행사 불가.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠~㉢에 대해 이해한 것으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠은 ㉡과 달리 납세 의무자가 직접 재정권을 행사할 수 있다.</li>
+    <li id="q23-2">② ㉢은 ㉡과 달리 절차에 따라 확정되기 때문에 더 민주적인 방식이다.<a class="src-tag" href="#ev23b">지문 근거</a></li>
+    <li id="q23-3">③ ㉡과 ㉢ 모두 납세 의무자의 신고는 협력 의무로서 강제성이 없다.</li>
+    <li id="q23-4">④ ㉠에 따라 신고했으나 미달 신고한 경우, 미달 신고액은 ㉡으로 확정된다.</li>
+    <li id="q23-5">⑤ ㉠은 납세 의무가 성립할 때, ㉢은 납세 고지서가 도달할 때 확정 효력이 생긴다.<a class="src-tag ans" href="#ev23a">정답 근거(㉠)</a><a class="src-tag ans" href="#ev23c">정답 근거(㉢)</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 방식의 ‘확정 효력 발생 시점’을 본다.</p>
+        <p>㉠자동 확정은 ‘성립과 동시’, ㉢부과 과세는 ‘납세 고지서 도달 시’ 확정 효력이 생긴다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>㉠은 신고 안 함 → 재정권 행사 X.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘더 민주적’은 ㉡(신고 납세).</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉡ 신고는 1차 확정권(협력 의무 아님).</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉠은 신고 자체가 없음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉠=성립 동시 / ㉢=고지서 도달.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. 윗글을 참고하여 〈보기〉를 이해한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>갑</b>: 프리랜서. 2023.1.1~12.31 소득을 계산해 과세 표준 신고서 제출(소득세=신고 납세). 다음 날 소득 일부 누락을 알게 됨.<br>
+    <b>을</b>: 2024.4.30 상속 개시로 재산 상속. 상속세 신고서 제출(상속세=부과 과세).<br>
+    (갑·을 모두 수정 신고·경정 청구 기간은 남음.)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q24-1">① 갑이 법정 신고 기한을 넘겨 신고했다면, 누락을 알았더라도 원칙적으로 수정 신고를 할 수 없겠군.<a class="src-tag" href="#ev24-1">지문 근거</a></li>
+    <li id="q24-2">② 을이 적게 기재해 제출하고 수정 신고를 안 했다면 과소 신고 가산세가 부과될 수 있겠군.<a class="src-tag" href="#ev24-1">지문 근거</a></li>
+    <li id="q24-3">③ 을이 많이 신고하고 고지서를 받았다면, 법정 신고 기한으로부터 5년 전 경정 청구를 할 수 있겠군.<a class="src-tag" href="#ev24-3">지문 근거</a></li>
+    <li id="q24-4">④ 법정 기한 내 제출 시점에서, 갑과 달리 을은 납세 의무가 확정되지 않았겠군.</li>
+    <li id="q24-5">⑤ 개정 세법이 2024.5.1 시행(경과 규정 없음)되면 갑과 을은 <strong>모두</strong> 개정 이후 세법으로 신고·납부해야겠군.<a class="src-tag ans" href="#ev24-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 갑·을의 ‘납세 의무 성립 시기’로 적용 법령을 가른다.</p>
+        <p>성립 당시 법령이 적용된다. 갑(소득세)은 2023.12.31 성립이라 <strong>개정 전</strong>, 을(상속세)은 2024.4.30 성립이라 개정 전… 그런데 개정 시행이 2024.5.1이므로 둘 다 성립이 그 이전이다. 따라서 ‘갑·을 모두 개정 이후 적용’은 틀리다(특히 갑은 개정 전). ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>수정 신고=법정 기한 내 제출한 경우만.</td></tr>
+          <tr><td>②</td><td>적절</td><td>수정 신고 시 과소 신고 가산세 부과 가능.</td></tr>
+          <tr><td>③</td><td>적절</td><td>경정 청구=5년 내.</td></tr>
+          <tr><td>④</td><td>적절</td><td>을=부과 과세 → 신고만으론 확정 X.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>성립이 시행 전 — 갑은 개정 전 법령 적용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. 문맥상 ⓐ(한다)의 의미와 가장 가까운 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① 저 꽃을 금강초롱이라고 하지.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
+    <li id="q25-2">② 김 노인은 올해 벼 수십 섬을 했다.</li>
+    <li id="q25-3">③ 우리는 내일 다시 만나기로 하고 헤어졌다.</li>
+    <li id="q25-4">④ 그는 시내에서 조그만 음식점을 하나 하고 있다.</li>
+    <li id="q25-5">⑤ 수학여행이라고 하면 제주도가 제일 먼저 생각난다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘…을 확정이라고 한다’의 ‘하다’ 뜻을 본다.</p>
+        <p>ⓐ는 ‘무엇을 무엇으로 <strong>이름 지어 부르다</strong>’의 뜻. 같은 뜻은 ‘금강초롱이라고 하지’의 ①이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>‘하다’ 뜻</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>이름 지어 부르다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>결과를 이루어내다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>그렇게 정하다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>사업체를 경영하다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>화제로 삼다.</td></tr>
         </tbody>
       </table>
     </div>
