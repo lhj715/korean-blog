@@ -12,12 +12,13 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~7번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
   <a href="#set2">4~7 화법·작문</a>
+  <a href="#set3">8~10 작문</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -294,6 +295,133 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
         <tbody>
           <tr class="correct"><td>①</td><td class="ok">정답</td><td>보호 주제(표제) + 비유(부제).</td></tr>
           <tr><td>②~⑤</td><td>오답</td><td>표제가 ‘활용·편리·개념’ 등 4문단과 어긋남.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set3" class="set-anchor"></div>
+
+## 8~10번 작문 · 다목적 운동장 빛·소음 개선 건의문
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘문제(빛·소음) → 대안 → 마무리’ 건의문이다. 대안을 빛·소음으로 나눠 정리하면 된다.</p>
+  <ul>
+    <li><strong>문제</strong> — 24시까지 개방하는 운동장의 조명(밝은 빛)·소음(72dB)으로 주민 불편.</li>
+    <li><strong>빛 대안</strong>(3문단) — 차광판 설치, 조명탑 21시 소등.</li>
+    <li><strong>소음 대안</strong>(4문단) — 소음 자제 현수막, 실시간 소음 알림판.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 8번은 ‘대안을 빛·소음으로 구분’(72dB는 빛이 아니라 소음 수치), 9번은 ‘방음벽 미관은 현수막 이유와 무관’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 학생의 초고이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="src-label">[작문 상황] ○○구청 누리집에 □□공원 다목적 운동장 이용 불편 개선을 건의.</p>
+  <p>저는 □□공원 인근에 사는 고등학생입니다. 공원 내 다목적 운동장의 <strong>조명과 소음</strong>으로 주민들이 불편을 겪고 있어 글을 씁니다. 이 운동장은 다른 지역과 달리 24시까지 개방해 운동 모임이 많습니다.</p>
+  <p>높은 조명탑의 빛이 너무 밝아 암막 커튼·안대를 써 봐도 편히 쉴 수 없어 스트레스가 큽니다. 또 호루라기·공 튕기는 소리·고함이 들려 놀랍니다. 휴대폰으로 소음을 재니 <strong>72dB</strong>이 나왔고, 특히 밤에 더 크게 들립니다.</p>
+  <p><span class="ev" id="ev8">불편 해소를 위해 우선 조명탑 등에 <strong>차광판</strong>을 달고, 조명탑을 <strong>21시에 소등</strong>하기를 건의합니다(가로등이 있어 산책은 가능).</span><a class="ev-tag" href="#q8-5">8-⑤</a></p>
+  <p>또 <strong>소음 자제 현수막</strong>을 부착해 주십시오(현재 현수막은 안전 주의만 안내). 야간 소음이 휴식을 방해한다는 문구를 넣어 주세요. 그리고 <strong>실시간 소음 알림판</strong>을 운영해 이용자가 경각심을 갖게 해 주세요.</p>
+  <div class="seg" id="segA"><p class="seg-label">[A] (마무리, 고쳐쓰기 대상)</p>
+  <p>제가 건의한 내용이 수용되기 어려울 수도 있습니다. 하지만 저의 건의를 수용해 주신다면 제가 저녁에 잘 쉴 수 있을 것입니다. <span class="muted">다목적 운동장의 시설을 현대화시켜 주세요.</span> 감사합니다.</p></div>
+</div>
+
+<div class="q-block" id="prob8">
+  <p class="q-stem">8. ‘학생의 초고’에 활용된 글쓰기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q8-1">① 다목적 운동장의 <strong>빛</strong>에 따른 피해를 구체적 수치로 제시했다.</li>
+    <li id="q8-2">② 운동장이 인기 있는 이유를 구청 관계자의 말을 인용해 제시했다.</li>
+    <li id="q8-3">③ 빛과 소음 문제점을 묻고 답하는 방식으로 서술했다.</li>
+    <li id="q8-4">④ 문제를 일으키는 이용자 행위를 시간적 순서로 서술했다.</li>
+    <li id="q8-5">⑤ 인근 주민이 겪는 불편의 대안을 빛과 소음으로 구분해 제안했다.<a class="src-tag" href="#ev8">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글의 ‘구성 방식’을 본다.</p>
+        <p>3문단은 빛 대안(차광판·소등), 4문단은 소음 대안(현수막·알림판)으로 <strong>빛과 소음을 구분해</strong> 제안한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>72dB은 ‘소음’ 수치(빛 아님).</td></tr>
+          <tr><td>②</td><td>오답</td><td>관계자 말 인용 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>묻고 답하는 방식 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>시간 순서 서술 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>대안을 빛·소음으로 구분.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob9">
+  <p class="q-stem">9. 추가 수집 자료의 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>ㄱ. 통계</b>(ㄱ-1 소음이 건강에 미치는 영향 / ㄱ-2 타 지역 조명탑 소등 시간, 21시가 74%) · <b>ㄴ. 전문가 인터뷰</b>(자정 이후 취침·수면 장애 시 심혈관 질환↑, 빛 퍼짐 최소화하는 ‘바닥 조명’ 제안) · <b>ㄷ. 신문 기사</b>(나무 심기로 빛·소음 차단, 방음벽은 미관상 비선호)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q9-1">① ㄱ-1: 소음이 건강에 미치는 영향을 ‘소음 알림판’ 내용으로 4문단에 추가.</li>
+    <li id="q9-2">② ㄱ-2: 소등 21시가 가장 많다는 내용을 ‘21시 소등’ 근거로 3문단 보강.</li>
+    <li id="q9-3">③ ㄷ: 방음벽이 미관상 좋지 않다는 내용을 ‘현수막 부착’ 이유로 4문단에 추가.</li>
+    <li id="q9-4">④ ㄱ-1·ㄴ: 빛·소음의 건강상 악영향을 ‘주민의 부정적 문제 사례’로 2문단 구체화.</li>
+    <li id="q9-5">⑤ ㄴ·ㄷ: 바닥 조명·나무 심기를 ‘빛 차단 대안’으로 3문단에 추가.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 자료의 내용과 ‘넣을 위치·목적’이 맞는지 본다.</p>
+        <p>‘방음벽이 미관상 좋지 않다’는 ㄷ의 내용은 <strong>현수막 부착의 이유</strong>와 무관하다(현수막은 소음 안내용). ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>소음 영향 → 알림판(4문단).</td></tr>
+          <tr><td>②</td><td>적절</td><td>21시 74% → 소등 근거(3문단).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>방음벽 미관은 현수막과 무관.</td></tr>
+          <tr><td>④</td><td>적절</td><td>건강 악영향 → 문제 사례(2문단).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>바닥 조명·나무 → 빛 차단(3문단).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 〈보기〉는 [A]를 고쳐 쓴 것이다. 반영된 친구의 조언으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 — 고쳐 쓴 [A] &gt;</p>
+    <p>제가 건의한 내용이 구청 예산에 부담이 될 수 있음을 압니다. 하지만 빛·소음 문제 해결을 위한 건의를 수용해 주시면 <b>인근 주민 모두</b> 편안한 저녁을 보낼 수 있습니다. 또한 문제를 해결해 준 ○○구청에 대한 주민들의 <b>애정이 높아지는 효과</b>가 있을 것입니다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q10-1">① 건의 내용과 무관한 내용을 삭제하는 게 어때?</li>
+    <li id="q10-2">② 건의 목적에 부합하는 <strong>새로운 해결 방안을 추가</strong>하는 게 어때?</li>
+    <li id="q10-3">③ 건의가 공동체를 위한 것임을 드러내는 것으로 바꾸는 게 어때?</li>
+    <li id="q10-4">④ 건의를 받는 독자의 예상되는 어려움을 구체적으로 밝히는 게 어때?</li>
+    <li id="q10-5">⑤ 독자가 건의 수용을 통해 얻을 이점을 제시하는 게 어때?</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 고쳐 쓴 글에서 ‘무엇이 바뀌었는지’ 역으로 본다.</p>
+        <p>고친 글은 무관한 문장 삭제(①)·예산 부담 명시(④)·공동체(‘주민 모두’ ③)·이점(‘애정↑’ ⑤)을 반영했다. 그러나 <strong>새로운 해결 방안을 추가</strong>하지는 않았다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘시설 현대화’(무관) 삭제.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>새 해결 방안 추가 없음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘주민 모두’ = 공동체.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘예산 부담’ 명시.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘애정↑ 효과’ = 이점.</td></tr>
         </tbody>
       </table>
     </div>
