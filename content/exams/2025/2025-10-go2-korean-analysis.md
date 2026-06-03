@@ -12,8 +12,22 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-10-14</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
+
+<nav class="set-nav">
+  <a href="#set1">1~3 화법</a>
+  <a href="#set2">4~7 화법·작문</a>
+  <a href="#set3">8~10 작문</a>
+  <a href="#set4">11~15 문법</a>
+  <a href="#set5">16~21 독서(인문)</a>
+  <a href="#set6">22~25 독서(과학·기술)</a>
+  <a href="#set7">26~30 독서(사회)</a>
+  <a href="#set8">31~34 고전소설</a>
+  <a href="#set9">35~38 현대소설</a>
+  <a href="#set10">39~42 고전시가·수필</a>
+  <a href="#set11">43~45 현대시</a>
+</nav>
 
 <div id="set1" class="set-anchor"></div>
 
@@ -1774,6 +1788,137 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
       <div class="trap">
         <div class="trap-head">조심할 점 — 권계의 ‘방향’</div>
         <p>(나)는 ‘무너질 일을 미리 염려하라’고 <strong>권한다</strong>. ⑤는 ‘너무 걱정하지 말라’로 뒤집었다. 같은 소재라도 ‘하라’인지 ‘하지 말라’인지가 정답을 가른다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 현대시 · 「고운 심장」과 「스승의 구두」 — 얼어붙은 밤, 낡아가는 구두
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>두 시 모두 ‘변화’를 말하지만 시대와 태도가 다르다. (가)는 <strong>일제 강점기의 절망 속 희망</strong>, (나)는 <strong>산업화의 빠른 변화에 대한 문제의식</strong>이다.</p>
+  <ul>
+    <li><strong>(가) 신석정 「고운 심장」</strong> — 별·하늘·밤이 모두 얼어붙은 절망. 그래도 ‘고운 심장’을 지닌 ‘너’를 통해 현실 극복의 희망·변화의 염원을 건다.</li>
+    <li><strong>(나) 허수경 「스승의 구두」</strong> — 도시는 ‘하룻밤새’ 건물이 서는데, 스승은 ‘낡은 구두처럼’ 바뀌지 않는다. 빠른 변화를 관찰하며 ‘무엇이 먼저 낡는가’ 묻는다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 44번은 ㉡(‘고요함’ 수식이지 ‘별 때문에 얼어붙음’ 강조 아님), 45번은 ‘스승=변화를 <em>이끄는</em> 인물이 아니라 <em>도외시하지 않는</em> 인물’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="src-label">(가) 신석정, 「고운 심장」</p>
+  <p class="verse">별도<br>하늘도<br>밤도<br>치웁다<br><br>
+  얼어붙은 심장 밑으로 흐르던<br>한 줄기 ㉠<u>가는</u> 어느 난류가 멈추고<br>㉡<u>지치도록 고요한</u> 하늘에 별도 얼어붙어<br><br>
+  하늘이 무너지고<br>지구가 정지하고<br>푸른 별이 ㉢<u>모조리</u> 떨어질지라도<br><br>
+  그래도 서러울 리 없다는 너는<br>오 너는 아직 고운 심장을 지녔거니<br>밤이 이대로 억만 년이야 갈리라구……</p>
+  <p class="muted" style="text-align:right">— 신석정, 「고운 심장」</p>
+
+  <p class="src-label">(나) 허수경, 「스승의 구두」</p>
+  <p class="verse">구두는 ㉣<u>쉴 새 없이</u> 낡아가고<br>장대동 중앙시장에는 새 상가가 들어섰다<br>어깨에 묻어오는 오늘의 피곤이<br>이십 년은 ㉤<u>족히</u> 넘은 스승의 서재에서<br>먼지로 앉고<br>스승은 넥타이를 푼다<br>새로 산 책을 넘긴다<br>스승은 새로운 학문을 수용하고 도시를 다스리는 정의론과<br>인권론과 형평론을 안경 너머로 바라본다<br>눈을 부빈다<br>잠자리에 들어서도 스승은 낡아가고<br>구두는 현관에서 낡아가지만<br>내일도 장대동 중앙시장<br>새로 선 상가를 지나<br>하룻밤새 또 건물을 지은<br>도시의 길을 밟을 것이다<br>
+  <span class="ev" id="ev53">스승은 낡은 구두처럼<br>새 것으로 바뀌지 않는다<br>그러나 새롭게 등장하는 것들을 어깨에 짊어지고<br>스승이 낡아가는 것인가</span><br>
+  새로운 모습으로 다가오는 모든 것들이<br>훨씬은 더 먼저 낡아갈 것인가</p>
+  <p class="muted" style="text-align:right">— 허수경, 「스승의 구두」</p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. (가)와 (나)의 표현상의 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① (가)와 (나) 모두 명사로 시행을 마무리해 여운을 남긴다.</li>
+    <li id="q43-2">② (가)와 (나) 모두 특정 시어를 반복적으로 활용해 시적 상황을 부각한다.</li>
+    <li id="q43-3">③ (가)는 (나)와 달리 의문형 어미로 화자의 정서를 강조한다.</li>
+    <li id="q43-4">④ (나)는 (가)와 달리 하강의 이미지로 배경을 묘사한다.</li>
+    <li id="q43-5">⑤ (나)는 (가)와 달리 청자를 명시적으로 설정해 친근감을 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 시의 ‘공통 표현’을 찾는다.</p>
+        <p>(가)는 ‘별·하늘·밤’을, (나)는 ‘구두·상가·스승’을 <strong>반복</strong>해 시적 상황을 부각한다. 공통점을 짚은 ②가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>모든 시행이 명사 종결 아님.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>특정 시어의 반복(공통).</td></tr>
+          <tr><td>③</td><td>오답</td><td>의문형은 (나)에도 있다(‘∼것인가’).</td></tr>
+          <tr><td>④</td><td>오답</td><td>하강 이미지는 (가)에 두드러진다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>청자 설정은 (가)의 ‘너’가 더 명시적.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① ㉠은 ‘심장 밑’에서 ‘흐르던’ ‘난류’의 미약함을 나타낸다.</li>
+    <li id="q44-2">② ㉡은 ‘하늘’이 ‘별’로 인해 ‘얼어붙’은 정적인 상태를 강조하는 표현이다.</li>
+    <li id="q44-3">③ ㉢은 ‘푸른 별’이 남김없이 ‘떨어질’ 극단적 상황을 나타낸다.</li>
+    <li id="q44-4">④ ㉣은 ‘구두’가 ‘낡아가’는 상황이 지속됨을 나타낸다.</li>
+    <li id="q44-5">⑤ ㉤은 ‘스승의 서재’가 충분히 오래된 공간임을 강조한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 시어가 ‘무엇을 꾸미는지’ 본다.</p>
+        <p>㉡‘지치도록 고요한’은 <strong>하늘의 고요한 정도</strong>를 수식한다. ‘별 때문에 얼어붙은 상태’를 강조하는 표현이 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>㉠</td><td>적절</td><td>‘가는’ = 난류의 미약함.</td></tr>
+          <tr class="correct"><td>㉡</td><td class="ok">부적절</td><td>‘고요함’ 수식이지 ‘별 때문’ 아님.</td></tr>
+          <tr><td>㉢</td><td>적절</td><td>‘모조리’ = 남김없는 극단.</td></tr>
+          <tr><td>㉣</td><td>적절</td><td>‘쉴 새 없이’ = 지속.</td></tr>
+          <tr><td>㉤</td><td>적절</td><td>‘족히’ = 충분히 오래됨.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)는 <b>일제 강점기</b>를, (나)는 <b>산업화 시기</b>를 배경으로 현실과 변화에 대한 인식을 드러낸다. (가)의 화자는 부정적 현실 속에서 상징적 대상을 통해 현실 극복의 희망과 변화의 염원을, (나)의 화자는 급격히 변하는 현실과 그에 대응하는 인물을 <b>관찰</b>하며 변화에 대한 문제의식을 드러낸다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① (가)의 ‘하늘이 무너지고’ ‘지구가 정지’에서 시대적 현실로 인한 절망을 짐작할 수 있다.</li>
+    <li id="q45-2">② (가)의 ‘너’가 ‘아직 고운 심장을 지녔’다는 데서 생명력으로 냉혹한 현실을 극복할 수 있다는 희망을 짐작할 수 있다.</li>
+    <li id="q45-3">③ (나)의 ‘하룻밤새 또 건물’이 지어진다는 데서 빠른 도시화를 짐작할 수 있다.</li>
+    <li id="q45-4">④ (나)의 ‘스승’이 ‘새롭게 등장하는 것들을 어깨에 짊어지’는 데서 변화를 <strong>이끌어 가는</strong> 인물의 모습을 짐작할 수 있다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q45-5">⑤ (가)의 ‘밤이 이대로 억만 년이야 갈리라구’에서 현실 변화의 염원을, (나)의 ‘모든 것들이’ ‘먼저 낡아갈 것인가’에서 새로운 현실도 변할 것이라는 인식을 짐작할 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 스승이 변화를 ‘이끄는가’ ‘버티며 받아들이는가’를 가른다.</p>
+        <p>스승은 새 학문을 수용하지만 ‘낡은 구두처럼 새 것으로 바뀌지 않는다’. 변화를 <strong>도외시하지 않을</strong> 뿐, 변화를 <strong>이끌어 가는</strong> 인물은 아니다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>무너짐·정지 = 절망적 현실.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘고운 심장’ = 극복의 희망.</td></tr>
+          <tr><td>③</td><td>적절</td><td>하룻밤새 건물 = 급격한 도시화.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>변화를 ‘이끄는’ 게 아니라 ‘짊어진 채 낡아감’.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>변화의 염원 / 변화에 대한 문제의식.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘받아들임’ ≠ ‘이끎’</div>
+        <p>스승은 새 학문을 ‘어깨에 짊어진’ 채 <strong>함께 낡아간다</strong>. 변화를 외면하지 않을 뿐, 변화를 주도하는 인물은 아니다. ④는 ‘수용’을 ‘주도’로 부풀린 함정.</p>
       </div>
     </div>
   </details>
