@@ -12,13 +12,14 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
   <a href="#set2">4~7 화법·작문</a>
   <a href="#set3">8~10 작문</a>
+  <a href="#set4">11~15 문법</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -431,6 +432,201 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>비유 없음.</td></tr>
           <tr><td>④</td><td>오답</td><td>청유문 아님(‘가져야 한다’).</td></tr>
           <tr><td>⑤</td><td>오답</td><td>청유문 아님(‘어떨까?’ 의문).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set4" class="set-anchor"></div>
+
+## 11~15번 문법 · 어근·접사 / 음운 변동 / 부사어 / 중세 국어
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>11~12번은 <strong>어근·접사</strong> 지문, 13~15번은 음운 변동·부사어·중세 국어 단독 문항이다.</p>
+  <ul>
+    <li><strong>어근</strong>(실질 의미 중심) + <strong>접사</strong>(의미 더함/제한, 파생). 단어 = 어근+어근 / 어근+접사 / 접사+어근.</li>
+    <li><strong>규칙 어근</strong>(품사 분명·자유 결합) vs <strong>불규칙 어근</strong>(품사 불분명·결합 제약: 아름-, 깨끗-).</li>
+    <li><strong>접두사</strong>(앞, 품사 안 바꿈) / <strong>접미사</strong>(뒤, 품사 바꾸기도: ‘-이’가 동사 ‘먹다’→명사).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 11번은 ‘군살=두 어근’(실제론 접두사 ‘군-’+어근 ‘살’), 13번은 ‘음운 개수 변화 여부’, 15번은 ‘니ᄅᆞ샤=주체 높임 -샤-’(객체 높임 아님)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>어근은 단어에서 실질적 의미를 나타내는 중심 부분, <span class="ev ans" id="ev11-2">접사는 의미를 더하거나 제한하는 주변 부분(파생 접사)이다. ‘헛수고·일꾼’의 ‘수고·일’은 어근, ‘헛-·-꾼’은 접사다.</span><a class="ev-tag ans" href="#q11-2">11-②</a> 구성 요소가 2개면 단어는 ‘어근+어근/어근+접사/접사+어근’ 중 하나다.</p>
+  <p>어근은 <span class="ev" id="ev11-4">규칙 어근(품사가 분명하고 다른 말과 자유롭게 결합)</span><a class="ev-tag" href="#q11-4">11-④</a>과 <span class="ev" id="ev11-5">불규칙 어근(품사가 불분명하고 결합에 제약: ‘아름답다’의 ‘아름-’, ‘깨끗하다’의 ‘깨끗-’)</span><a class="ev-tag" href="#q11-5">11-⑤</a>으로 나뉜다.</p>
+  <p>접사는 위치에 따라 <span class="ev" id="ev11-3">접두사(앞: ‘풋사과’의 ‘풋-’)와 접미사(뒤: ‘덮개’의 ‘-개’)</span><a class="ev-tag" href="#q11-3">11-③</a>로 나뉜다. <span class="ev" id="ev11-1">접두사는 품사에 영향을 주지 않고(‘헛-’+명사=명사, +동사=동사), 접미사는 품사를 바꾸기도 한다(‘-이’가 동사 ‘먹다·벌다’에 붙어 명사).</span><a class="ev-tag" href="#q11-1">11-①</a></p>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 윗글을 통해 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① ‘쌓다’와 ‘쌓이다’의 어근은 동일하다.<a class="src-tag" href="#ev11-1">지문 근거</a></li>
+    <li id="q11-2">② ‘군살’은 두 개의 어근으로 구성된다.<a class="src-tag ans" href="#ev11-2">정답 근거</a></li>
+    <li id="q11-3">③ ‘헛발질’에는 접두사와 접미사가 모두 있다.<a class="src-tag" href="#ev11-3">지문 근거</a></li>
+    <li id="q11-4">④ ‘맨손’의 어근은 다른 말과 자유롭게 결합할 수 있다.<a class="src-tag" href="#ev11-4">지문 근거</a></li>
+    <li id="q11-5">⑤ ‘따뜻하다’의 어근은 품사가 불분명한 불규칙 어근이다.<a class="src-tag" href="#ev11-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘군살’이 어근 둘인지, 접사+어근인지 본다.</p>
+        <p>‘군살’은 접두사 ‘<strong>군-</strong>’ + 어근 ‘살’ 구성(접사+어근)이다. 두 개의 어근이 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>쌓다·쌓이다 어근 모두 ‘쌓-’.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘군-’=접두사 → 접사+어근.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘헛-’(접두)·‘-질’(접미).</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘손’=자유 결합 규칙 어근.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘따뜻-’=불규칙 어근.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글을 바탕으로 〈학습 활동〉의 ⓐ·ⓑ에 들어갈 자료를 바르게 짝지은 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 학습 활동 &gt;</p>
+    <p>분류 흐름 — ① 둘 이상의 어근? → 아니요 ② 접사가 어근 ‘앞’에 붙는가? → 예면 <b>ⓐ</b> / 아니요 ③ 접사가 품사를 ‘형용사’로 바꾸는가? → 아니요면 <b>ⓑ</b>.<br>
+    [자료] 없이, 눈높이, 좁히다, 치솟다, 풋사랑, 슬기롭다</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q12-1">① ⓐ 눈높이·치솟다 / ⓑ 풋사랑·슬기롭다</li>
+    <li id="q12-2">② ⓐ 눈높이·슬기롭다 / ⓑ 없이·좁히다</li>
+    <li id="q12-3">③ ⓐ 좁히다·슬기롭다 / ⓑ 없이·풋사랑</li>
+    <li id="q12-4">④ ⓐ 치솟다·풋사랑 / ⓑ 좁히다·슬기롭다</li>
+    <li id="q12-5">⑤ ⓐ 치솟다·풋사랑 / ⓑ 없이·좁히다<a class="src-tag ans" href="#ev11-3">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 단어를 흐름도의 분기에 차례로 넣는다.</p>
+        <p>ⓐ(접사가 어근 ‘앞’) = <strong>치솟다(치-)·풋사랑(풋-)</strong>. ⓑ(접미사이되 품사를 형용사로 바꾸지 ‘않는’ 것) = <strong>없이(형용사→부사)·좁히다(형용사→동사)</strong>. (‘눈높이’는 어근 둘, ‘슬기롭다’는 명사→형용사라 제외.) ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>단어</th><th>분류</th></tr></thead>
+        <tbody>
+          <tr><td>눈높이</td><td>둘 이상 어근(눈+높-)→ⓐ·ⓑ 아님.</td></tr>
+          <tr><td>치솟다·풋사랑</td><td>접두사(앞)=ⓐ.</td></tr>
+          <tr><td>슬기롭다</td><td>접미사가 형용사로 바꿈(명사→형용사).</td></tr>
+          <tr><td>없이·좁히다</td><td>접미사·형용사로 안 바꿈=ⓑ.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 〈보기〉의 ㉠에 들어갈 내용으로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>단어들: 맏형[마텽], 짧다[짤따], 색연필[생년필] / 불나방[불라방], 붙이다[부치다].<br>
+    ‘<b>㉠</b>’에 따라 앞 묶음(맏형·짧다·색연필)과 뒤 묶음(불나방·붙이다)으로 나뉜다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q13-1">① 음운 변동이 두 번 일어났는가</li>
+    <li id="q13-2">② 음운 변동의 결과가 표기에 반영되었는가</li>
+    <li id="q13-3">③ 모음의 영향을 받는 음운 변동이 일어났는가</li>
+    <li id="q13-4">④ 음운 변동의 결과로 음운 개수가 달라졌는가</li>
+    <li id="q13-5">⑤ 음운 변동의 결과로 인접한 두 음운이 완전히 같아졌는가</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 묶음을 가르는 ‘기준’을 찾는다.</p>
+        <p>맏형(축약)·짧다(탈락)·색연필(첨가)은 음운 <strong>개수가 달라지고</strong>, 불나방·붙이다(교체)는 개수 변화가 없다. 기준은 ‘음운 개수가 달라졌는가’. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>두 번 변동은 짧다·색연필뿐(맏형은 1번).</td></tr>
+          <tr><td>②</td><td>오답</td><td>모두 표기에 반영 안 됨(공통).</td></tr>
+          <tr><td>③</td><td>오답</td><td>붙이다·색연필 모두 ‘ㅣ’ 영향(분류 안 됨).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>축약·탈락·첨가=개수 변화 / 교체=불변.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>완전히 같아짐은 불나방(유음화)만.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 〈보기〉를 참고할 때, ㉠을 분석한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>부사어는 서술어·관형어·다른 부사어, 절·문장 전체를 수식하거나 문장을 연결한다. 형태는 ‘부사 단독 / 체언+조사 / 용언의 활용형’.<br>
+    ㉠ 그는 처음과 같은 마음으로 공부를 했다. 그래서 아주 쉽게 원하는 대학에 합격했다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q14-1">① ‘처음과’는 체언+조사 형태로 관형어를 수식한다.</li>
+    <li id="q14-2">② ‘마음으로’는 체언+조사 형태로 서술어를 수식한다.</li>
+    <li id="q14-3">③ ‘그래서’는 부사 단독으로 문장과 문장을 연결한다.</li>
+    <li id="q14-4">④ ‘아주’는 부사 단독으로 다른 부사어를 수식한다.</li>
+    <li id="q14-5">⑤ ‘쉽게’는 용언의 활용형으로 <strong>관형어</strong>를 수식한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘쉽게’가 무엇을 수식하는지 본다.</p>
+        <p>‘쉽게’는 형용사 ‘쉽다’의 활용형으로 <strong>서술어 ‘합격했다’</strong>를 수식한다. ‘관형어’를 수식한다는 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘처음과’→관형어 ‘같은’ 수식.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘마음으로’→서술어 ‘했다’ 수식.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘그래서’=문장 연결.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘아주’→부사어 ‘쉽게’ 수식.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘쉽게’→서술어 ‘합격했다’ 수식.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. 〈보기〉의 ㉠~㉤에서 알 수 있는 중세 국어의 특징으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt; (석보상절)</p>
+    <p>㉠ ᄢᅢ(때) · ㉡ 世尊ㅅ(세존의) · ㉢ 사ᄅᆞ미라(사람이다) · ㉣ 니ᄅᆞ샤ᄃᆡ(이르시되) · ㉤ 모ᄅᆞᄂᆞᆫ다(모르느냐)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q15-1">① ㉠: 어두자음군(ㅄ류)이 사용되었다.</li>
+    <li id="q15-2">② ㉡: ‘ㅅ’이 관형격 조사로 사용되었다.</li>
+    <li id="q15-3">③ ㉢: 이어적기(연철)가 사용되었다.</li>
+    <li id="q15-4">④ ㉣: <strong>객체 높임</strong> 선어말 어미가 사용되었다.</li>
+    <li id="q15-5">⑤ ㉤: ‘-ㄴ다’가 의문형 어미로 사용되었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘니ᄅᆞ샤’의 ‘-샤-’가 무엇을 높이는지 본다.</p>
+        <p>‘니ᄅᆞ샤ᄃᆡ(이르시되)’의 ‘-샤-’는 <strong>주체 높임</strong> 선어말 어미다. 객체 높임이 아니므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘ᄢᅢ’=어두자음군.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘世尊ㅅ’=관형격 ‘ㅅ’.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘사ᄅᆞ미라’=이어적기.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>‘-샤-’=주체 높임(객체 아님).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘모ᄅᆞᄂᆞᆫ다’=의문형 ‘-ㄴ다’.</td></tr>
         </tbody>
       </table>
     </div>
