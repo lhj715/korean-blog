@@ -12,7 +12,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~37번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -24,6 +24,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set6">21~25 독서(사회)</a>
   <a href="#set7">26~28 현대 소설</a>
   <a href="#set8">29~33 독서(인문)</a>
+  <a href="#set9">34~37 고전 소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1322,6 +1323,160 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>가능</td><td>고르다=선택하다.</td></tr>
           <tr class="correct"><td>④</td><td class="ok">불가</td><td>잇다=연결하다(≠계승하다).</td></tr>
           <tr><td>⑤</td><td>가능</td><td>비추다=투사하다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+## 34~37번 문학(고전 소설) · 작자 미상 〈황운전〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>영웅 황운(부원수)이 도술을 배우고, 원수 설연과 함께 반역자 진권 형제를 토벌하는 영웅 군담 소설이다. 사건 순서와 ‘지략·날씨·지형’ 활용이 핵심.</p>
+  <ul>
+    <li><strong>입산수도</strong> — 황운이 사명산에서 백수 노인(도인)을 만나 팔문둔갑·진법·검술을 배움.</li>
+    <li><strong>웅주 전투</strong> — 원수가 큰비를 예측, 모래 부대로 수도(水道)를 막아 성을 물에 잠기게 함 → 진권 달아남.</li>
+    <li><strong>오주 토벌</strong> — 지도를 보고 매복, ‘궁구막추’ 병법으로 길을 열어 유인 → 진권·진걸 생포.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 34번은 ‘진권=물에 잠겨 달아남’이 맞음, 35번은 ‘㉢=도인임을 깨닫고’(실제론 못 깨달음), 37번은 ‘급습=초월적 능력’(지략·영웅성일 뿐)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[34 ~ 37] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>황운이 집에 와 보니 가속 삼십여 명이 죽고 다 불탔다. 진권의 소행이라 여겨 사명산으로 떠나며, ⓐ<span class="ev ans" id="ev36a">설 소저가 자신의 생사를 몰라 몸을 보전치 못할까 하여 절구 십여 수를 지어 설연의 집 후원에 들이쳤다.</span><a class="ev-tag ans" href="#q36-1">36-ⓐ</a></p>
+  <p>사명산에서 <span class="ev" id="ev34-5">높은 벼랑 위 백수 노인을 만나니, 노인이 동자에게 명해 산령(큰 사자)을 불렀다.</span><a class="ev-tag" href="#q34-5">34-⑤</a> 노인이 ㉠<span class="ev" id="ev35-1">“네 이미 이 산을 지킬진대, 미천한 인간을 이같이 출입하게 함이 옳을쏘냐?” 하고 사자를 꾸짖었다.</span><a class="ev-tag" href="#q35-1">㉠ 35-①</a> 사자가 달려들자 황운이 ㉡<span class="ev" id="ev35-2">“속인이라 해도 어찌 명산에 출입 못 하리오. 너 같은 짐승을 곤충으로 아노라.” 하며 사자를 꾸짖고</span><a class="ev-tag" href="#q35-2">㉡ 35-②</a> 머리를 치니 사자가 사라졌다.</p>
+  <p>황운이 도사의 술법인 줄 알고 ㉢<span class="ev ans" id="ev35-3">“소자는 가긍한 사람으로 사명산 도인을 찾다 길을 잘못 들었사오니 인도하소서.” 하고 도움을 청했다.</span><a class="ev-tag ans" href="#q35-3">㉢ 35-③</a> 노인이 ㉣<span class="ev" id="ev35-4">“그대 재주면 세상이 용납할 것이요, 시절이 태평하거늘 술법을 배워 무엇 하려느뇨?” 물으니,</span><a class="ev-tag" href="#q35-4">㉣ 35-④</a> 황운이 ㉤<span class="ev" id="ev35-5">“헌원씨도 치우의 난을, 주 문왕도 훈족 침입을 당했으니, 태평시절이라도 위태함을 잊지 않음이 옳으니이다.” 하였다.</span><a class="ev-tag" href="#q35-5">㉤ 35-⑤</a> 노인을 따라가 팔문둔갑·진법·검술을 배웠다.</p>
+  <p class="passage-note">[중략] 진권 형제가 반역하자, 황제가 설연을 원수, 황운을 부원수로 삼아 토벌케 한다.</p>
+  <p>원수가 진권을 잡을 계교를 생각하다 ⓑ<span class="ev" id="ev36b">천서 옥갑경을 보다 문득 한 계책을 떠올려, “오월 이십이일 술시에 웅주를 파하리라.” 명하고 팔십만 병에게 모래 부대를 대령케 했다.</span><a class="ev-tag" href="#q36-2">36-ⓑ</a> 술시에 큰비로 평야가 물에 넘치자, 모래 부대로 수도를 막으니 물이 성을 넘었다.</p>
+  <p><span class="ev ans" id="ev34-2">진권이 대경하여 성곽에 올라 물을 피하다, 전선장 양달이 전선으로 구하매 진걸과 겨우 달아났다.</span><a class="ev-tag ans" href="#q34-2">34-②·④</a> 원수가 정병 십만으로 쫓으니, 진권은 동오 청홍성에 웅거했다.</p>
+  <p>원수가 <span class="ev" id="ev37-3">동오 지도를 보고 “십 면에 매복하라” 지시</span><a class="ev-tag" href="#q37-3">37-③</a>하고, 식량이 떨어진 진권이 배수일전으로 싸움을 청하자 <span class="ev" id="ev37-4">“궁구막추라 하니 길을 열어 주고 뒤를 쫓으라.”</span><a class="ev-tag" href="#q37-4">37-④</a> 했다. 진권이 의심해 오주로 달아나자 <span class="ev ans" id="ev37-2">원수가 기고를 세워 급습</span><a class="ev-tag ans" href="#q37-2">37-②</a>, 진걸·진권·양철을 산 채로 잡았다.</p>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. 윗글에 대한 설명으로 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q34-1">① 진걸은 웅주에 머무르다 원수에게 사로잡힌다.</li>
+    <li id="q34-2">② 진권은 성이 물에 잠겨 성을 버리고 달아난다.<a class="src-tag ans" href="#ev34-2">정답 근거</a></li>
+    <li id="q34-3">③ 원수는 큰비가 올 것을 예측하고 백성들과 함께 대피한다.</li>
+    <li id="q34-4">④ 양달은 자신의 안위를 위해 진권에게 닥친 어려움을 외면한다.<a class="src-tag" href="#ev34-2">지문 근거</a></li>
+    <li id="q34-5">⑤ 황운은 청의 동자의 도움으로 벼랑에서 사명산 도인을 만난다.<a class="src-tag" href="#ev34-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글과 일치하는 ‘설명’을 고른다.</p>
+        <p>원수가 수도를 막아 성이 물에 잠기자, 진권은 성을 버리고 달아난다. ②가 적절하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>진걸은 오주에서 잡힘(웅주 X).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">적절</td><td>물에 잠겨 달아남.</td></tr>
+          <tr><td>③</td><td>오답</td><td>대피가 아니라 부대 준비.</td></tr>
+          <tr><td>④</td><td>오답</td><td>양달은 진권을 구함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>백수 노인을 만남(청의 동자 도움 X).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① ㉠: 노인은 자신의 역할을 다하지 못한 사자를 책망하고 있다.<a class="src-tag" href="#ev35-1">지문 근거</a></li>
+    <li id="q35-2">② ㉡: 황운은 사자를 꾸짖음으로써 앞선 노인의 말에 반감을 드러내고 있다.<a class="src-tag" href="#ev35-2">지문 근거</a></li>
+    <li id="q35-3">③ ㉢: 황운은 노인이 사명산 도인임을 <strong>깨닫고</strong> 자신의 요구를 직접 드러내고 있다.<a class="src-tag ans" href="#ev35-3">정답 근거</a></li>
+    <li id="q35-4">④ ㉣: 노인은 황운의 능력이 충분함에도 술법을 배우려는 이유를 묻고 있다.<a class="src-tag" href="#ev35-4">지문 근거</a></li>
+    <li id="q35-5">⑤ ㉤: 황운은 고사를 활용해 태평한 시절에도 위태로움에 대비함이 필요함을 언급하고 있다.<a class="src-tag" href="#ev35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉢ 시점에 황운이 노인의 정체를 ‘알았는지’ 본다.</p>
+        <p>㉢에서 황운은 노인이 사명산 도인임을 <strong>아직 깨닫지 못한 채</strong> 길을 잃었다며 도움을 청한다(도인인 줄은 ‘나를 따라 오라’ 이후 깨달음). ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>역할 못한 사자 책망.</td></tr>
+          <tr><td>②</td><td>적절</td><td>사자 꾸짖음=노인 말에 반감.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>도인임을 아직 못 깨달음.</td></tr>
+          <tr><td>④</td><td>적절</td><td>충분한 재주에도 이유 물음.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>헌원씨·문왕 고사로 대비 강조.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. ⓐ(절구 십여 수), ⓑ(천서 옥갑경)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① ⓐ는 황운이 설연에게 자신의 안부를 알리기 위한 수단이다.<a class="src-tag ans" href="#ev36a">정답 근거</a></li>
+    <li id="q36-2">② ⓑ는 원수가 진권에게 자신의 의도를 숨기는 역할을 한다.<a class="src-tag" href="#ev36b">지문 근거</a></li>
+    <li id="q36-3">③ ⓐ는 황운이, ⓑ는 원수가 상대방과 한 약속을 일깨워 주는 역할을 한다.</li>
+    <li id="q36-4">④ ⓐ는 자신의 상황을, ⓑ는 원수가 장졸에게 자신의 경험을 알려주는 역할을 한다.</li>
+    <li id="q36-5">⑤ ⓐ와 ⓑ는 각각 앞으로 일어날 일의 위험을 알려주는 기능을 한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ·ⓑ가 각각 무슨 역할을 하는지 본다.</p>
+        <p>ⓐ ‘절구 십여 수’는 떠나는 황운이 걱정할 설연에게 <strong>자신의 안부(생사)를 알리는</strong> 수단이다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ=설연에게 안부 전달.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓑ는 원수의 계책 착상 계기(진권에게 숨김 X).</td></tr>
+          <tr><td>③</td><td>오답</td><td>약속 일깨움 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓑ는 경험 전달 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>위험 예고 기능 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>영웅소설에서 주인공은 조력자의 도움이나 초월적 능력으로 영웅성을 부각한다. 이 작품은 그 일반적 특징에 더해, 병법·날씨·지형 같은 지리적 요소로 문제를 해결하는 모습이 부각돼 흥미가 고조되고, 적대자를 궁지로 모는 과정에서 서사적 긴장감도 드러난다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q37-1">① 황운이 도인에게 ‘팔문둔갑과 진법과 검술을 배우’는 데서 조력자의 도움이라는 일반적 특징이 드러난다.<a class="src-tag" href="#ev35-3">지문 근거</a></li>
+    <li id="q37-2">② 원수가 ‘정병 십만을 모’으고 ‘기고를 세워 급습하’는 데서 <strong>초월적인 능력</strong>을 발휘하는 영웅성이 드러난다.<a class="src-tag ans" href="#ev37-2">정답 근거</a></li>
+    <li id="q37-3">③ 원수가 ‘동오 지도’를 보고 ‘십 면에 매복하’라 지시하는 데서 지리적 요소 활용의 비범함이 드러난다.<a class="src-tag" href="#ev37-3">지문 근거</a></li>
+    <li id="q37-4">④ ‘싸움을 청’한 진권에게 ‘궁구막추’로 대응하는 데서 주인공의 지략이 부각된다.<a class="src-tag" href="#ev37-4">지문 근거</a></li>
+    <li id="q37-5">⑤ ‘웅주’에서 ‘오주’까지 이어진 전투에서 주인공과 적대자 간 서사적 긴장감이 드러난다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 급습이 ‘초월적 능력’인지 본다.</p>
+        <p>정병을 모아 급습하는 것은 원수의 영웅성·지략을 보여 줄 뿐, 도술 같은 <strong>초월적 능력</strong>의 발휘는 아니다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>도인에게 술법 배움=조력자 도움.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>급습=지략·영웅성(초월 능력 X).</td></tr>
+          <tr><td>③</td><td>적절</td><td>지도→매복=지리 활용.</td></tr>
+          <tr><td>④</td><td>적절</td><td>궁구막추=지략.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>웅주~오주 추격=서사적 긴장.</td></tr>
         </tbody>
       </table>
     </div>
