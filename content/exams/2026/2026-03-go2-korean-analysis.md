@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -1262,6 +1262,130 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
       <div class="trap">
         <div class="trap-head">조심할 점 — 고쳐쓰기는 ‘차이’가 답</div>
         <p>고쳐쓰기 문제는 <strong>두 글을 겹쳐</strong> 무엇이 빠지고(체력 문장) 무엇이 더해졌는지(방안 요약)를 본다. 두 동작을 모두 만족하는 ④가 정답이다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (31~33번 · 문학, 고전소설)
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 33] 작자 미상, 「김학공전」.<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다. (작품은 핵심 장면 발췌)</span></p>
+  <p>노비들이 학공을 죽이려 잔치를 벌이자, 아내 별선이 음모를 알리고 함께 슬퍼한다. 별선은 학공을 살릴 계책을 낸다 — 서로 옷과 머리 모양을 바꾸어 어두운 밤에 자신이 대신 죽고, 학공은 여장하여 도망치라는 것이다.</p>
+  <p class="dlg">별선: “… <span class="ev" id="ev47">오직 내 몸을 바꾸어 죽을 것이오니 낭군은 조금도 염려 마옵소서.</span><a class="ev-tag" href="#q33-3">33-③</a> … 물가에 앉아 슬피 울면 <span class="ev" id="ev45">물 지키는 관리가 배를 타고 올 것이니, ‘부친의 부음을 만나 가야 하니 물을 건너게 해 달라’ 애걸하면 물을 건너게 해 줄 것입니다.</span><a class="ev-tag" href="#q31-4">31-④</a> 육지에 나가거든 공부에 힘써 입신양명하여 부모의 원수와 첩의 원수를 갚아 주소서.”</p>
+  <p class="muted">[중략] 별선은 학공 대신 죽고, 학공은 황 승상의 양아들이 되어 새로 장가를 가게 된다.</p>
+  <p>혼례 날 밤, 별선이 비몽사몽간에 젖은 옷을 입고 나타나 “이 방이 누구 방이라고 누웠으며…” 하고 원망하다가, <span class="ev" id="ev46">㉠ “어찌 떨어진 꽃을 생각하고 새로 피는 꽃을 돌아보지 아니하오리까?”</span><a class="ev-tag" href="#q32-5">32-⑤</a> 하며 새 인연을 받아들이라 이른다. 이후 다시 꿈에 나타나 “황성에서 과거를 보인다”는 소식을 전하며 원수를 갚으라 한다. 학공이 과거에 나아가 일필휘지하니 문장은 이태백, 필법은 왕희지였다.</p>
+</div>
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>고전소설은 <strong>인물의 관계와 행위의 의도</strong>를 잡는다. 핵심은 <strong>별선의 자기희생적 조력</strong> — 계책으로 학공을 살리고(생전), 죽은 뒤에도 꿈에 나타나 과거 소식을 전한다(사후 개입).</p>
+  <ul>
+    <li><strong>별선의 조력 방식</strong> — ① 해결 방안(옷 바꿔 죽기) 제시 ② 사후 꿈으로 개입(새 인연 수용·과거 소식). ‘초월적 능력’과는 구분된다.</li>
+    <li><strong>㉠ 떨어진 꽃 / 새 꽃</strong> — 죽은 자신(떨어진 꽃) 대신 새 신부(새 꽃)를 받아들이라는 <em>이해·당부</em>.</li>
+  </ul>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글의 내용에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 학공은 별선의 만류에도 복수를 위해 잔치에 참석하였다.</li>
+    <li id="q31-2">② 별선은 잔치에 다녀온 학공에게 자신의 잘못을 고백하고 용서를 구한다.</li>
+    <li id="q31-3">③ 별선은 학공과 자신이 같은 날 밤 죽임을 당할 것이라 생각해 슬퍼한다.</li>
+    <li id="q31-4">④ 학공이 부친의 부음을 핑계로 애걸하면 물 지키는 관리가 도와줄 것이라고 별선은 생각한다.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q31-5">⑤ 학공은 신방에 든 신부의 아름다운 모습에 감탄한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지를 본문과 1:1로 대조한다. 누가·무엇을·왜 했는지 사실 관계를 확인한다.</p>
+        <p>별선은 계책에서 “부친의 부음을 핑계로 애걸하면 물 지키는 관리가 물을 건너게 해 줄 것”이라 말한다. ④가 본문과 일치한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>학공은 이미 잔치에 다녀온 상태로 서술된다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>별선은 잘못 고백이 아니라 음모를 ‘알린다’.</td></tr>
+          <tr><td>③</td><td>오답</td><td>같은 날 죽는 게 아니라 별선이 ‘대신’ 죽으려 한다.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>관리가 도와줄 것이라는 별선의 계책과 일치.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>신부 감탄이 아니라 죽은 별선 생각에 잠긴다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. ‘별선’이 ㉠을 통해 말하고자 하는 바로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① 앞으로 학공에게 나타나지 않겠다.</li>
+    <li id="q32-2">② 학공이 평생 자신을 잊지 말기를 바란다.</li>
+    <li id="q32-3">③ 학공에게 미래에 좋은 일이 생길 것이다.</li>
+    <li id="q32-4">④ 꿈에서나마 학공을 만날 수 있어 기쁘다.</li>
+    <li id="q32-5">⑤ 학공이 새 신부를 맞이한 것을 이해한다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 비유(㉠)의 원관념을 문맥에서 푼다. ‘떨어진 꽃=죽은 별선’, ‘새 꽃=새 신부’.</p>
+        <p>㉠은 “떨어진 꽃(나)을 생각하느라 새 꽃(새 신부)을 외면하지 말라”는 뜻이다. 즉 학공이 새 신부를 맞은 것을 <strong>이해·용인</strong>한다는 말이다. ⑤가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>이후에도 꿈에 다시 나타난다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘잊지 말라’는 다른 대목의 정서이고 ㉠의 핵심은 아니다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>미래 길조 예언이 아니다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>만남의 기쁨을 표현한 말이 아니다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>새 꽃(새 신부)을 돌아보라 → 새 인연 수용·이해.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 비유는 원관념으로 환원</div>
+        <p>‘꽃’을 글자대로 읽으면 ②(잊지 말라)에 끌린다. ㉠ 직전 ‘탐화봉접’ 맥락을 보면 ‘새 꽃을 돌아보라=새 신부 수용’이 핵심이다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 〈학습 활동〉을 수행한 결과로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 학습 활동 &gt;</p>
+    <p>ⓐ <b>서사 구조</b>: 비범한 탄생 → 죽음의 위기 → 조력자의 도움 → 위기 극복 → 개인 목표·사회적 위업 달성<br>ⓑ <b>시대 배경</b>: 조선 후기 신분 질서의 동요<br>ⓒ <b>조력 방식</b>: 해결 방안 제시 · 초월적 능력 발휘 · 죽음 이후 개입</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q33-1">① ‘모친과 동생의 원수를 갚지 못하고’ 슬퍼함 → ⓐ: 원수 갚기가 학공의 개인적 목표.</li>
+    <li id="q33-2">② ‘노비의 손에 죽나이다’ → ⓑ: 신분 질서가 흔들리던 조선 후기 사회상.</li>
+    <li id="q33-3">③ 별선이 ‘내 몸을 바꾸어 죽을 것’이라 함 → ⓒ: 별선이 ‘초월적 능력’을 발휘하는 조력자임.<a class="src-tag" href="#ev47">지문 근거</a></li>
+    <li id="q33-4">④ 별선이 꿈에서 ‘과거를 보인다’를 알려 줌 → ⓒ: 사후에도 삶에 개입하는 조력자.</li>
+    <li id="q33-5">⑤ 답안이 ‘문장은 이태백, 필법은 왕희지’ → ⓐ: 사회적 위업을 달성할 능력을 갖춤.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 본문 근거를 ⓐ·ⓑ·ⓒ의 <strong>해당 항목</strong>에 바르게 연결했는지 본다. 같은 ⓒ라도 ‘초월적 능력’인지 ‘해결 방안 제시’인지 구분이 핵심.</p>
+        <p>‘몸을 바꾸어 죽겠다’는 것은 ⓒ의 ‘<strong>해결 방안 제시</strong>’에 해당하지 ‘초월적 능력’이 아니다. 옷을 바꿔 대신 죽는 것은 인간적 계책일 뿐이다. 따라서 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>원수 갚기 = 개인적 목표(ⓐ).</td></tr>
+          <tr><td>②</td><td>적절</td><td>노비의 손에 죽음 = 신분 동요(ⓑ).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>몸 바꿔 죽기는 ‘해결 방안 제시’이지 초월적 능력이 아니다.</td></tr>
+          <tr><td>④</td><td>적절</td><td>꿈으로 과거 소식 = 죽음 이후 개입(ⓒ).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>뛰어난 글솜씨 = 사회적 위업 능력(ⓐ).</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 같은 ⓒ 안에서 갈린다</div>
+        <p>ⓒ에는 ‘해결 방안·초월적 능력·사후 개입’ 세 가지가 있다. ③은 ⓒ에 연결은 맞지만 <strong>세부 항목(초월적 능력)</strong>을 잘못 골랐다. 보기 항목의 하위 갈래까지 확인한다.</p>
       </div>
     </div>
   </details>
