@@ -12,7 +12,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~38번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -25,6 +25,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set7">26~30 독서(사회)</a>
   <a href="#set8">31~33 고전 시가</a>
   <a href="#set9">34~38 갈래 복합</a>
+  <a href="#set10">39~42 현대 소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1508,6 +1509,160 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>두려움 표현 아님.</td></tr>
           <tr><td>④</td><td>오답</td><td>자기반성 내용 없음.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>‘모두를 그치게’ 하려는 의지 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 39~42번 문학(현대 소설) · 이태준 〈점경〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>1930년대 경성을 떠도는 헐벗은 아이의 ‘시선’으로 도시의 비인간성을 비추는 소설이다. 작품 밖 서술자가 아이의 내면을 따라간다.</p>
+  <ul>
+    <li><strong>백화점</strong> — 4원 20전짜리 과자 곽 → 죽은 어머니 환상 → 전차 소리에 현실로.</li>
+    <li><strong>탑동 공원</strong> — 배 껍질을 노리다 좌절(여덟팔자수염 어른의 멸시), 서양인 활동사진·은전 한 닢을 둘러싼 어른들의 행동을 보며 ‘무슨 까닭일까’ 질문.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 41번은 ‘전차 소리=환상↔현실’, 42번은 ‘아이가 가족 구분을 낯설어한다’(서술자 시점이며 아이는 구분을 인식 못함)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[39 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p class="passage-note">[앞부분 줄거리] 한 아이가 경성 화신 백화점 진열창 안을 기웃거리다 쫓겨난다.</p>
+  <p>‘뭐! 사 원 이십 전! 저것 한 곽에!’ <span class="ev ans" id="ev39">아이는 멍청하니 서서 지전 넉 장하고 십 전짜리 두 닢을 생각해 보았다.</span><a class="ev-tag ans" href="#q39-2">39-②</a> 그 돈을 생각하는 마음은 지저분한 추억을 일으켰다 — <span class="ev" id="ev40-1">한 달 팔십 전씩 석 달치 월사금 이 원 사십 전이 변통되지 않아 우등으로 육 학년에 올랐으나 보통학교를 그만둔 것,</span><a class="ev-tag" href="#q40-1">40-①</a> 아버지가 장날 읍 바닥에서 상투를 끄들리고 뺨 맞던 것, 어머니가 동생을 낳다 약값 외상 때문에 의사가 안 와 돌아가신 것……. 아이는 눈물이 핑 어려, 울긋불긋한 과자 곽들이 극락에서 비단옷 입은 어머니로 보였다.</p>
+  <p>‘엄마!’ … ‘이 돈으로 어서 뭐든지 사 뭐.’ 하는 소리가 또렷이 들리는 것 같아 “어디? 어머니?” 하고 둘러보면 <span class="ev ans" id="ev41">어머니는 간데없고 요란한 전차 소리만 귀를 때린다.</span><a class="ev-tag ans" href="#q41-5">41-⑤</a></p>
+  <p>아이는 향방 없이 걷다 탑동 공원까지 갔다. <span class="ev" id="ev40-2">팔각정이 조선어 독본에서 본 기억이 났고, 공원은 아무나 들어가 쉬는 데라는 생각이 나서 기웃거리지도 않고 들어갔다.</span><a class="ev-tag" href="#q40-2">40-②</a></p>
+  <p>실과 광주리들 앞 — 양복 한 사람이 사과 껍질을 늘어뜨리며 깎고, 그 밑에서 <span class="ev" id="ev40-3">자기보다 더 헐벗은 아이가 손을 벌려 껍질을 받으려 섰는 것</span><a class="ev-tag" href="#q40-3">40-③</a>을 보고서야 모두가 꿈도 그림도 아닌 줄 깨달았다. 그 입들을 보고서야 바짝 말랐던 입안에 침기가 서리고 목젖이 늘름거렸다. ‘쟤처럼 껍질이라도 먹었으면!’</p>
+  <p>배를 깎는 사람(여덟팔자수염) 곁으로 갔으나 아이의 손은 저도 모르게 뒷짐이 져졌다. ‘껍질이라도 주었으면!’ 하는데 그 수염이 찡긋하더니 — 두껍게 벗긴 배 껍질은 흙에 떨어졌고, <span class="ev" id="ev42-2">그 사람은 넓적한 구둣발로 그것을 짓이기고 ‘요걸 바라구 섰어?’ 하는 멸시를 던졌다.</span><a class="ev-tag" href="#q42-2">42-②</a> ‘자기가 먹지 않고 버리는 건데 남두 못 먹게 할 게 무언가?’</p>
+  <p>키 큰 서양 사람 남녀 — <span class="ev" id="ev40-4">남편인 듯한 사람이 새까만 가죽갑의 유리알을 아이에게 향하고 손잡이를 돌리는 소리</span><a class="ev-tag" href="#q40-4">40-④</a>였다. <span class="ev ans" id="ev40-5">그 유리알은 자기와 더 헐벗은 아이를 번갈아 향했고, 아이는 그 눈알이 쏠 때마다 왜 그런지 무섭다.</span><a class="ev-tag ans" href="#q40-5">40-⑤</a> <span class="ev" id="ev42-3">아이들은 그게 활동사진 기계인 줄, 서양 사람들이 본국의 행복된 가족에게 보일 것인 줄은 알 리 없다.</span><a class="ev-tag" href="#q42-3">42-③</a></p>
+  <p>서양 여자가 은전 한 닢을 던지자 ‘돈!’ — <span class="ev" id="ev42-4">아이는 비수 같은 의식이 머릿속을 스치자 나는 듯 달려들었다.</span><a class="ev-tag" href="#q42-4">42-④</a> 그러나 지까다비 신은 어른이 먼저 백동전을 발로 덮쳤다. 그는 돈은 얼른 안 집고 서양 사람을 멱살 잡을 듯 노렸고, 부부가 떠나자 <span class="ev" id="ev42-5">돈을 집어 무어라 중얼거리며 한길 쪽으로 보이지도 않게 팔매를 쳐 버렸다.</span><a class="ev-tag" href="#q42-5">42-⑤</a> ‘웬일일까? 웬 사람인데 심사가 그 지경일까?’ 아이는 이것도 모를 일이었다.</p>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. 윗글에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① 서술자를 교체하여 사건을 새로운 국면으로 전환하고 있다.</li>
+    <li id="q39-2">② 서술자가 특정 인물의 심리와 의식에 초점을 맞추어 서사를 전개하고 있다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
+    <li id="q39-3">③ 서술자가 간접 인용을 반복적으로 활용하여 인물의 행적을 서술하고 있다.</li>
+    <li id="q39-4">④ 서술자가 동시적 사건들을 병치하여 사건에 대한 서로 다른 관점을 드러내고 있다.</li>
+    <li id="q39-5">⑤ 서술자가 자신의 체험을 진술하며 작중 상황에 대한 자신의 판단을 드러내고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 누가, 무엇에 초점을 두고 서술하는지 본다.</p>
+        <p>작품 <strong>밖 서술자</strong>가 아이의 속생각(‘저것 한 곽에!’, 추억, 무서움 등) <strong>심리·의식</strong>을 따라가며 서사를 전개한다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>서술자 교체 없음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>아이의 심리·의식에 초점.</td></tr>
+          <tr><td>③</td><td>오답</td><td>간접 인용 반복으로 행적 서술 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>동시적 사건 병치 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>작품 밖 서술자=체험 진술 불가.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. 윗글에서 확인할 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q40-1">① 우등으로 육 학년에 진학한 아이는 월사금을 구할 수 없어 보통학교를 그만두게 되었다.<a class="src-tag" href="#ev40-1">지문 근거</a></li>
+    <li id="q40-2">② 팔각정에 대한 기억과 공원은 누구나 쉬는 곳이라는 생각 때문에 아이는 기웃거림 없이 탑동 공원으로 들어갔다.<a class="src-tag" href="#ev40-2">지문 근거</a></li>
+    <li id="q40-3">③ ‘웬 양복 한 사람’ 옆에서 ‘자기보다 더 헐벗은 아이’가 사과 껍질을 받아 먹는 것을 본 아이는 허기를 느꼈다.<a class="src-tag" href="#ev40-3">지문 근거</a></li>
+    <li id="q40-4">④ 아이는 ‘남편인 듯한’ 서양 남자가 활동사진 기계의 손잡이를 돌리는 소리를 듣고서야 그것이 자신을 향함을 인식하게 되었다.<a class="src-tag" href="#ev40-4">지문 근거</a></li>
+    <li id="q40-5">⑤ 아이는 유리알이 자신과 ‘저보다 헐벗은 아이’를 번갈아 향하는 것을 알아채고 상대방에게 <strong>경쟁심</strong>을 느꼈다.<a class="src-tag ans" href="#ev40-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 아이가 느낀 감정이 ‘경쟁심’인지 확인한다.</p>
+        <p>유리알이 번갈아 향할 때 아이는 ‘<strong>무섭다</strong>(공포)’고 느낄 뿐, 더 헐벗은 아이에게 경쟁심을 느꼈다는 근거는 없다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>확인</td><td>월사금 못 구해 중퇴.</td></tr>
+          <tr><td>②</td><td>확인</td><td>팔각정 기억+공원 인식.</td></tr>
+          <tr><td>③</td><td>확인</td><td>침기·목젖=허기.</td></tr>
+          <tr><td>④</td><td>확인</td><td>손잡이 돌리는 소리로 인식.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>느낀 감정은 공포(경쟁심 X).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. ‘아이’와 관련지어 ‘전차 소리’에 대해 이해한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q41-1">① 어머니에 대한 회상이 시작됨을 알리는 데 기여한다.</li>
+    <li id="q41-2">② 그리움의 대상을 아버지로부터 어머니로 전환하게 한다.</li>
+    <li id="q41-3">③ 어머니의 기구한 삶의 원인을 깨닫게 하는 근거가 된다.</li>
+    <li id="q41-4">④ 어머니와의 추억이 어린 곳을 떠올리게 하는 계기가 된다.</li>
+    <li id="q41-5">⑤ 어머니가 등장하는 환상과 상반되는 현실을 절감하게 한다.<a class="src-tag ans" href="#ev41">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘전차 소리’가 어느 장면에서 무슨 역할을 하는지 본다.</p>
+        <p>어머니 환상에서 “어디? 어머니?” 하고 둘러보는 순간, 어머니는 간데없고 ‘요란한 전차 소리’가 귀를 때린다. 전차 소리는 환상과 <strong>상반되는 현실</strong>을 절감하게 한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>회상 시작은 과자 가격을 본 뒤.</td></tr>
+          <tr><td>②</td><td>오답</td><td>대상 전환 기능 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>삶의 원인 깨달음은 과자 곽 장면.</td></tr>
+          <tr><td>④</td><td>오답</td><td>추억의 장소 환기 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>환상↔현실의 대비 절감.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>1930년대 경성에서 상품 진열창은 인간 군상을 ‘향유 가능한 부류’와 ‘그렇지 못한 부류’로 나눈다. 이 구분이 낯설던 아이는 도시를 배회하며 이를 체화하고 부족한 것에 본능적으로 반응한다. 아이가 목격한 것과 던지는 질문은 도시의 비인간성을, 또 그 이면을 암시한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q42-1">① ‘사 원 이십 전’ 과자 곽을 본 후 실과들에 욕심조차 못 내는 것으로 보아, 아이는 자신을 향유 불가능한 부류에 포함하고 있군.</li>
+    <li id="q42-2">② 바라던 ‘배 껍질’을 어른이 ‘구둣발로’ 짓이긴 것은, 향유 가능한 부류가 그렇지 않은 부류를 멸시하는 도시의 비인간성을 환기하는군.<a class="src-tag" href="#ev42-2">지문 근거</a></li>
+    <li id="q42-3">③ ‘서양 사람’의 활동사진 기계를 보고도 ‘행복된 가족’을 떠올리지 못하는 것은, 아이가 가족 구분을 <strong>낯설게 여기기 때문</strong>이겠군.<a class="src-tag ans" href="#ev42-3">정답 근거</a></li>
+    <li id="q42-4">④ ‘배 껍질’ 앞에서 주저하던 아이가 ‘돈’에 ‘비수 같은 의식’을 느끼며 달려드는 데서, 부족한 것에 본능적으로 반응함을 알 수 있군.<a class="src-tag" href="#ev42-4">지문 근거</a></li>
+    <li id="q42-5">⑤ ‘여덟팔자수염’ 어른과 ‘지까다비 발의 임자’의 행동에 대한 아이의 질문은, 표면상 유사하나 의도가 다름을 드러내며 비인간성과 그 이면을 암시하는군.<a class="src-tag" href="#ev42-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘행복된 가족을 못 떠올림’이 누구의 시점·인식인지 본다.</p>
+        <p>‘행복된 가족에게 보일 것’이라는 정보는 <strong>서술자의 시점</strong>에서 나온 것이다. 아이는 그 구분 자체를 ‘인식하지 못’할 뿐, 구분을 ‘낯설게 여겨’ 못 떠올리는 게 아니다. ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>욕심조차 못 냄=불가능 부류로 자기규정.</td></tr>
+          <tr><td>②</td><td>적절</td><td>구둣발 짓이김=멸시(비인간성).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>서술자 시점 정보 — 아이는 구분 ‘인식 못함’.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘비수 같은 의식’=본능적 반응.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>두 행동의 의도 차이=비인간성과 이면.</td></tr>
         </tbody>
       </table>
     </div>
