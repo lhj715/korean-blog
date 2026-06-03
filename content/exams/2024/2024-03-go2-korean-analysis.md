@@ -12,7 +12,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -23,6 +23,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set5">16~20 독서(과학)</a>
   <a href="#set6">21~25 독서(인문)</a>
   <a href="#set7">26~30 독서(사회)</a>
+  <a href="#set8">31~33 고전 시가</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1181,6 +1182,139 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>부관만 취소→건축 허가 존속.</td></tr>
           <tr class="correct"><td>④</td><td class="ok">부적절</td><td>부관은 건축 허가용 — 사용 승인과 무관.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>주된 효력 소멸→종속된 부담 의무 소멸.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 31~33번 문학(고전 시가) · 이휘일 〈전가팔곡〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>속세를 떠난 화자가 농촌의 노동을 긍정하는 연시조다. 제1수에서 빈 ‘풍년(年豐)’ 기원이, 제6~8수에서 ‘새벽–낮–저녁(신·오·석)’의 하루로 세분화된다.</p>
+  <ul>
+    <li><strong>제1수(원풍)</strong> — 전원에 묻혀 우국성심으로 풍년을 바람.</li>
+    <li><strong>제6수(신·새벽)</strong> — 밤사이 자란 곡식 보러 밭으로 나가는 기대.</li>
+    <li><strong>제7수(오·낮)</strong> — 고생하는 농부들 먹일 밥·국을 친히 챙김.</li>
+    <li><strong>제8수(석·저녁)</strong> — 일 마치고 귀가하는 만족감.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 31번은 ‘-자꾸나’ 청유형 반복, 32번은 ㉠밭·㉡농부 = ‘풍년을 기대하며 정성 들여 살피는 대상’이 핵심이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 33] 다음 글을 읽고 물음에 답하시오. (옛 표기는 읽기 쉽게 다듬음)<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><b>〈제1수 — 원풍(願豐)〉</b><br>
+  세상에 버린 몸이 밭이랑에 늙어 가니<br>
+  바깥일 내 모르고 하는 일 무슨 일인고<br>
+  이 중의 <span class="ev" id="ev33-5a">우국성심(憂國誠心)은 풍년을 원하노라</span><a class="ev-tag" href="#q33-5">33-⑤</a></p>
+  <p><b>〈제6수 — 신(晨)·새벽〉</b><br>
+  새벽 밝아 오자 <span class="ev" id="ev33-1a">지빠귀가 소리 한다</span><a class="ev-tag" href="#q33-1">33-①</a><br>
+  일어나거라 아이들아 ㉠<span class="ev ans" id="ev32a">밭 보러 가자꾸나</span><a class="ev-tag ans" href="#q32-3">32·㉠</a><br>
+  <span class="ev" id="ev33-4a">밤사이 이슬 기운</span>에 (곡식이) 얼마나 자랐는고 하노라</p>
+  <p><b>〈제7수 — 오(午)·낮〉</b><br>
+  보리밥 지어 담고 풀로 끓인 국을 하여<br>
+  고생하는 ㉡<span class="ev ans" id="ev32b">농부들을 제때에 먹이자꾸나</span><a class="ev-tag ans" href="#q32-3">32·㉡</a><br>
+  아이야 그릇 올려라 <span class="ev" id="ev33-2a">친히 맛보아 보내리라</span><a class="ev-tag" href="#q33-2">33-②</a></p>
+  <p><b>〈제8수 — 석(夕)·저녁〉</b><br>
+  서산에 <span class="ev" id="ev33-1b">해 지고</span> 풀 끝에 <span class="ev" id="ev33-4b">이슬 난다</span><br>
+  <span class="ev ans" id="ev33-3">호미를 둘러 메고 등에 지고 가자꾸나</span><a class="ev-tag ans" href="#q33-3">33-③</a><br>
+  이 중의 <span class="ev" id="ev33-5b">즐거운 뜻을 일러 무엇 하리오</span></p>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 반어적인 표현을 사용하여 시적 상황을 부각하고 있다.</li>
+    <li id="q31-2">② 색채어를 활용하여 시적 대상을 감각적으로 표현하고 있다.</li>
+    <li id="q31-3">③ 자연물을 의인화하여 화자의 정서를 우회적으로 제시하고 있다.</li>
+    <li id="q31-4">④ 계절감이 드러난 소재를 나열하여 시적 분위기를 조성하고 있다.</li>
+    <li id="q31-5">⑤ 권유의 의미를 나타내는 표현을 반복하여 화자의 태도를 강조하고 있다.<a class="src-tag ans" href="#ev32a">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 어떤 ‘표현’이 반복되어 태도를 드러내는지 본다.</p>
+        <p>제6~8수의 중장에 ‘<strong>-자꾸나</strong>’(가자꾸나·먹이자꾸나)라는 청유형이 반복돼, 농사일을 권유하는 화자의 태도가 강조된다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>반어 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>색채어로 감각화한 부분 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>의인화·우회적 정서 표현 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>계절감 소재 나열 없음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘-자꾸나’ 청유형 반복.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. ㉠(밭)과 ㉡(농부들)의 공통점에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① 외부와의 교감을 이끌어 내며 화자가 속세에 관심을 갖게 하는 대상이다.</li>
+    <li id="q32-2">② 생명력을 회복하는 모습을 보여 주어 화자에게 깨달음을 주는 대상이다.</li>
+    <li id="q32-3">③ 풍요로운 농촌의 모습을 기대하며 화자가 정성을 기울여 살피는 대상이다.<a class="src-tag ans" href="#ev32a">정답 근거(㉠)</a><a class="src-tag ans" href="#ev32b">정답 근거(㉡)</a></li>
+    <li id="q32-4">④ 농촌에서의 삶의 기반을 이루며 화자가 내면에 몰입할 수 있도록 돕는 대상이다.</li>
+    <li id="q32-5">⑤ 자신의 한계를 극복하며 변화하는 상황에 적응하여 화자가 본받고자 하는 대상이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠·㉡을 화자가 ‘어떻게 대하는지’ 본다.</p>
+        <p>화자는 밤사이 자란 곡식을 보러 ㉠밭으로 나가고, ㉡농부들을 제때 먹이려 음식을 친히 맛본다. 둘 다 ‘풍년(풍요로운 농촌)’을 기대하며 <strong>정성 들여 살피는</strong> 대상이다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>화자는 바깥일(속세)에 무관심.</td></tr>
+          <tr><td>②</td><td>오답</td><td>생명력 ‘회복’·깨달음 제시 없음.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>풍년 기대+정성 들여 살핌.</td></tr>
+          <tr><td>④</td><td>오답</td><td>내면 몰입이 아니라 외부 농사일에 집중.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>본받음·한계 극복 대상 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 〈보기〉를 참고하여 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>제1수에서 기원되는 ‘풍요로운 한 해’의 시간이 제6~8수에서 ‘새벽–낮–저녁(신·오·석)’으로 세분화되고, 각 수에 농가의 일상이 대응된다. 자연과 인간이 시간에 함께 조응하는 모습은 농가의 일상이 ‘시간의 흐름과 순환’이라는 자연의 순리를 따름을 보여 주며, 특징적 시구 배치와 맞물려 ‘풍년 기원 + 농경 생활의 만족감’이라는 주제를 구현한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q33-1">① 제6수의 ‘지빠귀’와 제8수의 (서산에) 지는 ‘해’는 자연물의 모습이 특정 시간대(새벽·저녁)의 도래에 대응함을 드러낸다.<a class="src-tag" href="#ev33-1a">지문 근거</a></li>
+    <li id="q33-2">② 제7수의 ‘보리밥·국’을 ‘제때에’ 맞춰 ‘친히 맛보아 보내’겠다는 모습은 낮에 대응되는 농가의 일상을 드러낸다.<a class="src-tag" href="#ev33-2a">지문 근거</a></li>
+    <li id="q33-3">③ 제8수에서 ‘호미를 둘러 메고 등에 지고 가’는 화자의 모습은 세분화된 시간을 아우르는 자연물과 자신을 동일시함을 드러낸다.<a class="src-tag ans" href="#ev33-3">정답 근거</a></li>
+    <li id="q33-4">④ 제8수의 ‘풀 끝에’ 난 ‘이슬’은 제6수의 ‘밤사이 이슬’과 연속선상에 있어 시간이 자연의 순환에 조응함을 암시한다.<a class="src-tag" href="#ev33-4b">지문 근거</a></li>
+    <li id="q33-5">⑤ 제1수·제8수 종장 첫 부분 ‘이 중의’는 각각 ‘우국성심’과 ‘즐거운 뜻’에 함축된 주제 의식에 대한 주목을 유도한다.<a class="src-tag" href="#ev33-5b">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 제8수의 귀가 장면이 ‘세분화된 시간 전체’를 아우르는지 본다.</p>
+        <p>‘호미 메고 가’는 모습은 <strong>저녁</strong> 시간에만 해당하는 귀가 장면이다. 새벽–낮–저녁을 아우르는 것도, 자연물과 자신을 동일시하는 것도 아니므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>지빠귀=새벽, 지는 해=저녁.</td></tr>
+          <tr><td>②</td><td>적절</td><td>제때 맞춘 식사=낮 일상.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>저녁 장면일 뿐, 동일시·시간 통합 아님.</td></tr>
+          <tr><td>④</td><td>적절</td><td>이슬=자연의 순환 조응.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘이 중의’=주제 주목 유도.</td></tr>
         </tbody>
       </table>
     </div>
