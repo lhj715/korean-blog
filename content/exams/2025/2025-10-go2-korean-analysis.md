@@ -12,7 +12,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-10-14</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~21번 (작업 중)</strong></div>
 </section>
 
 <div id="set1" class="set-anchor"></div>
@@ -663,6 +663,234 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
         <div class="trap-head">조심할 점 — 2인칭이 1순위</div>
         <p>㉢은 ‘어떤 밥’이라 설명 의문문처럼 보이지만, <strong>주어가 2인칭(‘네’)이면 종류와 무관하게 ‘-ㄴ다’</strong>다. 의미보다 ‘주어’를 먼저 봐야 ‘求ᄒ뇨’ 함정을 피한다.</p>
       </div>
+    </div>
+  </details>
+</div>
+
+<div id="set5" class="set-anchor"></div>
+
+## 16~21번 독서(인문) · 선입견을 보는 두 시선, 데카르트와 하이데거
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가)·(나)는 같은 소재(<strong>선입견</strong>)를 <strong>정반대로</strong> 본다. ‘선입견을 어떻게 보나 → 그래서 교육은 어때야 하나’를 두 사람으로 나눠 표처럼 정리하면 된다.</p>
+  <ul>
+    <li><strong>데카르트(가)</strong> — 선입견은 <em>제거</em> 대상. 의심(방법적 회의)으로 선입견을 걷어내고 ‘사유하는 자아’가 돼 <strong>자기 인식</strong>하는 게 교육.</li>
+    <li><strong>하이데거(나)</strong> — 선입견(선이해)은 이해의 <em>발판</em>. 인간은 ‘현존재’로서 역사·세계 안에서 산다. 교육은 <strong>세계와 분리되지 않은 사유</strong>.</li>
+    <li><strong>공통</strong> — 둘 다 견해를 <strong>‘교육’에 적용</strong>해 설명한다(16번 정답의 핵심).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 17번은 ‘감각의 교정은 이성’(다른 감각 아님), 20번은 ‘과학적 언술=눈앞 모습 서술’(객관 세계 아님)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[16 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="src-label">(가) 데카르트</p>
+  <p>데카르트는 『방법서설』에서 이성을 올바로 사용해 학문의 진리를 구하는 방법을 논하며, 이성적 판단을 ⓐ<u>내리기</u> 위해서는 선입견을 초월해야 한다고 보았다. 선입견은 이성이라는 규준으로 타당성이 입증되지 않은 이해의 총체로, 전통·습관·관습·공동의 의견·다른 사람에게서 배운 지식 등 우리가 처한 삶의 환경을 가리킨다. <span class="ev" id="ev21">데카르트는 선입견을 배제한 상태여야 외부 권위에 의존하지 않은 판단, 즉 비관여적 판단을 통해 진리를 구할 수 있다고 주장한다.</span><a class="ev-tag" href="#q20-1">20-①</a></p>
+  <p>데카르트는 선입견과 이성이 인간의 앎을 지배하려 끝없이 경쟁한다고 보았다. <span class="ev" id="ev22">우리는 스스로 감각한 것을 그대로 신뢰하는 성향이 있어 감각한 현상을 곧 실재라 여기지만, 데카르트는 이를 선입견으로 비판했다. 하나의 감각으로부터의 판단을 교정하는 것은 다른 감각이 아니라 오직 이성이다.</span><a class="ev-tag" href="#q17-3">17-㉰</a></p>
+  <p>데카르트의 관점에서 우리의 판단은 이미 형성된 의견에 종속돼 오류가 생기기 쉽다. 그래서 그는 의심 가능한 모든 것을 의심하는 <strong>방법적 회의</strong>로 선입견을 제거해 ‘사유하는 자아’만 남겨야 한다고 했다. <span class="ev" id="ev24">사유하는 자아가 되면 이성을 규준으로 끊임없이 자신을 성찰하는 자기 인식을 할 수 있는데, 데카르트는 이를 교육의 목적으로 보았다.</span><a class="ev-tag" href="#q19-5">19-⑤</a> 교사의 역할은 지식을 일방적으로 전달하는 것이 아니라 학습자가 자기 인식을 하도록 돕는 데 있다.</p>
+  <p class="src-label">(나) 하이데거</p>
+  <p>하이데거는 인간 존재가 선입견에 제약받는 것이 아니라 이를 발판 ⓒ<u>삼아</u> 이해의 작용을 한다고 보았다. 인간 존재는 앞서 형성된 이해인 선이해(선입견)를 이미 ⓓ<u>가지고</u> 있고, 그것을 바탕으로 지속적으로 이해한다.</p>
+  <p><span class="ev" id="ev25">선입견은 인간 존재가 선입견을 가진 채 세계와 만남을 보여 주며, 세대와 세대가 필연적으로 연결되고 있음을 증명한다.</span><a class="ev-tag" href="#q17-4">17-㉱</a> 하이데거는 세계를 이해한다는 것을 단순한 정신 활동이 아니라 세계에 관여하는 것, 즉 삶의 현장에서 세계와 관련해 무언가를 하는 것이라 보았다. 이때 세계는 사회적 맥락만이 아니라 인간의 직접적 활동 영역, 곧 삶의 포괄적 환경이므로 이해는 필연적으로 실천적 차원을 지닌다.</p>
+  <p>선입견은 인간 존재가 겪어 온 시간 속에서 형성되므로 현재의 이해는 유한한 역사를 바탕으로 한다. <span class="ev" id="ev26">하이데거는 인간 존재를 ‘바로 지금 그곳에 있는 존재’라는 뜻의 ‘현존재’라 부르며, 인간은 늘 특정 역사·사회·관계 등 자신의 삶의 이력을 바탕으로 존재한다.</span><a class="ev-tag" href="#q17-5">17-㉲</a> <span class="ev" id="ev27">㉠이러한 관점에서 매 순간의 이해는 과거의 시간성에 기인한다.</span><a class="ev-tag" href="#q18-4">18-④</a></p>
+  <p>인간 존재는 선입견을 바탕으로 세계를 해석하고, 그로써 선입견을 발전시키며 다시 해석하는 해석의 순환을 겪는다(ⓔ<u>겪는다</u>). 따라서 이해는 하나의 고정된 의미로 완결될 수 없다. <span class="ev" id="ev28">이런 측면에서 하이데거는 객관적 사실로 여겨지는 과학적 언술도 완결되지 않은 조건부 진리이며, 객관적 세계를 나타내는 것이 아니라 지금 눈앞에 있는 모습을 서술하는 것뿐이라고 보았다.</span><a class="ev-tag" href="#q20-5">20-⑤</a></p>
+  <p>하이데거는 ‘숙고’(자신이 포함된 세계와 그 속의 자기 존재를 함께 이해함)로 교육관을 제시했다. 이성 도야 중심의 전통적 교육이 세계와 인간을 분리해 인식하고 세계의 개별성·특수성을 경시했다고 비판하며, <span class="ev" id="ev29">하이데거의 교육은 인간 존재가 세계와 분리되지 않은 채 사유하는 법을 중시한다.</span><a class="ev-tag" href="#q19-5b">19-⑤</a></p>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① (가)와 (나) 모두 선입견에 대한 철학자의 주장을 소개하고 그 한계점을 지적한다.</li>
+    <li id="q16-2">② (가)와 (나) 모두 선입견에 대한 철학자의 견해를 제시하고 이를 특정 분야(교육)에 적용해 설명한다.</li>
+    <li id="q16-3">③ (가)는 (나)와 달리 선입견 이론의 변천 과정을 소개한다.</li>
+    <li id="q16-4">④ (가)는 (나)와 달리 철학자가 제시한 사례를 유형화해 비교한다.</li>
+    <li id="q16-5">⑤ (나)는 (가)와 달리 개념이 시대에 따라 달리 수용된 양상을 설명한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글의 ‘공통 서술 방식’을 찾는다. ‘무엇을 제시하고 → 어디에 적용하나’.</p>
+        <p>(가)는 데카르트, (나)는 하이데거의 선입견 견해를 각각 제시하고, <strong>둘 다 ‘교육’ 분야에 적용</strong>해 설명한다. ②가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>두 글 모두 ‘한계점 지적’은 없다.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>견해 제시 + 교육에 적용(공통).</td></tr>
+          <tr><td>③</td><td>오답</td><td>이론 ‘변천 과정’ 소개 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>사례 ‘유형화·비교’ 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘시대별 수용 양상’ 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. (가), (나)를 읽고 학생이 정리한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 학생의 정리 &gt;</p>
+    <p><b>데카르트</b> — ㉮ 선입견과 이성은 앎을 지배하려 끝없이 경쟁함 / ㉯ 인간의 판단은 이미 형성된 의견에 종속돼 오류가 생기기 쉬움 / ㉰ 하나의 감각으로부터의 판단을 교정하는 것은 이성이 아닌 <b>다른 감각</b>임<br>
+    <b>하이데거</b> — ㉱ 선입견은 세대와 세대가 연결됨을 나타냄 / ㉲ 인간 존재를 ‘현존재’라 지칭함</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q17-1">① ㉮</li>
+    <li id="q17-2">② ㉯</li>
+    <li id="q17-3">③ ㉰<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q17-4">④ ㉱<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q17-5">⑤ ㉲<a class="src-tag" href="#ev26">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 정리가 지문과 맞는지 본다. 특히 ‘무엇이 교정하나’.</p>
+        <p>(가) 2문단은 감각 판단을 교정하는 것이 <strong>다른 감각이 아니라 이성</strong>이라 했다. ㉰는 ‘다른 감각’이라 했으니 적절하지 않다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>항목</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>㉮</td><td>적절</td><td>선입견·이성의 끝없는 경쟁.</td></tr>
+          <tr><td>㉯</td><td>적절</td><td>의견에 종속돼 오류 발생.</td></tr>
+          <tr class="correct"><td>㉰</td><td class="ok">부적절</td><td>교정은 ‘다른 감각’이 아니라 ‘이성’.</td></tr>
+          <tr><td>㉱</td><td>적절</td><td>선입견=세대 연결의 증명.</td></tr>
+          <tr><td>㉲</td><td>적절</td><td>인간 존재=현존재.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. ㉠(매 순간의 이해는 과거의 시간성에 기인한다)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 인간 존재의 유한한 역사는 이해의 작용에 제약이 된다.</li>
+    <li id="q18-2">② 인간 존재는 이해를 위해 특정 역사·사회·관계를 배제해야 한다.</li>
+    <li id="q18-3">③ 이해되는 세계는 삶의 포괄적 환경이 아니라 특정 사회적 맥락이다.</li>
+    <li id="q18-4">④ 이해에 바탕이 되는 선입견은 인간 존재가 겪어 온 삶의 이력으로 형성된다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q18-5">⑤ 이해 작용은 과거에서 시작되므로 현재의 이해는 하나의 고정된 의미로 완결된다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠의 ‘과거의 시간성’이 무슨 뜻인지 푼다.</p>
+        <p>선입견은 인간 존재가 겪어 온 시간(삶의 이력) 속에서 형성되고, 현재의 이해는 그 유한한 역사를 바탕으로 한다. 그래서 ㉠은 ④로 풀린다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>역사는 제약이 아니라 ‘발판’이다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>역사·관계를 ‘배제’하지 않는다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>세계는 삶의 ‘포괄적 환경’이다.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>선입견=삶의 이력으로 형성.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>이해는 고정된 의미로 완결되지 않는다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. ‘교육’에 대한 데카르트와 하이데거의 입장을 비교한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① 데카르트는 교육으로 사유하는 자아에서 벗어나야 한다고, 하이데거는 조건부 진리에서 벗어나야 한다고 보았다.</li>
+    <li id="q19-2">② 데카르트는 교육이 전통·습관대로 이루어져야 한다고, 하이데거는 이성적 능력을 도야해야 한다고 보았다.</li>
+    <li id="q19-3">③ 데카르트는 이성에 의한 판단이 가능하도록, 하이데거는 전통적 교육으로 회귀해야 한다고 보았다.</li>
+    <li id="q19-4">④ 데카르트는 의심 가능한 모든 것을 의심해야 한다고, 하이데거는 이해가 실천적 차원에 머물지 않아야 한다고 보았다.</li>
+    <li id="q19-5">⑤ 데카르트는 교육의 목적이 자기 성찰에 있다고, 하이데거는 학습자가 세계와 분리되지 않은 채 사유하는 것이 중요하다고 보았다.<a class="src-tag" href="#ev24">근거 A</a><a class="src-tag" href="#ev29" id="q19-5b">근거 B</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 사람의 교육관을 각각 정확히 짝지었는지 본다.</p>
+        <p>데카르트는 교육의 목적을 ‘사유하는 자아의 <strong>자기 인식(성찰)</strong>’으로, 하이데거는 ‘세계와 <strong>분리되지 않은 사유</strong>’로 보았다. 둘을 바르게 묶은 ⑤가 정답.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>데카르트는 사유하는 자아를 ‘지향’한다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>데카르트는 전통·습관을 배제한다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>하이데거는 전통적 교육을 비판한다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>하이데거는 이해의 실천적 차원을 인정한다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>자기 성찰 ↔ 세계와 분리되지 않은 사유.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. 〈보기〉(학습 일지)를 데카르트(A)·하이데거(B)의 관점에서 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>수업에서 빛의 굴절을 배웠다. 전에는 굴절한다는 건 알았지만 개념·원리는 몰랐다. 선생님이 물컵 속 막대를 보여 주셨는데, 꺾여 보여 <b>원래 꺾인 막대</b>라고 생각했다. 선생님이 굴절 현상을 설명해 주셔서 개념·원리를 이해했고 그것을 <b>객관적 사실</b>이라 여겼다. 저녁에 수영장에서 보이는 것보다 물이 깊을 수 있다고 생각해 <b>수심을 확인</b>하며 굴절이 내 삶과 관련됨을 알았다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q20-1">① A 관점: 선생님께 배운 굴절 지식은 진리 탐구에서 배제해야 할 선입견이다.<a class="src-tag" href="#ev21">지문 근거</a></li>
+    <li id="q20-2">② A 관점: 막대가 원래 꺾였다고 생각한 것은 감각을 그대로 신뢰하는 성향에 의한 것이다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q20-3">③ B 관점: 굴절 이해를 심화한 것은 해석의 순환 과정을 보여 준다.</li>
+    <li id="q20-4">④ B 관점: 수심을 확인하며 삶과 관련지은 것은 세계를 이해하는 것이다.</li>
+    <li id="q20-5">⑤ B 관점: 객관적 사실이라 여긴 굴절의 개념·원리는, 눈앞의 모습을 서술한 것이 아니라 객관적 세계를 나타낸 것이다.<a class="src-tag" href="#ev28">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — A는 데카르트, B는 하이데거. 각 선지가 그 관점에 맞는지 본다.</p>
+        <p>하이데거는 과학적 언술조차 ‘객관적 세계를 나타내는 게 아니라 <strong>지금 눈앞의 모습을 서술</strong>하는 것’이라 보았다. ⑤는 이를 정반대(‘객관적 세계를 나타낸 것’)로 적었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>배운 지식 = 배제할 선입견(A).</td></tr>
+          <tr><td>②</td><td>적절</td><td>감각 신뢰 성향(A).</td></tr>
+          <tr><td>③</td><td>적절</td><td>이해 심화 = 해석의 순환(B).</td></tr>
+          <tr><td>④</td><td>적절</td><td>삶과 관련지음 = 세계 이해(B).</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>과학적 언술은 ‘눈앞 모습 서술’이다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 하이데거에겐 ‘객관적 세계’가 없다</div>
+        <p>학생은 굴절 원리를 ‘객관적 사실’로 믿었지만, 하이데거 관점에선 그것도 <strong>조건부 진리</strong>(눈앞 모습의 서술)일 뿐이다. ⑤는 학생의 생각을 하이데거의 결론처럼 둔갑시켰다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. 문맥상 ⓐ~ⓔ와 가장 유사한 의미로 쓰인 것은?</p>
+  <ul class="q-opts">
+    <li id="q21-1">① ⓐ(내리기): 올해는 유난히 눈이 많이 <u>내렸다</u>.</li>
+    <li id="q21-2">② ⓑ(말하며): 나는 동생에게 그 사실을 <u>말하러</u> 갔다.</li>
+    <li id="q21-3">③ ⓒ(삼아): 그는 이번 일을 성장의 계기로 <u>삼았다</u>.</li>
+    <li id="q21-4">④ ⓓ(가지고): 나는 밀가루를 <u>가지고</u> 빵을 만들었다.</li>
+    <li id="q21-5">⑤ ⓔ(겪는다): 그는 며칠 동안 손님을 <u>겪느라</u> 고단했다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 밑줄 단어를 ‘바꿔치기’ 해 보고 뜻이 같은 쪽을 고른다.</p>
+        <p>ⓒ‘삼아’와 ③의 ‘삼았다’는 모두 ‘무엇을 무엇이 되게 하거나 여기다’의 뜻이다. 따라서 ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>뜻 비교</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>ⓐ=결정을 짓다 / 보기=눈이 오다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓑ=나타내 보이다 / 보기=말로 알리다.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>둘 다 ‘∼이 되게 하다·여기다’.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓓ=마음에 품다 / 보기=수단·방법.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ⓔ=일을 당해 치르다 / 보기=대접하다.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
