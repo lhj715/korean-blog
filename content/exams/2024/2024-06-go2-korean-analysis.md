@@ -12,11 +12,12 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~3번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~7번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
+  <a href="#set2">4~7 화법·작문</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -140,6 +141,167 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>청중3: 카페인 배경지식 환기.</td></tr>
           <tr><td>④</td><td>적절</td><td>청중1·3 모두 긍정적.</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>아쉬움은 청중3만(청중2는 추론).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set2" class="set-anchor"></div>
+
+## 4~7번 화법·작문 · ‘인공지능 판사 도입’ 토론 → 비평 초고
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 토론 → (나) 청중이 쓴 비평 초고. 토론의 ‘쟁점·발언 방식’과, 그것이 초고에 어떻게 반영됐는지를 짝짓는다.</p>
+  <ul>
+    <li><strong>찬성</strong> — ① 효율(자료 신속 처리) ② 윤리(이해관계 안 얽힘) ③ 공정(감정 X·전문지식·고무줄 판결 방지).</li>
+    <li><strong>반대</strong> — ① 효율 떨어짐(복잡한 사건은 사람 판사 보완 필요) ② 설계자가 인간→비윤리 가능 ③ 기존 판례의 불공정 답습.</li>
+    <li><strong>[A]·[B]·[C]</strong> — 반대 신문 구간. 보고서 자료로 질문해 상대를 압박하는 발언이 핵심.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 4번은 ‘반대=검토가 <b>항상</b> 요구’(실제론 복잡한 경우만), 6번은 ‘(나) 3문단=부작용’(실제론 한계 제시)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[4 ~ 7] (가)는 토론의 일부, (나)는 청중 학생이 쓴 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><b>(가) 토론</b> — 논제 ‘인공지능 판사를 도입해야 한다.’</p>
+  <p><b>찬성1(입론):</b> 도입해야 합니다. ① 판사 수는 제한, 분쟁은 증가 — <span class="ev" id="ev6-2">인공지능 판사는 자료를 신속히 조사해 시간·비용을 절약합니다.</span><a class="ev-tag" href="#q6-2">6-②</a> ② <span class="ev" id="ev4-2">특정 이해관계에 얽히지 않아 뇌물 등 비윤리 문제가 없습니다.</span><a class="ev-tag" href="#q4-2">4-②</a> ③ <span class="ev" id="ev4-4">방대한 법전·판례로 판결, 감정에 흔들릴 여지가 없어 ‘고무줄 판결’을 방지합니다.</span><a class="ev-tag" href="#q4-4">4-④</a></p>
+  <p class="passage-note">[A] (찬성 입론 직후 반대 신문)</p>
+  <p><b>반대2:</b> 시대적 흐름이라 하셨는데, 그 <span class="ev" id="ev5-1">근거를 제시해 주시겠습니까?</span><a class="ev-tag" href="#q5-1">5-①</a> <b>찬성1:</b> 미국·중국·호주가 이미 도입·활용하고, 에스토니아는 2019년부터 소액 사건을 전담해 효율이 올랐습니다.</p>
+  <p class="passage-note">[B] (보고서를 든 반대 신문)</p>
+  <p><b>반대2:</b> <span class="ev ans" id="ev5-5b">○○연구소 보고서에 따르면 자율주행차 도입이 어려운 건 윤리적 딜레마 때문입니다. 인공지능 판사도 그 딜레마를 벗어나지 못하는 것 아닐까요?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a> <b>찬성1:</b> <span class="ev" id="ev5-4">반대 측 의견은 충분히 수긍합니다.</span><a class="ev-tag" href="#q5-4">5-④</a> 하지만 사람 판사도 딜레마에 빠집니다. 누가 더 합리적 판결을 하는지를 물어야 합니다.</p>
+  <p><b>반대1(입론):</b> 반대합니다. <span class="ev ans" id="ev4-1">기존 법전·판례 학습에 기대므로 과거에 없거나 복잡한 사건엔 불완전한 판단을 하고, 이때 사람 판사가 다시 확인·보완해야 해 처음부터 사람이 한 재판보다 효율이 떨어집니다.</span><a class="ev-tag ans" href="#q4-1">4-①</a> 또 <span class="ev" id="ev4-3">알고리즘 설계자가 인간이라 인간의 문제(인종차별 발언 등)에서 자유롭지 못합니다.</span><a class="ev-tag" href="#q4-3">4-③</a> 끝으로 <span class="ev" id="ev4-5">기존 판결의 불공정(음주 감경 등)을 답습합니다.</span><a class="ev-tag" href="#q4-5">4-⑤</a></p>
+  <p class="passage-note">[C] (반대 입론 직후 찬성 신문)</p>
+  <p><b>찬성2:</b> <span class="ev ans" id="ev5-5c">□□대 판결문 분석 보고서에 따르면 대형 범죄·고위 피고일수록 쉽게 집행유예를 받았습니다. 판사가 사람이라 법 감정에 어긋난 판결로 사법 불신을 부른다고 보지 않으십니까?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a> <b>반대1:</b> 그런 경우도 있으나, 더 큰 이유는 양형 기준의 제한이며 책임은 입법부에 있습니다.</p>
+  <p><b>(나) 비평 초고</b> (토론 후 과제)</p>
+  <p>1문단: <span class="ev" id="ev6-1">판사도 인공지능으로 대체하자는 요구 — 국민 법 감정과 동떨어진 재판에 대한 불신이 반영된 것이다.</span><a class="ev-tag" href="#q6-1">6-①</a></p>
+  <p>2문단: <span class="ev" id="ev6-3">자료 조사 시간·비용을 줄여 ‘신속한 재판을 받을 권리’가 보장된다(에스토니아 사례).</span><a class="ev-tag" href="#q6-3">6-②·③</a></p>
+  <p>3문단: <span class="ev ans" id="ev6-4">기존 판례 학습이라 시대 변화를 못 따라가고, 재량·도덕적 가치 판단 업무엔 한계를 지닌다.</span><a class="ev-tag ans" href="#q6-4">6-④</a></p>
+  <p>4문단: <span class="ev" id="ev6-5">시대적 흐름일 수 있으나, 우려를 고려해 우선은 판사 업무의 ‘보조적 수단’으로 받아들이는 것이 바람직하다.</span><a class="ev-tag" href="#q6-5">6-⑤</a></p>
+</div>
+
+<div class="q-block" id="prob4">
+  <p class="q-stem">4. (가)의 입론을 쟁점별로 정리한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q4-1">① [효율] 반대: 인공지능 판사의 판결에는 사람 판사의 검토가 <strong>항상</strong> 요구되므로 절차가 비효율적이다.<a class="src-tag ans" href="#ev4-1">정답 근거</a></li>
+    <li id="q4-2">② [윤리] 찬성: 특정 이해관계에 얽히지 않아 비윤리적 문제를 일으키지 않는다.<a class="src-tag" href="#ev4-2">지문 근거</a></li>
+    <li id="q4-3">③ [윤리] 반대: 인간에 의한 설계 과정에서 비윤리적 관점을 갖게 될 수 있다.<a class="src-tag" href="#ev4-3">지문 근거</a></li>
+    <li id="q4-4">④ [공정] 찬성: 감정에 휘둘리지 않고 전문지식에 근거하여 판결한다.<a class="src-tag" href="#ev4-4">지문 근거</a></li>
+    <li id="q4-5">⑤ [공정] 반대: 기존 판례에 따르므로 불공정한 판결을 할 수 있다.<a class="src-tag" href="#ev4-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 반대 측이 ‘항상’이라고 했는지 본다.</p>
+        <p>반대1은 ‘과거에 없거나 <strong>복잡한 사건</strong>’의 불완전한 판단에 한해 사람 판사가 보완해야 한다고 했다. ‘<strong>항상</strong> 검토가 요구된다’고 한 것은 아니므로 ①의 정리가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>‘항상’ 아님 — 복잡한 사건만 보완.</td></tr>
+          <tr><td>②</td><td>적절</td><td>찬성: 이해관계 안 얽힘.</td></tr>
+          <tr><td>③</td><td>적절</td><td>반대: 설계자 인간→비윤리.</td></tr>
+          <tr><td>④</td><td>적절</td><td>찬성: 감정 X·전문지식.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>반대: 판례 답습→불공정.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob5">
+  <p class="q-stem">5. [A]~[C]에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q5-1">① [A]의 ‘반대2’는 [B]의 ‘반대2’와 달리, 상대측 발언 일부를 재진술한 후 그 내용의 공정성을 검증한다.<a class="src-tag" href="#ev5-1">지문 근거</a></li>
+    <li id="q5-2">② [A]의 ‘찬성1’은 [B]의 ‘찬성1’과 달리, 통계 자료로 상대측 발언의 논리적 오류를 지적한다.</li>
+    <li id="q5-3">③ [A]의 ‘반대2’와 [C]의 ‘찬성2’는 모두, 상대측 발언에 의문을 제기하며 추가 자료를 요청한다.</li>
+    <li id="q5-4">④ [B]의 ‘찬성1’과 [C]의 ‘반대1’은 모두, 상대측 문제 제기를 일부 인정하며 자신의 의견과 절충한다.<a class="src-tag" href="#ev5-4">지문 근거</a></li>
+    <li id="q5-5">⑤ [B]의 ‘반대2’와 [C]의 ‘찬성2’는 모두, 연구 결과를 활용하여 질문함으로써 상대측을 압박한다.<a class="src-tag ans" href="#ev5-5b">정답 근거([B])</a><a class="src-tag ans" href="#ev5-5c">정답 근거([C])</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 발언이 ‘무엇을 활용해 무엇을 하는지’ 본다.</p>
+        <p>[B]의 반대2는 ‘○○연구소 보고서’, [C]의 찬성2는 ‘□□대 보고서’로 — 둘 다 <strong>연구 결과를 활용해 질문</strong>함으로써 상대측을 압박한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>[A]반대2=근거 요청, 공정성 검증 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>[A]찬성1=사례 답변, 통계로 오류 지적 X.</td></tr>
+          <tr><td>③</td><td>오답</td><td>[C]찬성2는 추가 자료 요청 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>일부 인정은 하나 ‘절충’은 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>둘 다 연구 결과 활용 질문→압박.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob6">
+  <p class="q-stem">6. (가)의 토론 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="q6-1">① ‘찬성2’의 반대 신문을 반영해, 1문단에서 인공지능 판사 도입의 사회적 배경을 제시했다.<a class="src-tag" href="#ev6-1">지문 근거</a></li>
+    <li id="q6-2">② ‘찬성1’의 입론을 반영해, 2문단에서 도입의 긍정적 측면을 제시했다.<a class="src-tag" href="#ev6-3">지문 근거</a></li>
+    <li id="q6-3">③ ‘찬성1’의 답변을 반영해, 2문단에서 인공지능 판사 도입 사례를 제시했다.<a class="src-tag" href="#ev6-3">지문 근거</a></li>
+    <li id="q6-4">④ ‘반대1’의 입론을 반영해, 3문단에서 인공지능 판사 도입으로 발생한 <strong>부작용</strong>을 제시했다.<a class="src-tag ans" href="#ev6-4">정답 근거</a></li>
+    <li id="q6-5">⑤ ‘찬성1’과 ‘반대1’의 입론을 반영해, 4문단에서 작성자의 견해를 제시했다.<a class="src-tag" href="#ev6-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 3문단이 ‘부작용’인지 ‘한계’인지 본다.</p>
+        <p>(나) 3문단은 ‘시대 변화를 못 따라감, 재량·도덕 판단의 <strong>한계</strong>’를 제시한 것이지, 도입으로 ‘발생한 부작용’을 제시한 게 아니다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>1문단=사회적 배경(불신).</td></tr>
+          <tr><td>②</td><td>적절</td><td>2문단=긍정 측면(신속한 재판).</td></tr>
+          <tr><td>③</td><td>적절</td><td>2문단=에스토니아 사례.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>3문단=‘한계’ 제시(부작용 X).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>4문단=작성자 견해(보조적 수단).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob7">
+  <p class="q-stem">7. 다음은 (나)의 마지막 문단을 고쳐 쓴 것이다. 반영된 수정 계획으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 고쳐 쓴 글 &gt;</p>
+    <p>…인공지능을 활용하는 것이 바람직하다. <b>주요 쟁점, 기존 판례, 학계 의견 등에 대한 분석·종합을 인공지능이 담당하면, 분쟁 해결 속도를 높이고, 판사는 복잡한 분쟁에 집중해 사법 판단의 질도 높아질 것이다.</b></p>
+  </div>
+  <ul class="q-opts">
+    <li id="q7-1">① 도입에 대한 사회적 요구를 분석적으로 드러내야겠군.</li>
+    <li id="q7-2">② 도입에 대한 상반된 입장을 평가하는 내용을 추가해야겠군.</li>
+    <li id="q7-3">③ 인공지능 기술이 사법 시스템에서 수행할 수 있는 역할을 구체적으로 밝혀야겠군.<a class="src-tag ans" href="#ev6-5">정답 근거</a></li>
+    <li id="q7-4">④ 도입에 대한 전망을 완곡한 표현으로 수정해야겠군.</li>
+    <li id="q7-5">⑤ 활용의 장단점을 나란히 서술해야겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 고친 글이 무엇을 새로 ‘구체화’했는지 본다.</p>
+        <p>‘보조적 수단’이라는 막연한 표현을, 인공지능이 ‘분석·종합을 담당 → 속도↑, 판사는 복잡 분쟁 집중 → 질↑’처럼 <strong>수행 역할을 구체적으로</strong> 밝혔다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>사회적 요구 분석 추가 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>상반된 입장 평가 추가 아님.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>인공지능의 수행 역할 구체화.</td></tr>
+          <tr><td>④</td><td>오답</td><td>오히려 ‘흐름이다’로 단정(완곡 X).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>장단점 나열 아님.</td></tr>
         </tbody>
       </table>
     </div>
