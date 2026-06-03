@@ -12,7 +12,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~37번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -25,6 +25,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set7">26~28 현대 소설</a>
   <a href="#set8">29~33 독서(인문)</a>
   <a href="#set9">34~37 고전 소설</a>
+  <a href="#set10">38~42 독서(기술)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1477,6 +1478,194 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>지도→매복=지리 활용.</td></tr>
           <tr><td>④</td><td>적절</td><td>궁구막추=지략.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>웅주~오주 추격=서사적 긴장.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 38~42번 독서(기술) · 페로브스카이트 태양전지
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>유·무기 하이브리드 태양전지의 ‘층 구조’와 빛 → 전자·정공 → 전류의 흐름을 따라가면 된다.</p>
+  <ul>
+    <li><strong>페로브스카이트</strong> — 큐빅 결정(A 큰 양이온·B 작은 양이온·X 음이온). 결합 에너지가 작아 약한 자극에도 반응 활발, 전자·정공 생성 우수.</li>
+    <li><strong>층 구조</strong> — TCO층(전면 전극) → 전자 수송층(이산화 타이타늄, 다공질) → 페로브스카이트층(빛 흡수, 전자·정공 생성) → 정공 수송층(유기 소재) → 후면 전극(금·알루미늄).</li>
+    <li><strong>흐름</strong> — 전자는 전자 수송층→TCO, 정공은 정공 수송층→후면 전극 → 외부 회로·전류.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 38번은 ‘요소별 분석’, 40번은 ‘결합 에너지 작아 반응성 낮음’(실제론 활발), 41번은 ‘전자·정공 수송층 모두 무기’(정공 수송층은 유기)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[38 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><span class="ev ans" id="ev39-3">태양전지는 태양광 에너지를 전기 에너지로 변환하는 반도체 소자(또는 그 집합체)다.</span><a class="ev-tag ans" href="#q39-3">39-③</a> <span class="ev" id="ev39-5">실리콘 태양전지는 무기 반도체 소재로, 효율 높고 수명 길지만 고가·가공성 낮다.</span><a class="ev-tag" href="#q39-5">39-⑤</a> 유기 태양전지는 저가·가공성 좋으나 효율 낮고 수명 짧다. 그래서 유·무기 하이브리드인 페로브스카이트 태양전지가 주목받는다.</p>
+  <p>페로브스카이트는 큐빅 결정(꼭짓점 A·중앙 B 양이온, 면 중앙 X 음이온) 물질로, <span class="ev ans" id="ev40-2">이온 간 결합 에너지가 작아 약한 자극에도 반응이 활발하고</span><a class="ev-tag ans" href="#q40-2">40-②</a> <span class="ev" id="ev40-1">빛에 의해 전자·정공을 생성하는 성능이 뛰어나다.</span><a class="ev-tag" href="#q40-1">40-①</a> ㉠태양전지용 페로브스카이트는 <span class="ev" id="ev40-4">A에 유기 양이온, B에 무기 금속 양이온, X에 음이온이 온다.</span><a class="ev-tag" href="#q40-4">40-④</a> <span class="ev" id="ev40-3">이온 종류에 따라 결정 구조가 달라지면 전하 생성량에 영향을 주고,</span><a class="ev-tag" href="#q40-3">40-③</a> <span class="ev" id="ev40-5">A·B·X에 두 원자 이상 결합 이온이 오면 효율이 높아질 수 있다.</span><a class="ev-tag" href="#q40-5">40-⑤</a></p>
+  <p class="passage-note">[A] 층 구조</p>
+  <p><span class="ev ans" id="ev38">① TCO층(전면 전극): 전류 잘 흐르고 빛 잘 투과하는 산화물 유리 기판.</span><a class="ev-tag ans" href="#q38-1">38·39-②</a> ② <span class="ev ans" id="ev41-3a">전자 수송층: 페로브스카이트층의 전자를 TCO층에 전달(직접 접촉 차단→효율↑). 무기 반도체 ‘이산화 타이타늄’(다공질).</span><a class="ev-tag ans" href="#q41-3">41-ⓑ</a> ③ 페로브스카이트층: 빛 흡수→전자·정공 생성(반대 방향 이동). ④ <span class="ev ans" id="ev41-3b">정공 수송층: 정공을 후면 전극으로 수송. 열에 안정적·합성 간단한 ‘유기’ 반도체 소재.</span><a class="ev-tag ans" href="#q41-3">41-ⓓ</a> ⑤ 후면 전극: 금·알루미늄. → 전자·정공이 양쪽 전극에 도달, 외부 회로·전류 형성.</p>
+  <p><span class="ev" id="ev39-1">페로브스카이트 태양전지는 곡면 제작 가능, 빛 투과도·색채 조절 가능</span><a class="ev-tag" href="#q39-1">39-①</a>하나, 상용화엔 <span class="ev" id="ev39-4">낮은 효율·짧은 수명·친환경적이지 않은 소재 문제</span><a class="ev-tag" href="#q39-4">39-④</a>를 해결해야 한다.</p>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. 윗글의 내용 전개 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q38-1">① 대상을 요소별로 분석하여 기능을 설명하고 있다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
+    <li id="q38-2">② 묻고 답하는 방식으로 대상의 개념을 설명하고 있다.</li>
+    <li id="q38-3">③ 대상의 변화 양상을 시대별로 구분하여 서술하고 있다.</li>
+    <li id="q38-4">④ 대상이 지닌 문제점과 해결 과정을 단계별로 제시하고 있다.</li>
+    <li id="q38-5">⑤ 대상과 관련된 현상의 원인을 다양한 측면에서 제시하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글이 대상을 ‘어떻게’ 풀어내는지 본다.</p>
+        <p>태양전지를 TCO층·전자 수송층·페로브스카이트층·정공 수송층·후면 전극이라는 <strong>요소(층)별로 나눠 각 기능</strong>을 설명한다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>층(요소)별 기능 분석.</td></tr>
+          <tr><td>②</td><td>오답</td><td>문답 방식 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>시대별 변화 서술 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해결 과정 ‘단계’ 제시 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>현상 원인 다측면 제시 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. 윗글의 내용과 일치하는 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① 페로브스카이트 태양전지는 형태나 색채 조절이 불가능하다.<a class="src-tag" href="#ev39-1">지문 근거</a></li>
+    <li id="q39-2">② 산화물 유리 기판은 전류가 잘 흐르지만 빛의 투과율이 낮다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q39-3">③ 태양전지의 반도체 소자는 태양광 에너지를 전기 에너지로 변환한다.<a class="src-tag ans" href="#ev39-3">정답 근거</a></li>
+    <li id="q39-4">④ 페로브스카이트 태양전지는 수명은 짧지만 친환경적 소재를 사용한다.<a class="src-tag" href="#ev39-4">지문 근거</a></li>
+    <li id="q39-5">⑤ 현재 가장 많이 쓰는 유·무기 하이브리드 태양전지는 실리콘 태양전지이다.<a class="src-tag" href="#ev39-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글과 일치하는 것을 고른다.</p>
+        <p>1문단: 태양전지는 태양광 에너지를 전기 에너지로 변환하는 <strong>반도체 소자</strong>다. ③이 일치한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>불일치</td><td>형태·색채 조절 ‘가능’.</td></tr>
+          <tr><td>②</td><td>불일치</td><td>빛도 ‘잘 투과’.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">일치</td><td>반도체 소자=태양광→전기.</td></tr>
+          <tr><td>④</td><td>불일치</td><td>‘친환경적이지 않은’ 소재.</td></tr>
+          <tr><td>⑤</td><td>불일치</td><td>실리콘=무기 태양전지.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. ㉠에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q40-1">① 빛에 의해 전하를 생성하는 성능이 뛰어나다.<a class="src-tag" href="#ev40-1">지문 근거</a></li>
+    <li id="q40-2">② 이온 간 결합 에너지가 작아 외부 자극에 대한 반응성이 <strong>낮다</strong>.<a class="src-tag ans" href="#ev40-2">정답 근거</a></li>
+    <li id="q40-3">③ 이온의 종류에 따라 결정 구조가 달라져 생성 전하의 양에 영향을 줄 수 있다.<a class="src-tag" href="#ev40-3">지문 근거</a></li>
+    <li id="q40-4">④ 유기 이온과 무기 이온 등으로 구성되어 유·무기 하이브리드 태양전지의 핵심이 된다.<a class="src-tag" href="#ev40-4">지문 근거</a></li>
+    <li id="q40-5">⑤ A·B·X에 두 원자 이상 결합 이온이 오는지에 따라 광전 변환 효율이 달라질 수 있다.<a class="src-tag" href="#ev40-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 결합 에너지가 작으면 반응성이 어떤지 본다.</p>
+        <p>이온 간 결합 에너지가 작아 ‘약한 자극에도 반응이 <strong>활발</strong>’하다. ‘반응성이 낮다’는 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>전하 생성 성능 우수.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>반응이 ‘활발’(낮지 않음).</td></tr>
+          <tr><td>③</td><td>적절</td><td>결정 구조→전하량 영향.</td></tr>
+          <tr><td>④</td><td>적절</td><td>유기·무기 이온=하이브리드 핵심.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>두 원자 결합 이온→효율↑.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. [A]를 바탕으로 〈보기〉의 ⓐ~ⓔ를 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt; (빛 → ⓐ→ⓑ→ⓒ→ⓓ→ⓔ, (-)/(+))</p>
+    <p>ⓐ TCO층 · ⓑ 전자 수송층 · ⓒ 페로브스카이트층 · ⓓ 정공 수송층 · ⓔ 후면 전극</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q41-1">① ⓐ는 전면 전극으로 ⓒ에서 생성된 전자를 전달받는다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q41-2">② ⓑ는 ⓐ와 ⓒ의 직접 접촉을 막아 광전 변환 효율을 높인다.<a class="src-tag" href="#ev41-3a">지문 근거</a></li>
+    <li id="q41-3">③ ⓑ와 ⓓ는 모두 전도성·안정성이 확보된 <strong>무기 반도체</strong> 소재를 사용한다.<a class="src-tag ans" href="#ev41-3b">정답 근거</a></li>
+    <li id="q41-4">④ ⓒ가 빛을 흡수해 전자·정공을 생성하면 이들은 각각 반대 방향으로 이동한다.</li>
+    <li id="q41-5">⑤ 전자·정공이 ⓑ와 ⓓ를 통해 ⓐ와 ⓔ에 도달하면 외부 회로가 형성돼 전류가 흐른다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓑ·ⓓ의 ‘소재’가 같은지 본다.</p>
+        <p>ⓑ(전자 수송층)는 무기 반도체(이산화 타이타늄)지만, ⓓ(정공 수송층)는 <strong>유기 반도체</strong> 소재다. 둘 다 무기라는 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>ⓐ=전면 전극, 전자 전달받음.</td></tr>
+          <tr><td>②</td><td>적절</td><td>ⓑ=ⓐ·ⓒ 접촉 차단→효율↑.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>ⓓ=유기 반도체(둘 다 무기 X).</td></tr>
+          <tr><td>④</td><td>적절</td><td>ⓒ=전자·정공 생성, 반대 이동.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>양쪽 전극 도달→외부 회로·전류.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. 〈보기〉를 참고하여 윗글에 대해 보일 수 있는 반응으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>가.</b> 유기 태양전지는 흡광 계수가 실리콘의 1,000배 이상이라 얇아도 빛 흡수를 극대화해 다량의 전하를 생성한다. 그런데도 효율이 실리콘의 절반에 못 미치는 이유는, 생성된 전자의 <b>이동 거리가 짧고 속도가 느려</b> 소량만 전극에 도달하고 나머지는 정공과 재결합하기 때문이다.<br>
+    <b>나.</b> 탄소가 주성분인 유기 물질은 공기 중 산소·수분과 반응해 부식·연소되기도 한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q42-1">① 페로브스카이트 효율을 더 높이려면 전자의 이동 속도를 고려할 필요가 있겠군.</li>
+    <li id="q42-2">② 효율 높은 유기 태양전지를 만들려면 <strong>흡광 계수 높은 소재</strong>를 쓰는 것이 핵심이겠군.</li>
+    <li id="q42-3">③ 유기 태양전지 수명이 짧은 이유는 유기 물질의 특성에 원인이 있다고 볼 수 있겠군.</li>
+    <li id="q42-4">④ 페로브스카이트의 문제 해결엔 내부 물질과 외부 환경의 반응을 고려할 필요가 있겠군.</li>
+    <li id="q42-5">⑤ 유기 태양전지 효율이 낮은 건 생성 전하 대비 전극 도달 전자의 비율이 낮기 때문이겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 유기 태양전지 효율의 ‘진짜 발목’이 무엇인지 본다.</p>
+        <p>유기 태양전지는 흡광 계수가 이미 매우 높다. 효율이 낮은 원인은 전자의 <strong>이동 거리·속도</strong>이므로, ‘흡광 계수 높은 소재가 핵심’이라는 ②는 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>전자 이동 속도 고려.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>흡광 계수는 이미 높음 — 핵심은 전자 이동.</td></tr>
+          <tr><td>③</td><td>적절</td><td>유기 물질 부식·연소=수명 단축.</td></tr>
+          <tr><td>④</td><td>적절</td><td>외부 환경 반응 고려 필요.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>전극 도달 전자 비율 낮음.</td></tr>
         </tbody>
       </table>
     </div>
