@@ -504,7 +504,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q12-1">① ㉠ 긁는 / ㉡ 넓다</li>
     <li id="q12-2">② ㉠ 긁는 / ㉡ 밖을</li>
-    <li id="q12-3">③ ㉠ 넓다 / ㉡ 긁는</li>
+    <li id="q12-3">③ ㉠ 넓다 / ㉡ 긁는<a class="src-tag ans" href="#ev8">정답 근거</a></li>
     <li id="q12-4">④ ㉠ 넓다 / ㉡ 참삶</li>
     <li id="q12-5">⑤ ㉠ 밖을 / ㉡ 참삶</li>
   </ul>
