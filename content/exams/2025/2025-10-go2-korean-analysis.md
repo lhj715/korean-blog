@@ -12,7 +12,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-10-14</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
 </section>
 
 <div id="set1" class="set-anchor"></div>
@@ -440,6 +440,228 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
       <div class="trap">
         <div class="trap-head">조심할 점 — 도입의 ‘방향’</div>
         <p>⑤는 ‘우려’로 시작한다지만 결론은 ‘유용한 성분’(효용성)으로 연다. 조언 추론은 ‘무엇으로 시작하나’부터 맞춰야 한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div id="set4" class="set-anchor"></div>
+
+## 11~15번 문법 · 단어의 의미 관계와 음운·중세 국어
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>11~12번은 <strong>상하 관계</strong> 지문을 함께 푼다. ‘무엇이 무엇을 <em>포함</em>하나’와 ‘어느 쪽이 더 <em>구체적</em>인가’를 짝지어 정리하면 거의 다 풀린다.</p>
+  <ul>
+    <li><strong>상위어/하위어</strong> — 포함하는 쪽이 상위어(동물), 포함되는 쪽이 하위어(새). <strong>하위어가 더 구체적</strong>이고 의미 성분이 많다.</li>
+    <li><strong>함의</strong> — ‘사과를 먹었다 → 과일을 먹었다’는 성립하지만 그 역은 안 됨(일방적 함의). 상하 관계엔 ‘A는 B의 <em>일종</em>이다’도 성립.</li>
+    <li><strong>부분 관계</strong>(엔진–자동차)는 함의는 되지만 ‘일종이다’가 안 돼 상하 관계와 구별된다. <strong>여기서 함정이 나온다.</strong></li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 13~15번은 지문 없이 〈보기〉만으로 푸는 단독 문법(문장 짜임·음운 ‘ㅎ’·중세 의문문)이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>상하 관계는 한 단어가 의미상 다른 단어를 포함하거나 다른 단어에 포함되는 관계를 말한다. 이때 포함하는 단어가 상위어, 포함되는 단어가 하위어이다.</p>
+  <p>두 단어의 관계는 의미 성분을 분석해 비교할 수 있다. <span class="ev" id="ev16">의미 성분 분석이란 단어의 의미를 더 작은 의미 단위인 의미 성분으로 분해하여 표시하는 방법으로, 각 단어가 해당 성분을 포함하는지 여부를 [+], [-] 기호로 표시한다.</span><a class="ev-tag" href="#q11-1">11-①</a> ‘동물’은 [+생명체][+움직임], ‘새’는 [+생명체][+움직임][+날개]로 분석된다. <span class="ev" id="ev17">하위어는 상위어의 의미 성분을 모두 포함하면서 다른 의미 성분을 추가로 지니므로, 상위어보다 의미 성분의 수가 많고 지시 대상의 범위가 좁으며 의미가 더 구체적이다.</span><a class="ev-tag" href="#q12-1">12-①</a> ‘새’와 ‘물고기’처럼 <span class="ev" id="ev18">동일한 상위어(‘동물’)를 공유하는 같은 층위의 단어를 공하위어라 한다.</span><a class="ev-tag" href="#q11-3">11-③</a></p>
+  <p>상하 관계는 함의로도 살펴볼 수 있다. 문장 p가 참이면 반드시 q가 참이고, q가 거짓이면 반드시 p가 거짓일 때 p는 q를 함의한다. p는 q를 함의하지만 q는 p를 함의하지 않을 때를 일방적 함의라 한다. ‘철수는 사과를 먹었다(1)’는 ‘철수는 과일을 먹었다(2)’를 함의하지만 그 역은 성립하지 않으므로, 상하 관계인 ‘사과’와 ‘과일’ 사이엔 일방적 함의가 성립한다. 또 상위어·하위어 사이엔 ‘사과는 과일의 일종이다’처럼 ‘A는 B의 일종이다’가 성립한다.</p>
+  <p>어떤 단어가 특정 문맥에서만 다른 단어의 하위어로 인식되면 유사 상하 관계라 한다. <span class="ev" id="ev20">‘병사가 칼/무기로 무장했다’는 일방적 함의가 성립하지만, ‘요리사가 칼/무기로 양파를 손질했다’에서는 성립하지 않으므로 ‘칼’과 ‘무기’는 유사 상하 관계이다.</span><a class="ev-tag" href="#q12-5">12-⑤</a></p>
+  <p>한편 <span class="ev" id="ev19">부분 관계는 한 단어가 다른 단어가 지시하는 대상의 일부를 나타내는 관계(‘엔진’과 ‘자동차’)로, 일방적 함의가 성립할 수는 있으나 ‘A는 B의 일종이다’가 성립하지 않아 상하 관계와 다르다.</span><a class="ev-tag" href="#q12-3">12-③</a><a class="ev-tag" href="#q12-4">12-④</a></p>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 윗글에 대한 이해로 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① 의미 성분 분석은 단어의 의미를 더 작은 의미 단위로 분해하여 표시하는 방법이다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q11-2">② 두 단어가 서로 공유하는 의미 성분이 없을 경우에도 상하 관계가 성립할 수 있다.</li>
+    <li id="q11-3">③ 상하 관계에서 동일한 하위어를 공유하는 단어를 공하위어라고 한다.<a class="src-tag" href="#ev18">지문 근거</a></li>
+    <li id="q11-4">④ 상위어의 의미 성분은 [+]로, 하위어의 의미 성분은 [-]로 표시한다.</li>
+    <li id="q11-5">⑤ 하위어란 의미상 다른 단어를 포함하는 단어를 말한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘적절한 것’ 하나를 고른다. 정의·기호·방향을 지문과 1:1로 맞춘다.</p>
+        <p>2문단에서 의미 성분 분석을 ‘단어의 의미를 더 작은 의미 단위로 분해하여 표시하는 방법’이라 했으므로 ①이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>의미 성분 분석의 정의 그대로.</td></tr>
+          <tr><td>②</td><td>오답</td><td>상하 관계는 의미 성분을 공유한다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘상위어’를 공유해야 공하위어다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>[+]/[-]는 성분 포함 여부 표시일 뿐.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘포함되는’ 단어가 하위어다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘포함하는’ ↔ ‘포함되는’</div>
+        <p>⑤는 상위어 설명을 하위어에 붙였다. 방향을 거꾸로 적은 함정이 문법 어휘 문제에 자주 나온다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>㉠</b> 1) 차가운 물속에도 <b>물고기</b>가 산다. 2) 차가운 물속에도 <b>동물</b>이 산다.<br>
+    <b>㉡</b> 1) 나는 <b>손가락</b>을 다쳤다. 2) 나는 <b>손</b>을 다쳤다.<br>
+    <b>㉢</b> 1) 그녀는 <b>개</b>를 기른다. 2) 그녀는 <b>반려동물</b>을 기른다. 3) 경찰은 산에 <b>개</b>를 풀었다. 4) 경찰은 산에 <b>반려동물</b>을 풀었다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q12-1">① ㉠: ‘동물’보다 ‘물고기’의 의미가 더 구체적이고, 지시 대상의 범위가 좁다.<a class="src-tag" href="#ev17">지문 근거</a></li>
+    <li id="q12-2">② ㉠: ‘물고기’와 ‘동물’은 상하 관계이고, ‘물고기’가 ‘동물’의 의미 성분을 모두 포함한다.</li>
+    <li id="q12-3">③ ㉡: ‘손가락’과 ‘손’ 사이에는 ‘A는 B의 일종이다’라는 관계가 성립하지 않는다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q12-4">④ ㉡: ‘손가락’과 ‘손’은 부분 관계이고, 2)가 참일 때 1)이 반드시 참, 1)이 거짓일 때 2)가 반드시 거짓이다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q12-5">⑤ ㉢: ‘개’와 ‘반려동물’은 1)·2) 사이엔 일방적 함의가 성립하고, 3)·4) 사이엔 성립하지 않는다.<a class="src-tag" href="#ev20">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘적절하지 <strong>않은</strong>’ 하나. 특히 함의의 <strong>방향</strong>을 따진다.</p>
+        <p>‘손가락–손’은 부분 관계가 맞다. 그런데 함의는 <strong>부분(손가락)이 전체(손)를 함의</strong>한다 — 즉 ‘1)이 참이면 2)가 참, 2)가 거짓이면 1)이 거짓’이다. ④는 그 방향을 거꾸로 적었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>하위어 ‘물고기’가 더 구체적·범위 좁음.</td></tr>
+          <tr><td>②</td><td>적절</td><td>물고기가 동물의 성분을 모두 포함.</td></tr>
+          <tr><td>③</td><td>적절</td><td>부분 관계라 ‘일종이다’ 불성립.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>함의 방향이 반대(손가락→손).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>유사 상하 관계라 문맥에 따라 달라짐.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 함의의 ‘방향’</div>
+        <p>부분(손가락)을 다치면 전체(손)를 다친 것이지만, 손을 다쳤다고 꼭 손가락은 아니다. <strong>구체적인 쪽 → 큰 쪽</strong>으로 함의가 흐른다. ④는 이걸 뒤집었다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<p class="muted seg-label">13~15번은 지문 없이 〈보기〉·학습 활동만으로 푸는 단독 문법 문항입니다.</p>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 〈학습 활동〉을 수행한 결과로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 학습 활동 &gt;</p>
+    <p>두 주머니에서 카드를 하나씩 뽑아, 두 조건을 <b>모두</b> 만족하는 문장을 만든다.<br>
+    <b>㉠</b> 목적어 역할을 하는 명사절을 안은 문장 · <b>㉡</b> 간접 인용절을 안은 문장<br>
+    <b>ⓐ</b> 용언의 관형사형이 관형어로 쓰인 문장 · <b>ⓑ</b> 사동사에 의한 사동문 · <b>ⓒ</b> 능력 부정의 긴 부정문</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q13-1">① (㉠·ⓐ) 할머니는 언제나 <u>내가 건강하기</u>만 <u>바라는</u> 분이시다.</li>
+    <li id="q13-2">② (㉠·ⓑ) 그는 <u>이번 책이 독자들에게 많이 읽히기</u>를 바란다.</li>
+    <li id="q13-3">③ (㉠·ⓒ) 그녀는 <u>실력이 부족해 대회에 나가지 못했음</u>을 친구에게 털어놨다.</li>
+    <li id="q13-4">④ (㉡·ⓑ) 의사는 보호자에게 <u>환자를 어서 눕히라고</u> 말했다.</li>
+    <li id="q13-5">⑤ (㉡·ⓒ) 그는 외국어를 몰라서 <u>이곳이 어디냐고</u> <u>묻지 못했다</u>.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 카드 조건을 동시에 만족하는지 본다. ㉠/㉡(절의 종류)과 ⓐ/ⓑ/ⓒ(문법 요소)를 각각 확인.</p>
+        <p>②의 ‘이번 책이~읽히기’는 목적어 명사절(㉠)은 맞다. 하지만 ‘읽히기’는 ‘읽다’에 <strong>피동</strong> 접미사 ‘-히-’가 붙은 <strong>피동사</strong>다. ⓑ(사동사)가 아니므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘건강하기’=목적어 명사절, ‘바라는’=관형사형 관형어.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘읽히기’는 사동사가 아니라 <strong>피동사</strong>.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘나가지 못했음’=목적어 명사절+능력 부정.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘눕히라고’=간접 인용절, ‘눕히다’=사동사.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘어디냐고’=간접 인용절, ‘묻지 못했다’=능력 부정.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘-히-’는 사동도 피동도 된다</div>
+        <p>같은 ‘-히-’라도 ‘눕히다(사동)’와 ‘읽히다(피동)’는 다르다. <strong>‘누가 시키나’(사동)</strong>인지 <strong>‘당하나’(피동)</strong>인지로 가른다. ②는 ‘책이 읽히는’ 것이니 피동.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 〈보기〉 선생님의 설명을 바탕으로 ‘ㅎ’의 음운 변동을 탐구한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>‘ㅎ’은 음운 환경에 따라 <b>교체·탈락·축약</b> 등의 음운 변동을 겪는다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q14-1">① ‘많은’: 자음군 단순화를 통해 ‘ㅎ’이 탈락한다.</li>
+    <li id="q14-2">② ‘놓고’: ‘ㅎ’이 뒤의 ‘ㄱ’을 만나 거센소리로 축약된다.</li>
+    <li id="q14-3">③ ‘꽂히다’: ‘ㅈ’이 뒤의 ‘ㅎ’을 만나 거센소리로 축약된다.</li>
+    <li id="q14-4">④ ‘앓는’: 자음군 단순화로 ‘ㅎ’이 탈락한 뒤, ‘ㄴ’이 앞의 ‘ㄹ’을 만나 유음으로 교체된다.</li>
+    <li id="q14-5">⑤ ‘쌓네’: ‘ㅎ’이 음절의 끝소리 규칙으로 ‘ㄷ’이 된 뒤, ‘ㄷ’이 ‘ㄴ’을 만나 비음으로 교체된다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 단어에서 ‘ㅎ’이 <strong>어떤 종류</strong>의 변동을 겪는지(탈락의 ‘원인’까지) 본다.</p>
+        <p>‘많은[마는]’의 ‘ㅎ’은 <strong>모음으로 시작하는 어미 ‘-은’ 앞에서 그냥 탈락</strong>(‘ㅎ’ 탈락)한다. ‘자음군 단순화’(받침 두 자음 중 하나 탈락)가 아니므로 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>변동</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>모음 앞 ‘ㅎ’ 탈락 — 자음군 단순화 아님.</td></tr>
+          <tr><td>②</td><td>적절</td><td>ㅎ+ㄱ→ㅋ 축약(거센소리되기).</td></tr>
+          <tr><td>③</td><td>적절</td><td>ㅈ+ㅎ→ㅊ 축약.</td></tr>
+          <tr><td>④</td><td>적절</td><td>ㅀ 단순화(ㅎ탈락)+유음화(ㄴ→ㄹ).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>ㅎ→ㄷ(끝소리)+비음화(ㄷ→ㄴ).</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘ㅎ 탈락’ ≠ ‘자음군 단순화’</div>
+        <p>‘많은’은 받침이 ‘ㄶ’이지만, 뒤가 <strong>모음</strong>이라 ‘ㅎ’만 빠지는 <strong>‘ㅎ’ 탈락</strong>이다. ‘앓는’처럼 뒤가 <strong>자음</strong>이라 받침을 정리하는 자음군 단순화와는 원인이 다르다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. 〈보기〉의 ㉠~㉢에 들어갈 말로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>중세 국어는 의문문 종류에 따라 종결 어미가 달랐다. <b>판정 의문문</b>(예/아니오)은 ‘<b>-녀</b>’, <b>설명 의문문</b>(구체적 설명 요구)은 ‘<b>-뇨</b>’, <b>주어가 2인칭</b>이면 종류와 무관하게 ‘<b>-ㄴ다</b>’를 썼다.</p>
+    <p>◦ 太子ㅣ 이제 어듸 <b>㉠</b> (태자가 이제 <u>어디</u> 있느냐?)<br>
+    ◦ 내 니르던 究羅帝 眞實로 <b>㉡</b> (내가 이르던 구라제가 진실로 <u>그러하더냐</u>?)<br>
+    ◦ <u>네</u> 엇던 밥 <b>㉢</b> (<u>네가</u> 어떤 밥을 구하는가?)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q15-1">① 잇녀 / 그러터녀 / 求ᄒ다</li>
+    <li id="q15-2">② 잇녀 / 그러터뇨 / 求ᄒ뇨</li>
+    <li id="q15-3">③ 잇뇨 / 그러터녀 / 求ᄒ다</li>
+    <li id="q15-4">④ 잇뇨 / 그러터녀 / 求ᄒ뇨</li>
+    <li id="q15-5">⑤ 잇뇨 / 그러터뇨 / 求ᄒ뇨</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 문장이 <strong>판정/설명/2인칭</strong> 중 무엇인지 가려 어미를 고른다.</p>
+        <p>㉠은 ‘<strong>어디</strong>’를 묻는 설명 의문문 → ‘-뇨’(<strong>잇뇨</strong>). ㉡은 ‘그러하냐’ 예/아니오를 묻는 판정 의문문 → ‘-녀’(<strong>그러터녀</strong>). ㉢은 주어가 ‘<strong>네(2인칭)</strong>’ → ‘-ㄴ다’(<strong>求ᄒ다</strong>). 따라서 ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>빈칸</th><th>유형</th><th>어미·답</th></tr></thead>
+        <tbody>
+          <tr><td>㉠</td><td>설명 의문문(‘어디’)</td><td>-뇨 → 잇뇨</td></tr>
+          <tr><td>㉡</td><td>판정 의문문(예/아니오)</td><td>-녀 → 그러터녀</td></tr>
+          <tr><td>㉢</td><td>2인칭 주어(‘네’)</td><td>-ㄴ다 → 求ᄒ다</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 2인칭이 1순위</div>
+        <p>㉢은 ‘어떤 밥’이라 설명 의문문처럼 보이지만, <strong>주어가 2인칭(‘네’)이면 종류와 무관하게 ‘-ㄴ다’</strong>다. 의미보다 ‘주어’를 먼저 봐야 ‘求ᄒ뇨’ 함정을 피한다.</p>
       </div>
     </div>
   </details>
