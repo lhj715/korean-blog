@@ -35,16 +35,17 @@ document.addEventListener('click', function(e){
     }
     return;
   }
-  // 선지의 '지문 근거' → 지문 밑줄로 이동 + 밑줄 강조
+  // 선지의 '지문 근거/정답 근거' → 그 근거가 속한 '지문의 시작'으로 이동 + 밑줄 강조(색으로 감싸기)
   var s = e.target.closest('a.src-tag');
   if(s){
     e.preventDefault();
     var evId = (s.getAttribute('href') || '').slice(1);    // 예: ev6
     var ev = document.getElementById(evId);
-    scrollToEl(ev);
     if(ev){
       document.querySelectorAll('.ev-hl').forEach(function(el){ el.classList.remove('ev-hl'); });
-      ev.classList.add('ev-hl');
+      ev.classList.add('ev-hl');                            // 해당 부분은 색으로 감싸 강조(유지)
+      var passage = ev.closest('.passage') || ev.closest('.seg') || ev;
+      scrollToEl(passage);                                  // 밑줄이 아니라 '지문의 시작'을 보여 줌
     }
   }
 });
