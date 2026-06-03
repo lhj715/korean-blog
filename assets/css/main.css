@@ -232,6 +232,25 @@ a:hover{text-decoration:underline}
 .self-check-head{font-size:16px;font-weight:700;color:#2f6b3a;margin-bottom:10px}
 .self-check ol{margin:0;padding-left:22px}
 .self-check li{font-size:14px;line-height:1.85;color:var(--ink-mid);margin-bottom:8px}
+/* 지문·문제 게시 */
+.passage{background:#fff;border:1px solid var(--paper-line);border-radius:6px;padding:20px 24px;margin:6px 0 28px}
+.passage-guide{font-weight:700;color:var(--ink);margin:0 0 14px!important;padding-bottom:10px;border-bottom:1px solid var(--paper-line)}
+.passage p{font-size:15px!important;line-height:1.95!important;color:var(--ink);margin:0 0 14px!important;text-indent:.4em}
+.passage p:last-child{margin-bottom:0!important}
+.q-block{background:#fff;border:1px solid var(--paper-line);border-radius:6px;padding:18px 22px;margin:0 0 16px}
+.q-stem{font-weight:700;color:var(--ink);font-size:15px!important;margin:0 0 12px!important;line-height:1.7!important}
+.q-opts{list-style:none;margin:0;padding:0}
+.q-opts li{font-size:14px;line-height:1.8;color:var(--ink-mid);padding:3px 0;margin:0}
+.q-plan{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:14px 16px}
+.q-plan p{font-size:14px!important;line-height:1.7!important;color:var(--ink-mid);margin:0 0 8px!important}
+.q-plan p:last-child{margin-bottom:0!important}
+.plan-sec{font-weight:700;color:var(--ink)!important;margin-top:6px!important}
+.q-plan b{color:var(--accent)}
+.q-bogi{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:14px 16px;margin-bottom:14px}
+.q-bogi p{font-size:14px!important;line-height:1.75!important;color:var(--ink-mid);margin:0 0 6px!important}
+.q-bogi p:last-child{margin-bottom:0!important}
+.bogi-label{text-align:center;font-weight:700;color:var(--ink)!important;letter-spacing:.3em}
+.bogi-blank{display:inline-block;min-width:80px;border-bottom:1px solid var(--ink-soft);text-align:center;color:var(--ink-soft)}
 
 /* 고전시가 본문 2단 (가독성 안정 규칙) */
 .prose-2col{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05);max-width:none}
