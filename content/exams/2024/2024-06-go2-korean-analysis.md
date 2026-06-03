@@ -12,7 +12,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~28번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -23,6 +23,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set5">16~20 문학(갈래복합)</a>
   <a href="#set6">21~25 독서(사회)</a>
   <a href="#set7">26~28 현대 소설</a>
+  <a href="#set8">29~33 독서(인문)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1139,6 +1140,188 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>‘냄새’=현실 문제 소재.</td></tr>
           <tr><td>④</td><td>적절</td><td>‘역겹다’·‘숨 못 쉼’=문제시.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>‘심하다’ vs ‘아니다’=인식 차 갈등.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 29~33번 독서(인문) · 리쾨르의 자기 해석학과 미메시스 삼중 구조
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘이야기(텍스트)를 해석하며 자기를 이해한다’는 리쾨르의 이론. 미메시스의 ‘삼중 구조’ 세 단계를 누가·무엇을 하는지로 구분하면 된다.</p>
+  <ul>
+    <li><strong>미메시스Ⅰ(전형상화)</strong> — 작가가 행동의 의미를 이해하는, 이야기화 ‘전’ 단계.</li>
+    <li><strong>미메시스Ⅱ(형상화)</strong> — 작가가 의미 있는 행동을 골라 ㉠줄거리로 구성(현실 바탕 허구 세계).</li>
+    <li><strong>미메시스Ⅲ(재형상화)</strong> — 독자가 읽고 현실에 비추어 ㉡자기 줄거리를 만들며 삶을 반성 → ‘이야기 정체성’으로 자기 이해.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 29번은 ‘이야기 정체성=작가가 형상화’(실제론 독자의 해석 과정에서 형성), 30번은 ‘모방을 다시 모방해 세계를 이원 구조로 나눈다’(원래 세계가 이원 구조)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[29 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>리쾨르는 이야기를 해석하며 자기를 이해할 수 있다는 자기 해석학을 주장하고, <span class="ev" id="ev29-3">아리스토텔레스의 미메시스 개념을 확장해 ‘미메시스의 삼중 구조’를 제시</span><a class="ev-tag" href="#q29-3">29-③</a>했다. 미메시스란 예술에서 현실을 모방·재현하는 것을 ⓐ<span class="ev" id="ev33a">가리키는</span> 용어다.</p>
+  <p><span class="ev ans" id="ev30-2">플라톤은 세계를 이상(이데아)·현실의 이원 구조로 보았고, 예술은 ‘이데아를 모방한 현실’을 다시 모방한 것으로 보았다.</span><a class="ev-tag ans" href="#q30-2">30-②</a> 그는 <span class="ev" id="ev30-3">예술이 인간을 이데아로부터 멀어지게 하는 부정적 대상</span><a class="ev-tag" href="#q30-3">30-③</a>이라 했다. 또 <span class="ev" id="ev30-1">갈래마다 모방 양태가 달라 연극은 직접, 서사시는 서술자를 통해 간접 모방</span><a class="ev-tag" href="#q30-1">30-①</a>한다 했다. <span class="ev" id="ev30-5">아리스토텔레스는 예술이 개연성 있는 일을 필연성에 따라 조직한 ‘창조적 모방’이며 감정을 정화하고 쾌감을 준다</span><a class="ev-tag" href="#q30-5">30-④·⑤</a>고 보았다. 리쾨르는 이를 ⓑ<span class="ev" id="ev33b">받아들여</span> 미메시스를 행동을 줄거리로 구성해 언어로 표현한 것으로 보았다.</p>
+  <p>미메시스Ⅰ(전형상화)은 작가가 이야기화 전 행동의 의미를 이해하는 단계로, <span class="ev" id="ev29-5">작가는 그 의미를 독자도 이해할 수 있다고 전제</span><a class="ev-tag" href="#q29-5">29-⑤</a>한다. 미메시스Ⅱ는 행동이 ㉠<span class="ev ans" id="ev31a">줄거리로 구성되는 단계로, 작가가 의미 있다고 판단한 행동만 ⓒ골라 인과 관계에 따라 배치(현실 바탕 허구 세계)</span><a class="ev-tag ans" href="#q31-2">㉠ 31·32</a>한다. 미메시스Ⅲ은 문학과 현실을 ⓓ<span class="ev ans" id="ev33d">잇고자</span> 한 핵심 단계로, <span class="ev" id="ev31b">독자가 읽고 현실에 비추어 ㉡자기 삶의 줄거리를 만들며 반성</span><a class="ev-tag" href="#q31-2b">㉡</a>한다.</p>
+  <p><span class="ev ans" id="ev29-2">미메시스Ⅲ에서 독자의 자기 이해가 이루어지는데(‘이야기 정체성’), 이는 ‘독자의 해석 과정’에서 형성된다.</span><a class="ev-tag ans" href="#q29-2">29-②</a> 독자는 인물의 이야기 정체성을 자신의 삶에 ⓔ<span class="ev" id="ev33e">비추어</span> 자신의 고유한 이야기 정체성을 형성한다.</p>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① 미메시스Ⅰ과 미메시스Ⅲ은 미메시스Ⅱ를 매개로 연결된다.</li>
+    <li id="q29-2">② 인물의 이야기 정체성은 미메시스Ⅲ에서 <strong>작가에 의해</strong> 형상화된다.<a class="src-tag ans" href="#ev29-2">정답 근거</a></li>
+    <li id="q29-3">③ 리쾨르의 미메시스는 아리스토텔레스의 견해를 발전시킨 개념이다.<a class="src-tag" href="#ev29-3">지문 근거</a></li>
+    <li id="q29-4">④ 독자가 자기 이해에 이르는 과정은 미메시스의 삼중 구조를 따른다.</li>
+    <li id="q29-5">⑤ 작가는 미메시스Ⅱ에 나타난 행동의 의미를 미메시스Ⅲ의 독자가 이해할 것으로 여긴다.<a class="src-tag" href="#ev29-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 이야기 정체성을 ‘누가’ 형성하는지 본다.</p>
+        <p>이야기 정체성은 미메시스Ⅲ에서 <strong>독자의 해석 과정</strong>에서 형성된다. ‘작가에 의해 형상화된다’는 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>Ⅱ가 Ⅰ·Ⅲ 사이를 매개.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>독자의 해석 과정에서 형성(작가 X).</td></tr>
+          <tr><td>③</td><td>적절</td><td>아리스토텔레스 발전.</td></tr>
+          <tr><td>④</td><td>적절</td><td>삼중 구조로 자기 이해.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>작가는 독자가 의미 이해할 것 전제.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. ‘예술’에 대한 플라톤과 아리스토텔레스의 견해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q30-1">① 플라톤: 서사시와 연극은 감각 세계를 모방한 양태가 다르다고 보았다.<a class="src-tag" href="#ev30-1">지문 근거</a></li>
+    <li id="q30-2">② 플라톤: 모방된 대상을 다시 모방함으로써 <strong>세계를 이상과 현실로 나눈다</strong>고 보았다.<a class="src-tag ans" href="#ev30-2">정답 근거</a></li>
+    <li id="q30-3">③ 플라톤: 인간을 이상 세계로부터 멀어지게 한다는 점에서 부정적 대상으로 보았다.<a class="src-tag" href="#ev30-3">지문 근거</a></li>
+    <li id="q30-4">④ 아리스토텔레스: 인간의 감정을 정화하고 쾌감을 느끼도록 한다고 보았다.<a class="src-tag" href="#ev30-5">지문 근거</a></li>
+    <li id="q30-5">⑤ 아리스토텔레스: 있을 법한 일을 필연성에 따라 조직한 창조적 모방으로 보았다.<a class="src-tag" href="#ev30-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘이원 구조’가 무엇 때문에 생겼는지 본다.</p>
+        <p>플라톤은 <strong>원래</strong> 세계를 이상·현실의 이원 구조로 보았다. 모방을 ‘다시 모방함으로써’ 세계가 둘로 나뉘는 것이 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>연극=직접·서사시=간접.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>세계는 원래 이원 구조(모방이 나눈 것 X).</td></tr>
+          <tr><td>③</td><td>적절</td><td>이데아에서 멀어짐=부정적.</td></tr>
+          <tr><td>④</td><td>적절</td><td>감정 정화·쾌감.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>필연성 조직=창조적 모방.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. ㉠과 ㉡에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① ㉠은 현실을 직접 모방한 것이고, ㉡은 현실을 간접 모방한 것이다.</li>
+    <li id="q31-2">② ㉠은 작가가 구성한 인물의 이야기를, ㉡은 독자가 구성한 자신의 이야기를 의미한다.<a class="src-tag ans" href="#ev31a">정답 근거(㉠)</a><a class="src-tag ans" href="#ev31b">정답 근거(㉡)</a></li>
+    <li id="q31-2b">③ ㉠은 미메시스의 전형상화 단계, ㉡은 재형상화 단계에 해당한다.</li>
+    <li id="q31-4">④ ㉠은 ㉡과 달리 언어로 표현되기 전의 이야기이다.</li>
+    <li id="q31-5">⑤ ㉡은 ㉠과 달리 인물의 행동에 의해 의미가 결정된다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠·㉡을 ‘누가 구성하는지’로 가른다.</p>
+        <p>㉠(미메시스Ⅱ)은 <strong>작가</strong>가 구성한 인물의 이야기, ㉡(미메시스Ⅲ)은 <strong>독자</strong>가 독서 후 만든 자신의 이야기다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>직접/간접 모방은 플라톤 갈래론.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉠=작가 구성, ㉡=독자 구성.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉠=형상화(전형상화 아님).</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉠도 언어로 표현된 줄거리.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>그런 구분 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. 리쾨르의 관점에서 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>타인을 대하는 태도에 관심 많은 A는 의사 B의 삶을 다룬 소설을 읽었다. 어린 환자가 성인이 되어 바쁜 B를 찾아와, 환자 한 명 한 명을 진심으로 대하는 B에게 고마움을 전하는 에피소드를 A는 감명 깊게 읽었다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q32-1">① 작가는 소설을 쓰기 전에 의사의 행동이 어떤 의미인지 이해하고자 했겠군.</li>
+    <li id="q32-2">② B가 어린 환자를 돌보는 행동은 작가가 의미 있다고 판단해 고른 것이겠군.<a class="src-tag" href="#ev31a">지문 근거</a></li>
+    <li id="q32-3">③ 소설 속 에피소드는 <strong>인간에게 공통적으로 나타나는</strong> 행동을 인과 관계에 따라 배치한 것이겠군.<a class="src-tag ans" href="#ev31a">정답 근거</a></li>
+    <li id="q32-4">④ A는 B의 에피소드를 읽으며 사람들을 대하는 자신의 태도를 돌아보았겠군.</li>
+    <li id="q32-5">⑤ A는 B의 이야기 정체성을 따뜻한 내면을 지닌 인물로 파악할 수 있겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 에피소드가 ‘공통 행동’인지 ‘선별된 행동’인지 본다.</p>
+        <p>미메시스Ⅱ에서 작가는 ‘<strong>의미 있다고 판단한 행동만 골라</strong>’ 인과로 배치한다. ‘인간에게 공통적으로 나타나는 행동’이 아니므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>미메시스Ⅰ=의미 이해.</td></tr>
+          <tr><td>②</td><td>적절</td><td>의미 있는 행동 선별.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>‘공통 행동’ 아니라 선별된 행동.</td></tr>
+          <tr><td>④</td><td>적절</td><td>미메시스Ⅲ=자기 반성.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>이야기 정체성 파악.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. ⓐ~ⓔ와 바꾸어 쓸 수 <strong>없는</strong> 말은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① ⓐ(가리키는): 지칭하는</li>
+    <li id="q33-2">② ⓑ(받아들여): 수용하여</li>
+    <li id="q33-3">③ ⓒ(골라): 선택하여</li>
+    <li id="q33-4">④ ⓓ(잇고자): 계승하고자<a class="src-tag ans" href="#ev33d">정답 근거</a></li>
+    <li id="q33-5">⑤ ⓔ(비추어): 투사하여</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 밑줄 어휘를 바꿔도 뜻이 같은지 본다.</p>
+        <p>ⓓ ‘잇고자’는 문학과 현실을 ‘<strong>연결하고자</strong>’의 뜻이다. ‘계승하다(전통·문화를 물려받아 이어가다)’와는 뜻이 달라 바꿔 쓸 수 없다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>가능</td><td>가리키다=지칭하다.</td></tr>
+          <tr><td>②</td><td>가능</td><td>받아들이다=수용하다.</td></tr>
+          <tr><td>③</td><td>가능</td><td>고르다=선택하다.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">불가</td><td>잇다=연결하다(≠계승하다).</td></tr>
+          <tr><td>⑤</td><td>가능</td><td>비추다=투사하다.</td></tr>
         </tbody>
       </table>
     </div>
