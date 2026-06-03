@@ -12,7 +12,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~20번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -815,6 +815,220 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>정제제 = 확산 계수↓ → 간격↑.</td></tr>
           <tr><td>④</td><td>적절</td><td>확산 계수↑ → 간격↓.</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>빠르게 분포 → 간격 ‘좁음’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 21~25번 고전 갈래 복합 · 「수남방옹가」·「금강영언록」·「촉견폐일설」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>세 글 모두 사대부의 글이지만 처지가 다르다. (가)는 <strong>은거</strong>, (나)는 <strong>유배</strong>, (다)는 <strong>세태 비판</strong>이다.</p>
+  <ul>
+    <li><strong>(가) 정훈 「수남방옹가」</strong>(은일 가사) — 향촌에서 농사·채미·낚시로 안빈낙도. 끝에 임금·변방 걱정(충의).</li>
+    <li><strong>(나) 김이익 「금강영언록」</strong>(유배 연시조) — 섬 유배지의 고통·임금 은혜에 대한 감사·두루미 비판.</li>
+    <li><strong>(다) 홍성민 「촉견폐일설」</strong>(고전 수필) — ‘해를 보고 짖는 촉나라 개’로 ‘선을 배척하는 세태’를 비판, 군왕의 역할 강조.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 22번은 ‘[B]=농사 지시이지 고단함 토로 아님’, 24번은 ‘좁은 섬을 넓다 함=처지 인식이지 사명감 아님’, 25번은 ‘익숙해진 악(일상이 된 악)’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="src-label">(가) 정훈, 「수남방옹가」</p>
+  <p class="verse">생계는 넉넉지 않아도 뜰이나마 풍족하니<br>
+  가난하게 살아도 서러운 줄 모르리다<br>
+  <span class="seg-label">[A]</span> 동쪽 햇볕 따뜻하고 북쪽 바람 온화하여 (…)<br>
+  금사(金絲)는 버들 그림자요 설색(雪色)은 매화로다<br>
+  산새는 봄을 맞아 노래하며 지저귀고 / 꽃은 비 온 후에 웃음을 머금었다<br>
+  <span class="seg-label">[B]</span> 이봐 아이들아 서쪽 밭에 일이 있다 / 따비 호미 다 제각각 챙기거라<br>
+  갈면서 짊어지며 여러 이랑 마친 후에 (…)<br>
+  <span class="seg-label">[C]</span> 봉우리에 올라앉아 채미가를 길게 불러<br>
+  울려퍼진 소리에 가슴속이 상쾌하니 / 무우대에서 바람 쐰들 이보다 더하겠는가 (…)<br>
+  <span class="seg-label">[D]</span> 물가에서 시 짓고 언덕 올라 휘파람 불며<br>
+  하루 또 하루 산수에서 소일하니 / <span class="ev" id="ev14">산수의 즐거움을 나밖에 뉘 아는가</span><a class="ev-tag" href="#q21-1">21-①</a></p>
+  <p class="muted">(중략)</p>
+  <p class="verse"><span class="ev" id="ev16">국화를 잔에 띄워 밝은 달 맞으니 / 끝없는 맑은 경치 나 혼자 즐기노라</span><a class="ev-tag" href="#q23-1">23-①</a><br>
+  북풍이 으스스하고 흰 눈이 흩날리니 / 언덕과 골짜기 경요굴이 되었거늘 (…)<br>
+  <span class="seg-label">[E]</span> 사계절 경치가 다 제각각 재촉하니 / 게으른 이 몸이 언제나 한가할까<br>
+  기쁨이 다하니 근심도 많이 난다<br>
+  변방의 병사는 언제쯤 돌아오며 / 임금은 정사를 어찌 돌보시는가</p>
+  <p class="muted" style="text-align:right">— 정훈, 「수남방옹가」</p>
+
+  <p class="src-label">(나) 김이익, 「금강영언록」</p>
+  <p class="verse">늙고 병든 이 내 몸이 죄명조차 지중하니 / 극중일월(棘中日月)에 일만염려 찬 재 같다 (제3수)<br>
+  죽어도 못 잊을 일 군친(君親)의 은혜로다 / 임금이 자식같이 보시던 은덕은 더욱 망극하여라 (제19수)<br>
+  새 짐승 중 못된 것은 두루미 네로구나 / 겉풍신 헛소리로 사람을 어리온다 / 닭만 못할까 하노라 (제27수)<br>
+  <span class="ev" id="ev17">섬은 조개 등만 하고 바다는 일배수 같아 / 이 내 몸을 용납하였으니 / 세상의 넓은 곳은 예뿐인가 하노라</span><a class="ev-tag" href="#q24-4">24-④</a> (제42수)</p>
+  <p class="muted" style="text-align:right">— 김이익, 「금강영언록」</p>
+
+  <p class="src-label">(다) 홍성민, 「촉견폐일설」</p>
+  <p>촉나라 남쪽은 비가 많아, 개는 해를 보면 짖는다. 해를 보고 짖는 게 아니라 ‘일상과 다름’을 보고 짖는 것이다. 이 개는 촉나라 하늘만 보아 ‘비가 일상’이고 ‘해는 이상한 것’이라, 이상하니 짖는다.</p>
+  <p class="muted">(중략)</p>
+  <p>촉나라에 비가 늘 내리지 않았다면 개는 해가 아니라 비를 짖었을 것이다. 사람도 악이 일상이 아니었다면 선이 아니라 악을 짖었을 것이다. <span class="ev" id="ev18">신하가 크게 걱정하는 것은 비가 항상 오는 것, 악을 항상 행하는 것뿐이다.</span><a class="ev-tag" href="#q25-2">25-②</a> 악이 일상적이지 않게 한다면 올바름을 보고 짖는 걱정도 끊어질 것이다. 해를 보고 짖는 개는 날씨에 달렸지만, 올바름을 보고 짖는 습성은 군왕이 마음을 바꾸는 데 달렸다.</p>
+  <p class="muted" style="text-align:right">— 홍성민, 「촉견폐일설」</p>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. (가)~(다)의 표현상의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q21-1">① 설의적 표현으로 말하고자 하는 바를 강조하고 있다.<a class="src-tag" href="#ev14">지문 근거</a></li>
+    <li id="q21-2">② 감탄사를 사용하여 대상에 대한 경외감을 나타내고 있다.</li>
+    <li id="q21-3">③ 음성상징어로 생동감 있게 상황을 제시하고 있다.</li>
+    <li id="q21-4">④ 묻고 답하는 방식으로 상대방의 인식 변화를 유도하고 있다.</li>
+    <li id="q21-5">⑤ 인간과 자연을 대비하여 현실 비판 의식을 드러내고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 세 글에 공통된 표현 기법을 찾는다.</p>
+        <p>(가) ‘나밖에 뉘 아는가’, (나) ‘면할쏘냐’, (다) ‘어찌 짖지 않겠는가’ — 모두 <strong>설의적 표현</strong>으로 뜻을 강조한다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>세 글 모두 설의적 표현.</td></tr>
+          <tr><td>②</td><td>오답</td><td>경외감 표현 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>음성상징어 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>문답 방식 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>인간·자연 대비 비판 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. [A]~[E]에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① [A]: 자연물을 통해 봄을 맞이하는 반가움을 드러낸다.</li>
+    <li id="q22-2">② [B]: 아이들에게 농사일에 대한 <strong>고단함</strong>을 드러낸다.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q22-3">③ [C]: 노래를 부르며 노동 후의 상쾌함을 드러낸다.</li>
+    <li id="q22-4">④ [D]: 산수에서 소일하는 즐거움을 드러낸다.</li>
+    <li id="q22-5">⑤ [E]: 사계절의 정취를 모두 누리고 싶은 마음을 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 구간이 ‘무슨 정서’를 드러내는지 본다.</p>
+        <p id="ev15">[B]는 ‘서쪽 밭에 일이 있다, 챙기거라’처럼 농사일을 <strong>지시·수행</strong>하는 대목이지, 고단함을 토로하는 게 아니다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>구간</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>[A]</td><td>적절</td><td>산새·꽃 = 봄 반가움.</td></tr>
+          <tr class="correct"><td>[B]</td><td class="ok">부적절</td><td>농사 지시이지 고단함 아님.</td></tr>
+          <tr><td>[C]</td><td>적절</td><td>채미가 → 상쾌함.</td></tr>
+          <tr><td>[D]</td><td>적절</td><td>산수 소일의 즐거움.</td></tr>
+          <tr><td>[E]</td><td>적절</td><td>사계절 정취 누리고 싶음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. (가)~(다)의 소재에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① (가)의 ‘달’은 (다)의 ‘해’와 달리 화자에게 흥취를 느끼게 한다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q23-2">② (나)의 ‘두루미’는 (가)의 ‘어조’와 달리 화자와 동일시된다.</li>
+    <li id="q23-3">③ (가)의 ‘흰 눈’은, (다)의 ‘구름’은 바라보려는 대상을 가린다.</li>
+    <li id="q23-4">④ (가)의 ‘휘파람’과 (나)의 ‘헛소리’는 모두 세상을 향한 비판 의식을 담는다.</li>
+    <li id="q23-5">⑤ (나)의 ‘바다’와 (다)의 ‘하늘’은 모두 탈속적 분위기를 조성한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 소재가 어떤 기능을 하는지 본다.</p>
+        <p>(가)의 ‘달’은 ‘맑은 경치를 혼자 즐기게’ 하는 <strong>흥취</strong>의 소재다. (다)의 ‘해’는 흥취와 무관하다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>‘달’ = 흥취.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘두루미’는 비판 대상.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘흰 눈’은 대상을 가리지 않음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘휘파람’엔 비판 의식 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>탈속적 분위기 조성 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>사대부들은 머무는 공간을 바탕으로 현재 처지·소회·유학자로서의 지향을 드러낸다. (가)는 향촌 은거 화자의 안빈낙도, (나)는 섬 유배 화자의 다양한 심정을 드러낸다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q24-1">① (가)의 ‘넉넉지 않’지만 ‘서러운 줄 모’른다에서 향촌 생활에 만족함을 알 수 있다.</li>
+    <li id="q24-2">② (가)의 ‘새 술’ 후 ‘미끼 없는 낚싯대’에서 자연 속 유유자적을 알 수 있다.</li>
+    <li id="q24-3">③ (나)의 ‘죄명’을 진 ‘극중일월’에서 유배지 처지를 알 수 있다.</li>
+    <li id="q24-4">④ (나)의 ‘조개 등’만큼 좁은 섬을 ‘세상 넓은 곳’으로 인식하는 데서 백성을 돌볼 <strong>사명감</strong>을 알 수 있다.<a class="src-tag" href="#ev17">지문 근거</a></li>
+    <li id="q24-5">⑤ (가)의 임금 걱정과 (나)의 ‘자식’처럼 여긴 ‘은덕’ 감사에서 유교적 충의를 알 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 좁은 섬을 ‘넓다’고 한 것이 무슨 의미인지 본다.</p>
+        <p>좁은 섬을 ‘세상 넓은 곳’으로 보는 것은 유배된 화자가 자기 <strong>처지를 받아들이는</strong> 인식이다. ‘백성을 돌볼 사명감’과는 무관하므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘서러운 줄 모름’ = 만족.</td></tr>
+          <tr><td>②</td><td>적절</td><td>미끼 없는 낚시 = 유유자적.</td></tr>
+          <tr><td>③</td><td>적절</td><td>죄명·극중일월 = 유배 처지.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>처지 인식이지 사명감 아님.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>임금 걱정·은덕 감사 = 충의.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. 〈보기〉를 참고하여 (다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(다)는 낯선 것을 보면 짖는 촉나라 개의 고사로, 사람들이 그릇된 습성을 갖게 되는 상황에 문제의식을 드러낸다. <b>악을 일상으로 여기는</b> 세태를 우려하며, 군왕이 부정적 현실을 개선해야 함을 말한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q25-1">① ‘해를 보고 짖는’ 촉나라 ‘개’는 선을 꺼리는 사람을 빗댄 것이다.</li>
+    <li id="q25-2">② ‘악을 항상 행하는 것’을 ‘신하가 크게 걱정’함은 <strong>익숙하지 않은</strong> 악을 따름에 대한 우려다.<a class="src-tag" href="#ev18">지문 근거</a></li>
+    <li id="q25-3">③ ‘악이 일상적이지 않게’ 함은 선을 일상으로 받아들이게 하는 방안이다.</li>
+    <li id="q25-4">④ ‘군왕이 한번 마음을 바꾸’면 그릇된 세태를 바로잡을 수 있다.</li>
+    <li id="q25-5">⑤ ‘올바름을 보고 짖는’ ‘이 세상’은 생소하다는 이유로 선을 배척하는 부정적 현실이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 〈보기〉의 ‘악을 일상으로 여김’과 선지의 ‘익숙하지 않은 악’을 대조한다.</p>
+        <p>신하가 걱정하는 것은 악이 <strong>일상이 되어(익숙해져)</strong> 사람들이 도리어 선을 짖는 세태다. ②의 ‘익숙하지 않은 악’은 정반대이므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>해를 짖는 개 = 선을 꺼리는 사람.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘익숙해진 악’(일상이 된 악)이 우려.</td></tr>
+          <tr><td>③</td><td>적절</td><td>악을 비일상화 = 선을 일상화.</td></tr>
+          <tr><td>④</td><td>적절</td><td>군왕의 마음 = 세태 교정.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘이 세상’ = 선 배척 현실.</td></tr>
         </tbody>
       </table>
     </div>
