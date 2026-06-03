@@ -12,7 +12,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -26,6 +26,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set8">29~33 독서(인문)</a>
   <a href="#set9">34~37 고전 소설</a>
   <a href="#set10">38~42 독서(기술)</a>
+  <a href="#set11">43~45 현대시</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1666,6 +1667,132 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>유기 물질 부식·연소=수명 단축.</td></tr>
           <tr><td>④</td><td>적절</td><td>외부 환경 반응 고려 필요.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>전극 도달 전자 비율 낮음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 문학(현대시) · 이성복 〈꽃피는 시절〉 · 권정우 〈저수지〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>두 시 모두 ‘자연 현상’을 관찰해 삶의 깨달음을 노래한다(45번 〈보기〉의 틀).</p>
+  <ul>
+    <li><strong>(가) 꽃피는 시절</strong> — ‘나’ 안의 ‘당신(꽃)’이 피어나는 개화 과정. 몸이 찢기는 ‘인고와 희생’.</li>
+    <li><strong>(나) 저수지</strong> — 모난 돌·검은 돌·하늘까지 상처 없이 받아들이는 저수지 = ‘포용’.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 43번은 ‘유사한 통사 구조 반복’이 공통점, 44번은 ‘㉡=당신의 안타까움’(당신은 나를 알지 못함), 45번은 ‘부르지 않아도 옴=희생’(자연 섭리에 따른 도래)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><b>(가) 이성복, 〈꽃피는 시절〉</b></p>
+  <p>멀리 있어도 나는 당신을 압니다 / 귀먹고 눈먼 당신은 추운 땅속을 헤매다 / ㉠<span class="ev" id="ev44-1">누군가의 입가에서 잔잔한 웃음이 되려 하셨지요</span><a class="ev-tag" href="#q44-1">㉠ 44-①</a></p>
+  <p><span class="ev ans" id="ev45-1">부르지 않아도 당신은 옵니다 / 생각지 않아도, 꿈꾸지 않아도 당신은 옵니다</span><a class="ev-tag ans" href="#q45-1">45-①</a> / 당신이 올 때면 먼발치 마른 흙더미도 고개를 듭니다</p>
+  <p>당신은 지금 내 안에 있습니다 / ㉡<span class="ev ans" id="ev44-2">당신은 나를 알지 못하고 / 나를 벗고 싶어 몸부림하지만</span><a class="ev-tag ans" href="#q44-2">㉡ 44-②</a></p>
+  <p>내게서 당신이 떠나갈 때면 / 내 목은 갈라지고 실핏줄 터지고 / 내 눈, 내 귀, 거덜 난 몸뚱이 갈가리 찢어지고 / ㉢<span class="ev" id="ev44-3">나는 울고 싶고, 웃고 싶고, 토하고 싶고 / 벌컥벌컥 물사발 들이켜고 싶고 길길이 날뛰며</span><a class="ev-tag" href="#q44-3">㉢ 44-③</a> / 절편보다 희고 고운 당신을 잎잎이, 뱉아낼 테지만</p>
+  <p>㉣<span class="ev" id="ev44-4">부서지고 무너지며 당신을 보낼 일 아득합니다 / 굳은 살가죽에 불 댕길 일 막막합니다</span><a class="ev-tag" href="#q44-4">㉣ 44-④·45-②</a> / 불탄 살가죽 뚫고 다시 태어날 일 꿈같습니다</p>
+  <p>지금 당신은 내 안에 있지만 / 나는 당신을 어떻게 보내드려야 할지 모르겠습니다 / ㉤<span class="ev" id="ev44-5">조막만 한 손으로 뻣센 내 가슴 쥐어뜯으며 발 구르는 당신</span><a class="ev-tag" href="#q44-5">㉤ 44-⑤</a></p>
+  <p><b>(나) 권정우, 〈저수지〉</b></p>
+  <p><span class="ev ans" id="ev43a">자기 안에 발 담그는 것들을 / 물에 젖게 하는 법이 없다 / 모난 돌멩이라고 / 모난 파문으로 대답하지 않는다 / 검은 돌멩이라고 / 검은 파문으로 대답하지 않는다</span><a class="ev-tag ans" href="#q43-5">43-⑤·45-③</a></p>
+  <p>산이고 구름이고 / 물가에 늘어선 나무며 나는 새까지 / 겹쳐서 들어가도 / 어느 것 하나 상처입지 않는다</p>
+  <p>바람은 / 쉴 새 없이 넘어가는 / 수면 위의 줄글을 다 읽기는 하는 건지 / <span class="ev" id="ev45-4">하늘이 들어와도 넘치지 않는다 / 바닥이 깊고도 / 높다</span><a class="ev-tag" href="#q45-4">45-④</a></p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① 명사로 시상을 마무리하여 여운을 남기고 있다.</li>
+    <li id="q43-2">② 구체적인 청자를 설정하여 시상을 전개하고 있다.</li>
+    <li id="q43-3">③ 반어적 표현을 활용하여 주제 의식을 드러내고 있다.</li>
+    <li id="q43-4">④ 하강적 이미지를 사용하여 시적 분위기를 조성하고 있다.</li>
+    <li id="q43-5">⑤ 유사한 통사 구조를 반복하여 시적 상황을 강조하고 있다.<a class="src-tag ans" href="#ev43a">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 시의 공통된 ‘표현 방식’을 본다.</p>
+        <p>(가)는 ‘-고 싶고’, (나)는 ‘~라고 ~ 파문으로 대답하지 않는다’처럼 <strong>유사한 통사 구조를 반복</strong>해 시적 상황을 강조한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>명사 마무리는 (가)만(공통 X).</td></tr>
+          <tr><td>②</td><td>오답</td><td>청자(‘당신’)는 (가)만.</td></tr>
+          <tr><td>③</td><td>오답</td><td>반어 표현 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>하강적 이미지 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>유사 통사 구조 반복.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. ‘나’와 ‘당신’의 관계를 바탕으로 ㉠~㉤을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① ㉠에는 ‘나’가 ‘당신’을 긍정적인 존재로 인식하고 있음이 드러나 있다.<a class="src-tag" href="#ev44-1">지문 근거</a></li>
+    <li id="q44-2">② ㉡에는 ‘나’를 인지하지 못하는 상황에 대한 ‘당신’의 <strong>안타까움</strong>이 드러나 있다.<a class="src-tag ans" href="#ev44-2">정답 근거</a></li>
+    <li id="q44-3">③ ㉢에는 ‘나’가 ‘당신’ 때문에 느껴야 하는 다양한 심정이 드러나 있다.<a class="src-tag" href="#ev44-3">지문 근거</a></li>
+    <li id="q44-4">④ ㉣에는 ‘당신’을 보낼 일에 대한 ‘나’의 막연함이 드러나 있다.<a class="src-tag" href="#ev44-4">지문 근거</a></li>
+    <li id="q44-5">⑤ ㉤에는 ‘나’에게서 벗어나려 애쓰는 ‘당신’의 모습이 드러나 있다.<a class="src-tag" href="#ev44-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉡에 드러난 것이 ‘당신의 안타까움’인지 본다.</p>
+        <p>㉡은 ‘당신은 나를 <strong>알지 못하고</strong>’ 벗어나려 몸부림한다는, ‘당신’이 ‘나’를 인지하지 못하는 상황을 보여 준다. 당신이 ‘안타까움’을 느낀다고 볼 근거는 없으므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘잔잔한 웃음이 되려’=긍정 인식.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>당신은 ‘나’를 알지 못함(안타까움 X).</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘울고/웃고/토하고 싶고’=다양한 심정.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘보낼 일 아득·막막’=막연함.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘쥐어뜯으며 발 구르는 당신’=벗어나려 애씀.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)·(나)는 자연 현상을 관찰해 얻은 삶의 깨달음을 노래한다. (가)는 개화 과정으로 ‘인고와 희생’을, (나)는 상처를 주는 존재마저 품는 저수지로 ‘포용’을 드러낸다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① (가)에서 ‘추운 땅속을 헤매다’가 ‘부르지 않아도’ 온다는 것은, 자연의 섭리에 따른 <strong>희생</strong>을 표현한 것이겠군.<a class="src-tag ans" href="#ev45-1">정답 근거</a></li>
+    <li id="q45-2">② (가)에서 ‘굳은 살가죽에 불’을 ‘댕길 일’은, 꽃을 피우는 순간 감당할 고통을 나타낸 것이겠군.<a class="src-tag" href="#ev44-4">지문 근거</a></li>
+    <li id="q45-3">③ (나)에서 ‘모난 돌멩이’를 ‘모난 파문으로’ 대하지 않는 것은, 상처 주는 존재마저 품는 모습이겠군.<a class="src-tag" href="#ev43a">지문 근거</a></li>
+    <li id="q45-4">④ (나)에서 ‘하늘’까지 ‘넘치지 않’게 받아들이는 것은, 저수지의 넓은 포용 범위를 나타낸 것이겠군.<a class="src-tag" href="#ev45-4">지문 근거</a></li>
+    <li id="q45-5">⑤ (가)는 ‘내 안’에서 꽃을 ‘뱉아’내는 과정을, (나)는 ‘자기 안’으로 존재가 ‘들어가’는 모습을 관찰한 깨달음이겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘부르지 않아도 옴’이 ‘희생’인지 본다.</p>
+        <p>‘부르지 않아도 당신은 옵니다’는 자연의 섭리에 따라 ‘당신(꽃)’이 <strong>찾아옴(도래)</strong>을 표현한 것이다. ‘희생’은 ‘나’의 몸이 찢기는 개화의 고통에서 드러나므로, 도래를 ‘희생’이라 본 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>‘부르지 않아도 옴’=섭리에 따른 도래(희생 X).</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘불 댕길 일’=개화의 고통.</td></tr>
+          <tr><td>③</td><td>적절</td><td>모난 돌도 품음=포용.</td></tr>
+          <tr><td>④</td><td>적절</td><td>하늘도 넘치지 않음=넓은 포용.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>각각 ‘내 안’·‘자기 안’ 관찰의 깨달음.</td></tr>
         </tbody>
       </table>
     </div>
