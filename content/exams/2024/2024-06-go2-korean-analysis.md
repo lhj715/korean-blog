@@ -12,7 +12,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~20번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -20,6 +20,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set2">4~7 화법·작문</a>
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
+  <a href="#set5">16~20 문학(갈래복합)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -627,6 +628,204 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>‘사ᄅᆞ미라’=이어적기.</td></tr>
           <tr class="correct"><td>④</td><td class="ok">부적절</td><td>‘-샤-’=주체 높임(객체 아님).</td></tr>
           <tr><td>⑤</td><td>적절</td><td>‘모ᄅᆞᄂᆞᆫ다’=의문형 ‘-ㄴ다’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set5" class="set-anchor"></div>
+
+## 16~20번 문학(갈래 복합) · 나위소 〈강호구가〉 · 이현 〈백상루별곡〉 · 김유정 〈오월의 산골짜기〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘자연’을 노래·묘사한 세 글이다. 자연이 화자/글쓴이에게 ‘어떤 의미’인지로 묶으면 된다.</p>
+  <ul>
+    <li><strong>(가) 강호구가</strong>(연시조) — 관직에서 물러난 노후의 안식처·자족의 공간이자, 임금에 대한 충성심이 유지되는 공간.</li>
+    <li><strong>(나) 백상루별곡</strong>(가사) — 백상루에 올라 바라보는 웅장한 누각·산수와 사람들의 소박한 생활.</li>
+    <li><strong>(다) 오월의 산골짜기</strong>(수필) — ‘실레’ 마을의 향토를, 사람들의 생활까지 곁들여 생동감 있게 묘사.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 16번은 ‘비유로 속성 드러냄’(물결=비단, 떡시루), 17번은 ‘[A] 누각=왕조 번영 기원’(실제론 감탄), 18번은 ‘번잡한 마음 해소’(오히려 겨를 없음)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><b>(가) 나위소, 〈강호구가〉</b></p>
+  <p>어버이 낳으시고 임금이 먹이시니 / 낳은 덕 먹인 은을 다 갚고자 하였더니 / <span class="ev" id="ev18-1">숙연히 칠십이 넘으니 할 일 없어 하노라 〈제1수〉</span><a class="ev-tag" href="#q18-1">18-①·②</a></p>
+  <p>연하에 깊이 곤 병 약이 효험 없어 / 강호에 버리언져 십 년 밖이 되었어라 / 그러나 이제 다 못 죽음도 긔 성은인가 하노라 〈제3수〉</p>
+  <p><span class="ev ans" id="ev16a">달 밝고 바람 자니 물결이 비단일다</span><a class="ev-tag ans" href="#q16-4">16-④</a> / 단정을 비껴 놓아 오락가락 하는 흥을 / ⓐ<span class="ev ans" id="ev19a">백구야 하 즐겨 말고려 세상 알까 하노라 〈제5수〉</span><a class="ev-tag ans" href="#q19-1">19-ⓐ</a></p>
+  <p>피 소주 무우저리 우습다 어른 대접 / 남은셔 이른 말이 초초타 하건마는 / <span class="ev" id="ev18-3">두어라 이도 내 분이니 분내사인가 하노라 〈제8수〉</span><a class="ev-tag" href="#q18-3">18-③</a></p>
+  <p><b>(나) 이현, 〈백상루별곡〉</b></p>
+  <p>들은 지 오래더니 보았구나 백상루 … 고려 옛터를 어느 해에 고쳤기에 / <span class="ev ans" id="ev17a">웅장한 누각이 어제 세운 듯하구나 / 처마가 높이 솟아 공중에 들렸으니 / 금빛 푸른빛 밝게 빛나 그림자가 물가에 뻗쳤네</span><a class="ev-tag ans" href="#q17-1">[A] 17-①</a></p>
+  <p>높은 난간 비겨 앉아 … 좌우 현판의 옛사람들 지은 시는 / <span class="ev" id="ev17b">풍경이 보채어 조화를 얻었으니 / 생각이 막혀 보탤 것이 전혀 없다</span><a class="ev-tag" href="#q17-2">[B] 17-②</a></p>
+  <p><span class="ev" id="ev17c">수많은 푸른 산 흰 구름 사이에 솟아나 … 묘향산이 마주보여 푸른 병풍을 둘렀도다</span><a class="ev-tag" href="#q17-3">[C] 17-③</a></p>
+  <p><span class="ev" id="ev17d">높다란 성곽이 산허리를 에둘러 … 변방의 방비는 철옹성에 가깝도다</span><a class="ev-tag" href="#q17-4">[D] 17-④</a></p>
+  <p>약산동대에 늦은 구름 다 걷히고 / <span class="ev" id="ev18-4">향로봉 어깨에 자줏빛 노을 비꼈을 때 창문을 열어젖히고 베개에 기대니 / 번잡한 마음에 눈까지도 겨를 없다</span><a class="ev-tag" href="#q18-4">18-④</a> (중략)</p>
+  <p>여울에 썰물 되어 물가가 옅어졌으니 / <span class="ev" id="ev18-5">마름 캐는 동자와 빨래하는 아녀자는 갯벌을 만나서 웃으며 가는가</span><a class="ev-tag" href="#q18-5">18-⑤</a> … 아침 물결 잔잔하여 수면이 맑으니 / <span class="ev" id="ev17e">눈앞이 어른어른 정신이 표연하니 / 열자가 바람을 타고 공중에 떠 있는 듯</span><a class="ev-tag" href="#q17-5">[E] 17-⑤</a></p>
+  <p><b>(다) 김유정, 〈오월의 산골짜기〉</b></p>
+  <p>나의 고향은 강원도 산골이다. … <span class="ev ans" id="ev16c">그 묻힌 모양이 마치 움푹한 떡시루 같다고 해서 동명을 ‘실레’라 부른다.</span><a class="ev-tag ans" href="#q16-4">16-④</a> 집이라야 <span class="ev" id="ev20-1">대부분 쓰러질 듯한 헌 초가요, 50여 호밖에 안 되는 빈약한 촌락</span><a class="ev-tag" href="#q20-1">20-①</a>이다. 그러나 <span class="ev" id="ev20-2">산천의 풍경으로 따지면 하나 흠잡을 데 없는 귀여운 전원이다.</span><a class="ev-tag" href="#q20-2">20-②</a></p>
+  <p>ⓑ<span class="ev ans" id="ev19b">뻐꾸기도 이 냄새에는 민감한 모양이다. … 한 해 만에 뻐꾸기 울음을 처음 들을 때처럼 반가운 일은 없다.</span><a class="ev-tag ans" href="#q19-1">19-ⓑ</a></p>
+  <p><span class="ev ans" id="ev20-3">산골에는 소 모는 노래가 따로 있어 논밭 일에 소를 부릴 때면 으레 그 노래를 부른다. … 산골이 홀로 가질 수 있는 성스러운 음악이다.</span><a class="ev-tag ans" href="#q20-3">20-③</a> <span class="ev" id="ev20-4">쫄쫄 내솟는 샘물 소리도, 촐랑촐랑 흘러내리는 시내도 좋다. 세차게 콸콸 쏠려 내리는 큰 내를 대하면 정신이 번쩍 든다.</span><a class="ev-tag" href="#q20-4">20-④</a> 모를 낼 때면 <span class="ev" id="ev20-5">즐거운 노래를 불러가며 한 포기 모를 심고 가을의 수확을 연상한다.</span><a class="ev-tag" href="#q20-5">20-⑤</a></p>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. (가)~(다)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① (가)는 색채어의 대비를 통해 대상을 생생하게 제시하고 있다.</li>
+    <li id="q16-2">② (나)는 명령형 어미를 통해 시적 긴장감을 조성하고 있다.</li>
+    <li id="q16-3">③ (다)는 자문자답의 방식으로 화자의 태도를 강조하고 있다.</li>
+    <li id="q16-4">④ (가)와 (다)는 비유적 표현을 통해 대상의 속성을 드러내고 있다.<a class="src-tag ans" href="#ev16a">정답 근거(가)</a><a class="src-tag ans" href="#ev16c">정답 근거(다)</a></li>
+    <li id="q16-5">⑤ (나)와 (다)는 과거와 현재를 대비하여 주제 의식을 부각하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 세 글의 공통/개별 표현 방식을 본다.</p>
+        <p>(가) ‘물결이 <strong>비단</strong>일다’, (다) ‘움푹한 <strong>떡시루 같다</strong>’처럼 비유적 표현으로 대상의 속성을 드러낸다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>(가) 색채어 ‘대비’ 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나) 명령형으로 긴장감 X.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(다) 자문자답 아님.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>비유(비단·떡시루)로 속성 드러냄.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>과거-현재 대비로 주제 부각 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. [A]~[E]에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q17-1">① [A]: 누각의 모습을 보며 왕조의 번영을 기원하고 있다.<a class="src-tag ans" href="#ev17a">정답 근거</a></li>
+    <li id="q17-2">② [B]: 옛사람들이 지은 시를 긍정적으로 평가하고 있다.<a class="src-tag" href="#ev17b">지문 근거</a></li>
+    <li id="q17-3">③ [C]: 구름과 어우러진 산의 모습에 대한 인상을 드러내고 있다.<a class="src-tag" href="#ev17c">지문 근거</a></li>
+    <li id="q17-4">④ [D]: 성곽의 모습을 보고 변방 수비가 든든하다고 판단하고 있다.<a class="src-tag" href="#ev17d">지문 근거</a></li>
+    <li id="q17-5">⑤ [E]: 아침 풍경을 보는 화자의 내면을 ‘열자’와 연관 지어 표현하고 있다.<a class="src-tag" href="#ev17e">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]가 ‘기원’인지 ‘감탄’인지 본다.</p>
+        <p>[A]는 ‘웅장한 누각이 어제 세운 듯’ 그 형상에 <strong>감탄</strong>하는 것이지, 왕조의 번영을 ‘기원’하는 것이 아니다. ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>누각의 웅장함에 감탄(번영 기원 X).</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘조화 얻었으니·보탤 것 없다’=긍정 평가.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘흰 구름 사이 솟·푸른 병풍’=산 인상.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘철옹성’=변방 수비 든든.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘열자가 바람 타고’=내면 표현.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)에서 자연은 만년에 관직에서 물러난 화자의 노후 안식처·자족의 공간이자 임금에 대한 충성심이 유지되는 공간이다. (나)에서 자연은 화자가 백상루에서 바라보며 감흥을 느끼는 대상으로, 아름다운 풍광과 사람들의 소박한 생활이 드러나는 공간이다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q18-1">① (가) ‘이제 다 못 죽음’을 ‘성은’으로 여기는 데서, 자연에서도 임금에 대한 충성심을 지님을 볼 수 있군.</li>
+    <li id="q18-2">② (가) ‘칠십이 넘’은 화자가 ‘강호’에서 ‘십 년’ 넘게 산 데서, 자연을 노후의 안식처로 여김을 볼 수 있군.</li>
+    <li id="q18-3">③ (가) 남이 ‘초초타 하’는 것을 ‘내 분’으로 여기는 데서, 은퇴 후 삶에 만족함을 볼 수 있군.</li>
+    <li id="q18-4">④ (나) ‘향로봉’에 노을이 질 때 ‘창문을 열’고 ‘베개에 기대’는 데서, 번잡한 마음이 자연 풍광으로 <strong>해소</strong>되었다고 볼 수 있군.</li>
+    <li id="q18-5">⑤ (나) ‘동자’가 ‘마름 캐’고 ‘아녀자’가 ‘빨래하는’ 데서, 소박한 생활이 이루어지는 공간임을 볼 수 있군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 풍광이 마음을 ‘해소’시켰는지 본다.</p>
+        <p>창문을 열고 베개에 기댄 것은 풍경을 바라보는 모습일 뿐, 바로 뒤 ‘번잡한 마음에 눈까지도 <strong>겨를 없다</strong>’고 하므로 마음이 ‘해소’됐다고 볼 수 없다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘성은’=충성심 지속.</td></tr>
+          <tr><td>②</td><td>적절</td><td>강호 십 년=노후 안식처.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘내 분’=자족·만족.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>오히려 ‘겨를 없다’ — 해소 아님.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>마름·빨래=소박한 생활.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. ⓐ(백구)와 ⓑ(뻐꾸기)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① ⓐ는 화자의 즐거움이 투영된, ⓑ는 글쓴이의 반가움을 유발하는 대상이다.<a class="src-tag ans" href="#ev19a">정답 근거(ⓐ)</a><a class="src-tag ans" href="#ev19b">정답 근거(ⓑ)</a></li>
+    <li id="q19-2">② ⓐ는 화자의 내적 성찰을 일으키는, ⓑ는 글쓴이의 경험을 환기하는 대상이다.</li>
+    <li id="q19-3">③ ⓐ는 화자에게 세월의 흐름을, ⓑ는 글쓴이에게 계절의 변화를 인식하게 하는 대상이다.</li>
+    <li id="q19-4">④ ⓐ는 화자의 한가로운 삶의 태도를, ⓑ는 글쓴이의 현실 도피적 삶의 태도를 드러낸다.</li>
+    <li id="q19-5">⑤ ⓐ는 세상에 대한 화자의 비판적 태도를, ⓑ는 산골에 대한 글쓴이의 우호적 태도를 보여 준다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 자연물이 각 화자에게 어떤 대상인지 본다.</p>
+        <p>ⓐ백구는 화자가 흥에 겨워 ‘하 즐겨 말라’ 할 만큼 <strong>즐거움이 투영</strong>된 대상, ⓑ뻐꾸기는 한 해 만에 울음을 들어 ‘반가운’ 대상이다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ=즐거움 투영, ⓑ=반가움 유발.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓐ 내적 성찰 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>세월·계절 인식 초점 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓑ 현실 도피 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ⓐ 비판적 태도 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. 〈보기〉를 참고하여 (다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>1930년대 문학에서 향토는 현실적 삶을 배제한 낭만적 전원으로 그려지는 경우가 많았다. (다)는 이 경향을 받아들이되 산골 사람들의 ‘생활 모습’까지 그려 일상이 깃든 산골을 보여 주며, 자연은 세밀한 묘사로 구체성·생동감을 얻는다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q20-1">① ‘쓰러질 듯한 헌 초가’에서 산골 사람들의 궁핍한 삶이 짐작되는군.<a class="src-tag" href="#ev20-1">지문 근거</a></li>
+    <li id="q20-2">② ‘하나 흠잡을 데 없는 귀여운 전원’이라 한 것은 산골을 낭만적 전원으로 제시한 것이군.<a class="src-tag" href="#ev20-2">지문 근거</a></li>
+    <li id="q20-3">③ ‘논밭 일에 소를 부릴 때면 으레 그 노래를 부’르는 데서 <strong>현실적 삶을 배제한</strong> 산골의 모습이 드러나는군.<a class="src-tag ans" href="#ev20-3">정답 근거</a></li>
+    <li id="q20-4">④ ‘샘물·시내·큰 내’의 물소리를 하나하나 묘사한 데서 산골 자연이 생동감 있게 드러나는군.<a class="src-tag" href="#ev20-4">지문 근거</a></li>
+    <li id="q20-5">⑤ 농군이 ‘즐거운 노래를’ 부르며 ‘논에 모를 내는’ 데서 산골 사람들의 건강한 생활이 확인되는군.<a class="src-tag" href="#ev20-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 소 모는 노래가 ‘생활 배제’인지 ‘생활 모습’인지 본다.</p>
+        <p>‘소 모는 노래’는 산골 사람들의 <strong>생활 모습</strong>을 드러낸 것이다. 〈보기〉의 ‘현실적 삶을 배제한’ 경향과 반대이므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>헌 초가=궁핍한 삶.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘귀여운 전원’=낭만적 제시.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>소 모는 노래=생활 모습(배제 아님).</td></tr>
+          <tr><td>④</td><td>적절</td><td>물소리 묘사=생동감.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>모내기 노래=건강한 생활.</td></tr>
         </tbody>
       </table>
     </div>
