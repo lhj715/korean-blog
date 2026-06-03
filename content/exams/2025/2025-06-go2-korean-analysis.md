@@ -12,7 +12,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~34번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -24,6 +24,8 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set6">21~25 고전 복합</a>
   <a href="#set7">26~30 독서(사회)</a>
   <a href="#set8">31~34 현대소설</a>
+  <a href="#set9">35~37 현대시</a>
+  <a href="#set10">38~42 독서(주제 통합)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1366,6 +1368,327 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>품음 = 위로.</td></tr>
           <tr class="correct"><td>④</td><td class="ok">부적절</td><td>자기 이야기를 더 듣고 싶은 것.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>역사 날염 흉터 = 약자.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+## 35~37번 현대시 · 백석 「선우사」와 송찬호 「고래의 꿈」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>두 시 모두 ‘현실에 어떻게 맞서나’를 그리되 방법이 다르다.</p>
+  <ul>
+    <li><strong>(가) 백석 「선우사」</strong> — ‘흰밥·가자미·나’를 친구로 의인화. 욕심 없어 희어진 존재들과의 유대로, 가난해도 서럽지 않은 <strong>순수한 삶</strong>을 지향.</li>
+    <li><strong>(나) 송찬호 「고래의 꿈」</strong> — ‘고래는 사라졌다’는 회의에 맞서 <strong>꿈을 포기하지 않겠다는 의지</strong>. 화분·동력 등으로 전진을 다짐.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 36번은 ‘㉤=역동적 다짐이지 고래보다 앞서려는 게 아님’, 37번은 ‘진주 계곡·새 뻘집=고래 이야기 속 장소이지 꿈 실현 공간 아님’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 37] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="src-label">(가) 백석, 「선우사(膳友辭)」</p>
+  <p class="verse">낡은 나조반에 <span class="ev" id="ev28">흰밥</span><a class="ev-tag" href="#q35-4">35-④</a>도 가자미도 나도 나와 앉아서 / 쓸쓸한 저녁을 맞는다<br>
+  흰밥과 가자미와 나는 / 우리들은 그 무슨 이야기라도 다 할 것 같다<br>
+  우리들은 서로 미덥고 정답고 그리고 서로 좋구나 (…)<br>
+  외따른 산골에서 소리개 소리 배우며 다람쥐 동무하고 자라난 탓이다<br>
+  우리들은 모두 욕심이 없어 희어졌다 / 착하디착해서 세과슨 가시 하나 손아귀 하나 없다 (…)<br>
+  우리들은 가난해도 서럽지 않다 / 우리들은 외로워할 까닭도 없다 / 그리고 누구 하나 부럽지도 않다<br>
+  흰밥과 가자미와 나는 / 우리들이 같이 있으면 / 세상 같은 건 밖에 나도 좋을 것 같다</p>
+  <p class="muted" style="text-align:right">— 백석, 「선우사」</p>
+
+  <p class="src-label">(나) 송찬호, 「고래의 꿈」</p>
+  <p class="verse">나는 ㉠<u>늘</u> 고래의 꿈을 꾼다<br>
+  ㉡<u>언젠가</u> 고래를 만나면 그에게 줄 / 물을 내뿜는 작은 화분 하나도 키우고 있다<br>
+  깊은 밤 나는 심해의 고래 방송국에 주파수를 맞추고 / 길고 아름다운 허밍에 귀 기울이곤 한다 (…)<br>
+  누군가는 이런 말을 한다 고래는 사라져버렸어 / 그런 커다란 꿈은 이미 존재하지도 않아<br>
+  하지만 나는 바다의 목로에 앉아 ㉢<u>여전히</u> 고래의 이야길 듣는다<br>
+  해마들이 진주의 계곡을 발견했대 / 농게 가족이 새 뻘집으로 이사를 한다더군 (…)<br>
+  내게는 ㉣<u>아직</u> 많은 날들이 있다 내일은 5마력의 동력을 / 배에 더 얹어야겠다 깨진 파도의 유리창을 갈아 끼워야겠다<br>
+  저 아래 물밑을 흐르는 어뢰의 아이들 손을 잡고 ㉤<u>쏜살같이</u> 해협을 달려봐야겠다<br>
+  (…) 하얗게 물을 뿜어 올리는 화분 하나 등에 얹고 / 어린 고래로 돌아오는 꿈</p>
+  <p class="muted" style="text-align:right">— 송찬호, 「고래의 꿈」</p>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① (가)는 (나)와 달리 청각적 심상으로 대상의 특성을 드러낸다.</li>
+    <li id="q35-2">② (나)는 (가)와 달리 동일한 서술어를 반복하여 시적 의미를 강조한다.</li>
+    <li id="q35-3">③ (가)는 대화의 방식으로, (나)는 독백의 방식으로 시상을 전개한다.</li>
+    <li id="q35-4">④ (가)와 (나)는 모두 색채어를 사용하여 대상의 모습을 선명하게 제시한다.<a class="src-tag" href="#ev28">지문 근거</a></li>
+    <li id="q35-5">⑤ (가)와 (나)는 모두 계절의 흐름에 따른 대상의 변화 과정을 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 시의 공통 표현 기법을 본다.</p>
+        <p>(가)는 ‘<strong>흰</strong>밥’, (나)는 ‘<strong>하얗게</strong>’로 흰색 색채어를 써 대상을 선명히 제시한다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>청각 심상은 둘 다 있음(‘(가)만’ 아님).</td></tr>
+          <tr><td>②</td><td>오답</td><td>서술어 반복은 (가)의 특징.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(가)도 독백.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>흰밥·하얗게 = 색채어.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>계절 변화 과정 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. ㉠~㉤의 의미를 고려하여 (나)를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① ㉠(늘): 화자가 지속적으로 고래의 꿈을 품고 있음.</li>
+    <li id="q36-2">② ㉡(언젠가): 고래와의 만남이 실현되리라는 막연한 기대.</li>
+    <li id="q36-3">③ ㉢(여전히): 고래가 존재한다는 변함없는 믿음.</li>
+    <li id="q36-4">④ ㉣(아직): 꿈이 이루어질 가능성이 남아 있음.</li>
+    <li id="q36-5">⑤ ㉤(쏜살같이): 고래보다 앞서 나아가려는 화자의 열정.<a class="src-tag" href="#ev29">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉤이 무엇을 부각하는 부사어인지 본다.</p>
+        <p id="ev29">㉤‘쏜살같이’는 바다로 나아가는 <strong>역동적 움직임(다짐)</strong>을 부각한다. ‘고래보다 앞서려는’ 것이 아니므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>늘 = 지속적 꿈.</td></tr>
+          <tr><td>②</td><td>적절</td><td>언젠가 = 막연한 기대.</td></tr>
+          <tr><td>③</td><td>적절</td><td>여전히 = 변함없는 믿음.</td></tr>
+          <tr><td>④</td><td>적절</td><td>아직 = 가능성 남음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>역동적 다짐이지 ‘앞서기’ 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)는 밥·반찬에 대한 유대감을 바탕으로 부정적 현실에서도 <b>순수한 삶</b>을 지향한다. (나)는 고래에 대한 상상력으로 희망에 대한 회의적 시선에 맞서 <b>꿈을 포기하지 않겠다</b>는 의지를 드러낸다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q37-1">① (가)의 ‘흰밥과 가자미와 나’를 ‘무슨 이야기’든 할 수 있는 관계로 여김은 친밀감을 보여 준다.</li>
+    <li id="q37-2">② (가)의 ‘세상 같은 건 밖에’ 두어도 ‘좋을 것 같다’는 세상의 이해관계에서 벗어난 삶을 추구한다.</li>
+    <li id="q37-3">③ (나)의 ‘누군가’가 ‘그런 커다란 꿈’을 부정함은 화자가 희망에 대한 불신을 마주함을 보여 준다.</li>
+    <li id="q37-4">④ (나)의 ‘깨진 파도의 유리창’을 ‘갈아 끼’우겠다는 것은 꿈을 향해 전진하려는 다짐이다.</li>
+    <li id="q37-5">⑤ (가)의 ‘외따른 산골’은 화자가 <strong>궁핍하게</strong> 사는 공간을, (나)의 ‘진주의 계곡’·‘새 뻘집’은 화자의 꿈이 <strong>실현된</strong> 공간을 보여 준다.<a class="src-tag" href="#ev30">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 공간이 정말 ‘궁핍·꿈 실현’ 공간인지 본다.</p>
+        <p id="ev30">(가)의 ‘외따른 산골’은 자연 속에서 <strong>소박하게 자란</strong> 곳이지 궁핍을 강조하는 공간이 아니다. (나)의 ‘진주의 계곡·새 뻘집’은 <strong>고래 이야기 속 장소</strong>일 뿐 꿈이 실현된 공간이 아니다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>이야기 나누는 관계 = 친밀감.</td></tr>
+          <tr><td>②</td><td>적절</td><td>세상 밖 = 이해관계 초월.</td></tr>
+          <tr><td>③</td><td>적절</td><td>꿈 부정 = 희망 불신.</td></tr>
+          <tr><td>④</td><td>적절</td><td>유리창 갈기 = 전진 다짐.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>소박한 성장 공간·이야기 속 장소.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 38~42번 독서(주제 통합) · 역사학의 두 시선 — 카의 역사관과 ‘언어로의 전환’
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가)는 <strong>카의 역사관</strong>, (나)는 <strong>언어로의 전환</strong>이다. ‘역사가의 역할’과 ‘언어의 한계’를 각각 잡는다.</p>
+  <ul>
+    <li><strong>(가) 카</strong> — 사실을 ‘과거에 대한 사실 → 역사상의 사실(역동적) → 역사적 사실(정태적)’로 구분. 역사가는 ‘사실의 지배자’가 되면 안 됨. 상상적 이해 강조.</li>
+    <li><strong>(나) 언어로의 전환</strong> — 소쉬르(기표·기의 자의적 결합, 간극)·비트겐슈타인(가족 유사성) → 언어의 ‘지시적 불투명성’. 사료→텍스트 재개념화, ‘담론’이 의미를 조직.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 39번은 ‘역사상의 사실=역동적’(정태적 아님), 40번은 ‘카는 자아 소거를 부정’(B와 상반), 42번은 ‘견지=굳게 지킴’(정의 아님)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[38 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="src-label">(가) 카의 역사관</p>
+  <p>실증주의(랑케)는 과거를 있는 그대로 복원하려 했으나 주관주의(콜링우드)의 비판을 받았다. <strong>카</strong>는 사료 검증을 인정하면서도 역사가의 선택·해석이 필연적으로 주관성을 ⓐ<u>수반</u>한다고 보아, 역사를 ‘현재와 과거의 끊임없는 대화’로 정의했다.</p>
+  <p><span class="ev" id="ev31">카는 사실을 ‘과거에 대한 사실’(기록된 과거)·‘역사상의 사실’(역사가가 선택한 사실)·‘역사적 사실’(중요성이 보편 인정된 사실)로 구분했다.</span><a class="ev-tag" href="#q38-2">38-②</a> ㉠<u>역사가는 ‘사실에 대한 지배자’가 되어서는 안 된다</u>며, 잘못 해석할 가능성을 줄이려 끊임없이 의심·비판하는 태도를 ⓑ<u>견지</u>해야 한다고 했다. <span class="ev" id="ev32">‘역사상의 사실’은 변화·재해석 가능성이 높아 역동적이지만, ‘역사적 사실’은 정태적이다.</span><a class="ev-tag" href="#q39-1">39-①</a></p>
+  <p>콜링우드는 역사가 항상 오염돼 과학적 객관성을 얻을 수 없다고 했다. <span class="ev" id="ev33">이와 관련해 카는 역사가가 자아를 완전히 소거할 수 없다고 보아 책임감과 상상적 이해(과거 인물의 생각·행동을 맥락 속에서 재구성)를 강조했다.</span><a class="ev-tag" href="#q40-3">40-③</a></p>
+  <p>카의 역사관은 객관적 진실을 모호하게 한다는 지적도 받지만, 역사학을 현재와의 상호작용 속 역동적 학문으로 재정립했다는 점에서 ⓒ<u>한정</u>하지 않고 높이 평가받는다.</p>
+  <p class="src-label">(나) 언어로의 전환</p>
+  <p>‘언어로의 전환’은 역사 연구 대상을 ‘과거 사실’에서 ‘과거 사실을 지칭하는 언어’로 옮긴 것으로, 소쉬르의 기호학적 언어관에 영향받았다.</p>
+  <p>소쉬르는 언어를 기표(형식)·기의(의미)의 결합으로 보되, 둘의 관계가 자의적이라 항상 간극이 있다고 했다. 비트겐슈타인도 언어는 개별 실재가 아니라 ‘가족 유사성’(부분적 유사성으로 한 범주로 묶임)을 표상한다고 했다. 그래서 언어는 실재를 투명하게 드러내지 못하는 <strong>지시적 불투명성</strong>을 ⓓ<u>내포</u>한다.</p>
+  <p>이에 사료는 저자의 기호 작업 산물이라 과거 실재와 동일시될 수 없게 됐고, 모든 자료가 <strong>텍스트</strong>(그림·낙서·조각·의복 등 의미를 ⓔ<u>추출</u>할 수 있는 모든 것)로 재개념화돼 연구 대상이 확장됐다. 텍스트가 의미를 생산·조직하는 규칙이 <strong>담론</strong>이다. 콜럼버스의 신대륙 발견이 ‘업적’도 ‘침탈’로도 담론화되듯, 담론은 특정 입장을 중심 가치로 만들고 권력·이데올로기 형성에 영향을 준다.</p>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q38-1">① (가)는 역사가의 주장으로 현대 사회 문제를 조망, (나)는 특정 관점을 반박하는 새 이론을 제시한다.</li>
+    <li id="q38-2">② (가)는 특정 역사가가 주장한 개념을 유형별로 언급, (나)는 특정 관점의 등장이 분야에 미친 영향을 소개한다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+    <li id="q38-3">③ (가)는 평가가 시대별로 달라진 원인을 분석, (나)는 관점의 장단점을 다양하게 비교한다.</li>
+    <li id="q38-4">④ (가)는 주장의 변화 과정을 통시적으로 제시, (나)는 관점을 사례로 설명한다.</li>
+    <li id="q38-5">⑤ (가)는 주장의 한계·의의를 제시, (나)는 상반된 입장 후 절충 방안을 모색한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글의 ‘서술 방식’을 본다.</p>
+        <p>(가)는 카의 ‘사실’ 개념을 세 유형으로 나눠 설명하고, (나)는 ‘언어로의 전환’이 역사학에 미친 영향을 소개한다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>현대 문제 조망·반박 이론 없음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>개념 유형별 + 영향 소개.</td></tr>
+          <tr><td>③</td><td>오답</td><td>시대별 원인·장단점 비교 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가)는 통시적 변화 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나)는 절충 방안 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. (가), (나)를 이해한 것으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① (가): ‘역사상의 사실’은 변화·재해석이 어려워 <strong>정태적</strong>이다.<a class="src-tag" href="#ev32">지문 근거</a></li>
+    <li id="q39-2">② (가): ‘역사적 사실’은 ‘역사상의 사실’이 보편적 중요성을 인정받은 것이다.</li>
+    <li id="q39-3">③ (나): ‘지시적 불투명성’은 언어가 실재를 표상하는 과정에서 필연적이다.</li>
+    <li id="q39-4">④ (나): 사료가 텍스트로 재개념화되며 연구 범위가 해석 가능한 모든 대상으로 확대됐다.</li>
+    <li id="q39-5">⑤ (나): ‘담론’은 특정 입장을 중심 가치로 만들고 권력·이데올로기 형성에 영향을 준다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘역사상의 사실’이 역동적인지 정태적인지 본다.</p>
+        <p>‘역사상의 사실’은 변화·재해석 가능성이 높아 <strong>역동적</strong>이다. ‘정태적’인 것은 ‘역사적 사실’이므로 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>역사상의 사실 = 역동적.</td></tr>
+          <tr><td>②</td><td>적절</td><td>보편 인정 = 역사적 사실.</td></tr>
+          <tr><td>③</td><td>적절</td><td>불투명성은 필연.</td></tr>
+          <tr><td>④</td><td>적절</td><td>텍스트화 → 범위 확대.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>담론 → 권력·이데올로기.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. (가), (나)를 바탕으로 〈보기〉에 대해 보일 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>A</b>: 역사서는 ‘기의 없는 기표들의 조합’에 불과해 객관적 재현이 불가능하고, 의미는 독자의 주관적 해석에 맡겨야 한다.<br>
+    <b>B</b>: 역사학은 과학적 방법론에 기반해야 하며, 주관적 해석을 최소화하고 과거를 있는 그대로 복원·전달하는 것이 역사가의 과제다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q40-1">① A(독자 해석)와 (가) 카(역사가 주체)는 모두 역사적 의미의 변화 가능성에 동의하겠군.</li>
+    <li id="q40-2">② A(기표 조합)와 (나) 비트겐슈타인(실재 표상 어려움)은 모두 언어적 서술의 한계에 동의하겠군.</li>
+    <li id="q40-3">③ B(가감 없는 전달)와 (가) 카(상상적 이해)는 모두 역사가의 <strong>자아를 소거</strong>해야 한다는 데 동의하겠군.<a class="src-tag" href="#ev33">지문 근거</a></li>
+    <li id="q40-4">④ B(과학적 방법론)에 대해 (가) 콜링우드는 객관성 확보가 어렵다며 비판하겠군.</li>
+    <li id="q40-5">⑤ B(객관적 복원)에 대해 (나) 소쉬르는 기표·기의의 간극을 근거로 부정적이겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 카가 ‘자아 소거’에 동의하는지 본다.</p>
+        <p>B는 자아를 소거한 객관적 전달을 주장하지만, 카는 역사가가 <strong>자아를 완전히 소거할 수 없다</strong>며 상상적 이해를 강조한다. 둘은 상반되므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>둘 다 의미 변화 가능성 인정.</td></tr>
+          <tr><td>②</td><td>적절</td><td>둘 다 언어 한계 인정.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>카는 자아 소거를 부정.</td></tr>
+          <tr><td>④</td><td>적절</td><td>콜링우드 = 객관성 비판.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>소쉬르 = 간극 근거 부정적.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. ㉠(역사가는 ‘사실에 대한 지배자’가 되어서는 안 된다)의 의미를 추론한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q41-1">① 역사가는 사실을 해석이 불가능한 실체로 취급하지 않아야 한다.</li>
+    <li id="q41-2">② 역사가는 사실을 지나치게 주관적으로 해석하지 않도록 경계해야 한다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q41-3">③ 역사가는 역사의 지배에서 벗어나려 고정적 의미를 거부해야 한다.</li>
+    <li id="q41-4">④ 역사가는 자의적 해석에서 벗어나 합의된 하나의 해석을 지향해야 한다.</li>
+    <li id="q41-5">⑤ 역사가는 우위를 유지하려 주관성을 획득해야 한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘사실의 지배자가 되지 말라’는 말의 함의를 본다.</p>
+        <p>카는 해석의 주관성은 인정하되, 사실을 마음대로 바꾸는 <strong>지나친 주관성을 경계</strong>하라고 했다. ㉠은 객관적 사실을 왜곡하지 말라는 뜻이므로 ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해석 자체는 인정함.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>지나친 주관 해석 경계.</td></tr>
+          <tr><td>③·④·⑤</td><td>오답</td><td>고정 의미 거부·단일 해석·우위 유지 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. ⓐ~ⓔ의 사전적 의미로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q42-1">① ⓐ(수반): 어떤 일과 더불어 생김.</li>
+    <li id="q42-2">② ⓑ(견지): 어떤 말이나 사물의 뜻을 명백히 밝혀 규정함.</li>
+    <li id="q42-3">③ ⓒ(한정): 수량이나 범위 따위를 제한하여 정함.</li>
+    <li id="q42-4">④ ⓓ(내포): 어떤 성질이나 뜻 따위를 속에 품음.</li>
+    <li id="q42-5">⑤ ⓔ(추출): 전체 속에서 어떤 물건·생각·요소 따위를 뽑아냄.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 단어와 풀이가 맞는지 본다.</p>
+        <p>‘견지(堅持)’는 ‘견해·입장을 <strong>굳게 지님</strong>’의 뜻이다. ②의 풀이(‘뜻을 명백히 밝혀 규정함’)는 ‘정의(定義)’의 뜻이므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>수반 = 더불어 생김.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>견지=굳게 지킴(풀이는 ‘정의’).</td></tr>
+          <tr><td>③</td><td>적절</td><td>한정 = 제한해 정함.</td></tr>
+          <tr><td>④</td><td>적절</td><td>내포 = 속에 품음.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>추출 = 뽑아냄.</td></tr>
         </tbody>
       </table>
     </div>
