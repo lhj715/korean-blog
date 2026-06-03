@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~13번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~17번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -598,6 +598,161 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
       <div class="trap">
         <div class="trap-head">조심할 점 — 오답률 70.2%, ‘인도 시점’이 함정</div>
         <p>‘인도의무 없음’이면 시점은 <strong>A→최초 운송인 인도 때</strong>다. ②는 ‘운송인→B 운송 때’로 한 단계 뒤로 미뤘다. 사례에선 ‘인도의무 유무’를 먼저 확인하고 해당 시점을 지문에서 찾는다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (14~17번 · 독서)
+
+<div class="passage">
+  <p class="passage-guide">[14 ~ 17] 마찰 전기 나노 발전기(TENG)의 구조와 원리(기술).<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>물질은 양전하의 원자핵과 음전하의 전자로 된 원자로 이루어지는데, <span class="ev" id="ev22">물질마다 전자를 끌어당기는 능력인 전자 친화도가 다르다.</span><a class="ev-tag" href="#q14-1">14-①</a> <span class="ev" id="ev23">유리보다 전자를 더 강하게 끌어당기는 비닐은 유리보다 전자 친화도가 크다.</span><a class="ev-tag" href="#q14-3">14-③</a> 전자 친화도가 다른 두 물질이 접촉하면 친화도가 큰 물질 쪽으로 전자가 이동하여 <span class="ev" id="ev25">한쪽에는 (+), 다른 쪽에는 (−)의 표면 전하가 생긴다.</span><a class="ev-tag" href="#q14-5">14-⑤</a> 이 원리로 전류를 발생시키는 것이 마찰 전기 나노 발전기(TENG)다.</p>
+  <p>TENG에는 수직 방식과 슬라이딩 방식이 있다. ㉠ <strong>수직 방식</strong>은 두 물질이 수직으로 접촉·분리를 반복하며 전기를 낸다. 친화도가 큰 A와 작은 B에 전극을 붙여 외부 도선으로 연결했다고 하자. <strong>(Ⅰ)</strong> 분리 상태 — 중성·전위차 없음. <strong>(Ⅱ)</strong> 외력으로 접촉 — <span class="ev" id="ev24">전자가 B에서 A로 이동해 접촉면에 반대 부호 표면 전하가 형성된다.</span><a class="ev-tag" href="#q14-2">14-②</a> 두 물질이 붙어 있어 전위차는 없다.</p>
+  <p><strong>(Ⅲ)</strong> 다시 분리되어 거리가 멀어지면 표면 전하 사이 거리 변화로 전위차가 생긴다. 중성이 되기 위해 전자가 외부 도선을 통해 A→B로 흐르고(전류는 B→A, 양의 값), 다시 접촉이 진행되면 방향이 반전(음의 값)된다. 이 접촉–분리 반복으로 <strong>교류</strong> 전류가 나타난다.</p>
+  <p>㉡ <strong>슬라이딩 방식</strong>은 접촉한 상태에서 한쪽이 수평으로 미끄러지며 접촉 면적을 바꾼다. 면적이 줄면 접촉하지 않게 된 부분의 표면 전하가 평형을 잃어 전위차가 생기고, 이를 줄이려 전자가 외부 도선으로 이동해 전류가 발생한다. 면적이 다시 늘면 방향이 반전된다.</p>
+  <p><span class="ev" id="ev28">접촉의 기계적 움직임을 전자 이동이라는 전기적 에너지로 변환시키는</span><a class="ev-tag" href="#q15-1">15-①</a> TENG의 성능을 높이려면 유효 접촉 면적을 늘리는 것이 중요하다. 평평해 보이는 면도 미세하게는 높낮이가 균일하지 않아 일부만 접촉한다. 따라서 ㉮ <span class="ev" id="ev27">접촉면에 균일한 높낮이의 미세한 나노 패턴을 만들면 실제로 맞닿는 접촉점을 늘릴 수 있다.</span><a class="ev-tag" href="#q16-1">16-①</a> (그러면 표면 전하가 더 많이 형성되어 더 많은 전기 에너지를 얻는다.)</p>
+</div>
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q14-1">① 전자를 끌어당기는 능력인 전자 친화도는 물질에 따라 다르다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q14-2">② 두 물질이 접촉했을 때 접촉면을 통해 전자가 이동할 수 있다.<a class="src-tag" href="#ev24">지문 근거</a></li>
+    <li id="q14-3">③ 유리는 비닐보다 전자 친화도가 작기 때문에 비닐보다 전자를 강하게 끌어당긴다.<a class="src-tag" href="#ev23">지문 근거</a></li>
+    <li id="q14-4">④ 두 물질의 유효 접촉 면적을 늘리면 발전기의 성능을 향상시킬 수 있다.</li>
+    <li id="q14-5">⑤ 친화도가 다른 두 물질이 접촉하면 접촉면에 서로 반대 부호의 표면 전하가 형성된다.<a class="src-tag" href="#ev25">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 일치하지 않는 것. ‘크다/작다’, ‘강하다/약하다’ 같은 <strong>대소·방향</strong>이 뒤집힌 선지를 노린다.</p>
+        <p>지문은 “유리보다 강하게 끌어당기는 비닐 = 친화도 큼”이라 했다. 즉 유리는 친화도가 작아 <strong>약하게</strong> 끌어당긴다. ③은 “유리가 비닐보다 강하게 끌어당긴다”라며 결론을 뒤집었다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>일치</td><td>친화도는 물질마다 다르다(1문단).</td></tr>
+          <tr><td>②</td><td>일치</td><td>접촉면을 통해 전자가 이동한다(2문단).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">불일치</td><td>유리는 친화도가 작아 ‘약하게’ 끌어당긴다 — 강약을 뒤집음.</td></tr>
+          <tr><td>④</td><td>일치</td><td>유효 접촉 면적↑ → 성능↑(5문단).</td></tr>
+          <tr><td>⑤</td><td>일치</td><td>접촉면에 반대 부호 표면 전하 형성(1문단).</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘크다=강하다’ 연결</div>
+        <p>친화도가 <strong>크다 = 강하게 끌어당긴다</strong>. 비닐이 크니 비닐이 강하다. ③은 ‘유리가 작은데 강하다’는 모순 — 대소·강약을 한 묶음으로 본다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. ㉠과 ㉡에 대한 이해로 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q15-1">① ㉠과 ㉡ 모두 두 물질의 기계적 움직임을 전기적 에너지로 변환시킨다.<a class="src-tag" href="#ev28">지문 근거</a></li>
+    <li id="q15-2">② ㉠과 ㉡ 모두 두 물질이 접촉한 상태에서 수평 방향으로 이동한다.</li>
+    <li id="q15-3">③ ㉠과 달리 ㉡은 전기적 평형을 위해 두 물질 사이에 전하가 이동한다.</li>
+    <li id="q15-4">④ ㉡과 달리 ㉠에서 전류의 방향은 전자의 이동 방향과 반대이다.</li>
+    <li id="q15-5">⑤ ㉠에서는 미끄러짐이, ㉡에서는 진동·압축이 발생한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(수직)·㉡(슬라이딩)의 <strong>공통점/차이점</strong>을 가른다. ‘모두’인지 ‘~과 달리’인지 먼저 본다.</p>
+        <p>두 방식 모두 접촉의 기계적 움직임을 전기적 에너지로 바꾸는 TENG다. 따라서 ①이 적절하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>둘 다 기계적 움직임 → 전기 에너지 변환.</td></tr>
+          <tr><td>②</td><td>오답</td><td>수평 이동은 ㉡(슬라이딩)만이다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>전하 이동은 ㉠·㉡ 모두 일어난다(‘㉠과 달리’가 틀림).</td></tr>
+          <tr><td>④</td><td>오답</td><td>전류=전자 반대 방향은 ㉠·㉡ 공통(‘㉡과 달리’가 틀림).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>미끄러짐=㉡, 진동·압축=㉠ — 서로 뒤바뀜.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘모두 / ~과 달리’ 표지</div>
+        <p>③④는 공통점을 ‘~과 달리’(차이)로, ⑤는 둘을 맞바꿔 냈다. 공통인지 차이인지부터 표시하고 대조하면 ①만 남는다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. ㉮의 이유로 가장 적절한 것은? <span class="q-rate">오답률 48.5%</span></p>
+  <ul class="q-opts">
+    <li id="q16-1">① 유효 접촉 면적이 늘어나면 표면 전하가 더 많이 형성되어 더 많은 전기 에너지를 얻을 수 있기 때문에<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q16-2">② 맞닿는 접촉점이 늘어나면 미세한 나노 패턴이 형성되어 더 많은 전기 에너지를 얻기 때문에</li>
+    <li id="q16-3">③ 유효 접촉 면적이 같다면 작은 움직임으로도 전류 방향을 역전시킬 수 있기 때문에</li>
+    <li id="q16-4">④ 접촉하지 않게 되는 부분의 표면 전하가 외부 도선으로 이동하기 때문에</li>
+    <li id="q16-5">⑤ 높낮이 차이를 극대화하면 불필요한 전자 이동을 막을 수 있기 때문에</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉮(나노 패턴을 만든다)의 <strong>목적·결과</strong>를 묻는다. ‘나노 패턴 → 접촉점↑ → 표면 전하↑ → 전기 에너지↑’의 인과를 따라간다.</p>
+        <p>나노 패턴은 유효 접촉 면적을 늘려 접촉점이 많아지고, 그만큼 표면 전하가 더 형성돼 더 많은 전기 에너지를 얻는다. ①이 그 인과를 바르게 담았다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>면적↑ → 표면 전하↑ → 전기 에너지↑.</td></tr>
+          <tr><td>②</td><td>오답</td><td>인과가 거꾸로 — 나노 패턴이 접촉점의 ‘결과’가 아니라 ‘원인’이다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘면적이 같다면’은 전제부터 ㉮와 무관하다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>슬라이딩 설명일 뿐 나노 패턴의 이유가 아니다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>나노 패턴은 높낮이를 ‘균일하게’ 하지 극대화하지 않는다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 인과의 방향</div>
+        <p>②는 ①과 단어가 비슷하지만 <strong>원인·결과를 뒤집었다</strong>(나노 패턴이 접촉점의 결과라고 함). 이유 문제는 ‘무엇이 무엇을 낳는가’ 순서를 화살표로 그려 본다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. 〈보기〉 실험에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.0%</span> <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>비닐과 유리에 전극을 붙이고 외부 도선으로 연결, 바람이 불면 마찰하도록 만든 <b>슬라이딩 방식</b> 장치. 유리는 고정, 비닐은 바람개비 회전에 따라 함께 회전. 바람은 점차 세져 5분 뒤 강풍(회전 빨라짐), 10분 뒤 방향이 바뀌어 회전 방향도 반전. 이후 비닐을 <b>구리</b>로 교체(구리 친화도: 비닐 &lt; 구리 &lt; 유리).</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q17-1">① 바람이 안 불 때 접촉 상태에서 비닐에 (−), 유리에 (+) 표면 전하가 형성되지만 전류는 측정되지 않겠군.</li>
+    <li id="q17-2">② 바람개비가 움직이기 시작하면 전위차가 생기고 비닐→유리로 이동하는 전자가 양의 전류로 측정되겠군.</li>
+    <li id="q17-3">③ 5분 뒤 빠르게 회전하면 접촉 면적 증감이 빨라져 전류 방향 전환 주기가 짧아지겠군.</li>
+    <li id="q17-4">④ 10분 뒤 회전 방향이 바뀌어 도는 동안 비닐과 유리의 표면 전하 부호가 서로 바뀌겠군.</li>
+    <li id="q17-5">⑤ 구리·유리 장치에서는 유리→구리로 이동한 (−) 전하가 회전에 따라 외부 도선으로 이동하겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 실험에 원리를 대입한다. 핵심은 “<strong>전자 친화도는 변하지 않는다</strong>” — 회전 방향이 바뀌어도 부호는 그대로다.</p>
+        <p>표면 전하 부호는 전자 친화도 차이로 정해진다. 비닐이 유리보다 친화도가 크다는 사실은 회전 방향과 무관하므로, 비닐 (−)·유리 (+)는 <strong>바뀌지 않는다</strong>. ④는 ‘부호가 서로 바뀐다’고 해서 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>접촉만 됐을 땐 도선 전자 이동이 없어 전류 0.</td></tr>
+          <tr><td>②</td><td>적절</td><td>면적 변화 → 전위차 → 비닐→유리 전자 이동(양의 전류).</td></tr>
+          <tr><td>③</td><td>적절</td><td>빠른 회전 → 면적 증감 빨라짐 → 전환 주기 단축.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>친화도는 불변 → 회전 방향이 바뀌어도 표면 전하 부호는 그대로.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>구리&lt;유리이므로 유리→구리로 전자 이동, (−) 전하가 도선으로 이동.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 오답률 60%, ‘무엇이 안 변하나’</div>
+        <p>회전·바람은 ‘움직임’(전류 방향)을 바꾸지만 <strong>물질의 친화도=표면 전하 부호</strong>는 못 바꾼다. 변하는 것(전류 방향)과 안 변하는 것(부호)을 갈라야 ④가 보인다.</p>
       </div>
     </div>
   </details>
