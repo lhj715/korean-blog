@@ -12,7 +12,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~34번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -23,6 +23,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set5">16~20 독서(과학·기술)</a>
   <a href="#set6">21~25 고전 복합</a>
   <a href="#set7">26~30 독서(사회)</a>
+  <a href="#set8">31~34 현대소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1211,6 +1212,160 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>위에서 아래로 내려지다.</td></tr>
           <tr><td>④</td><td>오답</td><td>상태에 빠지다.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>거리를 두고 있다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 31~34번 현대소설 · 손홍규 「이슬람 정육점」 — 흉터를 나눈 두 사람
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>차별받는 <strong>사회적 약자</strong>(터키인 하산·고아 ‘나’)가 진짜 가족이 되어 가는 이야기다.</p>
+  <ul>
+    <li><strong>편견</strong> — 사람들은 ‘자신과 다르다’는 이유만으로 하산을 두려워한다(차별).</li>
+    <li><strong>얼굴 지도</strong> — ‘나’가 만든 ‘얼굴 세계지도’는 사람과 사람을 잇는 ‘보이지 않는 끈’을 보여 준다(공통 인식).</li>
+    <li><strong>흉터</strong> — ‘역사가 날염된 흉터’ — 두 사람이 상처 입고 살아온 약자임을 드러낸다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 32번은 ‘하산이 가게 문을 <em>못 열고</em> 돌아옴’(일하느라 지친 게 아님), 34번은 ‘더 듣고 싶어 기다림=자기 이야기’(피해자로 안 머물길 바람이 아님)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="muted">[앞부분 줄거리] 차별받으며 자란 고아 ‘나’는 얼굴을 스크랩하는 취미가 있다. 유엔군으로 참전했다 한국에 정착한 터키인 하산은 비슷한 흉터를 지닌 ‘나’를 고아원에서 데려와 보살핀다. 하산은 가게가 어려워지고 폐렴으로 쇠약해진다.</p>
+  <p>사람들은 하산 아저씨를 두려워했다. 겁을 준 적도 없는데, 그 이유는 ‘자신들과 다르다는 사실 하나뿐’이었다 — 콧수염을 길러서, 눈이 더 깊어서. 두려워하지 않는 건 ‘자신과 다르다는 이유로 경멸해도 좋다는 교육을 받은 적 없는’ 갓난아이들뿐이었다.</p>
+  <p class="muted">(중략)</p>
+  <p>나는 스크랩한 얼굴들을 재배열해 <strong>얼굴로 이루어진 세계지도</strong>를 만들었다. 옆 얼굴과 아주 작은 차이만 두며 배치하니, 기준이던 ‘전형적 한국인 얼굴’과 점점 딴판이 되어 갔다.</p>
+  <div class="seg" id="segA"><p class="seg-label">[A]</p>
+  <p><span class="ev" id="ev24">내 지도에서 한국인은 중국인이 되기도, 아랍인이 되기도 했다. 대륙을 넘어 아프리카인·유럽인이 되었고, 스칸디나비아 통나무집·북극 이글루·파타고니아 목장에 살았다. 반얀 나무 해먹과 정글 오두막에서 잠들었고, 남십자성과 북십자성을 동시에 보며 낙타와 야크를 타고 돌아다녔다.</span><a class="ev-tag" href="#q31-2">31-②</a></p></div>
+  <p>나는 완성된 지도를 하산 아저씨에게 보여 주었다. <span class="ev" id="ev25">그는 아침에 정육점에 갔다가 문을 열지 못하고 오래도록 바라만 보다 돌아와, 안절부절못하다 지쳐 잠들었다.</span><a class="ev-tag" href="#q32-2">32-②</a> 금식 기간이라 물조차 마시지 않아 입술이 갈라졌다. 기도하러 깨어난 그가 지도를 보았다.</p>
+  <p>“너는 <span class="ev" id="ev26">사람과 사람을 연결해주는 보이지 않는 끈</span><a class="ev-tag" href="#q33-5">33-⑤</a>을 발견한 것 같구나.” “그걸 가르쳐준 사람은 아저씨예요. 아저씨는 어떤 한국인보다 한국인답고 어떤 터키인보다 터키인다워요.” “분간이 되지 않는다는 말이겠지.” “현실에서는 불가능한 꿈같은 거죠.”</p>
+  <p>“너를 난폭하게 만든 건 다른 누구도 아닌 바로 너 자신이란다.” 하산 아저씨는 나를 끌어당겨 가슴팍에 품었다. “네 흉터는 그냥 흉터가 아니란다. 그 흉터는 <strong>역사가 날염된 것</strong>이야.” <span class="ev" id="ev27">나는 하산 아저씨가 나에 대해 더 많은 이야기를 해주길 기다렸다.</span><a class="ev-tag" href="#q34-4">34-④</a> 하지만 그는 더 말하지 않았다.</p>
+  <p class="muted" style="text-align:right">— 손홍규, 「이슬람 정육점」</p>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. [A]의 서술상 특징으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
+  <ul class="q-opts">
+    <li id="q31-1">① 인물의 외양을 구체적으로 묘사한다.</li>
+    <li id="q31-2">② 특정 소재를 바탕으로 상상한 장면을 나열한다.<a class="src-tag" href="#ev24">지문 근거</a></li>
+    <li id="q31-3">③ 내적 갈등의 원인을 다양한 관점에서 보여 준다.</li>
+    <li id="q31-4">④ 공간 이동에 따른 인물의 직접 경험을 드러낸다.</li>
+    <li id="q31-5">⑤ 인물의 회상을 중심으로 사건을 속도감 있게 전개한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]가 ‘무엇을 어떻게’ 서술하는지 본다.</p>
+        <p>[A]는 ‘얼굴 지도’라는 소재를 바탕으로 한국인이 세계 곳곳의 사람이 되는 <strong>상상 장면을 나열</strong>한다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>외양 묘사 아님.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>지도 → 상상 장면 나열.</td></tr>
+          <tr><td>③</td><td>오답</td><td>내적 갈등 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>직접 경험 아님(상상).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>회상 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① 사람들이 모두 하산 아저씨를 두려워한 것은 아니었다.</li>
+    <li id="q32-2">② 하산 아저씨는 금식 기간에도 <strong>가게 일을 하느라</strong> 지쳐 있었다.<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q32-3">③ 하산 아저씨는 ‘나’가 난폭하게 된 원인이 ‘나’ 자신에게 있다고 말했다.</li>
+    <li id="q32-4">④ ‘나’는 지도를 보여 주려 하산 아저씨가 깨어나기를 기다렸다.</li>
+    <li id="q32-5">⑤ ‘나’는 세계지도를 만들려 스크랩한 얼굴들을 재배열했다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 하산이 정육점에서 실제로 ‘무엇을 했는지’ 본다.</p>
+        <p>하산은 정육점에 갔으나 <strong>문을 열지 못하고</strong> 바라만 보다 돌아왔다. ‘가게 일을 하느라’ 지친 게 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>아이들은 두려워 안 함.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>문을 못 열고 돌아옴.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘난폭은 너 자신’ 발언.</td></tr>
+          <tr><td>④</td><td>적절</td><td>지도 보여 주려 기다림.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>세계지도 위해 재배열.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 완성된 지도의 기능으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① 두 인물이 타인의 시선을 외면하게 한다.</li>
+    <li id="q33-2">② 두 인물이 자신의 처지에 불안감을 느끼게 한다.</li>
+    <li id="q33-3">③ 두 인물이 함께한 과거 경험을 회상하게 한다.</li>
+    <li id="q33-4">④ 두 인물이 사회 문제 해결을 위해 협력하게 한다.</li>
+    <li id="q33-5">⑤ 두 인물이 서로 공통된 인식을 갖고 있음을 확인하게 한다.<a class="src-tag" href="#ev26">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 지도를 두고 나눈 대화로 그 ‘기능’을 본다.</p>
+        <p>하산이 ‘사람과 사람을 잇는 보이지 않는 끈을 발견했다’고 하고 ‘나’가 동의하면서, 지도는 두 사람의 <strong>공통 인식</strong>을 확인하게 한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>오답</td><td>외면·불안·회상·협력 모두 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘보이지 않는 끈’ 공통 인식.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>이 작품은 편견·차별로 상처받은 사회적 약자를 그린다. 그들은 현실을 부정적으로 인식할 때도 있지만 단순히 피해자로 머무르지 않는다. 외모 차이가 차별의 이유가 될 수 없음을 보여 주고, 서로의 상처를 보듬으며 위로한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q34-1">① ‘다르다’는 이유로 하산을 ‘두려워하는’ 것은 사람들의 편견을 보여 준다.</li>
+    <li id="q34-2">② ‘나’가 선택한 얼굴이 ‘전형적 한국인 얼굴’과 달라진 것은 외모가 차별의 이유가 될 수 없음을 보여 준다.</li>
+    <li id="q34-3">③ 하산이 ‘나’를 ‘넓은 가슴팍에 품’는 것은 상처를 보듬어 위로하는 모습이다.</li>
+    <li id="q34-4">④ ‘나’가 하산의 ‘더 많은 이야기’를 들으려 ‘기다렸다’는 것은 하산이 <strong>피해자로 머무르지 않기를 바라는</strong> ‘나’의 마음이다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q34-5">⑤ ‘나’의 흉터가 ‘역사가 날염된 흉터’라는 것은 이들이 상처를 입고 살아온 약자임을 보여 준다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘기다림’이 무엇을 향한 마음인지 본다.</p>
+        <p>‘나’가 기다린 것은 하산이 ‘나에 대해 더 많은 이야기’를 해 주는 것이다. ‘하산이 피해자로 머무르지 않기를 바라는’ 마음과는 무관하므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘다르다’ → 두려움 = 편견.</td></tr>
+          <tr><td>②</td><td>적절</td><td>얼굴 변화 = 외모≠차별 이유.</td></tr>
+          <tr><td>③</td><td>적절</td><td>품음 = 위로.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>자기 이야기를 더 듣고 싶은 것.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>역사 날염 흉터 = 약자.</td></tr>
         </tbody>
       </table>
     </div>
