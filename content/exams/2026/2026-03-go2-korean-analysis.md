@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~3번 발표 세트</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~6번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -154,6 +154,156 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
       <div class="trap">
         <div class="trap-head">조심할 점 — ⓒⓓⓔ가 진짜 승부처</div>
         <p>①②(ⓐⓑ)의 판정/설명 구분은 쉽게 맞힌다. 함정은 ‘행동 요구’가 섞인 ⓒⓓⓔ다. “응/아니로 답 되나?”부터 묻는 습관을 들이면, ③의 ‘설명 의문문’이라는 분류가 틀렸다는 게 바로 보인다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (4~6번)
+
+<div class="passage">
+  <p class="passage-guide">[4 ~ 6] 다음은 동아리 학생들의 토의이다. 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다. [A]·[B]는 5번에서 묻는 발화 구간입니다.</span></p>
+  <p class="dlg"><b>사회자:</b> <span class="ev" id="ev9">일반 쓰레기와 뒤섞여 버려진 폐전지로 인해 발생하는 문제로 폐전지 분리배출의 중요성이 강조되고 있습니다. 그래서 오늘은 ‘폐전지 분리배출을 활성화하기 위한 방안은 무엇인가?’라는 주제로 토의를 진행하겠습니다.</span><a class="ev-tag" href="#q4-2">4-②</a> 적극적으로 의견을 말씀해 주십시오.</p>
+  <p class="dlg"><b>학생1:</b> 조사해 보니, 폐전지 분리배출이 이뤄지지 않으면 심각한 피해가 발생할 수 있습니다. 따라서 분리배출의 중요성을 알리는 캠페인을 진행할 것을 제안합니다.</p>
+  <p class="dlg"><b>사회자:</b> <span class="ev" id="ev10">폐전지 분리배출이 이뤄지지 않아서 발생할 수 있는 피해를 구체적으로 설명해 주시겠어요?</span><a class="ev-tag" href="#q4-4">4-④</a></p>
+  <div class="seg"><span class="seg-label">[ A ]</span>
+    <p class="dlg"><b>학생1:</b> 폐전지가 일반 쓰레기와 함께 버려지면 폐전지 속 수은, 카드뮴 등의 중금속이 토양이나 지하수를 오염시킬 수 있습니다.</p>
+    <p class="dlg"><b>학생2:</b> 폐전지에서 배출된 중금속이 체내에 흡수되면 심각한 손상을 일으킬 수도 있습니다. 그런데 분리배출 방법을 모르는 학생들이 있으니 분리배출 방법도 정확하게 알려야 할 필요가 있어요.</p>
+    <p class="dlg"><b>학생3:</b> 폐전지를 분리배출하지 않는 친구들과 이야기를 나누어 보니 폐전지 분리배출 방법에 대해 잘 모르고 있었습니다. 올바른 폐전지 분리배출 방법을 알리는 내용도 캠페인에 포함하면 어떨까요?</p>
+    <p class="dlg"><b>학생1:</b> 동의합니다. 혼동하기 쉬운 내용을 중심으로 올바른 폐전지 분리배출 방법을 알리면 되겠네요.</p>
+  </div>
+  <p class="dlg"><b>사회자:</b> <span class="ev" id="ev11">지금까지 폐전지 분리배출의 중요성과 방법을 알리는 캠페인을 진행하자는 의견이 있었습니다.</span><a class="ev-tag" href="#q4-3">4-③</a> 다른 의견이 있으시면 말씀해 주세요.</p>
+  <div class="seg"><span class="seg-label">[ B ]</span>
+    <p class="dlg"><b>학생2:</b> 학교에 폐전지 수거함이 없으니, 학생들의 분리배출을 활성화하기 위해서는 학교 주변 수거함의 위치를 설명하는 글을 작성해서 제공해야 합니다.</p>
+    <p class="dlg"><b>학생3:</b> 좋은 의견입니다. 그리고 학생들이 주변 수거함의 위치를 한눈에 파악할 수 있도록 수거함 위치를 표시한 지도도 함께 제작하는 것이 좋겠습니다.</p>
+    <p class="dlg"><b>학생1:</b> 그러면 주변 수거함의 위치를 표시한 지도와 설명하는 글을 함께 제공하면 되겠네요. 수거함의 위치를 몰라 폐전지를 분리배출하지 못하는 학생들이 줄어들 것 같습니다.</p>
+  </div>
+  <p class="dlg"><b>학생3:</b> <span class="bogi-blank">[ 가 ]</span></p>
+  <p class="dlg"><b>사회자:</b> 수거함 설치와 관련하여 폐전지 분리배출에 참여하는 학생들에게 주는 혜택까지 고려하셨네요. 학교에 건의하도록 하겠습니다. <span class="ev" id="ev12">다음에는 폐전지 분리배출의 중요성과 방법을 알리는 캠페인을 어떻게 진행할 것인지에 대해 토의를 진행하겠습니다.</span><a class="ev-tag" href="#q4-5">4-⑤</a> 감사합니다.</p>
+</div>
+
+<div class="q-block" id="prob4">
+  <p class="q-stem">4. 위 토의에 나타난 ‘사회자’의 역할로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q4-1">① 토의자가 제시한 정보에 대해 출처를 확인하고 있다.</li>
+    <li id="q4-2">② 토의의 배경과 주제를 제시하며 토의를 시작하고 있다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q4-3">③ 토의자들의 발언 내용을 정리하며 토의를 이어 가고 있다.<a class="src-tag" href="#ev11">지문 근거</a></li>
+    <li id="q4-4">④ 토의자의 발언 내용과 관련하여 보충 설명을 요구하고 있다.<a class="src-tag" href="#ev10">지문 근거</a></li>
+    <li id="q4-5">⑤ 토의자들에게 추후 토의할 내용을 안내하며 토의를 마무리하고 있다.<a class="src-tag" href="#ev12">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 사회자가 실제로 한 행동만 본다. ②~⑤는 지문에 근거가 있으니(파란 밑줄), <strong>근거가 없는 하나</strong>가 정답이다.</p>
+        <p>사회자의 발화 어디에도 토의자가 제시한 정보의 <strong>출처를 확인</strong>하는 장면은 없다. 따라서 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>출처를 확인하는 발화가 없다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>첫 발화에서 토의 배경과 주제를 제시하며 시작한다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>중요성·방법 캠페인 의견을 정리하며 이어 간다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>피해를 구체적으로 설명해 달라며 보충 설명을 요구한다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>다음 토의 내용을 안내하며 마무리한다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘안 한 것’이 정답</div>
+        <p>‘적절하지 않은 것’ 문제에서 사회자는 실제로 정리·요구·안내를 다 했다. 출처 확인만 안 했다. 한 것 4개에 휘둘리지 말고 <strong>안 한 하나</strong>를 찾는다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob5">
+  <p class="q-stem">5. [A], [B]에서 나타나는 의사소통 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q5-1">① [A]에서 ‘학생2’는 ‘학생1’이 말한 내용과 관련해 자신이 알고 있는 정보를 덧붙이고 있다.</li>
+    <li id="q5-2">② [A]에서 ‘학생3’은 ‘학생2’가 말한 내용에 대해 자신의 주변 상황을 근거로 뒷받침하고 있다.</li>
+    <li id="q5-3">③ [A]에서 ‘학생1’은 ‘학생3’이 말한 내용에 동의를 표하면서 ‘학생3’의 의견을 구체화할 방안을 언급하고 있다.</li>
+    <li id="q5-4">④ [B]에서 ‘학생3’은 ‘학생2’가 말한 내용을 긍정하면서 자신의 의견을 제시하고 있다.</li>
+    <li id="q5-5">⑤ [B]에서 ‘학생1’은 ‘학생3’이 말한 내용의 일부를 재진술하면서 상대가 궁금해하는 점을 확인하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 선지를 [A]·[B]의 실제 발화와 대조한다. ‘재진술’과 ‘궁금한 점 확인’을 둘 다 했는지 쪼개서 본다.</p>
+        <p>[B]에서 ‘학생1’은 “지도와 설명하는 글을 함께 제공하면 되겠네요”라며 ‘학생3’의 말을 <strong>재진술</strong>하지만, ‘학생3’이 <strong>궁금해하는 점을 확인</strong>하는 부분은 없다. 따라서 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>중금속 체내 흡수 정보를 덧붙인다.</td></tr>
+          <tr><td>②</td><td>적절</td><td>친구들이 방법을 모른다는 주변 상황으로 뒷받침한다.</td></tr>
+          <tr><td>③</td><td>적절</td><td>동의하며 ‘혼동 쉬운 내용 중심’으로 구체화한다.</td></tr>
+          <tr><td>④</td><td>적절</td><td>학생2 의견을 긍정하며 지도 제작 의견을 낸다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>재진술은 했으나 상대가 궁금해하는 점을 확인하지는 않는다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 두 동작을 쪼개 본다</div>
+        <p>⑤는 ‘재진술’(맞음) + ‘궁금한 점 확인’(틀림)을 한 문장에 묶었다. 앞이 맞아서 넘어가기 쉽다. <strong>and로 묶인 선지는 각 동작을 따로 검증</strong>한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob6">
+  <p class="q-stem">6. &lt;보기&gt;는 ‘학생3’이 토의를 준비하며 수집한 자료이다. 자료를 모두 활용하여 [가]에 제시할 의견으로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <div class="data-box">
+      <p class="dt">[자료 1] 일반 수거함과 스마트 수거함 비교</p>
+      <table class="data-tbl">
+        <thead><tr><th>구분</th><th>일반 수거함</th><th>스마트 수거함</th></tr></thead>
+        <tbody>
+          <tr><td>실시간 적재량 확인</td><td>×</td><td>○</td></tr>
+          <tr><td>이물질·폐전지 혼합 방지</td><td>×</td><td>○</td></tr>
+          <tr><td>즉시 보상(환경 포인트)</td><td>×</td><td>○</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="data-box">
+      <p class="dt">[자료 2] 우리 학교 학생 설문 (응답 150명) — 폐전지 분리배출을 하지 않는 이유</p>
+      <p>방법을 몰라서 · 중요한지 몰라서 · 수거함 위치를 몰라서 · <b>학교 주변 수거함이 멀어서</b></p>
+    </div>
+    <div class="data-box">
+      <p class="dt">[자료 3] 신문 기사</p>
+      <p>○○구는 폐전지를 새 건전지로 교환해 주는 사업을 해 오고 있다. 주민 □□ 씨는 “폐전지를 구청에 가져오면 새 건전지로 보상해 주니 자연스럽게 폐전지를 분리배출하게 됐어요.”라고 말했다.</p>
+    </div>
+  </div>
+  <ul class="q-opts">
+    <li id="q6-1">① 폐전지 수거함에 분리배출한 학생에게 보상을 제공하면 학생들이 분리배출에 관심을 가질 수 있습니다.</li>
+    <li id="q6-2">② 폐전지 수거함까지 찾아가기 어려워 분리배출을 하지 않으니 학교에 수거함을 설치하되 실시간으로 적재량을 확인하기 위해 스마트 수거함을 설치하면 좋겠습니다.</li>
+    <li id="q6-3">③ 폐전지 수거함의 수가 적어 분리배출을 하지 않으니 여러 장소에 일반 수거함을 설치하면 분리배출이 활성화될 것입니다.</li>
+    <li id="q6-4">④ 폐전지 수거함이 관리가 안 되어 분리배출을 하지 않으니 학교에 일반 수거함을 설치하면 환경 포인트도 받고 이물질 혼합도 막을 수 있습니다.</li>
+    <li id="q6-5">⑤ 폐전지 수거함까지의 거리가 멀어 분리배출을 하지 않으니 학교에 수거함을 설치하되 보상을 통한 참여 동기를 부여하기 위해 스마트 수거함을 설치하면 좋겠습니다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — “자료를 <strong>모두</strong> 활용”이 조건이다. [자료1·2·3]이 전부 들어간 선지를 찾는다. 하나라도 빠지면 탈락.</p>
+        <p>⑤는 <strong>[자료2]</strong>(거리가 멀어서 분리배출 안 함) → <strong>[자료3]</strong>(보상으로 참여 동기) → <strong>[자료1]</strong>(즉시 보상은 스마트 수거함만 가능)을 모두 엮어 ‘학교에 스마트 수거함 설치’ 의견을 낸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>[자료3]만 활용, [자료1·2] 빠짐.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘실시간 적재량’은 보상과 무관 — [자료3](보상) 연결이 약하다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘수가 적어서’는 [자료2]의 이유와 다르고 일반 수거함이라 [자료1]·[자료3] 미반영.</td></tr>
+          <tr><td>④</td><td>오답</td><td>일반 수거함은 환경 포인트(즉시 보상)가 안 된다 — [자료1]과 모순.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>[자료2]·[자료3]·[자료1]을 모두 활용해 스마트 수거함을 제안한다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘일반 vs 스마트’가 함정</div>
+        <p>④는 ‘일반 수거함’인데 ‘환경 포인트’를 말한다. [자료1] 표에서 즉시 보상은 <strong>스마트 수거함만 ○</strong>다. 표의 ×/○를 선지와 대조하면 ④가 바로 걸린다.</p>
       </div>
     </div>
   </details>

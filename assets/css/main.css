@@ -331,6 +331,15 @@ a.ev-tag:hover{background:#16487d}
 .q-bogi p:last-child{margin-bottom:0!important}
 .bogi-label{text-align:center;font-weight:700;color:var(--ink)!important;letter-spacing:.3em}
 .bogi-blank{display:inline-block;min-width:80px;border-bottom:1px solid var(--ink-soft);text-align:center;color:var(--ink-soft)}
+.seg{border-left:3px solid var(--accent-light);padding:2px 0 2px 14px;margin:10px 0}
+.seg-label{display:inline-block;font-weight:700;color:var(--accent);font-size:12px;border:1px solid var(--accent-light);border-radius:3px;padding:0 8px;margin-bottom:2px}
+.dlg{margin:0 0 8px!important}
+.dlg b{color:var(--ink)}
+.data-box{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:12px 14px;margin:10px 0}
+.data-box .dt{font-weight:700;color:var(--ink);font-size:13px;margin:0 0 8px}
+.data-tbl{width:100%;border-collapse:collapse;font-size:13px}
+.data-tbl th,.data-tbl td{border:1px solid var(--paper-line);padding:5px 8px;text-align:center}
+.data-tbl th{background:#fff;font-weight:700}
 
 /* 고전시가 본문 2단 (가독성 안정 규칙) */
 .prose-2col{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05);max-width:none}
@@ -598,3 +607,4 @@ a.lh-work:hover{border-bottom-color:var(--accent-light);text-decoration:none}
   .topbar-search-icon{display:flex}
   .topbar-right{gap:14px}
 }
+.q-pt-inline{font-size:12px;color:var(--ink-soft);font-weight:400;margin-left:4px}
