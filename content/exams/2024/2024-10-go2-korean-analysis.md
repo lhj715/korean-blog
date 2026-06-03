@@ -869,6 +869,290 @@ draft: true
 
 <div id="set7" class="set-anchor"></div>
 
-<!--SETS_26_45_PLACEHOLDER-->
+## 26~29번 독서(과학) · 정전용량형 근접 습도 센서
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>센서 구조(상부 전극·수분 유지 기판·하부 전극) → 전원 공급 시 분극 → 물 분자 흡착 시 유전율↑·정전용량↑ → 탈착 → 원래 회복. 이 4단계 흐름을 표로 잡으면 된다.</p>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 26번 ②는 '기본값=분극 영향(부도체에 축적된 전하 양과 무관)', 27번 ⑤는 '전기장이 형성돼도 수분 유지 기판에는 전기가 흐르지 않음'이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[26 ~ 29] 제이콥 프레이든, 「현대 센서 공학」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p>정전용량형 근접 습도 센서는 전극에 축적되는 전하 용량(정전용량)의 변화로 습도를 감지한다. 센서는 상부 전극(투습성 도체·외부 노출), 수분 유지 기판(부도체·박막 소재 증착), 하부 전극(도체·내부)으로 구성된다.</p>
+  <p>전원 공급 → 상하부 전극 사이에 전기장 형성 → 수분 유지 기판에는 전기 흐르지 않지만 분자 내 전자·원자핵 재배열(분극) → <span class="ev" id="ev26">기판 표면에 서로 다른 전하 분포 → 정전용량의 기본값 형성(수분 유지 기판의 분극에 영향, 부도체에 축적된 전하의 양과는 무관).</span><a class="ev-tag" href="#q26-2">26-②</a></p>
+  <p>물 분자 흡착 → <span class="ev" id="ev28a">유전율(분극 정도) 증가 → 정전용량 증가 → 일정값 이상이면 전기 신호로 기계 작동.</span><a class="ev-tag" href="#q28-1">28-①·④</a></p>
+  <p>탈착 → <span class="ev ans" id="ev29">박막 소재(음전하)·물 분자 산소 원자(음전하) 사이 전기적 반발력이 인력보다 크게 작용해 빠르게 탈착됨.</span><a class="ev-tag ans" href="#q29-5">29-⑤</a> 탈착 후 정전용량 원래 크기 회복.</p>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. '정전용량형 근접 습도 센서'에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① 축전기를 구성하는 두 전극 중 하나만 외부에 노출되어 있다.</li>
+    <li id="q26-2">② 정전용량의 기본값은 부도체에 축적된 전하의 양에 반비례한다.<a class="src-tag ans" href="#ev26">정답 근거</a></li>
+    <li id="q26-3">③ 전극에 축적되는 전하의 용량 변화를 이용하여 습도 변화를 감지한다.</li>
+    <li id="q26-4">④ 감지된 정전용량이 일정값을 넘으면 센서와 연결된 기계가 작동한다.</li>
+    <li id="q26-5">⑤ 습도를 측정하기 위해 전하를 전극에 저장할 수 있는 장치를 활용한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 정전용량 기본값이 무엇에 영향을 받는지 본다.</p>
+        <p>기본값은 <strong>수분 유지 기판의 분극</strong>에 영향을 받지, 부도체에 축적된 전하의 양과는 관계없다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·③·④·⑤</td><td>적절</td><td>상부 전극 노출·정전용량 변화·일정값·축전기 구성 모두 맞음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>기본값=분극 영향, 부도체 축적 전하량 무관.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. &lt;보기&gt;(ⓐ=상부 전극, ⓑ=수분 유지 기판, ⓒ=하부 전극)를 이해한 것으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 공기 중 물 분자는 ⓐ를 통해 축전기 내부로 유입된다.</li>
+    <li id="q27-2">② 전원이 공급되면 ⓑ 내부에서 분자 간 경계에서 음전하·양전하가 상쇄된다.</li>
+    <li id="q27-3">③ 전원이 공급되면 ⓐ·ⓒ에는 서로 다른 전하가 모인다.</li>
+    <li id="q27-4">④ ⓐ·ⓒ는 ⓑ와 달리 전기가 통하는 도체이다.</li>
+    <li id="q27-5">⑤ ⓐ·ⓒ 사이의 전기장으로 인해 ⓑ에 전기가 흐른다.<a class="src-tag ans" href="#ev26">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 수분 유지 기판(부도체)에 전기가 흐르는지 본다.</p>
+        <p>전원이 공급되면 상하부 전극 사이에 전기장이 형성되지만, <strong>수분 유지 기판에는 전기가 흐르지 않는다</strong>(부도체). ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>적절</td><td>상부 통로·분자 재배열·서로 다른 전하·도체 맞음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>부도체라 전기 흐르지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. &lt;보기&gt;(t1=전원 공급, t2=흡착 시작, t3=정전용량 최대, t4=탈착 완료)를 이해한 학생의 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="q28-1">① t1·t3의 유전율은 다르겠군.<a class="src-tag" href="#ev28a">지문 근거</a></li>
+    <li id="q28-2">② t1에서 수분 유지 기판의 분자 원자핵·전자가 재배열되겠군.</li>
+    <li id="q28-3">③ t2~t4 구간에서 물 분자 내부의 산소·수소 원자가 분극되겠군.</li>
+    <li id="q28-4">④ t2~t3 구간에서 상하부 전극에 축적되는 전하의 양이 증가했겠군.</li>
+    <li id="q28-5">⑤ t4에서는 수분 유지 기판에 일어났던 분극이 사라졌겠군.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — t4에 물 분자가 탈착돼도 전원은 여전히 공급 중임을 확인한다.</p>
+        <p>t4는 물 분자가 탈착된 시점이지만 전원은 여전히 공급되고 있으므로 <strong>수분 유지 기판의 분극은 사라지지 않는다</strong>. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>적절</td><td>유전율 차이·원자핵 재배열·분극·전하 증가 모두 맞음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>전원 공급 중 → 기판 분극 유지.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. ㉮(빠르게 탈착)의 이유를 추론한 것으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① 투습성 소재로 제작된 상부 전극을 통해 탈착되기 쉽기 때문이다.</li>
+    <li id="q29-2">② 물 분자가 탈착하면서 전극의 정전용량이 원래 용량을 회복하기 때문이다.</li>
+    <li id="q29-3">③ 박막 소재의 음전하 부분·물 분자의 산소 원자가 서로 다른 극성을 띠기 때문이다.</li>
+    <li id="q29-4">④ 상부·하부 전극이 서로 마주 보는 형태로 구성되어 있기 때문이다.</li>
+    <li id="q29-5">⑤ 박막 소재와 물 분자의 산소 원자가 서로 밀어내는 전기력이 인력보다 크게 작용하기 때문이다.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 박막 소재와 물 분자 사이에 작용하는 힘의 방향을 본다.</p>
+        <p>박막 소재 음전하 부분과 물 분자의 산소 원자(음전하)가 <strong>같은 극성</strong>이어서 서로 밀어내는 전기적 반발력이 인력보다 크게 작용한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>같은 극성→반발력>인력→빠른 탈착.</td></tr>
+          <tr><td>①~④</td><td>오답</td><td>다른 극성·결과 서술·구조 무관 등 어긋남.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 30~34번 독서(사회) · 지상권과 지역권
+
+<div class="passage">
+  <p class="passage-guide">[30 ~ 34] 김상용, 「물권법」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p><strong>지상권</strong>: 다른 사람 토지에서 지상물을 소유하기 위해 토지를 이용하는 권리. <span class="ev" id="ev30a">토지 소유권이 제삼자에게 이전되어도 기존 지상권은 영향 받지 않으며, 지상권자는 소유권자 의사와 관계없이 지상권을 타인에게 이전할 수 있다.</span><a class="ev-tag" href="#q30-4">30-④</a> 지상권이 설정되면 지상권자가 해당 토지를 <strong>배타적으로</strong> 점유·이용한다.</p>
+  <p><strong>지역권</strong>: 요역지의 편익을 높이기 위해 승역지를 특정 목적으로 이용하는 권리. <span class="ev ans" id="ev30">지역권이 설정되더라도 지역권자가 승역지를 배타적으로 이용하는 것이 아니라</span><a class="ev-tag ans" href="#q30-1">30-①</a>, 지역권설정자는 지역권을 침해하지 않는 범위에서 토지를 그대로 이용할 수 있다. <span class="ev ans" id="ev31">지상권과 달리 지상물이 없어도 성립하는 것은 '지상권'의 특성이고, 요역지의 소유권이 이전되면 지역권도 함께 이전된다.</span><a class="ev-tag ans" href="#q31-4">31-④</a></p>
+  <p>지역권 비교 — <span class="ev" id="ev33">㉡상린권</span><a class="ev-tag" href="#q33-5">33-⑤</a>: 경계 인접 토지 소유권자들이 토지를 원만히 이용하도록 상호 조절하는 권리. 별도 등기 불필요. ㉠지역권은 별도 계약·등기가 필요하다.</p>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q30-1">① 요역지의 소유권자는 승역지를 배타적으로 이용할 수 있다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
+    <li id="q30-2">② 지상권과 지역권은 모두, 토지 소유권과 별개로 설정할 수 있다.</li>
+    <li id="q30-3">③ 지상권과 지역권은 모두, 계약의 주체가 공동으로 등기를 해야 한다.</li>
+    <li id="q30-4">④ 지상권자는 토지 소유권자의 의사와 관계없이 자신의 지상권을 이전할 수 있다.<a class="src-tag" href="#ev30a">지문 근거</a></li>
+    <li id="q30-5">⑤ 토지를 효율적으로 이용하기 위해 민법에서는 지상권·지역권을 규정하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 지역권자가 승역지를 배타적으로 이용하는지 본다.</p>
+        <p>지역권은 승역지를 <strong>배타적으로 이용하는 것이 아니다</strong>. ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>지역권=배타적 이용 아님.</td></tr>
+          <tr><td>②~⑤</td><td>적절</td><td>별개 설정·공동 등기·이전·민법 규정 모두 맞음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 토지 소유권자에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 토지 소유권자의 권리는 자신이 소유한 토지의 지면에 한정된다.</li>
+    <li id="q31-2">② 자신의 토지 위 지상물을 소유하기 위해서는 지상권이 필요하다.</li>
+    <li id="q31-3">③ 승역지 소유권자라도 지역권자가 승역지에 설치한 인공 구조물은 이용할 수 없다.</li>
+    <li id="q31-4">④ 지상물이 없는 토지의 소유권자라도 지상물을 소유하려는 사람과 계약을 맺을 수 있다.<a class="src-tag ans" href="#ev31">정답 근거</a></li>
+    <li id="q31-5">⑤ 자신의 토지가 지역권이 설정된 승역지라면 제삼자에게 처분할 수 없다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 지상물이 없어도 지상권 계약이 가능한지 본다.</p>
+        <p>'지상권의 목적은 지상물을 소유하기 위한 토지의 이용에 있으므로, 토지에 지상물이 현재는 없더라도 성립할 수 있다.' → 지상물이 없어도 계약 가능. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~③·⑤</td><td>오답</td><td>지면만 한정X·자기 토지 지상권 불필요·인공구조물 함께 이용 가능·처분 가능.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>지상물 없어도 지상권 설정 계약 가능.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. &lt;보기&gt;(A 씨=토지X 소유 / 지역권자(토지Y) / 지상권설정자, B 씨=토지Y 소유 / 지역권설정자 / 지상권자(토지X), C 씨=토지X 소유권 인수)를 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="q32-1">① A 씨는 지상권 설정 후 토지 전부를 이용할 수 없겠군.</li>
+    <li id="q32-2">② A 씨는 지역권자로서 토지 Y에 인공 구조물을 설치할 수 있겠군.</li>
+    <li id="q32-3">③ B 씨는 지역권설정자로서 A 씨의 통행을 방해하지 않는 범위에서 토지 Y를 이용할 수 있겠군.</li>
+    <li id="q32-4">④ B 씨는 C 씨에게 토지 X의 소유권이 이전된 후 C 씨와 새로운 지상권을 설정해야겠군.<a class="src-tag ans" href="#ev30a">정답 근거</a></li>
+    <li id="q32-5">⑤ C 씨는 토지 X를 인수한 후 B 씨와 별도 계약 없이 토지 Y의 지역권자로서 이용할 수 있겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 토지 소유권이 이전돼도 기존 지상권이 유지되는지 본다.</p>
+        <p>토지 소유권이 C 씨로 이전되어도 <strong>기존 지상권은 영향을 받지 않는다</strong>. 즉 B 씨는 지상권을 그대로 유지하므로 새로운 지상권 설정이 불필요하다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·②·③·⑤</td><td>적절</td><td>지상권 존속기간 배타적 점유·인공구조물·범위 내 이용·지역권 이전 맞음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>소유권 이전해도 기존 지상권 유지 — 새 설정 불필요.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 윗글의 ㉠(지역권)과 &lt;보기&gt;의 ㉡(상린권)을 비교한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① ㉠은 ㉡과 달리 토지 소유권자 간의 원만한 토지 이용을 목적으로 한다.</li>
+    <li id="q33-2">② ㉠은 ㉡과 달리 소유한 토지에 필요한 접근성을 확보할 수 있게 한다.</li>
+    <li id="q33-3">③ ㉡은 ㉠과 달리 대상이 되는 토지들이 반드시 경계를 인접할 필요는 없다.</li>
+    <li id="q33-4">④ ㉠과 ㉡은 모두, 계약을 맺고 등기를 해야 효력이 발생한다.</li>
+    <li id="q33-5">⑤ ㉠과 ㉡은 모두, 한쪽의 권리는 제한하는 반면 다른 한쪽의 권리는 확장하는 것으로 볼 수 있다.<a class="src-tag ans" href="#ev33">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 지역권과 상린권이 '한쪽 제한·다른 쪽 확장' 구조인지 본다.</p>
+        <p>지역권: 승역지 소유권자(제한)↔요역지 소유권자(확장). 상린권: 인접 토지 이용 요구 받은 쪽(제한)↔요구하는 쪽(확장). ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>둘 다 한쪽 제한·다른 쪽 확장 구조.</td></tr>
+          <tr><td>①~④</td><td>오답</td><td>①목적 다름·②접근성은 둘 다 가능·③경계 인접 필요=상린권·④상린권은 등기 불필요.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. ⓐ(높이는)와 문맥적 의미가 가장 유사한 것은?</p>
+  <ul class="q-opts">
+    <li id="q34-1">① 예술에 대한 안목을 높였다.<a class="src-tag ans" href="#ev34">정답 근거</a></li>
+    <li id="q34-2">② 담을 높여 도둑이 들어오지 못하게 했다.</li>
+    <li id="q34-3">③ 회사에서 그의 직급을 과장으로 높여 주었다.</li>
+    <li id="q34-4">④ 자동차 타이어의 압력을 지나치게 높이면 위험하다.</li>
+    <li id="q34-5">⑤ 민간단체들이 정부의 시책에 대해 찬성의 목소리를 높였다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ는 '품질·가치를 더 높은 수준으로 만들다'의 뜻.</p>
+        <p id="ev34">ⓐ '요역지의 가치를 높이는'과 ①'안목을 높였다'는 모두 '수준·가치를 더 높은 상태로 만들다'의 뜻이다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>뜻</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>수준·가치를 높임(=ⓐ).</td></tr>
+          <tr><td>②</td><td>오답</td><td>길이를 더 길게 함.</td></tr>
+          <tr><td>③</td><td>오답</td><td>지위·신분을 올림.</td></tr>
+          <tr><td>④</td><td>오답</td><td>수치(압력)를 높임.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>의견을 더 강하게 냄.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+<!--SETS_35_45_PLACEHOLDER-->
 
 </div>
