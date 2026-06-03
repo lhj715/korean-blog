@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~26번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -22,6 +22,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~21 독서(인문)</a>
   <a href="#set6">22~26 독서(사회)</a>
+  <a href="#set7">27~30 독서(과학·기술)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1014,6 +1015,156 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>‘막다(방지)’≠방어하다.</td></tr>
           <tr><td>④</td><td>오답</td><td>‘돌아가다(귀속)’≠우회하다.</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>일으키다 = 야기하다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 27~30번 독서(과학·기술) · 냉방·난방을 다 하는 열펌프
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘냉매의 한 사이클 → 냉·난방 전환 → 성능 지표(성적 계수)’ 흐름이다.</p>
+  <ul>
+    <li><strong>한 사이클</strong> — 증발(저온 열 흡수)→압축(전기 에너지 투입, 고온·고압)→응축(실내로 열 방출=난방)→팽창(온도·압력↓). 한 사이클 후 처음과 동일한 에너지.</li>
+    <li><strong>전환</strong> — 역전 밸브로 냉매 흐름을 바꾸면 응축기↔증발기 역할이 바뀌어 냉방도 가능.</li>
+    <li><strong>성능</strong> — 열기관의 ‘열효율’ 대신 ‘성적 계수’. <strong>COPH = COPC + 1</strong>(항상 COPH&gt;COPC).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 28번은 ‘COPH=COPC+1이라 COPH가 더 큼(항상)’, 30번은 ‘㉮의 전제 = 한 사이클 후 동일 에너지’가 핵심이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다. 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p><strong>열펌프</strong>는 저온에서 고온으로 열을 운반하는 장치로, 냉방·난방이 모두 가능하다.</p>
+  <p>냉매의 ‘증발–압축–응축–팽창’ 순환이 한 사이클이다. 증발기에서 냉매가 <span class="ev" id="ev27pl">지열·공장 폐열 등 저온 열원의 열을 흡수</span><a class="ev-tag" href="#q27-4">27-④</a>해 기체로 증발한다. <span class="ev" id="ev27c">냉매 기체는 압축기에서 전기 에너지를 투입받아 압축돼 매우 높은 온도·압력을 갖는다.</span><a class="ev-tag" href="#q29-1">29-①</a> 응축기에서 실내로 열을 방출(난방)하고 액체가 된다. <span class="ev" id="ev27d">팽창 밸브를 지나며 온도·압력이 낮아져, 처음 증발기로 들어갔던 에너지와 동일한 양을 갖고 다시 증발기로 들어간다.</span><a class="ev-tag" href="#q30-5">30-⑤</a></p>
+  <p>역전 밸브로 냉매 흐름을 바꾸면 응축기가 증발기로, 증발기가 응축기로 작동해 냉방이 된다.</p>
+  <p><span class="ev" id="ev27a">열펌프는 저온 열원의 열에너지와 압축 시 투입한 전기 에너지의 ‘합’에 해당하는 열을 난방에 쓴다. 그래서 (고온 열을 받아 일하고 나머지를 저온으로 방출하는) 열기관의 ㉠<u>열효율</u>(받은 열 대비 수행한 일)로는 성능을 표현할 수 없어, 성적 계수를 쓴다.</span><a class="ev-tag" href="#q27-1">27-①</a><a class="ev-tag" href="#q28-4">28-④</a></p>
+  <p>㉡<u>성적 계수</u>는 고온부(COPH, 전기 에너지당 고온으로 전달된 열)와 저온부(COPC, 전기 에너지당 저온에서 받은 열)로 나뉜다. 열역학 제1법칙(에너지 보존)에 따라 <span class="ev" id="ev27m">㉮한 사이클 순환 시 ‘저온에서 받은 열 + 투입 전기 에너지 = 고온으로 전달한 열’이다.</span><a class="ev-tag" href="#q30-5b">30-⑤</a> 양변을 전기 에너지로 나누면 <span class="ev" id="ev27b">COPH = COPC + 1</span><a class="ev-tag" href="#q28-3">28-③</a>이며, 하나가 바뀌면 다른 하나도 바뀐다.</p>
+  <p>열펌프는 냉·난방이 모두 되고 폐열을 써 에너지 문제 해결에 일조한다.</p>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 윗글에서 알 수 있는 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 열기관과 열펌프 모두 외부에 열을 방출한다.<a class="src-tag ans" href="#ev27a">정답 근거</a></li>
+    <li id="q27-2">② 열펌프의 냉매는 순환 공정에서 고체로 변환된다.</li>
+    <li id="q27-3">③ 성적 계수 향상을 위해 화석 연료 사용이 필요하다.</li>
+    <li id="q27-4">④ 공장 폐열은 저온 열원으로 쓰기에 적절하지 않다.<a class="src-tag" href="#ev27pl">지문 근거</a></li>
+    <li id="q27-5">⑤ 유입된 전체 에너지의 합보다 나가는 에너지가 더 크다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 장치의 공통점을 본다.</p>
+        <p>열기관은 나머지 열을 저온으로, 열펌프는 합한 열을 실내로 — 둘 다 <strong>외부에 열을 방출</strong>한다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>둘 다 외부로 열 방출.</td></tr>
+          <tr><td>②</td><td>오답</td><td>냉매가 고체 되는 정보 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>화석 연료 필요 언급 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>폐열은 저온 열원으로 ‘적절’.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>에너지 보존(나가는 게 더 클 수 없음).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ㉠(열효율), ㉡(성적 계수)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① ㉠의 ‘수행한 일’은 고온 열원에서 받은 열의 양보다 크지 않다.</li>
+    <li id="q28-2">② ㉡의 COPH가 커지면 COPC도 커진다.</li>
+    <li id="q28-3">③ ㉡의 COPH는 COPC보다 큰 값을 갖지 <strong>않는 경우가 있다</strong>.<a class="src-tag ans" href="#ev27b">정답 근거</a></li>
+    <li id="q28-4">④ ㉠은 1보다 작고 ㉡의 COPH는 1보다 크다.<a class="src-tag" href="#ev27a">지문 근거</a></li>
+    <li id="q28-5">⑤ ㉠·㉡ 모두 들어가는 열당 방출하는 열의 비가 바뀌면 값이 바뀐다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — COPH와 COPC의 크기 관계를 본다.</p>
+        <p>COPH = COPC + 1이므로 COPH는 <strong>항상</strong> COPC보다 1만큼 크다. ‘큰 값을 갖지 않는 경우가 있다’는 ③은 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>일 ≤ 받은 열(열효율&lt;1).</td></tr>
+          <tr><td>②</td><td>적절</td><td>COPH↑ → COPC↑(연동).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>COPH=COPC+1, 항상 더 큼.</td></tr>
+          <tr><td>④</td><td>적절</td><td>열효율&lt;1, COPH&gt;1.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>비가 바뀌면 값 변함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 〈보기〉(열펌프 그림) ⓐ~ⓓ에 대한 이해로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>ⓐ 증발기 → ⓑ 압축기 → ⓒ 응축기(실내, 난방) → ⓓ 팽창 밸브 → 다시 ⓐ. (역전 밸브로 흐름 전환 가능)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q29-1">① ⓑ로 냉매 흐름 방향을 바꿔도 압축기는 냉매의 온도를 높이는 역할을 한다.<a class="src-tag ans" href="#ev27c">정답 근거</a></li>
+    <li id="q29-2">② ⓒ의 열 교환기는 실내에서 열을 흡수해 실내 온도를 낮춘다.</li>
+    <li id="q29-3">③ ⓓ는 냉매의 압력·온도를 높이는 역할을 한다.</li>
+    <li id="q29-4">④ 냉매가 ⓐ에서 ⓒ에 도달하면 한 사이클이 수행된다.</li>
+    <li id="q29-5">⑤ ⓐ에서 압축기로 가는 냉매와 달리 ⓑ–ⓒ 사이 냉매는 액체다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 장치의 ‘역할’을 사이클과 맞춘다.</p>
+        <p>압축기(ⓑ)는 흐름 방향이 바뀌어도 냉매를 압축해 <strong>온도를 높이는</strong> 역할을 한다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>압축기 = 온도 상승(항상).</td></tr>
+          <tr><td>②</td><td>오답</td><td>응축기(ⓒ)는 열 ‘방출’(난방).</td></tr>
+          <tr><td>③</td><td>오답</td><td>팽창 밸브(ⓓ)는 온도·압력↓.</td></tr>
+          <tr><td>④</td><td>오답</td><td>한 사이클은 팽창까지 거쳐 ⓐ 복귀.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>압축 후(ⓑ–ⓒ)는 고온 기체.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. ㉮(한 사이클 시 ‘받은 열+전기 에너지=전달한 열’)의 전제로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q30-1">① 열펌프로 지열이 아닌 공기의 열을 순환한다.</li>
+    <li id="q30-2">② 열펌프는 냉방과 난방에 동시에 사용될 수 있다.</li>
+    <li id="q30-3">③ 역전 밸브는 열펌프의 성능을 증가시킨다.</li>
+    <li id="q30-4">④ 열펌프는 냉매를 더 높은 위치로 이동시켜야 한다.</li>
+    <li id="q30-5">⑤ 열펌프의 냉매는 한 사이클을 마치면 동일한 양의 에너지를 갖는다.<a class="src-tag ans" href="#ev27d">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘에너지 합 = 전달 열’이 성립하려면 무엇이 전제돼야 하나.</p>
+        <p>냉매가 한 사이클 후 처음과 <strong>동일한 에너지</strong>로 돌아와야(냉매 자체의 에너지 변화가 0이어야) ‘들어온 에너지 합 = 나간 열’이 성립한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>한 사이클 후 동일 에너지(보존).</td></tr>
+          <tr><td>①~④</td><td>오답</td><td>열원 종류·냉난방·역전 밸브·위치 이동은 전제 아님.</td></tr>
         </tbody>
       </table>
     </div>
