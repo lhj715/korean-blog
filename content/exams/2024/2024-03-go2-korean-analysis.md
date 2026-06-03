@@ -12,7 +12,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~20번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -20,6 +20,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set2">4~7 화법·작문</a>
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
+  <a href="#set5">16~20 독서(과학)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -625,6 +626,189 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>㉠</td><td>ⓐ·ⓒ</td><td>자음 뒤 ‘이’.</td></tr>
           <tr><td>㉡</td><td>ⓑ·ⓓ</td><td>‘ㅣ’ 뒤 → 조사 없음.</td></tr>
           <tr><td>㉢</td><td>ⓔ</td><td>그 외 모음 뒤 ‘ㅣ’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set5" class="set-anchor"></div>
+
+## 16~20번 독서(과학) · 소리의 높낮이를 지각하는 달팽이관
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>소리(파동)가 <strong>달팽이관 → 기저막 → 털 세포 → 신경 섬유 → 대뇌</strong>로 가며 ‘높낮이’가 처리되는 과정이다. 각 단계의 ‘무엇이 무엇을 일으키는지’ 화살표 방향이 핵심.</p>
+  <ul>
+    <li><strong>기저막</strong> — 바깥쪽일수록 단단 → 높은 주파수에 크게 진동. 주파수 높을수록 최대 진동 부위가 ‘바깥쪽 + 짧게’.</li>
+    <li><strong>털 세포</strong> — 기저막이 진동→털이 휘며 전기 신호 발생→신경 전달 물질 방출→신경 섬유 흥분(순서가 함정).</li>
+    <li><strong>1차 청각 피질</strong> — 얼굴 쪽=기저막 안쪽=낮은 주파수=낮은 소리 / 뒤통수 쪽=바깥쪽=높은 소리.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 16번은 ‘얼굴 쪽=낮은 소리’(높은 소리 아님), 17번은 ‘전기 신호 → 신경 전달 물질 방출’ 방향, 19번 그래프는 ‘차폐량의 증가분’이라는 점이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>귀 안쪽의 달팽이관은 림프액이 차 있는 달팽이 모양의 청각 기관이다. 관의 모양을 ⓐ<span class="ev" id="ev20a">따라</span> 기저막이라는 긴 막이 있고, 그 위로 털 세포가 배열돼 있다. 기저막과 털 세포는 소리의 높낮이를 지각하는 데 중요한 역할을 한다.</p>
+  <p>귀 바깥의 파동이 림프액으로 전달되면 <span class="ev" id="ev16-1">기저막은 달팽이관 모양을 따라 바깥쪽부터 진동</span><a class="ev-tag" href="#q16-1">16-①</a>한다. 최대로 진동하는 부위는 파동의 주파수에 따라 다른데, <span class="ev" id="ev16-2">기저막은 바깥쪽일수록 단단해 단단한 부위일수록 높은 주파수의 파동에 크게 떨린다.</span><a class="ev-tag" href="#q16-2">16-②</a> 즉 주파수가 높을수록 최대 진동 부위는 바깥쪽에 있고, <span class="ev" id="ev16-3">주파수가 높을수록 최대 진동 부위의 길이는 짧다.</span><a class="ev-tag" href="#q16-3">16-③</a> 진동 정도는 바깥쪽부터 완만히 커지다 최대 부위를 지나면 급격히 감소한다.</p>
+  <p><span class="ev" id="ev17-1">기저막이 진동하면 털 세포가 반응해 털이 휘어지면서 전기 신호가 발생한다.</span><a class="ev-tag" href="#q17-1">17-①·③</a> 최대 진동 부위에 가까운 털 세포일수록 털이 많이 휘고, 그 부위의 털 세포는 진동할 때마다 반응해 가장 많이 휜다. <span class="ev" id="ev18">㉠결국 최대로 진동하는 부위에 있는 털 세포가 초당 전기 신호를 내는 횟수는 그 파동의 주파수와 일치한다.</span><a class="ev-tag" href="#q18-1">18</a> 비슷한 주파수의 여러 파동이 동시에 오면 반응하는 영역이 겹칠 수 있다.</p>
+  <p><span class="ev ans" id="ev17-4">전기 신호는 신경 전달 물질이 털 세포에서 방출되도록 ⓓ만들어, 연접한 신경 섬유를 흥분시킨다.</span><a class="ev-tag ans" href="#q17-4">17-④</a> 개별 신경 섬유가 초당 흥분하는 횟수는 일정 수준까지만 주파수에 대응한다(흥분 최대치가 제한됨).</p>
+  <p>신경 신호는 중뇌를 ⓔ<span class="ev" id="ev20e">거쳐</span> 대뇌의 1차 청각 피질로 전달된다. <span class="ev ans" id="ev16-5">1차 청각 피질은 얼굴 쪽 부위일수록 기저막의 안쪽 부위와, 뒤통수 쪽일수록 바깥쪽과 연결</span><a class="ev-tag ans" href="#q16-5">16-⑤</a>된다. <span class="ev" id="ev16-4">대뇌에 이르는 모든 개별 신경 섬유는 민감하게 반응하는 주파수가 정해져 있다.</span><a class="ev-tag" href="#q16-4">16-④</a> 대뇌는 ‘어느 위치 털 세포와 연접하는지 + 어떤 주기로 흥분하는지’를 활용해, 주파수가 높을수록 높은 소리로 지각한다.</p>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① 달팽이관으로 전달된 파동은 기저막을 바깥쪽부터 진동시킨다.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q16-2">② 기저막에서 단단한 부위일수록 더 높은 주파수의 파동에 최대로 진동한다.<a class="src-tag" href="#ev16-2">지문 근거</a></li>
+    <li id="q16-3">③ 파동의 주파수가 낮을수록 기저막에서 최대로 진동하는 부위의 길이가 길다.<a class="src-tag" href="#ev16-3">지문 근거</a></li>
+    <li id="q16-4">④ 중뇌와 대뇌를 연결하는 개별 신경 섬유들은 민감하게 반응하는 주파수가 정해져 있다.<a class="src-tag" href="#ev16-4">지문 근거</a></li>
+    <li id="q16-5">⑤ 1차 청각 피질에서 얼굴 부분에 가까운 부위일수록 <strong>높은 소리</strong>로 지각되는 신경 신호를 처리한다.<a class="src-tag ans" href="#ev16-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 얼굴 쪽 부위가 ‘높은’ 소리인지 ‘낮은’ 소리인지 본다.</p>
+        <p>얼굴 쪽 부위는 기저막의 <strong>안쪽</strong>과 연결되고, 안쪽은 <strong>낮은</strong> 주파수에 반응한다. 따라서 얼굴 쪽은 ‘낮은 소리’를 처리한다. ‘높은 소리’라는 ⑤가 일치하지 않는다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>일치</td><td>바깥쪽부터 진동.</td></tr>
+          <tr><td>②</td><td>일치</td><td>단단=높은 주파수.</td></tr>
+          <tr><td>③</td><td>일치</td><td>주파수 낮을수록 길이 김.</td></tr>
+          <tr><td>④</td><td>일치</td><td>모든 신경 섬유 주파수 정해짐.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">불일치</td><td>얼굴 쪽=안쪽=낮은 소리.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. 털 세포에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q17-1">① 전기 신호를 발생시켜 털을 휘게 만든다.<a class="src-tag" href="#ev17-1">지문 근거</a></li>
+    <li id="q17-2">② 연접한 신경 섬유를 신경 신호를 통해 흥분시킨다.<a class="src-tag ans" href="#ev17-4">지문 근거</a></li>
+    <li id="q17-3">③ 털이 빠르게 휘어질수록 기저막을 많이 진동시킨다.<a class="src-tag" href="#ev17-1">지문 근거</a></li>
+    <li id="q17-4">④ 신경 신호를 발생시키는 신경 전달 물질을 방출한다.<a class="src-tag ans" href="#ev17-4">정답 근거</a></li>
+    <li id="q17-5">⑤ 민감하게 반응하는 주파수가 파동이 전달될 때마다 변한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 털 세포가 ‘무엇을 방출/발생시키는지’ 방향을 본다.</p>
+        <p>털 세포의 전기 신호는 <strong>신경 전달 물질을 방출</strong>시키고, 그 물질이 신경 섬유를 흥분시켜 신경 신호가 생긴다. ④가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>기저막 진동→털 휨→전기 신호(역).</td></tr>
+          <tr><td>②</td><td>오답</td><td>신경 신호는 신경 섬유 흥분의 ‘결과’.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기저막 진동이 원인, 털 휨은 결과.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>전기 신호→신경 전달 물질 방출.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>반응 주파수는 정해져 있음(안 변함).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. ㉠의 이유를 추론한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 기저막에서 최대로 진동하는 부위가 초당 떨리는 횟수는 기저막을 진동시킨 파동의 주파수와 같기 때문이다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
+    <li id="q18-2">② 개별 신경 섬유가 초당 흥분하는 횟수는 동시에 전달된 다른 파동에 의해 제한되기 때문이다.</li>
+    <li id="q18-3">③ 기저막이 진동하는 정도는 신경 섬유가 초당 흥분할 수 있는 최대치에 따라 결정되기 때문이다.</li>
+    <li id="q18-4">④ 신경 섬유가 어떤 주기로 흥분하는지에 대한 정보가 기저막으로 전달되기 때문이다.</li>
+    <li id="q18-5">⑤ 림프액으로 전달된 파동의 주파수는 달팽이관에서 처리하기 어렵기 때문이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘전기 신호 횟수 = 주파수’가 되는 까닭을 찾는다.</p>
+        <p>최대 진동 부위의 털 세포는 기저막이 진동할 때마다 반응하고, <strong>그 부위가 초당 떨리는 횟수 = 파동의 주파수</strong>이므로 전기 신호 횟수도 주파수와 같아진다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>떨리는 횟수=주파수.</td></tr>
+          <tr><td>②</td><td>오답</td><td>흥분 횟수 제한은 다른 단계 이야기.</td></tr>
+          <tr><td>③</td><td>오답</td><td>진동 정도는 주파수가 결정.</td></tr>
+          <tr><td>④</td><td>오답</td><td>주기 정보는 대뇌로 감(기저막 X).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>처리 어려움은 글에 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. 윗글을 바탕으로 〈보기〉에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>이미 반응 중인 털 세포를 새 파동이 또 자극해 영역이 겹치면, 나중 파동을 못 듣는 <b>차폐 현상</b>이 생긴다. A 주파수 파동이 전달된 상태에서 각 주파수가 ‘지각되기 위한 최소 수준(dB)’이 <b>얼마나 증가했는지</b>를 그래프로 나타냈다(정점은 400 Hz 부근).</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q19-1">① A 주파수 전달 상태에서 200 Hz 파동이 10 dB로 전달되면 소리로 지각되겠군.</li>
+    <li id="q19-2">② A의 최대 진동 부위보다 안쪽을 크게 떨리게 하는 파동일수록 차폐가 작게 일어나겠군.</li>
+    <li id="q19-3">③ 정점 기준 오른쪽이 더 완만한 것은, 진동 수준이 최대치 이후 급격히 감소하는 것과 관련 있겠군.</li>
+    <li id="q19-4">④ 100 Hz의 증가량이 0인 것은, A와 100 Hz의 최대 진동 부위가 서로 멀리 떨어져 있기 때문이겠군.</li>
+    <li id="q19-5">⑤ 정점이 400 Hz 부근인 이유는, 그 주파수와 A에 반응하는 털 세포가 가장 많이 겹치기 때문이겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 그래프 값이 ‘무엇’을 뜻하는지 정확히 본다.</p>
+        <p>그래프는 ‘지각되기 위한 최소 수준의 <strong>증가량</strong>’이다. 200 Hz의 증가량만큼 더 큰 소리여야 들리므로, 단지 ‘10 dB’라는 정보만으로 지각된다고 단정할 수 없다. ①이 부적절하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>그래프는 ‘증가량’ — 10 dB만으론 판단 불가.</td></tr>
+          <tr><td>②</td><td>적절</td><td>안쪽=낮은 주파수, 정점(400)에서 멀어 차폐 작음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>최대 이후 급감 경향과 일치.</td></tr>
+          <tr><td>④</td><td>적절</td><td>증가량 0=차폐 없음=부위 멀리 떨어짐.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>정점=겹치는 털 세포 최다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① ⓐ: 답습(踏襲)하여</li>
+    <li id="q20-2">② ⓑ: 담당(擔當)하는데</li>
+    <li id="q20-3">③ ⓒ: 제시(提示)한다</li>
+    <li id="q20-4">④ ⓓ: 형성(形成)하여</li>
+    <li id="q20-5">⑤ ⓔ: 경유(經由)하여<a class="src-tag ans" href="#ev20e">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 밑줄 친 우리말을 한자어로 바꿔도 뜻이 같은지 본다.</p>
+        <p>ⓔ ‘거쳐’는 ‘거쳐 지나다’ → <strong>경유(經由)하여</strong>와 바꿔 쓸 수 있다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>뜻 비교</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>답습=관습을 그대로 따름(≠따라).</td></tr>
+          <tr><td>②</td><td>오답</td><td>담당=맡다(≠지니다).</td></tr>
+          <tr><td>③</td><td>오답</td><td>제시=드러내 보이다(≠보이다=경향).</td></tr>
+          <tr><td>④</td><td>오답</td><td>형성=형상을 이룸(≠만들어=방출되게 함).</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>거쳐=경유하여.</td></tr>
         </tbody>
       </table>
     </div>
