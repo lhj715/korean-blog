@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~3번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~7번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -139,6 +139,161 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>학생3: 효용성 긍정.</td></tr>
           <tr class="correct"><td>④</td><td class="ok">부적절</td><td>신뢰성 판단은 학생1만.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>학생2·3 배경지식 환기.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set2" class="set-anchor"></div>
+
+## 4~7번 화법·작문 · 생체 인식 정보 (동아리 대화 → 교지 글)
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) <strong>동아리 대화</strong> → (나) ‘학생1’의 <strong>교지 글</strong> 구조다. 대화 내용이 글에 어떻게 반영됐는지 짝짓는다.</p>
+  <ul>
+    <li><strong>개념</strong> — 생체 인식 정보(인증·식별 목적) vs 일반 생체 정보(성별 등 확인).</li>
+    <li><strong>특성</strong> — 그 자체로 개인 식별·변경 어려움 → 안전·편리하나 <strong>유출 시 피해가 큼</strong>.</li>
+    <li><strong>보호</strong> — 정보 ‘처리자’(단계별: 수집 동의·목적 외 사용 금지·암호화 저장)와 ‘이용자’의 노력 모두 필요.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 6번은 ‘단계 구분은 정보 <em>처리자</em>’(주체 아님), 5번은 ‘주변 상황 근거는 [A]만’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[4 ~ 7] (가)는 ‘정보 보안 동아리’ 대화, (나)는 이를 바탕으로 ‘학생1’이 작성한 글이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="src-label">(가) 대화</p>
+  <p>학생1: ‘생체 인식 정보’ 글을 교지에 싣기로 한 거 기억하지? 어떤 내용이 좋을지 이야기해 보자.</p>
+  <div class="seg" id="segA"><p class="seg-label">[A] 개념 논의</p>
+  <p>학생2: 생체 정보 중 특정 개인을 인증·식별하려 처리하는 정보가 생체 인식 정보야. / 학생3: 지문·음성이 그렇지. 근데 일반 생체 정보로 보는 자료도 있어 — 구분이 모르겠어. / 학생2: <span class="ev" id="ev5b">‘둘이 어떻게 구분되는지 알고 싶다는 거지?’ 인증·식별에 쓰면 생체 인식 정보, 성별 등 확인에 쓰면 일반 생체 정보야.</span> / 학생3: <span class="ev" id="ev5">친구들과 얘기해 보니 친구들도 이 둘을 잘 구분 못하더라고.</span><a class="ev-tag" href="#q5-5">5-[A]</a> 차이점을 설명하면 도움이 될 거야.</p></div>
+  <p>학생2: 지문 같은 정보는 사람마다 달라 그 자체로 개인을 확인하고, 변경이 어려워. / 학생3: 그럼 타인이 쉽게 못 써 안전하겠네. / 학생2: 외울 필요 없어 편리하지만, 유출되면 피해가 커. / 학생2: 신원 도용에 악용되고, 비밀번호와 달리 변경이 어렵거든.</p>
+  <div class="seg" id="segB"><p class="seg-label">[B] 보호 방안 논의</p>
+  <p>학생3: 처리자는 이용자에게 수집·이용 목적을 알리고 동의를 받아야 하고, 목적 외로 쓰지 말아야 해. / 학생2: 유출돼도 알아볼 수 없게 암호화해 저장해야 해. / 학생3: <span class="ev" id="ev5c">동의해. 암호화하면 유출돼도 위·변조 피해를 막을 수 있어.</span> / 학생2: 이용자도 과도 수집·목적 외 사용을 점검해야 해.</p></div>
+  <p class="src-label">(나) 글</p>
+  <p>생체 인식 정보는 인증·식별 목적으로 처리되는 정보로 일반 생체 정보와 구분된다. 휴대 전화 잠금 해제·은행 거래 등에 활용된다. 그 자체로 개인을 식별하고 변경이 어려워 안전·편리하나, 유출 시 신원 도용에 악용돼 피해가 크고 오래간다.</p>
+  <p><span class="ev" id="ev6">보호를 위해 정보 처리자는 단계별 원칙에 따라 수집 단계에서 동의를 받고, 이용·제공 단계에서 목적으로만 쓰며, 보관 단계에서 암호화해 저장해야 한다.</span><a class="ev-tag" href="#q6-2">6-②</a> 이용자도 과도 수집·목적 외 사용을 확인하고 불필요한 정보 삭제를 요청해야 한다.</p>
+  <p><span class="ev" id="ev7">생체 인식 정보는 안전·편리하나 유출·무단 수집의 우려가 있어 보호에 주의해야 하며, 정보 처리자와 이용자가 함께 노력해야 한다.</span><a class="ev-tag" href="#q7-1">7-①</a></p>
+</div>
+
+<div class="q-block" id="prob4">
+  <p class="q-stem">4. (가)의 ‘학생1’에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q4-1">① 대화 참여자에게 질문하여 대화 내용을 전환한다.</li>
+    <li id="q4-2">② 대화 참여자가 제시한 정보에 대해 <strong>출처를 요구</strong>한다.</li>
+    <li id="q4-3">③ 추후 모임에서 논의할 사항을 안내한다.</li>
+    <li id="q4-4">④ 참여자의 발언과 관련해 추가 설명을 요청한다.</li>
+    <li id="q4-5">⑤ 대화의 목적을 밝히며 참여를 유도한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 학생1이 실제로 한 말하기 행동을 짚는다.</p>
+        <p>학생1은 화제 전환(질문)·추후 안내·추가 설명 요청(‘왜 큰지 설명해 줘’)·목적 제시는 했으나, 정보의 <strong>출처를 요구</strong>한 적은 없다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘특성은?’ 질문으로 화제 전환.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>출처 요구는 없음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>다음 모임 논의 안내.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘자세히 설명해 줘’ 요청.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>대화 목적 제시.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob5">
+  <p class="q-stem">5. [A], [B]의 의사소통 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q5-1">① [A]에서 학생3은 학생2의 내용과 관련해 자신이 아는 정보를 덧붙인다.</li>
+    <li id="q5-2">② [A]에서 학생2는 학생3의 내용 일부를 재진술하며 궁금한 점을 확인한다.</li>
+    <li id="q5-3">③ [B]에서 학생2는 학생3의 내용을 긍정하며 자신의 의견을 제시한다.</li>
+    <li id="q5-4">④ [B]에서 학생3은 학생2의 내용에 동의하며 기대되는 효과를 언급한다.</li>
+    <li id="q5-5">⑤ [A]와 [B] <strong>모두</strong>에서 학생3은 학생2의 내용을 자신의 주변 상황을 근거로 뒷받침한다.<a class="src-tag" href="#ev5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘[A]와 [B] 모두’라는 진술의 진위를 본다.</p>
+        <p>주변 상황(‘친구들도 구분 못함’)을 근거로 든 것은 <strong>[A]뿐</strong>이다. [B]에서는 그런 발화가 없으므로 ‘모두’라 한 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>[A] 학생3: 정보 덧붙임.</td></tr>
+          <tr><td>②</td><td>적절</td><td>[A] 학생2: 재진술+확인.</td></tr>
+          <tr><td>③</td><td>적절</td><td>[B] 학생2: 긍정+의견.</td></tr>
+          <tr><td>④</td><td>적절</td><td>[B] 학생3: 동의+기대 효과.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>주변 상황 근거는 [A]만.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob6">
+  <p class="q-stem">6. (가)의 대화 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q6-1">① ‘다양한 활용’ 언급은 휴대 전화 잠금 해제·은행 거래로 구체화돼 반영됐다.</li>
+    <li id="q6-2">② 생체 인식 정보 보호를 위한 정보 <strong>주체</strong>의 노력이 수집·이용·보관 단계로 구분돼 반영됐다.<a class="src-tag" href="#ev6">지문 근거</a></li>
+    <li id="q6-3">③ 보호가 필요한 이유가 동의 없이 사용된 사례로 제시돼 반영됐다.</li>
+    <li id="q6-4">④ 안전한 이유에 ‘분실 위험이 적다’는 내용이 추가돼 반영됐다.</li>
+    <li id="q6-5">⑤ 정보 주체의 노력에 ‘불필요한 정보 삭제 요청’이 추가돼 반영됐다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘단계로 구분’된 것이 누구의 노력인지 본다.</p>
+        <p>수집·이용·보관 단계로 구분된 것은 정보 <strong>처리자</strong>의 보호 원칙이다. ②는 정보 ‘주체’의 노력이라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>활용 → 잠금·거래로 구체화.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>단계 구분은 ‘처리자’의 것.</td></tr>
+          <tr><td>③</td><td>적절</td><td>무단 사용 사례로 제시.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘분실 위험 적음’ 추가.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘삭제 요청’ 추가.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob7">
+  <p class="q-stem">7. 〈보기〉(선생님 조언)를 반영해 제목을 작성할 때 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>표제는 <b>4문단</b>에서 말하고자 하는 바(보호에 주의·함께 노력)가 드러나게, 부제는 <b>비유적 표현</b>을 활용할 것.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q7-1">① 소중하게 보호해야 하는 생체 인식 정보 — 한번 뱉은 말처럼 유출되면 되돌릴 수 없는 생체 인식 정보</li>
+    <li id="q7-2">② 다양한 분야에 활용되는 생체 인식 정보 — 활용하기 전에 정보의 돌다리도 두드려 보자</li>
+    <li id="q7-3">③ 암호화하여 저장된 생체 인식 정보 — 나만의 특별한 열쇠인 생체 인식 정보를 지키자</li>
+    <li id="q7-4">④ 생체 인식 정보, 편리한 인증 수단 — 비밀번호와 달리 기억할 필요가 없는 생체 인식 정보</li>
+    <li id="q7-5">⑤ 생체 인식 정보란 무엇인가 — 다양한 서비스에 활용되는 생체 인식 정보를 살펴보자</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 조건(표제=4문단 내용, 부제=비유)을 모두 만족하는지 본다.</p>
+        <p>표제 ‘소중하게 보호해야 한다’는 4문단(보호 주의)과 맞고, 부제 ‘<strong>한번 뱉은 말처럼</strong> 되돌릴 수 없는’은 비유다. 두 조건을 모두 만족하는 ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>보호 주제(표제) + 비유(부제).</td></tr>
+          <tr><td>②~⑤</td><td>오답</td><td>표제가 ‘활용·편리·개념’ 등 4문단과 어긋남.</td></tr>
         </tbody>
       </table>
     </div>
