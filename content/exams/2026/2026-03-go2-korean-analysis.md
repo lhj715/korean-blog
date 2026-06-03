@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~17번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~23번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -754,6 +754,237 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
         <div class="trap-head">조심할 점 — 오답률 60%, ‘무엇이 안 변하나’</div>
         <p>회전·바람은 ‘움직임’(전류 방향)을 바꾸지만 <strong>물질의 친화도=표면 전하 부호</strong>는 못 바꾼다. 변하는 것(전류 방향)과 안 변하는 것(부호)을 갈라야 ④가 보인다.</p>
       </div>
+    </div>
+  </details>
+</div>
+
+## 지문 (18~23번 · 독서, 주제 통합)
+
+<div class="passage">
+  <p class="passage-guide">[18 ~ 23] (가) 생명 중심 윤리 · (나) 생태 중심 윤리.<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="dt2"><b>(가) 생명 중심 윤리 — 테일러</b></p>
+  <p>생명 중심 윤리는 개별 생명체의 고유한 가치를 중시한다. 테일러는 개별 생명체가 자기의 보전·성장·번식을 좇는 ‘목적론적 삶의 중심’이므로 그 자신에게 좋은 것, 즉 <strong>선(good)</strong>을 갖는다고 본다.</p>
+  <p>테일러는 선이 주관적 믿음에 의존하지 않는다고 본다. <span class="ev" id="ev32">어떤 존재가 선이라고 믿는 것이 객관적으로는 그 존재에게 선이 아닐 수 있다.</span><a class="ev-tag" href="#q19-1">19-①</a> <span class="ev" id="ev36">어떤 생명체에 관한 지식을 얻을수록 무엇이 이익이 되는지 더 적절히 알 수 있다.</span><a class="ev-tag" href="#q19-2">19-②</a> 이런 선은 객관적이고 생물학적 증거로 뒷받침된다. 선을 갖는 존재는 도덕적으로 고려할 고유의 가치가 있다.</p>
+  <p>도덕적 행위자인 인간은 자연 존중의 태도에서 도출되는 네 가지 의무를 진다 — 불침해·불간섭·성실·보상적 정의. <span class="ev" id="ev29">불침해 의무는 어떤 생명체에도 피해를 줘서는 안 된다는 것이나, 인간이 유발하지 않은 피해까지 방지할 적극적 의무는 없다.</span><a class="ev-tag" href="#q22-1">22-①</a> <span class="ev" id="ev30">성실의 의무는 대상을 야생 동물로 국한해, 사냥·낚시처럼 야생 동물을 기만·배반하지 말 것을 요구한다.</span><a class="ev-tag" href="#q22-2">22-②</a> 보상적 정의의 의무는 피해를 준 인간이 보상해 도덕적 균형을 복원할 것을 요구한다.</p>
+  <p><span class="ev" id="ev31">네 의무에는 우선순위가 있어 불침해 의무가 가장 우선하고, 충돌 시 보상적 정의 &gt; 성실 &gt; 불간섭 순이다.</span><a class="ev-tag" href="#q19-5">19-⑤</a></p>
+  <p class="dt2"><b>(나) 생태 중심 윤리 — 레오폴드</b></p>
+  <p>생태 중심 윤리는 무생물을 포함한 생태계 전체가 도덕적 고려 가치가 있다고 본다. <span class="ev" id="ev34">레오폴드는 도덕적 옳고 그름이 생태계 보전에 이바지하느냐에 달려 있다고 주장한다.</span><a class="ev-tag" href="#q22-3">22-③</a></p>
+  <p><span class="ev" id="ev33">개별 생명체의 기능은 생태계의 상호 의존적 관계 안에서 제대로 이해된다.</span><a class="ev-tag" href="#q20-3">20-③</a> 그래서 ㉠늑대를 이해하려면 생태계에서의 역할 설명을 포함해야 한다. <span class="ev" id="ev35">생태계라는 전체는 개별 요소를 넘어선 독립된 존재로, 개체가 생태계를 규정하는 것이 아니라 생태계가 개체를 규정한다.</span><a class="ev-tag" href="#q20-1">20-①</a> 따라서 생태계는 독자적 도덕 가치를 갖는다.</p>
+  <p>생태 중심 윤리에서 보면 생명 중심 윤리는 생태계를 살아 있는 것으로 보지 않아 환경 쟁점을 제대로 다루지 못한다. 다만 개체의 희생을 정당화할 수 있어 ‘환경 파시즘’이라는 비판도 받는다.</p>
+</div>
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>주제 통합은 <strong>두 입장의 축</strong>을 먼저 대비한다.</p>
+  <ul>
+    <li><strong>테일러(가)</strong> — 도덕 고려 대상 = <em>선을 갖는 개별 생명체</em>. 인간은 네 의무(불침해·불간섭·성실·보상)를 진다. 성실은 <em>야생 동물 한정</em>.</li>
+    <li><strong>레오폴드(나)</strong> — 도덕 고려 대상 = <em>생태계 전체</em>. ‘생태계가 개체를 규정’하는 전체주의. 보전에 해로우면 옳지 않다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 21·22번은 ‘<strong>누가 무엇을 도덕 대상으로 보는가</strong>’와 ‘성실=야생 동물 한정’이 함정이다(식물 A엔 성실·배반 적용 안 됨).</p>
+</div>
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① (가)는 특정 사상의 시대적 변화 과정을, (나)는 사상이 환경 문제 해결에 도입된 사례를 분석한다.</li>
+    <li id="q18-2">② (가)는 (나)와 달리 특정 학자의 한계점을 보완하는 새 이론적 가정을 소개한다.</li>
+    <li id="q18-3">③ (나)는 (가)와 달리 여러 학자의 이론이 사회 변화에 미친 영향을 분석한다.</li>
+    <li id="q18-4">④ (가)와 (나)는 모두 도덕적 고려 대상에 관한 특정 학자의 견해를 제시한다.</li>
+    <li id="q18-5">⑤ (가)와 (나)는 모두 미래 상황을 가정하여 도덕적 가치의 의의를 강조한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글의 공통 전개를 본다. ‘~과 달리’(차이)인지 ‘모두’(공통)인지부터 가른다.</p>
+        <p>(가)는 테일러, (나)는 레오폴드 — 둘 다 <strong>도덕적 고려 대상에 관한 특정 학자의 견해</strong>를 제시한다. ④가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>(가)는 ‘시대적 변화 과정’을 다루지 않는다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가)에 ‘한계 보완 새 가정’은 없다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(나)는 ‘사회 변화에 미친 영향’을 분석하지 않는다.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>둘 다 특정 학자의 도덕적 고려 대상 견해 제시.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘미래 상황 가정’으로 의의를 강조하지 않는다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. (가)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① 어떤 존재가 선이라고 믿는 것은 객관적으로 그 존재에게 선이 아닐 수 있다.<a class="src-tag" href="#ev32">지문 근거</a></li>
+    <li id="q19-2">② 생물학적 지식을 얻으면 그 생명체에게 선이 되는 것을 더 적절히 알 수 있다.<a class="src-tag" href="#ev36">지문 근거</a></li>
+    <li id="q19-3">③ 어떤 생명체가 선을 갖는다면 인간은 그 생명체에게 피해를 주지 않을 의무가 있다.</li>
+    <li id="q19-4">④ 인간이 입힌 피해를 보상해 도덕적 균형을 복원하려는 의무는 보상적 정의의 의무이다.</li>
+    <li id="q19-5">⑤ 의무가 충돌하면 성실이 불간섭에, 보상적 정의가 불침해에 우선한다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 의무의 <strong>우선순위</strong>를 정확히 따진다. ‘불침해가 가장 우선’이 고정값이다.</p>
+        <p>불침해 의무가 <strong>가장 우선</strong>이고, 나머지 충돌 시 보상 &gt; 성실 &gt; 불간섭이다. ⑤는 “보상적 정의가 불침해에 우선”이라 했는데, 불침해가 최우선이므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>믿는 선 ≠ 객관적 선(2문단).</td></tr>
+          <tr><td>②</td><td>적절</td><td>지식↑ → 이익 판단 정확↑(2문단).</td></tr>
+          <tr><td>③</td><td>적절</td><td>피해 주지 않을 의무 = 불침해(3문단).</td></tr>
+          <tr><td>④</td><td>적절</td><td>보상으로 균형 복원 = 보상적 정의(3문단).</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>불침해가 최우선 — 보상이 불침해에 우선할 수 없다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 앞 절은 맞고 뒤 절이 틀림</div>
+        <p>⑤의 ‘성실&gt;불간섭’은 맞다. 그러나 ‘보상&gt;불침해’가 틀렸다. <strong>and로 묶인 두 절</strong>을 각각 검증해야 걸린다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. (나)를 바탕으로 할 때, ㉠의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① 개별 생명체가 자기 역할을 통해 생태계를 규정하기 때문에<a class="src-tag" href="#ev35">지문 근거</a></li>
+    <li id="q20-2">② 개체의 생존이 생태계의 보전과 이해관계가 일치하기 때문에</li>
+    <li id="q20-3">③ 개별 생명체의 기능은 생태계에서의 역할을 통해 제대로 이해되기 때문에<a class="src-tag" href="#ev33">지문 근거</a></li>
+    <li id="q20-4">④ 생태계의 평형이 개별 구성 요소의 총합으로 결정되기 때문에</li>
+    <li id="q20-5">⑤ 다른 생명체를 위협하는 개체는 네트워크를 형성하지 못하기 때문에</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(늑대를 이해하려면 생태계 역할을 포함)의 <strong>전제</strong>를 찾는다.</p>
+        <p>(나)는 “개별 생명체의 기능은 생태계의 상호 의존적 관계 안에서 제대로 이해된다”고 했다. 그래서 늑대 이해에 생태계 역할 설명이 필요하다. ③이 그 이유다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>생태계가 개체를 규정한다(방향 반대).</td></tr>
+          <tr><td>②</td><td>오답</td><td>개체 생존과 보전이 일치하지 않을 수 있다(선별 도태).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>개체 기능은 생태계 역할로 이해된다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>전체는 부분의 총합 이상이다(전체주의).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>위협하는 개체도 네트워크를 형성한다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. 〈보기〉에서 ‘테일러’·‘레오폴드’ 입장으로 ㉮·㉯를 판단한 것으로 가장 적절한 것은? <span class="q-rate">오답률 67.2%</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>㉮ (학생1) 의식적으로 자신의 믿음·욕구를 가질 수 있는 존재들만 도덕적 의무의 대상이 되어야 한다.<br>㉯ (학생2) 생명을 지닌 개별 존재들만 도덕적 의무의 대상이 되어야 한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q21-1">① 테일러는 ㉮에 동의하지 않고 ㉯에 동의하겠군.</li>
+    <li id="q21-2">② 레오폴드는 ㉮에 동의하고 ㉯에 동의하지 않겠군.</li>
+    <li id="q21-3">③ 테일러는 ㉮에 동의하고 레오폴드는 ㉯에 동의하겠군.</li>
+    <li id="q21-4">④ 테일러와 레오폴드는 ㉮·㉯ 모두에 동의하겠군.</li>
+    <li id="q21-5">⑤ 테일러와 레오폴드는 ㉮·㉯ 모두에 동의하지 않겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 학자의 ‘도덕 대상 범위’를 ㉮(의식 가진 존재만)·㉯(생명 가진 개별 존재만)와 대조한다.</p>
+        <p>테일러는 ‘선을 갖는 <strong>개별 생명체</strong>’가 대상이다 → ㉮(의식 가진 것만)에 <strong>반대</strong>, ㉯(생명 가진 개별 존재)에 <strong>동의</strong>. 레오폴드는 ‘<strong>생태계 전체</strong>(무생물 포함)’가 대상이다 → ㉮·㉯ 모두 너무 좁아 <strong>반대</strong>. 따라서 ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>테일러: ㉮ 반대·㉯ 동의 / 레오폴드: 둘 다 반대 → ①과 일치.</td></tr>
+          <tr><td>②</td><td>오답</td><td>레오폴드는 ㉮에 동의하지 않는다(생태계 전체가 대상).</td></tr>
+          <tr><td>③</td><td>오답</td><td>테일러는 ㉮(의식만)에 동의하지 않는다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>둘 다 ㉮에 동의하지 않는다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>테일러는 ㉯에는 동의한다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 오답률 67%, 대상 ‘범위’가 핵심</div>
+        <p>테일러=개별 생명체, 레오폴드=생태계 전체. ㉮(의식)는 둘 다 너무 좁다고 보고, ㉯(생명 개체)는 테일러만 받아들인다. 각 학자의 <strong>대상 범위</strong>를 먼저 적어 두고 대입한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. (가)·(나)로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 72.4%</span> <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>○○ 지방 환경청이 하천 변 생태계를 위협하는 <b>식물 A</b> 제거를 계획. A는 덩굴로 자라 갈대·억새·큰 나무의 생육을 저해하는 피해를 준다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q22-1">① 테일러는 A로 다른 식물이 피해를 받아도 인간이 이를 방지할 의무는 없다고 보겠군.<a class="src-tag" href="#ev29">지문 근거</a></li>
+    <li id="q22-2">② 테일러는 A를 인위적으로 제거하는 것은 생명체를 배반하는 행위이므로 인간이 A에게 보상해야 한다고 보겠군.<a class="src-tag" href="#ev30">지문 근거</a></li>
+    <li id="q22-3">③ 레오폴드는 A가 다른 식물에 피해를 주는 것이 생태계에 해가 되므로 도덕적으로 옳지 않다고 보겠군.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q22-4">④ 레오폴드는 생태계의 안정과 균형을 고려하여 A를 제거할 수 있다고 보겠군.</li>
+    <li id="q22-5">⑤ 테일러는 하천 변 생태계가 도덕적 의무 대상이 아니라고, 레오폴드는 도덕적 가치를 갖는다고 보겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 사례(식물 A)에 두 입장을 대입한다. 핵심은 테일러의 <strong>성실 의무 = 야생 ‘동물’ 한정</strong>이다.</p>
+        <p>성실 의무는 대상이 <strong>야생 동물</strong>이다. A는 <strong>식물</strong>이므로 ‘배반’ 개념이 적용되지 않는다. 그런데 ②는 A 제거를 ‘생명체 배반’이라며 보상 의무를 말했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>유발 안 한 피해 방지 의무 없음(불침해).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>성실 의무는 야생 ‘동물’ 한정 — 식물 A엔 배반·보상이 적용 안 됨.</td></tr>
+          <tr><td>③</td><td>적절</td><td>생태계에 해 → 도덕적으로 옳지 않음(레오폴드).</td></tr>
+          <tr><td>④</td><td>적절</td><td>보전 위해 개체 선별 제거 가능(레오폴드).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>테일러=개체 대상, 레오폴드=생태계 가치 인정.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 오답률 72%(1위), ‘동물’ 한정에 주목</div>
+        <p>②는 그럴듯하지만 성실 의무의 <strong>대상 한정(야생 동물)</strong>을 놓치면 낚인다. 사례의 대상이 동물인지 식물인지부터 확인한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. 문맥상 ⓐ~ⓔ와 가장 가까운 의미로 쓰인 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ⓐ(좇는): 그의 시선이 멀어지는 까마귀 떼를 좇았다.</li>
+    <li id="q23-2">② ⓑ(막는): 사람들은 우리가 집 안으로 들어가려는 것을 막았다.</li>
+    <li id="q23-3">③ ⓒ(미친다): 학교에서 방법을 찾으리라는 데 생각이 미쳤다.</li>
+    <li id="q23-4">④ ⓓ(다루지): 이 상점들은 오랫동안 전자 제품만을 다뤘다.</li>
+    <li id="q23-5">⑤ ⓔ(가져올): 동생은 어려운 문제를 늘 나에게 가져왔다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 밑줄 단어의 <strong>문맥적 의미</strong>를 파악하고, 같은 의미로 쓰인 예를 고른다.</p>
+        <p>ⓑ‘막는’은 ‘어떤 행동을 못 하게 하다’의 뜻이다. ②의 ‘막았다(들어가려는 것을)’가 같은 의미다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>ⓐ‘좇다(추구)’ ≠ ‘눈으로 따라가다’.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>ⓑ‘막다(행동을 못 하게)’ = 들어가려는 것을 막다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ⓒ‘미치다(영향)’ ≠ ‘생각이 미치다(이르다)’.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓓ‘다루다(논의)’ ≠ ‘취급·판매하다’.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ⓔ‘가져오다(초래)’ ≠ ‘물건을 가져오다’.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
