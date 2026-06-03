@@ -12,7 +12,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~38번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -24,6 +24,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set6">21~25 독서(인문)</a>
   <a href="#set7">26~30 독서(사회)</a>
   <a href="#set8">31~33 고전 시가</a>
+  <a href="#set9">34~38 갈래 복합</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1315,6 +1316,198 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr class="correct"><td>③</td><td class="ok">부적절</td><td>저녁 장면일 뿐, 동일시·시간 통합 아님.</td></tr>
           <tr><td>④</td><td>적절</td><td>이슬=자연의 순환 조응.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>‘이 중의’=주제 주목 유도.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+## 34~38번 문학(갈래 복합) · 박두진 〈청산도〉 · 기형도 〈숲으로 된 성벽〉 · 이규보 〈지지헌기〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>세 글의 ‘공간’을 누가 어떻게 경험하는지로 묶는다(37번 〈보기〉의 핵심).</p>
+  <ul>
+    <li><strong>(가) 청산도</strong> — ‘산아’를 거듭 부르며, ‘벌레 같은 세상’과 대비되는 ‘푸른 산’에서 ‘볼이 고운 사람’을 기다림.</li>
+    <li><strong>(나) 숲으로 된 성벽</strong> — ‘구름·공기’ 같은 자격을 갖춘 농부만 성에 든다. 숲을 훼손한 골동품 상인에겐 ‘공터’만 보임.</li>
+    <li><strong>(다) 지지헌기</strong> — ‘그칠 곳에 그친다(止止)’. 본성에 맞게 그쳐 해를 피하려는 글쓴이의 삶의 태도.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 34번은 (가)만 ‘반복 호명’, 35번은 ‘둥둥=구름이 산을 넘는 움직임’(햇살 벗어남 아님), 37번은 ‘어떤 이’의 비판 근거를 거꾸로 단 ⑤가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[34 ~ 38] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p><b>(가) 박두진, 〈청산도〉</b></p>
+  <p><span class="ev ans" id="ev34">산아.</span><a class="ev-tag ans" href="#q34-2">34-②</a> 우뚝 솟은 푸른 산아. 철철철 흐르듯 짙푸른 산아. 숱한 나무들, 무성히 무성히 우거진 산마루에, 금빛 기름진 햇살은 내려오고, <span class="ev" id="ev35">둥둥 산을 넘어, 흰 구름 건넌 자리 씻기는 하늘.</span><a class="ev-tag" href="#q35-2">35-②</a> 사슴도 안 오고 바람도 안 불고, 넘엇 골 골짜기서 울어 오는 뻐꾸기…….</p>
+  <p>산아. 푸른 산아. 네 가슴 향기로운 풀밭에 엎드리면, 나는 가슴이 울어라. 흐르는 골짜기 스며드는 물소리에, 내사 줄줄줄 가슴이 울어라. (…) 어찌면 만나도질 <span class="ev" id="ev37-1">볼이 고운 사람이, 난 혼자 그리워라.</span><a class="ev-tag" href="#q37-1">37-①</a></p>
+  <p>티끌 부는 세상에도 벌레 같은 세상에도 눈 맑은, 가슴 맑은, 보고지운 나의 사람. (…) 향기로운 이슬밭 푸른 언덕을, <span class="ev" id="ev37-1b">총총총 달려도 와 줄 볼이 고운 나의 사람.</span></p>
+  <p><b>(나) 기형도, 〈숲으로 된 성벽〉</b></p>
+  <p>저녁 노을이 지면 / 신들의 상점엔 하나둘 불이 켜지고 / <span class="ev" id="ev37-2">농부들은 작은 당나귀들과 함께 / 성 안으로 사라지는 것이었다</span><a class="ev-tag" href="#q37-2">37-②</a><br>
+  성벽은 울창한 숲으로 된 것이어서 / <span class="ev" id="ev37-2b">누구나 사원을 통과하는 구름 혹은 / 조용한 공기들이 되지 않으면 / 한걸음도 들어갈 수 없는</span> 아름답고 / 신비로운 그 성<br>
+  어느 골동품 상인이 그 숲을 찾아와 / ㉠<span class="ev ans" id="ev36a">몇 개 큰 나무들을 잘라내고 들어갔다</span><a class="ev-tag ans" href="#q36-1">36-㉠</a> / <span class="ev" id="ev37-3">그곳에는…… 아무것도 없었다, 그가 본 것은 / 쓰러진 나무들뿐</span><a class="ev-tag" href="#q37-3">37-③</a>, 잠시 후 / 그는 그 공터를 떠났다<br>
+  농부들은 아직도 그 평화로운 성에 살고 있다 / 물론 그 작은 당나귀들 역시</p>
+  <p><b>(다) 이규보, 〈지지헌기〉</b></p>
+  <p>“이른바 지지(止止)란 능히 그 그칠 곳을 알아서 그치는 것이니, 그칠 곳이 아닌 데에 그치면 그것은 그칠 곳에 그친 것이 아니다. 호랑이·표범, 고라니·사슴, 교룡은 늪·못이나 굴에 있어야 그칠 곳에 그치는 것인데, 본고장을 떠나 성시(城市)에 그친다면 사람들이 재앙으로 여겨 해칠 것이다.”</p>
+  <p>“나는 세상에서 거만스러워 남과 합하는 일이 적으니 길들여진 물건이 아니다. 만일 남들과 함께 나아가 <span class="ev" id="ev37-4">명리(名利)의 지경에 그친다면, 이는 짐승이 성시에 그친 것과 무엇이 다르랴.</span><a class="ev-tag" href="#q37-4">37-④</a> 이것이 내가 그칠 곳을 구하여 그치는 것이다. 그렇지 않으면 사람들이 재앙으로 여겨 해치는 자가 이를 것이다.”</p>
+  <p>어떤 이가 “자네 말대로면 <span class="ev ans" id="ev37-5">산림·궁곡에 처하여 남들과 섞이지 않은 연후에야 그칠 곳에 그쳤다 할 것인데, 지금 자네가 그친 곳은 성시의 가운데인데도 그칠 곳에 그쳤다 하니 어찌된 것인가?”</span><a class="ev-tag ans" href="#q37-5">37-⑤</a> 하기에, 이렇게 답했다.</p>
+  <p>“진실로 사람들과 다투지 아니하여, 비록 대낮에 ㉡<span class="ev" id="ev36b">내 상자를 훔쳐가는 자가 있더라도 피하고 보지 않는다면,</span><a class="ev-tag" href="#q36-1">36-㉡</a> 사람이 성시에 처하는 것이 또한 짐승이 늪·못이나 굴에 처하는 것과 같은데, 어찌 해칠 자가 있겠는가? <span class="ev ans" id="ev38">내가 거처를 이렇게 이름한 것은 대개 이러한 뜻이다.</span><a class="ev-tag ans" href="#q38-2">38-②</a>”</p>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q34-1">① (가)는 (나)와 달리 일부 연을 명사로 마무리하며 여운을 강화하고 있다.</li>
+    <li id="q34-2">② (가)는 (나)와 달리 반복적 호명을 통해 중심 대상으로 초점을 모으고 있다.<a class="src-tag ans" href="#ev34">정답 근거</a></li>
+    <li id="q34-3">③ (나)는 (가)와 달리 근경에서 원경으로 시선을 이동하며 풍경을 묘사하고 있다.</li>
+    <li id="q34-4">④ (가)와 (나)는 모두 표면에 드러난 화자가 상황을 가정하며 시상을 전개하고 있다.</li>
+    <li id="q34-5">⑤ (가)와 (나)는 모두 말줄임표를 통해 시적 대상 사이의 대립 상황을 제시하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 시의 차이를 정확히 짚는다.</p>
+        <p>(가)는 ‘<strong>산아</strong>’를 거듭 불러(반복적 호명) 중심 대상에 초점을 모은다. (나)에는 그런 반복 호명이 없다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>명사 마무리는 (가)·(나) 모두.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>(가)만 ‘산아’ 반복 호명.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(나) 근경→원경 이동 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나)는 화자가 표면에 안 드러남.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>말줄임표가 대립 제시는 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. (가)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① 1연의 ‘철철철’은 ‘숱한 나무들’과 ‘무성히 우거진 산마루’로 이루어진 ‘짙푸른 산’의 모습을 부각한다.</li>
+    <li id="q35-2">② 1연의 ‘둥둥’은 ‘기름진 햇살’로부터 <strong>벗어나</strong> ‘씻기는 하늘’로 향하려는 ‘흰 구름’의 움직임을 부각한다.<a class="src-tag ans" href="#ev35">정답 근거</a></li>
+    <li id="q35-3">③ 2연의 ‘줄줄줄’은 ‘골짜기’의 ‘물소리’와 ‘나’의 ‘가슴’ 속을 조응시키며 고조된 감정을 부각한다.</li>
+    <li id="q35-4">④ 2연의 ‘아른아른’은 ‘보고 싶은 하늘’이 ‘오지 않는’ 상황에서 ‘나’가 느끼는 그리움을 부각한다.</li>
+    <li id="q35-5">⑤ 3연의 ‘총총총’은 ‘나의 사람’이 만남을 위해 기꺼이 ‘와 줄’ 것이라는 ‘나’의 기대를 부각한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘둥둥’이 무엇의 움직임인지 본다.</p>
+        <p>‘둥둥 산을 넘어’는 흰 구름이 <strong>산을 넘어가는</strong> 움직임이다. ‘햇살로부터 벗어나 하늘로 향하려는’ 것이 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘철철철’=짙푸른 산 생명력.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘둥둥’=구름이 산 넘는 움직임.</td></tr>
+          <tr><td>③</td><td>적절</td><td>물소리↔가슴 조응.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘아른아른’=그리움.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘총총총’=달려올 기대.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① ‘그’는 ㉠을 목적 추구에 방해가 되는 대상으로, ‘나’는 ㉡을 추구하는 뜻에 방해가 되지 않는 대상으로 인식한다.<a class="src-tag ans" href="#ev36a">정답 근거(㉠)</a><a class="src-tag ans" href="#ev36b">정답 근거(㉡)</a></li>
+    <li id="q36-2">② ‘그’는 ㉠으로 인해 자신의 행동에 의구심을 갖게 되고, ‘나’는 ㉡으로 인해 자신의 선택에 만족감을 갖게 된다.</li>
+    <li id="q36-3">③ ㉠은 ‘그’가 상생의 관계를 포기하게 되는 계기로, ㉡은 ‘사람들’이 신뢰를 저버리는 계기로 작용한다.</li>
+    <li id="q36-4">④ ㉠은 ‘그’의 문제 해결 과정에서 희생되는, ㉡은 ‘나’의 문제 해결을 위한 실마리를 제공하는 대상이다.</li>
+    <li id="q36-5">⑤ ㉠은 ‘그’의 내적 갈등을 유발하는 자연물이고, ㉡은 ‘사람들’ 사이의 의견 충돌을 유발하는 인공물이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 인물이 ㉠·㉡을 어떻게 ‘대하는지’ 본다.</p>
+        <p>‘그’는 성에 들어가려고 ㉠(큰 나무)을 <strong>방해물</strong>로 보아 잘라낸다. ‘나’는 그칠 곳에 그쳐 해를 피하려는 뜻을 지녀, 상자를 훔쳐가도(㉡) <strong>다투지 않으니 방해가 되지 않는다</strong>. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>㉠=방해물, ㉡=뜻에 방해 안 됨.</td></tr>
+          <tr><td>②</td><td>오답</td><td>의구심·만족감 근거 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>상생 포기·신뢰 저버림 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉡은 해결 실마리 제공 X.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉠ 내적 갈등 유발 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. 〈보기〉를 바탕으로 (가)~(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>공간의 특성은 그것을 경험하는 인물을 통해 드러난다. 같은 공간도 인물에 따라 다른 의미를 갖거나, 공간 자체의 모습이 달리 나타나기도 한다(후자는 그 공간에 어울리는 인물만 온전한 모습을 경험할 자격을 지님).</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q37-1">① (가)의 ‘나’가 ‘푸른 산’에서 ‘볼이 고운 사람’을 그리는 것으로 보아, ‘푸른 산’은 ‘벌레 같은 세상’과 대비되는 기다림의 공간이군.<a class="src-tag" href="#ev37-1">지문 근거</a></li>
+    <li id="q37-2">② (나)에서 ‘농부들’이 ‘울창한 숲’을 통과해 ‘성 안’으로 사라진 것은, ‘구름·공기’ 같은 속성으로 ‘성’을 경험할 자격을 갖췄음을 보여 주는군.<a class="src-tag" href="#ev37-2b">지문 근거</a></li>
+    <li id="q37-3">③ (나)에서 ‘농부들’에겐 ‘평화로운 성’이 ‘골동품 상인’에겐 ‘공터’로 보이는 것은, 인물에 따라 같은 공간이 모습을 달리함을 보여 주는군.<a class="src-tag" href="#ev37-3">지문 근거</a></li>
+    <li id="q37-4">④ (다)에서 ‘나’가 ‘명리의 지경’에 그치는 것을 ‘짐승’이 ‘성시’에 그치는 것과 같다 한 것으로 보아, ‘나’에게 ‘명리의 지경’은 그쳐서는 안 될 공간이군.<a class="src-tag" href="#ev37-4">지문 근거</a></li>
+    <li id="q37-5">⑤ (다)에서 ‘나’가 ‘성시’에서 남을 피하는 것이 ‘떳떳’하다 한 것을 ‘어떤 이’가 비판한 것으로 보아, ‘어떤 이’에게 ‘성시’는 ‘명리의 지경’과 동일시되는 공간이군.<a class="src-tag ans" href="#ev37-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘어떤 이’가 무엇을 근거로 ‘나’를 비판했는지 본다.</p>
+        <p>‘어떤 이’는 “네 주장대로면 <strong>산림·궁곡에 처해야</strong> 그칠 곳에 그친 것인데 왜 성시에 그쳤다 하느냐”라고 의문을 제기한다. ‘성시=떳떳’을 근거로, 혹은 ‘성시를 명리의 지경과 동일시’해 비판한 게 아니므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>푸른 산=기다림의 공간.</td></tr>
+          <tr><td>②</td><td>적절</td><td>농부=자격 갖춘 경험.</td></tr>
+          <tr><td>③</td><td>적절</td><td>같은 공간이 인물 따라 달리 보임.</td></tr>
+          <tr><td>④</td><td>적절</td><td>명리의 지경=그쳐선 안 될 곳.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘어떤 이’는 ‘산림에 처해야’를 근거로 의문 제기.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. (다)의 구절과 관련지어 ‘지지(止止)’에 대해 설명한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q38-1">① ‘어찌 해칠 자가 있겠는가?’를 통해 위험을 감수하는 삶의 태도가 중요하다는 믿음을 강조한다.</li>
+    <li id="q38-2">② ‘거처를 이렇게 이름한 것’과 관련되어 자신의 본성에 맞는 삶을 실천하려는 글쓴이의 지향을 반영한다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
+    <li id="q38-3">③ ‘그렇지 않으면 사람들이 재앙으로 여기고’를 통해 어쩔 수 없이 그쳐야 하는 상황에 대한 두려움을 나타낸다.</li>
+    <li id="q38-4">④ ‘세상에 있어서 거만스러워 남과 합하는 일이 적으니’를 통해 아직 그치지 못하는 자신에 대한 반성을 나타낸다.</li>
+    <li id="q38-5">⑤ ‘사람들’, ‘호랑이와 표범…’과 관련되어 이들 모두가 그쳐야 할 곳에 그치도록 노력하겠다는 의지를 담아낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘지지’가 글쓴이의 어떤 삶을 담는지 본다.</p>
+        <p>‘지지’는 ‘그칠 곳에 그친다’로, ‘거처를 이렇게 이름한 것’과 이어져 <strong>자신의 본성에 맞게 그치는 삶</strong>을 실천하려는 지향을 반영한다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>위험 감수를 중시하지 않음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>본성에 맞게 그치는 삶의 지향.</td></tr>
+          <tr><td>③</td><td>오답</td><td>두려움 표현 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>자기반성 내용 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘모두를 그치게’ 하려는 의지 없음.</td></tr>
         </tbody>
       </table>
     </div>
