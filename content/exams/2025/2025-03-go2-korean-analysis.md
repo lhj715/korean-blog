@@ -17,6 +17,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
+  <a href="#set2">4~7 화법·작문</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
