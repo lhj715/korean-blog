@@ -12,12 +12,14 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~7번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
   <a href="#set2">4~7 화법(토론)</a>
+  <a href="#set3">8~10 작문</a>
+  <a href="#set4">11~15 문법</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -295,6 +297,332 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>도롱뇽·산양 소송 추가.</td></tr>
           <tr class="correct"><td>④</td><td class="ok">부적절</td><td>학생 의견에 ‘새 근거’ 없음.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>관점 간추림 + 방향 제안.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set3" class="set-anchor"></div>
+
+## 8~10번 작문 · 펫코노미(반려동물 산업) 소개 글
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>관심 분야(펫코노미)를 ‘<strong>개념 → 사례 → 문제(양육비) → 생각</strong>’ 순으로 소개한 글이다. 무엇이 들어갔고, 어떻게 고쳤고, 어떤 자료를 더할지 본다.</p>
+  <ul>
+    <li><strong>개념·사례</strong> — 펫코노미=펫+이코노미. 사료 고급화, 서비스업(병원·유치원·장례식장) 열거.</li>
+    <li><strong>문제</strong> — 고급화로 양육비↑, 특히 의료비 부담 → 양육 포기 우려.</li>
+    <li><strong>고쳐쓰기[A]</strong> — 인용(피터 싱어)·견해(관심과 사랑)·지시 표현(이것이)·호응 수정.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 8번은 ‘㉢(양육 포기 수치)·㉣(다양한 방안)은 글에 없음’, 9번은 ‘[A]엔 의미 중복 삭제가 없음’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 학생의 초고이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="src-label">[작문 상황] 관심 분야를 소개하고, 그에 대한 자신의 생각 드러내기.</p>
+  <p>당신은 반려동물을 키워 본 적이 있는가? 국내 반려동물 양육 인구는 2010년 약 17.4%에서 2023년 약 30%로 늘었다. 이 증가가 관련 산업의 활성화로 이어진 것이 ‘펫코노미’다. <span class="ev" id="ev5">‘펫코노미(petconomy)’는 ‘펫(pet)’과 ‘이코노미(economy)’가 결합한 신조어로, 반려동물 관련 시장·산업을 일컫는다.</span><a class="ev-tag" href="#q8-1">8-㉠</a> 반려동물을 가족으로 여기는 ‘펫팸족’이 늘며 사료·간식·용품도 다양화·고급화되고 있다.</p>
+  <p>실제로 고가의 기능성 사료·수제 간식이 인기다. <span class="ev" id="ev6">또 펫코노미는 서비스업으로 확장돼 미용실·동물 병원은 물론 반려동물 유치원·행동 교정 센터, 카페·숙박업소, 전용 장례식장까지 생겨났다.</span><a class="ev-tag" href="#q8-2">8-㉡</a> 이런 추세로 펫코노미는 앞으로도 꾸준한 성장이 예상된다.</p>
+  <p>펫코노미 성장으로 반려동물을 더 잘 돌볼 환경이 됐지만, 고급화로 양육 비용이 늘고 있다. 특히 의료비는 제도가 미비해 한 번에 큰 비용이 들기도 한다. 비용 부담은 양육 포기로 이어지기도 해 대책이 필요하다.</p>
+  <div class="seg" id="segA"><p class="seg-label">[A] (마지막 문단, 고쳐쓰기 대상)</p>
+  <p>펫코노미의 성장은 사람과 동물이 주인과 소유물의 관계에서 더불어 살아가는 관계로 변화하고 있다. 펫코노미의 성장이 단순히 경제 지표의 변화에 그치지 않으려면 비싼 사료나 간식만 사주면 안 될 것이다.</p></div>
+</div>
+
+<div class="q-block" id="prob8">
+  <p class="q-stem">8. 글을 쓰기 전 떠올린 생각 중 윗글에 반영된 것만 고른 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 떠올린 생각 &gt;</p>
+    <p>㉠ 펫코노미 용어를 분석해 개념 설명 / ㉡ 성장을 보여 주는 서비스업 종류 열거 / ㉢ 양육 포기 실태의 객관적 수치 활용 / ㉣ 양육 비용 부담 해결의 다양한 방안 제안</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q8-1">① ㉠, ㉡<a class="src-tag" href="#ev5">㉠ 근거</a><a class="src-tag" href="#ev6" id="q8-2">㉡ 근거</a></li>
+    <li id="q8-3">② ㉠, ㉢</li>
+    <li id="q8-4">③ ㉠, ㉣</li>
+    <li id="q8-5">④ ㉡, ㉢</li>
+    <li id="q8-6">⑤ ㉢, ㉣</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 떠올린 생각이 실제 글에 들어갔는지 하나씩 확인한다.</p>
+        <p>㉠(용어 분석)·㉡(서비스업 열거)은 글에 있지만, ㉢(양육 포기 수치)·㉣(다양한 방안)은 글에 없다. 따라서 ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>항목</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>㉠</td><td>반영</td><td>펫+이코노미 용어 분석.</td></tr>
+          <tr><td>㉡</td><td>반영</td><td>병원·유치원·장례식장 열거.</td></tr>
+          <tr><td>㉢</td><td>미반영</td><td>양육 포기 수치 없음.</td></tr>
+          <tr><td>㉣</td><td>미반영</td><td>다양한 방안 제안 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob9">
+  <p class="q-stem">9. 선생님 의견을 바탕으로 [A]를 고쳐 썼을 때, 선생님이 제시했을 의견으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 고쳐 쓴 [A] &gt;</p>
+    <p>철학자 피터 싱어는 고통을 느끼는 존재라면 동물도 사람처럼 대우해야 한다고 했다. 펫코노미의 성장은 사람과 동물이 주인·소유물의 관계에서 더불어 살아가는 관계로 변화하고 <b>있음을 보여 주고 있다</b>. <b>이것이</b> 단순히 경제 지표의 변화에 그치지 않으려면 비싼 사료·간식만 사주기보다 <b>양육자의 관심과 사랑이 필요</b>할 것이다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q9-1">① 문단 첫머리에 인용 표현을 활용하면 어떨까?</li>
+    <li id="q9-2">② 글쓴이의 견해를 드러내는 구절을 추가하면 어떨까?</li>
+    <li id="q9-3">③ 불필요하게 의미가 중복되는 부분은 삭제하면 어떨까?</li>
+    <li id="q9-4">④ 지시 표현을 활용해 반복되는 표현을 대신하면 어떨까?</li>
+    <li id="q9-5">⑤ 주어와 서술어의 호응이 어색한 부분을 수정하면 어떨까?</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 고친 결과에서 ‘무엇을 했는지’ 역으로 추적한다.</p>
+        <p>인용(①)·견해 추가(②)·지시 표현(④ ‘이것이’)·호응 수정(⑤ ‘있음을 보여 주고 있다’)은 모두 확인된다. 그러나 <strong>의미 중복을 삭제한 부분은 없다</strong>. ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>피터 싱어 발언 인용.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘관심과 사랑’ 견해 추가.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>의미 중복 삭제는 없음.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘이것이’ 지시 표현.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘있음을 보여 주고 있다’ 호응.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 〈보기〉를 활용해 초고를 보완하는 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>ㄱ. 통계</b>(ㄱ-1 펫코노미 성장 추이·전망 / ㄱ-2 양육 포기 고려 이유) · <b>ㄴ. 양육자 인터뷰</b>(유기견 입양 후 일상을 함께함) · <b>ㄷ. 신문 기사</b>(순수 양육비 +10%, 의료비 +68.2%로 부담 가중)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q10-1">① ㄱ-1: 펫코노미 성장이 계속될 전망 자료로 2문단에 활용.</li>
+    <li id="q10-2">② ㄴ: 펫팸족의 실제 사례 자료로 1문단에 활용.</li>
+    <li id="q10-3">③ ㄷ: 양육 비용 실태와 증가 추세 자료로 3문단에 활용.</li>
+    <li id="q10-4">④ ㄱ-1·ㄴ: 양육 포기를 예방하는 <strong>정책이 필요</strong>하다는 점을 뒷받침하는 자료로 2문단에 활용.</li>
+    <li id="q10-5">⑤ ㄱ-2·ㄷ: 비용 부담이 양육 포기 원인 중 하나임을 뒷받침하는 자료로 3문단에 활용.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 자료의 ‘내용’이 그 ‘주장’을 뒷받침할 수 있는지 본다.</p>
+        <p>ㄱ-1(성장 전망)·ㄴ(입양 인터뷰)의 내용으로는 ‘양육 포기를 <strong>예방하는 정책이 필요</strong>하다’는 점을 뒷받침할 수 없다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>성장 전망 → 2문단.</td></tr>
+          <tr><td>②</td><td>적절</td><td>입양 인터뷰 → 펫팸족 사례(1문단).</td></tr>
+          <tr><td>③</td><td>적절</td><td>양육비 실태 → 3문단.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>성장·입양 자료로 ‘정책 필요’ 뒷받침 불가.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>포기 이유+비용 → 3문단.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set4" class="set-anchor"></div>
+
+## 11~15번 문법 · 자음군 단순화·중세 국어·관형사절·띄어쓰기
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>11~12번은 <strong>자음군 단순화</strong> 지문, 13~15번은 중세 국어·관형사절·보조 용언 띄어쓰기 단독 문항이다.</p>
+  <ul>
+    <li><strong>자음군 단순화</strong> — 겹받침 뒤가 ‘모음 형식 형태소’면 연음(안 일어남), ‘모음 실질 형태소’면 일어남.</li>
+    <li><strong>탈락 위치</strong> — ㄺ·ㄻ·ㄿ은 앞 자음 탈락(닭→[닥]), 그 외는 뒤 자음(몫→[목]). 용언 ㄺ+ㄱ어미는 뒤 자음([일꼬]).</li>
+    <li><strong>보조 용언</strong> — 띄어 씀이 원칙(붙임 허용). 단 앞말에 조사·합성 용언이면 띄어 씀.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 11번은 ‘모음 실질 형태소면 일어남’(⑤가 반대), 15번은 ‘주고 갔다=본용언+본용언이라 띄어 씀’(보조 용언 아님)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>자음군 단순화는 음절 끝의 겹받침 중 한 자음이 탈락하는 현상으로, ‘음절 끝에서 하나의 자음만 발음된다’는 음절 구조 제약 때문에 일어난다. 그러나 겹받침이 있다고 늘 일어나는 건 아니다. (가) 값[갑] (나) 앉는[안는] (다) 여덟아홉[여더라홉]</p>
+  <p>(가)는 뒤에 형태소가 없어, (나)는 자음으로 시작하는 형태소가 결합해(‘흙냄새’는 비음화도 함께) 단순화가 일어난다. <span class="ev" id="ev7">(다)는 겹받침 뒤에 <strong>모음으로 시작하는 실질 형태소</strong>가 결합해 단순화가 일어난다. 반면 (라) 닭을[달글], 값이[갑씨]는 <strong>모음으로 시작하는 형식 형태소</strong>가 결합해 단순화가 일어나지 않고 뒤 자음이 연음된다.</span><a class="ev-tag" href="#q11-5">11-⑤</a></p>
+  <p><span class="ev" id="ev8">탈락 위치는 자음군에 따라 다르다. ‘ㄺ·ㄻ·ㄿ’은 일반적으로 앞 자음이 탈락(닭[닥]), 다만 용언 어간 ‘ㄺ’ 뒤에 ‘ㄱ’ 어미가 오면 뒤 자음이 탈락(읽고[일꼬]). 그 외 겹받침은 뒤 자음이 탈락(몫[목]). ‘ㄼ’은 뒤 자음 탈락(얇다[얄따])이 일반적이나 ‘밟다[밥따]’·‘넓죽하다[넙쭈카다]’ 등은 예외적으로 앞 자음이 탈락한다.</span><a class="ev-tag" href="#q12-3">12-③</a></p>
+  <p>(마) 많아[마나], 끓이다[끄리다]는 단순화로 착각하기 쉬우나, ‘ㅎ’으로 끝나는 어간 뒤에 모음 어미·접미사가 와 ‘ㅎ’이 탈락한 것이다.</p>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① 자음군 단순화는 음절 구조 제약으로 일어나는 음운 변동이다.</li>
+    <li id="q11-2">② ‘ㅎ’ 탈락이 일어나는 조건에서는 자음군 단순화가 일어나지 않는다.</li>
+    <li id="q11-3">③ 겹받침 뒤에 아무런 형태소가 오지 않으면 자음군 단순화가 일어난다.</li>
+    <li id="q11-4">④ 같은 자음군이라도 조건에 따라 탈락하는 자음의 위치가 달라질 수 있다.</li>
+    <li id="q11-5">⑤ 겹받침 뒤에 모음으로 시작하는 <strong>실질 형태소</strong>가 결합하면 자음군 단순화가 일어나지 않는다.<a class="src-tag" href="#ev7">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘모음 형식 형태소’와 ‘모음 실질 형태소’를 구분한다.</p>
+        <p>겹받침 뒤에 모음 <strong>실질</strong> 형태소가 오면(여덟아홉) 단순화가 <strong>일어난다</strong>. 안 일어나는 건 모음 <strong>형식</strong> 형태소(닭을)일 때다. ⑤가 반대로 적었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>음절 구조 제약 때문.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘ㅎ’ 탈락(많아)은 단순화 아님.</td></tr>
+          <tr><td>③</td><td>적절</td><td>(가) 값[갑].</td></tr>
+          <tr><td>④</td><td>적절</td><td>ㄼ은 조건 따라 탈락 위치 다름.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>실질 형태소면 ‘일어난다’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글을 바탕으로 〈탐구〉를 수행한 결과가 바르게 짝지어진 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 탐구 &gt;</p>
+    <p>자료: 긁는, 넓다, 밖을, 참삶<br>
+    ① 자음군 단순화가 일어나는가? → ② 앞 자음이 탈락하는가? → ③ 다른 음운 변동이 함께 일어나는가?<br>
+    <b>㉠</b> = 단순화 O · <b>뒤 자음 탈락</b> / <b>㉡</b> = 단순화 O · <b>앞 자음 탈락</b> · 다른 변동 함께 O</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q12-1">① ㉠ 긁는 / ㉡ 넓다</li>
+    <li id="q12-2">② ㉠ 긁는 / ㉡ 밖을</li>
+    <li id="q12-3">③ ㉠ 넓다 / ㉡ 긁는</li>
+    <li id="q12-4">④ ㉠ 넓다 / ㉡ 참삶</li>
+    <li id="q12-5">⑤ ㉠ 밖을 / ㉡ 참삶</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 단어의 발음 과정을 단계별로 추적한다.</p>
+        <p>‘넓다[널따]’ = 단순화 + <strong>뒤 자음</strong> 탈락 → ㉠. ‘긁는[긍는]’ = 단순화 + <strong>앞 자음</strong> 탈락 + 비음화(다른 변동) → ㉡. 따라서 ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>단어</th><th>과정</th><th>분류</th></tr></thead>
+        <tbody>
+          <tr><td>넓다[널따]</td><td>단순화(뒤 자음 ㅂ 탈락)+된소리</td><td>㉠</td></tr>
+          <tr><td>긁는[긍는]</td><td>단순화(앞 자음 ㄹ 탈락)+비음화</td><td>㉡</td></tr>
+          <tr><td>밖을[바끌]</td><td>단순화 X(연음)</td><td>해당 없음</td></tr>
+          <tr><td>참삶[참삼]</td><td>단순화(앞 자음 탈락), 다른 변동 X</td><td>해당 없음</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 〈보기〉를 바탕으로 중세 국어의 특징을 탐구한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 — 『월인석보』(1449) &gt;</p>
+    <p>그 善慧 부텻긔 가아 ㉠<u>出家ᄒᆞ샤</u> 世尊ㅅ긔 ᄉᆞᆯᄫᆞ샤ᄃᆡ 내 어저ᄢᅴ 다 가짓 ㉡<u>ᄭᅮ믈</u> ᄭᅮ우니 ᄒᆞ나ᄒᆞᆫ 바ᄅᆞ래 ㉢<u>누ᄫᆞ며</u> 둘흔 須彌山 볘며 … 다ᄉᆞ샌 소내 ㉣<u>ᄃᆞᄅᆞᆯ</u> 자보니 世尊하 날 爲ᄒᆞ야 ㉤<u>니ᄅᆞ쇼셔</u><br>
+    <span class="muted">[풀이] 선혜가 부처님께 가서 <b>출가하시어</b>… 다섯 가지 <b>꿈을</b> 꾸니, 하나는 바다에 <b>누우며</b>… 손에 <b>달을</b> 잡으니, 세존이시여 나를 위하여 <b>이르소서</b>.</span></p>
+  </div>
+  <ul class="q-opts">
+    <li id="q13-1">① ㉠: 주체를 높이는 선어말 어미(‘-샤-’)가 쓰였다.</li>
+    <li id="q13-2">② ㉡: 초성에 서로 다른 두 자음(어두자음군 ‘ㅺ’)이 함께 표기됐다.</li>
+    <li id="q13-3">③ ㉢: 높임의 의미를 나타내는 특수 어휘가 사용됐다.</li>
+    <li id="q13-4">④ ㉣: 체언에 조사가 결합할 때 모음조화가 지켜졌다.</li>
+    <li id="q13-5">⑤ ㉤: 두음법칙이 적용되지 않았다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 표시가 가리키는 중세 국어 특징이 맞는지 본다.</p>
+        <p>㉢‘누ᄫᆞ며’는 현대어 ‘누우며’(눕다)일 뿐, <strong>높임의 특수 어휘가 아니다</strong>. ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘-샤-’ 주체 높임.</td></tr>
+          <tr><td>②</td><td>적절</td><td>어두자음군 ‘ㅺ’.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>‘누우며’일 뿐 높임 어휘 아님.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘ᄃᆞᄅᆞᆯ’ 모음조화.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>첫머리 ‘ㄴ’ → 두음법칙 미적용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 〈보기〉를 참고할 때, 〈조건〉에 맞는 문장으로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보기·조건 &gt;</p>
+    <p>관형사절 서술어가 동사면 ‘-(으)ㄴ/-던’=과거, ‘-는’=현재, ‘-(으)ㄹ’=미래. 형용사·서술격 조사면 ‘-(으)ㄴ’=현재.<br>
+    <b>조건:</b> 과거 시제와 현재 시제를 표현하는 관형사절을 각각 한 번씩만 사용할 것.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q14-1">① 언니가 <u>만든</u> 선물을 <u>은사이신</u> 그분께 드린다.</li>
+    <li id="q14-2">② 그 친구는 아무 말도 없이 <u>밝은</u> 미소를 지었다.</li>
+    <li id="q14-3">③ 내가 책을 <u>사던</u> 서점은 이제 완전히 문을 닫았다.</li>
+    <li id="q14-4">④ 집에 <u>들어온</u> 오빠가 <u>한</u> 말은 내가 자주 <u>듣던</u> 말이다.</li>
+    <li id="q14-5">⑤ 최근 <u>출간된</u> 소설 작품을 위주로 <u>검색할</u> 목록을 만들었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 관형사절을 찾아 시제를 각각 매긴다.</p>
+        <p>①의 ‘언니가 <strong>만든</strong>’(동사 ‘-ㄴ’)=과거, ‘<strong>은사이신</strong>’(서술격 ‘-ㄴ’)=현재. 과거·현재 한 번씩이라 조건에 맞다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>만든(과거)+은사이신(현재).</td></tr>
+          <tr><td>②</td><td>오답</td><td>밝은(현재)만 있음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>사던(과거)만 있음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>과거 관형사절 셋(현재 없음).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>과거(출간된)+미래(검색할).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. 〈보기〉의 수업을 바탕으로 [학습 과제]를 수행한 결과로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>본용언+본용언 → 띄어 씀. 본용언+보조 용언 → 띄어 씀이 원칙(붙임 허용). 단 <b>앞말에 조사가 붙거나 앞말이 합성 용언</b>이면 띄어 씀. 의존 명사+‘-하다’ 보조 용언에서 의존 명사 뒤에 조사가 붙어도 띄어 씀.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q15-1">① ㉠ 책을 <u>읽어 주었다</u> — 적절(보조 용언은 띄어 씀이 원칙).</li>
+    <li id="q15-2">② ㉡ 선물을 <u>주고갔다</u> — 적절(경우에 따라 붙여 씀 허용).</li>
+    <li id="q15-3">③ ㉢ 한번 <u>덤벼들어보아라</u> — 부적절(앞말이 합성 용언이라 띄어 씀).</li>
+    <li id="q15-4">④ ㉣ <u>읽어도보았으나</u> — 부적절(앞말에 조사 ‘도’가 붙어 띄어 씀).</li>
+    <li id="q15-5">⑤ ㉤ 그가 <u>올 듯도 하다</u> — 적절(의존 명사 ‘듯’ 뒤에 조사 붙어 띄어 씀).</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘주고 갔다’가 본용언+보조 용언인지부터 본다.</p>
+        <p>‘주고’와 ‘갔다’는 <strong>둘 다 본용언</strong>(주고 + 갔다)이므로 띄어 써야 한다. 보조 용언의 ‘붙임 허용’이 적용될 수 없으니 ‘주고갔다’는 잘못이다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>본용언+보조 용언 → 띄어 씀 원칙.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘주고 갔다’=본용언+본용언(띄어 씀).</td></tr>
+          <tr><td>③</td><td>적절</td><td>합성 용언(덤벼들어) → 띄어 씀.</td></tr>
+          <tr><td>④</td><td>적절</td><td>조사 ‘도’ → 띄어 씀.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>의존 명사 뒤 조사 → 띄어 씀.</td></tr>
         </tbody>
       </table>
     </div>
