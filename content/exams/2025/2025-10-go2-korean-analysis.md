@@ -12,7 +12,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-10-14</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
 </section>
 
 <div id="set1" class="set-anchor"></div>
@@ -1058,6 +1058,722 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
       <div class="trap">
         <div class="trap-head">조심할 점 — 네 축이 동시에 2배</div>
         <p>수평 분해능을 2배 높이면 연직 공간분해능·시간분해능까지 따라 2배가 된다. 그래서 <strong>세 공간축 + 시간축, 네 축이 각각 2배</strong>가 돼 전체 계산량은 <strong>2×2×2×2 = 2⁴ = 16배</strong>다. ④의 ‘4배’는 한두 축만 센 함정.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 26~30번 독서(사회) · 범죄는 어떻게 성립하고, 죄의 수는 어떻게 세나
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>두 축이다. ① <strong>범죄 성립 3단계</strong>, ② <strong>죄의 수 세기</strong>. 용어가 많지만 ‘몇 개의 행위 → 몇 개의 죄 → 어떻게 처벌’ 흐름만 표로 잡으면 된다.</p>
+  <ul>
+    <li><strong>범죄 성립</strong> — 구성요건 해당 → 위법(=불법) → <strong>책임</strong>(책임능력 있는데도 저질렀나). 셋 다 있어야 범죄. 세 살 아이는 책임이 없어 범죄 아님.</li>
+    <li><strong>일죄</strong> — 죄 1개. ‘법조경합’은 여러 죄처럼 보여도 논리상 <strong>한 죄만</strong> 적용(예: 문서 위조 위해 인장 위조 → 사문서위조죄만).</li>
+    <li><strong>수죄</strong> — <strong>상상적 경합</strong>(1개 행위→여러 죄, 가장 무거운 죄 형으로 처벌) / <strong>실체적 경합</strong>(여러 행위→여러 죄=경합범, 가중주의).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 29번[3점]은 ‘더 무거운 죄 하나로 처벌 = 상상적 경합(1개 행위)’임을 알아야 ⑤(‘두 개의 행위’)의 모순이 보인다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>형법은 범죄와 형벌에 관한 법 규범이다. 범죄가 성립하려면 행위가 범죄의 <strong>구성요건</strong>(법률로 정해 놓은 범죄 행위의 유형, 예: ‘타인의 재물을 절취한 자’)에 해당하고, <strong>위법</strong>하며, 행위자의 <strong>책임</strong>이 인정되어야 한다. 구성요건에 해당해도 정당방위처럼 위법하지 않을 수 있어, 위법한 경우에만 ⓐ<u>부른다</u>(‘불법’). <span class="ev" id="ev35">불법이라도 책임능력이 있음에도 불법을 저질렀을 때만 행위자의 책임이 인정된다.</span><a class="ev-tag" href="#q27-1">27-㉠</a> 그래서 세 살 아이의 행위는 불법이어도 범죄가 아니다.</p>
+  <p>형벌은 가장 강력한 제재이므로 엄격해야 한다. 책임이 없으면 형벌을 부과할 수 없고 부과해도 책임의 한도를 넘지 못한다는 <strong>책임주의</strong>가 형법의 기본 원리다. 이는 불법·책임에 형벌이 비례해야 한다는 적정성 원칙, 불법을 이중 평가하지 않는다는 이중 평가 금지 원칙과 관련된다.</p>
+  <p>죄의 수가 하나면 <strong>일죄</strong>, 여럿이면 <strong>수죄</strong>다. 일죄의 전형은 하나의 행위가 하나의 구성요건에 해당하는 경우다. <span class="ev" id="ev39">이 외에 여러 구성요건에 해당하는 듯 보여도 구성요건 사이의 논리적 관계로 하나만 적용되는 경우를 ‘법조경합’이라 하며, 하나의 법조문만 적용해도 불법의 크기를 책임 정도에 따라 적정하게 평가할 수 있다고 본다.</span><a class="ev-tag" href="#q29-2">29-②</a> 예컨대 허위 매매계약서를 작성하며 남의 도장까지 위조하면 사문서위조죄·인장위조죄에 모두 해당하는 듯하나, 문서 위조를 위해 인장을 위조한 것이므로 이중 평가를 피해 사문서위조죄만 성립한다.</p>
+  <p>수죄에는 <span class="ev" id="ev38">하나의 행위로 여러 죄가 성립하는 <strong>상상적 경합</strong>과 여러 행위로 여러 죄가 성립하는 <strong>실체적 경합</strong>이 있다.</span><a class="ev-tag" href="#q29-5">29-⑤</a> 한 개의 돌을 던져 사람을 다치게 하고 유리창을 깨 상해죄·손괴죄가 성립하면 상상적 경합이다. 형법 제40조는 상상적 경합을 가장 무거운 죄(법정형이 가장 무거운 죄)에 정한 형으로 처벌한다고 규정한다.</p>
+  <div class="seg" id="segA">
+    <p class="seg-label">[A]</p>
+    <p>실체적 경합은 수죄의 가장 전형적 경우로, 그 관계의 여러 죄를 <strong>경합범</strong>이라 한다. <span class="ev" id="ev37">경합범의 형을 선고할 때 각각의 형을 단순 합산하지 않고 별도의 처벌 원칙을 둔다.</span><a class="ev-tag" href="#q28-1">28-①</a> 단순 합산하면 예방 효과가 중복돼 책임 한도를 넘는 처벌이 될 수 있기 때문이다. 그중 기본이 <strong>가중주의</strong>로, 가장 무거운 죄를 기준 삼아 일정 부분을 가중해 형을 산정한다. 다만 이를 적용하려면 여러 죄가 동일 재판에서 판결될 가능성이 있어야 한다. 그렇지 않으면 각 죄가 개별 재판에서 판결돼 별도의 처벌 원칙을 적용하지 못한다.</p>
+  </div>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 윗글에서 다룬 내용이 <strong>아닌</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① 일죄의 개념</li>
+    <li id="q26-2">② 형법의 정의</li>
+    <li id="q26-3">③ 법조경합의 종류</li>
+    <li id="q26-4">④ 책임주의의 의미</li>
+    <li id="q26-5">⑤ 상상적 경합의 사례</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글에 ‘나온 것’과 ‘안 나온 것’을 가른다.</p>
+        <p>3문단은 법조경합의 <strong>개념과 사례</strong>를 들 뿐, ‘종류’를 나누지 않는다. 그래서 ③이 다루지 않은 내용이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>나옴</td><td>3문단 ‘죄의 수가 하나=일죄’.</td></tr>
+          <tr><td>②</td><td>나옴</td><td>1문단 ‘형법은 범죄·형벌의 법 규범’.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">안 나옴</td><td>법조경합의 ‘종류’ 구분은 없다.</td></tr>
+          <tr><td>④</td><td>나옴</td><td>2문단 책임주의.</td></tr>
+          <tr><td>⑤</td><td>나옴</td><td>4문단 돌 던진 사례.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 학습지의 ‘판단 결과’로 적절한 것은? (맞으면 ○, 틀리면 ×)</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 학습지 &gt;</p>
+    <p>㉠ 책임능력이 없어도 불법을 저지르면 책임이 인정된다 → 학생 <b>×</b><br>
+    ㉡ 구성요건에 해당하고 위법하기만 하면 범죄가 성립한다 → 학생 <b>○</b><br>
+    ㉢ 구성요건은 법률로 정해 놓은 범죄 행위의 유형이다 → 학생 <b>×</b><br>
+    ㉣ 구성요건에 해당하는 행위는 모두 위법한 행위이다 → 학생 <b>○</b><br>
+    ㉤ 불법에 해당하지만 위법이 아닌 경우가 있다 → 학생 <b>○</b></p>
+  </div>
+  <ul class="q-opts">
+    <li id="q27-1">① ㉠<a class="src-tag" href="#ev35">지문 근거</a></li>
+    <li id="q27-2">② ㉡</li>
+    <li id="q27-3">③ ㉢</li>
+    <li id="q27-4">④ ㉣</li>
+    <li id="q27-5">⑤ ㉤</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘명제가 맞나/틀리나’를 먼저 판정하고, 학생의 ○×와 일치하는지 본다.</p>
+        <p>㉠ 명제는 틀렸다(책임능력이 ‘있어야’ 책임 인정). 학생이 <strong>×</strong>로 옳게 판단했으므로 ①이 적절하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>항목</th><th>실제</th><th>학생 ○×</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>㉠</td><td>명제 틀림(×)</td><td class="ok">× → 맞음</td></tr>
+          <tr><td>㉡</td><td>책임도 필요(×)</td><td>○ → 틀림</td></tr>
+          <tr><td>㉢</td><td>맞는 정의(○)</td><td>× → 틀림</td></tr>
+          <tr><td>㉣</td><td>정당방위 등 예외(×)</td><td>○ → 틀림</td></tr>
+          <tr><td>㉤</td><td>불법=위법(×)</td><td>○ → 틀림</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘이중 부정’ 구조</div>
+        <p>‘명제가 틀렸다’ + ‘학생이 ×라 했다’ = 학생이 <strong>옳게</strong> 판단한 것. 명제의 참·거짓과 학생의 ○× 둘을 따로 적어 두면 헷갈리지 않는다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. [A](실체적 경합)에 대한 이해로 적절하지 <strong>않은</strong> 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
+  <ul class="q-opts">
+    <li id="q28-1">① 실체적 경합은 각각의 죄에 선고될 형을 <strong>단순 합산한 것</strong>에 일정 부분을 가중해 처벌함을 원칙으로 한다.<a class="src-tag" href="#ev37">지문 근거</a></li>
+    <li id="q28-2">② 경합범에 대해 형법은 예방 효과 중복을 고려해 별도의 처벌 원칙을 둔다.</li>
+    <li id="q28-3">③ 동일 재판에서 판결될 가능성이 있어야 별도의 처벌 원칙을 적용한다.</li>
+    <li id="q28-4">④ 실체적 경합은 한 사람의 여러 행위로 여러 죄가 성립하는 것이다.</li>
+    <li id="q28-5">⑤ 경합범은 실체적 경합 관계의 여러 죄를 가리킨다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 가중주의가 ‘무엇을 기준으로’ 가중하는지 본다.</p>
+        <p>[A]는 형을 <strong>단순 합산하지 않고</strong> ‘가장 무거운 죄’를 기준으로 가중한다고 했다. ①은 ‘단순 합산한 것에 가중’이라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>단순 합산을 ‘하지 않는다’.</td></tr>
+          <tr><td>②</td><td>적절</td><td>예방 효과 중복 → 별도 원칙.</td></tr>
+          <tr><td>③</td><td>적절</td><td>동일 재판 판결 가능성 필요.</td></tr>
+          <tr><td>④</td><td>적절</td><td>여러 행위 → 여러 죄.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>경합범 = 실체적 경합의 죄들.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 윗글을 참고할 때 〈보기〉에 대한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>(가)</b> A 씨는 타인이 분실한 신용카드를 습득해 식대 결제에 쓰며 매출전표에 허위 서명했다. 검사는 신용카드부정사용죄·사문서위조죄로 기소했으나, 법원은 <b>신용카드부정사용죄만</b> 성립한다고 판결.<br>
+    <b>(나)</b> B 씨는 C 기관을 비방할 목적으로 신문에 허위 사실 광고를 실었다. 검사는 출판물에 의한 명예훼손죄·업무방해죄로 기소. 법원은 두 죄가 모두 성립한다고 보고 <b>출판물에 의한 명예훼손죄에 정한 형</b>으로 처벌.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q29-1">① (가)에서 검사는 A 씨가 여러 구성요건에 해당하는 행위를 했다고 보고 두 죄로 기소한 것이다.</li>
+    <li id="q29-2">② (가)에서 법원은 두 죄가 법조경합 관계에 있다고 본 것이다.<a class="src-tag" href="#ev39">지문 근거</a></li>
+    <li id="q29-3">③ (가)에서 법원은 신용카드부정사용죄만 적용해도 불법을 적정하게 평가할 수 있다고 본 것이다.</li>
+    <li id="q29-4">④ (나)에서 법원은 B 씨의 범죄가 수죄라고 보고 법정형이 가장 무거운 죄에 정한 형으로 처벌한 것이다.</li>
+    <li id="q29-5">⑤ (나)에서 법원은 B 씨가 두 죄가 성립하는 <strong>두 개의 행위</strong>를 했지만 이중 평가를 피해 하나의 죄로만 처벌한 것이다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (나)의 처벌 방식이 ‘상상적 경합’인지 ‘실체적 경합’인지 가른다.</p>
+        <p>(나)는 두 죄가 모두 성립하되 ‘더 무거운 죄에 정한 형’으로 처벌했다 — 이는 <strong>상상적 경합</strong>(하나의 행위로 여러 죄)의 처벌 방식이다. 즉 법원은 B 씨가 <strong>하나의 행위</strong>를 했다고 본 것이다. ⑤의 ‘두 개의 행위’, ‘하나의 죄로만 처벌’은 모두 어긋나 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>두 죄 기소 = 두 구성요건 해당.</td></tr>
+          <tr><td>②</td><td>적절</td><td>한 죄만 성립 = 법조경합.</td></tr>
+          <tr><td>③</td><td>적절</td><td>한 죄로 적정 평가 가능.</td></tr>
+          <tr><td>④</td><td>적절</td><td>두 죄 성립(수죄)+무거운 죄 형.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>상상적 경합 = ‘하나의 행위’·두 죄 모두 성립.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 처벌 방식이 행위 수를 알려 준다</div>
+        <p>‘두 죄가 모두 성립 + 더 무거운 죄 형으로 처벌’이면 <strong>상상적 경합 → 하나의 행위</strong>다. ⑤는 이를 ‘두 개의 행위 + 하나의 죄’(법조경합)로 뒤섞었다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. 밑줄 친 부분의 문맥적 의미가 ⓐ(부른다)와 가장 유사한 것은?</p>
+  <ul class="q-opts">
+    <li id="q30-1">① 친구는 그를 천재라고 <u>불렀다</u>.</li>
+    <li id="q30-2">② 선행은 또 다른 선행을 <u>부른다</u>.</li>
+    <li id="q30-3">③ 나는 집 앞으로 택시를 <u>불렀다</u>.</li>
+    <li id="q30-4">④ 그 가게에서는 값을 싸게 <u>부른다</u>.</li>
+    <li id="q30-5">⑤ 나는 멀리 있는 친구를 손짓하여 <u>불렀다</u>.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ는 ‘∼을 …이라고 이름 붙이다’의 뜻. 같은 뜻을 찾는다.</p>
+        <p>ⓐ‘부른다(불법이라고)’와 ①‘천재라고 불렀다’는 모두 ‘무엇이라고 가리켜 말하거나 이름을 붙이다’의 뜻이다. 따라서 ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>뜻</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>이름을 붙이다(=ⓐ).</td></tr>
+          <tr><td>②</td><td>오답</td><td>다른 상황을 초래하다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>청하여 오게 하다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>값을 얼마라고 말하다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>주의를 끌어 오라고 하다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 31~34번 고전소설 · 「한조삼성기봉」 — 성별을 바꿔 환생하는 복수담
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>전생의 한(恨)을 <strong>다음 생에 성별을 바꿔 갚는</strong> 환생담이다. ‘누가 누구로 환생했나’만 정확히 짝지으면 인물 문제(33번)와 감상 문제(34번)가 풀린다.</p>
+  <ul>
+    <li><strong>전생</strong> — 곽후(아내, 한 많음) ↔ 유수(남편, 아내를 버림) / 음후(유수의 계비).</li>
+    <li><strong>환생</strong> — 곽후 → <strong>강왕</strong>(남자!) / 유수 → <strong>조수아</strong>(여자!) / 음후 → 설여주 / 시누이 백희공주 → 위옥희.</li>
+    <li><strong>역전</strong> — 이제 버림받는 쪽은 조수아(전생의 남편 유수). 가부장제 권력 구조가 뒤집힌다(34번 〈보기〉의 핵심).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 33번은 ‘계파가 위옥희를 해칠 마음이 <em>없었다</em>’, 34번은 ‘강왕이 입장을 <em>바꾸려 한 게 아니다</em>’가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.</p>
+  <p>낭원 곽후가 얼음 빛 냉정한 얼굴로 차갑고 매섭게 말하였다.</p>
+  <p>“신첩 낭원은 윤회를 두 번 하였사오나 한나라와 맺은 원은 수백 년이 지나도 풀지 못하였습니다. 처음 인간 세계에 내려가서는 여태자의 후궁이 되어 왕손을 낳았으나 공손비에게 은총을 빼앗기고 말았습니다. 깊은 궁에서 우울하게 지내다가 원수 놈 강충의 꾀에 빠져 태자가 원통하게 죽으매 첩 또한 태자의 뒤를 따랐습니다. 그 후 다시 한나라에 태어나 부귀한 가문의 귀한 딸이 되어, 여태자가 재생한 광무제 유수를 만나 숙연을 맺었습니다. ㉠원래 유수의 집안은 동기가 많고 빈한한데 신첩의 집안은 왕실을 부러워하지 않을 만큼 부유하였습니다. 그런데도 하늘이 정한 인연에 매여 빈한한 유수에게 시집을 갔습니다.</p>
+  <p>세 칸 초가집에서 뽕을 심고 보리죽이라도 쑤며 시부모를 봉양하였습니다. ㉡그리고 마침내 친정 재산으로 남편이 천하를 도모하게 하였으니, 천명이 있었다 해도 첩이 내조한 공덕이 적지 않을 것입니다. 이렇듯 어려움을 함께한 신첩을 후에 헌신짝처럼 버리니 억울함과 원통함이 어찌 뼈에 사무치지 않겠습니까? 이번 윤회에는 음양을 바꾸어 신첩은 남자가 되고 저 유수는 여자가 되게 하여 복수하게 하여 주시기를 바랍니다.”</p>
+  <p>골수에 박힌 곽후의 원통함을 들은 옥황상제는 복수를 막을 수 없었다. 강목왕 유수와 태음성 음후를 데려오라 명하고 소원을 물으니, 두 사람은 만수무강만 축수할 뿐 말이 없었다. 옥황상제가 남두성과 북두성에게 세 사람의 윤회보응을 분명히 하라 명하자, 남두성과 북두성이 서천여래를 청하였다. 서천여래가 육갑신에게 갈 곳을 점지하게 하고, 곽후와 유수의 음양을 바꾸라는 명에 감로수를 뿌리며 진언을 외우니, 곽후는 팔척장신의 헌헌장부가 되고 강목왕 유수는 꽃다운 여자의 몸이 되었다. 선관들이 웃으니 유수는 부끄러워 고개를 들지 못하고, 태음성 음후는 얼굴이 흙빛이 되었다.</p>
+  <p class="muted">[중략 줄거리] 곽후·유수·음후는 각각 <strong>강왕·조수아·설여주</strong>로, 곽후와 각별했던 시누이 백희 공주는 <strong>위옥희</strong>로 환생한다. 강왕은 조수아와 혼인하고, 이후 전쟁터에서 돌아온 위옥희와도 혼인한다.</p>
+  <p>조수아가 노발대발하며 베개를 베고 누우니 관은 벗겨지고 비녀는 빠져 있었다. 강왕이 한참 살펴보다 말하였다. “㉢과인이 죽지 않았는데, 채운루에 박복한 청상 홀어미 모습이 어찌된 일이오? 자세히 곡절을 알고자 하오.”</p>
+  <p>“이 몸이 홀어미와 무엇이 다르겠습니까? 대왕께서 이미 위씨를 만났으니 첩은 박명한 사람입니다. 깊은 방에 거처하며 이 세상을 마치려 하니 더 이상 묻지 마십시오.” 화난 기색이 드러나니 강왕이 그 교만하고 속 좁음을 즐거워하지 않아 다시 웃으며 말하였다. “위씨는 당초 과인과 혼인을 약속한 옛 정인이오. 남서 땅에서 세운 큰 공과 과인을 병에서 구한 은공이 적지 않소. 위씨가 온 지 겨우 이틀인데 부인이 이처럼 투기하니 곡절을 알 수 없소.” 말을 마치고 남궁으로 향하였다.</p>
+  <p>조수아가 강왕의 준절한 기색에 평소의 사랑이 없음을 보고 눈물만 흘리는데, 유모 계파가 위로하니 탄식하였다. “㉣나는 부귀영화를 누리면서도 마음이 편치 않은 것보다 차라리 궁벽한 선비의 아내가 되어 보리밥에 만족하며 살기를 원하였다. 그렇기에 마음이 번잡한 것이다. 이 모든 것이 하늘이 정한 운명이다. 나는 이제 분하고 원통하여 죽을 것 같다.”</p>
+  <p>계파는 조수아를 젖 먹여 키운 정이 깊어 그 신세를 생각하니 <span class="ev" id="ev40">우울하였으나 어찌할 계교가 없었다. 계파는 본래 성품이 모가 나지 않았기에 위옥희를 해칠 마음을 내거나 하지는 않았다.</span><a class="ev-tag" href="#q33-5">33-ⓔ</a></p>
+  <p>이날 밤 강왕이 남궁에서 위옥희를 대하니 자태가 더욱 새로웠다. 왕이 흔연히 웃으며 말하였다. “㉤과인이 과연 처복이 넘치오. 하늘에서 성녀를 점지하였으니 시경의 노래가 조금도 부럽지 않소. 또한 조씨같이 아름다운 여인이 그 뒤를 이었으니, 그대가 태임·태사의 덕을 이어 과인에게 내조를 잘 하시도록 하오.”</p>
+  <p class="muted" style="text-align:right">— 작자 미상, 「한조삼성기봉(漢朝三姓奇逢)」</p>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 인물의 행동을 과장되게 표현하여 인물을 희화화하고 있다.</li>
+    <li id="q31-2">② 편집자적 논평을 활용하여 서술자의 생각을 드러내고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q31-3">③ 독백을 반복하여 내적 갈등의 해결 과정을 보여 주고 있다.</li>
+    <li id="q31-4">④ 꿈과 현실을 교차하여 사건을 입체적으로 구성하고 있다.</li>
+    <li id="q31-5">⑤ 공간적 배경을 묘사하여 긴박한 분위기를 드러내고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 서술 방식을 본문에서 직접 찾는다. ‘서술자가 끼어드는 말’이 있나?</p>
+        <p>‘그 신세가 불안함을 생각하니 <strong>어찌 마음이 편안하겠는가?</strong>’는 서술자가 직접 끼어들어 인물의 심정을 논평하는 <strong>편집자적 논평</strong>이다. ②가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>희화화 장면 없음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>‘어찌 ∼하겠는가?’ = 편집자적 논평.</td></tr>
+          <tr><td>③</td><td>오답</td><td>독백 반복으로 갈등 해결 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>꿈·현실 교차 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>긴박한 배경 묘사 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. ㉠~㉤에 나타난 말하기 방식에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① ㉠: 자신과 다른 인물의 차이점을 언급하며 앞으로의 일을 예견한다.</li>
+    <li id="q32-2">② ㉡: 사건의 인과 관계를 바탕으로 상대의 의도에 의문을 제기한다.</li>
+    <li id="q32-3">③ ㉢: 상대의 외양에 대한 생각을 드러내며 상대에게 설명을 요구한다.</li>
+    <li id="q32-4">④ ㉣: 미래의 상황을 가정하며 상대의 어려움에 공감한다.</li>
+    <li id="q32-5">⑤ ㉤: 다른 사람의 말을 근거로 삼아 자신의 행동 변화를 약속한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 밑줄이 ‘무엇을 하는 말인지’ 기능으로 분류한다.</p>
+        <p>㉢에서 강왕은 ‘박복한 홀어미 모습이 어찌된 일이오?’로 조수아의 <strong>외양</strong>에 대한 생각을 드러내고, ‘자세히 곡절을 알고자 하오’로 <strong>설명을 요구</strong>한다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>㉠</td><td>오답</td><td>차이는 말하나 ‘예견’은 없음.</td></tr>
+          <tr><td>㉡</td><td>오답</td><td>자기 공덕 강조이지 의문 제기 아님.</td></tr>
+          <tr class="correct"><td>㉢</td><td class="ok">정답</td><td>외양 언급 + 설명 요구.</td></tr>
+          <tr><td>㉣</td><td>오답</td><td>자기 심정 토로, 상대 공감 아님.</td></tr>
+          <tr><td>㉤</td><td>오답</td><td>처복 만족, 행동 변화 약속 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 학생이 윗글을 읽고 작성한 메모 ⓐ~ⓔ 중 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 메모 &gt;</p>
+    <p>ⓐ 여태자 — 강충의 계략에 빠져 억울하게 죽음<br>
+    ⓑ 음후 — 옥황상제 앞에 유수와 함께 이르러 소원을 질문받음<br>
+    ⓒ 남두성·북두성 — 옥황상제의 명을 받고 서천여래를 불러옴<br>
+    ⓓ 위옥희 — 남서 땅에서 공을 세우고 강왕을 병에서 구함<br>
+    ⓔ 계파 — 위옥희를 해칠 <b>마음은 있었지만</b> 실제로 계책을 세우지 못함</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q33-1">① ⓐ</li>
+    <li id="q33-2">② ⓑ</li>
+    <li id="q33-3">③ ⓒ</li>
+    <li id="q33-4">④ ⓓ</li>
+    <li id="q33-5">⑤ ⓔ<a class="src-tag" href="#ev40">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 메모가 본문과 어긋난 곳을 찾는다.</p>
+        <p>본문은 계파가 ‘위옥희를 해칠 마음을 내거나 하지는 않았다’고 했다. 즉 해칠 마음 자체가 <strong>없었다</strong>. ⓔ는 ‘마음은 있었지만’이라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>항목</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>ⓐ</td><td>적절</td><td>강충의 꾀에 태자(여태자)가 죽음.</td></tr>
+          <tr><td>ⓑ</td><td>적절</td><td>음후가 유수와 함께 이르러 소원 질문.</td></tr>
+          <tr><td>ⓒ</td><td>적절</td><td>명을 받고 서천여래를 청함.</td></tr>
+          <tr><td>ⓓ</td><td>적절</td><td>남서 땅 공·병 구완 = 위옥희.</td></tr>
+          <tr class="correct"><td>ⓔ</td><td class="ok">부적절</td><td>해칠 마음이 ‘없었다’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>「한조삼성기봉」은 부부가 전생과 다른 성별로 환생하는 <b>환생담</b> 구조를 띤다. 여성 인물은 남편으로 인한 심적 고통을 토로하며 환생으로 보상받고자 하고, 초월적 존재가 이를 돕는다. 환생 전후 부부 관계가 <b>역전</b>되어 전생의 남편이 전생의 아내가 겪던 고통을 겪는다. 이는 가부장제 하의 권력 구조에 기인한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q34-1">① 곽후가 남편과 함께 겪은 어려움과 이후 버림받은 일을 밝히는 데서 원통함의 원인이 드러난다.</li>
+    <li id="q34-2">② 곽후가 음양을 바꿔 달라 비는 데서 남편과 반대 성별로 태어나려는 이유가 드러난다.</li>
+    <li id="q34-3">③ 옥황상제가 세 사람의 윤회를 관장하는 데서 초월적 존재가 부탁을 수용함이 드러난다.</li>
+    <li id="q34-4">④ 조수아가 스스로 박명하다며 분함을 토로하는 데서 전생의 남편이 환생 후 고통받는 역전이 드러난다.</li>
+    <li id="q34-5">⑤ 강왕이 위옥희에게 내조를 요구하는 데서 가부장적 질서를 위해 자신의 입장을 상대와 <strong>바꾸려는</strong> 모습이 드러난다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 〈보기〉의 ‘역전·가부장제’ 틀로 각 장면을 본다. 단, ‘입장을 바꾼다’는 표현을 정확히.</p>
+        <p>강왕이 위옥희에게 ‘태임·태사의 덕으로 내조하라’는 것은 <strong>가부장적 질서의 구현</strong>이 맞다. 그러나 강왕이 자신의 입장을 위옥희와 <strong>바꾸려는</strong> 것은 아니다. ⑤의 ‘입장을 상대와 바꾸려는’이 어긋나 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>함께 고생→버림받음 = 원통함의 원인.</td></tr>
+          <tr><td>②</td><td>적절</td><td>음양 교체 소원 = 반대 성별 환생 이유.</td></tr>
+          <tr><td>③</td><td>적절</td><td>옥황상제의 윤회 관장 = 초월적 개입.</td></tr>
+          <tr><td>④</td><td>적절</td><td>조수아(전생 남편)의 고통 = 역전.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘입장을 바꾸려는’ 의도는 없다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘질서 구현’ ≠ ‘입장 교체’</div>
+        <p>강왕은 가부장적 질서를 <strong>지키는</strong> 쪽이지, 자기 입장을 상대와 <strong>맞바꾸려는</strong> 게 아니다. 〈보기〉의 ‘역전’은 곽후↔유수의 환생에서 일어난 것이지 강왕의 의도가 아니다. 선지가 〈보기〉 단어를 엉뚱한 장면에 붙였다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+## 35~38번 현대소설 · 양귀자 「쥐」 — 무력한 가장과 그를 닮은 쥐
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>‘그’는 회사에서도(김 실장에게 질책) 집에서도(쥐도 못 잡는 가장) <strong>무력한 소시민</strong>이다. 두 공간에서 똑같이 작아지는 ‘그’를 따라가면 된다.</p>
+  <ul>
+    <li><strong>회사</strong> — 동년배·후배일 김 실장에게 전전긍긍. 원고도 못 쓰고 잘못을 ‘살찐 쥐’ 탓으로 돌린다.</li>
+    <li><strong>집</strong> — ‘소왕국의 평화’를 위해 슈퍼맨인 척 <strong>억지 미소</strong>를 짓는다. 가족의 기대에 부응하려 흉내 낸다.</li>
+    <li><strong>쥐 = 자기 투영</strong> — 도망 못 친 쥐를 잡으려다, 상무·김 실장 앞에 무기력하던 자신을 떠올리고 <strong>웃음을 터뜨리며 주저앉는다</strong>.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 36번은 ‘쥐에 대한 감정 = 두려움이 아니라 궁금함’, 38번은 ‘억지 미소 = 기대에 <em>부응</em>이지 <em>벗어남</em>이 아님’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 38] 다음 글을 읽고 물음에 답하시오.</p>
+  <p>홍보실 직원이래야 김 실장, 사진 기자 미스터 윤, 타자수 미스 홍, 그리고 그가 전부였다. 우두머리 김 실장이 ⓐ<u>실눈을 뜨기 시작하면 일은 이미 그른 거나 다름없었다.</u> 그의 실눈은 뱀처럼 찬 냉기를 담고 있어 마주 보기가 섬뜩하였다.</p>
+  <p>퇴근이 임박할 무렵, 그는 김 실장의 실눈이 자신의 온몸을 훑어오는 것을, 동시에 한 페이지도 못 채운 자신의 무능을 발견했다. <strong>㉠모든 것은, 그래 바로 그 살찐 쥐 탓이야.</strong> 얼결에 중얼거렸으나 그 말조차 당혹스러웠다. ㉡‘미스터 정.’ 미스터라니. 그는 호칭에 다시 낯을 붉힌다.</p>
+  <p>“상무님 퇴근 전에 원고 올려봐요.” “네, 그런데…….” “아직 다 못 썼나요?” “㉢몇 장까지 나갔어요?” 모든 것을 알면서도 김 실장은 끈덕지게 캐물었다. <span class="ev" id="ev42">그는 틀림없이 동년배이거나 후배일 김 실장의 질책에 전전긍긍하면서 당황하기 시작한다.</span><a class="ev-tag" href="#q35-1">35-①</a></p>
+  <p>“쯧쯧, 벌써 사흘째나 붙들고 헛공상만 했구료. 미스터 정의 성실성이 의심됩니다.” 김 실장은 기세를 누그러뜨리며 실눈 속에서 교활하게 웃었다. “내일은 끝내도록 해요.” ㉣<u>김 실장이 아랫사람을 다스리는 상전의 따뜻한 태도로 재빨리 복귀하는 것을 바라보며 그는 멍청해졌다.</u> 그는 빈 원고 용지에 37, 36, 35라고 (김 실장의 나이를) 써보았다.</p>
+  <p>산비탈 길을 오르며 긴 한숨을 쉬는 시간은 늘 일정했다. 오늘도 무사히 돌아왔다는 것, 그러나 바랐던 생활이 여전히 싹수 노랗게 틀려 있다는 신호였다. 초록색 대문 앞에 이르면 아랫동네의 모든 기척이 그를 우러러봐주는 듯한 묘한 느낌에 사로잡혔다.</p>
+  <p>대문에 들어서며 짓는 미소며 ⓑ<u>헛기침</u>은 가당찮은 억지였다. 그러나 그는 어떻게 해야 이 <strong>소왕국의 평화</strong>가 유지되는지 알았다. <span class="ev" id="ev45">밖에서야 어쨌든 집 안에서의 그는 칠백만 불의 사나이거나 슈퍼맨이거나 무적의 검객에 세도가여야 했다.</span><a class="ev-tag" href="#q38-2">38-②</a> 실현은 힘들어도 흉내쯤은 쉬웠으므로 그는 아까의 긴 한숨을 잊기로 한다.</p>
+  <p class="muted">(중략)</p>
+  <p>“문을 열어놨는데도 안 나간 것 같아요. 저게 우리를 골탕 먹이려 작정했나봐요.” 아무도 그에게 휴식을 주려 하지 않았다. 아이들은 복수전을 종용하고, 아내는 쥐의 횡포를 호소하며 그의 전의를 부채질했다. <span class="ev" id="ev43">그런데도 그가 없는 낮 동안 탈출을 시도하지 않은 쥐를 생각하면, 솟아오르던 전의가 슬쩍 사라지는 기분이었다.</span><a class="ev-tag" href="#q36-5">36-⑤</a></p>
+  <p>“㉤왜 도망가지 않았을까?” 그는 망연자실 방문 앞에서 같은 생각을 되풀이했다. 밤이면 목숨을 건 추적극이 벌어질 것을 모르지 않았을 텐데. 그래도 이미 시작된 일, 그는 막대기와 연탄집게를 챙겨 구석을 노려보았다.</p>
+  <p>‘아빠는 여태 쥐를 못 잡았어?’ 아들들의 목소리가 등을 넘어왔다. 쥐 냄새를 빼면, 허공과 마주 서서 대항하는 무기력한 슈퍼맨. 그는 문득 자신이 친 덫에 걸릴 것이 무엇인지 알 수 없어졌다. 상무나 김 실장 앞에서 손발을 늘어뜨린 채 서 있던 자신이 떠올랐다. 바로 그런 자신이 지금은 잔악한 도구를 휘두를 작정이라는 데 생각이 미치자 갑자기 웃음이 터져 나왔다. 그는 팔의 힘을 풀고 방바닥에 주저앉아버렸다.</p>
+  <p class="muted" style="text-align:right">— 양귀자, 「쥐」</p>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. 윗글의 서술상 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① 작품 밖의 서술자가 특정 인물의 시각에서 사건을 서술하고 있다.<a class="src-tag" href="#ev42">지문 근거</a></li>
+    <li id="q35-2">② 장면의 빈번한 전환으로 인물 간의 긴장감을 고조시킨다.</li>
+    <li id="q35-3">③ 시대적 배경을 제시해 사건의 원인을 구체적으로 보여 준다.</li>
+    <li id="q35-4">④ 외부 이야기에 내부 이야기를 삽입해 해결의 실마리를 드러낸다.</li>
+    <li id="q35-5">⑤ 다른 장소에서 동시에 일어난 사건을 제시해 상황을 대비한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 서술자가 누구이고, 누구의 눈으로 보는지 본다.</p>
+        <p>‘그는…당황하기 시작한다’처럼 작품 밖 서술자가 사건을 <strong>‘그’의 입장(시각)</strong>에서 전한다. 3인칭이지만 ‘그’의 내면을 따라가는 시점이므로 ①이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>작품 밖 서술자 + ‘그’의 시각.</td></tr>
+          <tr><td>②</td><td>오답</td><td>장면 전환으로 긴장 고조 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>구체적 시대 배경 제시 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>액자식(내부 이야기) 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>동시 사건 대비 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. ㉠~㉤에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① ㉠: 자신이 직면한 문제의 원인을 다른 대상에 돌리는 모습이 나타난다.</li>
+    <li id="q36-2">② ㉡: 상대가 부른 호칭으로 인해 느끼는 불편한 감정이 담겨 있다.</li>
+    <li id="q36-3">③ ㉢: 제대로 답하지 못하는 상대를 질책하는 모습이 나타난다.</li>
+    <li id="q36-4">④ ㉣: 상대의 태도가 급작스럽게 달라진 것에 대한 반응이 나타난다.</li>
+    <li id="q36-5">⑤ ㉤: 자신의 예상과 다른 행동을 보인 대상에 대한 <strong>두려움</strong>이 담겨 있다.<a class="src-tag" href="#ev43">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 밑줄의 ‘감정·기능’이 본문과 맞는지 본다.</p>
+        <p>㉤‘왜 도망가지 않았을까?’는 예상과 다른 쥐의 행동에 대한 <strong>궁금함</strong>이다(전의가 사라지는 기분). ‘두려움’이 아니므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>㉠</td><td>적절</td><td>무능의 원인을 ‘쥐 탓’으로.</td></tr>
+          <tr><td>㉡</td><td>적절</td><td>‘미스터 정’ 호칭에 낯 붉힘.</td></tr>
+          <tr><td>㉢</td><td>적절</td><td>알면서 캐묻는 질책.</td></tr>
+          <tr><td>㉣</td><td>적절</td><td>태도 급변에 ‘멍청해짐’.</td></tr>
+          <tr class="correct"><td>㉤</td><td class="ok">부적절</td><td>두려움이 아니라 ‘궁금함’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. ⓐ(실눈)와 ⓑ(헛기침)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q37-1">① ⓐ는 ‘그’가 앞으로 벌어질 일을 짐작하는 단서이고, ⓑ는 자신이 겪은 일에서 느낀 심정을 감추려는 행동이다.<a class="src-tag" href="#ev44">지문 근거</a></li>
+    <li id="q37-2">② ⓐ는 ‘김 실장’을 오해하는 계기이고, ⓑ는 품은 의혹을 해소하려는 행동이다.</li>
+    <li id="q37-3">③ ⓐ는 삶의 활력을 얻는 계기이고, ⓑ는 자신을 위로하려는 행동이다.</li>
+    <li id="q37-4">④ ⓐ는 ‘김 실장’의 허점을 발견하는 단서이고, ⓑ는 실수를 숨기려는 행동이다.</li>
+    <li id="q37-5">⑤ ⓐ는 안도감을 느끼는 계기이고, ⓑ는 권위를 내세우려는 행동이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 소재(실눈·헛기침)의 ‘기능’을 각각 본문에서 확인한다.</p>
+        <p id="ev44">ⓐ실눈은 ‘뜨기 시작하면 일은 이미 그른 거나 다름없’어 <strong>앞일을 짐작하는 단서</strong>이고, ⓑ헛기침은 회사에서 당한 일의 심정을 감추는 ‘가당찮은 억지’ 행동이다. 따라서 ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>실눈=앞일 단서 / 헛기침=심정 감춤.</td></tr>
+          <tr><td>②~⑤</td><td>오답</td><td>오해·활력·허점·권위 등 본문과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>이 작품에는 인물이 가정·사회라는 집단에서 부여받은 역할을 수행하며 느끼는 <b>무력감</b>이 나타난다. 사회적 역할을 못 해 받는 부정적 시선에 소극적으로 대응하고, 가정 내 기대에 부응하지 못하는 <b>현실과 기대의 괴리</b>를 느낀다. 이때 <b>쥐</b>는 인물이 자신과 동일시하는 대상으로, 쥐를 통해 인물은 스스로의 상황을 자각한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q38-1">① ‘빈 원고 용지’에 ‘37, 36, 35’를 써보는 데서, 부정적 시선에도 소극적으로 대응함을 알 수 있다.</li>
+    <li id="q38-2">② ‘어설픈 흉내’를 내며 ‘긴 한숨을 잊기로’ 하는 데서, 괴리로 인해 가족의 기대에서 <strong>벗어나려는</strong> 심리를 알 수 있다.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q38-3">③ ‘구석구석 노려보’며 ‘허공과 마주 서서 대항’하는 데서, 인물의 무력함을 알 수 있다.</li>
+    <li id="q38-4">④ ‘덫에 걸릴 것’을 생각하다 ‘김 실장 앞에’ 서 있던 자신을 떠올리는 데서, 자신을 쥐에 투영함을 알 수 있다.</li>
+    <li id="q38-5">⑤ ‘잔악한 도구를 휘두를 작정’에 ‘웃음이 터’지는 데서, 상황에 따라 달라지는 자신을 돌아봄을 알 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 〈보기〉의 ‘기대에 부응 못 함’과 선지의 ‘벗어나려 함’을 구분한다.</p>
+        <p>‘그’가 억지 미소·흉내를 내는 것은 집 안에서 ‘슈퍼맨이어야 했’기에 가족의 기대에 <strong>부응하려는</strong> 행동이다. ②는 ‘기대에서 벗어나려는’이라 했으니 정반대로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>나이만 써보는 소극적 대응.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>기대에 ‘부응’하려는 것(벗어남 아님).</td></tr>
+          <tr><td>③</td><td>적절</td><td>허공과 대항 = 무력함.</td></tr>
+          <tr><td>④</td><td>적절</td><td>쥐 잡다 자신을 떠올림 = 투영.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>웃음 = 달라지는 자신 자각.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘부응’과 ‘벗어남’은 반대</div>
+        <p>억지 미소는 가족 앞에서 ‘슈퍼맨’ 역할을 <strong>지키려는</strong> 노력이다. 〈보기〉의 ‘괴리’는 그가 느끼는 감정일 뿐, 기대를 ‘벗어나려는’ 행동의 근거가 아니다. ②가 인과를 뒤집었다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 39~42번 고전시가·수필 · 「사미인곡」과 「한양궁궐도기」 — 임금을 향한 두 마음
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>둘 다 임금을 향한 마음을 담지만 결이 다르다. (가)는 <strong>그리움(연군)</strong>, (나)는 <strong>권계(임금이 지녀야 할 자세)</strong>. ‘누가, 임금에게, 어떤 마음으로’를 두 갈래로 잡으면 된다.</p>
+  <ul>
+    <li><strong>(가) 류도관 「사미인곡」</strong> — 관직에 못 나간 작가. 미나리를 임금께 드리고 싶어도 ‘천리에 뉘 전할고’. 꿈에서 임금을 만나고, ‘추당의 만부용’이 되어 현실을 <strong>견디며 기다린다</strong>.</li>
+    <li><strong>(나) 홍섬 「한양궁궐도기」</strong> — 조정 신하. 임금이 궁궐 병풍을 만든 뜻을 <strong>칭송하면서도</strong>, 흥망을 경계하라는 <strong>권계</strong>를 올린다. 병풍은 감상품이 아니라 ‘덕을 닦는 도구’.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 40번은 ‘초목(㉠)=유한 ↔ 산수(㉡)=불변’ 대비, 42번은 (나)의 ‘무너질 일 염려=군주의 당연한 본분’(‘지나친 걱정 말라’가 아님)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[39 ~ 42] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="src-label">(가) 류도관, 「사미인곡(思美人曲)」</p>
+  <p class="verse">구중궁궐 님 계시니 만날 길이 요원하다<br>
+  많고 많은 온갖 일들로 소의간식*하시니<br>
+  건강은 어떠신지 얼굴빛도 파리하다<br>
+  (…) 이웃의 칠실녀* 손짓하여 불러 와서<br>
+  대바구니 옆에 끼고 미나리 캐어 보니<br>
+  살지고 연한 맛을 님에게 드리고져<br>
+  받들고 바라보니 <strong>천리에 뉘 전할고</strong><br>
+  싸고 다시 싸서 베개 맡에 놓아두고<br>
+  사창(紗窓) 지는 달에 <strong>첫잠</strong>을 잠깐 드니<br>
+  나비가 청조(靑鳥)되어 인도해서 가고 가니<br>
+  <strong>옥루 높은 곳</strong>에 화촉이 찬란한데<br>
+  옥안(玉顔)을 잠깐 열어 너로구나 웃으실새<br>
+  정성을 다 기울여 말씀을 드릴 제 (…)<br>
+  하물며 세밑에 근심 더욱 깊어<br>
+  <span class="ev" id="ev47">㉠초목이 시들고 미인도 늙어 가니</span><a class="ev-tag" href="#q40-1">40-㉠</a><br>
+  젊은 날 못 만나고 늙은 후에 서로 본들<br>
+  가슴 속 쌓인 정을 어느 결에 다 펼칠까</p>
+  <p class="muted">(중략)</p>
+  <p class="verse">거문고를 무릎 위에 빗겨 놓고<br>
+  장상사 한 곡조를 우조로 슬피 타니<br>
+  줄줄이 슬픈 소리 <strong>내 마음 일렁인다</strong><br>
+  (…) 답답하고 그리운 때 <strong>하늘을 바라보니</strong><br>
+  넓고도 높은 기상 이 아니 님이신가<br>
+  평생에 우러름이 진실로 하늘 같은 내 님이라<br>
+  두어라 천명과 천시 정한 때 있으니<br>
+  <strong>추당에 만부용</strong>* 되어 수홍*하며 기다리려 하노라</p>
+  <p class="muted">* 소의간식: 날 밝기 전에 옷 입고, 해 진 후에 식사함. * 칠실녀: 나랏일을 근심한 칠실 땅의 여인. * 추당에 만부용: 가을 연못의 때늦은 연꽃. * 수홍: 붉은빛(님을 향한 연모)을 지킴.</p>
+
+  <p class="src-label">(나) 홍섬, 「한양궁궐도기(漢陽宮闕圖記)」</p>
+  <p>신이 생각해 보니 ㉡<u>산수를 그린 그림은 예부터 있었지만 대궐을 그린 그림은 없었습니다.</u> 산수는 만고의 세월이 흘러도 바뀌지 않지만, 대궐은 사람에 따라 지어졌다 무너집니다. <span class="ev" id="ev48">바뀌지 않는 산수는 사람이 어찌할 수 없지만, 지어졌다 무너지는 궁궐에 대해서는 사람이 느끼는 바가 필시 많을 것입니다.</span><a class="ev-tag" href="#q40-2">40-㉡</a> <span class="ev" id="ev46">눈으로 보면 생각이 뒤따르고, 생각이 떠오르면 걱정과 기쁨이 뒤따르는 법입니다.</span><a class="ev-tag" href="#q39-3">39-③</a> 군주가 험난한 산하와 화려한 대궐을 보며 ‘이것으로 어찌 나라를 지키고 편안히 지내겠는가’ 걱정한다면 태평성대의 근본이요, ‘누가 침략하고 누가 가져가겠는가’ 기뻐하기만 하면 멸망을 자초하는 길입니다.</p>
+  <p>ⓐ<u>지금 우리 전하께서는 평소 그림을 펼쳐 보시며 마음속으로 생각하실 것입니다.</u> ‘성패는 사람에게 달려 있다. ⓑ<u>선대 임금들께서 비바람에 시달리는 고초를 겪으며 부지런히 대궐 터를 살펴보신 일을 잊지 말아야 한다.</u>’ 이와 같다면 그림은 감상하는 물건이 아니라 성상의 안목을 기르고 덕을 닦는 도구입니다.</p>
+  <p>옛적 한나라 반고가 「양도부」를, 왕연수가 「노영광전부」를 지었으나 화려한 궁궐을 묘사했을 뿐 경계하고 깨우칠 줄은 몰랐습니다. ⓒ<u>그 문장은 비록 힘차고 아름답기야 하지만, 당시 군주의 다스림에 무슨 도움이 되었겠습니까.</u></p>
+  <p>지금 전하께서는 참모습을 보기에 부족하다 여겨 그림으로 옮기고자 하셨습니다. ⓓ<u>이는 구중궁궐을 벗어나지 않고도 먼 산수와 드넓은 대궐을 한눈에 보고자 하셨기 때문입니다.</u> 보이면 경계하고, 경계하면 정사에 실천하고, 실천하면 나라가 공고해질 것입니다.</p>
+  <p><span class="ev" id="ev50">이루어진 일을 보고서 무너질 일을 염려함은 나라를 소유한 군주가 먼저 힘써야 하는 일이요, 사건을 계기로 경계를 아룀은 임금을 사랑하는 신하의 마음입니다.</span><a class="ev-tag" href="#q42-5">42-⑤</a> 이것이 신이 반고·왕연수처럼 쓸데없는 말을 짓지 않고 송경의 「무일도」와 이덕유의 「단의잠」에 연연하는 이유입니다.</p>
+  <p>아, ⓔ<u>앞으로 왕위를 계승하는 자손이 이 병풍을 마주 보면 매번 오늘날 전하의 마음을 자기 마음으로 삼을 것입니다.</u> 강토를 보존하는 길이 경계·반성에 달렸음을 안다면, 천부(天府)의 나라가 영원히 후손의 소유가 될 것입니다. 신은 이에 글을 지어 기록합니다.</p>
+  <p class="muted" style="text-align:right">— 홍섬, 「한양궁궐도기(漢陽宮闕圖記)」</p>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① (가)는 (나)와 달리 직유법으로 상황의 심각성을 부각한다.</li>
+    <li id="q39-2">② (가)는 (나)와 달리 음성상징어로 대상을 생생하게 묘사한다.</li>
+    <li id="q39-3">③ (나)는 (가)와 달리 연쇄적 표현으로 관련 있는 상황들을 연결한다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q39-4">④ (나)는 (가)와 달리 동일한 색채어를 반복해 대상의 특성을 드러낸다.</li>
+    <li id="q39-5">⑤ (가)와 (나) 모두 계절적 배경으로 대상의 속성을 강조한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글의 표현 기법을 ‘∼는 ∼와 달리’ 틀로 대조한다.</p>
+        <p>(나)는 ‘보면 생각이 뒤따르고, 생각이 떠오르면 걱정·기쁨이 뒤따른다’처럼 <strong>앞말을 받아 잇는 연쇄법</strong>을 쓴다. (가)엔 없으므로 ③이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>(나)에도 ‘∼처럼’ 표현 가능, ‘(가)만’ 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>음성상징어가 핵심 기법 아님.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(나)의 연쇄적 표현.</td></tr>
+          <tr><td>④</td><td>오답</td><td>색채어 반복 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나)는 계절 배경 활용 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. ㉠(초목이 시들고…)과 ㉡(산수를 그린 그림…)에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q40-1">① ㉠은 화자의 근심을 해소하는 대상, ㉡은 글쓴이의 근심을 심화하는 대상이다.</li>
+    <li id="q40-2">② ㉠은 화자가 의구심을 느끼는 대상, ㉡은 글쓴이가 존경심을 느끼는 대상이다.</li>
+    <li id="q40-3">③ ㉠은 화자가 이질감을 느끼는 대상, ㉡은 글쓴이가 동질감을 느끼는 대상이다.</li>
+    <li id="q40-4">④ ㉠은 화자가 <strong>유한성</strong>을 지녔다고 보는 대상, ㉡은 글쓴이가 <strong>불변성</strong>을 지녔다고 보는 대상이다.<a class="src-tag" href="#ev47">㉠ 근거</a><a class="src-tag" href="#ev48">㉡ 근거</a></li>
+    <li id="q40-5">⑤ ㉠은 화자가 지향하는 가치, ㉡은 글쓴이가 지양하는 가치를 지녔다고 보는 대상이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 대상이 ‘변하나/안 변하나’의 속성을 본다.</p>
+        <p>㉠은 ‘시들고…늙어 가니’ → <strong>유한성</strong>(변함). ㉡(산수 그림)은 ‘만고의 세월에도 바뀌지 않’음 → <strong>불변성</strong>. 둘을 바르게 짚은 ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>대상</th><th>속성</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>㉠ 초목·미인</td><td>유한성</td><td>‘시들고 늙어 가니’.</td></tr>
+          <tr><td>㉡ 산수</td><td>불변성</td><td>‘만고에 바뀌지 않음’.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. ⓐ~ⓔ에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q41-1">① ⓐ: 그림이 임금에게 생각을 불러일으킬 것이라는 추측을 나타낸다.</li>
+    <li id="q41-2">② ⓑ: 선왕들의 행적이 의미하는 바를 돌이켜 보아야 한다는 생각을 나타낸다.</li>
+    <li id="q41-3">③ ⓒ: 그 문장이 임금의 선정을 널리 알릴 만큼 충분히 아름답지 않았다는 생각을 나타낸다.<a class="src-tag" href="#ev49">지문 근거</a></li>
+    <li id="q41-4">④ ⓓ: 임금이 보고 싶은 경관을 늘 가까이 두고 보려 한다는 추측을 나타낸다.</li>
+    <li id="q41-5">⑤ ⓔ: 병풍을 통해 후대 왕에게 현재 임금의 뜻이 이어지리라는 인식을 나타낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓒ가 ‘무엇이 부족하다’는 지적인지 정확히 본다.</p>
+        <p id="ev49">ⓒ는 반고·왕연수의 문장이 ‘아름답기야 하지만’ 임금을 <strong>경계·깨우치지 못해</strong> 다스림에 도움이 안 됐다는 뜻이다. ‘아름다움이 부족했다’는 게 아니므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>그림 → 생각을 부름(추측).</td></tr>
+          <tr><td>②</td><td>적절</td><td>선왕 행적의 뜻을 잊지 말 것.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>아름다움이 아니라 ‘경계·교훈’이 없었다.</td></tr>
+          <tr><td>④</td><td>적절</td><td>경관을 가까이 두고 보려는 의도.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>후대 왕에게 뜻이 이어짐.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. 〈보기〉를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>사대부 작가들은 임금에 대한 충정을 다양하게 드러낸다. (가)의 작가는 <b>관직에 나아가지 못한 인물</b>로, 상황적 제약으로 인한 서글픔과 임금을 향한 간절한 그리움을 드러내며 현실을 감내하려는 태도를 보인다. (나)의 작가는 조정에서 관직을 수행하며 본분을 다하기 위해, 임금의 혜안을 칭송하면서도 임금이 지녀야 할 자세에 대한 <b>권계</b>를 드러낸다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q42-1">① (가)의 ‘미나리’를 ‘천리에 뉘 전할고’에서 임금에게 닿을 수 없는 상황적 제약이 드러난다.</li>
+    <li id="q42-2">② (가)의 ‘장상사 한 곡조’에 ‘내 마음 일렁인다’에서 자신의 처지로 인한 서러움을 엿볼 수 있다.</li>
+    <li id="q42-3">③ (나)의 ‘병풍을 만들겠다’는 이유를 언급하는 데서 소양을 갖추려는 임금의 혜안을 강조한다.</li>
+    <li id="q42-4">④ (가)의 ‘첫잠’에 ‘옥루 높은 곳’에 가는 데서 간절한 그리움을, (나)의 ‘송경·이덕유’에 ‘연연’하는 데서 신하의 본분을 엿볼 수 있다.</li>
+    <li id="q42-5">⑤ (가)의 ‘추당에 만부용’에서 현실을 견디려는 모습이, (나)의 ‘무너질 일을 염려’에서 <strong>지나친 걱정으로 정사를 그르치지 말라</strong>는 권계가 드러난다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (나)의 ‘무너질 일을 염려’가 무엇을 권하는 말인지 정확히 본다.</p>
+        <p>(나)는 ‘무너질 일을 염려함은 군주가 <strong>먼저 힘써야 하는 일</strong>’이라며 경계를 <strong>권장</strong>한다. ⑤는 이를 ‘지나친 걱정으로 정사를 그르치지 말라’(경계를 자제하라)로 정반대로 풀었으므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>미나리 못 전함 = 상황적 제약.</td></tr>
+          <tr><td>②</td><td>적절</td><td>슬픈 곡조 = 서러움.</td></tr>
+          <tr><td>③</td><td>적절</td><td>병풍 = 소양 기르는 혜안.</td></tr>
+          <tr><td>④</td><td>적절</td><td>꿈속 만남 = 그리움 / 옛글 연연 = 본분.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘염려’는 군주의 당연한 본분(권장)이다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 권계의 ‘방향’</div>
+        <p>(나)는 ‘무너질 일을 미리 염려하라’고 <strong>권한다</strong>. ⑤는 ‘너무 걱정하지 말라’로 뒤집었다. 같은 소재라도 ‘하라’인지 ‘하지 말라’인지가 정답을 가른다.</p>
       </div>
     </div>
   </details>
