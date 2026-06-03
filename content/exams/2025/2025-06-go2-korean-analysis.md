@@ -20,6 +20,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set2">4~7 화법(토론)</a>
   <a href="#set3">8~10 작문</a>
   <a href="#set4">11~15 문법</a>
+  <a href="#set5">16~20 독서(과학·기술)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
