@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~41번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -26,6 +26,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set8">31~34 현대소설</a>
   <a href="#set9">35~38 고전소설</a>
   <a href="#set10">39~41 현대시</a>
+  <a href="#set11">42~45 갈래 복합</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1602,6 +1603,164 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>생활 못 보임 = 속물성 확인.</td></tr>
           <tr><td>④</td><td>적절</td><td>성씨 모름 = 허위 / 단호 = 자기 인식.</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>성찰은 ‘단호한 소리’에서(밀용인찰지 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 42~45번 갈래 복합 · 정훈 「수남방옹가」와 신흠 「천정기」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) <strong>가사</strong>(자연 속 삶의 만족) + (나) <strong>고전 수필</strong>(우물에 빗댄 삶의 태도).</p>
+  <ul>
+    <li><strong>(가) 「수남방옹가」</strong> — 봄~겨울 사계절 자연을 감각적으로 묘사하며 안빈낙도의 만족을 노래.</li>
+    <li><strong>(나) 「천정기」</strong> — ‘손님’은 우물 괘로 ‘쓰일 기회가 온다’ 격려, ‘글쓴이’는 ‘우물은 개의치 않는다’며 쓰임·버려짐을 조물주에 맡기는 의연함.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 43번은 ㉢(즐길 게 많아 쉴 겨를 없는 ‘만족’이지 ‘아쉬움’ 아님), 45번은 ‘우물이 채워지지 않을 까닭 없다=의연함이지 좌절감 아님’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[42 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p class="src-label">(가) 정훈, 「수남방옹가」</p>
+  <p class="verse">생계는 넉넉지 않아도 뜰이나마 풍족하니 / 단표누공도 서러운 줄 모르리다<br>
+  ㉠<u>지팡이 바삐 짚고 동쪽 언덕에 비겨 서니</u><br>
+  <span class="ev ans" id="ev42a">금사는 버들 그림자요 설색은 매화로다 / 산새는 봄을 맞아 노래하는 소리거늘 / 임화는 비 온 후에 웃음을 머금었다</span><a class="ev-tag ans" href="#q42-4">42-④</a><br>
+  ㉡<u>온갖 계절 경치 실컷 다 본 후에 / 이봐 아이들아 서쪽 밭에 일이 있다</u> (…)<br>
+  봉우리에 올라앉아 채미가를 길게 읊어 / 무우대에서 바람을 쐰다 한들 여기서 더할런가 (…)<br>
+  미끼 없는 낚시에 고기마다 다 모인다 / 물고기와 새도 뜻을 알아 다 의심 아니하네 (…)<br>
+  산수의 즐거움을 나밖에 뉘 아는고 (…)<br>
+  북풍이 소슬하여 백설이 흩어지니 / ⓐ<span class="ev" id="ev44a">원근의 언덕과 골짜기 경요굴이 되었거늘 / 눈썹을 찡그리며 시를 읊으니 시흥이 더 새롭다</span><a class="ev-tag" href="#q44-1">44-①</a><br>
+  ㉢<u><span class="ev ans" id="ev43">사계절 아름다운 경치가 다 제각각 재촉하니 / 게으른 이 몸이 언제야 한가할꼬</span></u><a class="ev-tag ans" href="#q43-3">43-③</a></p>
+  <p class="muted" style="text-align:right">— 정훈, 「수남방옹가」</p>
+  <p class="src-label">(나) 신흠, 「천정기」</p>
+  <p>한 손님이 주역 우물 괘를 들어 ‘우물은 험난한 과정을 거쳐 널리 베푼다’며, ㉣<u>임금이 명철하여 복을 받으면 덮인 우물이 쓰이듯 그대도 능력을 펼칠 기회를 만날 것</u>이라 격려했다.</p>
+  <p>나는 웃으며 답했다 — ‘고을은 옮겨도 우물은 옮길 수 없으니 우물이 무엇을 바라겠소? <span class="ev ans" id="ev45">우물은 차면 내 주니 길어 간다고 안 채워질 까닭 없고, 비면 받아들이니 안 길어 간다고 늘 비어 있을 까닭 없소.</span><a class="ev-tag ans" href="#q45-4">45-④</a> 지금 내 우물은 사거리 큰길이 아니라 ⓑ<span class="ev" id="ev44b">깊숙한 산골짝에 있어 여러 가게·사람이 쓰도록 자리 잡지 못하고, ㉤기이한 사람·귀양 온 사람이 쓰도록 자리 잡혀 있어</span><a class="ev-tag" href="#q44-1b">44-①</a> 내 처지와 비슷하오. 쓰이고 버려짐은 조물주에 달렸으니 내 무얼 상관하겠소.’</p>
+  <p class="muted" style="text-align:right">— 신흠, 「천정기」</p>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. (가), (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q42-1">① (가)는 공간 이동에 따라 삶에 대한 인식의 전환을 보여 준다.</li>
+    <li id="q42-2">② (나)는 시간 흐름에 따른 대상 변화로 문제 상황의 심화를 드러낸다.</li>
+    <li id="q42-3">③ (가)는 자연·인간 대비로, (나)는 과거·현재 비교로 부정적 세태를 비판한다.</li>
+    <li id="q42-4">④ (가)는 자연을 감각적으로 묘사해 계절감을, (나)는 사물 특성에서 유추한 교훈을 전달한다.<a class="src-tag ans" href="#ev42a">정답 근거</a></li>
+    <li id="q42-5">⑤ (가)·(나) 모두 사물에 인격을 부여해 대상에 대한 비판적 인식을 강조한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글의 방식을 각각 본다.</p>
+        <p>(가)는 ‘금사·설색·산새’ 등 감각적 묘사로 <strong>계절감</strong>을, (나)는 ‘우물’의 특성에서 삶의 <strong>교훈</strong>을 유추한다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>인식 전환 없음(만족 일관).</td></tr>
+          <tr><td>②</td><td>오답</td><td>문제 상황 심화 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>세태 비판 아님.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>감각적 계절감 + 우물 교훈.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>인격 부여하나 ‘비판’ 목적 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① ㉠: 주변을 돌아다니며 자연을 감상하는 모습을 형상화한다.</li>
+    <li id="q43-2">② ㉡: 자연을 즐기되 생계를 위한 일에도 소홀하지 않는 모습을 나타낸다.</li>
+    <li id="q43-3">③ ㉢: 자연에서의 삶에 대한 기대와 현실의 차이에서 비롯된 <strong>아쉬움</strong>을 드러낸다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
+    <li id="q43-4">④ ㉣: 상대의 앞날에 대한 전망을 드러내려 상황을 가정한다.</li>
+    <li id="q43-5">⑤ ㉤: 장소의 특성 때문에 쓰임에 제약이 있는 상황을 표현한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉢이 ‘아쉬움’인지 ‘만족’인지 본다.</p>
+        <p>㉢은 사계절 내내 즐길 것이 많아 ‘<strong>쉴 겨를이 없다</strong>’는 <strong>깊은 만족</strong>이다. ‘기대–현실의 차이로 인한 아쉬움’이 아니므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>지팡이 짚고 감상.</td></tr>
+          <tr><td>②</td><td>적절</td><td>경치 본 후 밭일.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>즐길 게 많은 만족(아쉬움 아님).</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘임금 명철하면’ 가정.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>산골짝 위치 → 쓰임 제약.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. ⓐ와 ⓑ를 이해한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① ⓐ는 화자에게 심미적으로 완상되는 장소이고, ⓑ는 사람들이 접근하기 어려운 장소이다.<a class="src-tag ans" href="#ev44a">정답 근거(ⓐ)</a><a class="src-tag ans" href="#ev44b" id="q44-1b">정답 근거(ⓑ)</a></li>
+    <li id="q44-2">② ⓐ는 내적 갈등이 심화되는 장소, ⓑ는 갈등이 해소되는 장소이다.</li>
+    <li id="q44-3">③ ⓐ는 시적 감흥을 주는 장소, ⓑ는 세상을 근심하게 하는 장소이다.</li>
+    <li id="q44-4">④ ⓐ·ⓑ 모두 고독감을 불러일으키는 장소이다.</li>
+    <li id="q44-5">⑤ ⓐ·ⓑ 모두 부재하는 대상에 대한 그리움을 주는 장소이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 장소의 성격을 각각 본다.</p>
+        <p>ⓐ‘경요굴’은 화자가 <strong>심미적으로 완상</strong>하며 시흥을 느끼는 장소, ⓑ‘깊숙한 산골짝’은 사람들이 <strong>접근·이용하기 어려운</strong> 장소다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>장소</th><th>성격</th></tr></thead>
+        <tbody>
+          <tr><td>ⓐ</td><td>심미적 완상(시흥).</td></tr>
+          <tr><td>ⓑ</td><td>접근·이용 어려운 곳.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)는 한 사람의 목소리로, (나)는 상이한 관점의 두 인물(손님·글쓴이) 대화로 주제 의식이 부각된다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① (가) ‘가슴속이 상쾌하니’·‘나밖에 뉘 아는고’·‘나 혼자 맡아 있다’에서 만족감이 반복돼 주제가 부각된다.</li>
+    <li id="q45-2">② (나) ‘기회를 만나게 될 것이오’와 ‘무엇을 바라겠습니까’에서 손님·글쓴이의 태도 차이를 본다.</li>
+    <li id="q45-3">③ (나) ‘아무도 길어 가지 않아도 늘 비어 있을 까닭 없다’에서 상황과 무관히 덕·도를 지키려는 태도를 본다.</li>
+    <li id="q45-4">④ (가) ‘넉넉지 않아도 뜰이나마 풍족하니’에서 긍정적 인식을, (나) ‘채워지지 아니할 까닭이 없고’에서 <strong>좌절감</strong>을 본다.<a class="src-tag ans" href="#ev45">정답 근거</a></li>
+    <li id="q45-5">⑤ (가) ‘여기서 더할런가’에서 긍정적 태도를, (나) ‘실로 비슷하다’에서 손님의 안타까움을 본다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘채워지지 않을 까닭 없다’가 좌절인지 본다.</p>
+        <p>이 구절은 우물이 차면 주고 비면 받아들이는 <strong>의연함</strong>을 나타낸다. ‘좌절감’이 아니므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>만족감 반복.</td></tr>
+          <tr><td>②</td><td>적절</td><td>손님 vs 글쓴이 태도 차이.</td></tr>
+          <tr><td>③</td><td>적절</td><td>상황 무관 덕·도 지킴.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>의연함(좌절감 아님).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>긍정 태도 / 손님의 안타까움.</td></tr>
         </tbody>
       </table>
     </div>
