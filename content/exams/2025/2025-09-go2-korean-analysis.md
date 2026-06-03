@@ -12,7 +12,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-09-03</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~33번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -24,6 +24,9 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set6">22~26 독서(과학·기술)</a>
   <a href="#set7">27~30 현대소설</a>
   <a href="#set8">31~33 고전소설</a>
+  <a href="#set9">34~37 독서(사회)</a>
+  <a href="#set10">38~42 고전시가·수필</a>
+  <a href="#set11">43~45 현대시</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1343,6 +1346,509 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>도술 = 비현실적 능력 제시.</td></tr>
           <tr><td>④</td><td>적절</td><td>무시 → 두려움·감탄.</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>형 한림은 감탄만, 중재 안 함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+## 34~37번 독서(사회) · 과징금은 어떤 제재이고 어떻게 부과되나
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘과징금이 벌금·과태료와 어떻게 다른가 → 두 유형(본래적/변형) → 부과 원칙’ 순으로 잡는다.</p>
+  <ul>
+    <li><strong>구별</strong> — 벌금(사법 기관)·과태료(경미·형벌 대체) ↔ 과징금(행정청, 불법 이익 환수, 형벌과 <strong>별도</strong> 부과·행정 소송 가능).</li>
+    <li><strong>두 유형</strong> — 본래적 의미(불법 이익 환수) / 변형된 과징금(영업 정지를 갈음, 공익 중대 영업에 한해).</li>
+    <li><strong>법률 유보</strong> — 침익적 행위라 법적 근거 필요. 상한액 규정, 분할 납부는 기한 10일 전 신청.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 35번은 ‘행정 소송은 두 과징금의 공통점’(‘변형만’ 아님), 37번은 ‘900만 원=전년도 총매출 기준’(경영 악화 손해 아님)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[34 ~ 37] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <div class="seg" id="segA">
+    <p class="seg-label">[A]</p>
+    <p>과징금은 의무를 위반한 자에 대한 금전적 제재다. 벌금과 유사하나, <strong>벌금은 사법 기관, 과징금은 행정청</strong>이 부과한다. <span class="ev" id="ev30">과태료는 경미한 행정 법규 위반에 부과하거나 경미한 형사 사범을 범죄자로 만들지 않기 위해 부과하며, 형벌을 대신하는 측면이 있어 그 부과 대상을 형벌의 부과 대상으로 하지 않는 것을 원칙으로 한다.</span><a class="ev-tag" href="#q34-2">34-②</a> 반면 과징금은 불법적 이익을 환수하기 위해 부과하고, 형벌과 목적·성격이 달라 <strong>동일 위반에 형벌과 별도로</strong> 부과할 수 있으며, <span class="ev" id="ev31">위반 행위자가 행정 처분에 불복하면 행정 소송을 제기할 수 있다.</span><a class="ev-tag" href="#q35-4">35-④</a></p>
+  </div>
+  <p>현행법상 과징금은 <strong>경제적 이익 환수 과징금</strong>과 <strong>영업 정지 대체 과징금</strong>으로 나뉜다. 전자는 불법 이익 환수가 본래적 특징이라 ‘<strong>본래적 의미의 과징금</strong>’이라 하며, 기존 몰수·추징 제도의 복잡한 형사 절차로 인한 집행 어려움을 고려해 환수 효율을 높이려 도입됐다.</p>
+  <p>영업 정지 처분은 영업의 전부·일부를 정지하는 강력한 제재다. 다만 공공 편익 감소 우려가 있어, 의료·복지 등 공익에 중대한 영업에 한해 영업을 계속하게 하고 영업 정지를 갈음하는 <strong>영업 정지 대체 과징금</strong>(‘변형된 과징금’)이 도입됐다. 이 유형은 처분 결정에 불복하는 경우가 많아, ⓐ<u>위반 행위자에게 처분의 명시적 선택권을 부여하자</u>는 주장과 ⓑ<u>공익성이 적은 영업의 영업 정지에도 과징금을 도입하자</u>는 주장이 보완책으로 제시된다.</p>
+  <p>과징금은 침익적 행정 행위라 <strong>법률 유보의 원칙</strong>(법적 근거 필요)을 따른다. 개별 법률에서 부과 주체·사유·상한액·분할 납부 등을 명확히 규정해 남용을 방지한다. 일괄 납부가 원칙이나 자금 사정에 현저한 어려움이 예상되면 분할 납부가 허용되며, 이때 <strong>납부 기한 10일 전까지</strong> 문서로 신청해야 한다.</p>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. [A]에서 알 수 있는 내용으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
+  <ul class="q-opts">
+    <li id="q34-1">① 행정청은 동일 위반 행위에 벌금과 과징금 모두를 부과할 수 있다.</li>
+    <li id="q34-2">② 행정청은 경미한 형사 사범이 형벌의 부과 대상이 되지 않도록 과태료를 부과할 수 있다.<a class="src-tag" href="#ev30">지문 근거</a></li>
+    <li id="q34-3">③ 행정청은 불법적 이익 환수를 위해 과태료를 부과할 수 있다.</li>
+    <li id="q34-4">④ 행정청은 경미한 행정 법규 위반자에게 형벌로서의 금전 제재를 부과할 수 있다.</li>
+    <li id="q34-5">⑤ 행정청은 과징금 목적이 형벌과 동일해 재판 없이 과징금을 부과할 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 벌금·과태료·과징금의 주체·목적을 구분한다.</p>
+        <p>과태료는 ‘경미한 형사 사범을 범죄자로 만들지 않기 위해’ 부과하며, 그 대상을 형벌 대상으로 하지 않는다. 즉 ②가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>벌금은 사법 기관이 부과(행정청 아님).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>과태료 = 형벌 대상 안 되게.</td></tr>
+          <tr><td>③</td><td>오답</td><td>불법 이익 환수는 ‘과징금’.</td></tr>
+          <tr><td>④</td><td>오답</td><td>경미한 위반은 과태료(형벌 아님).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>과징금 목적은 형벌과 다르다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① 변형된 과징금은 수익적 행정 행위에 대한 사후 관리 수단으로 볼 수 있다.</li>
+    <li id="q35-2">② 본래적 의미의 과징금과 변형된 과징금은 모두 제재로서의 성격을 지닌다.</li>
+    <li id="q35-3">③ 본래적 의미의 과징금은 몰수·추징 제도의 집행 어려움을 고려해 도입됐다.</li>
+    <li id="q35-4">④ 본래적 의미의 과징금과 달리 <strong>변형된 과징금에 대해서만</strong> 행정 소송을 제기할 수 있다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+    <li id="q35-5">⑤ 두 과징금 모두 침익적 행위 남용을 막기 위해 명확한 법적 근거로 부과된다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘둘 중 하나만’이라는 진술의 진위를 본다.</p>
+        <p>행정 처분 불복 시 행정 소송 제기는 <strong>과징금 일반의 특징</strong>이다. 변형된 과징금에만 해당하는 게 아니므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>영업 정지 대체 = 사후 관리.</td></tr>
+          <tr><td>②</td><td>적절</td><td>제재 성격은 모든 처분의 공통점.</td></tr>
+          <tr><td>③</td><td>적절</td><td>몰수·추징 어려움 고려.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>행정 소송은 두 과징금의 공통점.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>법률 유보 → 법적 근거 부과.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. ⓐ(선택권 부여), ⓑ(공익성 적은 영업에도 과징금)에 대한 추론으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① 영업 정지와 과징금이 대등한 제재라 위반자가 처분을 선택할 수 있다는 견해는 ⓐ 찬성.</li>
+    <li id="q36-2">② 공익성을 넓게 적용해 과징금을 부과하면 영업 정지의 제재 효과를 떨어뜨린다는 견해는 <strong>ⓐ 반대</strong>.<a class="src-tag" href="#ev32">지문 근거</a></li>
+    <li id="q36-3">③ 공익성 평가가 정량화될 수 없음을 고려한 견해는 ⓑ 찬성.</li>
+    <li id="q36-4">④ 공익성 약한 분야에 과징금을 확대하면 위법을 조장할 수 있다는 견해는 ⓑ 반대.</li>
+    <li id="q36-5">⑤ 불복 소송으로 행정 효율이 떨어진다는 견해는 ⓐ·ⓑ 찬성.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 견해가 ⓐ(선택권)와 ⓑ(공익성 적은 영업) 중 무엇에 대한 입장인지 본다.</p>
+        <p>‘공익성을 넓게 적용해 과징금을 부과하면 영업 정지 효과가 준다’는 것은 <strong>공익성 적은 영업에도 과징금을 넓히자는 ⓑ에 반대</strong>하는 입장이다. ⓐ와는 무관하므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>대등한 제재 → 선택권(ⓐ 찬성).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>제재 효과 감소 = ⓑ 반대(ⓐ 아님).</td></tr>
+          <tr><td>③</td><td>적절</td><td>정량화 불가 → ⓑ 찬성.</td></tr>
+          <tr><td>④</td><td>적절</td><td>위법 조장 우려 → ⓑ 반대.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>효율 저하 → ⓐ·ⓑ 찬성 근거.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>A 약국이 무자격자 약품 판매로 영업 정지 1개월을 사전 통지받자, 손해를 우려한 영업자가 과징금 대체 민원을 냈다. 행정청은 ‘영업 정지를 갈음해 <b>1억 원 이하</b>의 과징금’이라는 약사법 규정을 근거로, 시행령에 따라 <b>전년도 총매출 기준 900만 원</b>을 산정해 통지받은 날부터 60일 이내 납부를 처분했다. 영업자는 경영 악화로 분할 납부를 희망한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q37-1">① 1억 원은 부과할 수 있는 과징금의 상한액으로 볼 수 있다.</li>
+    <li id="q37-2">② 분할 납부하려면 통지받은 날부터 50일 이내(기한 10일 전)에 신청해야 한다.</li>
+    <li id="q37-3">③ 행정청은 민원을 수용해 <strong>경영 악화 손해를 근거로</strong> 900만 원을 산정했다.<a class="src-tag" href="#ev33">지문 근거</a></li>
+    <li id="q37-4">④ 약사법 규정 근거의 과징금 부과는 불법적 이익을 환수하는 행정 행위로 볼 수 있다.</li>
+    <li id="q37-5">⑤ 영업 정지를 과징금으로 갈음한 것은 약국 영업이 공공 편익에 미치는 영향을 고려했기 때문이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 900만 원이 ‘무엇을 기준으로’ 산정됐는지 본다.</p>
+        <p>900만 원은 시행령에 따라 ‘<strong>전년도 총매출</strong>’을 기준으로 산정한 금액이다. ‘경영 악화 손해를 근거로’ 산정했다는 ③은 사실과 달라 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘1억 원 이하’ = 상한액.</td></tr>
+          <tr><td>②</td><td>적절</td><td>60일 기한 − 10일 = 50일 내 신청.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>900만 원은 ‘전년도 총매출’ 기준.</td></tr>
+          <tr><td>④</td><td>적절</td><td>과징금 = 불법 이익 환수 행위.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>약국 = 공공 편익 고려.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 38~42번 고전시가·수필 · 「금강별곡」과 「회룡사관폭기」 — 산수를 보고 무엇을 얻나
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>둘 다 산수 유람 체험을 적은 교술 문학이다. (가)는 <strong>감탄·감상</strong> 중심, (나)는 체험을 <strong>인생 성찰</strong>로 확장한다.</p>
+  <ul>
+    <li><strong>(가) 이상수 「금강별곡」</strong>(기행가사) — 백탑을 찾아 험로를 헤맨다. ‘소문이 과장인 줄 알았더니 직접 보니 말이 모자란다’며 감탄.</li>
+    <li><strong>(나) 채제공 「회룡사관폭기」</strong>(고전수필) — 폭포의 장관에 놀라지만, ‘폭포는 물의 본성(아래로 흐름)을 잃은 것’이라며 인간이 본성을 잃음을 성찰.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 41번은 ‘ⓐ(미륵봉)=경이감 / ⓑ(미혹)=현재 모습만 보는 이들에 대한 안타까움’, 42번은 ‘(나)가 폭포의 특성을 새로 인식한 게 아니라 본성에서 어긋났다고 평가’가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[38 ~ 42] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="src-label">(가) 이상수, 「금강별곡」</p>
+  <p class="verse">수렴동을 들어가서 반석 위에 다리 쉴 때<br>
+  어디서 오는 물이 높은 돌로 떨어지니<br>
+  뛰느니 구슬이요 뿌리나니 백설이라<br>
+  ㉠<u>그만 보고 일어나서 백탑(百塔)을 찾으리라</u><br>
+  (…) 여래탑과 다진탑과 증명탑과 다보탑과 (…)<br>
+  ㉡<u>서책을 쌓은 모양 뒤주와 함농을 고인 모양<br>
+  갓 모양 우산 모양 돌마다 물형(物形)일세</u><br>
+  (…) ㉢<u>눈으로 둘러보니 두 눈이 분주하고<br>
+  손으로 가리키니 두 손이 겨를 없고<br>
+  입으로 말을 한즉 입 하나로 어이하리</u><br>
+  (…) 금강산 좋은 소문 보태었다 하였더니<br>
+  이제야 직접 보니 말 모자라 걱정일세</p>
+  <div class="seg" id="segA"><p class="seg-label">[A] 백탑을 찾는 험로</p>
+  <p class="verse">폭포수 떨어지는데 겨울 눈 그쳐 있다<br>
+  얼음을 건너가니 동지 섣달 경(景)이로다<br>
+  길은 끊어져 있고 갈 곳이 전혀 없다<br>
+  시장하면 어렵기로 솥에 쌀밥 지었더니<br>
+  따라오던 계집들이 물가에 밥 식히고<br>
+  갓 벗고 동옷 벗고 맨상투 바람에 미투리 신고<br>
+  길 없는 물속으로 이 돌 저 돌 건너가며<br>
+  채삼꾼이 인삼 찾듯 사냥꾼이 매를 찾듯<br>
+  허기져서 술막 찾듯 밤길 잃고 인가 찾듯<br>
+  가다 쉬고 쉬다 가서 기어 기어 올라갈 때</p></div>
+  <p class="verse">(…) 세 글자를 새겼으니 다보탑이 여기로다<br>
+  갈수록 산이 깊어 막다른 골 되었단 말인가<br>
+  ㉣<u>하릴없이 돌아오니 분하고 열없도다</u><br>
+  (…) ㉤<u>생각하니 우습도다 구경(求景)이 고경(苦景)일세</u><br>
+  (…) 미륵봉 장한 거동 놀라움이 끝이 없다<br>
+  하늘 땅 생길 때에 어느 풀무 뉘 솜씨로<br>
+  돌 하나를 조작하되 ⓐ<u>저다지도 영특한가</u></p>
+  <p class="muted" style="text-align:right">— 이상수, 「금강별곡」</p>
+
+  <p class="src-label">(나) 채제공, 「회룡사관폭기」</p>
+  <p>을사년 여름, 양주 홍 씨의 장원에 임시로 살 때 회룡사 앞 폭포가 장관이라는 말을 듣고 찾아갔다. 폭포의 물방울이 쏘아 대는 기세 때문에 가까이 갈 수 없어 곁눈질로 멀리 바라보며 올라갔다. <span class="ev" id="ev35">거세지 않은 원류를 건넌 뒤, 암석 위에 앉아 아래를 굽어보았다.</span><a class="ev-tag" href="#q39-5">39-⑤</a> 물이 바위를 맞닥뜨려 솟구치고 부서지니, 많기로는 천 섬의 구슬, 시끄럽기로는 만 개의 우레 같았다. 일행 모두 탄성을 질렀고 나도 놀랐다.</p>
+  <p>한참 뒤 가만히 생각했다. 물의 성질은 아래로 흐를 뿐이다. 자연의 이치에 따라 흐르는 것이 물의 법칙인데, 지금은 바위에 막혀 미친 듯 날뛴다. 사람들은 물이 본성을 잃은 것이 탄식할 일임을 모른 채 박수를 치며 탄성을 지르니, ⓑ<u>어찌 그리도 미혹한가</u>. 나는 오늘날 사람이 하늘이 부여한 본성을 보존하지 못하는 경우가 많음을 본다. 폭포여, 내가 너에게 무엇을 허물하랴.</p>
+  <p class="muted" style="text-align:right">— 채제공, 「회룡사관폭기」</p>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. ㉠~㉤에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q38-1">① ㉠: 영탄으로 원하는 장소를 찾지 못하는 초조함을 드러낸다.</li>
+    <li id="q38-2">② ㉡: 일상적 소재로 동일 대상이 시선에 따라 달리 보임을 강조한다.</li>
+    <li id="q38-3">③ ㉢: 풍경을 감상하는 행위들을 나열하며 풍경의 다양함을 부각한다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q38-4">④ ㉣: 촉박한 일정으로 풍경을 못 보는 현실에 대한 불만을 직접 표출한다.</li>
+    <li id="q38-5">⑤ ㉤: 찾던 장소가 기대에 못 미치는 상황에 대한 실망을 자조적으로 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 구절의 표현 방식·의도를 본문과 맞춘다.</p>
+        <p id="ev34">㉢은 ‘눈으로 둘러보니/손으로 가리키니/입으로 말을 한즉’처럼 감상 <strong>행위를 나열</strong>해 풍경의 다양함을 부각한다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>㉠은 다음 목적지로 옮기는 것(초조 아님).</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘여러 돌’의 다양함이지 동일 대상 아님.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>감상 행위 나열 → 풍경 다양함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘막다른 길’의 분함이지 일정 불만 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>구경의 고됨을 자조한 것이지 실망 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. (나)의 글쓴이에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① 폭포 경관 소문을 듣고 홍 씨의 장원에서 임시로 지냈다.</li>
+    <li id="q39-2">② 을사년 여름 큰비로 계획했던 폭포 구경을 미뤄야 했다.</li>
+    <li id="q39-3">③ 여정이 험함을 알고 폭포를 찾기 전에 미리 산길을 정돈했다.</li>
+    <li id="q39-4">④ 폭포의 기세를 가까이서 확인하려 천천히 정상을 향해 올라갔다.</li>
+    <li id="q39-5">⑤ 폭포의 원류를 건넌 후에야 떨어지는 모습을 자세히 살필 수 있었다.<a class="src-tag" href="#ev35">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글쓴이의 동선을 순서대로 따라간다.</p>
+        <p>물방울 기세로 가까이 못 가 곁눈질하다, <strong>원류를 건넌 뒤</strong> 암석에 앉아 아래를 굽어보며 폭포를 자세히 살폈다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>소문은 장원살이 ‘이후’ 들음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>비 갠 뒤 구경을 ‘갔다’.</td></tr>
+          <tr><td>③</td><td>오답</td><td>덩굴 헤쳤을 뿐 산길 정돈 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>기세 때문에 가까이 못 감.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>원류 건넌 뒤 자세히 관찰.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. (가)의 [A]와 〈보기〉의 [B]를 비교한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 — 「동행산수기」 [B] &gt;</p>
+    <p>백탑을 찾으러 갔다. 폭포는 물을 뿜으며 떨어졌다. … 물은 <b>콸콸 소리를 내며</b> 떨어졌다. 그 물을 건너가니 길이 끊어졌다. 따르는 사람에게 물가에서 밥을 짓게 하고, <b>원치 않는 자는 남아 있게 하고</b> 돌을 밟으며 갔다. 머리·눈이 발의 보조자가 되고… 마치 <b>포정이 소를 잡을 때 뼈 사이 틈을 찾아 칼을 쓰듯이</b> 바위 사이 빈 공간으로 가야 무사했다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q40-1">① [A]·[B] 모두 ‘백탑’을 찾아가는 과정을 시간 흐름에 따라 보여 준다.</li>
+    <li id="q40-2">② [A]·[B] 모두 계절적 배경 소재(눈·얼음)로 관찰한 자연을 제시한다.</li>
+    <li id="q40-3">③ [B]는 [A]와 달리 청각 어휘(‘콸콸’)로 물소리를 생동감 있게 표현한다.</li>
+    <li id="q40-4">④ [A]는 일행에게 특정 행위를 지시한 이유를, [B]는 일행이 동참을 원하지 않는 <strong>이유</strong>를 밝힌다.<a class="src-tag" href="#segA">[A] 보기</a></li>
+    <li id="q40-5">⑤ [A]는 비유 나열로 ‘백탑’을 보고 싶은 간절함을, [B]는 섬세한 작업에 비유해 길의 위험함을 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [B]가 ‘원치 않는 이유’까지 밝혔는지 본다.</p>
+        <p>[B]는 ‘원치 않는 자는 남아 있게 하였다’고 했을 뿐, 그 <strong>이유</strong>는 밝히지 않았다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>둘 다 시간 흐름 서술.</td></tr>
+          <tr><td>②</td><td>적절</td><td>눈·얼음 등 겨울 소재.</td></tr>
+          <tr><td>③</td><td>적절</td><td>[B] ‘콸콸’ 청각 표현([A]엔 없음).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>[B]는 ‘원치 않는 이유’를 안 밝힘.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>[A] 채삼꾼 비유, [B] 포정 비유.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. ⓐ(저다지도 영특한가)와 ⓑ(어찌 그리도 미혹한가)에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q41-1">① ⓐ는 탈속적 세계 지향, ⓑ는 세속적 세계 회피의 태도가 담겨 있다.</li>
+    <li id="q41-2">② ⓐ는 본질을 파악한 자부심, ⓑ는 본질 모르는 이들에 대한 우월감이 담겨 있다.</li>
+    <li id="q41-3">③ ⓐ는 현재 바라보는 대상에서 느끼는 경이감, ⓑ는 대상의 현재 모습에만 주목하는 이들에 대한 안타까움이 담겨 있다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q41-4">④ ⓐ는 자연물과 조화 이룬 대상에 대한 찬탄, ⓑ는 어울리지 않는 대상에 대한 아쉬움이 담겨 있다.</li>
+    <li id="q41-5">⑤ ⓐ는 변함없는 대상에 대한 놀라움, ⓑ는 상황에 따라 달리 보는 사람들에 대한 부정적 태도가 담겨 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 영탄이 ‘무엇에 대한 어떤 감정’인지 본다.</p>
+        <p>ⓐ는 조물주의 솜씨 같은 미륵봉에 대한 <strong>경이감</strong>이고, ⓑ는 폭포의 ‘현재 모습’(본성 잃음)만 보고 탄성 짓는 이들에 대한 <strong>안타까움</strong>이다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>구절</th><th>의미</th></tr></thead>
+        <tbody>
+          <tr><td>ⓐ</td><td>미륵봉에 대한 경이감.</td></tr>
+          <tr><td>ⓑ</td><td>현재 모습만 보는 이들에 대한 안타까움.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>교술 문학은 글쓴이의 실제 체험을 바탕으로 하며, 글쓴이는 기존 지식을 활용해 새 대상을 평가하거나 생각을 바꾸기도 한다. 내용은 주관적 감상일 수도, 개인적 깨달음을 인간 삶에 대한 사유·성찰로 확장한 교훈일 수도 있다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q42-1">① (가)의 ‘소문이 과장’이라 여겼다가 ‘직접 보니 말 모자라’라는 데서, 체험이 생각을 바꾸는 계기가 됐다.</li>
+    <li id="q42-2">② (나)의 ‘사람이 본성을 보존 못 하는 경우가 많다’는 데서, 체험이 인간 삶에 대한 사유로 확장됐다.</li>
+    <li id="q42-3">③ (가)의 금강산, (나)의 폭포를 찾아가 본 풍경을 소개하는 것은 실제 체험 바탕의 교술 문학의 특징이다.</li>
+    <li id="q42-4">④ (가)의 ‘돌 구경이 더욱 장하구나’, (나)의 ‘나도 꽤나 놀랐다’에서 주관적 감상을 드러내는 특징을 확인한다.</li>
+    <li id="q42-5">⑤ (가)의 ‘백탑은 이 아니구나’와 (나)에서 폭포가 ‘아래로 흐르는’ 특성을 <strong>새롭게 인식</strong>한 것은 기존 지식으로 새 대상을 평가한 것이다.<a class="src-tag" href="#ev35">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (나)가 물의 특성을 ‘새로 인식’한 것인지 본다.</p>
+        <p>(나)는 ‘물은 아래로 흐른다’는 <strong>이미 아는 본성</strong>을 바탕으로 폭포가 그 본성에서 <strong>어긋났다고 평가</strong>한 것이지, 그 특성을 새로 인식한 게 아니다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>소문 → 직접 체험, 생각 변화.</td></tr>
+          <tr><td>②</td><td>적절</td><td>폭포 → 인간 본성 사유 확장.</td></tr>
+          <tr><td>③</td><td>적절</td><td>실제 체험 바탕(교술).</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘장하구나’·‘놀랐다’ 주관적 감상.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>본성은 ‘이미 안 것’, 새 인식 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 현대시 · 조지훈 「향문」과 박성우 「두꺼비」 — 부재하는 대상에 대한 그리움
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>둘 다 <strong>부재하는 대상에 대한 그리움</strong>을 노래하되 방법이 다르다.</p>
+  <ul>
+    <li><strong>(가) 조지훈 「향문」</strong> — 깨진 질그릇의 수수·소박한 이미지를 감각적으로 표현하고, 거기서 연상한 ‘할아버지’를 통해 <strong>옛것에 대한 그리움</strong>을 그린다.</li>
+    <li><strong>(나) 박성우 「두꺼비」</strong> — 아버지의 거친 손을 ‘두꺼비’에 비유해, <strong>고달픈 삶을 살다 돌아가신 아버지에 대한 그리움</strong>을 그린다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 44번은 ‘㉠=소중히 여김 / ㉡=더 알고 싶음’, 45번은 ‘두꺼비 독으로 충혈=거친 손을 만지며 느낀 슬픔(그리움 아님)’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="src-label">(가) 조지훈, 「향문」</p>
+  <p class="verse">성터 거닐다 줏어온 깨진 질그릇 하나<br>
+  닦고 고이 닦아 열오른 ㉠<u>두볼에 대어 보다.</u><br>
+  아무렇지도 않은 곳에 무르녹는 옛향기라<br><br>
+  질항아리에 곱게 그린 구름무늬가<br>
+  금시라도 하늘로 피어날듯 아른하다.<br>
+  눈 감고 나래 펴는 향그로운 마음에<br>
+  머언 그 <strong>옛날</strong> 할아버지 흰수염이<br>
+  아주까리 등불에 비최어 자애롭다.<br><br>
+  꽃밭에 놓고 이슬 받아 책상에 올리면<br>
+  그밤 내 벼개 머리에 <strong>옛날</strong>을 보리니<br>
+  <strong>옛날</strong>을 봐도 내사 울지 않으련다.</p>
+  <p class="muted" style="text-align:right">— 조지훈, 「향문」</p>
+
+  <p class="src-label">(나) 박성우, 「두꺼비」</p>
+  <p class="verse">아버지는 두 마리의 <strong>두꺼비</strong>를 키우셨다<br><br>
+  해가 말끔하게 떨어진 후에야 퇴근하셨던 아버지는 두꺼비부터 씻겨주고 늦은 식사를 했다 (…) 한번은 아버지가 녀석을 껴안고 주무시는 모습을 보았는데 기회는 이때다 싶어 ㉡<u>살짝 만져 보았다</u> <span class="ev" id="ev40">그런데 녀석이 독을 뿜어대는 통에 내 양 눈이 한동안 충혈되어야 했다</span><a class="ev-tag" href="#q45-4">45-④</a> 아버지, 저는 두꺼비가 싫어요<br><br>
+  (…) 칠순을 바라보던 아버지는 날이 새기 전에 막일판으로 나가셨는데 그때마다 잠들어 있던 녀석을 깨워 자전거 손잡이에 올려놓고 페달을 밟았다<br><br>
+  두껍아 두껍아 헌집 줄게 새집 다오<br><br>
+  아버지는 지난 겨울, 두꺼비집을 지으셨다 두꺼비와 아버지는 그 집에서 긴 겨울잠에 들어갔다 봄이 지났으나 잔디만 깨어났다<br><br>
+  내 아버지 양 손엔 우툴두툴한 <strong>두꺼비</strong>가 살았었다</p>
+  <p class="muted" style="text-align:right">— 박성우, 「두꺼비」</p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① 특정 시어를 반복하여 의미를 강조하고 있다.</li>
+    <li id="q43-2">② 구체적인 청자를 설정하여 시상을 전개하고 있다.</li>
+    <li id="q43-3">③ 자연물에 인격을 부여하여 대상을 예찬하고 있다.</li>
+    <li id="q43-4">④ 색채의 대비를 활용하여 시적 분위기를 조성하고 있다.</li>
+    <li id="q43-5">⑤ 시행을 종결하지 않은 채 시상을 마무리하여 여운을 남기고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 시의 ‘공통 표현 방식’을 찾는다.</p>
+        <p>(가)는 ‘<strong>옛날</strong>’을, (나)는 ‘<strong>두꺼비</strong>’를 반복해 각각 옛것에 대한 그리움·아버지의 고달픈 삶을 강조한다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>‘옛날’·‘두꺼비’ 반복.</td></tr>
+          <tr><td>②</td><td>오답</td><td>구체적 청자 설정은 (나) 일부뿐.</td></tr>
+          <tr><td>③</td><td>오답</td><td>자연물 인격 부여·예찬 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>색채 대비 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>시행 미종결로 마무리한 공통점 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. ㉠(두볼에 대어 보다)과 ㉡(살짝 만져 보았다)에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① ㉠·㉡ 모두 대상에 대한 연민을 드러내는 행위이다.</li>
+    <li id="q44-2">② ㉠·㉡ 모두 내면 성찰 중 느끼는 부끄러움이 드러나는 행위이다.</li>
+    <li id="q44-3">③ ㉠은 주워 온 대상을 소중히 여기는, ㉡은 지켜보던 대상을 더 알고 싶어 하는 행위이다.</li>
+    <li id="q44-4">④ ㉠은 과거를 되돌아보는 계기, ㉡은 맞닥뜨릴 현실을 떠올리는 계기가 되는 행위이다.</li>
+    <li id="q44-5">⑤ ㉠은 관조적 태도, ㉡은 관찰 대상에 대한 냉소적 태도를 드러내는 행위이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 행위의 ‘동기·태도’를 각각 본다.</p>
+        <p>㉠은 주워 온 질그릇을 고이 닦아 볼에 대어 보는 <strong>소중히 여김</strong>이고, ㉡은 늘 지켜보던 두꺼비를 살짝 만져 보는 <strong>더 알고 싶은</strong> 행위다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>구절</th><th>의미</th></tr></thead>
+        <tbody>
+          <tr><td>㉠</td><td>주워 온 질그릇을 소중히 여김.</td></tr>
+          <tr><td>㉡</td><td>지켜보던 두꺼비를 더 알고 싶음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)·(나)는 <b>부재하는 대상에 대한 그리움</b>을 소재로 하되 방법이 다르다. (가)는 질그릇의 수수·소박한 이미지를 감각적으로 표현하며 거기서 연상한 대상으로 옛것에 대한 그리움을, (나)는 아버지의 거친 손을 <b>두꺼비에 비유</b>해 고달픈 삶과 돌아가신 아버지에 대한 그리움을 형상화한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① (가)의 ‘무르녹는 옛향기’는 ‘깨진 질그릇’의 수수·소박한 이미지를 후각적으로 표현한 것이다.</li>
+    <li id="q45-2">② (가)의 ‘자애’로운 ‘할아버지 흰수염’은 ‘구름무늬’를 통해 연상한 대상이다.</li>
+    <li id="q45-3">③ (나)의 늦은 퇴근·새벽 막일과 ‘양 손엔 우툴두툴한 두꺼비가 살았었다’는 아버지의 고달픈 삶을 형상화한 것이다.</li>
+    <li id="q45-4">④ (나)의 ‘두꺼비 독’으로 ‘양 눈이 충혈되어야 했다’는 것은 부재하는 아버지에 대한 <strong>그리움</strong>을 형상화한 것이다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q45-5">⑤ (나)의 ‘두꺼비와 아버지’가 ‘겨울잠’에 든 상황과 ‘봄이 지나 잔디만 깨어난’ 상황의 대비는 아버지의 죽음을 비유한 것이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘충혈’이 무엇 때문인지 본문 맥락으로 본다.</p>
+        <p>‘양 눈이 충혈되어야 했다’는 시샘해 두꺼비(아버지의 거친 손)를 만지다 느낀 <strong>서러움·슬픔(눈물)</strong>의 형상화다. ‘부재하는 아버지에 대한 그리움’이 아니므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘옛향기’ = 후각적 표현.</td></tr>
+          <tr><td>②</td><td>적절</td><td>구름무늬 → 할아버지 연상.</td></tr>
+          <tr><td>③</td><td>적절</td><td>늦은 퇴근·새벽 막일 = 고달픈 삶.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>충혈 = 슬픔의 눈물(그리움 아님).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>겨울잠↔잔디만 깨어남 = 죽음 비유.</td></tr>
         </tbody>
       </table>
     </div>
