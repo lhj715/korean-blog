@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~21번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~26번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -834,6 +834,186 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>②</td><td>오답</td><td>경로를 끼고 가다.</td></tr>
           <tr><td>③·④</td><td>오답</td><td>뒤를 좇다·남대로 하다.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>더불어 일어나다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 22~26번 독서(사회) · 소송 비용과 공익 소송
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘소송 비용의 종류 → 누가 부담하나 → 공익 소송의 문제’ 흐름이다.</p>
+  <ul>
+    <li><strong>비용</strong> — 재판 비용(인지대·송달료)과 당사자 비용(작성료·<strong>변호사 비용 포함</strong>).</li>
+    <li><strong>부담 방식</strong> — 각자 부담주의(㉠) vs 패소자 부담주의(㉡, 우리 법 원칙·무과실 책임주의).</li>
+    <li><strong>공익 소송</strong> — 승소 이익은 사회 전체로, 패소 부담은 개인에게 → 공익 활동 위축 우려.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 22번은 ‘변호사 비용이 당사자 비용에 포함’(반대로 적은 ②), 25번은 ‘이동권 침해 판단=무과실 책임주의 아님’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다. 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>우리 법은 누구나 재판을 ⓐ<u>받을</u> 권리를 보장한다. <span class="ev" id="ev22n">민사 소송은 법원의 판결을 구하는 것으로, 소송 당사자가 법원에 소장을 제출하면서 시작된다.</span><a class="ev-tag" href="#q22-3">22-③</a> 과정에서 소송 비용이 든다. <span class="ev" id="ev22m">과도한 소송 제기 등을 막기 위해 우리 법은 소송 비용을 당사자가 부담하는 ㉮재판유상주의를 택한다.</span><a class="ev-tag" href="#q24-3">24-㉮</a></p>
+  <p>소송 비용은 재판 비용과 당사자 비용으로 ⓑ<u>나눌</u> 수 있다. <span class="ev" id="ev22a">재판 비용은 국고에 납입하는 비용으로 인지대(소가에 비례, 심급 올라갈수록 비쌈)·송달료 등이다.</span><a class="ev-tag" href="#q22-1">22-①</a> <span class="ev" id="ev22b">당사자 비용은 부대 비용(작성료·출석 비용 등)으로, 소송 비용의 상당 부분을 차지하는 변호사 비용이 여기에 포함될 수도 있다.</span><a class="ev-tag" href="#q22-2">22-②</a></p>
+  <p>㉠<span class="ev" id="ev22ga">각자 부담주의는 변호사 비용을 비롯한 소송 비용을 양측이 각각 부담하는 것이다(변호사 선임이 필수가 아니고, 불법 행위로 변호사 비용이 초래된다는 개연성을 인정할 수 없다고 봄).</span><a class="ev-tag" href="#q25-5">25-⑤</a> 다만 대부분 변호사를 선임하는 현실을 반영 못 한다는 비판을 받는다.</p>
+  <p>우리 법은 원칙적으로 ㉡<span class="ev" id="ev22p">패소자 부담주의를 취한다 — 전부 패소면 전부, 일부 패소면 패소 비율대로 분담한다.</span><a class="ev-tag" href="#q23-2">23-②</a> <span class="ev" id="ev22q">이는 고의·과실과 무관하게 패소자에게 법률상 책임을 지우는 무과실 책임주의가 정의 관념에 부합한다고 보기 때문이다.</span><a class="ev-tag" href="#q25-1">25-①</a> 부당 소송 시 승소자 재산권 보장, 소송 남발 ⓒ<u>막아</u> 법원 부담을 던다. 다만 비용 부담감으로 재판받을 권리를 제한하는 부작용이 있다.</p>
+  <p>이 부작용은 <span class="ev" id="ev22r">공익 소송(사회적 약자·소수자 권익 보호, 침해된 국민 권리 회복)에서 두드러진다. 승소하면 이익이 사회 전체로 ⓓ<u>돌아갈</u> 수 있지만, 패소하면 제기한 당사자가 경제적 부담을 져 공익 활동을 위축시킬 우려가 ⓔ<u>일으킬</u>(있을) 수 있다.</span><a class="ev-tag" href="#q22-4">22-④</a><a class="ev-tag" href="#q25-3">25-③</a></p>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 인지대는 소송 비용 중 재판 비용에 포함된다.<a class="src-tag" href="#ev22a">지문 근거</a></li>
+    <li id="q22-2">② 변호사 비용은 소송 서류의 작성료 등 당사자 비용을 <strong>포함</strong>한다.<a class="src-tag ans" href="#ev22b">정답 근거</a></li>
+    <li id="q22-3">③ 민사 소송은 소송 당사자가 법원에 소장을 제출하면 시작된다.<a class="src-tag" href="#ev22n">지문 근거</a></li>
+    <li id="q22-4">④ 공익 소송에서 당사자가 승소하면 이익이 사회 전체로 돌아갈 수 있다.<a class="src-tag" href="#ev22r">지문 근거</a></li>
+    <li id="q22-5">⑤ 법원의 결정에 따라 일부 패소한 측에 소송 비용 일부를 부담시킬 수 있다.<a class="src-tag" href="#ev22p">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 변호사 비용과 당사자 비용의 ‘포함 관계’를 본다.</p>
+        <p>변호사 비용이 <strong>당사자 비용에 포함되는</strong> 것이다. ②는 ‘변호사 비용이 당사자 비용을 포함한다’로 관계를 거꾸로 적었으므로 일치하지 않는다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>일치</td><td>인지대=재판 비용.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">불일치</td><td>변호사 비용 ⊂ 당사자 비용(반대).</td></tr>
+          <tr><td>③</td><td>일치</td><td>소장 제출로 시작.</td></tr>
+          <tr><td>④</td><td>일치</td><td>승소 이익 사회 전체.</td></tr>
+          <tr><td>⑤</td><td>일치</td><td>일부 패소 비율 분담.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠(각자 부담주의), ㉡(패소자 부담주의)에 대한 설명으로 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠은 당사자의 고의·과실 여부에 따라 소송 비용을 고려한다.</li>
+    <li id="q23-2">② ㉡은 소송 비용을 소송의 승패에 따라 부담하게 한다.<a class="src-tag ans" href="#ev22p">정답 근거</a></li>
+    <li id="q23-3">③ ㉡과 달리 ㉠은 인지대가 소가에 비례한다.</li>
+    <li id="q23-4">④ ㉡에 비해 ㉠은 법원의 판결로 법률관계를 확정하기 어렵다.</li>
+    <li id="q23-5">⑤ ㉠과 ㉡ 모두 불법 행위로 변호사 비용이 초래된다는 개연성을 인정한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 부담 방식의 핵심 차이를 본다.</p>
+        <p>㉡ 패소자 부담주의는 <strong>승패에 따라</strong>(패소자가) 비용을 부담한다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>㉠은 고의·과실로 안 나눔.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉡ = 승패에 따라 부담.</td></tr>
+          <tr><td>③</td><td>오답</td><td>인지대는 두 방식 무관.</td></tr>
+          <tr><td>④</td><td>오답</td><td>법률관계 확정과 부담 방식 무관.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉠은 개연성 인정 안 함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. ㉮(재판유상주의)의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① 불법 행위로 인한 손해 배상의 범위를 축소하기 위해서</li>
+    <li id="q24-2">② 당사자 비용 부담보다 재판 비용 부담을 줄이기 위해서</li>
+    <li id="q24-3">③ 부당하게 소송을 제기하여 소송이 남발되는 것을 막기 위해서<a class="src-tag ans" href="#ev22m">정답 근거</a></li>
+    <li id="q24-4">④ 소송의 형식적 요건을 간소화하기 위해서</li>
+    <li id="q24-5">⑤ 정의의 관념에 부합해야 한다는 부담감을 느끼지 않도록 하기 위해서</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 비용을 당사자에게 지우는 까닭을 본다.</p>
+        <p>‘과도한 소송 제기 등을 막기 위해’ 비용을 당사자가 부담하게 한 것이다 — <strong>소송 남발 방지</strong>. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>소송 남발 방지.</td></tr>
+          <tr><td>①·②·④·⑤</td><td>오답</td><td>손해 배상 축소·비용 비교·요건 간소화·부담감과 무관.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>A는 변호사를 선임해, 지하철 전동차–승강장 간격이 교통 약자의 이동권을 침해한다며 불특정 다수 구제를 위해 교통 공사를 상대로 차별구제청구 소송을 제기. 공사도 변호사를 선임해 시정의 현실적 어려움을 항변. 법원은 ‘간격이 이동권을 침해한다’고 보면서도 현실적 어려움을 인정해 <b>공사 승소</b> 판결, A에게 공사 측 변호사 비용 포함 소송 비용 전부를 부담하라고 판결.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q25-1">① 법원이 이동권 침해를 인정한 것은 소송 상황의 책임을 묻는 <strong>무과실 책임주의</strong>를 따른 것이다.<a class="src-tag ans" href="#ev22q">정답 근거</a></li>
+    <li id="q25-2">② A·공사 모두 변호사를 선임한 것은 소송에서 소송 대리인을 내세운 것이다.</li>
+    <li id="q25-3">③ A의 차별구제청구 소송은 불합리한 사회 문제를 개선해 국민 권리를 회복하려는 소송이다.<a class="src-tag" href="#ev22r">지문 근거</a></li>
+    <li id="q25-4">④ A에게 소송 비용 전부를 지급하라는 판결은 경제적 부담으로 공익 활동을 위축시킬 수 있다.</li>
+    <li id="q25-5">⑤ 각자 부담주의였다면 공사가 승소해도 A·공사 각자가 변호사 비용을 부담했을 것이다.<a class="src-tag" href="#ev22ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘이동권 침해 판단’이 무과실 책임주의인지 본다.</p>
+        <p>무과실 책임주의는 <strong>패소자에게 비용 책임을 지우는</strong> 근거다. 법원이 ‘이동권 침해’를 인정한 것(사실 판단)과는 무관하므로 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>침해 판단 ≠ 무과실 책임주의.</td></tr>
+          <tr><td>②</td><td>적절</td><td>변호사 = 소송 대리인.</td></tr>
+          <tr><td>③</td><td>적절</td><td>국민 권리 회복 = 공익 소송.</td></tr>
+          <tr><td>④</td><td>적절</td><td>비용 부담 → 공익 위축.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>각자 부담주의 = 각각 변호사 비용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① ⓐ(받을): 수용(受容)할</li>
+    <li id="q26-2">② ⓑ(나눌): 분담(分擔)할</li>
+    <li id="q26-3">③ ⓒ(막아): 방어(防禦)해</li>
+    <li id="q26-4">④ ⓓ(돌아갈): 우회(迂廻)할</li>
+    <li id="q26-5">⑤ ⓔ(일으킬): 야기(惹起)할</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 한자어로 바꿔도 뜻이 통하는지 본다.</p>
+        <p>ⓔ‘문제를 일으키다’는 ‘문제를 <strong>야기(惹起)</strong>하다’로 자연스럽게 바꿀 수 있다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>재판을 ‘받다’≠수용하다.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘나누다(구분)’≠분담하다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘막다(방지)’≠방어하다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘돌아가다(귀속)’≠우회하다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>일으키다 = 야기하다.</td></tr>
         </tbody>
       </table>
     </div>
