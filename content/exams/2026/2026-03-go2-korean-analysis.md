@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~23번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~27번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -985,6 +985,162 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
           <tr><td>⑤</td><td>오답</td><td>ⓔ‘가져오다(초래)’ ≠ ‘물건을 가져오다’.</td></tr>
         </tbody>
       </table>
+    </div>
+  </details>
+</div>
+
+## 지문 (24~27번 · 독서·작문 복합)
+
+<div class="passage">
+  <p class="passage-guide">[24 ~ 27] (가) 주민 참여 예산 제도 · (나) 공유지의 비극 · (다) 학생 참여 예산제 개선 건의문(초고).<span class="passage-legend"><b>파란 밑줄</b>은 정답의 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="dt2"><b>(가)</b> 예산의 편성·운영과 주민 참여 예산 제도</p>
+  <p>예산은 정부가 무엇을 먼저·나중에 할지(우선순위)를 드러낸다. <span class="ev" id="ev37">예산의 편성·운영 과정은 투명하게 공개되어야 하며, 집행 결과는 시민들의 더 높은 만족도로 이어질 수 있다.</span><a class="ev-tag" href="#q25-1">25-①</a> 이를 위한 제도 중 하나가 주민 참여 예산 제도로, <span class="ev" id="ev38">주민이 예산 편성·운영에 참여해 자신의 선호를 반영하고 과정을 점검·감시한다.</span><a class="ev-tag" href="#q24-1">24-①</a> <span class="ev" id="ev39">이 과정에서 구성원 간 이해와 소통이 가능해져 공동의 선을 꾀할 수 있다.</span><a class="ev-tag" href="#q24-3">24-③</a><a class="ev-tag" href="#q27-2">27-②</a></p>
+  <p class="dt2"><b>(나)</b> 한정된 예산에서 발생하는 공유지의 비극</p>
+  <p>공유 자원은 누구나 비용 없이 쓸 수 있어, <span class="ev" id="ev40">사람들은 이익 극대화를 위해 공유 자원을 최대한 확보·소비하려 하고 그 결과 자원이 고갈된다(공유지의 비극).</span><a class="ev-tag" href="#q24-4">24-④</a> 한정된 예산에서도 <span class="ev" id="ev42">한 집단이 예산을 독점하면 다른 집단이 못 쓰기에 각 집단이 예산을 최대한 확보하려 한다.</span><a class="ev-tag" href="#q24-5">24-⑤</a> 이를 막으려면 제도적 장치나 구성원 전체의 협력이 필요하다.</p>
+  <p class="dt2"><b>(다)</b> 학생 참여 예산제 개선 건의문(초고)</p>
+  <p>현재 학생 참여 예산제는 임원 제안대로 편성되고 운영 정보도 충분히 공개되지 않는다(문제 상황). 해결 방안으로 ① 학생 참여 예산 공모제 실시 ② 예산 심의 위원회 구성 ③ 배분 과정 공개를 건의하며, 인근 학교 사례를 근거로 든다. 예상 반론(이익 경쟁→갈등)에 대해 ㉠ 예산 정보 공개가 더 많은 학생의 이익을 늘릴 수 있다고 반박한다. <span class="ev" id="ev41">개선 방안이 수용되면 학교생활 만족도뿐 아니라 민주 시민 의식도 높아질 것이다(기대 효과).</span><a class="ev-tag" href="#q26-5">26-⑤</a></p>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. 글을 읽으며 작성한 질문 중 (가)·(나)에서 답을 확인할 수 <strong>없는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① (가) 주민 참여 예산 제도에서 주민의 역할은?<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q24-2">② (가) 주민 참여 예산 제도가 도입되기 위한 조건은?</li>
+    <li id="q24-3">③ (가) 주민 참여 예산 제도의 기대 효과는?<a class="src-tag" href="#ev39">지문 근거</a></li>
+    <li id="q24-4">④ (나) 공유 자원이 고갈되는 이유는?<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q24-5">⑤ (나) 자기 집단의 예산을 최대한 확보하려는 이유는?<a class="src-tag" href="#ev42">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 질문의 답이 지문에 ‘있는지’만 확인한다. 내용 옳고 그름이 아니라 <strong>유무</strong>다.</p>
+        <p>(가)는 주민의 역할·효과는 설명하지만 <strong>‘도입 조건’</strong>은 다루지 않는다. 따라서 ②의 답은 확인할 수 없다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>확인됨</td><td>주민은 선호 반영·점검·감시(가 3문단).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">확인 안 됨</td><td>도입 조건에 대한 서술이 없다.</td></tr>
+          <tr><td>③</td><td>확인됨</td><td>공동의 선 등 효과 제시(가 4문단).</td></tr>
+          <tr><td>④</td><td>확인됨</td><td>이익 극대화 → 고갈(나 1문단).</td></tr>
+          <tr><td>⑤</td><td>확인됨</td><td>독점 우려로 최대 확보(나 2문단).</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘있다/없다’만 본다</div>
+        <p>그럴듯한 질문이라도 <strong>지문에 답이 적혀 있는지</strong>만 따진다. ‘도입 조건’은 화제로 등장조차 하지 않는다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. (다)를 작성하기 위해 (가)·(나)를 읽은 방법으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① (가)에서 예산 집행 결과에 주목해, 과정이 투명하게 공개될 때 만족도가 높아질 수 있음을 확인하며 읽었다.<a class="src-tag" href="#ev37">지문 근거</a></li>
+    <li id="q25-2">② (가)에서 행정의 책임성보다 투명성이 중요하다는 것을 확인하며 읽었다.</li>
+    <li id="q25-3">③ (가)에서 예산을 독점적으로 사용해야 한다는 것을 확인하며 읽었다.</li>
+    <li id="q25-4">④ (나)에서 재정 자원 소진을 위한 우선적 예산 확보가 중요하다는 것을 확인하며 읽었다.</li>
+    <li id="q25-5">⑤ (나)에서 제도적 장치가 충분할수록 이해관계 충돌이 반복된다는 것을 확인하며 읽었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (다)의 주장(공개·참여 → 만족도)과 연결되는 (가)·(나)의 독해를 고른다.</p>
+        <p>(가)는 “과정이 투명하게 공개되면 집행 결과가 더 높은 만족도로 이어진다”고 했고, (다)는 이를 근거로 공개를 건의한다. ①이 알맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>투명 공개 → 만족도 향상(가 2문단).</td></tr>
+          <tr><td>②</td><td>오답</td><td>책임성·투명성 모두 제고 — 우열을 매기지 않음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘예산 독점’은 (가)의 취지와 반대.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나)는 소진을 ‘경계’하지 확보를 권하지 않음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>제도적 장치는 충돌을 ‘줄인다’(반대).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 〈보기〉(건의문 구성)를 참고할 때, (다)의 글쓰기 계획으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 55.2%</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>건의문: <b>서론</b>=글 쓰는 의도 / <b>본론</b>=문제 상황·해결 방안·근거(+예상 반론과 반박) / <b>결론</b>=건의 수용에 따른 기대 효과.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q26-1">① 학생 참여 예산제 개선 건의를 의도로 제시한다.</li>
+    <li id="q26-2">② 임원 제안대로 편성되고 정보가 불충분하다는 점을 문제 상황으로 제시한다.</li>
+    <li id="q26-3">③ 공모제 실시·심의 위원회 구성·정보 공개를 해결 방안으로 제시한다.</li>
+    <li id="q26-4">④ 만족도 높은 인근 학교 사례를 근거로 제시한다.</li>
+    <li id="q26-5">⑤ ‘더 좋은 제도로 발전하기를 바란다’는 내용을 기대 효과로 제시한다.<a class="src-tag" href="#ev41">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 〈보기〉의 구성 요소(의도/문제/방안/근거/기대 효과)에 (다)의 각 부분이 맞게 대응하는지 본다.</p>
+        <p>기대 효과는 (다)에 ‘만족도 + 민주 시민 의식 향상’으로 제시돼 있다. ‘더 좋은 제도로 발전하기를 바란다’는 <strong>소망·맺음말</strong>일 뿐 기대 효과가 아니다. 따라서 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>1문단에 건의 의도 제시.</td></tr>
+          <tr><td>②</td><td>적절</td><td>2문단에 문제 상황 제시.</td></tr>
+          <tr><td>③</td><td>적절</td><td>3문단에 해결 방안 제시.</td></tr>
+          <tr><td>④</td><td>적절</td><td>인근 학교 사례를 근거로 제시.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>기대 효과는 ‘만족도·민주 시민 의식’ — 소망 문구는 기대 효과가 아니다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘기대 효과 vs 소망’ 구분</div>
+        <p>‘발전하기를 바란다’는 글쓴이의 바람이지 수용 시 생기는 <strong>구체적 효과</strong>가 아니다. 기대 효과는 ‘무엇이 어떻게 좋아지는가’로 적혀야 한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 〈보기〉(추가 자료)를 (가)·(나)와 연결해 (다)의 ㉠을 보완하는 방안으로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>예산 정보 공개는 정책 목표·예산 배분에 대한 이해도를 높여 ① 무리한 예산 배분 요구를 자제하게 하는 <b>예방적 기능</b>과 ② 효과적 의사소통으로 전체의 이익을 도모하는 <b>결과적 기능</b>을 가진다. (□□ 정책 자료집)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q27-1">① (가)와 연결해, 정보 공개가 자기 집단의 이익을 우선시한다는 내용으로 보완.</li>
+    <li id="q27-2">② (가)와 연결해, 이해·소통으로 공동의 선을 꾀함을 제시하고, 공개·참여가 무리한 요구를 자제시키고 효과적 의사소통으로 전체 이익을 도모한다는 내용으로 보완.<a class="src-tag" href="#ev39">지문 근거</a></li>
+    <li id="q27-3">③ (나)와 연결해, 정보 공개가 합리적 예산 배분에 어려움을 준다는 내용으로 보완.</li>
+    <li id="q27-4">④ (나)와 연결해, 효과적 의사소통이 경쟁을 갈등으로 번지게 한다는 내용으로 보완.</li>
+    <li id="q27-5">⑤ (나)와 연결해, 개별·전체 이익을 비교할 필요가 있다는 내용으로 보완.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(정보 공개가 더 많은 학생 이익을 늘림)을 〈보기〉의 두 기능(예방·결과)과 (가)의 ‘공동의 선’으로 보강한다.</p>
+        <p>(가)는 공개·참여로 ‘공동의 선’을 꾀할 수 있다고 했고, 〈보기〉는 공개가 무리한 요구를 자제(예방)시키고 의사소통으로 전체 이익을 도모(결과)한다고 했다. ②가 둘을 바르게 연결한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>공개는 ‘자기 이익 우선’이 아니라 자제시킨다(반대).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>(가) 공동의 선 + 〈보기〉 예방·결과 기능을 바르게 연결.</td></tr>
+          <tr><td>③</td><td>오답</td><td>공개는 배분을 ‘돕지’ 어렵게 하지 않는다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>의사소통이 갈등을 키운다는 건 반대.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나)에 ‘개별·전체 이익 비교’ 내용은 없다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ㉠을 ‘보강’하는 방향</div>
+        <p>㉠은 ‘공개=이익 증가’ 주장이다. 보완은 같은 방향이어야 한다. ①③④는 공개를 부정적으로 돌려 ㉠과 어긋난다.</p>
+      </div>
     </div>
   </details>
 </div>
