@@ -12,7 +12,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -22,6 +22,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~20 독서(과학·기술)</a>
   <a href="#set6">21~25 고전 복합</a>
+  <a href="#set7">26~30 독서(사회)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1029,6 +1030,187 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>악을 비일상화 = 선을 일상화.</td></tr>
           <tr><td>④</td><td>적절</td><td>군왕의 마음 = 세태 교정.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>‘이 세상’ = 선 배척 현실.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 26~30번 독서(사회) · 무권대리와 상대방을 지키는 표현대리제도
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘대리제도 → 무권대리(문제) → 표현대리(상대방 보호) → 추인’ 흐름이다.</p>
+  <ul>
+    <li><strong>대리제도</strong> — 대리인이 본인 대신 법률행위, 효과는 본인에게 귀속. 대리권·범위·본인 표시가 필요.</li>
+    <li><strong>무권대리</strong> — 대리권 없거나 범위 초과. 원칙상 본인·대리인 모두에게 효과 없음 → 상대방 손해.</li>
+    <li><strong>표현대리 3종</strong> — 대리권 수여 표시 / 권한을 넘은 / 대리권 소멸 후. 단 상대방이 무권대리임을 알았거나 부주의로 몰랐으면 성립 안 함.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 27번은 ‘대리권 수여 표시=외관이지 기본대리권 생김 아님’, 29번은 ‘추인하면 빌린 전액(3천만 원) 책임’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p><strong>대리제도</strong>는 대리권을 가진 대리인이 본인 대신 법률행위를 하고 그 효과를 본인에게 귀속시키는 제도다. 대리인은 대리권이 있어야 하고, 그 <strong>범위 안에서</strong> 행위해야 하며, ‘A의 대리인 B’처럼 본인을 밝혀야 한다.</p>
+  <p>대리권 없는 자가 대리행위를 하거나 범위를 넘으면 <strong>무권대리</strong>다. 원칙상 그 효과는 본인에게도, 대리인에게도 발생하지 않아 상대방이 손해를 입는다. 그렇다고 책임을 상대방에게 전부 지우면 대리제도 신뢰도가 ⓐ<u>떨어질</u> 수 있다.</p>
+  <p>그래서 민법은 <strong>표현대리</strong>를 둔다 — 대리권이 없어도 ‘있는 것 같은 외관’이 있고 본인에게 어느 정도 책임이 있으면, 무권대리 효과를 본인에게 귀속시킨다. <span class="ev" id="ev19">㉠<u>표현대리는 상대방이 대리권 없음을 알았거나, 부주의로 알지 못한 경우에는 성립하지 않는다.</u></span><a class="ev-tag" href="#q28-5">28-㉠</a> 성립해도 상대방이 주장하지 않으면 본인은 책임지지 않는다.</p>
+  <p>표현대리는 셋이다. ① <strong>대리권 수여의 표시</strong>: A가 대리권을 안 줬으면서 줬다고 C에게 통지해 C가 오인한 경우. <span class="ev" id="ev20">이때 외관은 만들어지지만 그것이 ‘기본대리권’을 생기게 하는 것은 아니다.</span><a class="ev-tag" href="#q27-5">27-⑤</a> ② <strong>권한을 넘은 표현대리</strong>: 대리권 범위를 넘어 행위(서류를 다 갖춰 상대방이 믿을 수밖에 없던 이유가 있어야 성립). 인정 안 돼도 ‘기본대리권’ 범위에선 효력 있음. ③ <strong>대리권 소멸 후</strong>: 본인 사망 등으로 대리권이 소멸했으나 상대방이 그 전 거래 경험으로 여전히 믿었던 경우.</p>
+  <p><span class="ev" id="ev21">무권대리행위는 표현대리가 안 돼도 본인이 <strong>추인</strong>하면 처음부터 정당한 대리권이 있었던 것과 같은 효과가 생긴다.</span><a class="ev-tag" href="#q29-1">29-①</a> 추인도 못 받으면 대리인이 상대방 선택에 따라 이행·배상한다(단 상대방이 무권대리임을 알았거나 부주의로 몰랐으면 책임 못 물음).</p>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 윗글을 읽고 답을 찾을 수 <strong>없는</strong> 질문은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① 무권대리가 발생하는 상황은 어떤 경우인가?</li>
+    <li id="q26-2">② 표현대리가 성립하기 위한 요건은 무엇인가?</li>
+    <li id="q26-3">③ 무권대리행위를 추인하기 위한 절차는 무엇인가?</li>
+    <li id="q26-4">④ 민법에서 표현대리를 규정하는 이유는 무엇인가?</li>
+    <li id="q26-5">⑤ 대리제도에서 계약의 법률효과를 받는 사람은 누구인가?</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글이 ‘답을 주는 질문’과 ‘안 주는 질문’을 가른다.</p>
+        <p>추인의 효과는 나오지만 ‘추인하는 <strong>절차</strong>’는 본문에 없다. ③은 답을 찾을 수 없다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>답 있음</td><td>2문단 무권대리 정의.</td></tr>
+          <tr><td>②</td><td>답 있음</td><td>3·4문단 성립 요건.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">답 없음</td><td>추인 ‘절차’는 없음.</td></tr>
+          <tr><td>④</td><td>답 있음</td><td>3문단 상대방 보호.</td></tr>
+          <tr><td>⑤</td><td>답 있음</td><td>1문단 본인에게 귀속.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 윗글을 통해 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 무권대리행위의 법률효과는 원칙상 본인·대리인 모두에게 발생하지 않는다.</li>
+    <li id="q27-2">② 대리권이 소멸했을 때 외관을 정리할 책임은 본인에게 있다.</li>
+    <li id="q27-3">③ 본인이 추인하면 상대방은 기대했던 이익을 얻을 수 있다.</li>
+    <li id="q27-4">④ 표현대리가 성립해도 상대방이 주장해야 효력이 본인에게 미친다.</li>
+    <li id="q27-5">⑤ 대리권을 안 줬는데 줬다고 제3자에게 말하면 그 특정인에게 <strong>기본대리권</strong>이 생긴다.<a class="src-tag" href="#ev20">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘외관’과 ‘기본대리권’을 구분한다.</p>
+        <p>대리권 수여 표시는 ‘대리권이 있는 것 같은 <strong>외관</strong>’을 만들 뿐, 실제 권한인 <strong>기본대리권</strong>을 생기게 하는 게 아니다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>본인·대리인 모두 효과 없음.</td></tr>
+          <tr><td>②</td><td>적절</td><td>소멸 후 외관 정리 책임은 본인.</td></tr>
+          <tr><td>③</td><td>적절</td><td>추인 → 기대 이익.</td></tr>
+          <tr><td>④</td><td>적절</td><td>주장해야 효력 귀속.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>외관일 뿐 기본대리권 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ㉠(표현대리는 상대방이 알았거나 부주의로 몰랐으면 성립 안 함)의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① 상대방에게 대리제도의 위험을 모두 부담하게 할 수는 없기 때문.</li>
+    <li id="q28-2">② 표현대리는 대리권을 수여한 본인을 보호하기 위한 것이기 때문.</li>
+    <li id="q28-3">③ 표현대리는 무권대리행위를 신뢰한 상대방에게 책임이 있을 때 성립하기 때문.</li>
+    <li id="q28-4">④ 무권대리임을 알 수 있었던 상대방은 무권대리행위로 이익을 얻기 때문.</li>
+    <li id="q28-5">⑤ 무권대리 상황에 상대방의 책임이 있으면 본인의 이익을 제한해 상대방을 보호할 필요가 없기 때문.<a class="src-tag" href="#ev19">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 표현대리의 목적(상대방 보호)에서 ㉠의 이유를 끌어낸다.</p>
+        <p>표현대리는 ‘대리행위를 신뢰한’ 상대방을 보호하는 제도다. 상대방이 무권대리임을 알았거나 부주의로 몰랐다면 <strong>상대방 측에 책임</strong>이 있으니, 본인 이익을 깎으면서까지 보호할 이유가 없다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>오답</td><td>위험 분담·본인 보호·상대방 이익 등 초점 어긋남.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>상대방에 책임 있으면 보호 불필요.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>[사례1]</b> ‘갑’은 2천만 원을 빌려 달라며 ‘을’에게 위임장을 줬다. 을은 서류를 다 갖춰 ○○은행에서 <b>3천만 원</b>을 빌려 2천만 원만 갑에게 주고 나머지는 가졌다. 은행은 을이 권한을 넘었는지 알 수 없었다.<br>
+    <b>[사례2]</b> ‘병’은 그림을 팔아달라며 ‘정’에게 위임장을 준 뒤 사망했다. 정은 ‘병’을 대리해 ‘무’와 매매계약을 했고, ‘무’는 병의 죽음을 알 수 없었다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q29-1">① [사례1]에서 ○○은행이 표현대리를 주장하지 않더라도, ‘갑’이 추인하면 ○○은행에 <strong>2천만 원만</strong> 갚으면 된다.<a class="src-tag" href="#ev21">지문 근거</a></li>
+    <li id="q29-2">② [사례1]에서 은행은 ‘을’에게 대리권이 있다고 믿을 수밖에 없었으므로 표현대리를 주장할 수 있다.</li>
+    <li id="q29-3">③ [사례2]에서 ‘무’가 ‘병’ 사망 전에도 ‘정’과 거래한 적이 있다면 대리권 소멸 후의 표현대리를 주장할 수 있다.</li>
+    <li id="q29-4">④ [사례2]에서 표현대리가 인정되면 ‘무’는 매매대금 지급 의무와 소유권 이전 청구권을 가진다.</li>
+    <li id="q29-5">⑤ [사례1]의 ‘을’은 권한 초과, [사례2]의 ‘정’은 대리권 없이 행위한 점에서 모두 무권대리다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘추인’의 효과가 ‘얼마’에 미치는지 본다.</p>
+        <p>갑이 추인하면 을의 무권대리행위(3천만 원 대출 전체)가 처음부터 정당했던 것과 같아진다. 따라서 갑은 <strong>3천만 원 전액</strong>을 갚아야 한다. ‘2천만 원만’이라는 ①이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>추인 → 3천만 원 전액 책임.</td></tr>
+          <tr><td>②</td><td>적절</td><td>믿을 수밖에 없던 이유(서류) 있음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>소멸 전 거래 경험 → 소멸 후 표현대리.</td></tr>
+          <tr><td>④</td><td>적절</td><td>인정되면 효과가 본인(무) 측에 귀속.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>권한 초과·대리권 없음 = 무권대리.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. 문맥상 의미가 ⓐ(떨어질)와 가장 가까운 것은?</p>
+  <ul class="q-opts">
+    <li id="q30-1">① 가게에서 파는 물건의 품질이 <u>떨어졌다</u>.</li>
+    <li id="q30-2">② 겨울에 감기가 <u>떨어지지</u> 않아 고생했다.</li>
+    <li id="q30-3">③ 빗방울이 <u>떨어지는</u> 소리에 귀를 기울였다.</li>
+    <li id="q30-4">④ 나는 침대에 눕자마자 깊은 잠에 <u>떨어진다</u>.</li>
+    <li id="q30-5">⑤ 식당은 본관과 조금 <u>떨어져</u> 있는 별관에 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ는 ‘수준·값이 낮아지다’의 뜻.</p>
+        <p>ⓐ‘신뢰도가 떨어지다’와 ①‘품질이 떨어졌다’는 모두 ‘<strong>값·수준이 낮아지다</strong>’의 뜻이다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>뜻</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>수준이 낮아지다(=ⓐ).</td></tr>
+          <tr><td>②</td><td>오답</td><td>병이 낫다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>위에서 아래로 내려지다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>상태에 빠지다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>거리를 두고 있다.</td></tr>
         </tbody>
       </table>
     </div>
