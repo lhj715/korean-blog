@@ -272,6 +272,11 @@ a:hover{text-decoration:underline}
 .q-opts li.opt-hl,.q-plan p.opt-hl{background:#e8f1fb;box-shadow:0 0 0 6px #e8f1fb}
 a.ev-tag{cursor:pointer;text-decoration:none}
 a.ev-tag:hover{background:#16487d}
+.src-tag{display:inline-block;font-size:10.5px;font-weight:700;color:var(--ev);background:#eaf1fb;
+  border:1px solid #c5d9f0;border-radius:3px;padding:0 6px;margin-left:6px;cursor:pointer;
+  vertical-align:middle;text-decoration:none;line-height:1.7;white-space:nowrap}
+.src-tag:hover{background:var(--ev);color:#fff;border-color:var(--ev);text-decoration:none}
+.passage .ev.ev-hl{background:#dbe8fa;box-shadow:0 0 0 3px #dbe8fa;border-radius:2px}
 .q-plan{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:14px 16px}
 .q-plan p{font-size:14px!important;line-height:1.7!important;color:var(--ink-mid);margin:0 0 8px!important}
 .q-plan p:last-child{margin-bottom:0!important}

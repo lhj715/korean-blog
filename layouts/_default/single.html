@@ -14,22 +14,38 @@
 </div>
 {{ if eq .Section "exams" }}
 <script>
+function scrollToEl(el, offset){
+  if(!el) return;
+  var y = el.getBoundingClientRect().top + window.pageYOffset - (offset || 70);
+  window.scrollTo({ top: y, behavior: 'smooth' });
+}
 document.addEventListener('click', function(e){
+  // 지문 배지 → 문제 시작으로 이동 + 선지 강조
   var a = e.target.closest('a.ev-tag');
-  if(!a) return;
-  e.preventDefault();
-  var optId = (a.getAttribute('href') || '').slice(1);   // 예: q3-5
-  var m = optId.match(/^q(\d+)-/);
-  if(!m) return;
-  var block = document.getElementById('prob' + m[1]);    // 문제 시작 블록
-  var opt = document.getElementById(optId);              // 강조할 선지
-  if(block){
-    var y = block.getBoundingClientRect().top + window.pageYOffset - 70;
-    window.scrollTo({ top: y, behavior: 'smooth' });
+  if(a){
+    e.preventDefault();
+    var optId = (a.getAttribute('href') || '').slice(1);   // 예: q3-5
+    var m = optId.match(/^q(\d+)-/);
+    if(!m) return;
+    scrollToEl(document.getElementById('prob' + m[1]));    // 문제 시작 블록
+    var opt = document.getElementById(optId);
+    if(opt){
+      document.querySelectorAll('.opt-hl').forEach(function(el){ el.classList.remove('opt-hl'); });
+      opt.classList.add('opt-hl');
+    }
+    return;
   }
-  if(opt){
-    document.querySelectorAll('.opt-hl').forEach(function(el){ el.classList.remove('opt-hl'); });
-    opt.classList.add('opt-hl');
+  // 선지의 '지문 근거' → 지문 밑줄로 이동 + 밑줄 강조
+  var s = e.target.closest('a.src-tag');
+  if(s){
+    e.preventDefault();
+    var evId = (s.getAttribute('href') || '').slice(1);    // 예: ev6
+    var ev = document.getElementById(evId);
+    scrollToEl(ev);
+    if(ev){
+      document.querySelectorAll('.ev-hl').forEach(function(el){ el.classList.remove('ev-hl'); });
+      ev.classList.add('ev-hl');
+    }
   }
 });
 </script>
