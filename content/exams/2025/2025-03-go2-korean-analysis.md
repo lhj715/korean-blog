@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~15번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~21번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -618,6 +618,221 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>㉢ 교체 2번, 개수 불변.</td></tr>
           <tr><td>④</td><td>적절</td><td>㉣ 교체 2+첨가 1, 개수↑.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>㉤ 첨가+교체, 개수↑.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set5" class="set-anchor"></div>
+
+## 16~21번 독서(인문) · 본유 관념을 둘러싼 로크와 라이프니츠
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) <strong>로크</strong>(경험론) → 본유 관념 부정 / (나) <strong>라이프니츠</strong>(합리론) → 로크 반박. ‘누가 무엇을 부정·인정하나’를 표로 잡는다.</p>
+  <ul>
+    <li><strong>로크(가)</strong> — 정신은 백지. 동일률·모순율도 경험으로 얻은 필연적 진리. ‘아이가 모름(㉠)’·‘단맛≠쓴맛은 감각(㉡)’으로 본유–보편 동의의 필연 관계 부정.</li>
+    <li><strong>라이프니츠(나)</strong> — 본유 관념 인정. 보편 동의는 ‘간접 증거’. 필연적 진리(동의와 무관히 참) vs 사실적 진리(경험·우연). 본유는 귀납이 아니라 <strong>이성</strong>으로 발견(단자론).</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 17번은 ‘사실적 진리는 우연(반드시 참 아님)’, 20번은 ‘라이프니츠는 본유를 귀납적 일반화로 보지 않음’이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[16 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다. 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="src-label">(가) 로크</p>
+  <p>본유론자들은 경험에 앞서 정신에 각인된 ‘본유적’인 것이 있고, 필연적 진리가 본유 관념이라 보편적으로 동의된다고 했다. <span class="ev" id="ev16r">경험론자 로크는 갓 태어난 정신을 ‘백지 상태’에 비유하며, 본유 관념도 경험으로 얻는다고 반박했다.</span><a class="ev-tag" href="#q16-3">16-③</a></p>
+  <p>본유론자가 본유 관념으로 보는 것이 동일률·모순율이다. 로크는 ㉠<span class="ev" id="ev16a">‘아이들은 동일률·모순율이 무엇인지 알지도 못하고 정신에 있는지조차 모른다’</span><a class="ev-tag" href="#q17-1">17-①</a>는 사례로 그 본유성을 부정했다.</p>
+  <p>또 로크는 ㉡<span class="ev" id="ev16b">‘단맛은 쓴맛이 아니다’는 필연적 진리(보편 동의)이지만 감각적 경험에서 비롯된 것</span><a class="ev-tag" href="#q19-4">19-④</a>이라, 본유 관념이면 보편 동의된다는 주장을 반박했다.</p>
+  <p><span class="ev" id="ev16c">로크는 백지 상태의 정신이 감각으로 ‘달다·쓰다’ 같은 개별 관념을 받아들이고, 추상 작용으로 일반화한다고 보았다. 동일률·모순율도 이 과정의 반복으로 알게 되며, 지식의 기원은 경험이다.</span><a class="ev-tag" href="#q17-2">17-②</a> 그의 주장에 ⓐ<u>따르면</u> 본유 관념은 경험으로 얻은 필연적 진리다.</p>
+  <p class="src-label">(나) 라이프니츠</p>
+  <p>합리론자 라이프니츠는 로크를 반박했다. 본유 관념을 이해한 사람은 누구나 동의한다면서도 필연 관계는 인정 안 했다 — <span class="ev" id="ev16e">동일률·모순율을 모르는 어린이가 있어 그 본유성이 보편적으로 동의된다는 것은 증명될 수 없기 때문이다. 다만 아이들은 ‘자각하지 못한 것’일 뿐이며, 자각한 모든 사람은 본유적이라 동의함이 자명하다(보편 동의 = 간접 증거).</span><a class="ev-tag" href="#q18-2">18-②</a><a class="ev-tag" href="#q19-2">19-②</a></p>
+  <p>라이프니츠는 지식을 <strong>필연적 진리</strong>(동의 여부와 무관히 참)와 <span class="ev" id="ev16d">사실적 진리(경험으로 인식, 필연성 없이 우연적으로 참, 개별·특수. 예: ‘사과는 빨갛다’)</span><a class="ev-tag" href="#q17-4">17-④</a>로 구분했다.</p>
+  <p><span class="ev" id="ev16f">로크가 말한 필연적 진리를 라이프니츠는 귀납적 일반화로 보았으나, 귀납은 필연적 진리가 참임을 확증하지 못하고 검증만 할 뿐이다. 본유 관념은 경험으로 주어질 수 없고 이성으로 발견·이해된다.</span><a class="ev-tag" href="#q20-5">20-⑤</a> 이는 그의 단자론(정신 단자 안에 본유 관념 내재)과 연결된다.</p>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① (가)와 달리 (나)는 한 철학자 견해의 시대적 변천과 한계를 서술한다.</li>
+    <li id="q16-2">② (나)와 달리 (가)는 특정 사례를 중심으로 한 철학자 간 논쟁을 소개한다.</li>
+    <li id="q16-3">③ (가)와 (나)는 모두 특정 철학자가 기존 주장을 반박한 내용을 소개한다.<a class="src-tag ans" href="#ev16r">정답 근거</a></li>
+    <li id="q16-4">④ (가)와 (나)는 모두 개념이 후대 철학자에게 계승된 양상을 소개한다.</li>
+    <li id="q16-5">⑤ (가)는 주장이 사회에 끼친 영향을, (나)는 주장의 등장 배경을 서술한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글의 공통 전개 방식을 본다.</p>
+        <p>(가)는 로크가 본유론자를, (나)는 라이프니츠가 로크를 <strong>반박</strong>한다. 둘 다 ‘기존 주장 반박’이므로 ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>시대적 변천 서술 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘논쟁’이 아니라 반론.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>둘 다 기존 주장 반박.</td></tr>
+          <tr><td>④</td><td>오답</td><td>후대 계승 양상 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>사회적 영향 서술 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. (가), (나)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q17-1">① 로크는 사례를 들어 본유 관념의 존재를 부정했다.<a class="src-tag" href="#ev16a">지문 근거</a></li>
+    <li id="q17-2">② 로크는 필연적 진리가 인간의 경험에서 기원한다고 보았다.<a class="src-tag" href="#ev16c">지문 근거</a></li>
+    <li id="q17-3">③ 라이프니츠는 지식 획득에 대한 로크 주장의 한계를 파악했다.</li>
+    <li id="q17-4">④ 라이프니츠는 필연적 진리와 사실적 진리 모두 반드시 참인 명제로 보았다.<a class="src-tag ans" href="#ev16d">정답 근거</a></li>
+    <li id="q17-5">⑤ 라이프니츠는 로크의 본유 관념 비판이 자신의 단자론 비판이 될 수 있다고 보았다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘사실적 진리’가 반드시 참인지 본다.</p>
+        <p>라이프니츠에게 <strong>사실적 진리는 필연성이 없고 우연적으로 참</strong>인 명제다. ‘반드시 참’이 아니므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠ 사례로 본유 부정.</td></tr>
+          <tr><td>②</td><td>적절</td><td>지식의 기원=경험.</td></tr>
+          <tr><td>③</td><td>적절</td><td>로크 한계 파악.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>사실적 진리는 우연(반드시 참 아님).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>단자론 비판 가능성 인식.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. ‘로크’와 ‘라이프니츠’ 모두 동의할 수 있는 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 인간은 감각을 통해 개별 관념을 파악할 수 없다.</li>
+    <li id="q18-2">② 필연적 진리가 반드시 보편적으로 동의되는 것은 아니다.<a class="src-tag ans" href="#ev16e">정답 근거</a></li>
+    <li id="q18-3">③ 정신에 새겨진 필연적 진리는 반드시 감각되어야 한다.</li>
+    <li id="q18-4">④ 본유 관념이 아닌 지식과 본유 관념인 지식은 구분되지 않는다.</li>
+    <li id="q18-5">⑤ 필연적 진리는 정신에 내재한 개별적·특수한 지식이다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 사람의 ‘공통 인정’을 찾는다.</p>
+        <p>로크는 ‘아이 사례’로, 라이프니츠는 ‘어린이 존재로 보편 동의는 증명 불가’로 — 둘 다 <strong>필연적 진리가 반드시 보편 동의되는 건 아니다</strong>에 동의한다. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>둘 다 감각으로 개별 관념 파악 인정.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>보편 동의 ↔ 필연 관계 부정(공통).</td></tr>
+          <tr><td>③·④·⑤</td><td>오답</td><td>감각 필수·구분 불가·개별 지식은 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. ㉠, ㉡에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① ㉠은 로크에게, 동일률·모순율이 본유적이지 않다는 근거가 된다.<a class="src-tag" href="#ev16a">지문 근거</a></li>
+    <li id="q19-2">② ㉠은 라이프니츠에게, 아이가 본유 관념을 자각하지 못해 생긴 결과다.<a class="src-tag" href="#ev16e">지문 근거</a></li>
+    <li id="q19-3">③ ㉡은 로크에게, 일반화하는 추상 작용을 거치면 <strong>거짓</strong>으로 인정된다.<a class="src-tag ans" href="#ev16b">정답 근거</a></li>
+    <li id="q19-4">④ ㉡은 라이프니츠에게, 본유 관념으로 추론한 지식이 아니다.</li>
+    <li id="q19-5">⑤ ㉡은 로크와 라이프니츠 모두에게, 감각적 경험에서 비롯된 지식이다.<a class="src-tag" href="#ev16b">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉡(단맛≠쓴맛)이 ‘거짓’이 되는지 본다.</p>
+        <p>㉡은 <strong>필연적 진리</strong>이므로 거짓이 아니다. 추상 작용을 거친다고 거짓이 되는 게 아니므로 ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠ = 본유 부정 근거.</td></tr>
+          <tr><td>②</td><td>적절</td><td>㉠ = 자각 못 한 결과(라이프니츠).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>㉡은 필연적 진리(거짓 아님).</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉡은 본유로 추론한 지식 아님.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>㉡ = 감각 경험에서 비롯.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. (가), (나)를 바탕으로 〈보기〉에 대해 보일 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>A 이론</b>: 아동은 언어 지식 없이 시작해 성인의 자극을 모방·시행착오하며 모국어를 학습, 문법 규칙을 알게 된다.<br>
+    <b>B 이론</b>: 아동은 모든 언어에 적용될 보편적·필연적 문법 규칙을 갖고 태어나, 그 규칙으로 자료를 일반화한 가설을 만들고 발화에서 검증하며 학습한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q20-1">① A의 규칙이 언어적 자극에서 시작된 학습이라는 점에서, 본유론자는 A를 본유적으로 보지 않는다.</li>
+    <li id="q20-2">② A의 아동이 규칙 전에 자극을 받는다는 점에서, 로크는 A 규칙을 경험에서 비롯된 것으로 본다.</li>
+    <li id="q20-3">③ B의 보편 규칙이 태어날 때부터 지닌 것이라는 점에서, 본유론자는 B를 본유적으로 본다.</li>
+    <li id="q20-4">④ B의 보편 규칙이 필연적이라는 점에서, 라이프니츠는 그것을 자각한 모두의 보편 동의가 명백하다고 본다.</li>
+    <li id="q20-5">⑤ B 규칙이 가설 검증을 거친다는 점에서, 로크와 라이프니츠는 모두 B 규칙을 <strong>귀납적 일반화</strong>의 결과로 본다.<a class="src-tag ans" href="#ev16f">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 라이프니츠가 본유(B)를 ‘귀납’으로 보는지 본다.</p>
+        <p>라이프니츠에게 본유 관념은 경험으로 주어질 수 없고 <strong>이성으로 발견</strong>되는 것이다. B를 ‘귀납적 일반화의 결과’로 보지 않으므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>경험 기반 A → 본유 아님.</td></tr>
+          <tr><td>②</td><td>적절</td><td>로크: A=경험.</td></tr>
+          <tr><td>③</td><td>적절</td><td>본유론자: B=본유.</td></tr>
+          <tr><td>④</td><td>적절</td><td>라이프니츠: 자각한 모두 동의 명백.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>라이프니츠는 본유를 이성으로 봄(귀납 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. ⓐ(따르면)와 문맥상 의미가 가장 가까운 것은?</p>
+  <ul class="q-opts">
+    <li id="q21-1">① 그 사건은 내부 규정에 <u>따라</u> 처리되었다.</li>
+    <li id="q21-2">② 그는 산길을 <u>따라</u> 매일 산책했다.</li>
+    <li id="q21-3">③ 어머니는 할머니를 <u>따라</u> 재래시장에 갔다.</li>
+    <li id="q21-4">④ 학생들은 학생회장을 <u>따라</u> 자리에서 일어섰다.</li>
+    <li id="q21-5">⑤ 다리 부상이 회복됨에 <u>따라</u> 훈련 시간도 길어졌다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ는 ‘기준·사실에 의거하면’의 뜻.</p>
+        <p>ⓐ‘주장에 따르면’과 ①‘규정에 따라’는 모두 ‘<strong>기준·사실에 의거</strong>’의 뜻이다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>뜻</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>기준에 의거(=ⓐ).</td></tr>
+          <tr><td>②</td><td>오답</td><td>경로를 끼고 가다.</td></tr>
+          <tr><td>③·④</td><td>오답</td><td>뒤를 좇다·남대로 하다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>더불어 일어나다.</td></tr>
         </tbody>
       </table>
     </div>
