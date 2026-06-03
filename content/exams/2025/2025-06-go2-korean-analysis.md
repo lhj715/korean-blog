@@ -12,7 +12,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -26,6 +26,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set8">31~34 현대소설</a>
   <a href="#set9">35~37 현대시</a>
   <a href="#set10">38~42 독서(주제 통합)</a>
+  <a href="#set11">43~45 고전소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1689,6 +1690,132 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>한정 = 제한해 정함.</td></tr>
           <tr><td>④</td><td>적절</td><td>내포 = 속에 품음.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>추출 = 뽑아냄.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 고전소설 · 「백봉선전」 — 여러 영웅의 국난 극복담
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>여러 영웅이 힘을 합쳐 <strong>국난을 막고 가족(아버지 활수)을 구하는</strong> 영웅 소설이다.</p>
+  <ul>
+    <li><strong>여러 영웅</strong> — 백봉·백선 형제와 화룡이 함께 적장 철남·호왕과 맞선다.</li>
+    <li><strong>뛰어난 적대자</strong> — 철남은 신장(무속 신)의 도움으로 운무·불·초인(허인)으로 영웅을 속인다.</li>
+    <li><strong>조력자 각각</strong> — 영웅에겐 <strong>망월대사</strong>, 적대자에겐 <strong>신장</strong>이 있다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 43번은 ‘부채로 불을 끈 건 화룡(철남 아님)’, 45번은 ‘백봉은 호왕을 안 쫓고 본진 복귀’(활수에게 간 게 아님)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.</p>
+  <p class="muted">[앞부분 줄거리] 백봉·백선은 포로가 된 아버지 백활수를 구하려 망월대사 밑에서 수련하고, 화룡은 병법을 익힌다. 호국이 세자를 잡아가자 황제는 백봉을 원수로 삼아 호국과 싸우게 한다. 적장 철남은 신장을 불러 운무를 일으킨다.</p>
+  <p>운무 속에서 백봉이 백선을 찾았으나 동생과 신장을 분간할 수 없었다. 형제가 금사진에 싸여 위태롭자 망월대사가 외쳤다. “봉과 선아, 그 말이 정신을 잃게 하지 말라.” 형제가 정신을 차려 말을 채찍질하니 진중을 벗어나 화룡을 데리고 돌아왔다.</p>
+  <p>이튿날 철남을 쫓던 형제는 산곡에서 ‘허인(虛人)’만 보고 흉계임을 알았고, 사방에서 불이 일었다. <span class="ev" id="ev36">화룡 일행이 달려들어 목을 친 것은 철남이 아니라 ‘초인(草人)’이었고, 화룡이 부채를 거꾸로 잡아 ‘물 수(水)’ 자를 써 흑운·풍우를 일으켜 불을 껐다.</span><a class="ev-tag" href="#q43-2">43-②</a></p>
+  <p>황제는 충천한 불길을 보고 형제가 죽었다 여겨 자결하려 했다. 철남이 황제를 위협하자, 불을 피해 온 형제가 적진에서 세자를 구출하고, 철남의 창 든 팔을 칠성검으로 베어 황제를 구했다.</p>
+  <p class="muted">(중략)</p>
+  <p>봉과 선이 호왕에게 외쳤다. <span class="ev" id="ev37">“개 같은 호왕은 들으라. 네가 강포만 믿고 범람한 뜻을 두매 우리 황제가 진노하사 네 죄를 물으라 하시니, 나의 부친을 모시고 내게 와 항복하라. 그러지 않으면 너의 나라를 소멸하리라.”</span><a class="ev-tag" href="#q44-4">44-[B]</a></p>
+  <p>호왕이 십여 합을 싸우다 본진으로 달아나자, <span class="ev" id="ev38">백봉은 ‘적진에 흉계가 있도다’ 생각해 쫓지 않고 본진으로 돌아왔다.</span><a class="ev-tag" href="#q45-5">45-⑤</a> 호왕은 진문을 닫고 활수를 잡아내 협박했다. “네가 항복 안 하면 네 자식과 함께 죽이리라.”</p>
+  <div class="seg" id="segA"><p class="seg-label">[A]</p><p>활수가 분노했다. “우리 삼부자가 다 죽을지언정 어찌 네게 항복하랴.”</p></div>
+  <p>형제는 ‘한칼로 적진을 소멸코자 하되 진중에 들어가 어찌 옥석을 분별하리오’ 하며 통곡했다.</p>
+  <p class="muted" style="text-align:right">— 작자 미상, 「백봉선전」</p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① ‘활수’는 항복하라는 ‘호왕’의 협박에 굴복하지 않는다.</li>
+    <li id="q43-2">② ‘철남’은 부채로 흑운을 일으켜 번져오는 불길을 끈다.<a class="src-tag" href="#ev36">지문 근거</a></li>
+    <li id="q43-3">③ ‘화룡’은 ‘철남’이 불길을 피해 마주 나왔다고 착각한다.</li>
+    <li id="q43-4">④ ‘황제’는 ‘백봉’·‘백선’이 ‘철남’에게 패배했다고 생각한다.</li>
+    <li id="q43-5">⑤ ‘백봉’은 운무 때문에 적진에서 적과 아군을 구분하지 못한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘누가’ 부채로 불을 껐는지 본다.</p>
+        <p>부채를 거꾸로 잡아 ‘물 수’ 자를 써 흑운으로 불을 끈 것은 <strong>화룡 일행</strong>이다. ②는 ‘철남’이라 했으니 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>활수가 항복 거부.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>불을 끈 건 화룡(철남 아님).</td></tr>
+          <tr><td>③</td><td>적절</td><td>나온 건 초인(철남 착각).</td></tr>
+          <tr><td>④</td><td>적절</td><td>불길 보고 패배·죽음 생각.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>운무로 적·아군 구분 못 함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. [A](활수의 말)와 [B](봉선이 호왕에게 한 말)에 관한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① [A]는 [B]와 달리 구체적 사건을 언급하며 문제 상황에 대한 판단을 유보한다.</li>
+    <li id="q44-2">② [A]는 [B]와 달리 우월한 지위로 상대의 반박을 차단한다.</li>
+    <li id="q44-3">③ [B]는 [A]와 달리 자신들의 처지를 하소연해 부탁을 들어주도록 유도한다.</li>
+    <li id="q44-4">④ [B]는 [A]와 달리 상대의 잘못을 지적하며 요구 사항을 전달한다.<a class="src-tag" href="#ev37">지문 근거</a></li>
+    <li id="q44-5">⑤ [A]·[B]는 모두 상대가 입을 피해를 언급해 제안에 응하도록 설득한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 발화의 의도를 가른다.</p>
+        <p>[B]에서 봉선은 호왕의 잘못(강포·범람)으로 황제가 진노했다고 <strong>지적</strong>하며, ‘부친을 모시고 항복하라’는 <strong>요구</strong>를 전한다. [A]는 단순 거부다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>[A]는 판단 유보 없음(단호한 거부).</td></tr>
+          <tr><td>②</td><td>오답</td><td>[A]는 우월 지위·반박 차단 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>[B]는 하소연·부탁 아님.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>[B] = 잘못 지적 + 요구.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>[A]는 피해 언급·설득 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>이 작품은 국난 극복과 가족 구출이 함께 드러나는 영웅 소설이다. 다른 영웅 소설과 달리 <b>여러 영웅</b>이 등장하고, <b>적대자의 능력도 뛰어나며</b>, 영웅과 적대자에게 <b>도움을 주는 존재가 각각</b> 있다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① 백봉·백선·화룡이 함께 철남과 대결하는 데서 다수의 영웅을 확인할 수 있다.</li>
+    <li id="q45-2">② 철남이 세 장수를 유인하고 황제에게 가는 데서 적대자의 뛰어난 지략을 확인할 수 있다.</li>
+    <li id="q45-3">③ 백봉·백선이 세자를 구출하고 황제를 구하는 데서 국난 극복 과정을 확인할 수 있다.</li>
+    <li id="q45-4">④ 백봉에게 망월대사가, 철남에게 신장이 있는 데서 조력자가 각각 있음을 확인할 수 있다.</li>
+    <li id="q45-5">⑤ 백봉이 후퇴하는 호왕을 쫓지 않고 <strong>활수에게 향하는</strong> 데서 가족을 구하려는 모습을 확인할 수 있다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 백봉이 호왕을 쫓지 않고 ‘어디로’ 갔는지 본다.</p>
+        <p>백봉은 호왕의 후퇴를 ‘흉계’로 보고 쫓지 않고 <strong>본진으로 돌아왔다</strong>. ‘활수에게 향했다’는 ⑤는 사실과 달라 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>세 장수의 공동 대결.</td></tr>
+          <tr><td>②</td><td>적절</td><td>유인·협박 = 적의 지략.</td></tr>
+          <tr><td>③</td><td>적절</td><td>세자·황제 구출 = 국난 극복.</td></tr>
+          <tr><td>④</td><td>적절</td><td>망월대사·신장 = 조력자 각각.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>활수에게 간 게 아니라 본진 복귀.</td></tr>
         </tbody>
       </table>
     </div>
