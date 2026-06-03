@@ -12,7 +12,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~42번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -26,6 +26,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set8">31~33 고전 시가</a>
   <a href="#set9">34~38 갈래 복합</a>
   <a href="#set10">39~42 현대 소설</a>
+  <a href="#set11">43~45 고전 소설</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -421,8 +422,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q10-1">① (가): 리프트 소외감을 ‘전용 시설이 사람을 구분 짓는다’ 근거로 2문단에 제시.</li>
-    <li id="q10-2">② (가): 엘리베이터 수혜 대상을 근거로 ‘연령·질병·언어를 고려하는 이유’로 3문단에 추가.</li>
-    <li id="q10-3">③ (나): 외국인 주민·관광객 다양화를 근거로 ‘언어 측면의 필요성’으로 <strong>4문단</strong>에 추가.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
+    <li id="q10-2">② (가): 엘리베이터 수혜 대상을 근거로 ‘연령·질병·<strong>언어</strong>를 고려하는 이유’로 3문단에 추가.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
+    <li id="q10-3">③ (나): 외국인 주민·관광객 다양화를 근거로 ‘언어 측면의 필요성’으로 4문단에 추가.</li>
     <li id="q10-4">④ (다): 레버식 손잡이·미끄럼 방지를 ‘조작 용이·안전 설계’ 사례로 3문단에 제시.</li>
     <li id="q10-5">⑤ (다): 의료비 절감액을 ‘사회적 비용이 줄 수 있다’ 근거로 4문단에 제시.</li>
   </ul>
@@ -430,16 +431,16 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 자료의 ‘측면·문단’이 맞는지 본다.</p>
-        <p>외국인 주민·관광객 다양화는 유니버설 디자인이 다루는 ‘<strong>언어 차이(3문단의 확대된 요인)</strong>’와 연결된다. 4문단(고령화 필요성)에 ‘언어 측면 필요성’으로 넣는 것은 어긋나므로 ③이 적절하지 않다.</p>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 자료가 ‘그 근거’로 쓰일 수 있는지 본다.</p>
+        <p>(가)의 엘리베이터 수혜 대상은 휠체어 사용자·짐 든 사람으로, 연령·질병과는 관련될 수 있어도 ‘<strong>언어</strong>’와는 무관하다. 따라서 ‘연령·질병·언어를 고려하는 이유’의 근거로는 쓸 수 없으므로 ②가 적절하지 않다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
           <tr><td>①</td><td>적절</td><td>소외감 = 구분 짓는 문제(2문단).</td></tr>
-          <tr><td>②</td><td>적절</td><td>다양한 수혜 = 요인 확대(3문단).</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>언어는 3문단 요인(4문단 아님).</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>엘리베이터 수혜 대상은 ‘언어’와 무관.</td></tr>
+          <tr><td>③</td><td>적절</td><td>외국인 다양화 = 언어 측면 필요성(4문단).</td></tr>
           <tr><td>④</td><td>적절</td><td>손잡이·바닥 = 구현 사례(3문단).</td></tr>
           <tr><td>⑤</td><td>적절</td><td>의료비 절감 = 사회 비용↓(4문단).</td></tr>
         </tbody>
@@ -505,31 +506,31 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">12. 〈보기〉의 ㉠~㉤에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>문장: ‘철수가 학급 회장이 되었다’ / ‘영희가 철수를 불렀다’ / ‘영희가 학급 회장을 불렀다’.<br>
-    첫 문장이 둘째에 관형사절로 들어간 문장은 ㉠(주어 ‘철수가’ 생략), 셋째에 들어간 문장은 ㉡(㉢ ‘학급 회장이’ 생략). ‘학급 회장이’가 생략되며 ‘철수가’가 ㉣처럼 쓰여 의미가 달라진다. → 주어 생략은 의미 보존, <b>㉤</b> 생략은 의미 변화.</p>
+    <p>[학습 과제] 세 문장 — ‘철수가 학급 회장이 되었다’ / ‘영희가 철수를 불렀다’ / ‘영희가 학급 회장을 불렀다’.<br>
+    첫 문장이 둘째에 관형사절로 들어간 것은 <b>㉠</b>(주어 ‘철수가’ 생략), 셋째에 들어간 것은 <b>㉡</b>(첫 문장의 <b>㉢</b>인 ‘학급 회장이’ 생략). ‘학급 회장이’가 생략되며 관형사절의 ‘철수가’가 <b>㉣</b>처럼 쓰여 의미가 달라진다. → 주어 생략은 의미 보존, <b>㉤</b> 생략은 의미 변화.</p>
   </div>
   <ul class="q-opts">
     <li id="q12-1">① ㉠: ‘영희가 학급 회장이 된 철수를 불렀다.’</li>
-    <li id="q12-2">② ㉡: ‘영희가 철수가 된 학급 회장을 불렀다.’<a class="src-tag ans" href="#ev12">정답 근거</a></li>
+    <li id="q12-2">② ㉡: ‘영희가 철수가 된 학급 회장을 불렀다.’</li>
     <li id="q12-3">③ ㉢: 보어</li>
-    <li id="q12-4">④ ㉣: 주어</li>
+    <li id="q12-4">④ ㉣: <strong>주어</strong><a class="src-tag ans" href="#ev12">정답 근거</a></li>
     <li id="q12-5">⑤ ㉤: 보어</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 보어를 생략한 관형사절이 성립하는지 본다.</p>
-        <p>‘철수가 학급 회장이 되었다’에서 보어 ‘학급 회장이’를 생략하면 ‘철수가 된 학급 회장’이 되어 ‘철수가’가 보어처럼 해석돼 <strong>의미가 달라진다</strong>(원래 뜻의 관형사절이 못 됨). ②의 문장은 그래서 적절하지 않다.</p>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘철수가’가 ㉣ 자리에서 어떤 성분으로 쓰이는지 본다.</p>
+        <p>보어 ‘학급 회장이’가 생략되면, 원래 주어였던 ‘철수가’는 더 이상 주어로 쓰이지 못하고 ‘되다’ 앞에서 <strong>보어처럼</strong> 해석된다. 따라서 ㉣은 ‘주어’가 아니라 ‘보어’여야 하므로 ④가 적절하지 않다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>적절</td><td>주어 생략 → 의미 보존.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>보어 생략 → 의미 달라져 성립 X.</td></tr>
-          <tr><td>③</td><td>적절</td><td>‘학급 회장이’ = 보어.</td></tr>
-          <tr><td>④</td><td>적절</td><td>‘철수가’가 주어처럼.</td></tr>
+          <tr><td>①</td><td>적절</td><td>㉠=‘…된 철수를 불렀다’(주어 생략).</td></tr>
+          <tr><td>②</td><td>적절</td><td>㉡=‘…철수가 된 학급 회장을 불렀다’.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘학급 회장이’=보어.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>‘철수가’는 보어처럼 쓰임(주어 X).</td></tr>
           <tr><td>⑤</td><td>적절</td><td>보어 생략 시 의미 변화.</td></tr>
         </tbody>
       </table>
@@ -1663,6 +1664,133 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr class="correct"><td>③</td><td class="ok">부적절</td><td>서술자 시점 정보 — 아이는 구분 ‘인식 못함’.</td></tr>
           <tr><td>④</td><td>적절</td><td>‘비수 같은 의식’=본능적 반응.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>두 행동의 의도 차이=비인간성과 이면.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 문학(고전 소설) · 작자 미상 〈옥란전〉
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>권세 잡은 환관 강환의 ‘늑혼(억지 혼인)’ 시도로 빚어진 혼사 장애담이다. 사건 ‘순서’와 인물의 ‘희생’이 출제 핵심.</p>
+  <ul>
+    <li><strong>발단</strong> — 장 학사가 강환의 구혼을 거절(송 시랑과 선약) → 강환이 송 시랑을, 이어 장 학사를 투옥.</li>
+    <li><strong>흉계</strong> — 강환이 장 학사의 가짜 편지([A])로 옥란을 유인.</li>
+    <li><strong>저항</strong> — 옥란이 꿈에서 부친의 경고([B])를 듣고, 옥계·영진과 옷을 바꿔 입고 도주. 영진이 ‘옥란인 척’ 대신 잡힘.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 43번은 ‘상소 짓기 전에 옥교자를 보냈다’는 순서 뒤집기, 44번은 [A](가짜 편지)의 신뢰성을 [B](꿈)가 무너뜨림, 45번은 ‘도주=늑혼 저항’(늑혼을 모른 채 부친 구하려 한 것)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p class="passage-note">[앞부분 줄거리] 한림학사 장사운은 딸 옥란을 송 시랑의 아들과 정혼시킨다. 환관 강환은 이를 알고도 자기 아들과 옥란을 강제로 혼인시키려 한다.</p>
+  <p>장 학사가 강환의 구혼을 거절하니, 강환이 크게 노하여 “송 시랑을 먼저 처치하리라.” 하고 <span class="ev" id="ev45-3">즉시 천자에게 참소하여 송 시랑을 의금부 신문에 부쳤다.</span><a class="ev-tag" href="#q45-3">45-③</a> 장 학사가 옥중의 송 시랑을 찾으니, <span class="ev" id="ev43-1">시랑은 “나는 죽어도 약속을 변경할 뜻은 없다.” 하였다.</span><a class="ev-tag" href="#q43-1">43-①</a></p>
+  <p><span class="ev ans" id="ev43-2">학사가 명백한 상소를 지어 궐문에 들어가니, 강환이 그 사연을 알고 금오랑에게 명해 북지옥에 가두었다.</span><a class="ev-tag ans" href="#q43-2">43-②</a> 학사가 탄식하기를 “원수 놈 강환이 나를 천한 출생이라 깔보아 이 지경이 되니, 내 앞으로 옥귀신이 될지언정 <span class="ev" id="ev45-1">옥같은 옥란을 환관놈에게 보내리오.</span><a class="ev-tag" href="#q45-1">45-①</a> <span class="ev" id="ev43-3">저 애들에게 편지도 통할 수 없으니 이 변란을 어떻게 전하겠는가.”</span><a class="ev-tag" href="#q43-3">43-③</a></p>
+  <p>이때 강환이 학사의 뜻이 변치 않을 줄 알고, ‘가짜 편지를 만들어 옥란을 데려다 늑혼하리라.’ 하여, <span class="ev ans" id="ev43-2b">사운의 편지를 만들어 황문 위졸 수십을 명해 옥교자를 가지고 장사운 집으로 보냈다.</span><a class="ev-tag ans" href="#q43-2">(43-② 순서)</a></p>
+  <p class="passage-note">[A] (강환이 꾸민 가짜 편지)</p>
+  <blockquote>‘옥란아, 옥계야, 너희 잘 있느냐? 아비는 천행으로 한림학사가 되었다. <span class="ev" id="ev44a">너의 현숙함이 경성에 자자하여 명문거족이 다투어 구혼하니, 그 중 높은 가세와 출중한 사람을 구하여 정혼하였으니 사촌 영진과 함께 올라오라.’</span><a class="ev-tag" href="#q44-3">44-[A]</a></blockquote>
+  <p>옥란 형제가 편지를 보고 길을 떠나, 하간부에서 잠드니 비몽사몽간에 학사가 목에 칼을 쓰고 들어와 옥란의 손을 잡고 통곡하며,</p>
+  <p class="passage-note">[B] (꿈속 장 학사의 말)</p>
+  <blockquote>“나는 북지옥에 갇혀 죽을 날이 머지않다. <span class="ev ans" id="ev44b">소인의 흉계로 너를 데려오니, 올라오면 헤아릴 수 없는 욕을 볼 것이니 어떻게 하더라도 도피하여 강포지옥을 면하라.</span><a class="ev-tag ans" href="#q44-3">44-[B]</a> 하남 땅 송 시랑의 집에 가서 의탁하라.”</blockquote>
+  <p>옥란이 놀라 깨어 옥계·영진과 의논하니, <span class="ev" id="ev43-4">옥계가 “각각 헤어져 가다가 경성에서 만나면 대인의 신원을 알 것이고, 함께 도주하다 하인에게 잡히면 다 죽음을 면치 못하리라.” 하였다.</span><a class="ev-tag" href="#q43-4">43-④</a> <span class="ev" id="ev45-4">세 사람이 옷을 바꿔 입고 밤에 성의 담을 넘는데,</span><a class="ev-tag" href="#q45-4">45-④</a> 옥란·옥계가 넘고 영진이 나중에 넘다 수문졸에게 붙들렸다.</p>
+  <p>황문 위졸이 와서 <span class="ev" id="ev43-5">“우리가 장 학사의 명을 받아 왔는데 이렇게 가면 우린 죽는다. 옥계 낭자는 어디 있는가?”</span><a class="ev-tag" href="#q43-5">43-⑤</a> 하니, <span class="ev ans" id="ev45-5">영진이 옥란의 종적이 탄로 날까 하여 ‘옥란인 척’ 말소리를 유순하게 하여 둘러댔다.</span><a class="ev-tag ans" href="#q45-5">45-⑤</a> 영진의 모양이 옥란과 똑같은지라.</p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① 강환이 참소한 후에도 송 시랑은 장 학사에게 정혼을 유지할 뜻을 밝혔다.<a class="src-tag" href="#ev43-1">지문 근거</a></li>
+    <li id="q43-2">② 장 학사가 상소를 짓기 전에 강환은 장 학사의 집으로 옥교자와 하인들을 보냈다.<a class="src-tag ans" href="#ev43-2">정답 근거</a></li>
+    <li id="q43-3">③ 북지옥에 갇힌 장 학사는 자신에게 일어난 일을 가족에게 전달할 방법이 없을 것이라 생각했다.<a class="src-tag" href="#ev43-3">지문 근거</a></li>
+    <li id="q43-4">④ 옥계는 각자 흩어져서 경성으로 가야 하는 이유를 옥란에게 설명했다.<a class="src-tag" href="#ev43-4">지문 근거</a></li>
+    <li id="q43-5">⑤ 황문 위졸은 영진에게 자신이 장 학사의 명에 의해서 왔다고 말했다.<a class="src-tag" href="#ev43-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 사건의 ‘순서’가 맞는지 본다.</p>
+        <p>장 학사는 ‘상소를 지어 궐문에’ 들어간 뒤 강환에게 투옥됐고, <strong>그 후에야</strong> 강환이 가짜 편지로 옥교자·하인을 보냈다. 상소를 짓기 ‘전에’ 보낸 것이 아니므로 ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>송 시랑 “약속 변경 뜻 없다”.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>옥교자는 상소·투옥 ‘이후’.</td></tr>
+          <tr><td>③</td><td>적절</td><td>“편지도 통할 수 없으니” 탄식.</td></tr>
+          <tr><td>④</td><td>적절</td><td>옥계가 흩어질 이유 설명.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>위졸 “장 학사의 명을 받아 왔는데”.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① [A]를 통해 전달된 상황의 당위성은 [B]를 계기로 드러나게 된 사실로 강화된다.</li>
+    <li id="q44-2">② [A]를 통해 전달된 인물에 대한 평가는 [B]를 계기로 구체성을 확보하게 된다.</li>
+    <li id="q44-3">③ [A]를 통해 전달된 상황에 대한 정보는 [B]를 계기로 신뢰성을 의심받게 된다.<a class="src-tag ans" href="#ev44a">정답 근거([A])</a><a class="src-tag ans" href="#ev44b">정답 근거([B])</a></li>
+    <li id="q44-4">④ [A]를 통해 전달된 인물의 숨겨진 내력은 [B]를 계기로 세상에 알려지게 된다.</li>
+    <li id="q44-5">⑤ [A]를 통해 전달된 인물들 간의 갈등은 [B]를 계기로 심화되어 나타나게 된다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]의 정보가 [B] 때문에 ‘어떻게’ 되는지 본다.</p>
+        <p>[A](가짜 편지)는 ‘정혼해 두었으니 올라오라’는 정보를 준다. [B]에서 장 학사가 ‘<strong>소인의 흉계로 너를 데려오니</strong>… 도피하라’ 하면서, [A]의 정보는 믿을 수 없는 것으로 <strong>신뢰성을 의심받게</strong> 된다. ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>[A]에 당위성 내용 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>[B]에 평가의 구체화 없음.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>[B]가 [A] 정보를 의심하게 함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>숨겨진 내력 공개 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>[A]에 인물 간 갈등 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>〈옥란전〉에서 혼사는 가문 간 결합으로 가문의 명망을 높이는 수단이다. 주인공 가문은 명망이 떨어질 가능성 때문에 늑혼을 거부하고, 이때 드러난 가문의 취약성은 심각한 위기를 부른다. 주인공과 주변 인물들은 가문 공동체의 일원으로서 위기에 적극 저항한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① 장 학사가 ‘옥귀신’이 될 것을 각오하면서까지 ‘환관놈’ 강환과의 혼사를 거부하는 것은, 혼사가 가문의 명망을 높이는 수단이라는 전제에 기반하겠군.<a class="src-tag" href="#ev45-1">지문 근거</a></li>
+    <li id="q45-2">② 강환이 장 학사를 ‘서촉의 천한 출생’이라 깔보며 분노하는 것은, 주인공 가문의 취약성을 드러내어 위기 가능성을 시사하는군.</li>
+    <li id="q45-3">③ 송 시랑이 ‘의금부의 신문’을 받게 된 것은, 주인공 가문에 닥칠 위기가 결합을 앞둔 다른 가문에서 먼저 현실화된 것이겠군.<a class="src-tag" href="#ev45-3">지문 근거</a></li>
+    <li id="q45-4">④ 옥란 형제가 ‘도주’하다 잡혀 죽을 수 있음을 알면서도 ‘성의 담’을 넘은 것은, 가문의 명망을 위해 <strong>늑혼에 저항</strong>하기 위해서이겠군.<a class="src-tag ans" href="#ev45-4">정답 근거</a></li>
+    <li id="q45-5">⑤ 영진이 ‘옥란인 척’하며 ‘옥란의 종적’을 숨긴 것은, 가문 공동체의 일원으로서 희생을 마다하지 않는 행동이겠군.<a class="src-tag" href="#ev45-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 도주의 ‘동기’가 늑혼 저항이 맞는지 본다.</p>
+        <p>옥란 형제의 도주는 위기에 빠진 <strong>부친을 구하려는</strong> 행동이다. 이들은 아직 강환의 <strong>늑혼 시도를 알지 못한</strong> 상태였으므로 ‘늑혼에 저항하기 위해서’라는 ④는 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>혼사=명망 수단 전제.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘천한 출생’=가문 취약성.</td></tr>
+          <tr><td>③</td><td>적절</td><td>송 시랑 투옥=위기의 선현실화.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>늑혼을 모른 채 부친 구하려 한 행동.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>영진의 대신 잡힘=공동체적 희생.</td></tr>
         </tbody>
       </table>
     </div>
