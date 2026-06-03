@@ -1,0 +1,66 @@
+{{ define "main" }}
+<div class="wrap">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+  </div>
+
+  <nav class="exam-bc" id="exam-bc"></nav>
+  <div class="exam-nav" id="exam-panel"></div>
+</div>
+
+<script>
+const EXAM_INDEX = {{ .Site.Data.exam_index }};
+const GRADE = { go1: "고1", go2: "고2", go3: "고3" };
+const panel = document.getElementById('exam-panel');
+const bc = document.getElementById('exam-bc');
+let cur = { grade: null, year: null };
+
+function crumb(items){
+  bc.innerHTML = '<a data-act="home">기출</a>' + items.map(function(it){
+    return '<span class="sep">›</span>' + (it.act ? '<a data-act="'+it.act+'">'+it.label+'</a>' : '<span class="now">'+it.label+'</span>');
+  }).join('');
+}
+function renderGrades(){
+  cur = { grade: null, year: null };
+  crumb([]);
+  let h = '<p class="exam-hint">학년을 선택하세요.</p><div class="grade-grid">';
+  ['go1','go2','go3'].forEach(function(g){
+    var yrs = Object.keys(EXAM_INDEX[g] || {}).length;
+    h += '<button class="grade-card" data-g="'+g+'"><strong>'+GRADE[g]+'</strong><span>'+yrs+'개 연도</span></button>';
+  });
+  panel.innerHTML = h + '</div>';
+}
+function renderYears(g){
+  cur = { grade: g, year: null };
+  crumb([{ label: GRADE[g] }]);
+  let h = '<p class="exam-hint">연도를 선택하세요.</p><div class="year-grid">';
+  Object.keys(EXAM_INDEX[g]).sort(function(a,b){ return b - a; }).forEach(function(y){
+    var n = EXAM_INDEX[g][y].length;
+    h += '<button class="year-card" data-y="'+y+'"><strong>'+y+'</strong><span>'+n+'회</span></button>';
+  });
+  panel.innerHTML = h + '</div>';
+}
+function renderMonths(g, y){
+  cur = { grade: g, year: y };
+  crumb([{ label: GRADE[g], act: 'years' }, { label: y + '년' }]);
+  let h = '<p class="exam-hint">'+GRADE[g]+' · '+y+'년 회차입니다.</p><div class="month-grid">';
+  EXAM_INDEX[g][y].forEach(function(it){
+    var lbl = parseInt(it.month, 10) + '월 ' + it.type;
+    if (it.url) h += '<a class="month-card ready" href="'+it.url+'"><strong>'+lbl+'</strong><span>분석 보기 →</span></a>';
+    else h += '<span class="month-card soon"><strong>'+lbl+'</strong><span>준비 중</span></span>';
+  });
+  panel.innerHTML = h + '</div>';
+}
+document.addEventListener('click', function(e){
+  var g = e.target.closest('[data-g]'); if (g) { renderYears(g.dataset.g); return; }
+  var y = e.target.closest('[data-y]'); if (y) { renderMonths(cur.grade, y.dataset.y); return; }
+  var a = e.target.closest('[data-act]');
+  if (a) {
+    if (a.dataset.act === 'home') renderGrades();
+    else if (a.dataset.act === 'years') renderYears(cur.grade);
+  }
+});
+renderGrades();
+</script>
+{{ end }}
