@@ -12,7 +12,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-03-28</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~25번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~30번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -22,6 +22,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set4">11~15 문법</a>
   <a href="#set5">16~20 독서(과학)</a>
   <a href="#set6">21~25 독서(인문)</a>
+  <a href="#set7">26~30 독서(사회)</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -995,6 +996,191 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>오답</td><td>(모임을) 열다.</td></tr>
           <tr><td>④</td><td>오답</td><td>소유하다.</td></tr>
           <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>마음에 품다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 26~30번 독서(사회) · 행정 행위의 부관
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>‘주된 행정 행위’에 붙는 곁가지 규율 = <strong>부관</strong>. 종류와, 부관만 따로 취소할 수 있는지에 대한 세 견해를 표로 정리하면 된다.</p>
+  <ul>
+    <li><strong>조건</strong>(불확실한 사실) — 정지 조건(성취 시 효력 발생)·해제 조건(성취 시 효력 소멸).</li>
+    <li><strong>기한</strong>(확실한 사실) — 시기(발생)·종기(소멸). 시기~종기 사이 = 존속 기간.</li>
+    <li><strong>부담</strong> — 별도 의무 부과, 그 자체로 행정 행위. 이행 안 해도 주된 행위 존속(그래서 개인에게 유리).</li>
+    <li><strong>부관만 취소 가능?</strong> ⓐ재량 행위 부관은 불가(기속은 가능) / ⓑ본질적 요소 아니면 가능 / ⓒ어느 경우든 가능.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 26번은 ‘기속 행위는 요건 충족 즉시 효력 발생’(행정청이 행정 행위를 해야 발생), 29번은 ‘ⓐ와 달리 ⓒ만 기속 부관 취소’(ⓐ도 기속 부관은 취소함)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p>행정 행위는 행정청이 법령에 따라 행하는 일방적 의사 표시로, 개인의 권리·의무를 변동시킨다. 행정청은 행정 목적을 위해 행정 행위에 부수적 사항을 붙일 수 있는데, 이 종속적 규율이 <strong>부관</strong>이다.</p>
+  <p>조건은 발생 여부가 <span class="ev" id="ev27-3">불확실한 사실</span>에 따라 효력 발생·소멸이 결정되는 부관으로, <span class="ev" id="ev27-1">성취 시 효력이 발생하는 ㉠정지 조건</span><a class="ev-tag" href="#q27-1">27-①</a>과 효력이 소멸하는 ㉡해제 조건으로 나뉜다. 기한은 발생 여부가 <span class="ev" id="ev27-3b">확실한 사실(‘○월 ○일’)</span><a class="ev-tag" href="#q27-3">27-③</a>에 따르며, <span class="ev ans" id="ev27-5">효력이 발생하는 ㉢시기와 소멸하는 ㉣종기로 나뉜다.</span><a class="ev-tag ans" href="#q27-5">27-⑤</a> <span class="ev" id="ev26-5">즉 행정청은 정지 조건·시기로 효력 발생 시점을 정할 수 있다.</span><a class="ev-tag" href="#q26-5">26-⑤</a></p>
+  <p>㉤<span class="ev" id="ev26-4">부담은 주된 행정 행위의 효력과 더불어 개인에게 별도의 의무를 부과하는 부관</span><a class="ev-tag" href="#q26-4">26-④</a>으로, 그 자체가 행정 행위의 성격을 갖는다. <span class="ev" id="ev27-2">부담은 주된 효력을 ‘제한’하지 않으며,</span><a class="ev-tag" href="#q27-2">27-②</a> <span class="ev" id="ev27-4">이행되지 않아도 주된 행정 행위의 효력이 존속</span><a class="ev-tag" href="#q27-4">27-④</a>한다(그래서 부담으로 보는 것이 개인에게 유리).</p>
+  <p>부관이 위법할 때 부관만 취소할 수 있는지 견해가 갈린다. <span class="ev ans" id="ev29">ⓐ첫째 견해 — 기속 행위와 달리 재량 행위에 붙은 부관은 취소할 수 없다</span><a class="ev-tag ans" href="#q29-5">29-⑤</a>고 본다. <span class="ev" id="ev26-1">기속 행위는 요건이 충족되면 행정청이 규정된 내용대로 ‘하여야 하는’ 행정 행위, 재량 행위는 그 내용을 ‘선택할 수 있는’ 행정 행위다.</span><a class="ev-tag" href="#q26-1">26-①</a> <span class="ev ans" id="ev28">㉮법원이 재량 행위 부관만 취소하면 행정청의 재량권이 침해된다</span><a class="ev-tag ans" href="#q28-1">28-①</a>고 본다.</p>
+  <p>ⓑ둘째 견해 — 부관이 본질적 요소가 아니면 부관만 취소 가능, 본질적 요소면 주된 행위 자체를 취소해야 한다. ⓒ셋째 견해 — 부관은 종속적 규율일 뿐이므로 어느 경우든 부관만 취소 가능하다(행정청이 새 부관을 붙이거나 효력을 스스로 소멸시킬 수 있으므로).</p>
+  <p>부관은 탄력적 법령 집행으로 <span class="ev" id="ev26-2">행정의 효율을 높이지만, 남용 시 개인의 권리를 함부로 제한할 위험</span><a class="ev-tag" href="#q26-2">26-②</a>도 있어, 사법적 통제로 균형을 맞춰야 한다. <span class="ev" id="ev26-3">부관만 취소하면 주된 행위는 존속하고 부관의 효력만 소멸한다.</span><a class="ev-tag" href="#q26-3">26-③</a></p>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① 재량 행위와 달리 기속 행위는 법령상 요건이 충족되면 <strong>그 즉시</strong> 행정 행위의 효력이 발생한다.<a class="src-tag ans" href="#ev26-1">정답 근거</a></li>
+    <li id="q26-2">② 부관은 행정의 효율을 높이는 장점이 있지만 남용될 경우 개인의 권리를 제한할 위험성도 있다.<a class="src-tag" href="#ev26-2">지문 근거</a></li>
+    <li id="q26-3">③ 법원이 부관만 취소하면 주된 행정 행위의 효력은 존속하는 데 반해 부관의 효력은 소멸한다.<a class="src-tag" href="#ev26-3">지문 근거</a></li>
+    <li id="q26-4">④ 부관으로 인해 주된 행정 행위의 효력과 다른 별도의 법적 의무가 부과될 수 있다.<a class="src-tag" href="#ev26-4">지문 근거</a></li>
+    <li id="q26-5">⑤ 행정청은 부관을 통해 행정 행위의 효력 발생 시점을 결정할 수 있다.<a class="src-tag" href="#ev26-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 기속 행위의 효력이 ‘언제’ 생기는지 본다.</p>
+        <p>기속 행위는 요건이 충족되면 행정청이 규정대로 ‘<strong>행정 행위를 하여야</strong>’ 하고, 효력은 그 행정 행위를 함으로써 생긴다. 요건 충족만으로 ‘그 즉시’ 효력이 발생하는 것이 아니므로 ①은 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>행정청이 행정 행위를 해야 효력 발생.</td></tr>
+          <tr><td>②</td><td>적절</td><td>효율 ↑ + 남용 위험.</td></tr>
+          <tr><td>③</td><td>적절</td><td>부관만 취소→부관 효력만 소멸.</td></tr>
+          <tr><td>④</td><td>적절</td><td>부담=별도 의무 부과.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>정지 조건·시기로 시점 결정.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. ㉠~㉤에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① ㉠(정지 조건)이 성취되거나 ㉣(종기)이 도래하면, 주된 행정 행위의 효력이 소멸한다.<a class="src-tag" href="#ev27-1">지문 근거</a></li>
+    <li id="q27-2">② ㉠과 ㉤(부담)은 모두 주된 행정 행위의 효력을 제한하는 종속적 규율이다.<a class="src-tag" href="#ev27-2">지문 근거</a></li>
+    <li id="q27-3">③ ㉡(해제 조건)과 달리 ㉢(시기)은 발생 여부가 불확실한 사실로 구성된다.<a class="src-tag" href="#ev27-3b">지문 근거</a></li>
+    <li id="q27-4">④ ㉡이 성취되거나 ㉤을 이행하지 않으면, 주된 행정 행위의 효력이 소멸한다.<a class="src-tag" href="#ev27-4">지문 근거</a></li>
+    <li id="q27-5">⑤ ㉢과 ㉣이 모두 붙은 행정 행위의 경우, ㉢과 ㉣ 사이의 기간에 행정 행위의 효력이 존속한다.<a class="src-tag ans" href="#ev27-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 시기·종기 사이 기간이 무엇인지 본다.</p>
+        <p>시기는 효력 발생, 종기는 효력 소멸 시점이다. 둘 다 붙으면 <strong>시기~종기 사이 = 존속 기간</strong>이다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>정지 조건 성취=효력 ‘발생’.</td></tr>
+          <tr><td>②</td><td>오답</td><td>부담은 효력 제한 X.</td></tr>
+          <tr><td>③</td><td>오답</td><td>시기=확실한 사실.</td></tr>
+          <tr><td>④</td><td>오답</td><td>부담 이행 안 해도 존속.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>시기~종기 사이=존속 기간.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ㉮의 전제로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① 재량 행위에 부관을 붙일지 여부는 행정청의 재량에 따라 결정된다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
+    <li id="q28-2">② 부관의 효력이 소멸되면 기속 행위와 재량 행위의 구분이 사라진다.</li>
+    <li id="q28-3">③ 헌법상 권력 분립 원칙에 따라 법원은 재량 행위의 효력을 존속시켜야 한다.</li>
+    <li id="q28-4">④ 재량 행위의 경우 법령상 요건의 충족 여부에 대한 판단권은 행정청의 고유 권한이다.</li>
+    <li id="q28-5">⑤ 기속 행위와 달리 재량 행위의 경우 법원은 행정 행위의 위법 여부를 판단할 수 없다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘부관만 취소하면 재량권 침해’가 되려면 무엇을 전제해야 하는지 본다.</p>
+        <p>부관만 취소하면 ‘부관 없는 행정 행위’가 강제된다. 그것이 재량권 침해가 되려면, <strong>부관을 붙일지 자체가 행정청의 재량</strong>이라는 전제가 있어야 한다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>부관 부가 여부=행정청 재량(전제).</td></tr>
+          <tr><td>②</td><td>오답</td><td>부관 효력과 기속·재량 구분 무관.</td></tr>
+          <tr><td>③</td><td>오답</td><td>견해의 결론이지 전제 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>요건 판단권과 부관 취소는 무관.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>이 견해는 위법 판단 가능 전제.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. ⓐ~ⓒ에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① 재량 행위에 위법한 부관이 붙은 경우, ⓐ는 그 재량 행위 자체를 취소해야 한다고 본다.</li>
+    <li id="q29-2">② 부관만 위법하고 주된 행위는 적법한 경우, ⓑ는 그 부관이 본질적 요소가 아니므로 취소될 수 있다고 본다.</li>
+    <li id="q29-3">③ 부관이 취소되면 주된 행위가 위법해지는 경우라도, ⓒ는 법원이 그 부관을 취소할 수 있다고 본다.</li>
+    <li id="q29-4">④ 행정청이 부관 없이는 주된 행위를 하지 않았을 것이라면, ⓐ·ⓑ는 모두 법원이 그 부관을 취소할 수 없다고 본다.</li>
+    <li id="q29-5">⑤ 기속 행위에 법령상 요건이 아닌 내용이 부관으로 붙은 경우, <strong>ⓐ와 달리</strong> ⓒ는 법원이 그 부관을 취소할 수 있다고 본다.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘ⓐ와 달리’가 맞는지, 즉 ⓐ도 기속 부관을 취소하는지 본다.</p>
+        <p>ⓐ는 <strong>기속 행위</strong>에 붙은 위법 부관은 취소할 수 있다고 본다(취소 불가는 재량 행위뿐). 따라서 기속 행위 부관은 ⓐ도 취소하므로 ‘ⓐ와 달리’가 틀려 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>ⓐ: 재량 부관→주된 행위 취소.</td></tr>
+          <tr><td>②</td><td>적절</td><td>ⓑ: 비본질이면 부관만 취소.</td></tr>
+          <tr><td>③</td><td>적절</td><td>ⓒ: 어느 경우든 부관 취소.</td></tr>
+          <tr><td>④</td><td>적절</td><td>본질적 요소면 ⓐ·ⓑ 모두 부관 취소 X.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>ⓐ도 기속 부관은 취소함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. 윗글을 바탕으로 〈보기〉의 상황을 판단한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>갑은 재량 행위인 숙박 시설 건축 허가를 신청. 행정청은 허가하며 ‘사용 승인 신청 시까지 담장 설치’ 부관을 붙임. 갑은 위법하다 보아 담장을 안 설치하고, 완공 후 사용 승인을 신청. 갑이 ‘부관만 취소’ 소송을 냈고 법원이 받아들임. (건축 허가 없이 건축은 위법)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q30-1">① 갑의 건축 행위의 위법 여부를 고려하면, ‘부관’을 조건이 아닌 부담으로 보는 것이 갑에게 유리하겠군.</li>
+    <li id="q30-2">② 법원은 갑의 권리 보호를 위해 ‘부관’에 대한 적절한 사법적 통제가 필요하다고 판단했겠군.</li>
+    <li id="q30-3">③ 법원은 ‘부관’의 효력은 소멸하되, 갑이 건축한 숙박 시설에 대한 건축 허가의 효력은 존속한다고 판단했겠군.</li>
+    <li id="q30-4">④ ‘부관’이 취소되었으므로, 갑이 건축한 숙박 시설에 대한 <strong>사용 승인의 효력이 발생</strong>하겠군.</li>
+    <li id="q30-5">⑤ 행정청이 소송 중 건축 허가의 효력을 스스로 소멸시켰다면, 부관 취소 이전이라도 갑의 담장 설치 의무가 사라졌겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 부관 취소가 ‘사용 승인’에까지 영향을 주는지 본다.</p>
+        <p>그 부관은 <strong>건축 허가</strong>에 붙은 것이지 사용 승인에 붙은 것이 아니다. 부관이 취소돼도 건축 허가만 존속할 뿐, 사용 승인의 효력 발생과는 무관하다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>부담으로 보면 미설치에도 허가 존속→유리.</td></tr>
+          <tr><td>②</td><td>적절</td><td>위법 부관 취소=사법 통제.</td></tr>
+          <tr><td>③</td><td>적절</td><td>부관만 취소→건축 허가 존속.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>부관은 건축 허가용 — 사용 승인과 무관.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>주된 효력 소멸→종속된 부담 의무 소멸.</td></tr>
         </tbody>
       </table>
     </div>
