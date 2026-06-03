@@ -12,7 +12,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2025-03-26</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~38번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~41번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
@@ -25,6 +25,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set7">27~30 독서(과학·기술)</a>
   <a href="#set8">31~34 현대소설</a>
   <a href="#set9">35~38 고전소설</a>
+  <a href="#set10">39~41 현대시</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -1473,6 +1474,134 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>③</td><td>적절</td><td>병부 상서 환수 = 성취 일부 회수.</td></tr>
           <tr><td>④</td><td>적절</td><td>태학사 유지 + 요조숙녀 = 인정+관습.</td></tr>
           <tr><td>⑤</td><td>적절</td><td>‘만고에 없었다’ = 뛰어난 능력.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 39~41번 현대시 · 오장환 「성씨보」와 김수영 「미농인찰지」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>두 시 모두 ‘<strong>속물성·인습 비판과 자기 성찰</strong>’을 다룬다.</p>
+  <ul>
+    <li><strong>(가) 오장환 「성씨보」</strong> — 창작·매매되는 속물화된 족보를 부정하며, 인습과 그에 근거한 이기적 욕망을 거부.</li>
+    <li><strong>(나) 김수영 「미농인찰지」</strong> — 매부에게 감사 편지를 쓰려다 식모가 사 온 값싼 ‘밀용인찰지’로 자신의 속물성을 확인하고 성찰. 청자(매부)에게 말 건네는 어투.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 40번은 ‘차창에서 본 노동의 참경(좌절감 아님)’, 41번은 ‘성찰은 식모 부르는 소리에서’(밀용인찰지 자체 아님)가 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[39 ~ 41] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p class="src-label">(가) 오장환, 「성씨보」</p>
+  <p class="verse">내 성은 오씨. 어째서 오가인지 나는 모른다. (…) <span class="ev" id="ev41a">똑똑한 사람들은 항상 가계보를 창작하였고 매매하였다.</span><a class="ev-tag" href="#q41-1">41-①</a> 나는 역사를, 내 성을 믿지 않아도 좋다.<br>
+  해변가으로 밀려온 소라 속처럼 <span class="ev" id="ev40a">나도 껍데기가 무척은 무거웁고나. 수퉁하고나.</span><a class="ev-tag" href="#q40-2">40-②</a><br>
+  이기적인, 너무나 이기적인 애욕을 잊으려면은 나는 <span class="ev" id="ev41b">성씨보가 필요치 않다. 성씨보와 같은 관습이 필요치 않다.</span><a class="ev-tag" href="#q41-5">41-⑤</a></p>
+  <p class="muted" style="text-align:right">— 오장환, 「성씨보」</p>
+  <p class="src-label">(나) 김수영, 「미농인찰지」</p>
+  <p class="verse"><span class="ev ans" id="ev39">우리 동네엔 미대사관에서 쓰는 타이프 용지가 없다우 / 편지를 쓰려고 그걸 사오라니까 밀용인찰지를 사왔드라우</span><a class="ev-tag ans" href="#q39-2">39-②</a> (…)<br>
+  꽉 막히는 이것이 나의 생활의 자연의 시초요 (…)<br>
+  <span class="ev" id="ev41c">4원에 사가지고 왔으니 (…) 밀용인찰지의 나의 생활을 당신한테 보일 수는 없소</span><a class="ev-tag" href="#q41-3">41-③</a><br>
+  매부 돌아오는 길에 <span class="ev ans" id="ev40b">차창에서 내다본 중앙선의 복선공사에 동원된 / 갈대보다도 더 약한 소년들과 부녀자들의 노동의 참경(慘景)</span><a class="ev-tag ans" href="#q40-4">40-④</a>에 대한 편지도 못 쓰겠소 (…)<br>
+  당신의 모든 행복과 우리들의 바닷가의 / 행복의 모든 추억에 대해서 미안하지 않소 (…)<br>
+  <span class="ev" id="ev41d">다만 식모를 부르는 소리가 좀 단호해졌을 뿐이오 미안할 정도로 좀—</span><a class="ev-tag" href="#q41-5b">41-⑤</a></p>
+  <p class="muted" style="text-align:right">— 김수영, 「미농인찰지」</p>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. (가)와 (나)의 표현상의 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① (가)는 (나)와 달리 공감각적 이미지로 긍정적 인식을 나타낸다.</li>
+    <li id="q39-2">② (나)는 (가)와 달리 표면에 드러난 청자에게 말을 건네는 방식으로 정서를 드러낸다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
+    <li id="q39-3">③ (나)는 (가)와 달리 외부 사물의 외양에 빗대어 내면을 드러낸다.</li>
+    <li id="q39-4">④ (가)와 (나)는 모두 의문 형식으로 시상을 전환한다.</li>
+    <li id="q39-5">⑤ (가)와 (나)는 모두 일상적 소재를 나열해 상황을 예찬한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 청자에게 말 거는 어투가 어느 시에 있는지 본다.</p>
+        <p>(나)는 ‘없다우, 못 쓰겠소’처럼 <strong>매부(청자)에게 말을 건네는</strong> 어투로 정서를 드러낸다. (가)엔 없으므로 ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>공감각·긍정 인식 아님.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>(나) 청자에게 말 건넴.</td></tr>
+          <tr><td>③</td><td>오답</td><td>외양 비유는 (가)에도 있음(소라).</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가)엔 의문 형식 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>예찬이 아니라 비판·성찰.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. (가), (나)에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q40-1">① (가) ‘유-심히는’은 ‘대국숭배’에 대한 부정적 감정을 부각한다.</li>
+    <li id="q40-2">② (가) ‘껍데기’가 ‘무거웁’다는 것은 ‘성씨보와 같은 관습’의 중압감을 드러낸다.<a class="src-tag" href="#ev40a">지문 근거</a></li>
+    <li id="q40-3">③ (나) ‘꽉’은 화자가 처한 상황의 답답함을 부각한다.</li>
+    <li id="q40-4">④ (나) ‘돌아오는 길에’ ‘차창에서 내다본’ 행위는 물질적 성취에서 멀어진 <strong>좌절감</strong>을 드러낸다.<a class="src-tag ans" href="#ev40b">정답 근거</a></li>
+    <li id="q40-5">⑤ (나) ‘친절’을 ‘압력’으로 여김은 ‘바닷가의 행복의 추억’에서 느끼는 부담을 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘차창에서 본’ 것이 무엇이고 무슨 감정인지 본다.</p>
+        <p>차창에서 본 것은 복선공사에 동원된 약한 소년·부녀자의 <strong>노동의 참경(비참한 광경)</strong>이다. ‘물질적 성취에서 멀어진 좌절감’이 아니므로 ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘유-심히는’ = 대국숭배 부정.</td></tr>
+          <tr><td>②</td><td>적절</td><td>무거운 껍데기 = 관습 중압.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘꽉’ = 답답함.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>노동의 참경 인식(좌절감 아님).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>친절=압력 → 추억의 부담.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. 〈보기〉를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)의 화자는 속물화된 족보로 당대 허위의식을 비판하고, 족보를 부정해 인습·이기적 욕망을 거부한다. (나)의 화자는 식모가 사 온 값싼 ‘밀용인찰지’로 자신의 <b>속물성</b>을 확인하며 부정적 모습을 인식하고, 편지 쓰기를 그치며 자기 성찰을 한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q41-1">① (가) ‘가계보’를 ‘창작·매매’ 대상으로 표현한 데서 족보가 속물화된 모습을 안다.<a class="src-tag" href="#ev41a">지문 근거</a></li>
+    <li id="q41-2">② (가) ‘이기적인 애욕을 잊으려’는 데서 인습에 근거한 이기적 욕망 거부를 안다.<a class="src-tag" href="#ev41b">지문 근거</a></li>
+    <li id="q41-3">③ (나) ‘4원에 사가지고’ 온 것으로 ‘생활을 보일 수 없’다는 데서 속물성 확인을 안다.<a class="src-tag" href="#ev41c">지문 근거</a></li>
+    <li id="q41-4">④ (가) ‘할아버지 성씨를 알 수도 없다’에서 족보를 허위로 봄을, (나) ‘식모 부르는 소리가 단호’에서 자기 부정적 인식을 안다.<a class="src-tag" href="#ev41d">지문 근거</a></li>
+    <li id="q41-5">⑤ (가) ‘성씨보가 필요치 않다’에서 인습 부정을, (나) ‘밀용인찰지를 살 수밖에 없는 것’에서 감사조차 못 전한 자신을 성찰함을 안다.<a class="src-tag ans" href="#ev41d">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (나)의 ‘성찰’이 어디서 드러나는지 본다.</p>
+        <p>화자의 성찰은 ‘식모를 부르는 소리가 단호해졌다’는 자기 인식에서 드러난다. ‘밀용인찰지를 살 수밖에 없는 것’은 식모의 사정이지 화자의 성찰 지점이 아니므로 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>창작·매매 = 속물화.</td></tr>
+          <tr><td>②</td><td>적절</td><td>애욕 잊으려 = 욕망 거부.</td></tr>
+          <tr><td>③</td><td>적절</td><td>생활 못 보임 = 속물성 확인.</td></tr>
+          <tr><td>④</td><td>적절</td><td>성씨 모름 = 허위 / 단호 = 자기 인식.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>성찰은 ‘단호한 소리’에서(밀용인찰지 아님).</td></tr>
         </tbody>
       </table>
     </div>
