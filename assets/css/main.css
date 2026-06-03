@@ -3,7 +3,7 @@
   --ink:#1a1814; --ink-mid:#4a4640; --ink-soft:#8a8480;
   --paper:#f7f4ef; --paper-warm:#ede9e2; --paper-line:#d8d3cb;
   --accent:#5c3d1e; --accent-light:#8b5e3c; --accent-tint:#f0ead8;
-  --red:#9b2335; --gold:#b8860b;
+  --red:#9b2335; --gold:#b8860b; --ev:#1f5c9e;
   --maxw:1100px;
 }
 html{scroll-behavior:smooth}
@@ -196,8 +196,7 @@ a:hover{text-decoration:underline}
   padding:18px 20px;margin:14px 0 18px}
 .answer-line{display:flex;align-items:center;gap:10px;margin-bottom:10px}
 .answer-line span{font-size:12px;color:var(--ink-soft);letter-spacing:.08em}
-.answer-line strong{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;
-  border-radius:50%;background:var(--red);color:#fff;font-size:19px}
+.answer-line strong{color:var(--ev);font-size:21px;font-weight:700;letter-spacing:.02em}
 .linked-evidence{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}
 .linked-evidence a{font-size:12px;padding:5px 10px;border:1px solid var(--accent-light);border-radius:2px;
   color:var(--accent);background:#fff}
@@ -235,8 +234,13 @@ a:hover{text-decoration:underline}
 /* 지문·문제 게시 */
 .passage{background:#fff;border:1px solid var(--paper-line);border-radius:6px;padding:20px 24px;margin:6px 0 28px}
 .passage-guide{font-weight:700;color:var(--ink);margin:0 0 14px!important;padding-bottom:10px;border-bottom:1px solid var(--paper-line)}
+.passage-legend{display:block;margin-top:6px;font-size:12px;font-weight:400;color:var(--ink-soft)}
+.passage-legend b{color:var(--ev);font-weight:700;border-bottom:1.5px solid var(--ev);padding-bottom:1px}
 .passage p{font-size:15px!important;line-height:1.95!important;color:var(--ink);margin:0 0 14px!important;text-indent:.4em}
 .passage p:last-child{margin-bottom:0!important}
+.passage .ev{color:var(--ev);text-decoration:underline;text-decoration-color:var(--ev);text-underline-offset:3px;font-weight:500}
+.ev-tag{display:inline-block;font-size:10.5px;font-weight:700;color:#fff;background:var(--ev);
+  border-radius:3px;padding:0 5px;margin:0 1px 0 3px;vertical-align:middle;line-height:1.7;white-space:nowrap;letter-spacing:.02em}
 .q-block{background:#fff;border:1px solid var(--paper-line);border-radius:6px;padding:18px 22px;margin:0 0 16px}
 .q-stem{font-weight:700;color:var(--ink);font-size:15px!important;margin:0 0 12px!important;line-height:1.7!important}
 .q-opts{list-style:none;margin:0;padding:0}
