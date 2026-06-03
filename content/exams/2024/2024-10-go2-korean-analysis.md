@@ -543,6 +543,332 @@ draft: true
 
 <div id="set5" class="set-anchor"></div>
 
-<!--SETS_16_45_PLACEHOLDER-->
+## 16~21번 독서(인문) · 아리스토텔레스·실러·그린버그·크라우스 — 예술 매체론
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가)는 질료·형상 개념으로 <strong>아리스토텔레스→실러(투명 매체)↔그린버그(불투명 매체)</strong> 대비, (나)는 크라우스의 <strong>기술적 지지체·규칙 겹침</strong> 개념이다.</p>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 17번 ⑤(ⓐ=실러:도덕성, ⓑ=그린버그:순수성 — 이 짝이 핵심), 19번 ⑤(그린버그=불투명 매체, 크라우스에서 '작품 B'는 물질적 지지체이므로 '비물질적 지지체' 아님)이 함정이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[16 ~ 21] (가) 아리스토텔레스·실러·그린버그 · (나) 크라우스 기술적 지지체.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p class="src-label">(가)</p>
+  <p>아리스토텔레스는 예술작품을 현실 세계를 모방한 사물로 보았다. 사물은 <strong>질료</strong>(물질적 재료)와 <strong>형상</strong>(보편적 개념·가치·본질)으로 구성된다. <span class="ev" id="ev16a">예술가는 자신이 이해한 사물의 형상을 질료에 담아 예술작품으로 재현하고, 감상자는 예술작품을 통해 형상을 이해한다.</span><a class="ev-tag" href="#q16-3">16-③</a></p>
+  <p>실러는 아름다움이라는 형상을 질료에 담으면 감상자가 미적 경험으로 도덕성을 회복할 수 있다고 보았다. 또 <span class="ev" id="ev17a">미적 경험을 극대화하려면 예술작품의 질료가 지닌 물리적 성질이 드러나지 않아야 한다고 주장한다. 결국 <strong>ⓐ예술작품의 질료가 투명한 매체로 기능해야</strong> 한다.</span><a class="ev-tag" href="#q17-5">17-ⓐ</a></p>
+  <p>반면 그린버그는 예술은 그 자체가 목적이 되어야 한다고 보았다. 예술가는 <span class="ev ans" id="ev17b">질료의 물리적 성질이 갖는 표현 가능성에 주목해야 하며, 예술 장르 자체의 순수성을 실현해야 한다. 즉 <strong>ⓑ예술작품의 질료가 불투명한 매체로 기능해야</strong> 한다.</span><a class="ev-tag ans" href="#q17-5">17-ⓑ</a></p>
+  <p class="src-label">(나)</p>
+  <p>크라우스는 '포스트매체 조건'이라는 개념을 제안했다. 기존 매체를 <strong>지지체</strong>라 규정하고, 포스트매체 이전엔 <span class="ev" id="ev18b">물질적 요소만을 지지체로 인정했다(물질적 지지체). 하지만 공간·소리·이미지 같은 비물질적 요소도 지지체로 인정해야 한다고 주장했다.</span><a class="ev-tag" href="#q18-1">18-①·③</a></p>
+  <p><span class="ev ans" id="ev18">크라우스는 물질적·비물질적 지지체가 결합된 복합 구조를 <strong>기술적 지지체</strong>라 부른다. 지지체를 사용하는 관습이나 기법을 '규칙'이라 하며, 기술적 지지체 내 지지체들과 규칙들이 서로 맞물려 새로운 규칙을 만들어 미적 효과를 발생시키는 현상이 <strong>규칙 겹침</strong>이다.</span><a class="ev-tag ans" href="#q18-4">18-④</a></p>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① (나)와 달리 (가)는 화제에 대한 여러 학자의 관점을 사례를 들어 설명하고 있다.</li>
+    <li id="q16-2">② (나)와 달리 (가)는 이론을 소개한 후 의의와 한계를 설명하고 있다.</li>
+    <li id="q16-3">③ (나)와 달리 (가)는 특정 관점 관련 개념을 정의한 후 학자들의 견해를 비교하고 있다.<a class="src-tag ans" href="#ev16a">정답 근거</a></li>
+    <li id="q16-4">④ (가)와 (나)는 모두, 특정 견해를 뒷받침하는 견해를 제시하고 사회적 현상을 분석하고 있다.</li>
+    <li id="q16-5">⑤ (가)와 (나)는 모두, 상반된 관점을 가진 학자들의 견해를 밝히고 새로운 관점을 제시하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 두 글의 서술 방식을 비교한다.</p>
+        <p>(가)는 '질료·형상' 개념을 정의한 뒤 아리스토텔레스·실러·그린버그의 견해를 비교한다. (나)는 학자 간 견해를 비교하지 않는다. ③이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·②·④·⑤</td><td>오답</td><td>(나) 사례 없음·(가) 한계 없음·사회 분석 없음·(나) 상반 견해 없음.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(가) 개념 정의+세 학자 견해 비교.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. (가)의 ⓐ와 ⓑ에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q17-1">① ⓐ=현실 반영, ⓑ=교육적 가치가 담겨 있다.</li>
+    <li id="q17-2">② ⓐ=질료가 미적 경험을 촉진, ⓑ=질료가 미적 경험을 방해한다.</li>
+    <li id="q17-3">③ ⓐ=질료 성질을 최대화, ⓑ=질료 성질을 최소화해야 한다.</li>
+    <li id="q17-4">④ ⓐ=감상자가 도덕성을 함양, ⓑ=감상자가 예술 지식을 쌓아야 한다.</li>
+    <li id="q17-5">⑤ ⓐ=예술가의 의도가 감상자에게 온전히 전달, ⓑ=예술의 순수성 실현이 목적이다.<a class="src-tag ans" href="#ev17b">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 실러(ⓐ)·그린버그(ⓑ) 각각의 예술 목적을 본다.</p>
+        <p>실러는 도덕성 함양을 위해 예술가의 의도(형상)가 감상자에게 전달되어야 함(→ⓐ). 그린버그는 예술의 순수성 실현이 목적(→ⓑ). ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ⓐ=의도 전달, ⓑ=순수성 실현.</td></tr>
+          <tr><td>①~④</td><td>오답</td><td>현실반영·촉진/방해·최대/최소화·지식 쌓기는 어긋남.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. (나)의 지지체에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 포스트매체 조건에서는 사물의 소리도 지지체가 될 수 있다.<a class="src-tag" href="#ev18b">지문 근거</a></li>
+    <li id="q18-2">② 포스트매체 조건에서의 규칙은 지지체를 사용하는 관습이나 기법을 말한다.</li>
+    <li id="q18-3">③ 포스트매체 조건에서는 지지체들이 결합해 또 하나의 지지체로 기능할 수 있다.</li>
+    <li id="q18-4">④ 포스트매체 조건 이전에는 매체를 구성하는 물질적 요소의 규칙이 예술작품으로 인정되었다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
+    <li id="q18-5">⑤ 포스트매체 조건 이전에 사용되던 지지체는 기술적 지지체에 사용될 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 포스트매체 조건 이전 '지지체'와 '예술작품'을 구분한다.</p>
+        <p>포스트매체 이전엔 물질적 요소만을 지지체로 인정했을 뿐, '물질적 요소의 규칙'이 예술작품으로 인정된 것이 아니다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·②·③·⑤</td><td>적절</td><td>소리=비물질 지지체, 규칙=관습·기법, 복합 지지체, 물질 지지체 포함.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>물질적 요소 '규칙'이 예술작품은 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>[자료1] 화가 A 씨가 '모성애'를 주제로 어머니의 주름을 사실적으로 그려 '물감으로 그렸다고 믿기 힘들 정도'라는 평가를 받음. / [자료2] 예술가 B 씨가 목탄으로 '작품 B'를 그리면서 16mm 카메라로 촬영, 완성된 작품 B 위로 영상을 비추는 '작품 C'를 미술관에 출품. 평론가들은 '목탄의 질감이 살아 있는 진정한 목탄화', '현대인의 고통이 생생하게 드러난다' 평가.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q19-1">① [자료1]의 '캔버스'를 실러는 투명한 매체로, 크라우스는 물질적 지지체로 보겠군.</li>
+    <li id="q19-2">② [자료1]의 '캔버스'·'물감'을 아리스토텔레스·실러 모두 예술작품의 질료로 보겠군.</li>
+    <li id="q19-3">③ [자료1]의 '어머니의 희생에 담긴 숭고한 아름다움'을 아리스토텔레스·실러 모두 형상으로 보겠군.</li>
+    <li id="q19-4">④ [자료2]의 '목탄'을 그린버그는 미적 매체로, 크라우스는 물질적 지지체로 보겠군.</li>
+    <li id="q19-5">⑤ [자료2]의 '캔버스'를 그린버그는 불투명한 매체로, '작품 C'에 활용된 '작품 B'를 크라우스는 비물질적인 지지체로 보겠군.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '작품 B'가 물질적 지지체인지 비물질적인 지지체인지 본다.</p>
+        <p>'작품 C'에 활용된 '작품 B'는 목탄으로 그린 목탄화, 즉 <strong>물질적 지지체</strong>다. 크라우스는 이를 비물질적 지지체로 보지 않는다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>적절</td><td>해설 PDF 확인 — 실러·크라우스·아리스토텔레스 각각 대응 정확.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>'작품 B'는 물질적 지지체(목탄화).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. 윗글을 읽은 학생이 학자들의 입장에서 &lt;보기&gt;에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="q20-1">① 아리스토텔레스는 [자료1]의 '초상화'와 [자료2]의 '작품 B'는 모두 형상·질료로 구성된 실체라고 보겠군.</li>
+    <li id="q20-2">② 실러는 [자료2]의 'B 씨'보다 [자료1]의 'A 씨'가 감상자에게 자신의 의도를 더 잘 전달했다고 보겠군.</li>
+    <li id="q20-3">③ 그린버그는 [자료2]의 '작품 B'와 달리 [자료1]의 '초상화'는 예술 그 자체가 목적이 되었다고 보겠군.<a class="src-tag ans" href="#ev17b">정답 근거</a></li>
+    <li id="q20-4">④ 크라우스는 [자료1]의 '초상화'와 달리 [자료2]의 '작품 B'는 물질적 요소가 하나의 예술 장르를 규정하는 기준이 됐다고 보겠군.</li>
+    <li id="q20-5">⑤ 크라우스는 [자료1]의 '초상화'와 달리 [자료2]의 '작품 C'는 기술적 지지체로 규칙 겹침이 나타났다고 보겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 그린버그 관점에서 '예술 그 자체가 목적'인 것이 어느 자료인지 본다.</p>
+        <p>그린버그는 질료의 물리적 성질이 드러나야 한다고 본다. [자료2] '작품 B'가 '목탄의 질감이 살아 있는 진정한 목탄화'이므로 예술 그 자체가 목적이 된 것은 <strong>[자료2]</strong>다. [자료1]은 '물감으로 그렸다고 믿기 힘들 정도'라 질료가 드러나지 않으므로 반대다. ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·②·④·⑤</td><td>적절</td><td>각 학자 관점에 맞게 서술됨.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>그린버그 관점에서 예술 목적=작품B(질감 드러남).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. ㉠~㉤의 사전적 의미로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q21-1">① ㉠(규정하고): 내용이나 성격, 의미 따위를 밝혀 정함.</li>
+    <li id="q21-2">② ㉡(주목해야): 어떤 일에 직접 나서서 관여하지 않고 곁에서 보기만 함.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
+    <li id="q21-3">③ ㉢(명명하며): 사람, 사물, 사건 등 대상에 이름을 지어 붙임.</li>
+    <li id="q21-4">④ ㉣(포착해): 어떤 기회나 정세를 알아차림.</li>
+    <li id="q21-5">⑤ ㉤(역설한다): 자기의 뜻을 힘주어 말함. 또는 그런 말.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 사전적 의미가 단어와 맞는지 본다.</p>
+        <p id="ev21">'주목'의 사전적 의미는 '관심을 가지고 주의 깊게 살핌'이다. ②의 '곁에서 보기만 함'은 '방관'의 의미이므로 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·③·④·⑤</td><td>적절</td><td>규정·명명·포착·역설 모두 맞음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>'주목'='주의 깊게 살핌'(방관 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 22~25번 현대소설 · 김광식 「213호 주택」 — 기계에 예속된 노동자
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>기사장 김명학이 발전기·인쇄기 고장으로 면직되는 과정을 <strong>역순행적 구성</strong>으로 서술한다. 귀가 후 집 손잡이 근방을 깎는 행동은 <strong>획일화된 도시에서 개별성을 추구</strong>하는 것이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 25] 김광식, 「213호 주택」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p>사장은 기계 고장을 김명학의 책임으로 돌리며 완곡히 사직을 요구한다. <span class="ev ans" id="ev22">김명학이 공장장실에서 사장의 말을 듣고 사직원을 쓴 뒤, 그 이유(습기·조수 실수 등)가 뒤이어 서술된다.</span><a class="ev-tag ans" href="#q22-1">22-①</a></p>
+  <p>ⓐ 사직원을 <u>쓰고</u> 인쇄 공장으로 들어가 제1호기에서 32호까지 기계를 바라보다가 나온다. 이후 다시 ⓑ 사직원을 <u>내고</u> 모자를 들고 나오며… <span class="ev ans" id="ev23">— '사직원을 내기 전에' 인쇄 공장에 들어간 것임을 알 수 있다.</span><a class="ev-tag ans" href="#q23-5">23-⑤</a></p>
+  <p>㉠<span class="ev ans" id="ev24a">공장장실</span><a class="ev-tag ans" href="#q24-5">24-㉠</a>에서 사장의 말을 들은 뒤 사직원을 쓴다. 귀가 후 ㉡<span class="ev ans" id="ev24b">자기 집</span><a class="ev-tag ans" href="#q24-5b">24-㉡</a> 뜰길에 발돋움길을 만들고, 아내의 만류에도 현관문 손잡이 근방을 깎아 낸다.</p>
+  <p><span class="ev ans" id="ev25">회사에서는 기사를 채용하지 않고 기사장에게 전기실 책임도 맡겼는데, '전기에 대해서는 기계과 출신으로서의 상식밖에 없다'는 것은 회사의 무리한 요구를 보여 줄 뿐, 획일화된 도시 부적응의 모습이 아니다.</span><a class="ev-tag ans" href="#q25-2">25-②</a></p>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. 윗글의 서술상의 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 역순행적 구성을 활용하여 사건이 일어난 이유를 밝히고 있다.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
+    <li id="q22-2">② 시대적 배경을 설명하여 갈등 해결의 실마리를 제공하고 있다.</li>
+    <li id="q22-3">③ 등장인물이 관찰자 입장에서 인물들의 말과 행동을 전달하고 있다.</li>
+    <li id="q22-4">④ 장면에 따라 서술자를 달리하여 다양한 관점을 제시하고 있다.</li>
+    <li id="q22-5">⑤ 이야기 내부 서술자가 고백적 진술로 심리적 상황을 제시하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 결과(사직원 작성)를 먼저 보이고 원인을 뒤에 서술하는 방식을 본다.</p>
+        <p>사직원을 쓰는 장면을 먼저 서술한 후 발전기·인쇄기 고장의 경위가 뒤따른다. <strong>역순행적 구성</strong>으로 이유를 밝히는 것이다. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>결과→원인 역순행 구성.</td></tr>
+          <tr><td>②~⑤</td><td>오답</td><td>관찰자·서술자 교체·고백적 진술 해당 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. 윗글의 내용을 이해한 것으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① 아내는 벽돌을 나르는 김명학의 모습을 보고 무슨 영문인지 몰랐다.</li>
+    <li id="q23-2">② 김명학은 기계 고장은 어쩔 수 없는 일이라고 사장과 공장장에게 변명했다.</li>
+    <li id="q23-3">③ 김명학은 발전기 고장 원인을 과열로 판단해 냉각을 위해 큰 창을 내게 했다.</li>
+    <li id="q23-4">④ 회사는 막대한 금액으로 발전기를 수입했으나 제2종 전기 기사는 채용하지 않았다.</li>
+    <li id="q23-5">⑤ 김명학은 사직원을 내고 나서 인쇄 공장에 들어갔을 때 직공들의 인사를 보지 못했다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '사직원을 쓰고(전)'와 '사직원을 내고(후)' 순서를 따진다.</p>
+        <p>인쇄 공장 방문은 '사직원을 <strong>쓰고</strong>' 들어간 것이고, '사직원을 <strong>내고</strong>'는 이후 공장 밖으로 나오는 장면이다. 따라서 '사직원을 내고 나서' 인쇄 공장에 들어갔다는 ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①~④</td><td>적절</td><td>본문 내용과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>인쇄 공장 방문=사직원 '쓴 후'(내기 전).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① ㉠은 동정하는, ㉡은 동정받는 공간이다.</li>
+    <li id="q24-2">② ㉠은 자신의 삶을 성찰하는, ㉡은 상대의 삶을 비판하는 공간이다.</li>
+    <li id="q24-3">③ ㉠은 상대의 실수를 질책하는, ㉡은 상대에게 의문을 품는 공간이다.</li>
+    <li id="q24-4">④ ㉠은 상대를 속이기 위해, ㉡은 상대를 이해하기 위해 노력하는 공간이다.</li>
+    <li id="q24-5">⑤ ㉠은 상대의 의중을 수용하는, ㉡은 상대의 반응에 개의치 않고 행동하는 공간이다.<a class="src-tag ans" href="#ev24a">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(공장장실)과 ㉡(자기 집)에서 각각 무슨 일이 일어나는지 본다.</p>
+        <p>㉠ 공장장실에서 사장의 의중(사직 요구)을 수용해 사직원을 쓴다. ㉡ 자기 집에서 아내의 만류에도 개의치 않고 발돋움길·손잡이 깎기를 한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉠=의중 수용, ㉡=개의치 않고 행동.</td></tr>
+          <tr><td>①~④</td><td>오답</td><td>동정·성찰·질책·속이기 해당 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. &lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>1950년대 도시를 재건하는 과정에서 노동자는 기계에 예속되었고 도시는 획일화되었다. 이 작품은 소외와 획일화된 도시에 대한 부적응을 드러내고, 노동에 쏟은 애정이 경시된 무력감이 개별성 추구의 의지로 이어짐을 형상화한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q25-1">① '성심성의를 다해서 기계와 살아왔'던 김명학에게 책임을 돌리는 사장에서, 노동 애정이 경시되는 문제를 엿볼 수 있군.</li>
+    <li id="q25-2">② '전기에 대해서는 기계과 출신으로서의 상식밖에 없다는 것'을 아는 김명학에서, 획일화된 도시에 적응하지 못하는 노동자의 모습을 엿볼 수 있군.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
+    <li id="q25-3">③ '기계'에 '면직케' 된 후 '아무것도 할 수 없는 공허한 시간'을 느끼는 데서, 기계에 예속된 노동자의 무력감을 엿볼 수 있군.</li>
+    <li id="q25-4">④ '인쇄기들'이 '자기를 덮칠 것같이 노려보'는 것 같고 '강한 고독'을 느끼는 데서, 도시 노동자의 소외를 엿볼 수 있군.</li>
+    <li id="q25-5">⑤ '돌지 않기 위해' '발돋움길'을 만들고 '손잡이 근방을 깎아 내는' 데서, 획일화된 도시에서 개별성을 추구하려는 의지를 엿볼 수 있군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '전기 상식밖에 없음'이 '획일화된 도시 부적응'인지 본다.</p>
+        <p>회사의 무리한 요구(기사 미채용+전기실 책임)로 떠맡은 것이지, 획일화된 도시에 적응하지 못하는 모습이 아니다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①·③·④·⑤</td><td>적절</td><td>경시·무력감·소외·개별성 추구 모두 본문에 근거.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>회사 무리한 요구 결과 — 부적응 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+<!--SETS_26_45_PLACEHOLDER-->
 
 </div>
