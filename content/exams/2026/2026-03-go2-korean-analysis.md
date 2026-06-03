@@ -12,7 +12,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
   <div class="exam-overview-item"><span>시행</span><strong>2026-03-24</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~6번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
 </section>
 
 ## 지문
@@ -304,6 +304,171 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~3번 발표 세트
       <div class="trap">
         <div class="trap-head">조심할 점 — ‘일반 vs 스마트’가 함정</div>
         <p>④는 ‘일반 수거함’인데 ‘환경 포인트’를 말한다. [자료1] 표에서 즉시 보상은 <strong>스마트 수거함만 ○</strong>다. 표의 ×/○를 선지와 대조하면 ④가 바로 걸린다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+## 문법 (7~10번)
+
+<p class="ask-read" style="margin:0 0 16px"><strong>안내</strong> — 7~10번은 공유 지문 없이 각 〈보기〉만으로 푸는 문법(언어) 문항입니다.</p>
+
+<div class="q-block" id="prob7">
+  <p class="q-stem">7. &lt;보기&gt;를 바탕으로 &lt;자료&gt;의 띄어쓰기를 판단한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>의존 명사 앞에는 반드시 꾸며 주는 말이 있어야 하고, 조사는 주로 체언 뒤에 붙는다. 의존 명사는 앞말과 <b>띄어</b> 쓰고, 조사는 앞말에 <b>붙여</b> 쓴다. 형태가 같아 헷갈릴 때는 <strong>앞말이 꾸며 주는 역할을 하는지</strong>와 <strong>의미</strong>로 판단한다.</p>
+    <p class="dt2">〈표준국어대사전〉 · <b>대로/뿐/만</b>은 각각 의존 명사(수식 받음)와 조사(한정·구별 등 의미)로 쓰임</p>
+    <p class="bogi-label">&lt; 자 료 &gt;</p>
+    <p>ㄱ. 나는 형이 시키는 대로 말하였다.<br>ㄴ. 작은 것은 작은 것대로 따로 모아 두었다.<br>ㄷ. 이뿐 아니라 적치물이 비상구를 막기도 했다.<br>ㄹ. 내가 가진 것은 오직 열정뿐이다.<br>ㅁ. 그는 여행을 간 지 사흘만에 돌아왔다.</p>
+  </div>
+  <ul class="q-opts">
+    <li>① ㄱ: ‘형이 시키는’이 꾸며 주므로 ‘대로’는 의존 명사이니, 앞말과 띄어 쓰는 것이 적절하겠군.</li>
+    <li>② ㄴ: ‘대로’가 ‘따로따로 구별됨’의 뜻이므로 조사이니, 앞말에 붙여 쓰는 것이 적절하겠군.</li>
+    <li>③ ㄷ: ‘이’가 꾸며 주므로 ‘뿐’은 의존 명사이니, 앞말에 붙여 쓰는 것이 적절하지 않겠군.</li>
+    <li>④ ㄹ: ‘뿐’이 ‘그것만이고 더는 없음’의 뜻이므로 조사이니, 앞말에 붙여 쓰는 것이 적절하겠군.</li>
+    <li>⑤ ㅁ: ‘만’이 ‘앞말이 가리키는 동안이나 거리’의 뜻이므로 의존 명사이니, 앞말에 붙여 쓰는 것이 적절하지 않겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 ‘대로/뿐/만’이 <strong>의존 명사인지 조사인지</strong>를 ① 앞말이 꾸며 주는가 ② 의미가 무엇인가로 가른 뒤, 띄어쓰기 판단이 맞는지 본다.</p>
+        <p>ㄷ의 ‘뿐’은 ‘그것만이고 더는 없음’의 뜻이고 앞말 ‘이’가 꾸며 주지 않으니 <strong>조사</strong>다. 조사는 붙여 써야 하므로 ‘이뿐’은 옳다. 그런데 ③은 ‘뿐’을 의존 명사로 보고 “붙여 쓰면 적절하지 않다”고 했으니 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘대로’가 수식을 받는 의존 명사 → 띄어 씀이 옳다.</td></tr>
+          <tr><td>②</td><td>적절</td><td>‘대로’가 ‘구별’ 뜻의 조사 → 붙여 씀이 옳다.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>‘뿐’은 조사(앞말 수식 없음)이므로 붙여 씀이 옳다. 의존 명사로 본 판단이 틀렸다.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘뿐’이 ‘더는 없음’ 뜻의 조사 → 붙여 씀이 옳다.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘만’이 ‘동안·거리’ 뜻의 의존 명사 → ‘사흘 만에’로 띄어야 하므로 붙여 쓴 것은 옳지 않다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 판단은 ‘앞말 수식 + 의미’ 두 칸</div>
+        <p>‘뿐’이 의존 명사냐 조사냐는 <strong>앞말이 꾸며 주는지</strong>로 갈린다. ㄷ의 ‘이’는 꾸며 주지 않으니 조사 → 붙여 쓰기가 정답. ‘의존 명사’라고 단정하면 ③에 낚인다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob8">
+  <p class="q-stem">8. &lt;보기&gt;의 ㉠, ㉡에 들어갈 말로 적절한 것은? <span class="q-rate">오답률 41.5%</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>중세 국어 ‘구무’[구멍]는 결합하는 조사에 따라 형태가 달랐다. <b>조사와 결합 안 함</b> → 구무 / <b>자음 조사</b>(도) → 구무도 / <b>조사 ‘와’</b> → 구무와 / <b>조사 ‘이’</b> → 굵기. ‘나모’[나무]도 같은 환경에서 ‘나모’ 또는 ‘갏’으로 나타났다.</p>
+    <p>◦ ( ㉠ ) 곶과 果實와 　[나무와 꽃과 과실은]<br>◦ 그 後에 ( ㉡ ) 더 됴니라 　[그 뒤에 나무가 더 좋아졌다]</p>
+  </div>
+  <ul class="q-opts">
+    <li>① ㉠ 나모와　／　㉡ 남기</li>
+    <li>② ㉠ 나모와　／　㉡ 나뫼</li>
+    <li>③ ㉠ 남과　／　㉡ 나뫼</li>
+    <li>④ ㉠ 남과　／　㉡ 남기</li>
+    <li>⑤ ㉠ 남와　／　㉡ 나뫼</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘구무’의 규칙을 ‘나모’에 그대로 적용한다. <strong>조사 ‘와’ → 원형 유지(나모)</strong>, <strong>조사 ‘이’ → 형태 교체(남ㄱ-)</strong>가 핵심.</p>
+        <p>㉠은 뒤에 조사 ‘와’가 오니 원형 ‘나모’가 유지돼 <strong>나모와</strong>. ㉡은 뒤에 조사 ‘이’가 오니 ‘구무→굵기’처럼 교체돼 <strong>남기</strong>. 따라서 ①이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>‘와’ 앞 → 나모와, ‘이’ 앞 → 남기.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘이’ 결합형은 ‘나뫼’가 아니라 ‘남기’.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘와’ 앞은 ‘남과’가 아니라 ‘나모와’, ‘이’ 앞도 ‘나뫼’ 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘와’ 앞은 ‘남과’가 아니라 ‘나모와’.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘와’ 앞 ‘남와’·‘이’ 앞 ‘나뫼’ 모두 틀림.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 오답률 41.5%, ‘와/이’에서 갈린다</div>
+        <p>‘구무’ 규칙에서 <strong>‘와’ 앞=원형, ‘이’ 앞=교체</strong> 두 줄만 잡으면 된다. ‘나뫼’(②③⑤)에 끌리지 말고 ‘이’ 앞은 ‘굵기 ↔ 남기’의 교체임을 기억한다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob9">
+  <p class="q-stem">9. &lt;보기&gt;의 ㉠, ㉡에 대한 예문으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>피동문은 ㉠ 피동 접미사 ‘-이-, -히-, -리-, -기-’ 또는 ‘-되다’를 붙인 <b>파생적 피동문</b>과, ㉡ ‘-아/어지다’를 쓴 <b>통사적 피동문</b>으로 나뉜다.</p>
+  </div>
+  <ul class="q-opts">
+    <li>① ㉠: 바람이 불자 창호지에 구멍이 작게 뚫렸다.</li>
+    <li>② ㉠: 결국은 우리 팀이 작년에 우승한 팀까지 이겼다.</li>
+    <li>③ ㉠: 환경을 보호하자는 사회적 분위기가 형성되었다.</li>
+    <li>④ ㉡: 이 인물을 소재로 많은 명화가 그려졌다.</li>
+    <li>⑤ ㉡: 김 팀장에 의해 회의 일정이 빠르게 정해졌다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 예문이 ㉠(접미사·되다) 또는 ㉡(-아/어지다)의 <strong>피동문이 맞는지</strong> 본다. 애초에 피동이 아니면 탈락.</p>
+        <p>②의 ‘이겼다’는 주어(우리 팀)가 동작을 <strong>하는 능동문</strong>이지 당하는 피동문이 아니다. ㉠의 예문으로 부적절하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>‘뚫렸다’ = 접미사 ‘-리-’ 파생적 피동.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>‘이겼다’는 능동문 — 피동문 자체가 아니다.</td></tr>
+          <tr><td>③</td><td>적절</td><td>‘형성되었다’ = ‘-되다’ 파생적 피동.</td></tr>
+          <tr><td>④</td><td>적절</td><td>‘그려졌다’ = ‘-어지다’ 통사적 피동.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>‘정해졌다’ = ‘-어지다’ 통사적 피동.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — 피동인지부터 확인</div>
+        <p>‘이기다’는 ‘-기-’가 붙은 듯 보이지만 피동사가 아니라 그 자체가 능동 동사다. <strong>“주어가 당하는가?”</strong>를 먼저 물으면 ②가 바로 걸린다.</p>
+      </div>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. &lt;학습 활동&gt;을 수행한 결과로 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 학습 활동 &gt;</p>
+    <p>음운 변동은 <b>교체·탈락·첨가·축약</b>으로 나뉘며, <b>한 형태소 내부</b>에서 일어나기도 하고 <b>형태소와 형태소가 만날 때</b> 일어나기도 한다. (예: ‘숲’[숩]=내부 / ‘믿는’[민는]=형태소 결합)</p>
+    <p>◦ 다음 단어의 음운 변동을 분석하시오.<br>　굳히다[구치다] · 쑥대밭[쑥때받] · 끓다[끌타] · 장미꽃[장미꼳] · 부엌[부억]</p>
+  </div>
+  <ul class="q-opts">
+    <li>① ‘굳히다’는 교체와 축약이, 하나의 형태소 내부에서 일어난 것이겠군.</li>
+    <li>② ‘쑥대밭’은 교체와 첨가가, 형태소가 만날 때 일어난 것이겠군.</li>
+    <li>③ ‘끓다’는 탈락과 첨가가, 형태소가 만날 때 일어난 것이겠군.</li>
+    <li>④ ‘장미꽃’은 교체가, 형태소가 만날 때 일어난 것이겠군.</li>
+    <li>⑤ ‘부엌’은 교체가, 하나의 형태소 내부에서 일어난 것이겠군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 단어마다 ① <strong>어떤 변동</strong>(교체/탈락/첨가/축약)인지 ② <strong>내부냐 형태소 결합이냐</strong> 두 가지를 모두 맞혀야 한다.</p>
+        <p>‘부엌[부억]’은 받침 ㅋ이 ㄱ으로 바뀌는 <strong>교체</strong>이고, 다른 형태소와 무관한 <strong>한 형태소 내부</strong>에서 일어난다. 따라서 ⑤가 적절하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>‘굳히다’는 ‘굳-+-히-’가 만나며 교체·축약 → 형태소 결합이다(내부 X).</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘쑥대밭’은 교체만 일어나고 첨가는 없다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘끓다’는 축약(ㅎ+ㄷ→ㅌ)일 뿐 탈락·첨가가 아니다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘장미꽃’의 교체는 음절 끝소리 규칙으로 한 형태소 내부에서 일어난다(결합 X).</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘부엌→부억’은 교체이며 한 형태소 내부에서 일어난다.</td></tr>
+        </tbody>
+      </table>
+      <div class="trap">
+        <div class="trap-head">조심할 점 — ‘무엇’과 ‘어디서’를 따로</div>
+        <p>음운 변동 문제는 <strong>변동 종류</strong>와 <strong>일어난 자리(내부/결합)</strong>를 각각 채점한다. ④처럼 종류는 맞아도 자리가 틀리면 오답이다. 두 칸을 분리해 ○✕한다.</p>
       </div>
     </div>
   </details>
