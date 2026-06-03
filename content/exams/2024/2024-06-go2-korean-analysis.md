@@ -12,12 +12,13 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시행</span><strong>2024-06-04</strong></div>
   <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
-  <div class="exam-overview-item"><span>분석 범위</span><strong>1~7번 (작업 중)</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>1~10번 (작업 중)</strong></div>
 </section>
 
 <nav class="set-nav">
   <a href="#set1">1~3 화법</a>
   <a href="#set2">4~7 화법·작문</a>
+  <a href="#set3">8~10 작문</a>
 </nav>
 
 <div id="set1" class="set-anchor"></div>
@@ -302,6 +303,134 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr class="correct"><td>③</td><td class="ok">정답</td><td>인공지능의 수행 역할 구체화.</td></tr>
           <tr><td>④</td><td>오답</td><td>오히려 ‘흐름이다’로 단정(완곡 X).</td></tr>
           <tr><td>⑤</td><td>오답</td><td>장단점 나열 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set3" class="set-anchor"></div>
+
+## 8~10번 작문 · ‘소셜 기부’ 참여 권유 초고
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>학교 신문에 ‘손쉬운 기부(소셜 기부)’를 소개하고 참여를 권유하는 초고다. 글에 ‘무엇이 반영됐는지’, 자료가 ‘어디에 맞게 쓰이는지’, 마무리 조건을 본다.</p>
+  <ul>
+    <li><strong>1문단</strong> — 기부 필요성엔 공감하나 실제 참여는 적음(이유=방법 어려움·금액 부담).</li>
+    <li><strong>2문단</strong> — ‘소셜 기부’ 개념: 콘텐츠 공감형(좋아요)·릴레이형(지목)·온라인 소액/포인트.</li>
+    <li><strong>3문단</strong> — 악용 가능성 인정, 그러나 언제 어디서나·쉽게·함께·소액으로 부담 적음.</li>
+    <li><strong>4문단</strong> — 나의 참여가 또 다른 기부로 이어짐 → [A] 마무리.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 8번은 ‘개념 설명’ 반영, 9번은 ‘ㄴ(전문가 인터뷰)=손쉬운 방법과 무관’, 10번은 ‘비유+청유문’ 두 조건을 모두 갖춘 ①이 답이다.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[8 ~ 10] 작문 상황과 학생의 초고.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다.</span></p>
+  <p class="passage-note">[작문 상황] 학교 신문 기고란에 손쉽게 기부할 방법을 소개하고 참여를 유도함.</p>
+  <p>우리 사회엔 도움이 필요한 사람이 많다. 기부의 필요성에 공감하는 사람은 많지만 실제 기부로 이어지는 경우는 적다. <span class="ev" id="ev9-1">기부 참여가 적은 이유로 방법의 어려움, 금액에 대한 부담감 등이 있다.</span><a class="ev-tag" href="#q9-1">9-①</a></p>
+  <p>디지털 발전으로 손쉬운 기부 방법이 등장했는데, <span class="ev ans" id="ev8">누리소통망(SNS)을 활용한 기부를 ‘소셜 기부’라 한다. 콘텐츠 공감형(‘좋아요’), 릴레이형(다음 기부자 지목), 온라인 소액·포인트 기부가 있다.</span><a class="ev-tag ans" href="#q8-1">8-①</a></p>
+  <p>물론 <span class="ev" id="ev9-2">소셜 기부가 선한 의도와 달리 악용될 가능성도 있다.</span><a class="ev-tag" href="#q9-2">9-②</a> 하지만 휴대전화로 언제 어디서나 기부할 수 있고, 방법이 어렵다고 여기던 사람도 쉽게 참여할 수 있다. 또 <span class="ev" id="ev9-4">함께 즐기고, 소액 또는 포인트로 기부할 수 있어 부담이 적다.</span><a class="ev-tag" href="#q9-4">9-④·⑤</a></p>
+  <p><span class="ev ans" id="ev10">나 한 사람의 기부 참여는 또 다른 사람의 기부로 이어져 우리 사회에 긍정적 영향을 미칠 수 있다.</span><a class="ev-tag ans" href="#q10-1">10</a> <b>[A]</b></p>
+</div>
+
+<div class="q-block" id="prob8">
+  <p class="q-stem">8. 초고를 쓰기 위해 떠올린 생각 중 글에 반영된 것은?</p>
+  <ul class="q-opts">
+    <li id="q8-1">① 소셜 기부의 개념을 설명하여 독자의 이해를 도와야겠어.<a class="src-tag ans" href="#ev8">정답 근거</a></li>
+    <li id="q8-2">② 소셜 기부의 변화 과정을 설명하여 글의 목적을 강조해야겠어.</li>
+    <li id="q8-3">③ 소셜 기부를 통한 모금 현황을 밝혀 독자의 참여를 유도해야겠어.</li>
+    <li id="q8-4">④ 소셜 기부로 인한 피해 사례를 들어 문제의 심각성을 강조해야겠어.</li>
+    <li id="q8-5">⑤ 소셜 기부와 관련된 법적 제도를 언급하여 제재 선정의 이유를 밝혀야겠어.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 떠올린 생각 중 ‘실제 글에 있는 것’을 고른다.</p>
+        <p>2문단에서 ‘소셜 기부’의 <strong>개념과 종류</strong>를 설명해 독자의 이해를 돕고 있다. ①이 반영됐다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">반영</td><td>2문단 소셜 기부 개념 설명.</td></tr>
+          <tr><td>②</td><td>미반영</td><td>변화 과정 설명 없음.</td></tr>
+          <tr><td>③</td><td>미반영</td><td>모금 현황 제시 없음.</td></tr>
+          <tr><td>④</td><td>미반영</td><td>피해 사례 없음.</td></tr>
+          <tr><td>⑤</td><td>미반영</td><td>법적 제도 언급 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob9">
+  <p class="q-stem">9. 〈보기〉를 활용하여 초고를 보완하려 한다. 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p><b>ㄱ. 설문</b>(○○시민 1,000명) — ㄱ-1 기부 경험: 있다 24% / 없다 76%. ㄱ-2(없는 이유): 금액 부담 38% · 방법 어려움 31% · 무관심 19% · 기타 12%.<br>
+    <b>ㄴ. 전문가 인터뷰</b> — 개인 모금이 늘며 기부금을 여가·문화비로 쓰는 논란이 있다. 소액 기부는 사용 내역 확인을 요구해야 한다.<br>
+    <b>ㄷ. 신문 기사</b> — 자연재해 지역 온라인 기부 캠페인. ‘좋아요’로 손쉽게 기부. 사회 현안에 관심을 모으고 문제 해결에 기여.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q9-1">① ㄱ-1로, 우리 사회의 기부 참여가 저조함을 뒷받침한다.<a class="src-tag" href="#ev9-1">지문 근거</a></li>
+    <li id="q9-2">② ㄴ으로, 기부금이 사적 용도로 유용될 수 있다는 ‘악용 가능성’을 구체화한다.<a class="src-tag" href="#ev9-2">지문 근거</a></li>
+    <li id="q9-3">③ ㄷ으로, 소셜 기부가 사회 문제 해결에 기여한다는 ‘긍정적 영향’을 추가한다.</li>
+    <li id="q9-4">④ ㄱ-2와 <strong>ㄴ</strong>으로, 소액·포인트 기부를 ‘부담 느끼는 사람이 손쉽게 참여할 방법’으로 추가한다.<a class="src-tag ans" href="#ev9-4">정답 근거</a></li>
+    <li id="q9-5">⑤ ㄱ-2와 ㄷ으로, 방법이 어려워 못 하던 사람도 소셜 기부로 쉽게 참여할 수 있음을 보여 주는 예로 제시한다.<a class="src-tag" href="#ev9-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 자료가 그 ‘목적’에 맞게 쓰였는지 본다.</p>
+        <p>ㄴ(전문가 인터뷰)은 ‘기부금 사용 내역 확인’ 등 <strong>악용·관리</strong> 이야기로, ‘손쉽게 참여할 방법’과는 거리가 멀다. 따라서 ㄴ을 ‘손쉬운 참여 방법’ 근거로 쓴 ④는 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>ㄱ-1(없다 76%)=참여 저조.</td></tr>
+          <tr><td>②</td><td>적절</td><td>ㄴ=사적 유용→악용 구체화.</td></tr>
+          <tr><td>③</td><td>적절</td><td>ㄷ=문제 해결 기여(긍정 영향).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>ㄴ은 손쉬운 방법과 무관(악용·관리).</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>ㄱ-2(방법 어려움)+ㄷ(좋아요)=쉬운 참여 예.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 〈조건〉에 따라 [A]에 들어갈 내용으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 조 건 &gt;</p>
+    <p>작문 상황과 글의 흐름을 고려할 것. <b>비유적 표현</b>을 사용하고 <b>청유문</b>으로 마무리할 것.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q10-1">① 나의 작은 움직임 하나로 큰 물결을 만들어 낼 수 있는 기부에 함께하자.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
+    <li id="q10-2">② 기부는 공동체 화합의 꽃이므로 소셜 기부에 대한 부담감을 버리고 다양한 기부에 동참하자.</li>
+    <li id="q10-3">③ 이 사회의 구성원으로서 책임을 다하려면 기부의 목적을 이해하고 소셜 기부를 실천해 보자.</li>
+    <li id="q10-4">④ 나의 관심이 이 세상에 선물이 됨을 알고 기부 문화 확산에 관심을 가져야 한다.</li>
+    <li id="q10-5">⑤ 티끌 모아 태산이라고 작은 기부가 큰 도움이 될 수 있으니 기부를 생활화하는 것이 어떨까?</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ‘비유 + 청유문 + 흐름’ 세 조건을 모두 만족하는지 본다.</p>
+        <p>‘나의 참여가 긍정적 영향을 미친다’는 4문단 흐름을 이어, ‘<strong>큰 물결</strong>’이라는 비유와 ‘<strong>함께하자</strong>’라는 청유문으로 마무리한 ①이 모든 조건을 충족한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>‘큰 물결’ 비유 + ‘함께하자’ 청유 + 흐름.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘부담 버리자’는 흐름과 안 맞음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>비유 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>청유문 아님(‘가져야 한다’).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>청유문 아님(‘어떨까?’ 의문).</td></tr>
         </tbody>
       </table>
     </div>
