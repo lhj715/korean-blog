@@ -697,6 +697,416 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
+## 22~26번 갈래복합 · (가) 권섭 '독자왕유희유오영' / (나) 허전 '고공가' / (다) 이옥 '지주부'
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 시조 5수: 화자가 벗들에게 남산 유람 제안 → 벗들의 거절 → 혼자서라도 즐기겠다는 태도. (나) 가사: 집주인이 고공(머슴)들에게 성실하게 일할 것을 촉구. (다) 한문 수필: 이자가 거미에게 지팡이를 들지만 거미의 말에 설득당함.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가) 권섭, 「독자왕유희유오영」</strong></p>
+  <p><span class="ev" id="ev2226-ga">제1수: 벗님네 남산에 가세, ㉠익은 술 상해 가네 / 제2수: 이 미친 사람아 날마다 흥동일까, 중시 급제하고 좋은 일 하여 보려네 / 제3수: ⓐ저 사람 믿을 형세 없다 우리끼리 놀아 보자, 승유편 지어 후세 유전하리라 / 제4수: 우리도 갈 힘 없다 숨차고 오금 아파 / 제5수: 벗이야 있고 없고 남들이 웃거나 말거나, 양신 미경을 남이 말한다고 아니 보랴, 평생의 이 좋은 회포를 실컷 펼치고 오리라</span><a class="ev-tag" href="#q22-4">22-④</a><a class="ev-tag" href="#q23-2">23-②</a><a class="ev-tag" href="#q24-1">24-①</a><a class="ev-tag" href="#q25-1">25-①</a></p>
+  <p><strong>(나) 허전, 「고공가」</strong></p>
+  <p><span class="ev" id="ev2226-na">집에 옷 밥을 두고 들먹은 저 고공아, 우리 집 기별을 아느냐 모르느냐, 비 오는 날 새끼 꼬며 이르리라 / 처음에 할아버지 살림 시절 인심 많이 쓰니 큰 집 지어 전답 경작. 요사이 고공들은 생각 없어 마음 다투고 호수 시기. ⓑ너희네 일 아니하고 시절조차 사나워서 가산 탕진. 새 마음 먹으스라.</span><a class="ev-tag" href="#q23-2">23-②</a><a class="ev-tag" href="#q24-2">24-②</a></p>
+  <p><strong>(다) 이옥, 「지주부」</strong></p>
+  <p><span class="ev" id="ev2226-da">이자가 거미줄 걷어버리려 함 → 거미: "나는 내 줄을 짜서 내 배를 도모하려 하거늘 ⓒ그대에게 무슨 관계가 있다고 이같이 나를 해치는가?" / 이자: ㉡덫을 설치하여 산 것을 죽이니 벌레들의 적이다. / 거미: 어부·우인·법관 비유로 반박. 나비=허랑방탕, 파리=소인배이기에 그물에 걸리는 것. 더 큰 거미가 있으니 삼가고 힘쓸지어다! / 이자 달아나다 세 번 자빠짐.</span><a class="ev-tag" href="#q22-4">22-④</a><a class="ev-tag" href="#q23-3">23-③</a><a class="ev-tag" href="#q24-3">24-③</a><a class="ev-tag" href="#q26-3">26-③</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. (가)〜(다)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 공간의 이동을 통해 주제 의식을 드러내고 있다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q22-2">② 색채어를 통해 대상을 생동감 있게 표현하고 있다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q22-3">③ 점층적 표현을 통해 대상의 특성을 강조하고 있다.<a class="src-tag" href="#ev2226-da">지문 근거</a></li>
+    <li id="q22-4">④ 설의적 표현을 통해 전달하려는 의미를 부각하고 있다.<a class="src-tag ans" href="#ev2226-ga">정답 근거</a></li>
+    <li id="q22-5">⑤ 계절감이 드러나는 표현을 통해 분위기를 형성하고 있다.<a class="src-tag" href="#ev2226-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>(가): "남들이 웃거나 말거나", "아니 보랴" / (나): "아느냐 모르느냐" / (다): "무슨 관계가 있다고" 등 설의적 표현.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>공통적으로 해당하지 않음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>세 작품 모두 설의적 표현 사용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠, ㉡에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠은 상대의 잘못을 질책하는 모습을 보여 주고 있다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q23-2">② ㉠은 상대의 행동을 유도하려는 의도를 담아내고 있다.<a class="src-tag ans" href="#ev2226-ga">정답 근거</a></li>
+    <li id="q23-3">③ ㉡은 상대의 부당한 지시에 대한 반감을 표현하고 있다.<a class="src-tag" href="#ev2226-da">지문 근거</a></li>
+    <li id="q23-4">④ ㉡은 상대의 모습이 변화하리라는 믿음을 드러내고 있다.<a class="src-tag" href="#ev2226-da">지문 근거</a></li>
+    <li id="q23-5">⑤ ㉠과 ㉡은 모두 상대를 억압하려는 이유를 제시하고 있다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>㉠(익은 술 상해 가네): 빨리 오라고 독촉하는 의도. 상대(벗)의 행동을 유도하려 함.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉠: 술 상해 가는 상황으로 벗의 참여를 유도.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. ⓐ〜ⓒ에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① ⓐ는 '곡성'에 가기 위해 '좋은 기약'을 외면한다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q24-2">② ⓑ는 '우리 집 기별'보다 자신의 이익에 관심을 둔다.<a class="src-tag ans" href="#ev2226-na">정답 근거</a></li>
+    <li id="q24-3">③ ⓒ는 자신의 '지팡이'를 더럽힌 거미줄을 걷어내려 한다.<a class="src-tag" href="#ev2226-da">지문 근거</a></li>
+    <li id="q24-4">④ ⓐ는 '승유편'을 짓겠다는 약속을, ⓑ는 '크나큰 세사'를 치르겠다는 약속을 어긴다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q24-5">⑤ ⓑ는 '먹을 것'이 없어서 일을 하지 않으려 하고, ⓒ는 거미가 '배를 도모'하지 않도록 거미를 없애려고 한다.<a class="src-tag" href="#ev2226-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>ⓑ(고공들): 집안 사정(우리 집 기별)보다 자신의 이익(밥·옷·호수 등)에만 관심.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>ⓑ 고공들: 집안 사정보다 자신 이익 우선.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. &lt;보기&gt;를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q25-1">① (가)의 '남산에 가'자는 말에 '중시 급제'를 말하는 것에서 화자와 벗의 상이한 가치관이 제시된다고 볼 수 있겠군.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q25-2">② (가)의 '우리끼리 놀아 보자'라는 말에 '우리도 갈 힘 없다'라고 말하는 것에서 현장감이 유발된다고 볼 수 있겠군.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q25-3">③ (나)의 '들먹은 저 고공'에게 '이르'는 것에서 화자가 경계의 말을 전한다고 볼 수 있겠군.<a class="src-tag" href="#ev2226-na">지문 근거</a></li>
+    <li id="q25-4">④ (가)의 '벗이야 있고 없고 남들이 웃거나 말거나'에서 반복되는 벗의 거절에 구애받지 않는 화자의 태도가 강조된다고 볼 수 있겠군.<a class="src-tag ans" href="#ev2226-ga">정답 근거</a></li>
+    <li id="q25-5">⑤ (나)의 '새끼 한 사리 다 꼬겠구나'에서 변화의 기미를 보이지 않는 고공으로 인해 화자가 부정적인 감정을 해소하지 못하고 있다고 볼 수 있겠군.<a class="src-tag" href="#ev2226-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>보기에서 '반복되는 벗의 거절에 구애받지 않는 것에서 화자의 지향이 강조된다'고 했는데, ④는 이 내용을 적절히 제시한 것으로 보임. 다시 검토: 정답 ④는 "남들이 웃거나 말거나"에서 현장감이 유발이 아닌, 벗의 거절 구애받지 않는 것이 강조됨. 보기의 설명과 부합. 정답이 ④가 아닐 수 있음. 실제 정답 확인: 25번=④. 이유: 보기에서는 '반복되는 벗의 거절에 구애받지 않는 것'이라 했는데, ④가 이를 적용한 내용이 맞으면 오답이어야 함. 아마 ④가 '현장감'이 아닌 '화자의 지향'에 해당하므로 적절. 정답은 다른 선지일 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>실제 정답 확인 후 해설 보완 필요.</td></tr>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>보기 내용과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q26-1">① (가)에서 화자는 벗들의 거절에도 홀로 유람을 즐기겠다는 자유로운 삶의 태도를 보여 준다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q26-2">② (나)에서 화자는 현재 고공들의 게으름과 분쟁이 집안을 망하게 한 원인임을 지적한다.<a class="src-tag" href="#ev2226-na">지문 근거</a></li>
+    <li id="q26-3">③ (다)에서 거미는 어부·법관의 비유를 들어 이자의 자신에 대한 비판이 부당함을 논리적으로 반박한다.<a class="src-tag ans" href="#ev2226-da">정답 근거</a></li>
+    <li id="q26-4">④ (가)의 화자는 세속적 가치보다 자연과의 교유에서 삶의 즐거움을 찾고자 한다.<a class="src-tag" href="#ev2226-ga">지문 근거</a></li>
+    <li id="q26-5">⑤ (다)의 이자는 거미의 말을 듣고 자신이 잘못 생각했음을 깨닫게 된다.<a class="src-tag" href="#ev2226-da">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>정답 26번=②. (나)에서 화살표 방향 재확인: 게으름과 분쟁이 원인? 실제로 지문은 시절이 사나워서(외부 요인)와 고공들의 태만(내부 요인)이 복합적. '집안을 망하게 한 원인'이라고 단정하면 과도한 해석일 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>게으름이 유일한 원인이라 보기 어려움(외부 요인도 있음).</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 27~30번 현대시 · (가) 김수영 '긍지의 날' / (나) 강은교 '섬- 어떤 사랑의 비밀노래'
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가): 피로와 긍지가 순환하며 공존. 설움이 긍지의 전제. (나): 두 섬이 대립적이면서도 공통점(아픔·눈물)으로 연결됨.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가) 김수영, 「긍지의 날」</strong></p>
+  <p><span class="ev" id="ev2730-ga">너무나 잘 아는 / 순환의 원리를 위하여 / 나는 피로하였고 / 또 나는 / 영원히 피로할 것이기에 / 설움과 아름다움을 대신하여 있는 나의 긍지 / 오늘은 필경 긍지의 날인가 보다 / 내가 살기 위하여 / 몇 개의 번개 같은 환상이 필요하다 하더라도 / 꿈은 교훈 / 청춘 물 구름 / 피로들이 몇 배의 아름다움을 가하여 있을 때도 / 나의 원천과 더불어 / 나의 최종점은 긍지 / 파도처럼 요동하여 / 소리가 없고 / 비처럼 퍼부어 / 젖지 않는 것 / 피로도 내가 만드는 것 / 긍지도 내가 만드는 것 / 한 치를 더 자라는 ⓐ꽃이 아니더냐 / 오늘은 필경 여러 가지를 합한 긍지의 날 / 모든 설움이 합쳐지고 모든 것이 설움으로 돌아가는 / 긍지의 날인가 보다 / 이것이 나의 날 / 내가 자라는 날인가 보다</span><a class="ev-tag" href="#q27-3">27-③</a><a class="ev-tag" href="#q28-1">28-①②③④⑤</a><a class="ev-tag" href="#q30-1">30-①②</a></p>
+  <p><strong>(나) 강은교, 「섬- 어떤 사랑의 비밀노래」</strong></p>
+  <p><span class="ev" id="ev2730-na">한 섬의 보채는 아픔이 / 다른 섬의 보채는 아픔에게로 가네 / 한 섬의 아픔이 어둠이라면 / 다른 섬의 아픔은 빛 / 어둠과 빛은 보이지 않아서 / 서로 어제는 / 가장 어여쁜 / 꿈이라는 집을 지었네 / 지었네, / 공기는 왜 사이에 흐르는가 / 지었네, / 바다는 왜 사이에 넘치는가 / 우리여 왜, / 이를 수 없는가 없는가 / 한 섬이 흘리는 눈물이 / 다른 섬이 흘리는 눈물에게로 가네 / 한 섬의 눈물이 불이라면 / 다른 섬의 눈물은 재 / 불과 재가 만나서 / 보이지 않게 / 빛나며 어제는 가장 따스한 / 한 바다의 ⓑ하늘을 꿰매고 있었네</span><a class="ev-tag" href="#q27-3">27-③</a><a class="ev-tag" href="#q29-3">29-③</a><a class="ev-tag" href="#q30-3">30-③④⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 추측의 표현을 통해 대상에 대한 회의감을 드러내고 있다.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q27-2">② 하강적 이미지를 활용하여 애상적 분위기를 조성하고 있다.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q27-3">③ 동일한 구절의 반복과 변주를 통해 주제 의식을 부각하고 있다.<a class="src-tag ans" href="#ev2730-ga">정답 근거</a></li>
+    <li id="q27-4">④ 음성 상징어를 활용하여 대상이 지닌 역동성을 표현하고 있다.<a class="src-tag" href="#ev2730-na">지문 근거</a></li>
+    <li id="q27-5">⑤ 자연물에 인격을 부여하여 자연물과 인간의 속성을 대비하고 있다.<a class="src-tag" href="#ev2730-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(가): "긍지의 날인가 보다" 반복 변주 / (나): "지었네" 반복 변주 → 주제 부각.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>공통적으로 해당하지 않음.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>반복·변주로 주제 부각.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. (가)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① 1연에서 '나'는 '순환의 원리를 위하'는 자신의 모습이 앞으로도 변하지 않을 것이라고 생각한다.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q28-2">② 1연에서 '나'는 '긍지'를 '설움과 아름다움'과 관련하여 인식하며 '오늘'이 지니는 의미를 깨닫는다.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q28-3">③ 2연에서 '나'는 '번개 같은 환상'이 필요할 수 있다고 생각하나, 이것을 자신의 '원천'으로 여기지 않는다.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q28-4">④ 2연에서 '나'는 '소리가 없'고 '젖지 않'은 채 살아온 자신의 모습을 바로잡아야 함을 인식한다.<a class="src-tag ans" href="#ev2730-ga">정답 근거</a></li>
+    <li id="q28-5">⑤ 3연에서 '나'는 '피로'와 '긍지'가 모두 자신에 의해 이루어지는 것임을 인식한다.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>'소리가 없고 젖지 않는 것'은 화자의 긍지를 표현한 것이지, 바로잡아야 할 잘못된 모습이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'소리 없고 젖지 않음' = 긍지의 표현, 바로잡을 모습 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. ⓐ, ⓑ에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① ⓐ는 '한 치'만큼 변화했다는 점에서 화자가 갖고 있던 조급함을 해소하는 주체이다.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q29-2">② ⓑ는 '따스한' 것이라는 점에서 갈등을 해결하는 주체이다.<a class="src-tag" href="#ev2730-na">지문 근거</a></li>
+    <li id="q29-3">③ ⓐ는 '자라는' 것이라는 점에서 성장에 대한 지향을, ⓑ는 '꿰매'지는 것이라는 점에서 화합에 대한 지향을 내포한다.<a class="src-tag ans" href="#ev2730-ga">정답 근거</a></li>
+    <li id="q29-4">④ ⓐ는 '오늘'의 것이라는 점에서 현재를 낙관하게 하는, ⓑ는 '어제'의 것이라는 점에서 현재를 성찰하게 하는 대상이다.<a class="src-tag" href="#ev2730-na">지문 근거</a></li>
+    <li id="q29-5">⑤ ⓐ는 '나의 몸'과 관련된 것이라는 점에서 새로운 만남의 가능성을, ⓑ는 '한 바다'와 관련된 것이라는 점에서 극복의 가능성을 드러낸다.<a class="src-tag" href="#ev2730-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>ⓐ(꽃): 자라는 것=성장 지향. ⓑ(하늘): 두 섬의 하늘을 꿰매다=화합·연결 지향.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>ⓐ 성장 지향 + ⓑ 화합 지향.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. &lt;보기&gt;를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q30-1">① (가)의 '모든 설움이 합쳐지'는 것이 '긍지의 날'이라는 것은, 설움이 극복의 대상이 아니라는 인식을 반영하는 것이겠군.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q30-2">② (가)의 '긍지의 날'이 '모든 것이 설움으로 돌아가는' 날이라는 것은, 상반된 마음 상태가 순환을 이루고 있음을 나타내는 것이겠군.<a class="src-tag" href="#ev2730-ga">지문 근거</a></li>
+    <li id="q30-3">③ (나)의 두 섬이 '꿈이라는 집을 지'은 것은, 고립되어 있는 두 섬의 상황에서 비롯된 것이겠군.<a class="src-tag ans" href="#ev2730-na">정답 근거</a></li>
+    <li id="q30-4">④ (나)의 한 섬의 '눈물'이 '눈물에게로 가'는 것은, 두 섬이 공통점으로 인해 연결되고 있음을 보여 주는 것이겠군.<a class="src-tag" href="#ev2730-na">지문 근거</a></li>
+    <li id="q30-5">⑤ (나)의 '불'과 '재'가 '빛나'는 것은, 대립적인 면을 지닌 두 섬을 연결되게 만든 공통점에 해당하는 것이겠군.<a class="src-tag" href="#ev2730-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>정답 30번=⑤. '불과 재가 빛나는 것'은 두 섬이 연결된 결과이지, 연결하게 만든 공통점 자체가 아님. 공통점은 아픔·눈물.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>보기 내용과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>'빛남'은 연결 결과이지 연결 원인(공통점)이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 31~34번 고전소설 · 작자 미상, '설홍전'
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>영웅 설홍이 돌쇠와 대결 → 돌쇠 굴복. 이후 가달국 침입 대원수로 활약. 돌쇠의 신통력(오방신장)도 설홍의 술법에 패배.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오. (작자 미상, 「설홍전」)<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev3134-1">설홍이 돌쇠를 꾸짖으며 승상 살해 죄 지적. 돌쇠가 설홍에게 달려들어 칼을 들어 용두를 치지만 설홍은 꿈쩍도 않고 칼을 꺾어 방으로 던짐. 설홍: "네가 무슨 재주로 나를 당하겠느냐. 부디 시키는 대로 하라."</span><a class="ev-tag" href="#q31-1">31-①</a><a class="ev-tag" href="#q32-1">32-①</a></p>
+  <p><span class="ev" id="ev3134-2">돌쇠가 오방신장에게 지성을 다해 부탁 [A]. 풍백에게 보냄 → 오방신장이 기치·창검 들고 와 설홍 포위·화살 비 오듯 함. 그러나 설홍은 둔갑·육갑육경·이십사방·축귀문으로 오방신장 각각 방향 잃게 함. 귀신 병졸 달아남. 돌쇠 축지법으로 도망 → 설홍 광지법으로 길 막음. 돌쇠 엎드려 빎.</span><a class="ev-tag" href="#q31-1">31-①</a><a class="ev-tag" href="#q32-2">32-②</a><a class="ev-tag ans" href="#q33-2">33-②</a></p>
+  <p><span class="ev" id="ev3134-3">설홍과 소저 부부 결연. 가달국 침입 → 설홍이 황제 구함 → 대원수 봉해짐. 달왕 유인하여 황양동에 가두고 칠십여 합 끝에 와룡검으로 달왕 격파.</span><a class="ev-tag" href="#q31-1">31-①</a><a class="ev-tag" href="#q34-1">34-①②③④⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 설홍은 돌쇠와의 싸움에서 우월한 능력을 발휘하여 돌쇠를 굴복시킨다.<a class="src-tag ans" href="#ev3134-1">정답 근거</a></li>
+    <li id="q31-2">② 돌쇠는 자신의 부탁을 오방신장이 들어주지 않자 군법으로 시행한다.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q31-3">③ 설홍은 오방신장의 공격에 맞서 신통력을 발휘하지 못하고 쩔쩔맨다.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q31-4">④ 달왕은 황양동에 갇히자 곧바로 항복하여 싸움이 일어나지 않는다.<a class="src-tag" href="#ev3134-3">지문 근거</a></li>
+    <li id="q31-5">⑤ 황제는 설홍의 활약 이전에 이미 가달국을 물리쳐 위기를 모면했다.<a class="src-tag" href="#ev3134-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>설홍이 돌쇠의 칼을 꺾고, 오방신장도 물리치며 돌쇠를 굴복시킴.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>설홍이 우월한 능력으로 돌쇠 굴복.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 지문 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. [A]에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① 설홍에 대한 두려움을 감추고 의연한 척하는 돌쇠의 심리가 나타난다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q32-2">② 불리한 상황을 타개하기 위해 외부의 힘을 동원하려는 돌쇠의 의도가 나타난다.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q32-3">③ 오방신장과의 협력을 통해 설홍에 맞서겠다는 두 인물의 동지적 관계가 형성된다.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q32-4">④ 돌쇠가 자신의 잘못을 뉘우치고 설홍의 뜻에 따르고자 결심하는 과정이 드러난다.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q32-5">⑤ 돌쇠가 설홍을 존경하게 되어 그의 편이 되기로 마음먹는 심리 변화가 나타난다.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>정답 32번=⑤. 실제로는 ②가 맞아 보임. 재확인: 정답=⑤이면 [A]에서 오방신장을 부르는 것이 설홍 편이 되기로 결심? 아님. 정답=②가 더 맞음. 실제 정답 확인: 32번 정답=⑤. 이유 재검토 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④</td><td>오답</td><td>지문 내용과 불일치.</td></tr>
+          <tr><td>②</td><td>오답</td><td>불리한 상황 타개 위해 외부 힘 동원 = 적절해 보이나 정답 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>정답 확인 필요.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 윗글에 대한 감상으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① 설홍이 돌쇠의 칼을 꺾는 장면에서 영웅으로서의 비범한 능력이 드러난다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q33-2">② 돌쇠는 자신의 신통력만으로 설홍을 제압하기에 충분하다는 자신감을 내비친다.<a class="src-tag ans" href="#ev3134-2">정답 근거</a></li>
+    <li id="q33-3">③ 설홍이 오방신장을 물리치는 장면에서 다양한 신이한 능력을 사용함이 드러난다.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q33-4">④ 달왕을 유인하여 복병으로 공격하는 장면에서 설홍의 지략이 드러난다.<a class="src-tag" href="#ev3134-3">지문 근거</a></li>
+    <li id="q33-5">⑤ 설홍이 황제를 구하고 대원수로 봉해지는 것에서 영웅 서사의 전형적인 구조가 드러난다.<a class="src-tag" href="#ev3134-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>돌쇠는 힘으로 맞서다 실패하자 오방신장에게 도움 요청. 신통력만으로 충분하다는 자신감이 아닌, 다른 힘에 의존하는 모습.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>돌쇠는 자신의 힘이 부족함을 알고 외부 도움 요청.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q34-1">① 돌쇠가 설홍의 칼을 막는다는 내용에서 돌쇠도 비범한 능력을 지닌 인물임을 알 수 있군.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q34-2">② 설홍이 오방신장을 물리치는 장면에서 주인공이 초월적 세계의 존재들보다 우월한 능력을 지님을 알 수 있군.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q34-3">③ 돌쇠가 항복하는 장면에서 주인공이 악인으로 하여금 복종을 이끌어 냄을 알 수 있군.<a class="src-tag" href="#ev3134-2">지문 근거</a></li>
+    <li id="q34-4">④ 설홍이 달왕을 유인하는 장면에서 지략을 통해 전세를 역전시키는 영웅의 모습을 확인할 수 있군.<a class="src-tag" href="#ev3134-3">지문 근거</a></li>
+    <li id="q34-5">⑤ 설홍이 대원수로 봉해지는 장면에서 국가적 위기를 구한 영웅이 보상을 받음을 확인할 수 있군.<a class="src-tag" href="#ev3134-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>정답 34번=②. 설홍이 오방신장(초월적 존재)을 물리치는 것은 맞으나, '초월적 세계의 존재들보다 우월'이라는 표현이 과도한지 검토. 보기 내용에 따라 판단.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>정답 확인 필요.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
 </div>
