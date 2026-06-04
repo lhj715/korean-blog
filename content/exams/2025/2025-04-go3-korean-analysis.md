@@ -1586,19 +1586,293 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setB1" class="set-anchor"></div>
 
-## 35~36번 언어 · [작성 예정]
+## 35~36번 언어 · 보조 용언의 띄어쓰기
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>보조 용언=자립 가능한 단어이므로 띄어 씀이 원칙. 붙여쓰기 허용 범위와 예외를 파악한다.</p>
+  <ul>
+    <li><strong>붙여쓰기 허용</strong> — '-아/-어'로 연결된 보조용언 / 의존명사+-하다/-싶다</li>
+    <li><strong>불허</strong> — 본용언이 합성어/파생어(단, 활용형 2음절은 허용) / 보조용언 거듭 연결 시 모두 붙이기</li>
+    <li><strong>보조 용언 아닌 것</strong> — '-어서'의 '서'가 줄어든 경우(본용언+본용언) / 의존명사+조사+용언</li>
+    <li><strong>35번 ⑤</strong> — 보조 용언: '어휘적 의미 희박+문법적 의미'인데 ⑤는 반대로 서술</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evB35-1a">띄어쓰기는 어절마다 띄는 표기 방식으로, 문장의 빠르고 정확한 이해를 도와 독서의 효율을 높인다. 한글 맞춤법 제2항은 '문장의 각 단어는 띄어 씀을 원칙으로 한다.'라고 규정한다. 단어는 자립 가능한 최소의 의미 단위인데, 어미와 접사의 경우는 자립 가능하지 않으므로 단어가 아니며, 따라서 띄어 쓰지 않는다. 조사는 단어임에도 예외적으로 앞말과 붙여 쓰는데, 이는 조사가 자립성이 없기 때문이다.</span><a class="ev-tag" href="#qB35-1">35-①②③</a></p>
+  <p><span class="ev ans" id="evB35-5">보조 용언은 용언이 어휘적 의미가 희박해지고 문법적 의미를 지니게 된 것으로, 보조 용언만으로는 문장이 성립하지 않는다. 그러나 보조 용언도 형태상 활용을 하고 기능상 서술어의 역할을 한다는 점에서 일반적인 용언처럼 자립 가능한 단어로 본다.</span><a class="ev-tag ans" href="#qB35-5">35-⑤</a><a class="ev-tag" href="#qB35-4">35-④</a></p>
+  <p>한글 맞춤법 제47항에 따르면, 보조 용언은 띄어 씀을 원칙으로 하되, 경우에 따라 붙여 쓰는 것이 허용된다. 이때 붙여 쓰는 것이 허용되는 보조 용언은 연결 어미 '-아/-어'로 연결되는 보조 용언과, 의존 명사에 '-하다', '싶다'가 결합된 보조 용언을 말한다.</p>
+  <p>그러나 본용언이 합성어나 파생어인 경우, 보조 용언을 붙여 쓰는 것은 허용되지 않는다. 단, 본용언의 활용형이 2음절일 때는 붙여 쓰는 것이 허용된다. 또한 본용언에 보조 용언이 거듭하여 연결된 경우에는 모든 보조 용언을 붙이는 것은 허용되지 않지만, 본용언 바로 뒤의 보조 용언만 붙여 쓰는 것은 허용된다.</p>
+  <p><span class="ev ans" id="evB36-4">'병원에 업혀 왔다'처럼 본래 '-아서/-어서'였던 용언의 연결 어미가 '서'가 줄어들어 '-아/-어'가 된 경우는 본용언과 본용언이 연결된 것이며, '읽은 체를 하다'처럼 의존 명사에 조사가 붙은 경우는 의존 명사와 용언이 나열된 것이다. 이런 경우에는 보조 용언이 쓰이지 않았으므로 띄어 써야 한다.</span><a class="ev-tag ans" href="#qB36-4">36-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probB35">
+  <p class="q-stem">35. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB35-1">① 어미와 접사는 자립성이 없어 띄어 쓰지 않는다.<a class="src-tag" href="#evB35-1a">지문 근거</a></li>
+    <li id="qB35-2">② 띄어쓰기는 문장의 빠르고 정확한 이해를 돕는다.<a class="src-tag" href="#evB35-1a">지문 근거</a></li>
+    <li id="qB35-3">③ 조사는 단어임에도 예외적으로 앞말과 붙여 쓴다.<a class="src-tag" href="#evB35-1a">지문 근거</a></li>
+    <li id="qB35-4">④ 보조 용언은 형태상 활용을 하고 기능상 서술어의 역할을 한다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB35-5">⑤ 보조 용언은 용언이 문법적 의미가 희박해지고 어휘적 의미를 지니게 된 것이다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>지문: "어휘적 의미가 희박해지고 문법적 의미를 지니게 된 것". ⑤는 반대로 서술.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>어휘적 의미 희박+문법적 의미인데 반대로 서술.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB36">
+  <p class="q-stem">36. 윗글을 바탕으로 &lt;보기&gt;의 ㉠~㉤을 이해한 내용으로 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>㉠파고들어 보았다 / ㉡손써 보자 / ㉢머물러 볼 법하다 / ㉣태워 갈게 / ㉤올 듯도 하다</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB36-1">① ㉠: 본용언과 보조 용언이 '-아/-어'로 연결된 경우는 붙여 쓰는 것이 허용되므로, '파고들어'와 '보았다'는 붙여 쓸 수 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB36-2">② ㉡: 본용언이 합성어나 파생어인 경우는 보조 용언을 붙여 쓰는 것이 허용되지 않으므로, '손써'와 '보자'는 붙여 쓸 수 없다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB36-3">③ ㉢: 본용언에 보조 용언이 거듭하여 연결된 경우는 한 어절이 지나치게 길어지지 않도록 허용 범위가 제한되므로, '머물러볼법하다'처럼 쓰는 것은 허용되지 않는다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB36-4">④ ㉣: '태워 갈게'는 보조 용언이 쓰이지 않은 경우이므로, '태워갈게'처럼 붙여 쓰는 것은 허용되지 않는다.<a class="src-tag ans" href="#evB36-4">정답 근거</a></li>
+    <li id="qB36-5">⑤ ㉤: '-을 듯하다'는 의존 명사에 '-하다'가 결합된 보조 용언이 아니라 의존 명사에 조사가 붙은 경우이므로, '올듯도하다'처럼 붙여 쓰는 것은 허용되지 않는다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>'태워 갈게' = '태워서 갈게'에서 '서' 줄어든 것 = 본용언+본용언 연결 = 보조 용언 아님 → 띄어 써야 함 → '태워갈게' 불허. ④가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'태워갈게'=본용언+본용언=보조용언 아님=붙여쓰기 불허.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB2" class="set-anchor"></div>
 
-## 37~39번 언어 · [작성 예정]
+## 37~39번 언어 · 음운변동 / 서술절 / 중세 국어
+
+<div class="q-block" id="probB37">
+  <p class="q-stem">37. &lt;학습 활동&gt;을 수행한 결과로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>게임 규칙: 칸에 적힌 조건(음운 변동 유형+횟수) 모두 만족하는 단어를 제시. ⓐ→ⓑ→ⓒ 순서로 도착지 도달.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB37-1">① 굳이[구지] / 직행열차[지캥녈차] / 홑이불[혼니불]</li>
+    <li id="qB37-2">② 맑지[막찌] / 백합꽃[배캅꼳] / 짓이기다[진니기다]<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB37-3">③ 밟는[밤ː는] / 탓하다[타타다] / 옷맵시[온맵씨]</li>
+    <li id="qB37-4">④ 칡뿌리[칙뿌리] / 밟히다[발피다] / 물약[물략]</li>
+    <li id="qB37-5">⑤ 넓둥글다[넙뚱글다] / 커다랗다[커ː다라타] / 훗일[훈ː닐]</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>정답 키에서 37번=②. 각 단어의 음운 변동 유형과 횟수가 칸 조건과 일치함.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB38">
+  <p class="q-stem">38. &lt;보기&gt;의 ㉠이 사용된 문장으로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>㉠: 표지가 없는 절(서술절)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB38-1">① 그는 감기에 걸리지 않도록 조심했다.</li>
+    <li id="qB38-2">② 이 방이 저 방보다 바람이 더 잘 통한다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB38-3">③ 책상 위에 있는 책은 그녀의 것이 아니다.</li>
+    <li id="qB38-4">④ 올해에도 어르신께서 건강하시기를 바랍니다.</li>
+    <li id="qB38-5">⑤ 나는 친구에게 아까 점심으로 김밥을 먹었다고 말했다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>②: "이 방이 저 방보다 바람이 더 잘 통한다" = 주어 '이 방이'에 서술절 '바람이 더 잘 통한다'가 안김. 서술절은 주격 조사가 붙은 절로 별도 표지가 없다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답 — 서술절(표지 없는 절)</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB39">
+  <p class="q-stem">39. &lt;보기&gt;를 바탕으로 중세 국어의 특징을 탐구한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB39-1">① ㉠과 ㉦을 통해 모음 조화에 따라 형태를 달리하는 관형격 조사가 있었음을 확인할 수 있다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB39-2">② ㉡을 통해 앞 형태소의 끝소리를 다음 형태소의 첫소리로 옮겨 적는 방식이 사용되었음을 확인할 수 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB39-3">③ ㉢과 ㉤을 통해 초성에서 두 개 이상의 자음이 사용되었음을 확인할 수 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB39-4">④ ㉣과 ㉥을 통해 두음 법칙이 적용되지 않았음을 확인할 수 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB39-5">⑤ ㉧을 통해 모음 '이'로 끝난 체언 뒤에서 주격 조사가 나타나지 않았음을 확인할 수 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>㉠'지븨'=체언+관형격 조사 / ㉦'육사'=한자어 체언+관형격 조사 → '의' vs 다른 형태. 실제로는 ㉠=체언이 'ㅂ'으로 끝나 '의'의 이형태 사용. ㉦='六師의' 형태. 실제 두 형태가 모음 조화가 아닌 다른 이유로 나뉜다면 ①이 틀린 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB3" class="set-anchor"></div>
 
-## 40~43번 언어·매체 · [작성 예정]
+## 40~43번 언어·매체 · 텔레비전 뉴스 — 기후 변화와 농업 변화
+
+<div class="q-block" id="probB40">
+  <p class="q-stem">40. [A]~[C]에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB40-1">① [A]는 보도 내용과 관련된 소재의 이미지를 보도의 주요 내용과 함께 화면 우측 상단에 제시하고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB40-2">② [B]는 시청자의 일상에 도움이 될 수 있는 정보를 주기 위해 보도 내용과 직접 관련이 없는 생활 정보를 화면 하단에 제시하고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB40-3">③ [C]는 화면을 분할하여 인터뷰 장면과 또 다른 장면을 함께 제시하고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB40-4">④ [A], [B]는 보도의 현장감을 높이기 위해 취재 현장에서 직접 보도하는 영상을 제시하고 있다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB40-5">⑤ [B], [C]는 보도 내용의 전달력을 높이기 위해 발화의 일부를 자막으로 제시하고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정답 키에서 40번=④. [A],[B] 모두 취재 현장에서 직접 보도하는 영상이 아닌 경우도 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB41">
+  <p class="q-stem">41. 다음은 (가)에 대한 시청자 게시판의 내용이다. 시청자의 수용 양상에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB41-1">① '시청자 1'은 '기자' 발화의 일부 내용에 주목하여 보도에서 제공한 정보가 사실인지 확인하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB41-2">② '시청자 2'는 '기자' 발화의 일부 내용에 주목하여 보도에서 활용한 정보의 신뢰성을 점검하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB41-3">③ '시청자 3'은 '농민' 발화의 일부 내용에 주목하여 보도의 내용을 자신의 경험과 연결 지어 이해하였다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB41-4">④ '시청자 4'는 '연구원' 발화의 일부 내용에 주목하여 보도의 내용을 부정적으로 판단하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB41-5">⑤ '시청자 5'는 '연구원' 발화의 일부 내용에 주목하여 보도에서 다루지 않은 내용에 대한 정보를 요청하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>시청자3: "농민의 말씀에 공감이 갑니다. 저희도 재배하던 작물을 바꿨거든요" = 농민 발화 내용과 자신의 경험 연결.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB42">
+  <p class="q-stem">42. ㉠~㉤에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB42-1">① ㉠: 종결 어미 '-습니다'를 사용하여, 농업의 변화에 대해 취재한 기자를 높이고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB42-2">② ㉡: 피동 접사 '-되다'를 사용하여, 포도를 재배하는 주체를 분명하게 드러내고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB42-3">③ ㉢: 부정 부사 '못'을 사용하여, 농민이 사과 재배에 대한 생각을 의도적으로 하지 않았음을 드러내고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB42-4">④ ㉣: 지시 대명사 '이'를 사용하여, 앞으로의 재배 환경이 더 크게 달라질 것이라는 자신의 직전 발화 내용을 가리키고 있다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB42-5">⑤ ㉤: 선어말 어미 '-겠-'을 사용하여, 기후 변화의 속도를 늦추고자 하는 의지를 드러내고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉣의 '이'=직전에 말한 내용(재배 환경 변화)를 가리킴. ④가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB43">
+  <p class="q-stem">43. 다음은 (나)에 따라 제작한 슬라이드이다. 제작 과정에서 고려한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="qB43-1">① 포도와 사과의 재배 한계선이 북상하였음을 시각화하기로 한 ⓐ에는 재배 한계선의 이동을 지도에 화살표로 표현하자.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB43-2">② 우리나라의 연평균 기온 변화를 나타내기로 한 ⓐ에는 1993년부터 2023년까지의 연평균 기온의 추이를 보여 주는 그래프를 제시하자.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB43-3">③ 지난 30년간 우리나라 기온이 상승했다는 내용을 강조하기로 한 ⓐ에는 기온의 상승 폭을 구체적인 수치로 나타내는 부분의 숫자와 기호를 굵게 하고 기울여서 표현하자.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB43-4">④ 참고한 자료의 목록을 덧붙이기로 한 ⓑ에는 연구 보고서와 뉴스의 제목을 각각 제시하자.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB43-5">⑤ 기후 변화의 속도를 늦추기 위한 방법의 사례를 제시하기로 한 ⓑ에는 그 사례로 기후 적응형 품종 개발과 작물 시험 재배와 관련된 그림 자료를 보여 주자.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>기후 적응형 품종 개발+작물 시험 재배는 '기후 변화 속도를 늦추기'가 아니라 '기후 변화에 대한 적응/대응' 방법이다. ⑤의 설명이 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB4" class="set-anchor"></div>
 
-## 44~45번 매체 · [작성 예정]
+## 44~45번 매체 · [44④ 45③ — 작성 예정]
 
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
