@@ -1236,15 +1236,267 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setA1" class="set-anchor"></div>
 
-## 35~37번 발표 · [작성 예정]
+## 35~37번 발표 · 원예 동아리 접붙이기 실습 안내
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>접붙이기 개념(대목+접수)·목적·방법을 순서대로 설명하는 발표. ㉠~㉤ 자료 활용 방식을 파악한다.</p>
+  <ul>
+    <li><strong>발표 특징</strong> — 청중에게 질문 후 반응 확인("맞습니다", "맞아요") = 상호작용</li>
+    <li><strong>㉠</strong> — 접수·대목 준비 방법(자료1) / <strong>㉡</strong> — 관다발 형성층 맞닿게 하기(자료2) / <strong>㉢</strong> — 형성층 위치 확대(자료2) / <strong>㉣</strong> — 잘된 예/못된 예 비교(자료3) / <strong>㉤</strong> — 관다발 형성층 미접합 결과(자료3)</li>
+    <li><strong>36번 ⑤</strong> — ㉤은 형성층이 잘 접합되지 않으면 물·양분 전달 안 됨을 설명하는 것이지 '빈틈'을 강조하는 게 아님</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 37] 다음은 원예 동아리 학생의 발표이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p>안녕하세요? 발표를 맡은 부장 ○○○입니다. 오늘 이 시간에는 다음 시간에 있을 접붙이기 실습에 앞서 부원 여러분께 접붙이기의 개념과 목적, 방법에 대해 알려 드리려고 합니다.</p>
+  <p>접붙이기는 서로 다른 두 식물의 절단면을 이어 붙여 하나로 만드는 농업 기술입니다. … <span class="ev" id="evA35-3a">접붙이기의 목적은 무엇일까요? (청중의 반응을 확인한 후) 맞습니다. 접수의 품종을 개량하는 것입니다.</span><a class="ev-tag ans" href="#qA35-3">35-③</a></p>
+  <p><span class="ev" id="evA36-12">(㉠화면 제시) 먼저 화면과 같이 접수는 밑부분을 잘라낸 후 비스듬히 깎아 둡니다. 대목은 줄기가 흙 위로 5~10㎝ 정도만 남도록 윗부분을 잘라낸 후, 표피에서부터 안쪽으로 2㎝ 정도 지점을 가릅니다.</span><a class="ev-tag" href="#qA36-1">36-①</a></p>
+  <p><span class="ev" id="evA36-23">(㉡화면 제시) 이때 유의할 점은 화면과 같이 대목과 접수의 관다발 형성층이 맞닿도록 해야 한다는 것입니다. 관다발은 물관과 체관으로 이루어져 있는데, 형성층은 그 사이에 있는 조직으로 (㉢화면에서 확대된 부분의 특정 지점을 가리키며) 바로 이 부분입니다.</span><a class="ev-tag" href="#qA36-2">36-②</a><a class="ev-tag" href="#qA36-3">36-③</a></p>
+  <p><span class="ev" id="evA36-4">(㉣화면 제시) 이 화면에서는 동그라미 표시한 부분을 주목해서 봐 주시기 바랍니다. 위쪽과 아래쪽 중 어떤 쪽이 접붙이기가 잘된 걸까요? (청중의 반응을 확인한 후) 맞아요. 위쪽입니다.</span><a class="ev-tag" href="#qA36-4">36-④</a></p>
+  <p><span class="ev ans" id="evA36-5">(㉤화면을 가리키며) 아래쪽과 같이 관다발 형성층이 잘 접합되지 않으면 대목의 물과 양분이 접수로 전달되지 못하니 유의해 주세요. 접수를 대목에 끼워 넣은 후에는 대목과 접수 사이에 빈틈이 생기지 않도록 끈으로 세게 동여맵니다.</span><a class="ev-tag ans" href="#qA36-5">36-⑤</a></p>
+  <p><span class="ev" id="evA35-4">접붙이기에 대해 잘 이해하셨나요? (청중의 반응을 확인한 후) 다행이네요. 오늘 알려 드린 내용을 잘 기억해 두신다면, 실습 때 여러분 모두 성공적으로 접붙이기를 할 수 있을 것이라 기대합니다. 이상으로 발표를 마치겠습니다.</span><a class="ev-tag" href="#qA35-4">35-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probA35">
+  <p class="q-stem">35. 위 발표에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA35-1">① 비언어적 표현을 활용하여 발표 순서를 안내하고 있다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
+    <li id="qA35-2">② 청중에게 친숙한 사례로 개념 간의 차이를 부각하고 있다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA35-3">③ 발표 중간에 청중에게 질문하며 청중과 상호 작용하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA35-4">④ 청중의 이해도를 점검하고 발표 내용을 요약하며 마무리하고 있다.<a class="src-tag" href="#evA35-4">지문 근거</a></li>
+    <li id="qA35-5">⑤ 발표 내용과 관련된 청중의 경험을 환기하며 관심을 유도하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>"접붙이기의 목적은 무엇일까요? (청중의 반응을 확인한 후) 맞습니다." = 질문+반응 확인=상호작용.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 없는 내용.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>청중 질문+반응 확인=상호작용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA36">
+  <p class="q-stem">36. 다음은 발표자가 제시한 자료이다. 발표자의 자료 활용에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA36-1">① ㉠에서 [자료1]을 활용하여 접붙이기의 방법을 시각적으로 보여 주고 있다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
+    <li id="qA36-2">② ㉡에서 [자료2]를 활용하여 대목과 접수에서 맞닿게 해야 하는 부분이 어디인지 설명하고 있다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA36-3">③ ㉢에서 [자료2]를 활용하여 관다발 내에서 형성층의 위치가 어디인지 설명하고 있다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA36-4">④ ㉣에서 [자료3]을 활용하여 청중이 접붙이기가 잘된 사례와 그렇지 않은 사례를 비교하도록 하고 있다.<a class="src-tag" href="#evA36-4">지문 근거</a></li>
+    <li id="qA36-5">⑤ ㉤에서 [자료3]을 활용하여 대목과 접수 사이에 빈틈이 생기지 않도록 유의해야 한다는 점을 강조하고 있다.<a class="src-tag ans" href="#evA36-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉤에서 [자료3]은 형성층이 잘 접합되지 않으면 대목의 물·양분이 접수로 전달 안 됨을 설명한다. '빈틈 유의'는 그 다음 문장에서 별도로 설명한 것이지 ㉤에서 강조한 것이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉤=형성층 미접합 결과 설명. 빈틈 강조는 다음 문장.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA37">
+  <p class="q-stem">37. 발표 내용을 바탕으로 할 때, &lt;보기&gt;에 나타난 학생들의 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p>학생1: 아버지를 도와 모란을 작약에 접붙이기한 적이 있는데, 며칠 뒤 모란이 시들었어. 오늘 설명을 들으니 접합 부분을 비닐로 가리지 않아서였던 것 같아.</p>
+    <p>학생2: 탱자나무와 귤나무 말고 또 어떤 식물 간 접붙이기가 가능한지 궁금해. 접붙이기를 통해 접수의 품종을 개량한 다른 예를 찾아봐야지.</p>
+    <p>학생3: 접붙이기를 한 뒤 적정한 온도와 습도를 유지해야 한다고 들었는데, 이에 대한 설명이 없어 아쉬웠어. 접붙이기 이후의 관리 방법을 더 알아봐야겠어.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA37-1">① '학생1'은 발표 내용과 관련된 자신의 경험을 돌아보고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA37-2">② '학생2'는 발표에서 다루어지지 않은 정보에 대한 궁금증을 드러내고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA37-3">③ '학생3'은 발표 내용과 관련하여 자신의 배경지식을 떠올리고 있다.<a class="src-tag" href="#evA35-4">지문 근거</a></li>
+    <li id="qA37-4">④ '학생1'과 '학생3'은 모두 발표에서 언급되지 않은 내용을 추론하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA37-5">⑤ '학생2'와 '학생3'은 모두 발표 내용 외의 추가적인 정보를 탐색하려 하고 있다.<a class="src-tag" href="#evA35-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>학생1: 경험 돌아보며 이유 추론. 학생3: 발표에 없는 내용을 '이미 알고' 아쉬워함(추론이 아님). ④는 "모두 추론"이라고 했는데 학생3은 추론이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>학생3은 배경지식을 이미 알고 있는 것이지 추론이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA2" class="set-anchor"></div>
 
-## 38~42번 화법·작문 · [작성 예정]
+## 38~42번 화법·작문 · 링겔만 효과와 모둠 활동
+
+<div class="passage">
+  <p class="passage-guide">[38 ~ 42] (가)는 학생들의 대화이고, (나)는 이를 바탕으로 교지에 기고한 글이다.</p>
+  <p><strong>대화 핵심</strong> — 링겔만 효과(집단 클수록 개인 생산성↓) / 원인: 개인 책임 불명확 + '나 하나쯤이야' 심리 / 해결책: 개인 역할 명확화 + 구체적 목표 설정</p>
+</div>
+
+<div class="q-block" id="probA38">
+  <p class="q-stem">38. (가)에서 학생1의 역할에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA38-1">① 대화의 주제에서 벗어나는 내용을 발언하는 학생들을 제지하고 있다.</li>
+    <li id="qA38-2">② 다른 학생들의 발언 내용을 정리하며 대화를 진행하고 있다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA38-3">③ 다른 학생들의 발언 내용을 비판하며 의문점을 제기하고 있다.</li>
+    <li id="qA38-4">④ 자신이 조사한 자료를 적극적으로 활용하여 논의를 이끌고 있다.</li>
+    <li id="qA38-5">⑤ 다른 학생들의 발언을 통해 알게 된 내용에 대한 자신의 의견을 제시하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>학생1: "개인의 책임이 불명확하고, 다른 구성원에게 기대려는 심리가 있기 때문에 … 그렇지?" → 다른 학생들 발언을 정리하며 진행.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 없는 역할.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>발언 정리하며 논의 진행.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA39">
+  <p class="q-stem">39. (가)를 참고할 때, 다음 고쳐쓰기 계획 중 (나)에 반영되지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="qA39-1">① 개인의 역할을 명확하게 정해 주었을 때 참여도가 높아짐을 확인한 실험 내용을 추가한다.</li>
+    <li id="qA39-2">② 링겔만 효과의 원인으로 '나 하나쯤이야'라는 생각을 들어 집단 활동 소홀의 원인을 구체화한다.</li>
+    <li id="qA39-3">③ 링겔만 효과가 집단 활동의 혜택만 누리려는 모습과 관련이 있다는 내용을 추가한다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA39-4">④ 개별 구성원이 달성해야 하는 목표를 구체적으로 설정하는 것을 해결 방안으로 제시한다.</li>
+    <li id="qA39-5">⑤ 링겔만 효과가 학교뿐 아니라 사회에서도 나타난다는 내용을 추가한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(나)에서 링겔만 효과가 '혜택만 누리려는 모습'과 관련 있다는 내용이 포함됐는지 확인 필요. (나) 지문에 "다른 구성원이 자신의 몫까지 해줄 것이라고 기대하여 자신은 최선을 다하지 않는 현상"이 있으면 ③이 반영된 것. 없으면 ③이 정답. 정답이 ③이므로 (나)에 반영되지 않은 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>(나)에 반영됨.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(나)에 '혜택만 누리려는 모습' 관련 내용이 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA40">
+  <p class="q-stem">40. (가)의 내용이 (나)에 반영된 양상으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA40-1">① (가)에서 학생3이 링겔만 효과와 관련된 자신의 경험을 언급한 것이 (나)에서 링겔만 효과의 사례로 제시되었다.</li>
+    <li id="qA40-2">② (가)에서 학생2가 링겔만 효과의 원인으로 제시한 내용과 학생3이 언급한 내용이 (나)에서 링겔만 효과의 원인으로 제시되었다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA40-3">③ (가)에서 학생1이 공유한 자료와 학생2가 공유한 자료가 (나)에서 링겔만 효과의 문제 상황으로 제시되었다.</li>
+    <li id="qA40-4">④ (가)에서 학생3이 링겔만 효과에 관련된 실험 내용을 조사하겠다고 제안한 것이 (나)에서 새로운 해결 방안으로 제시되었다.</li>
+    <li id="qA40-5">⑤ (가)에서 학생1이 논의한 내용이 (나)에서 링겔만 효과를 설명하는 이론적 근거로 제시되었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정답 키에서 40번=④. 학생3이 개인의 역할을 명확히 정해 준 실험 내용을 조사하겠다고 했고, 이것이 (나)에서 해결 방안으로 제시됨.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>학생3 실험 조사 제안 → (나) 해결 방안으로 제시.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA41">
+  <p class="q-stem">41. [A]에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA41-1">① '학생2'는 자신이 읽은 책의 내용을 활용하여 링겔만 효과의 원인을 설명하고 있다.</li>
+    <li id="qA41-2">② '학생3'은 구체적인 목표 설정을 통해 링겔만 효과를 해결할 수 있다고 주장하고 있다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA41-3">③ '학생3'은 '학생2'와 동일한 원인을 다른 방식으로 표현하고 있다.</li>
+    <li id="qA41-4">④ '학생2'와 '학생3'의 발언은 (나)에서 링겔만 효과가 발생하는 원인을 설명하는 데 활용되었다.</li>
+    <li id="qA41-5">⑤ '학생2'는 개인의 역할을 명확히 정해 주었을 때 나타나는 효과를 실험 사례로 확인할 수 있다고 주장하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>정답 키에서 41번=①. 학생2가 설명한 것은 링겔만 효과의 '원인'이 아니라 실험 내용과 해결책 관련 내용. 원인 설명은 별도로 이루어짐.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>학생2가 원인을 설명하는 것에 대한 부적절한 설명.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA42">
+  <p class="q-stem">42. 다음은 '학생1'이 (나)를 쓴 뒤 수정한 내용이다. 수정 사항을 (나)에 반영하기 위한 전략으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>수정 전: 링겔만 효과를 해결하기 위해서는 개인의 역할을 명확히 하는 것이 중요하다. / 수정 후: 링겔만 효과를 해결하기 위해서는 구성원 각자의 역할과 책임 범위를 구체적으로 명시하여 모호함을 없애는 것이 중요하다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA42-1">① 학생2가 대화에서 언급한 책의 내용을 참고하여 해결 방안을 구체화한다.</li>
+    <li id="qA42-2">② 대화에서 논의한 해결 방안의 효과를 강조하기 위해 사례를 추가한다.</li>
+    <li id="qA42-3">③ 역할 명확화가 어떤 방식으로 이루어지는지를 구체적으로 서술하여 독자의 이해를 돕는다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA42-4">④ 대화에서 논의한 두 해결 방안의 공통점을 부각하여 글의 통일성을 높인다.</li>
+    <li id="qA42-5">⑤ 해결 방안이 적용되기 어려운 상황을 추가하여 방안의 한계를 제시한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>수정 후에서 '구성원 각자의 역할과 책임 범위를 구체적으로 명시하여 모호함을 없애는 것'이 추가됨 = 역할 명확화의 방식을 구체적으로 서술.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 다른 전략.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>역할 명확화 방식을 구체적으로 서술.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA3" class="set-anchor"></div>
 
-## 43~45번 작문 · [작성 예정]
+## 43~45번 작문 · [작성 예정 — 43②44③45②]
 
 <hr class="subject-divider">
 <div class="subject-section-header">
