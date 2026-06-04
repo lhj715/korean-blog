@@ -616,7 +616,143 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set5" class="set-anchor"></div>
 
-## 18~21번 고전소설 · [작성 예정]
+## 18~21번 고전소설 · 작자 미상 「장한절효기」 — 효와 절의 실현
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>두 가문의 갈등 구조. 장영이 원수(진한) 토벌 + 친모(한씨) 재회. 진씨의 절행도 인정받음.</p>
+  <ul>
+    <li><strong>서사 흐름</strong> — 진한 모반→장영 자원→상소→대원수→격서→전투 승리→계룡사에서 한씨 재회→두 모친과 잔치→진씨 처리</li>
+    <li><strong>㉠</strong> — 원 부인(양모)이 장영에게 "용맹하니 근심 없으나 내 나이가 많으니 다시 못 볼 것 같아 슬프구나" = 자신의 처지+미래 우려</li>
+    <li><strong>㉡</strong> — 한 부인(친모)이 원 부인에게 "그렇지 않았더라면 부평초처럼 떠다니다 외로운 귀신이 됐을 것" = 반대 가정+감사 표현</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 19번 ④: 법당에서 계향이 '간호하던' 한씨를 발견한 게 아니라 장영이 먼저 만남, 21번 ④: 원 부인이 한씨 정절 치하는 '자신을 적대하는 상대'를 인정한 게 아님.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[18 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev19-1">이때 영릉태수 진한이 모반해 군사 수만을 거느리고 강을 건너 유주를 함락했다. 천자는 여러 번 대병을 보냈으나 이들이 번번이 패하자</span><a class="ev-tag" href="#q19-1">19-①</a> 문무 대신과 의논해 사문에 방을 붙여 장사를 모집했다.</p>
+  <p><span class="ev" id="ev20-1">㉠네가 이미 장성했고 용맹이 뛰어나니 근심은 없으나 다만 내 나이가 많으니 다시 보지 못할 것 같아 슬프구나.</span><a class="ev-tag ans" href="#q20-5">20-⑤</a></p>
+  <p><span class="ev" id="ev19-2">그러고는 원 부인께 하직하고 집을 떠나 밤낮으로 달려 황성에 도착했다. 그리고 한 곳에 붙어 있는 방문을 보고 이를 떼니 관원이 달려와 그 이유를 물었다. 영은 품속에서 자기가 쓴 상소를 내어 관원에게 주며 이를 천자께 전하라 했다.</span><a class="ev-tag" href="#q19-2">19-②</a></p>
+  <p><span class="ev" id="ev18-1">상이 그 모습을 매우 기특하게 여겨 … '제비 새끼처럼 옆으로 퍼진 턱에 범 같은 머리를 갖고 있어 참으로 제후가 될 골상을 지녔을 뿐 아니라, 키는 8척이나 되었고 위풍 또한 늠름했다.'</span><a class="ev-tag ans" href="#q18-1">18-①</a></p>
+  <p><span class="ev" id="ev19-3">며칠 후 영릉 지경에 도착한 장영은 먼저 진을 치고 진한에게 … 격서를 보냈다.</span><a class="ev-tag" href="#q19-3">19-③</a></p>
+  <p><span class="ev ans" id="ev19-4">꿈인지 생시인지를 깨닫지 못한 한씨가 장영을 붙잡고 울며 말하기를, "영아, 내가 죽어서 너를 보는 것이냐?" 하고 혼절하자 장영과 계향은 놀라 급히 약물을 먹이고 간호했다.</span><a class="ev-tag ans" href="#q19-4">19-④</a></p>
+  <p><span class="ev" id="ev19-5">날이 밝자 장영은 한 부인을 모시고 원 부인의 집으로 돌아왔다. … 장영은 이날 두 모친을 위해 잔치를 베풀었고</span><a class="ev-tag" href="#q19-5">19-⑤</a></p>
+  <p><span class="ev ans" id="ev20-5">㉡부인께서 내 자식을 거두어 양육해 부친의 원수도 갚고 나와 다시 만나게 하셨으니 이는 죽은 나무에 다시 꽃이 핀 것과 같습니다. 그렇지 않았더라면 이 몸은 부평초처럼 떠다니다가 늙어 죽어 외로운 귀신이 되었을 것이니, 부인의 은혜가 백골난망이로소이다.</span><a class="ev-tag ans" href="#q20-5">20-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. 윗글에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 외양 묘사를 통해 인물의 특성을 드러내고 있다.<a class="src-tag ans" href="#ev18-1">정답 근거</a></li>
+    <li id="q18-2">② 서술자가 직접 개입하여 사건의 전모를 밝히고 있다.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+    <li id="q18-3">③ 꿈과 현실을 교차하여 앞으로 일어날 사건을 암시하고 있다.<a class="src-tag" href="#ev19-4">지문 근거</a></li>
+    <li id="q18-4">④ 우의적 소재를 통해 대상에 대한 풍자적 태도를 드러내고 있다.<a class="src-tag" href="#ev20-5">지문 근거</a></li>
+    <li id="q18-5">⑤ 배경을 감각적으로 표현하여 환상적인 분위기를 부각하고 있다.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>"제비 새끼처럼 옆으로 퍼진 턱에 범 같은 머리" 등 외양 묘사로 장영의 영웅적 특성 드러냄.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>외양 묘사(턱, 머리, 키, 위풍)→인물 특성 드러냄.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 없는 특징.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① 천자의 군사들은 진한의 군사들에게 여러 차례 패하였다.<a class="src-tag" href="#ev19-1">지문 근거</a></li>
+    <li id="q19-2">② 황성에서 장영은 관원을 통해 천자에게 상소를 전했다.<a class="src-tag" href="#ev19-2">지문 근거</a></li>
+    <li id="q19-3">③ 영릉 지경에 도착한 장영은 진한에게 격서를 보냈다.<a class="src-tag" href="#ev19-3">지문 근거</a></li>
+    <li id="q19-4">④ 법당에 들어간 장영은 계향이 간호하던 한씨를 발견했다.<a class="src-tag ans" href="#ev19-4">정답 근거</a></li>
+    <li id="q19-5">⑤ 원 부인의 집에 돌아온 날에 장영은 두 모친을 위해 잔치를 열었다.<a class="src-tag" href="#ev19-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>장영이 한씨를 먼저 발견·만났고, 그 후 한씨가 혼절하여 장영과 계향이 간호했다. '계향이 간호하던 한씨를 발견했다'가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>장영이 먼저 한씨 만남→한씨 혼절→장영+계향 간호. '계향이 간호하던 한씨 발견'이 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① ㉠에서는 자신의 사정을 언급하며 비애감을 드러내고 있고, ㉡에서는 자신의 신분을 드러내며 상대방에게 자부심을 표출하고 있다.<a class="src-tag" href="#ev20-1">지문 근거</a></li>
+    <li id="q20-2">② ㉠에서는 상대방의 능력을 강조하며 자신의 기대를 드러내고 있고, ㉡에서는 자신의 업적을 드러내며 상대방의 환심을 사려 하고 있다.<a class="src-tag" href="#ev20-1">지문 근거</a></li>
+    <li id="q20-3">③ ㉠에서는 다른 사람의 견해를 인용하여 상대방에 대한 평가를 내리고 있고, ㉡에서는 상대방의 행동을 언급하며 자신의 솔직한 마음을 표현하고 있다.<a class="src-tag" href="#ev20-1">지문 근거</a></li>
+    <li id="q20-4">④ ㉠에서는 사건의 경과를 드러내며 상대방에 대한 의혹을 제시하고 있고, ㉡에서는 상대방이 처한 문제를 언급하며 이에 대한 해결 방안을 제시하고 있다.<a class="src-tag" href="#ev20-1">지문 근거</a></li>
+    <li id="q20-5">⑤ ㉠에서는 자신의 처지를 언급하며 미래의 일에 대한 우려를 드러내고 있고, ㉡에서는 실제 일어난 일과 반대의 상황을 가정하며 상대방에 대한 감사를 드러내고 있다.<a class="src-tag ans" href="#ev20-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉠: 원 부인이 자신의 처지(나이 많음)=자신의 처지 언급+다시 못 볼 것 같아=미래 우려. ㉡: "그렇지 않았더라면~"=반대 상황 가정+감사 표현.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉠=처지+미래 우려, ㉡=반대 가정+감사.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>「장한절효기」는 두 가문의 반복되는 갈등을 중심으로 전개. 인물들은 효와 절이라는 윤리적 가치를 자신의 입장에서 지키며 상대에게 맞섬. 자신을 적대하는 상대의 윤리적 가치를 인정해 주는 인물도 나타남.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q21-1">① 장영이 천자에게 병사를 요청하며 자신의 각오를 드러내는 것에서, 국가를 위기에서 벗어나게 하고 자식으로서 자신이 해야 할 바를 하고자 함을 짐작할 수 있군.<a class="src-tag" href="#ev19-2">지문 근거</a></li>
+    <li id="q21-2">② 진건이 장영과 대적할 때 과거에 장영의 어머니와 오세신 사이에 일어났던 일을 언급하는 것에서, 두 가문의 갈등이 반복되고 있음을 짐작할 수 있군.<a class="src-tag" href="#ev19-3">지문 근거</a></li>
+    <li id="q21-3">③ 한씨와 장영이 기쁨과 슬픔을 나누며 그간의 사연을 이야기하는 것에서, 이별을 겪었던 가족이 재회하고 있음을 짐작할 수 있군.<a class="src-tag" href="#ev19-4">지문 근거</a></li>
+    <li id="q21-4">④ 원 부인이 한씨의 정절을 치하하며 한씨에게 공을 돌리는 장면에서, 자신과 맞서고 있는 상대의 행위에 대해 윤리적 가치를 인정하고 있음을 짐작할 수 있군.<a class="src-tag ans" href="#ev20-5">정답 근거</a></li>
+    <li id="q21-5">⑤ 진씨가 한씨에게 자신의 심중을 토로하는 장면에서, 남편의 원수를 갚음으로써 윤리적 가치를 자신의 입장에서 지키려 함을 짐작할 수 있군.<a class="src-tag" href="#ev20-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>원 부인이 한씨의 정절을 치하하는 것은 '자신을 적대하는 상대'(한씨는 원 부인의 적이 아님)를 인정하는 것이 아니다. 한씨는 원 부인과 협력 관계. 오히려 한 부인이 진씨의 절행을 인정하는 장면이 '자신을 적대하는 상대 인정'에 해당한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>원 부인과 한씨는 협력 관계이지 적대 관계 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set6" class="set-anchor"></div>
 
