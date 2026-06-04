@@ -11,7 +11,7 @@ layout: "exam"
 
 <div id="set1" class="set-anchor"></div>
 
-## 1~3번 화법 · 수업 중 학생의 발표
+## 1~3번 화법 · 발표 · 조선 시대 흑립
 
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 수업 중 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -118,7 +118,7 @@ layout: "exam"
 
 <div id="set2" class="set-anchor"></div>
 
-## 4~7번 화법·작문 · (가)는 교지 편집부 학생들이 나눈 대화이고, (나)는 이를 바
+## 4~7번 화법·작문 · 대화+기사 · 교지 편집
 
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가)는 교지 편집부 학생들이 나눈 대화이고, (나)는 이를 바탕으로 작성한 비평문의 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -259,7 +259,7 @@ layout: "exam"
 
 <div id="set3" class="set-anchor"></div>
 
-## 8~10번 작문 · 학교 신문에 싣기 위해 학생이 작성한 초고
+## 8~10번 작문 · 초고 · 올리고당
 
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 학교 신문에 싣기 위해 학생이 작성한 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -368,7 +368,7 @@ layout: "exam"
 
 <div id="set4" class="set-anchor"></div>
 
-## 11~15번 문법 · 선어말 어미는 어말 어미 앞에 오는 어미이다. 단어의 
+## 11~15번 문법 · 선어말 어미·피동 표현
 
 <div class="passage">
   <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -557,7 +557,7 @@ layout: "exam"
 
 <div id="set5" class="set-anchor"></div>
 
-## 16~19번 현대시 · ‘부산 부두에 발을 올려 딛는 때부터 내 고향이다. 내
+## 16~19번 독서(문학) · 이민·이산과 정체성
 
 <div class="passage">
   <p class="passage-guide">[16 ~ 19] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -689,7 +689,7 @@ layout: "exam"
 
 <div id="set6" class="set-anchor"></div>
 
-## 20~25번 화법 · 미국의 헌법학자 제롬 배런은 1967년 언론 매체 접근
+## 20~25번 독서(사회·법) · 언론 매체 접근권
 
 <div class="passage">
   <p class="passage-guide">[20 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -888,7 +888,7 @@ layout: "exam"
 
 <div id="set7" class="set-anchor"></div>
 
-## 26~30번 현대시 · 우리는 냄새를 어떻게 인식할까?　냄새의 원인이 되는 기
+## 26~30번 독서(과학) · 냄새 인식의 원리
 
 <div class="passage">
   <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1050,7 +1050,7 @@ layout: "exam"
 
 <div id="set8" class="set-anchor"></div>
 
-## 31~34번 현대시 · 동방이 차차 밝아 오매 마침 영릉골 관비 한 사람이 외
+## 31~34번 문학(갈래복합) · 고전 산문·시조
 
 <div class="passage">
   <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1184,7 +1184,7 @@ layout: "exam"
 
 <div id="set9" class="set-anchor"></div>
 
-## 35~38번 현대시 · 다산 정약용이 생각하기에 당대 사람들이 인정했던 최고의
+## 35~38번 독서(인문) · 정약용의 리더십론
 
 <div class="passage">
   <p class="passage-guide">[35 ~ 38] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1316,7 +1316,7 @@ layout: "exam"
 
 <div id="set10" class="set-anchor"></div>
 
-## 39~42번 현대시 · 잊기를 자주 하여 어지러이 뽑아 놓은 책들散漫還復整 흩
+## 39~42번 문학(갈래복합) · 한시·현대시
 
 <div class="passage">
   <p class="passage-guide">[39 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1449,7 +1449,7 @@ layout: "exam"
 
 <div id="set11" class="set-anchor"></div>
 
-## 43~45번 문학 · 해바라기 씨를 ㉠심자
+## 43~45번 갈래복합 · 현대시 · 씨앗과 성장
 
 <div class="passage">
   <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>

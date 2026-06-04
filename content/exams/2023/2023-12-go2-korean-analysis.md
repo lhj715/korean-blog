@@ -11,7 +11,7 @@ layout: "exam"
 
 <div id="set1" class="set-anchor"></div>
 
-## 1~3번 화법 · 안녕하세요? 오늘 발표를 맡은 역사 탐구 동아리 회장 
+## 1~3번 화법 · 발표 · 조선 시대 역사 탐구
 
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -125,7 +125,7 @@ layout: "exam"
 
 <div id="set2" class="set-anchor"></div>
 
-## 4~7번 화법·작문 · (가)는 학교 누리집에 실을 글을 작성하기 위한 학생회 학생들의
+## 4~7번 화법·작문 · 대화+초고 · 가치 참여 펀딩 봉사 활동
 
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가)는 학교 누리집에 실을 글을 작성하기 위한 학생회 학생들의 대화이고, (나)는 (가)를 바탕으로 작성한 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -261,7 +261,7 @@ layout: "exam"
 
 <div id="set3" class="set-anchor"></div>
 
-## 8~10번 작문 · 작문 상황과 이를 바탕으로 학생이 작성한 초고
+## 8~10번 작문 · 초고 · 선사 유적 박물관 활성화
 
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 이를 바탕으로 학생이 작성한 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -368,7 +368,7 @@ layout: "exam"
 
 <div id="set4" class="set-anchor"></div>
 
-## 11~15번 문법 · 음절이란 발음할 수 있는 최소의 언어 단위로 초성, 중
+## 11~15번 문법 · 음절 구조·단어 형성·서술어
 
 <div class="passage">
   <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -554,7 +554,7 @@ layout: "exam"
 
 <div id="set5" class="set-anchor"></div>
 
-## 16~21번 화법 · 고전적 기술철학은 개별적인 기술 하나하나에 관심을 두기
+## 16~21번 독서(인문·기술철학) · 고전적 vs 현대적 기술철학
 
 <div class="passage">
   <p class="passage-guide">[16 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -749,7 +749,7 @@ layout: "exam"
 
 <div id="set6" class="set-anchor"></div>
 
-## 22~25번 독서(사회) · 건축물을 짓고자 하는 사람은 건축 허가를 받을 수 있는
+## 22~25번 독서(사회·행정법) · 건축 허가와 확인 통지
 
 <div class="passage">
   <p class="passage-guide">[22 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -884,7 +884,7 @@ layout: "exam"
 
 <div id="set7" class="set-anchor"></div>
 
-## 26~30번 현대시 · 로켓의 안정적인 비행을 위해 연소 불안정은 반드시 해결
+## 26~30번 독서(과학) · 로켓 연소 불안정
 
 <div class="passage">
   <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1067,7 +1067,7 @@ C
 
 <div id="set8" class="set-anchor"></div>
 
-## 31~33번 독서(사회) · 갈밭 속을 간다
+## 31~33번 현대시 · 갈밭 시편 · 고독과 소통
 
 <div class="passage">
   <p class="passage-guide">[31 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1170,7 +1170,7 @@ C
 
 <div id="set9" class="set-anchor"></div>
 
-## 34~37번 독서(인문) · 한편, 명훈은 여전히 걸핏하면 국장에게 불리어 갔다. 
+## 34~37번 현대소설 · 직장 내 갈등 · 명훈
 
 <div class="passage">
   <p class="passage-guide">[34 ~ 37] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1304,7 +1304,7 @@ C
 
 <div id="set10" class="set-anchor"></div>
 
-## 38~41번 현대시 · 연희각 잠깐 쉬어 순력 길 바삐 나서해방(海方)도 둘러
+## 38~41번 갈래복합 · 가사 「순력가」·산문
 
 <div class="passage">
   <p class="passage-guide">[38 ~ 41] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1436,7 +1436,7 @@ C
 
 <div id="set11" class="set-anchor"></div>
 
-## 42~45번 작문 · 유씨 대로하여 꾸짖어 왈
+## 42~45번 고전소설 · 유씨 집안 갈등
 
 <div class="passage">
   <p class="passage-guide">[42 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>

@@ -11,7 +11,7 @@ layout: "exam"
 
 <div id="set1" class="set-anchor"></div>
 
-## 1~3번 화법 · 안녕하세요.　저는 동양의 전통 문방구인 ‘먹’에 대해 
+## 1~3번 화법 · 발표 · 먹의 재료·종류·제조 과정
 
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -119,7 +119,7 @@ layout: "exam"
 
 <div id="set2" class="set-anchor"></div>
 
-## 4~7번 화법·작문 · (가)는 수업 중 학생 대화이고, (나)는 (가)의 활동 이후 
+## 4~7번 화법·작문 · 대화+독서감상문 · 영화 2배속 시청
 
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가)는 수업 중 학생 대화이고, (나)는 (가)의 활동 이후 학생 2가 작성한 독서감상문이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -254,7 +254,7 @@ layout: "exam"
 
 <div id="set3" class="set-anchor"></div>
 
-## 8~10번 작문 · 교지 편집부의 요청에 따라 학생이 쓴 글의 초고
+## 8~10번 작문 · 초고 · 패스트 패션과 환경 오염
 
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 교지 편집부의 요청에 따라 학생이 쓴 글의 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -363,7 +363,7 @@ layout: "exam"
 
 <div id="set4" class="set-anchor"></div>
 
-## 11~15번 문법 · ‘ㅎ’을 포함하고 있는 음운 변동의 양상은 음운 환경에
+## 11~15번 문법 · ㅎ 음운 변동 · 단어 구조·안긴문장·높임 표현
 
 <div class="passage">
   <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -541,7 +541,7 @@ layout: "exam"
 
 <div id="set5" class="set-anchor"></div>
 
-## 16~20번 독서(과학·기술) · 세포핵 속 DNA에 저장된 생물체의 유전 정보는 mRN
+## 16~20번 독서(과학) · DNA·mRNA·바이러스·백신
 
 <div class="passage">
   <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -704,7 +704,7 @@ layout: "exam"
 
 <div id="set6" class="set-anchor"></div>
 
-## 21~25번 독서(사회) · 주택 임대차는 임차인이 주택의 소유자인 임대인에게 보증
+## 21~25번 독서(사회·법) · 주택 임대차 보호 제도
 
 <div class="passage">
   <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -866,7 +866,7 @@ layout: "exam"
 
 <div id="set7" class="set-anchor"></div>
 
-## 26~30번 현대시 · 출퇴근에 대한 관념은 근대 이후에 형성되었다. 집과 일
+## 26~30번 독서(인문) · 출퇴근 관념의 형성과 변화
 
 <div class="passage">
   <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1030,7 +1030,7 @@ layout: "exam"
 
 <div id="set8" class="set-anchor"></div>
 
-## 31~34번 고전시가 · 지팡이 짚고 바람　쐬며 좌우를 돌아보니누대의 맑은 경치
+## 31~34번 문학(갈래복합) · 박인로 「노계가」·이태준 「자연과 문헌」
 
 <div class="passage">
   <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1163,7 +1163,7 @@ layout: "exam"
 
 <div id="set9" class="set-anchor"></div>
 
-## 35~38번 현대시 · [앞부분의 내용] 단역 전문 배우인 ‘그’는 일요일에도
+## 35~38번 현대소설 · 단역 배우의 정체성 혼란
 
 <div class="passage">
   <p class="passage-guide">[35 ~ 38] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1297,7 +1297,7 @@ layout: "exam"
 
 <div id="set10" class="set-anchor"></div>
 
-## 39~42번 현대시 · 어느 날 이생이 최씨에게 말했다
+## 39~42번 고전소설 · 「이생규장전」
 
 <div class="passage">
   <p class="passage-guide">[39 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1429,7 +1429,7 @@ layout: "exam"
 
 <div id="set11" class="set-anchor"></div>
 
-## 43~45번 문학 · 여기저기서 단풍잎 같은 슬픈 가을이 뚝뚝 떨어진다. 단
+## 43~45번 갈래복합 · 윤동주 「소년」·현대시
 
 <div class="passage">
   <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>

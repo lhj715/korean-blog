@@ -11,7 +11,7 @@ layout: "exam"
 
 <div id="set1" class="set-anchor"></div>
 
-## 1~3번 화법 · 식물원을 방문한 학생들을 대상으로 한 강연
+## 1~3번 화법 · 강연 · 식물의 굴성과 이동
 
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 식물원을 방문한 학생들을 대상으로 한 강연이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -122,7 +122,7 @@ layout: "exam"
 
 <div id="set2" class="set-anchor"></div>
 
-## 4~7번 화법 · (가)는 교내 신문의 학생 기사문이고, (나)는 (가)의 보도 
+## 4~7번 화법·작문 · 보도+회의+기사 · 학생자치실
 
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가)는 교내 신문의 학생 기사문이고, (나)는 (가)의 보도 이후에 열린 회의이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -263,7 +263,7 @@ layout: "exam"
 
 <div id="set3" class="set-anchor"></div>
 
-## 8~10번 작문 · 작문 상황과 이를 바탕으로 작성한 학생의 초고
+## 8~10번 작문 · 초고 · 가치 소비
 
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 이를 바탕으로 작성한 학생의 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -370,7 +370,7 @@ layout: "exam"
 
 <div id="set4" class="set-anchor"></div>
 
-## 11~15번 작문 · ‘품사’는 공통된 성질이 있는 단어끼리 묶어서 분류해 
+## 11~15번 문법 · 품사와 문장 성분
 
 <div class="passage">
   <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -564,7 +564,7 @@ layout: "exam"
 
 <div id="set5" class="set-anchor"></div>
 
-## 16~20번 현대시 · 헌 누더기 입은 무리가 남자인지 여자인지어린 자식 등에
+## 16~20번 독서(문학) · 고전시가 · 전쟁과 민중
 
 <div class="passage">
   <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -728,7 +728,7 @@ layout: "exam"
 
 <div id="set6" class="set-anchor"></div>
 
-## 21~25번 현대시 · 소크라테스 이후의 전통 형이상학에서는 현실 세계를 불완
+## 21~25번 독서(철학) · 형이상학과 반형이상학
 
 <div class="passage">
   <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -900,7 +900,7 @@ layout: "exam"
 
 <div id="set7" class="set-anchor"></div>
 
-## 26~28번 화법 · [앞부분의 줄거리] 어머니는 마름집 하인들에게 억울한 
+## 26~28번 현대소설 · 마름집·계급 갈등과 복수
 
 <div class="passage">
   <p class="passage-guide">[26 ~ 28] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1003,7 +1003,7 @@ layout: "exam"
 
 <div id="set8" class="set-anchor"></div>
 
-## 29~32번 현대시 · 과학수사에서 ‘DNA 분석’은 범인을 ⓐ추정하거나 피해
+## 29~32번 독서(과학) · DNA 분석과 과학수사
 
 <div class="passage">
   <p class="passage-guide">[29 ~ 32] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1157,7 +1157,7 @@ GATA
 
 <div id="set9" class="set-anchor"></div>
 
-## 33~38번 화법 · ㉠‘완전경쟁시장’은 많은 수의 수요자와 공급자 사이에 
+## 33~38번 독서(사회·경제) · 완전경쟁·독점·과점 시장
 
 <div class="passage">
   <p class="passage-guide">[33 ~ 38] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1366,7 +1366,7 @@ P2
 
 <div id="set10" class="set-anchor"></div>
 
-## 39~42번 현대시 · [앞부분의 줄거리] 중국 명나라 소 승상의 아들 소 학
+## 39~42번 고전소설 · 「소현성록」
 
 <div class="passage">
   <p class="passage-guide">[39 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1500,7 +1500,7 @@ P2
 
 <div id="set11" class="set-anchor"></div>
 
-## 43~45번 문학 · 세 끼 밥벌이 고단할 때면 이봐수시로 늘어나는 현 조율
+## 43~45번 갈래복합 · 현대시 (가)·(나) · 삶의 고단함과 공존
 
 <div class="passage">
   <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
