@@ -1770,11 +1770,194 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setB3" class="set-anchor"></div>
 
-## 40~43번 언어·매체 · [40①41④42③43⑤ — 작성 예정]
+## 40~43번 언어·매체 · 실시간 방송 — 대화형 AI 프로그램 소개
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 실시간 방송: 대화형 AI 프로그램 △△ 사용 요령(구체적 조건 포함)과 유의점(환각 현상, 저작권). (나) 게시판 댓글.</p>
+  <p class="read-guide-tip"><strong>출제 포인트</strong> — 40번 ①: "많은 분들이 다루어 달라고 요청하신 △△" = 시청자 요구 관련, 41번 ④: ㉣=방송 전 미리 올렸던 화면(실시간 아님), 42번 ③: ⓒ '말씀'은 가온 님의 말을 높인 것(진행자 자신 낮춤 아님), 43번 ⑤: 초롱=저작권 있는 글 전문 요청 안 된다는 것(염려 불필요가 아님), 45번 ③: 앱 사용해 본 사람의 영상이지 동아리 부원 영상 아님.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[40 ~ 43] (가)는 실시간 인터넷 방송이고, (나)는 방송 이후 게시판에 올라온 댓글이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev ans" id="evB40-1">오늘은 많은 분들이 다루어 달라고 요청하신 △△에 대해 이야기해 봤습니다.</span><a class="ev-tag ans" href="#qB40-1">40-①</a></p>
+  <p><span class="ev" id="evB41-4">지금 나오는 화면은 방송 전에 제가 △△ 프로그램 누리집에 접속해서 올렸던 요청과 그에 대한 답변입니다.</span><a class="ev-tag ans" href="#qB41-4">41-④</a></p>
+  <p><span class="ev" id="evB42-3">실시간 대화창에서 가온 님이 좋은 말씀을 해 주셨네요.</span><a class="ev-tag ans" href="#qB42-3">42-③</a></p>
+  <p><span class="ev" id="evB43-5">사실 네 번째 요청은 여러분께 보여 드리려고 일부러 부적절한 요청을 한 것이에요. 저작권이 있는 글의 전문을 요구하는 것은 저작권을 침해하게 될 수 있으므로 이러한 요청을 해서는 안 됩니다. 따라서 저작권이 있는 글은 중요 내용이 요약된 형식으로만 답변이 제공되도록 요청해야 한다는 것도 꼭 기억하시길 바랍니다.</span><a class="ev-tag ans" href="#qB43-5">43-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probB40">
+  <p class="q-stem">40. (가)에 반영된 진행자의 계획으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB40-1">① 이번 방송에서 소개하려는 특정 응용 프로그램은 많은 시청자들의 요구와 관련된 것임을 밝혀야지.<a class="src-tag ans" href="#evB40-1">정답 근거</a></li>
+    <li id="qB40-2">② 질문을 통해 시청자의 실시간 반응을 확인하여 방송 내용에 대한 시청자의 이해 여부를 확인해야지.<a class="src-tag" href="#evB43-5">지문 근거</a></li>
+    <li id="qB40-3">③ 시청자와 정서적인 유대를 형성하기 위해 시청자들의 별명을 방송 도입부에서 언급하며 인사해야지.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB40-4">④ 방송이 주기적으로 진행되므로 다음 방송에서 무엇을 다루게 될 것인지에 대해 소개해야지.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB40-5">⑤ 방송 도중에 접속한 시청자를 언급하며 앞부분의 내용을 요약하여 전달해야지.<a class="src-tag" href="#evB43-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>"많은 분들이 다루어 달라고 요청하신 △△" → 시청자들의 요구와 관련된 프로그램임을 밝힘.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>시청자 요구 관련 명시.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 없는 내용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB41">
+  <p class="q-stem">41. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB41-1">① ㉠: 방송이 이루어지는 채널의 이름이 화면에 제시되었다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB41-2">② ㉡: 방송에서 다룰 내용이 자막으로 화면에 제시되었다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB41-3">③ ㉢: 시청자가 질문을 하거나 의견을 나눌 수 있도록 실시간 대화창이 화면에 제시되었다.<a class="src-tag" href="#evB42-3">지문 근거</a></li>
+    <li id="qB41-4">④ ㉣: 진행자가 방송 중에 대화형 인공 지능 프로그램에 요청을 올리는 과정이 실시간으로 제시되었다.<a class="src-tag ans" href="#evB41-4">정답 근거</a></li>
+    <li id="qB41-5">⑤ ㉤: 시청자가 방송에서 언급된 대화형 인공 지능 프로그램을 사용해 볼 수 있도록 누리집 주소가 제시되었다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>"방송 전에 제가 … 올렸던 요청" → 실시간이 아니라 방송 전 미리 올린 화면. '실시간으로 제시'가 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>방송 전 미리 올렸던 것. 실시간이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB42">
+  <p class="q-stem">42. ⓐ~ⓔ에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB42-1">① ⓐ: 접속 조사 '이나'를 사용하여, 채널에서 다루는 대상들을 나열하고 있다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB42-2">② ⓑ: 연결 어미 '-지만'을 사용하여, 대화형 인공 지능 프로그램의 편리한 점과 불편한 점을 함께 드러내고 있다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB42-3">③ ⓒ: 특수 어휘 '말씀'을 사용하여, 진행자가 자신의 말을 낮추어 표현하고 있다.<a class="src-tag ans" href="#evB42-3">정답 근거</a></li>
+    <li id="qB42-4">④ ⓓ: 부사 '일부러'를 사용하여, 대화형 인공 지능 프로그램에 부적절한 요청을 한 것이 의도적이었음을 나타내고 있다.<a class="src-tag" href="#evB43-5">지문 근거</a></li>
+    <li id="qB42-5">⑤ ⓔ: 보조사 '만'을 사용하여, 어떤 형식의 답변을 요청해야 하는지를 강조하고 있다.<a class="src-tag" href="#evB43-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>ⓒ "가온 님이 좋은 말씀을 해 주셨네요" → '말씀'은 진행자가 가온 님의 말을 높인 것(청자 높임). 자신의 말을 낮춘 게 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>'말씀'=가온 님의 말 높임(상대 높임). 자신 낮춤 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB43">
+  <p class="q-stem">43. (나)에 나타난 시청자들의 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB43-1">① '가온'은 환각 현상에 대한 진행자의 설명을 토대로 대화형 인공 지능 프로그램이 제공한 답변을 활용할 때는 검증 절차가 필수적이라고 판단하였다.<a class="src-tag" href="#evB42-3">지문 근거</a></li>
+    <li id="qB43-2">② '새롬'은 대화형 인공 지능 프로그램의 답변 생성 원리에 대한 진행자의 설명을 토대로 대화형 인공 지능 프로그램에 대한 자신의 기존 생각이 틀렸다고 판단하였다.<a class="src-tag" href="#evB41-4">지문 근거</a></li>
+    <li id="qB43-3">③ '하람'은 원하는 답변을 도출하는 요령에 대한 진행자의 설명을 토대로 대화형 인공 지능 프로그램에 구체적인 조건을 포함해서 요청하는 것이 필요하다고 판단하였다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB43-4">④ '봄비'는 대화형 인공 지능 프로그램의 속성에 대한 자료를 접한 경험을 토대로 진행자가 제시한 화면에 있는 답변에서 해당 속성을 확인할 수 있다고 판단하였다.<a class="src-tag" href="#evB41-4">지문 근거</a></li>
+    <li id="qB43-5">⑤ '초롱'은 저작권을 침해하는 요청에 대한 진행자의 설명을 토대로 대화형 인공 지능 프로그램에 저작권이 있는 글의 전문을 요청하더라도 염려할 필요가 없다고 판단하였다.<a class="src-tag ans" href="#evB43-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>초롱: "해봄 님이 알려 주신 대로 요청하면 될 것 같아요" = 요약 형식으로만 요청해야 함. '전문 요청해도 염려 없다'가 아니라 '요약 형식으로 요청하면 된다'가 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>초롱은 전문 요청이 아닌 요약 형식 요청이 해결책임을 인식. '염려 불필요'가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB4" class="set-anchor"></div>
 
-## 44~45번 매체 · [44③45③ — 작성 예정]
+## 44~45번 매체 · 역사 동아리 누리 소통망 대화 + 게시물
+
+<div class="passage">
+  <p class="passage-guide">[44 ~ 45] (가)는 역사 동아리 학생들의 누리 소통망 대화이고, (나)는 이를 바탕으로 제작하여 학교 누리집에 올린 게시물이다.</p>
+  <p><strong>핵심</strong> — 박물관 전시 안내 앱 소개 게시물 기획. 앱 기능: 길 찾기(증강현실)+유물 복원하기(증강현실). 앱을 사용해 본 사람의 영상 링크 포함. 바로가기 제공.</p>
+</div>
+
+<div class="q-block" id="probB44">
+  <p class="q-stem">44. (가)의 의사소통 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB44-1">① 공감을 표현할 수 있는 기능을 사용하여 상대의 말에 반응하고 있다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB44-2">② 동아리 부원이 참여하는 대화방을 구성하여 동아리 활동 방안을 공유하고 있다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB44-3">③ 문서를 전달하는 기능을 활용하여 대화 참여자가 요청한 자료를 제공하고 있다.<a class="src-tag ans" href="#evB40-1">정답 근거</a></li>
+    <li id="qB44-4">④ 쌍방향 의사소통이 가능한 누리 소통망을 활용하여 비대면으로 의견을 전달하고 있다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB44-5">⑤ 공지 기능을 활용하여 참여자가 확인해야 하는 안내 사항을 대화창 상단에 제시하고 있다.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>지난 회의 내용을 정리한 파일(.pdf)은 요청 없이 스스로 올린 것이다. "대화 참여자가 요청한" 자료가 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>파일은 요청 없이 스스로 제공한 것. '요청한 자료'가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB45">
+  <p class="q-stem">45. (가)를 반영하여 (나)를 제작하였다고 할 때, 이 과정에서 고려한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB45-1">① 앱을 내려받는 경로에 대한 '수정'의 발언을 반영하여, 바로가기를 제공해야겠군.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB45-2">② 앱 사용의 기대 효과에 대한 '도현'의 발언을 반영하여, 학생의 말풍선에 청유 형식의 문구를 제시해야겠군.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB45-3">③ 영상 제공 효과에 대한 '현우'의 발언을 반영하여, 동아리 부원이 직접 앱을 사용하는 영상을 제시해야겠군.<a class="src-tag ans" href="#evB40-1">정답 근거</a></li>
+    <li id="qB45-4">④ 앱 기능의 장점에 대한 '예린'과 '수정'의 발언을 반영하여, 앱의 두 가지 기능을 글 상자에 넣어 제시해야겠군.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+    <li id="qB45-5">⑤ 게시물 제목에 대한 '서연'의 발언을 반영하여, 앱 사용의 목적이 강조되도록 글자 크기를 달리하여 제시해야겠군.<a class="src-tag" href="#evB40-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>현우가 올린 것은 '실제로 앱을 사용해 본 사람이 올린 영상' 링크이지 동아리 부원이 직접 찍은 영상이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>영상은 외부인이 올린 것. 동아리 부원 직접 영상이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
