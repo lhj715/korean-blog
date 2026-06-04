@@ -360,7 +360,145 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set3" class="set-anchor"></div>
 
-## 10~13번 과학 · [작성 예정]
+## 10~13번 과학 · 볼록 렌즈와 비점 수차
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>볼록 렌즈 → 상점 수렴 → 비점 수차 발생 조건과 특성을 단계적으로 파악한다.</p>
+  <ul>
+    <li><strong>핵심 개념</strong> — 상점(광선이 수렴하는 점) / 수차(흐려짐) / 비점 수차(물체점이 광축에서 멀면 두 상점으로 분리)</li>
+    <li><strong>자오면·구결면</strong> — 자오면(광축+주광선 포함, 단 하나) / 구결면(자오면에 수직, 주광선 포함, 광축 미포함) / 각각의 광선(자오·구결) 입사 양상이 다름 → 굴절 양상 다름 → 두 상점 분리</li>
+    <li><strong>일차상·이차상</strong> — 일차상(자오 상점, 렌즈 더 가까움, 구결면 위) / 이차상(구결 상점, 자오면 위) / 둘 다 선분 형상, 서로 수직 / 사이에 타원 상, 중간에 최소 착란원(원형, 가장 뚜렷)</li>
+    <li><strong>비점 격차</strong> — 광축까지 거리의 제곱에 비례</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 10번 ⑤ 자오면=광축 중심(주광선 X), 12번 ③ 일차상은 구결면·이차상은 자오면(수직 평면에 각각), 13번 ② ⓑ'해당한다'→'속하다'가 맞고 '어울린다'는 틀림.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[10 ~ 13] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev10-1">카메라 등의 광학 기기에 쓰이는 볼록 렌즈는, 물체에서 반사되어 렌즈로 입사한 광선들을 수렴시킨다. 물체 표면의 한 점인 물체점에서 렌즈로 입사한 여러 광선이 굴절하여 수렴하는 점을 상점이라고 한다.</span><a class="ev-tag" href="#q10-1">10-①</a> 렌즈로 입사한 모든 광선이 하나의 상점에 수렴한다면 상은 뚜렷한 점의 형태로 맺히지만, 하나의 상점에 수렴하지 않으면 상이 흐려지거나 일그러져 보이는 수차 현상이 ⓐ발생한다. 특히 물체점이 광축에서 멀리 떨어지면 렌즈에서 굴절된 광선들은 서로 다른 두 상점에 수렴하게 되어 흐릿한 상을 맺는 경우가 있는데, 이러한 현상은 비점 수차에 ⓑ해당한다.</p>
+  <p><span class="ev ans" id="ev10-5">광축은 렌즈의 중심을 지나면서 렌즈 면에 수직인 가상의 직선이다.</span><a class="ev-tag" href="#q10-3">10-③</a> … <span class="ev ans" id="ev10-5b">자오면은 광축과 주광선을 포함하는 단 하나의 평면이며, 광축을 중심으로 물체점이 어느 방향에 있는지를 드러낸다.</span><a class="ev-tag ans" href="#q10-5">10-⑤</a> 구결면은 자오면과 수직인 평면으로, 광축을 포함하지 않으며 주광선을 포함하는 평면이다. 자오 광선과 구결 광선은 입사 양상이 다르며, 이에 따라 굴절 양상도 다르다. 이 때문에 광선들이 서로 다른 위치에 수렴하게 되는데, 자오 광선이 수렴하는 점을 자오 상점, 구결 광선이 수렴하는 점을 구결 상점이라고 한다. <span class="ev" id="ev12-1">이때 자오 상점이 구결 상점보다 렌즈의 중심까지의 거리가 더 가깝다.</span><a class="ev-tag" href="#q12-1">12-①</a></p>
+  <p>비점 격차는 물체점에서 광축까지의 거리의 제곱에 비례한다. … <span class="ev" id="ev10-2">일차상과 이차상 사이에 맺히는 상의 대부분은 타원의 형상을 띠지만, 중간 부근에 원형을 띠는 유일한 지점이 있는데 이 지점에서의 상을 최소 착란원이라고 한다.</span><a class="ev-tag" href="#q10-2">10-②</a> <span class="ev" id="ev10-4">최소 착란원은 광선들이 하나의 상점에 수렴할 때 형성되는 상과 형태가 가장 ⓔ유사하며, 일차상과 이차상 사이에 맺히는 상 중 가장 뚜렷하다.</span><a class="ev-tag" href="#q10-4">10-④</a></p>
+  <p><span class="ev ans" id="ev12-3">일차상과 이차상은 모두 선분의 형상인데, 일차상은 구결면 위에 놓여 주광선과 수직 관계를 이루고, 이차상은 자오면 위에 놓여 주광선과 수직 관계를 이룬다. ㉠이때 일차상과 이차상은 서로 수직이다.</span><a class="ev-tag ans" href="#q12-3">12-③</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q10-1">① 상점은 렌즈로 입사하는 여러 광선들이 수렴하는 점이다.<a class="src-tag" href="#ev10-1">지문 근거</a></li>
+    <li id="q10-2">② 일차상과 이차상 사이에 맺히는 상의 대부분은 타원의 형상을 띤다.<a class="src-tag" href="#ev10-2">지문 근거</a></li>
+    <li id="q10-3">③ 광축은 렌즈의 중심을 지나면서 렌즈 면에 수직인 가상의 직선이다.<a class="src-tag" href="#ev10-5">지문 근거</a></li>
+    <li id="q10-4">④ 최소 착란원은 일차상과 이차상 사이에서 맺히는 상 중 가장 뚜렷하다.<a class="src-tag" href="#ev10-4">지문 근거</a></li>
+    <li id="q10-5">⑤ 자오면은 물체점이 주광선을 중심으로 어느 방향에 있는지를 드러낸다.<a class="src-tag ans" href="#ev10-5b">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>지문: "자오면은 광축을 중심으로 물체점이 어느 방향에 있는지를 드러낸다." ⑤는 '광축' 대신 '주광선'을 넣었다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>'광축 중심'이 맞는데 '주광선 중심'으로 바꿈.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. &lt;보기&gt;는 윗글을 이해하기 위한 학습 자료의 일부이다. 학생의 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>A=자오면(광축+주광선), B=구결면(A와 수직, 주광선 포함). C, D=각 평면 위 선분 형상의 상. E=최소 착란원(원형). P0~P3는 광축 수직 위, P4는 광축 위. P0까지 광축 거리=P1의 2배=P2의 절반. 물체점은 현재 P0.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q11-1">① 물체점을 P1으로 옮긴다면, E는 물체점이 P0에 있었을 때보다 더 뚜렷하겠군.<a class="src-tag" href="#ev10-4">지문 근거</a></li>
+    <li id="q11-2">② 물체점을 P2로 옮긴다면, C에서 D까지의 거리는 물체점이 P0에 있었을 때의 4배가 되겠군.<a class="src-tag" href="#ev10-4">지문 근거</a></li>
+    <li id="q11-3">③ 물체점을 P3로 옮겼을 때 C의 길이가 길어졌다면, P0에서 광축까지의 거리가 P3에서 광축까지의 거리보다 길겠군.<a class="src-tag ans" href="#ev10-4">정답 근거</a></li>
+    <li id="q11-4">④ P3에서 광축까지의 거리가 P0에서 광축까지의 거리와 같다면, 물체점을 P3로 옮겼을 때 E의 크기는 변하지 않겠군.<a class="src-tag" href="#ev10-4">지문 근거</a></li>
+    <li id="q11-5">⑤ 물체점이 P0에 있을 때와 달리 P4에 있다면, 주광선을 포함하는 평면 위에 있는 광선들의 입사 양상은 어떤 평면에서든 동일하겠군.<a class="src-tag" href="#ev10-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>C의 길이가 길어졌다 = 비점 격차가 커졌다 = 광축까지 거리가 더 커졌다. 따라서 P3에서 광축까지 거리가 P0보다 크다. ③은 반대로 'P0가 더 길다'고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>P1은 P0보다 광축 거리 작음 → 비점 격차 작음 → E 더 뚜렷. 적절.</td></tr>
+          <tr><td>②</td><td>오답</td><td>P2 거리=P0의 2배 → 비점 격차=4배 → C~D 거리 4배. 적절.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>C 길어짐=광축 거리 증가. P3가 P0보다 거리 큼. ③은 반대.</td></tr>
+          <tr><td>④</td><td>오답</td><td>같은 거리 → 같은 비점 격차 → E 크기 동일. 적절.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>P4(광축 위) → 물체점이 광축 위 → 비점 수차 없음 → 모든 평면 동일. 적절.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글을 참고할 때, ㉠의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q12-1">① 일차상이 이차상보다 렌즈의 중심에서 더 멀리 맺히기 때문이다.<a class="src-tag" href="#ev12-1">지문 근거</a></li>
+    <li id="q12-2">② 물체점으로부터 렌즈로 입사한 광선들의 집합이 원뿔 형상을 띠기 때문이다.<a class="src-tag" href="#ev10-1">지문 근거</a></li>
+    <li id="q12-3">③ 서로 수직 관계인 구결면과 자오면 위에 각각 일차상과 이차상이 놓이기 때문이다.<a class="src-tag ans" href="#ev12-3">정답 근거</a></li>
+    <li id="q12-4">④ 물체점의 위치가 변경되면 주광선 또한 달라져 자오면과 구결면이 달라지기 때문이다.<a class="src-tag" href="#ev10-5b">지문 근거</a></li>
+    <li id="q12-5">⑤ 렌즈가 일차상을 기준으로 회전하였을 때 원래의 형태와 수직을 이루는 성질을 띠게 되기 때문이다.<a class="src-tag" href="#ev12-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>일차상은 구결면(구결 광선 수렴), 이차상은 자오면(자오 광선 수렴). 자오면과 구결면은 서로 수직 → 일차상과 이차상도 서로 수직.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>자오 상점이 구결 상점보다 렌즈 중심에 더 가깝다(반대). 또한 이것이 수직의 이유가 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>원뿔 형상은 수직의 직접 원인이 아님.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>구결면⊥자오면 → 일차상(구결면 위)⊥이차상(자오면 위).</td></tr>
+          <tr><td>④⑤</td><td>오답</td><td>각각 다른 이유.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q13-1">① ⓐ: 생겨난다<a class="src-tag" href="#ev10-1">지문 근거</a></li>
+    <li id="q13-2">② ⓑ: 어울린다<a class="src-tag ans" href="#ev10-1">정답 근거</a></li>
+    <li id="q13-3">③ ⓒ: 나아가는<a class="src-tag" href="#ev10-5">지문 근거</a></li>
+    <li id="q13-4">④ ⓓ: 똑같다<a class="src-tag" href="#ev12-3">지문 근거</a></li>
+    <li id="q13-5">⑤ ⓔ: 비슷하며<a class="src-tag" href="#ev10-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>ⓑ '해당한다' = '속한다/포함된다'. '어울린다'는 전혀 다른 의미.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 적절한 유의어.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해당한다(속하다)≠어울린다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set4" class="set-anchor"></div>
 
