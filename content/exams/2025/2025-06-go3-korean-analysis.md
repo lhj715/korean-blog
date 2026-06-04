@@ -131,7 +131,206 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="set2" class="set-anchor"></div>
 
-## 4~9번 주제통합(법) · [작성 예정]
+## 4~9번 주제통합(법) · 자유주의·사회복지·절차주의적 법 모델 / 임대차 계약 갱신
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 세 법 모델의 출현 순서와 각각의 역할·한계를 구분하며 읽기. (나) 임대차 계약의 원칙(계약 자유)과 예외(임차인 보호 법률 우선)를 구분.</p>
+  <ul>
+    <li><strong>자유주의적 법 모델</strong> — 최소한의 금지만 법으로 규정, 계약 자유 최대 보장</li>
+    <li><strong>사회복지국가적 법 모델</strong> — 법이 삶 깊이 개입, 평등·연대 구현; 과도하면 악순환 발생</li>
+    <li><strong>절차주의적 법 모델</strong> — 분쟁 당사자 간 논의 절차만 관여, 자율 조절 기능 보존</li>
+    <li><strong>임대차 원칙</strong> — 계약 자유; 주택·상가는 임차인 보호 목적 법률 우선 적용</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[4 ~ 9] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가)</strong></p>
+  <p><span class="ev" id="ev49-ga1">근대 국가는 시민의 생명과 재산을 보호하는 것을 일차적인 존립 이유로 삼았다. 최소한의 금지 행위만을 법으로 정하고 이를 위반하는 경우에만 개입함으로써 시민의 자유를 최대한 보장하고자 했다. 이러한 목적이 반영된 자유주의적 법 모델은 근대법의 근간을 이루었다. 그러나 이 모델은 자유를 실질적으로 누릴 사회·경제적 조건이 모두에게 동등하게 주어지지 않은 상황에서 갈등이나 분쟁에 대처하는 데 한계가 있었다.</span><a class="ev-tag" href="#q4-2">4-①</a><a class="ev-tag ans" href="#q4-2">4-②</a></p>
+  <p><span class="ev" id="ev49-ga2">이를 보완할 목적으로 등장한 것이 사회복지국가적 법 모델이다. 이 모델에서는 법이 삶의 세계에 더 깊숙이 개입한다. 개인의 권리 보장뿐 아니라 주거, 노동, 환경 등의 영역에서 평등과 연대의 가치를 구현하기 위한 제도의 구축 및 관리도 법의 역할이 되어, 그 역할 수행에 필요한 의무 규정들이 늘어난다.</span><a class="ev-tag" href="#q6-2">6-②</a></p>
+  <p><span class="ev" id="ev49-ga3">그런데 법적 규제가 과도할 경우 삶의 세계를 구성해 온 고유한 직업 윤리 등 문화적·도덕적 규범이 강행적 성격을 띤 법 규범에 의해 침범당하는 경우가 생긴다. 이로써 사회 각 영역의 자율적 조절 기능이 훼손되고 사회의 통합이 법에 의해 와해된다. 그럴수록 공동체는 갈등 상황에서 법적 해결에 의존하게 된다. 규제에 대한 요구량이 증가하면 법의 수행 능력은 한계에 부딪힌다.</span><a class="ev-tag" href="#q5-3">5-③</a><a class="ev-tag ans" href="#q5-3">5-③ 근거</a></p>
+  <p><span class="ev" id="ev49-ga4">㉠이러한 악순환을 방지하면서 사회복지 체계를 보완하고자 등장한 것이 절차주의적 법 모델이다. 절차주의적 법 모델에 따르면, 법은 분쟁에 직접 개입해 해결책을 내놓는 대신 분쟁 당사자들의 논의와 협상을 위한 절차나 권한 분배 등 분쟁 해결 방식에만 관여한다.</span><a class="ev-tag" href="#q6-3">6-③</a></p>
+  <p>위의 세 가지 법 모델은 시대의 요구에 따라 등장했으나 앞선 모델을 다음 모델이 대체하며 법체계를 지배해 온 것은 아니다. 각각의 법 모델이 고유한 타당성과 필요성을 가진 채 현재의 법체계 안에 공존하고 있다.</p>
+  <p><strong>(나)</strong></p>
+  <p><span class="ev" id="ev49-na1">재산 관계에서는 개인의 자유가 최대한 보장되어야 하므로 계약으로 권리와 의무가 인정되는 것이 원칙이다. 그러나 사회·경제적 조건을 달리하는 당사자들 간에서는, 약자 보호를 위해 법률로 그 내용이 정해지는 경우가 있고 이때는 이를 계약으로 변경할 수 없다.</span><a class="ev-tag ans" href="#q7-4">7-④</a></p>
+  <p><span class="ev" id="ev49-na2">임대차의 경우 그 내용은 계약으로 정해지는 것이 원칙이지만, 임대차의 목적물인 임차물이 생활의 근거인 주택이나 생업의 근거인 상가이면 임차인 보호라는 과제는 계약만으로는 실현되기 어렵다. 그래서 「주택임대차보호법」, 「상가건물 임대차보호법」에는 계약보다 우선 적용되는 제도가 마련되어 있다. 한편 임대차 계약이 종료되기 전의 일정 기간 내에 임대인이나 임차인이 계약 갱신 여부에 대한 의사를 표시할 수 있다. 이 기간 내에 임대인이 임대차 종료를 요구한 경우, 임차인이 갱신 요구권을 행사하면 임대차 종료 예정일부터 최단 존속 기간만큼 임대차가 연장된다. 단, 임대인은 이 법들에 규정된 갱신 거절 사유를 증명해 갱신을 거절함으로써 임대차를 종료시킬 수 있다.</span><a class="ev-tag" href="#q8-1">8-①</a><a class="ev-tag" href="#q8-2">8-②</a></p>
+  <p><span class="ev" id="ev49-na3">주택이나 상가 임대차에서도 법이 아니라 계약으로 재산 관계가 정해지는 경우가 있다. 임차인이 임차물을 사용할 권리가 소멸했거나 임차인의 경제력이 충분하면 임차인을 보호할 필요가 없기 때문이다. 예컨대 ㉮임대차 종료 후 임차물을 반환할 때 임차인이 이를 원상회복할 의무를 지는지를 결정할 때는 계약이 법률보다 우선 적용된다. 또한 보증금이 「상가건물 임대차보호법」에 정해진 상한액을 초과하면 최단 존속 기간이 적용되지 않으므로, 이때 존속 기간을 정하지 않기로 계약했다면 당사자들은 자유롭게 임대차를 종료시킬 수 있다.</span><a class="ev-tag" href="#q7-4">7-④ 근거</a><a class="ev-tag" href="#q8-3">8-③</a><a class="ev-tag" href="#q8-4">8-④</a></p>
+  <p><span class="ev" id="ev49-na4">임대차 분쟁이 발생한 경우 이를 해결하기 위한 원칙적 절차는 법관이 주도하는 재판 절차인데, 여기서 당사자들은 각자 자신의 주장을 뒷받침할 자료를 제출해야 한다. 한편 분쟁 해결 절차에서 당사자들의 자유로운 의견 개진을 보장하기 위해 「주택임대차보호법」과 「상가건물 임대차보호법」에는 임대차 분쟁 조정 절차도 마련되어 있다. 이때 조정 절차를 주관하는 조정위원회가 당사자를 위해 자료를 수집해 줄 수 있다. 그러나 임대차 분쟁 조정 절차는 당사자들이 분쟁 해결을 위해 이 절차를 따르기로 합의해야 시작되며, 이러한 합의가 이루어지지 않으면 재판 절차를 따라야 한다.</span><a class="ev-tag" href="#q6-3">6-③ 근거</a><a class="ev-tag ans" href="#q8-5">8-⑤ 정답 근거</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob4">
+  <p class="q-stem">4. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q4-1">① (가)는 특정 개념이 지니는 의의와 가치를, (나)는 특정 개념의 변화에 대한 전망을 제시하고 있다.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
+    <li id="q4-2">② (가)는 시대의 요구가 반영된 방안들이 출현해 온 과정에 대해, (나)는 특정 과제의 해결을 위한 제도에 대해 서술하고 있다.<a class="src-tag ans" href="#ev49-ga1">정답 근거</a></li>
+    <li id="q4-3">③ (가)는 (나)와 달리, 사회 현상을 분석한 여러 학자의 이론을 다양한 사례를 들어 설명하고 있다.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
+    <li id="q4-4">④ (나)는 (가)와 달리, 문제 해결을 위해 등장한 방안이 과도하게 적용될 경우 발생할 수 있는 문제점을 밝히고 있다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q4-5">⑤ (가)와 (나)는 모두 문제를 해결하려는 기존의 방안들이 지닌 한계점을 비판한 후, 새로운 방안을 제안하고 있다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>(가)는 자유주의→사회복지→절차주의적 법 모델이 시대적 요구에 따라 등장하는 과정을 서술, (나)는 임차인 보호 제도를 서술.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>(나)는 전망이 아닌 현행 제도를 서술.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>(가) 세 모델 출현 과정 + (나) 임차인 보호 제도.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(가)에 특정 학자의 이론이 명시되지 않음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>과도한 규제의 문제점은 (가)에서 다룸.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나)는 새로운 방안 제안보다 현행 제도 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob5">
+  <p class="q-stem">5. [A]를 바탕으로 ㉠을 이해한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q5-1">① 법이 사회 각 영역의 자율적 조절 기능에 점점 더 의존한다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q5-2">② 근대법의 기본 원리를 철저히 고수하는 법 정책으로 인해 문제 해결이 지체된다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q5-3">③ 이전에는 법적 규제를 통해 해결하지 않던 문제들까지도 법의 해결 과제가 된다.<a class="src-tag ans" href="#ev49-ga3">정답 근거</a></li>
+    <li id="q5-4">④ 갈등 상황에서는 문화적으로 전승되어 온 규범이 법 규범보다 우선적으로 투입된다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q5-5">⑤ 삶의 세계에 대한 법의 간섭 빈도가 점점 더 줄어들어 법의 기본 원리에 대한 사회적 신뢰가 깨진다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>[A]: 법의 규제가 과도 → 자율 기능 훼손 → 갈등 시 법에 더 의존 → 규제 요구 증가 → 법 수행 한계 → 문제 발생 시 법은 마지막 수단이어야 한다는 원리도 지키기 어려움. 즉 원래 법으로 해결 안 하던 것들도 법 과제가 되는 것 = ③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>법이 자율 기능에 의존하는 게 아니라 훼손함.</td></tr>
+          <tr><td>②</td><td>오답</td><td>기본 원리를 고수하는 것이 아니라 원리 자체가 깨짐.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>원래 법으로 해결 안 하던 문제들도 법의 과제가 됨.</td></tr>
+          <tr><td>④</td><td>오답</td><td>문화적 규범이 침범당한다고 서술.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>법의 간섭 빈도가 줄어드는 것이 아니라 증가함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob6">
+  <p class="q-stem">6. (가)와 (나)를 이해한 학생이 보인 반응으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q6-1">① 자유주의적 법 모델은 임대인과 임차인이 합의한 계약을 법이 존중하여 그 내용에 원칙적으로 개입하지 말아야 한다고 판단하겠군.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
+    <li id="q6-2">② 사회복지국가적 법 모델은 임차인의 생업을 보호할 필요가 인정될 때는 임대인의 재산권에 대한 제한이 불가능하지 않다고 여기겠군.<a class="src-tag" href="#ev49-ga2">지문 근거</a></li>
+    <li id="q6-3">③ 절차주의적 법 모델은 임대차 분쟁 조정에서 당사자들의 자유로운 의견 개진의 기회를 법으로 보장해야 한다고 보겠군.<a class="src-tag" href="#ev49-na4">지문 근거</a></li>
+    <li id="q6-4">④ 자유주의적 법 모델은 사회복지국가적 법 모델과 달리, 임차인의 갱신 요구를 임대인이 거절할 수 없어야 한다고 보겠군.<a class="src-tag ans" href="#ev49-ga1">정답 근거</a></li>
+    <li id="q6-5">⑤ 사회복지국가적 법 모델과 절차주의적 법 모델은 모두, 임대차 갈등을 다룰 때 임대인과 임차인이 대등한 관계가 아닐 수 있음을 고려하겠군.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>자유주의적 법 모델은 계약의 자유를 최대한 보장하므로, 임대인이 갱신을 거절할 수 있어야 한다고 볼 것. 임대인이 거절할 수 없어야 한다는 것은 사회복지 관점.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>각각 해당 법 모델의 관점에 맞음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>자유주의는 계약 자유 보장 → 임대인도 갱신 거절 가능해야 함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob7">
+  <p class="q-stem">7. (나)를 바탕으로 할 때, ㉮의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q7-1">① 임차인의 경제력이 충분하면 임대차 기간이 보장될 필요가 없기 때문이다.<a class="src-tag" href="#ev49-na3">지문 근거</a></li>
+    <li id="q7-2">② 임차인과 임대인이 법률에 규정된 내용을 계약으로써 변경할 수 없기 때문이다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+    <li id="q7-3">③ 임차인의 권리가 법률로 정해져야 개인의 자유가 최대한 보장되기 때문이다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+    <li id="q7-4">④ 임대차 목적물인 주택이나 상가가 더 이상 임차인의 생활이나 생업의 근거가 아니기 때문이다.<a class="src-tag ans" href="#ev49-na3">정답 근거</a></li>
+    <li id="q7-5">⑤ 임차물이 상가인 경우 임대차의 내용 결정은 임차인의 사회·경제적 조건과 무관하기 때문이다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉮(원상회복 의무 결정에서 계약 우선)의 이유: 임대차 종료 후에는 임차물이 더 이상 생활·생업의 근거가 아니므로 임차인 보호 필요 없음 → 계약 자유 원칙 적용.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 지문 내용과 불일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>임대차 종료 후 → 임차물이 생활·생업 근거 아님 → 임차인 보호 불필요 → 계약 우선.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob8">
+  <p class="q-stem">8. (가), (나)를 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q8-1">① 갑이 A 주택에 실거주할 계획이 있음을 증명한 경우, 갑과 을 간의 A 주택 임대차는 갱신되지 않겠군.<a class="src-tag" href="#ev49-na2">지문 근거</a></li>
+    <li id="q8-2">② 을이 갱신 요구권을 행사하여 임대차 기간을 연장할 수 있다면, 이것은 평등과 연대의 가치 실현을 위해 마련된 의무 규정이 적용된 것이겠군.<a class="src-tag" href="#ev49-ga2">지문 근거</a></li>
+    <li id="q8-3">③ 을은 갑에게 「상가건물 임대차보호법」에 규정된 최단 존속 기간을 주장할 수 없겠군.<a class="src-tag" href="#ev49-na3">지문 근거</a></li>
+    <li id="q8-4">④ 을의 의사와 무관하게 갑이 B 상가 임대차를 종료시킬 수 있는 것은, 시민 개개인의 자유가 갑에게 보장된 것이겠군.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
+    <li id="q8-5">⑤ 갑과 을 간의 A 주택 임대차에 관한 분쟁 해결 절차에서는 조정위원회가 을을 위해 자료를 수집할 수 있겠군.<a class="src-tag ans" href="#ev49-na4">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>갑이 조정 절차를 거절 → 합의 불성립 → 조정 절차 시작 불가 → 조정위원회 자료 수집 불가. 재판 절차를 따라야 함.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>각각 지문 내용과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>합의 없으면 조정 절차 시작 불가 → 조정위원회 수집 불가.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob9">
+  <p class="q-stem">9. 문맥상 ⓐ〜ⓔ와 가장 가까운 의미로 쓰인 것은?</p>
+  <ul class="q-opts">
+    <li id="q9-1">① ⓐ: 그는 신문 기사를 주장의 근거로 삼았다.<a class="src-tag ans" href="#ev49-ga1">정답 근거</a></li>
+    <li id="q9-2">② ⓑ: 아이가 한눈을 팔다가 친구와 부딪혔다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q9-3">③ ⓒ: 그가 사용한 전문 용어들은 너무 어렵다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q9-4">④ ⓓ: 열심히 장사했더니 이익이 많이 남았다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q9-5">⑤ ⓔ: 언니가 화분들을 모두 베란다에 내놓았다.<a class="src-tag" href="#ev49-ga4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>ⓐ삼았다: '어떤 것을 어떤 목적/자격으로 여기다'. "일차적인 존립 이유로 삼았다" = "근거로 삼았다"(①).</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>삼다 = '어떤 것으로 여기다'. "근거로 삼았다" = 동일 의미.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓑ부딪히다(충돌) vs ②부딪히다(물리적 충돌). 비슷하지만 문맥 다름.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ⓒ어렵다(불가능에 가깝다) vs ③어렵다(이해가 어렵다).</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓓ남다(당위만 남다) vs ④남다(이익이 생기다).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ⓔ내놓다(제시하다) vs ⑤내놓다(물리적으로 꺼내 놓다).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set3" class="set-anchor"></div>
 
