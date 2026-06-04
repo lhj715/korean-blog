@@ -1288,11 +1288,252 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="setA2" class="set-anchor"></div>
 
-## 38~42번 화법·작문 · [작성 예정]
+## 38~42번 화법·작문 · 비평문(인증 숏)과 동아리 면접
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 비평문: 인증 숏 현상의 긍정적 측면 부각 — 자기 계발 동기 유발, 독서 문화 활성화. (나) 면접: 비평문 내용을 바탕으로 한 동아리 지원 면접.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[38 ~ 42] (가) 비평문 + (나) 면접<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evA2-ga">비평문 핵심: ①인증 숏은 사진·영상 공유 현상 ②부정적 시각(자기 과시) ③그러나 긍정적 측면(자기 계발) 있음 ④운동 인증 숏: 운동 습관 형성(정△△ 학생 인터뷰) ⑤독서 인증 숏: 독서 문화 활성화 / 1020세대 도서 구매량 전년 대비 9% 증가 ⑥가치 있는 생활 양식 확산 기회로 삼아야.</span><a class="ev-tag" href="#qA38-1">38-①</a><a class="ev-tag" href="#qA39-3">39-③</a></p>
+  <p><span class="ev" id="evA2-na">면접 핵심: 지원자가 글감 선택 이유 설명 / 다양한 관점 검토 여부 / 부정적 지적의 문제점 / 도서 구매량 자료 타당성 부족 인정 / 인터뷰 근거 선택 이유(실제 목소리로 공감 유도).</span><a class="ev-tag" href="#qA40-3">40-③</a><a class="ev-tag" href="#qA41-2">41-②</a><a class="ev-tag" href="#qA42-1">42-①</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probA38">
+  <p class="q-stem">38. (가)에 활용된 글쓰기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA38-1">① 인증 숏 현상의 구체적인 사례들을 일관된 관점을 중심으로 해석한다.<a class="src-tag ans" href="#evA2-ga">정답 근거</a></li>
+    <li id="qA38-2">② 인증 숏 현상의 실태와 그에 대한 인식을 세대별로 구분하여 설명한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA38-3">③ 인증 숏 현상에 대한 다양한 관점들을 열거하고 이를 순차적으로 논박한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA38-4">④ 일반적인 원리를 전제로 인증 숏 현상의 문제에 대한 해결 방안을 도출한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA38-5">⑤ 인증 숏 현상을 관찰한 후 그 현상으로 인해 발생한 문제를 쟁점별로 분석한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>운동 인증 숏, 독서 인증 숏 등 다양한 사례를 '긍정적 측면'이라는 일관된 관점으로 해석.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>구체적 사례(운동·독서 인증 숏) + 일관된 관점(긍정적 측면).</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 해당 방식 사용 안 함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA39">
+  <p class="q-stem">39. 다음은 (가)의 4문단의 초고이다. 4문단에 반영된 수정 사항으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA39-1">① 글의 맥락을 고려하여 논점에서 벗어나는 내용을 삭제한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA39-2">② 글에 제시한 자신의 견해를 강조하기 위해 제언을 추가한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA39-3">③ 글의 의미를 부각하기 위해 예상 독자를 명시하여 수정한다.<a class="src-tag ans" href="#evA2-ga">정답 근거</a></li>
+    <li id="qA39-4">④ 논지와 어울리지 않는 표현을 논지에 맞는 표현으로 수정한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA39-5">⑤ 비교 대상을 추가하여 주장의 범위를 한정하여 수정한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>초고→최종본 수정에서 예상 독자가 명시적으로 추가된 내용은 없음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>예상 독자 명시 수정 없음.</td></tr>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>각각 초고→최종본에서 반영된 수정.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA40">
+  <p class="q-stem">40. (나)에 나타난 면접 참여자의 말하기 방식에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA40-1">① '학생1'은 동아리에서 하는 활동의 의의를 언급하며 지원자의 관심을 확인하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA40-2">② '학생2'는 지원자의 계획에서 문제점을 찾아 구체적인 해결 방안을 제안하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA40-3">③ '지원자'는 자신의 발언에 오류가 있었음을 인정하고 수정하고 있다.<a class="src-tag ans" href="#evA2-na">정답 근거</a></li>
+    <li id="qA40-4">④ '학생1'과 '학생2'는 면접 진행 방식에 대해 사전에 합의된 역할에 따라 면접을 진행하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA40-5">⑤ '지원자'는 자신에게 주어진 공통 질문의 의도를 파악하여 면접관의 기대에 맞는 답변을 준비하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>지원자가 도서 구매량 자료와 독서 문화 활성화 사이의 연관성이 타당하지 않다고 스스로 인정하고 수정.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>지원자가 자료 타당성 부족을 인정하고 수정.</td></tr>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA41">
+  <p class="q-stem">41. (나)의 [A]에 들어갈 '지원자'의 발언으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA41-1">① 비평문 작성 능력이 뛰어난 다른 지원자들과 달리,<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA41-2">② 다양한 사회 현상에 대한 관심과 비판적 시각을 갖추고 있어서<a class="src-tag ans" href="#evA2-na">정답 근거</a></li>
+    <li id="qA41-3">③ 음식 문화 연구 분야로의 진출을 목표로 하고 있어서<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA41-4">④ 이 동아리에서 비평문을 모아 출판한 경험이 있어서<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA41-5">⑤ 혼자 비평문을 쓰는 것보다 함께 쓰는 것을 더 선호하여서<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>[A]는 선발 이유를 말하는 부분. 동아리 활동(사회 현상 비평문 작성)과 관련하여 지원자의 역량을 제시해야 함. ② 사회 현상에 대한 관심과 비판적 시각이 동아리 목적에 부합.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>사회 현상 관심 + 비판적 시각 = 동아리 활동 목적과 부합.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 맥락에 맞지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA42">
+  <p class="q-stem">42. (가)의 ㉠〜㉤을 고쳐 쓴다고 할 때, 그 방안으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA42-1">① ㉠: 인증 숏의 개념을 직접 인용하여 명확하게 제시한다.<a class="src-tag ans" href="#evA2-ga">정답 근거</a></li>
+    <li id="qA42-2">② ㉡: 부정적 시각의 근거를 보완하여 설득력을 높인다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA42-3">③ ㉢: 역접 관계를 명확히 하는 접속어를 유지하여 논리적 흐름을 강조한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA42-4">④ ㉣: 특정 학생의 실제 경험을 구체적으로 담아 내용의 타당성을 높인다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA42-5">⑤ ㉤: 자료의 출처를 제시하여 근거의 신뢰성을 높인다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>㉠은 비평문의 도입 부분으로 인증 숏을 소개하는 내용. 직접 인용이 아닌 설명 방식으로 충분하며, 직접 인용으로 바꾸는 것이 적절하지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>㉠을 직접 인용으로 바꾸는 것이 부적절.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(적절)</td><td>각각 적절한 고쳐쓰기 방안.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA3" class="set-anchor"></div>
 
-## 43~45번 작문 · [작성 예정]
+## 43~45번 작문 · 미식 관광 — 지역 식문화와 경제 활성화
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>미식 관광 소개 글. 핵심 효과 두 가지: (1) 지역 식문화 보존·발전, (2) 지역 경제 활성화. 각 문단과 작문 계획·자료 활용 방안을 대조.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 작문 상황과 초고<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evA3-1">초고 핵심: 1문단=미식 관광 수요 배경 / 2문단=미식 관광 개념(음식 관광보다 확장, 총체적 경험) / 3문단=효과①: 지역 식문화 보존·발전 / 4문단=효과②: 지역 경제 활성화(농가 직결·미식 식당·관광객 유입) / 5문단=현재 음식 관광에 머문 한계, 관심 필요.</span><a class="ev-tag" href="#qA43-5">43-⑤</a><a class="ev-tag" href="#qA44-4">44-④</a><a class="ev-tag ans" href="#qA45-2">45-②</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probA43">
+  <p class="q-stem">43. 다음은 '초고'를 쓰기 위해 학생이 세운 계획의 일부이다. ㉠〜㉤ 중 '초고'에 반영되지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA43-1">① ㉠<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA43-2">② ㉡<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA43-3">③ ㉢<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA43-4">④ ㉣<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA43-5">⑤ ㉤<a class="src-tag ans" href="#evA3-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉤(진로 관련 내용을 드러내는 계획)은 초고에 반영되지 않음. 초고에 음식 문화 연구원 진로 이야기는 없음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(반영됨)</td><td>초고에 각각 반영.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>진로 관련 내용 초고에 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA44">
+  <p class="q-stem">44. &lt;보기&gt;를 반영하여 '초고'의 제목을 작성한다고 할 때, 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA44-1">① 미식 관광, 지역의 특색을 음식으로 경험하다<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA44-2">② 미식 관광이 지역의 문화와 경제에 미치는 영향<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA44-3">③ 미식 관광, 지역의 식문화를 보존하고 발전시키다<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA44-4">④ 지역의 식문화와 경제에 기여하는 방안, 미식 관광<a class="src-tag ans" href="#evA3-1">정답 근거</a></li>
+    <li id="qA44-5">⑤ 지역 농가의 안정적 이윤을 보장하는 방안, 미식 관광<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>3문단(식문화 보존·발전)과 4문단(지역 경제)의 단어 활용 + 긍정적 관점 → "식문화와 경제에 기여"가 두 효과를 포괄.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 두 효과 모두 포괄하지 않거나 조건 불충족.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>"식문화"(3문단)+경제"(4문단) 모두 포괄 + 긍정적 관점.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA45">
+  <p class="q-stem">45. &lt;보기&gt;는 학생이 '초고'를 보완하기 위해 추가로 수집한 자료이다. 자료의 활용 방안으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="qA45-1">① ㄱ을 활용하여, 최근의 관광 정책들이 지역 내 맛집 홍보에 집중돼 있다는 것을, 5문단을 보강한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA45-2">② ㄷ을 활용하여, 지역 대표 미식 식당이 관광객들의 여행 기간 결정에 미치는 영향력을, 지역 식문화를 대표하는 미식 식당이 갖춰야 할 요건으로 3문단에 추가한다.<a class="src-tag ans" href="#evA3-1">정답 근거</a></li>
+    <li id="qA45-3">③ ㄷ을 활용하여, 지역 대표 미식 식당의 매출액과 해당 지역 관광 총소비액이 함께 증가함을, 미식 관광객이 지역 경제 활성화에 미치는 영향에 대한 근거로 4문단을 보강한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA45-4">④ ㄱ과 ㄴ을 활용하여, 미식 관광의 취지를 살릴 수 있는 정책으로 제안된 내용과 관련 정책의 성공 사례를, 미식 관광이 관광객에게 총체적 경험을 제공하는 방안으로 2문단에 추가한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA45-5">⑤ ㄴ과 ㄷ을 활용하여, 관광객들의 지역 방문 동기의 순위 변화와 여행 중 방문 장소의 순위를, 음식 관련 특별한 경험에 대한 관광객의 수요를 보여 주는 내용으로 1문단을 구체화한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>②: 미식 식당이 여행 기간 결정에 미치는 영향력은 미식 식당이 갖춰야 할 '요건'과 무관. 요건은 식재료·조리법·역사적 정체성 등이지, 여행 기간 결정 영향력이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>여행 기간 결정 영향력 ≠ 미식 식당이 갖춰야 할 요건.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 적절한 활용 방안.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
