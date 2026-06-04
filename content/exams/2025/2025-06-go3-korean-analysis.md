@@ -613,7 +613,139 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="set5" class="set-anchor"></div>
 
-## 18~21번 현대소설 · [작성 예정]
+## 18~21번 현대소설 · 이범선, '표구된 휴지'
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>액자 구조: 외화(화가의 현재) ↔ 내화(청년의 이야기) ↔ 편지 내용. 평범한 지게꾼 청년의 성실함 + 고향 가족의 애정이 담긴 편지 → 화가에게 점차 큰 의미를 가지게 됨.</p>
+  <ul>
+    <li><strong>㉠창호지</strong> — 표구 가능한 재료(소재적 이유)</li>
+    <li><strong>㉡휴지</strong> — 버려진 종이라는 의미</li>
+    <li><strong>㉢㉣국보급/국보</strong> — 화자가 표구사에게 얼버무린 말 → 이후 진짜 국보 같은 감상</li>
+    <li><strong>㉤액자</strong> — 점차 화실의 중심점이 됨</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[18 ~ 21] 다음 글을 읽고 물음에 답하시오. (이범선, 「표구된 휴지」)<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev1821-1">은행 창구에 매일 저녁 들르는 지게꾼 청년. 처음엔 안내원이 막았지만, 예금 창구 여직원의 도움으로 통장 개설. 이후 매일 이백~오백 원씩 입금 반복.</span><a class="ev-tag" href="#q19-5">19-⑤</a></p>
+  <p><span class="ev" id="ev1821-2">어느 날 청년이 저금통 동전을 종이에 싸 들고 옴. 그 종이가 고향에서 온 편지(창호지). 친구 은행원이 그 편지를 주워 화가에게 표구를 의뢰.</span><a class="ev-tag" href="#q18-1">18-①</a><a class="ev-tag" href="#q18-2">18-②</a></p>
+  <p><span class="ev" id="ev1821-letter">편지 내용: 우물집할머니 갔다 / 장손이 장가감 / 구장네 탄실이 시집감 / 앞집 순이 감자 가져옴 / 니는 빨리 장가 안 들어야 건나 / 돈조타. 그러나 너거 엄마는 돈보다도 너가 더조타한다 / 밥 묵고 배 아프면 소금 한줌 무그라 / 콩나물 무거라. 참기름 마니처서 무그라</span><a class="ev-tag" href="#q20-1">20-①②③④⑤</a></p>
+  <p><span class="ev" id="ev1821-3">화가는 표구사에게 "굉장한 겁니다. 이건 정말 ㉢국보급입니다."라고 얼버무림. 구겨진 휴지였던 편지가 액자 속에 깨끗이 펴져 들어감. ㉤액자가 차츰 화실의 중심점이 되어 감. "그건 그림 같기도 하고 글 같기도 하다. 아니 그건 분명 그 둘이 합쳐진 것이었다."</span><a class="ev-tag ans" href="#q18-5">18-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. ㉠〜㉤을 중심으로 윗글을 이해한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① '화가'는 대상을 표구할 수 없다는 인식을 바탕으로 눈앞의 종이를 ㉠으로 지칭하였다.<a class="src-tag" href="#ev1821-2">지문 근거</a></li>
+    <li id="q18-2">② '화가'는 눈앞의 종이가 자신에게 필요한 것임에 주목하여 이를 ㉡으로 지칭하였다.<a class="src-tag" href="#ev1821-2">지문 근거</a></li>
+    <li id="q18-3">③ '표구사 주인'은 종이에 담긴 내용에 주목하여 '화가'가 이를 ㉢이라 한 말에 동의하였다.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
+    <li id="q18-4">④ '화가'는 종이가 ㉣의 가치를 갖는다고 생각하여 자신이 주문한 물건을 찾으러 갔다.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
+    <li id="q18-5">⑤ '화가'는 표구한 종이의 글에서 그림 같은 느낌도 받으며 ㉤이 점차 화실의 중심점이 되고 있음을 인식하였다.<a class="src-tag ans" href="#ev1821-3">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>"그건 그림 같기도 하고 글 같기도 하다" + "차츰 내 화실의 중심점이 되어 갔다" → ⑤가 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>화가는 창호지라서 표구할 수 있다고 했음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>화가가 필요한 것이 아니라 친구가 가져온 것.</td></tr>
+          <tr><td>③</td><td>오답</td><td>표구사 주인은 갸웃거렸음(동의 아님).</td></tr>
+          <tr><td>④</td><td>오답</td><td>국보급이라 생각해서가 아니라 친구 전근 계기로 생각남.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>그림 같은 느낌 + 화실 중심점.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. [A]의 서술상 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① 대화 내용을 간접 인용으로 서술하며 인물을 비판하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-2">② 편집자적 논평을 통해 인물 간의 갈등이 지닌 의미를 부각하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-3">③ 동시에 진행되는 사건을 병렬하여 인물의 상반된 태도를 드러내고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-4">④ 추측하는 진술로 장면 서술을 마무리하여 인물의 빠른 움직임을 부각하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-5">⑤ 거리와 위치를 나타내는 표현을 사용하여 인물의 불안한 심리를 부각하고 있다.<a class="src-tag ans" href="#ev1821-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>[A](청년 이야기 장면): "저만치 한구석으로 가 서서 불안스러운 눈으로 멀리 여직원을 지켜보고 있었다" → 거리·위치 표현(저만치, 멀리)으로 불안한 심리 부각.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 해당 서술 특징 없음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>"저만치", "멀리" 등 거리·위치 표현으로 청년의 불안 심리 드러냄.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. 편지의 내용에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① 수신자도 알 만한 사람들의 소식들을 포함하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
+    <li id="q20-2">② 혼사와 관련하여 수신자의 현재 상황을 지지하고 있다.<a class="src-tag ans" href="#ev1821-letter">정답 근거</a></li>
+    <li id="q20-3">③ 아픈 상황이 생겼을 경우의 대처 방법을 전달하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
+    <li id="q20-4">④ 수신자의 먹을거리에 대하여 관심을 보이며 조언하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
+    <li id="q20-5">⑤ 재물보다 수신자를 더 중요하게 여기는 마음을 전달하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>"니는 빨리 장가 안 들어야 건나" → 수신자에게 빨리 장가들라는 말(재촉)이지, 현재 상황을 지지하는 것이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>편지 내용과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>결혼 재촉 = 현재 상황(미혼) 지지가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q21-1">① ⓐ에서 '지게꾼이 있단다'라고 들었음을 서술한 뒤에 ⓑ의 첫 문장을 이어 연결한 것은, ⓐ에서 ⓑ로 서술 시점이 변하는 부분을 한 문단 안에 이어 연결한 것이군.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q21-2">② ⓑ에서 '구석으로 갔다'라고 마무리하고 '이게'로 ⓐ를 다시 이어 간 것은, ⓑ에서 ⓐ로 시간적 선후가 역전되면서 이어지는 부분을 지시 표현을 사용하여 다시 연결한 것이군.<a class="src-tag ans" href="#ev1821-2">정답 근거</a></li>
+    <li id="q21-3">③ ⓐ에서 '재미있다'고 한 '친구'의 말 뒤에 ⓒ의 일부를 삽입한 것은, '화가'가 편지 내용과 친구의 장난기를 흥미롭게 받아들이며 비시시 웃게 되는 이유를 보여 주는군.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
+    <li id="q21-4">④ ⓐ에서 '비행기가 떠날 때'의 장면 뒤에 '니떠나고'로 시작되는 ⓒ의 일부를 삽입한 것은, 유사한 의미의 표현을 떠올린 '화가'가 '그길로' 표구사로 가는 행위로 연결되는군.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
+    <li id="q21-5">⑤ ⓐ에서 '친구의 심정'을 생각한 내용 다음에 앞서 제시했던 ⓒ의 일부를 다시 삽입한 것은, '화가'가 편지 내용들을 감상하며 그 의미를 다시 생각하고 있음을 보여 주는군.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>ⓑ("구석으로 갔다") → "이게 바로 그 지게꾼 청년이..."로 ⓐ 이어짐. 이것은 시간 역전이 아니라, ⓑ가 끝나고 ⓐ의 현재 시점으로 돌아오는 것. 시간적 선후가 역전된 것이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답(부적절)</td><td>시간 역전이 아니라 ⓑ가 끝나고 ⓐ로 복귀. 선후 역전 아님.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 적절한 감상.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set6" class="set-anchor"></div>
 
