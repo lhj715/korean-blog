@@ -756,7 +756,179 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set6" class="set-anchor"></div>
 
-## 22~26번 갈래복합 · [작성 예정]
+## 22~26번 갈래복합 · 정식「축산별곡」/ 윤기「명성에 대하여」— 관직과 선정
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 가사: 지방관 생활의 풍류와 선정 의지. ⓐ퇴계 선생 사당 경배. (나) 한문산문: 명성에 따른 편견 비판 → 자기 성찰 → ⓑ퇴계 고사 인용.</p>
+  <ul>
+    <li><strong>㉠</strong> — "백성들이 감화하니 교화할 필요 없네" = 백성이 이미 잘 교화됨에 대한 만족</li>
+    <li><strong>ⓐ vs ⓑ</strong> — ⓐ: 화자가 후학에게 본받으라고 권면하는 대상 / ⓑ: 글쓴이가 자신의 논지를 강화하기 위한 고사</li>
+    <li><strong>(나) 구조</strong> — 지친의 편견(타인) 비판 → 자기 성찰 → 퇴계 고사(분발 계기) → 유익한 경험으로 재해석</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 23번 ①: ㉠=교화 불필요할 만큼 잘 됐다는 만족(무력감 X), 26번 ④: (나)의 '몸이 떨린다'=이룬 것 없어 두려움(반성 X).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가)</strong></p>
+  <div class="poem-text">
+    <p>청원정(淸源亭) 돌아들어 고을을 바라보니 / 소나무 굳은 절개 지금도 빛이 난다 / <span class="ev" id="ev26-1">충효도 갖추었구나 열녀도 많고 많다</span><a class="ev-tag" href="#q26-1">26-①</a></p>
+    <p><span class="ev ans" id="ev23-1">㉠백성들이 감화하니 교화할 필요 없네</span><a class="ev-tag ans" href="#q23-1">23-①</a></p>
+    <p><span class="ev" id="ev26-2">춘강에 배를 띄워 노룡연(老龍淵)으로 내려가니 / ㉡강가의 솔바람은 거문고 소리에 화답하고 / 바위 사이 진달래는 푸른 물결에 비치네</span><a class="ev-tag" href="#q23-2">23-②</a><a class="ev-tag" href="#q26-2">26-②</a></p>
+    <p><span class="ev" id="ev23-3">㉢한유(韓愈)의 가을 독서 두보의 겨울 시회(詩會) / 이 거동과 견주면 어느 것이 낫단 말인고</span><a class="ev-tag" href="#q23-3">23-③</a></p>
+    <p>㉣남여(藍輿)에 비스듬히 앉아 백석정(白石亭)에 오르니 / <span class="ev" id="ev23-4">사람은 어디 가고 빈터만 남았는가 / 청풍이 완연하여 노송에 머물렀나</span><a class="ev-tag" href="#q23-4">23-④</a></p>
+    <p>외로운 배로 거슬러 올라 영귀정(詠歸亭)에 내려 앉아 / 송림을 바라보니 <span class="ev" id="ev24-3a">ⓐ퇴계 선생 사당이로다 / 사당 뜰에서 경건하게 신위에 배례하니 / … 후학이 옛일 보아 퇴계 선생 본받아라</span><a class="ev-tag ans" href="#q24-3">24-③</a></p>
+    <p><span class="ev" id="ev23-5">㉤깊은 밤 명금각(鳴琴閣)에 촛불을 밝게 켜고 / 고아주(羔兒酒) 가득 부어 고운 노래 들으니 / 지방 수령의 영화로움 이것 외에 또 있을까</span><a class="ev-tag" href="#q23-5">23-⑤</a></p>
+    <p><span class="ev" id="ev26-4a">나랏일도 분주하고 병도 점점 깊어지나 / 임금님께 매인 마음 잠들기 전 잊을쏘냐</span><a class="ev-tag" href="#q26-5">26-⑤</a></p>
+    <p class="poem-source">— 정식, 「축산별곡」 —</p>
+  </div>
+  <p><strong>(나)</strong></p>
+  <p>… 나는 밖으로 나와서 곁에 있는 사람에게 말하였다. "사심(私心)은 참으로 털끝만큼도 마음속에 용납하지 말아야 합니다. … <span class="ev" id="ev26-3">이렇게 한다면 글을 평가할 적에 글 자체의 좋고 나쁨이 무슨 상관이 있겠습니까? 글쓴이의 명성이 있고 없음에 따를 뿐이니, … 세상에 글쓴이의 명성을 기준으로 글을 평가하지 않는 사람이 몇이나 되겠습니까?</span><a class="ev-tag" href="#q26-3">26-③</a></p>
+  <p><span class="ev ans" id="ev25-1">갑은 일찌감치 과거에 급제하여 문단(文壇)에 이름을 드날렸으니, 명성이 이미 사람들의 심안(心眼)을 휘어잡기에 충분합니다. 반면에 저는 비록 어려서부터 글을 읽어 옛 성인의 도를 배우고 있지만 20세가 넘도록 이룬 것이 없어 보잘것없는 신세이니, … 이 때문에 평소 자신을 돌아보면 두려워서 춥지도 않은데 몸이 떨리곤 합니다.</span><a class="ev-tag" href="#q25-1">25-①</a><a class="ev-tag ans" href="#q26-4">26-④</a></p>
+  <p><span class="ev" id="ev25-1b">그런데 지금 이 일을 당하고 보니 더욱 자책을 금할 수 없습니다. … 이번 경험이 스스로 분발하는 데에 큰 도움이 될 것입니다. 그렇다면 저에게 유익한 일이 아니겠습니까?</span><a class="ev-tag ans" href="#q26-5">26-⑤</a></p>
+  <p>옛날 <span class="ev ans" id="ev24-3b">ⓑ퇴계 선생이 시골집에서 "이 서방!"하고 부르는 소리를 듣고는 … 퇴계 선생은 … 더욱 노력하여 마침내 과거에 급제하고 결국 대현(大賢)이 되었습니다. 제가 자초한 것도 퇴계 선생의 경우와 비슷하지 않습니까?</span><a class="ev-tag ans" href="#q24-3">24-③</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① (가)는 (나)와 달리, 해학적 표현을 활용하여 주제를 부각하고 있다.<a class="src-tag" href="#ev23-1">지문 근거</a></li>
+    <li id="q22-2">② (나)는 (가)와 달리, 열거의 방식을 활용하여 장면을 묘사하고 있다.<a class="src-tag" href="#ev23-2">지문 근거</a></li>
+    <li id="q22-3">③ (나)는 (가)와 달리, 구체적 지명을 활용하여 현장감을 높이고 있다.<a class="src-tag" href="#ev23-4">지문 근거</a></li>
+    <li id="q22-4">④ (가)와 (나)는 모두, 계절적 배경을 활용하여 정서를 심화하고 있다.<a class="src-tag" href="#ev26-2">지문 근거</a></li>
+    <li id="q22-5">⑤ (가)와 (나)는 모두, 설의적 표현을 활용하여 의미를 강조하고 있다.<a class="src-tag ans" href="#ev23-3">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>(가): "이 거동과 견주면 어느 것이 낫단 말인고", "지방 수령의 영화로움 이것 외에 또 있을까" / (나): "글쓴이의 명성을 기준으로 글을 평가하지 않는 사람이 몇이나 되겠습니까?" 등 설의적 표현 공통.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(가)(나) 모두 설의적 표현.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠~㉤을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠: 자신의 도움을 필요로 하지 않는 상황에 대한 무력감이 나타난다.<a class="src-tag ans" href="#ev23-1">정답 근거</a></li>
+    <li id="q23-2">② ㉡: 자연과 인간이 조화를 이루고 있다는 생각이 나타난다.<a class="src-tag" href="#ev26-2">지문 근거</a></li>
+    <li id="q23-3">③ ㉢: 다른 인물과의 비교를 통해 자신이 하고 있는 행위에 만족감을 느끼는 모습이 나타난다.<a class="src-tag" href="#ev23-3">지문 근거</a></li>
+    <li id="q23-4">④ ㉣: 새로운 장소로 이동한 후 느낀 심회가 나타난다.<a class="src-tag" href="#ev23-4">지문 근거</a></li>
+    <li id="q23-5">⑤ ㉤: 늦은 시간에 흥취를 돋우고 있는 모습이 나타난다.<a class="src-tag" href="#ev23-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>㉠ "백성들이 감화하니 교화할 필요 없네" = 백성이 이미 잘 교화됨을 기뻐하는 것(만족감). 무력감이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>㉠=교화 불필요할 만큼 잘 됨에 대한 만족. 무력감이 아님.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. ⓐ와 ⓑ에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① ⓐ는 화자가 자신과 다름이 없다고 여기는 대상이고, ⓑ는 글쓴이가 자신과 다르다고 생각하는 대상이다.<a class="src-tag" href="#ev24-3a">지문 근거</a></li>
+    <li id="q24-2">② ⓐ는 화자가 본받으려고 하는 대상이고, ⓑ는 글쓴이가 타인에게 도움을 받은 것을 후회하게 하는 대상이다.<a class="src-tag" href="#ev24-3b">지문 근거</a></li>
+    <li id="q24-3">③ ⓐ는 화자가 후학에 대한 권면의 뜻을 드러내기 위해 언급한 대상이고, ⓑ는 글쓴이가 자신의 논지를 강화하기 위해 언급한 대상이다.<a class="src-tag ans" href="#ev24-3a">정답 근거</a></li>
+    <li id="q24-4">④ ⓐ는 화자가 자신이 머무르는 공간에서 벗어나기 위해 활용한 대상이고, ⓑ는 글쓴이가 어려움에서 벗어날 수 있도록 해 주는 대상이다.<a class="src-tag" href="#ev24-3a">지문 근거</a></li>
+    <li id="q24-5">⑤ ⓐ는 화자가 자신이 겪은 고난의 원인을 파악하기 위해 활용한 대상이고, ⓑ는 글쓴이가 자신의 생각과 상충되는 의견들을 절충하기 위해 활용한 대상이다.<a class="src-tag" href="#ev24-3b">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>ⓐ: "후학이 옛일 보아 퇴계 선생 본받아라"=화자가 후학에게 퇴계를 권면. ⓑ: 퇴계 고사 인용=글쓴이 자신이 분발해야 한다는 논지 강화.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>ⓐ=후학 권면, ⓑ=논지 강화.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① 글쓴이는 논의의 대상을 타인의 행위에서 자기 자신에게로 전환하고 있다.<a class="src-tag ans" href="#ev25-1">정답 근거</a></li>
+    <li id="q25-2">② 글쓴이는 자신에 대한 다양한 인물들의 평가를 반박하기 위해 자신의 행동을 정당화하고 있다.<a class="src-tag" href="#ev25-1">지문 근거</a></li>
+    <li id="q25-3">③ 글쓴이는 타인의 주장을 두둔함으로써 해당 인물과의 관계가 개선되는 과정을 드러내고 있다.<a class="src-tag" href="#ev25-1b">지문 근거</a></li>
+    <li id="q25-4">④ 글쓴이는 타인의 삶의 내력을 시간순으로 제시하며 해당 인물의 모순적인 태도를 지적하고 있다.<a class="src-tag" href="#ev25-1b">지문 근거</a></li>
+    <li id="q25-5">⑤ 글쓴이는 자신에게 벌어진 일을 언급하면서 타인이 겪고 있는 문제를 해결하기 위한 구체적 대안을 제시하고 있다.<a class="src-tag" href="#ev25-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>처음에 지친의 편견을 비판하다가→"저에게 유익한 일"→자기 자신의 성찰로 전환. ①이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>타인(지친) 비판→자신 성찰로 전환.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>(가) 작가=지방관, 풍류+선정 의지+충성심. (나) 작가=관직 못 오른 사대부, 세태 부정 인식→정진의 계기→지위·명예 지향.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q26-1">① (가)의 '고을을 바라보'며 '충효도 갖추'고 '열녀도 많'다고 한 것에서 지역의 풍속에 대한 긍정적인 인식이 드러나 있군.<a class="src-tag" href="#ev26-1">지문 근거</a></li>
+    <li id="q26-2">② (가)의 '배를 띄워 노룡연으로 내려가니' '바위 사이 진달래는 푸른 물결에 비'친다는 것에서 주변의 경관을 감상하는 모습이 드러나 있군.<a class="src-tag" href="#ev26-2">지문 근거</a></li>
+    <li id="q26-3">③ (나)의 '글 자체'보다 '글쓴이의 명성'에 따라 '글을 평가하지 않는 사람이 몇이나 되겠'냐고 한 것에서 대상의 사회적 위치에 따라 편견을 갖는 세태에 대한 부정적 인식이 드러나 있군.<a class="src-tag" href="#ev26-3">지문 근거</a></li>
+    <li id="q26-4">④ (가)의 '수령 되'어 '유풍을 가르칠까 교화를 이끌까'라고 한 것에서 지방관으로서 수행해야 하는 직무를 생각하는 모습이, (나)의 '평소 자신을 돌아보면' '몸이 떨'린다는 것에서 지금까지 지위와 명예를 추구하며 살아온 것을 반성하는 모습이 드러나 있군.<a class="src-tag ans" href="#ev25-1">정답 근거</a></li>
+    <li id="q26-5">⑤ (가)의 '선정에 힘을 쓴다'고 하며 '임금님께 매인 마음'을 잊지 않는다고 한 것에서 사회적 책무를 떠올리는 모습이, (나)의 '이번 경험'을 자신에게 '유익한 일'로 여긴다는 것에서 자신이 겪은 일을 개인적 성취를 위한 정진의 계기로 삼는 모습이 드러나 있군.<a class="src-tag" href="#ev25-1b">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>(나)에서 "몸이 떨린다"는 것은 '이룬 것이 없어 두렵다'는 것이지 '지위·명예를 추구하며 살아온 것을 반성'하는 것이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'몸이 떨린다'=이룬 것 없는 두려움. 지위·명예 추구 반성이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set7" class="set-anchor"></div>
 
