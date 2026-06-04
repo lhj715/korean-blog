@@ -1872,7 +1872,61 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setB4" class="set-anchor"></div>
 
-## 44~45번 매체 · [44④ 45③ — 작성 예정]
+## 44~45번 매체 · 학생회 챌린지 앱 기획 대화
+
+<div class="q-block" id="probB44">
+  <p class="q-stem">44. (가)의 ㉠~㉤에 드러난 매체 활용 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB44-1">① ㉠: 시각적 이미지를 통해 반응을 표시하는 기능을 활용하여, 다른 대화 참여자의 의견에 동의함을 나타내고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB44-2">② ㉡: 메시지 전송을 취소하는 기능을 활용하여, 대화 참여자에게 논의에서 벗어난 내용이 전달되는 것을 방지하려고 하고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB44-3">③ ㉢: 답장 기능을 활용하여, 다른 대화 참여자의 이전 메시지를 인용하며 자신의 의견을 전달하고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB44-4">④ ㉣: 파일 첨부 기능을 활용하여, 앱 제작과 관련된 논의에 도움이 될 수 있는 정보가 담긴 자료를 전달하고 있다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB44-5">⑤ ㉤: 공유 기능을 활용하여, 외부에 있는 정보를 대화 참여자들이 열람할 수 있도록 전달하고 있다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉣에서 지훈이 전달한 것은 '학생회 연간 활동 계획서'(학생회 관련 문서)이지 앱 제작과 관련된 논의에 직접 도움이 되는 정보가 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB45">
+  <p class="q-stem">45. (가)를 반영하여 (나)를 제작했을 때, 이에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB45-1">① 대화에서 논의된 배지 기능을 반영하여, 앱 화면에 획득한 배지를 보여 주도록 구성하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB45-2">② 대화에서 논의된 알림 기능을 반영하여, 현재까지 모은 배지 개수를 알려 주는 알림창을 구성하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB45-3">③ 대화에서 논의된 평점 기능을 반영하여, 챌린지에 대한 평점을 다른 학생들도 볼 수 있도록 구성하였다.<a class="src-tag ans" href="#evB35-5">정답 근거</a></li>
+    <li id="qB45-4">④ 대화에서 논의된 건의 기능을 반영하여, 학생들이 의견을 비밀글로 쓸 수 있도록 구성하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+    <li id="qB45-5">⑤ 대화에서 논의된 공유 기능을 반영하여, 챌린지에 대한 내용을 친구에게 공유할 수 있도록 구성하였다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>정답 키에서 45번=③. 대화에서 '별 개수로 평점을 주게 하자'며 학생회가 확인하기 위한 것이었는데, ③은 '다른 학생들도 볼 수 있도록'이라고 했으므로 대화 내용과 다를 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
