@@ -97,18 +97,18 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob3">
   <p class="q-stem">3. 윗글을 읽고 &lt;보기&gt;를 이해한 것으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q3-1">① 보기 선지1<a class="src-tag" href="#ev1-4">지문 근거</a></li>
-    <li id="q3-2">② 보기 선지2<a class="src-tag" href="#ev1-4">지문 근거</a></li>
-    <li id="q3-3">③ 보기 선지3<a class="src-tag ans" href="#ev1-5">정답 근거</a></li>
-    <li id="q3-4">④ 보기 선지4<a class="src-tag" href="#ev1-4">지문 근거</a></li>
-    <li id="q3-5">⑤ 보기 선지5<a class="src-tag" href="#ev1-5">지문 근거</a></li>
+    <li id="q3-1">① ⓐ를 추가로 검색한 것은, ⓑ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
+    <li id="q3-2">② ⓑ에 의문을 품은 것은, ⓐ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
+    <li id="q3-3">③ ⓒ에서 동양의 사례만 찾다가 방향을 달리하여 다양한 지역과 시대 사례를 생성한 것은, ⓒ를 점검한 것에 해당하겠군.<a class="src-tag ans" href="#ev1-5">정답 근거</a></li>
+    <li id="q3-4">④ ⓓ에서 인터넷 검색을 해 본 것은, ⓐ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
+    <li id="q3-5">⑤ ⓔ에서 도서관에서 책을 찾아 읽으려 한 것은, ⓑ를 점검하는 것에 해당하겠군.<a class="src-tag" href="#ev1-5">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p>정답 ③.</p>
+        <p>ⓒ는 한쪽으로 치우친 방향 점검. '동양의 사례만 찾다가 방향을 달리하여 다양한 지역과 시대 사례 생성' = ⓒ 점검.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th></tr></thead>

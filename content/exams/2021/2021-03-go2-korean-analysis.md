@@ -112,7 +112,7 @@ layout: "exam"
   </details>
 </div>
 
-## 4~7번 화법 · (가)는 교내 신문의 연재 기사문이고, (나)는 (가)의 보도 
+## 4~7번 화법·작문 · 유휴 교실 활용 방안 논의
 
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가)는 교내 신문의 연재 기사문이고, (나)는 (가)의 보도 이후에 열린 회의이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -623,7 +623,7 @@ layout: "exam"
   </details>
 </div>
 
-## 19~23번 화법 · 인간은 각자 정해진 운명이 있고, 초월적인 힘에 밀려 
+## 19~23번 갈래 복합 · 운명론적 세계관과 화자의 태도
 
 <div class="passage">
   <p class="passage-guide">[19 ~ 23] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -784,7 +784,7 @@ layout: "exam"
   </details>
 </div>
 
-## 24~27번 현대시 · 고층 건물을 건설하는 현장을 보면 우뚝 솟아 있는 타워
+## 24~27번 독서(과학·기술) · 타워 크레인의 구조와 작동 원리
 
 <div class="passage">
   <p class="passage-guide">[24 ~ 27] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -1225,7 +1225,7 @@ A, B를 이용해 같은 무게의 중량물을 각각 들어 올릴 때, 권상
   </details>
 </div>
 
-## 37~42번 현대시 · 다윈은 같은 종에 속하는 개체들이 생존 경쟁에서 살아남
+## 37~42번 독서(과학·기술) · 이타적 행동의 진화론적 설명
 
 <div class="passage">
   <p class="passage-guide">[37 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
