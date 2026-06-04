@@ -14,21 +14,6 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
-
-<nav class="set-nav">
-  <a href="#set1">1~3 화법</a>
-  <a href="#set2">4~7 화법·작문</a>
-  <a href="#set3">8~10 작문</a>
-  <a href="#set4">11~15 문법</a>
-  <a href="#set5">16~20 문학(갈래복합)</a>
-  <a href="#set6">21~25 독서(사회)</a>
-  <a href="#set7">26~28 현대 소설</a>
-  <a href="#set8">29~33 독서(인문)</a>
-  <a href="#set9">34~37 고전 소설</a>
-  <a href="#set10">38~42 독서(기술)</a>
-  <a href="#set11">43~45 현대시</a>
-</nav>
-
 ## 1~3번 화법 · ‘홍차, 알고 마셔 보자!’ 발표
 
 <div class="read-guide">

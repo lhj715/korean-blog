@@ -14,21 +14,6 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
-
-<nav class="set-nav">
-  <a href="#set1">1~3 화법</a>
-  <a href="#set2">4~7 화법·작문</a>
-  <a href="#set3">8~10 작문</a>
-  <a href="#set4">11~15 문법</a>
-  <a href="#set5">16~20 독서(과학)</a>
-  <a href="#set6">21~25 독서(인문)</a>
-  <a href="#set7">26~30 독서(사회)</a>
-  <a href="#set8">31~33 고전 시가</a>
-  <a href="#set9">34~38 갈래 복합</a>
-  <a href="#set10">39~42 현대 소설</a>
-  <a href="#set11">43~45 고전 소설</a>
-</nav>
-
 ## 1~3번 화법 · 밥의 호화와 노화 발표
 
 <div class="read-guide">

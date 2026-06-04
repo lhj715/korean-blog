@@ -14,12 +14,6 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전 문항 (1~45)</strong></div>
 </section>
-
-<nav class="set-nav">
-  <span class="set-nav-label">세트 바로가기</span>
-  <a href="#set1">1~3 화법</a><a href="#set2">4~6 화법</a><a href="#set3">7~10 문법</a><a href="#set4">11~13 독서</a><a href="#set5">14~17 독서</a><a href="#set6">18~23 독서</a><a href="#set7">24~27 독서·작문</a><a href="#set8">28~30 작문</a><a href="#set9">31~33 문학</a><a href="#set10">34~38 문학</a><a href="#set11">39~42 문학</a><a href="#set12">43~45 문학</a>
-</nav>
-
 ## 1~3번 화법 · 발표 속 의문문의 기능
 
 <div class="read-guide">
