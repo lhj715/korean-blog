@@ -543,7 +543,7 @@
         "month": "03",
         "type": "학력평가",
         "key": "2016-03-go2",
-        "url": null
+        "url": "/exams/2016/2016-03-go2-korean-analysis/"
       },
       {
         "month": "06",
@@ -569,25 +569,25 @@
         "month": "03",
         "type": "학력평가",
         "key": "2015-03-go2",
-        "url": null
+        "url": "/exams/2015/2015-03-go2-korean-analysis/"
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2015-06-go2",
-        "url": null
+        "url": "/exams/2015/2015-06-go2-korean-analysis/"
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2015-09-go2",
-        "url": null
+        "url": "/exams/2015/2015-09-go2-korean-analysis/"
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2015-11-go2",
-        "url": null
+        "url": "/exams/2015/2015-11-go2-korean-analysis/"
       }
     ]
   },
