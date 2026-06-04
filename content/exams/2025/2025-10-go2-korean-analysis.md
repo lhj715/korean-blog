@@ -41,10 +41,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표 내용과 관련된 청중의 경험을 환기하고 있다.<a class="src-tag" href="#ev4">지문 근거</a></li>
-    <li id="q1-2">② 청중의 이해도를 확인하며 발표를 마무리하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q1-3">③ 대상에 대한 전문가의 평가를 직접 인용하여 제시하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-2">② 청중의 이해도를 확인하며 발표를 마무리하고 있다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
+    <li id="q1-3">③ 대상에 대한 전문가의 평가를 직접 인용하여 제시하고 있다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
     <li id="q1-4">④ 질문하고 답하는 방식을 사용하여 발표 내용을 전달하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li>
-    <li id="q1-5">⑤ 도입부에서 발표를 하게 된 소감을 밝히며 발표를 시작하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-5">⑤ 도입부에서 발표를 하게 된 소감을 밝히며 발표를 시작하고 있다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -76,10 +76,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q2-1">① [자료1]을 ㉠에서 활용해, 수컷 심해 아귀가 암컷에 붙어 한 몸처럼 되는 과정을 설명한다.<a class="src-tag" href="#ev4">지문 근거</a></li>
-    <li id="q2-2">② [자료2]를 ㉡에서 활용해, 육아낭으로 수컷 해마의 임신·출산이 이루어짐을 설명한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q2-2">② [자료2]를 ㉡에서 활용해, 육아낭으로 수컷 해마의 임신·출산이 이루어짐을 설명한다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
     <li id="q2-3">③ [자료2]를 ㉡에서 활용해, 내층이 배아를 감싸 보호하는 역할을 설명한다.<a class="src-tag" href="#ev5">지문 근거</a></li>
     <li id="q2-4">④ [자료3]을 ㉢에서 활용해, 용치놀래기가 상황에 따라 몸의 크기를 바꾼다는 것을 설명한다.<a class="src-tag ans" href="#ev2">정답 근거</a></li>
-    <li id="q2-5">⑤ [자료3]을 ㉢에서 활용해, 암컷 하나가 수컷으로 바뀔 때 큰 점이 새로 생김을 설명한다.<a class="src-tag" href="#ev2">지문 근거</a></li>
+    <li id="q2-5">⑤ [자료3]을 ㉢에서 활용해, 암컷 하나가 수컷으로 바뀔 때 큰 점이 새로 생김을 설명한다.<a class="src-tag ans" href="#ev2">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -114,11 +114,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <p><b>학생1:</b> (심해 다큐를 본 적 있음) 수컷 아귀가 암컷을 어떤 방법으로 찾아냈을까? 더 찾아봐야겠어.<br><b>학생2:</b> (책의 캥거루 육아낭이 떠오름) 왜 해마는 수컷이 육아낭을 갖는지 설명해 줬으면 좋았을 텐데.<br><b>학생3:</b> 탐구 주제에 도움이 되겠어. 그런데 놀래깃과 상당수가 이렇게 무리 생활을 한다는 게 정확한 걸까?</p>
   </div>
   <ul class="q-opts">
-    <li id="q3-1">① 학생1은 발표 내용과 관련해 추가 정보를 탐색하려 한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q3-2">② 학생2는 알고 싶은 정보가 발표에서 다뤄지지 않은 것을 아쉬워한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q3-3">③ 학생3은 발표 정보를 유용성 측면에서 긍정적으로 평가한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q3-4">④ 학생1·2 모두 발표 내용과 관련해 자신의 배경지식을 떠올린다.<a class="src-tag" href="#ev2">지문 근거</a></li>
-    <li id="q3-5">⑤ 학생1·3 모두 발표 내용을 신뢰할 수 있는지 의문을 제기한다.<a class="src-tag" href="#ev2">지문 근거</a></li>
+    <li id="q3-1">① 학생1은 발표 내용과 관련해 추가 정보를 탐색하려 한다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
+    <li id="q3-2">② 학생2는 알고 싶은 정보가 발표에서 다뤄지지 않은 것을 아쉬워한다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
+    <li id="q3-3">③ 학생3은 발표 정보를 유용성 측면에서 긍정적으로 평가한다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
+    <li id="q3-4">④ 학생1·2 모두 발표 내용과 관련해 자신의 배경지식을 떠올린다.<a class="src-tag ans" href="#ev2">지문 근거</a></li>
+    <li id="q3-5">⑤ 학생1·3 모두 발표 내용을 신뢰할 수 있는지 의문을 제기한다.<a class="src-tag ans" href="#ev2">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -186,7 +186,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q4-2">② 회의 참여자들의 준비 상황을 확인한다.<a class="src-tag" href="#ev10">지문 근거</a></li>
     <li id="q4-3">③ 이어서 논의할 내용을 제시한다.<a class="src-tag" href="#ev11">지문 근거</a></li>
     <li id="q4-4">④ 회의 이후 수행할 일을 안내한다.<a class="src-tag" href="#ev12">지문 근거</a></li>
-    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
+    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.<a class="src-tag" href="#ev4">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -215,9 +215,9 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q5-1">① [A]에서 학생3은 학생2를 반박하며 객관적 자료를 제시한다.<a class="src-tag" href="#ev9">지문 근거</a></li>
     <li id="q5-2">② [A]에서 학생3은 학생2 의견에 동의하며 구체적 근거로 자기 생각을 강조한다.<a class="src-tag" href="#ev10">지문 근거</a></li>
-    <li id="q5-3">③ [B]에서 학생2는 학생3을 긍정하며 자신의 견해를 수정한다.<a class="src-tag" href="#ev13">지문 근거</a></li>
+    <li id="q5-3">③ [B]에서 학생2는 학생3을 긍정하며 자신의 견해를 수정한다.<a class="src-tag ans" href="#ev13">지문 근거</a></li>
     <li id="q5-4">④ [B]에서 학생2는 학생3의 말을 일부 재진술하며 알고 있는 정보를 덧붙인다.<a class="src-tag ans" href="#ev13">정답 근거</a></li>
-    <li id="q5-5">⑤ [A]·[B]의 학생3은 모두 고민을 언급하며 해결책을 제시한다.<a class="src-tag" href="#ev13">지문 근거</a></li>
+    <li id="q5-5">⑤ [A]·[B]의 학생3은 모두 고민을 언급하며 해결책을 제시한다.<a class="src-tag ans" href="#ev13">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -242,7 +242,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob6">
-  <p class="q-stem">6. (가)의 회의 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">6. (가)의 회의 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 70.8%</span></p>
   <ul class="q-opts">
     <li id="q6-1">① 대중가요 편곡 곡 선택이 (나)에서 ‘이유’와 함께 제시됐다.<a class="src-tag" href="#ev-q6-1">지문 근거</a></li>
     <li id="q6-2">② 선호 곡을 알아보자던 바가 (나)에서 ‘설문 결과’로 제시됐다.<a class="src-tag" href="#ev-q6-2">지문 근거</a></li>
@@ -287,7 +287,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q7-2">② 아름다운 선율이 춤추는 국악 크로스오버 공연 부탁드립니다.<a class="src-tag" href="#ev10">지문 근거</a></li>
     <li id="q7-3">③ 국악 크로스오버는 옛것과 현대의 조화가 특징인 새 장르라고 생각합니다.<a class="src-tag" href="#ev11">지문 근거</a></li>
     <li id="q7-4">④ 이번 공연이 학업에 지친 학생들의 감성을 적시는 반가운 단비가 되기를 바랍니다.<a class="src-tag" href="#ev12">지문 근거</a></li>
-    <li id="q7-5">⑤ 무지개처럼 국악에 다양한 음악이 어우러져 탄생한 국악 크로스오버 공연이 뜻깊은 축제를 만들어 줄 것이라 기대합니다.<a class="src-tag" href="#ev14">지문 근거</a></li>
+    <li id="q7-5">⑤ 무지개처럼 국악에 다양한 음악이 어우러져 탄생한 국악 크로스오버 공연이 뜻깊은 축제를 만들어 줄 것이라 기대합니다.<a class="src-tag ans" href="#ev14">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -336,13 +336,13 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob8">
-  <p class="q-stem">8. 학생의 초고에 활용된 글쓰기 전략으로 가장 적절한 것은?</p>
+  <p class="q-stem">8. 학생의 초고에 활용된 글쓰기 전략으로 가장 적절한 것은? <span class="q-rate">오답률 52.1%</span></p>
   <ul class="q-opts">
-    <li id="q8-1">① 예상되는 반론에 대한 답변을 미리 제시한다.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q8-2">② 속담을 활용하여 제재의 시의성을 드러낸다.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q8-3">③ 생소한 용어의 어원을 밝혀 이해를 돕는다.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q8-1">① 예상되는 반론에 대한 답변을 미리 제시한다.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q8-2">② 속담을 활용하여 제재의 시의성을 드러낸다.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q8-3">③ 생소한 용어의 어원을 밝혀 이해를 돕는다.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
     <li id="q8-4">④ 담화 표지를 사용하여 내용을 구조적으로 제시한다.<a class="src-tag ans" href="#ev15">정답 근거</a></li>
-    <li id="q8-5">⑤ 다른 대상과 비교하여 장단점을 밝힌다.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q8-5">⑤ 다른 대상과 비교하여 장단점을 밝힌다.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -373,11 +373,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <p><b>ㄱ. 통계</b> ㉮ 시장 규모 증가 · ㉯ 구매 시 고려 요인(향 72.6% / 안전성 3.0%)<br><b>ㄴ. 신문</b> 해외 ○○국, 유해 성분 56종을 표시 대상에 추가(소비자 단체의 공개 요구).<br><b>ㄷ. 인터뷰</b> 성분 안전성을 1~4단계로 등급화하는 표시 제도 시행(직관적 파악에 도움).</p>
   </div>
   <ul class="q-opts">
-    <li id="q9-1">① ㄱ-㉮ → ‘소비 증가’의 근거로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q9-2">② ㄴ → ‘표시 대상 확대로 알권리 보장’ 사례로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q9-3">③ ㄷ → ‘직관적으로 안전성을 파악하게 돕는 방안’으로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q9-4">④ ㄱ-㉯+ㄴ → 소비자가 ‘성분보다 향을 중시하는 이유’로 제시.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
-    <li id="q9-5">⑤ ㄱ-㉯+ㄷ → ‘감각적 만족을 우선시한다’는 내용의 근거로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q9-1">① ㄱ-㉮ → ‘소비 증가’의 근거로 제시.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q9-2">② ㄴ → ‘표시 대상 확대로 알권리 보장’ 사례로 제시.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q9-3">③ ㄷ → ‘직관적으로 안전성을 파악하게 돕는 방안’으로 제시.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q9-4">④ ㄱ-㉯+ㄴ → 소비자가 ‘성분보다 향을 중시하는 이유’로 제시.<a class="src-tag" href="#ev9">정답 근거</a></li>
+    <li id="q9-5">⑤ ㄱ-㉯+ㄷ → ‘감각적 만족을 우선시한다’는 내용의 근거로 제시.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -412,11 +412,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>휘발성 유기 화합물은 실내를 향기롭게 만드는 <b>유용한 성분</b>이다. 이를 안전하게 사용하려면 <b>정부·기업·소비자 모두의 노력</b>이 필요하다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q10-1">① 활용 분야를 언급한 뒤, ‘연구를 위한 기업의 노력’을 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q10-2">② 사회적 인식을 언급한 뒤, ‘세 주체가 협력해야 하는 이유’를 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q10-3">③ 꼭 필요한 이유를 언급한 뒤, ‘기업의 책임’을 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q10-4">④ 효용성을 언급한 뒤, 안전한 사용을 위해 ‘여러 주체의 노력’이 필요함을 제시하자.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
-    <li id="q10-5">⑤ 우려되는 점을 언급한 뒤, ‘기업·정부·소비자의 상호작용’이 필요함을 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q10-1">① 활용 분야를 언급한 뒤, ‘연구를 위한 기업의 노력’을 제시하자.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q10-2">② 사회적 인식을 언급한 뒤, ‘세 주체가 협력해야 하는 이유’를 제시하자.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q10-3">③ 꼭 필요한 이유를 언급한 뒤, ‘기업의 책임’을 제시하자.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q10-4">④ 효용성을 언급한 뒤, 안전한 사용을 위해 ‘여러 주체의 노력’이 필요함을 제시하자.<a class="src-tag" href="#ev10">정답 근거</a></li>
+    <li id="q10-5">⑤ 우려되는 점을 언급한 뒤, ‘기업·정부·소비자의 상호작용’이 필요함을 제시하자.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -504,7 +504,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob12">
-  <p class="q-stem">12. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">12. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 51.5%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p><b>㉠</b> 1) 차가운 물속에도 <b>물고기</b>가 산다. 2) 차가운 물속에도 <b>동물</b>이 산다.<br>
@@ -514,7 +514,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q12-1">① ㉠: ‘동물’보다 ‘물고기’의 의미가 더 구체적이고, 지시 대상의 범위가 좁다.<a class="src-tag" href="#ev17">지문 근거</a></li>
     <li id="q12-2">② ㉠: ‘물고기’와 ‘동물’은 상하 관계이고, ‘물고기’가 ‘동물’의 의미 성분을 모두 포함한다.<a class="src-tag" href="#ev17">지문 근거</a></li>
-    <li id="q12-3">③ ㉡: ‘손가락’과 ‘손’ 사이에는 ‘A는 B의 일종이다’라는 관계가 성립하지 않는다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q12-3">③ ㉡: ‘손가락’과 ‘손’ 사이에는 ‘A는 B의 일종이다’라는 관계가 성립하지 않는다.<a class="src-tag ans" href="#ev19">지문 근거</a></li>
     <li id="q12-4">④ ㉡: ‘손가락’과 ‘손’은 부분 관계이고, 2)가 참일 때 1)이 반드시 참, 1)이 거짓일 때 2)가 반드시 거짓이다.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
     <li id="q12-5">⑤ ㉢: ‘개’와 ‘반려동물’은 1)·2) 사이엔 일방적 함의가 성립하고, 3)·4) 사이엔 성립하지 않는다.<a class="src-tag" href="#ev20">지문 근거</a></li>
   </ul>
@@ -547,7 +547,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <p class="muted seg-label">13~15번은 지문 없이 〈보기〉·학습 활동만으로 푸는 단독 문법 문항입니다.</p>
 
 <div class="q-block" id="prob13">
-  <p class="q-stem">13. 〈학습 활동〉을 수행한 결과로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">13. 〈학습 활동〉을 수행한 결과로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 63.3%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습 활동 &gt;</p>
     <p>두 주머니에서 카드를 하나씩 뽑아, 두 조건을 <b>모두</b> 만족하는 문장을 만든다.<br>
@@ -555,10 +555,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <b>ⓐ</b> 용언의 관형사형이 관형어로 쓰인 문장 · <b>ⓑ</b> 사동사에 의한 사동문 · <b>ⓒ</b> 능력 부정의 긴 부정문</p>
   </div>
   <ul class="q-opts">
-    <li id="q13-1">① (㉠·ⓐ) 할머니는 언제나 <u>내가 건강하기</u>만 <u>바라는</u> 분이시다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q13-1">① (㉠·ⓐ) 할머니는 언제나 <u>내가 건강하기</u>만 <u>바라는</u> 분이시다.<a class="src-tag ans" href="#ev16">지문 근거</a></li>
     <li id="q13-2">② (㉠·ⓑ) 그는 <u>이번 책이 독자들에게 많이 읽히기</u>를 바란다.<a class="src-tag ans" href="#ev13">정답 근거</a></li>
     <li id="q13-3">③ (㉠·ⓒ) 그녀는 <u>실력이 부족해 대회에 나가지 못했음</u>을 친구에게 털어놨다.<a class="src-tag" href="#ev20">지문 근거</a></li>
-    <li id="q13-4">④ (㉡·ⓑ) 의사는 보호자에게 <u>환자를 어서 눕히라고</u> 말했다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q13-4">④ (㉡·ⓑ) 의사는 보호자에게 <u>환자를 어서 눕히라고</u> 말했다.<a class="src-tag ans" href="#ev19">지문 근거</a></li>
     <li id="q13-5">⑤ (㉡·ⓒ) 그는 외국어를 몰라서 <u>이곳이 어디냐고</u> <u>묻지 못했다</u>.<a class="src-tag" href="#ev20">지문 근거</a></li>
   </ul>
   <details class="solution">
@@ -588,17 +588,17 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob14">
-  <p class="q-stem">14. 〈보기〉 선생님의 설명을 바탕으로 ‘ㅎ’의 음운 변동을 탐구한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">14. 〈보기〉 선생님의 설명을 바탕으로 ‘ㅎ’의 음운 변동을 탐구한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 81.0%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>‘ㅎ’은 음운 환경에 따라 <b>교체·탈락·축약</b> 등의 음운 변동을 겪는다.</p>
   </div>
   <ul class="q-opts">
     <li id="q14-1">① ‘많은’: 자음군 단순화를 통해 ‘ㅎ’이 탈락한다.<a class="src-tag ans" href="#ev14">정답 근거</a></li>
-    <li id="q14-2">② ‘놓고’: ‘ㅎ’이 뒤의 ‘ㄱ’을 만나 거센소리로 축약된다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q14-2">② ‘놓고’: ‘ㅎ’이 뒤의 ‘ㄱ’을 만나 거센소리로 축약된다.<a class="src-tag ans" href="#ev16">지문 근거</a></li>
     <li id="q14-3">③ ‘꽂히다’: ‘ㅈ’이 뒤의 ‘ㅎ’을 만나 거센소리로 축약된다.<a class="src-tag" href="#ev17">지문 근거</a></li>
     <li id="q14-4">④ ‘앓는’: 자음군 단순화로 ‘ㅎ’이 탈락한 뒤, ‘ㄴ’이 앞의 ‘ㄹ’을 만나 유음으로 교체된다.<a class="src-tag" href="#ev17">지문 근거</a></li>
-    <li id="q14-5">⑤ ‘쌓네’: ‘ㅎ’이 음절의 끝소리 규칙으로 ‘ㄷ’이 된 뒤, ‘ㄷ’이 ‘ㄴ’을 만나 비음으로 교체된다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q14-5">⑤ ‘쌓네’: ‘ㅎ’이 음절의 끝소리 규칙으로 ‘ㄷ’이 된 뒤, ‘ㄷ’이 ‘ㄴ’을 만나 비음으로 교체된다.<a class="src-tag ans" href="#ev19">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -636,11 +636,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     ◦ <u>네</u> 엇던 밥 <b>㉢</b> (<u>네가</u> 어떤 밥을 구하는가?)</p>
   </div>
   <ul class="q-opts">
-    <li id="q15-1">① 잇녀 / 그러터녀 / 求ᄒ다<a class="src-tag" href="#ev16">지문 근거</a></li>
-    <li id="q15-2">② 잇녀 / 그러터뇨 / 求ᄒ뇨<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q15-1">① 잇녀 / 그러터녀 / 求ᄒ다<a class="src-tag ans" href="#ev16">지문 근거</a></li>
+    <li id="q15-2">② 잇녀 / 그러터뇨 / 求ᄒ뇨<a class="src-tag ans" href="#ev16">지문 근거</a></li>
     <li id="q15-3">③ 잇뇨 / 그러터녀 / 求ᄒ다<a class="src-tag ans" href="#ev15">정답 근거</a></li>
-    <li id="q15-4">④ 잇뇨 / 그러터녀 / 求ᄒ뇨<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q15-5">⑤ 잇뇨 / 그러터뇨 / 求ᄒ뇨<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q15-4">④ 잇뇨 / 그러터녀 / 求ᄒ뇨<a class="src-tag ans" href="#ev19">지문 근거</a></li>
+    <li id="q15-5">⑤ 잇뇨 / 그러터뇨 / 求ᄒ뇨<a class="src-tag ans" href="#ev16">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -698,10 +698,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob16">
   <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q16-1">① (가)와 (나) 모두 선입견에 대한 철학자의 주장을 소개하고 그 한계점을 지적한다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q16-1">① (가)와 (나) 모두 선입견에 대한 철학자의 주장을 소개하고 그 한계점을 지적한다.<a class="src-tag ans" href="#ev22">지문 근거</a></li>
     <li id="q16-2">② (가)와 (나) 모두 선입견에 대한 철학자의 견해를 제시하고 이를 특정 분야(교육)에 적용해 설명한다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
     <li id="q16-3">③ (가)는 (나)와 달리 선입견 이론의 변천 과정을 소개한다.<a class="src-tag" href="#ev21">지문 근거</a></li>
-    <li id="q16-4">④ (가)는 (나)와 달리 철학자가 제시한 사례를 유형화해 비교한다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q16-4">④ (가)는 (나)와 달리 철학자가 제시한 사례를 유형화해 비교한다.<a class="src-tag ans" href="#ev22">지문 근거</a></li>
     <li id="q16-5">⑤ (나)는 (가)와 달리 개념이 시대에 따라 달리 수용된 양상을 설명한다.<a class="src-tag" href="#ev24">지문 근거</a></li>
   </ul>
   <details class="solution">
@@ -765,8 +765,8 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob18">
   <p class="q-stem">18. ㉠(매 순간의 이해는 과거의 시간성에 기인한다)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q18-1">① 인간 존재의 유한한 역사는 이해의 작용에 제약이 된다.<a class="src-tag" href="#ev27">지문 근거</a></li>
-    <li id="q18-2">② 인간 존재는 이해를 위해 특정 역사·사회·관계를 배제해야 한다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q18-1">① 인간 존재의 유한한 역사는 이해의 작용에 제약이 된다.<a class="src-tag ans" href="#ev27">지문 근거</a></li>
+    <li id="q18-2">② 인간 존재는 이해를 위해 특정 역사·사회·관계를 배제해야 한다.<a class="src-tag ans" href="#ev22">지문 근거</a></li>
     <li id="q18-3">③ 이해되는 세계는 삶의 포괄적 환경이 아니라 특정 사회적 맥락이다.<a class="src-tag" href="#ev24">지문 근거</a></li>
     <li id="q18-4">④ 이해에 바탕이 되는 선입견은 인간 존재가 겪어 온 삶의 이력으로 형성된다.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
     <li id="q18-5">⑤ 이해 작용은 과거에서 시작되므로 현재의 이해는 하나의 고정된 의미로 완결된다.<a class="src-tag" href="#ev26">지문 근거</a></li>
@@ -797,10 +797,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">19. ‘교육’에 대한 데카르트와 하이데거의 입장을 비교한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q19-1">① 데카르트는 교육으로 사유하는 자아에서 벗어나야 한다고, 하이데거는 조건부 진리에서 벗어나야 한다고 보았다.<a class="src-tag" href="#ev21">지문 근거</a></li>
-    <li id="q19-2">② 데카르트는 교육이 전통·습관대로 이루어져야 한다고, 하이데거는 이성적 능력을 도야해야 한다고 보았다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q19-2">② 데카르트는 교육이 전통·습관대로 이루어져야 한다고, 하이데거는 이성적 능력을 도야해야 한다고 보았다.<a class="src-tag ans" href="#ev22">지문 근거</a></li>
     <li id="q19-3">③ 데카르트는 이성에 의한 판단이 가능하도록, 하이데거는 전통적 교육으로 회귀해야 한다고 보았다.<a class="src-tag" href="#ev24">지문 근거</a></li>
     <li id="q19-4">④ 데카르트는 의심 가능한 모든 것을 의심해야 한다고, 하이데거는 이해가 실천적 차원에 머물지 않아야 한다고 보았다.<a class="src-tag" href="#ev29">지문 근거</a></li>
-    <li id="q19-5">⑤ 데카르트는 교육의 목적이 자기 성찰에 있다고, 하이데거는 학습자가 세계와 분리되지 않은 채 사유하는 것이 중요하다고 보았다.<a class="src-tag ans" href="#ev24">근거 A</a><a class="src-tag ans" href="#ev29" id="q19-5b">근거 B</a><a class="src-tag ans" href="#ev19">정답 근거</a></li>
+    <li id="q19-5">⑤ 데카르트는 교육의 목적이 자기 성찰에 있다고, 하이데거는 학습자가 세계와 분리되지 않은 채 사유하는 것이 중요하다고 보았다.<a class="src-tag" href="#ev24">근거 A</a><a class="src-tag ans" href="#ev29" id="q19-5b">근거 B</a><a class="src-tag ans" href="#ev19">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -825,14 +825,14 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob20">
-  <p class="q-stem">20. 〈보기〉(학습 일지)를 데카르트(A)·하이데거(B)의 관점에서 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">20. 〈보기〉(학습 일지)를 데카르트(A)·하이데거(B)의 관점에서 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 35.4%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>수업에서 빛의 굴절을 배웠다. 전에는 굴절한다는 건 알았지만 개념·원리는 몰랐다. 선생님이 물컵 속 막대를 보여 주셨는데, 꺾여 보여 <b>원래 꺾인 막대</b>라고 생각했다. 선생님이 굴절 현상을 설명해 주셔서 개념·원리를 이해했고 그것을 <b>객관적 사실</b>이라 여겼다. 저녁에 수영장에서 보이는 것보다 물이 깊을 수 있다고 생각해 <b>수심을 확인</b>하며 굴절이 내 삶과 관련됨을 알았다.</p>
   </div>
   <ul class="q-opts">
     <li id="q20-1">① A 관점: 선생님께 배운 굴절 지식은 진리 탐구에서 배제해야 할 선입견이다.<a class="src-tag" href="#ev21">지문 근거</a></li>
-    <li id="q20-2">② A 관점: 막대가 원래 꺾였다고 생각한 것은 감각을 그대로 신뢰하는 성향에 의한 것이다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q20-2">② A 관점: 막대가 원래 꺾였다고 생각한 것은 감각을 그대로 신뢰하는 성향에 의한 것이다.<a class="src-tag ans" href="#ev22">지문 근거</a></li>
     <li id="q20-3">③ B 관점: 굴절 이해를 심화한 것은 해석의 순환 과정을 보여 준다.<a class="src-tag" href="#ev-q20-3">지문 근거</a></li>
     <li id="q20-4">④ B 관점: 수심을 확인하며 삶과 관련지은 것은 세계를 이해하는 것이다.<a class="src-tag" href="#ev-q20-4">지문 근거</a></li>
     <li id="q20-5">⑤ B 관점: 객관적 사실이라 여긴 굴절의 개념·원리는, 눈앞의 모습을 서술한 것이 아니라 객관적 세계를 나타낸 것이다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
@@ -867,10 +867,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">21. 문맥상 ⓐ~ⓔ와 가장 유사한 의미로 쓰인 것은?</p>
   <ul class="q-opts">
     <li id="q21-1">① ⓐ(내리기): 올해는 유난히 눈이 많이 <u>내렸다</u>.<a class="src-tag" href="#ev21">지문 근거</a></li>
-    <li id="q21-2">② ⓑ(말하며): 나는 동생에게 그 사실을 <u>말하러</u> 갔다.<a class="src-tag" href="#ev22">지문 근거</a></li>
-    <li id="q21-3">③ ⓒ(삼아): 그는 이번 일을 성장의 계기로 <u>삼았다</u>.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
-    <li id="q21-4">④ ⓓ(가지고): 나는 밀가루를 <u>가지고</u> 빵을 만들었다.<a class="src-tag" href="#ev28">지문 근거</a></li>
-    <li id="q21-5">⑤ ⓔ(겪는다): 그는 며칠 동안 손님을 <u>겪느라</u> 고단했다.<a class="src-tag" href="#ev28">지문 근거</a></li>
+    <li id="q21-2">② ⓑ(말하며): 나는 동생에게 그 사실을 <u>말하러</u> 갔다.<a class="src-tag ans" href="#ev22">지문 근거</a></li>
+    <li id="q21-3">③ ⓒ(삼아): 그는 이번 일을 성장의 계기로 <u>삼았다</u>.<a class="src-tag" href="#ev21">정답 근거</a></li>
+    <li id="q21-4">④ ⓓ(가지고): 나는 밀가루를 <u>가지고</u> 빵을 만들었다.<a class="src-tag ans" href="#ev28">지문 근거</a></li>
+    <li id="q21-5">⑤ ⓔ(겪는다): 그는 며칠 동안 손님을 <u>겪느라</u> 고단했다.<a class="src-tag ans" href="#ev28">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -922,9 +922,9 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob22">
   <p class="q-stem">22. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q22-1">① 대기의 상태는 기압, 기온, 습도, 바람 등의 변수로 나타낸다.<a class="src-tag" href="#ev30">지문 근거</a></li>
-    <li id="q22-2">② 시간 간격이 좁을수록 대기 상태의 변화 양상을 연속적으로 모의할 수 있다.<a class="src-tag" href="#ev31">지문 근거</a></li>
-    <li id="q22-3">③ 모의하는 영역의 대기는 육면체 공기 덩이들의 집합체가 된다.<a class="src-tag" href="#ev30">지문 근거</a></li>
+    <li id="q22-1">① 대기의 상태는 기압, 기온, 습도, 바람 등의 변수로 나타낸다.<a class="src-tag ans" href="#ev30">지문 근거</a></li>
+    <li id="q22-2">② 시간 간격이 좁을수록 대기 상태의 변화 양상을 연속적으로 모의할 수 있다.<a class="src-tag ans" href="#ev31">지문 근거</a></li>
+    <li id="q22-3">③ 모의하는 영역의 대기는 육면체 공기 덩이들의 집합체가 된다.<a class="src-tag ans" href="#ev30">지문 근거</a></li>
     <li id="q22-4">④ 대기를 모의하는 정도인 분해능에는 공간분해능과 시간분해능이 있다.<a class="src-tag" href="#ev32">지문 근거</a></li>
     <li id="q22-5">⑤ 정해진 시간 간격 동안 대기가 이동한 거리보다 격자점 간 거리가 멀면 변수의 값을 구할 수 없는 격자점이 생긴다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
   </ul>
@@ -958,9 +958,9 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <b>준비 과정:</b> 모의 영역 설정(㉢) → 격자 세분화(㉣) → 조건 설정(㉤)</p>
   </div>
   <ul class="q-opts">
-    <li id="q23-1">① ㉠: 대기의 운동·변화를 설명하는 방정식들을 슈퍼컴퓨터로 계산한다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+    <li id="q23-1">① ㉠: 대기의 운동·변화를 설명하는 방정식들을 슈퍼컴퓨터로 계산한다.<a class="src-tag ans" href="#ev31">지문 근거</a></li>
     <li id="q23-2">② ㉡: 방정식들의 근사해를 구해 미래 대기 상태를 도출하는 것이다.<a class="src-tag" href="#ev32">지문 근거</a></li>
-    <li id="q23-3">③ ㉢: 모델의 가동 목적에 따라 모의할 대기 영역을 정한다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+    <li id="q23-3">③ ㉢: 모델의 가동 목적에 따라 모의할 대기 영역을 정한다.<a class="src-tag ans" href="#ev31">지문 근거</a></li>
     <li id="q23-4">④ ㉣: 영역을 연직 여러 층으로, 각 층을 위도·경도 수평으로 나눈다.<a class="src-tag" href="#ev33">지문 근거</a></li>
     <li id="q23-5">⑤ ㉤: 초기 조건 설정 때 격자점마다 변수의 값을 동일하게 부여한다.<a class="src-tag ans" href="#ev31">정답 근거</a></li>
   </ul>
@@ -987,13 +987,13 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob24">
-  <p class="q-stem">24. 경계 조건에 대해 이해한 내용으로 가장 적절한 것은?</p>
+  <p class="q-stem">24. 경계 조건에 대해 이해한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 49.5%</span></p>
   <ul class="q-opts">
-    <li id="q24-1">① 하단 경계에서는 상단 경계에서와 마찬가지로 대기의 연직 운동이 없다고 가정한다.<a class="src-tag ans" href="#ev32">근거(하단)</a><a class="src-tag ans" href="#ev33" id="q24-1b">근거(상단)</a><a class="src-tag ans" href="#ev24">정답 근거</a></li>
+    <li id="q24-1">① 하단 경계에서는 상단 경계에서와 마찬가지로 대기의 연직 운동이 없다고 가정한다.<a class="src-tag" href="#ev32">근거(하단)</a><a class="src-tag ans" href="#ev33" id="q24-1b">근거(상단)</a><a class="src-tag" href="#ev24">정답 근거</a></li>
     <li id="q24-2">② 하단 경계에서는 측면 경계와 달리 영역 외부의 변수 값을 내부에 반영한다.<a class="src-tag" href="#ev32">지문 근거</a></li>
     <li id="q24-3">③ 상단·측면 경계에서는 하단 경계와 달리 경계의 에너지 교환을 조건에 반영한다.<a class="src-tag" href="#ev33">지문 근거</a></li>
-    <li id="q24-4">④ 상단 경계에서는 하단 경계와 마찬가지로 변수 값이 왜곡돼 에너지가 비현실적으로 증가한다고 가정한다.<a class="src-tag" href="#ev30">지문 근거</a></li>
-    <li id="q24-5">⑤ 측면 경계에서는 상단 경계와 달리 반사된 에너지가 영역 내부로 되돌아온다고 가정한다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q24-4">④ 상단 경계에서는 하단 경계와 마찬가지로 변수 값이 왜곡돼 에너지가 비현실적으로 증가한다고 가정한다.<a class="src-tag ans" href="#ev30">지문 근거</a></li>
+    <li id="q24-5">⑤ 측면 경계에서는 상단 경계와 달리 반사된 에너지가 영역 내부로 되돌아온다고 가정한다.<a class="src-tag ans" href="#ev34">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1022,7 +1022,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob25">
-  <p class="q-stem">25. 윗글을 참고하여 〈보기〉를 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">25. 윗글을 참고하여 〈보기〉를 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 59.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>A·C는 전지구 모델, B·D는 모의 영역이 같은 지역 모델. 현재 대기 최대 속도는 1km/s.<br>
@@ -1030,11 +1030,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <b>을</b> — 모델 C: 수평 20km·최상층 80km·40층·시간 8초 / 모델 D: 수평 8km·최상층 40km·80층·시간 3초</p>
   </div>
   <ul class="q-opts">
-    <li id="q25-1">① A는 C보다 수평·연직 해상도가 높아 더 세밀하게 모의할 수 있다.<a class="src-tag" href="#ev30">지문 근거</a></li>
-    <li id="q25-2">② 최대 속도가 2배가 되면, D는 B와 달리 시간분해능을 다시 설정하지 않아도 된다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+    <li id="q25-1">① A는 C보다 수평·연직 해상도가 높아 더 세밀하게 모의할 수 있다.<a class="src-tag ans" href="#ev30">지문 근거</a></li>
+    <li id="q25-2">② 최대 속도가 2배가 되면, D는 B와 달리 시간분해능을 다시 설정하지 않아도 된다.<a class="src-tag ans" href="#ev31">지문 근거</a></li>
     <li id="q25-3">③ B·D 모두 상단 경계에서 영역 내부 감쇠층에서 에너지가 흡수되는 방법이 주요하게 작용한다.<a class="src-tag" href="#ev32">지문 근거</a></li>
     <li id="q25-4">④ C의 수평 공간분해능을 A와 같게(10km) 높이면 C의 전체 계산량은 현재의 4배가 된다.<a class="src-tag ans" href="#ev34">정답 근거</a></li>
-    <li id="q25-5">⑤ B·D는 상위 모델과의 불일치를 줄이려 A나 C에게서 받은 자료를 측면 경계 조건으로 쓴다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q25-5">⑤ B·D는 상위 모델과의 불일치를 줄이려 A나 C에게서 받은 자료를 측면 경계 조건으로 쓴다.<a class="src-tag ans" href="#ev34">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1092,11 +1092,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob26">
   <p class="q-stem">26. 윗글에서 다룬 내용이 <strong>아닌</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q26-1">① 일죄의 개념<a class="src-tag" href="#ev35">지문 근거</a></li>
-    <li id="q26-2">② 형법의 정의<a class="src-tag" href="#ev35">지문 근거</a></li>
-    <li id="q26-3">③ 법조경합의 종류<a class="src-tag ans" href="#ev26">정답 근거</a></li>
+    <li id="q26-1">① 일죄의 개념<a class="src-tag ans" href="#ev35">지문 근거</a></li>
+    <li id="q26-2">② 형법의 정의<a class="src-tag ans" href="#ev35">지문 근거</a></li>
+    <li id="q26-3">③ 법조경합의 종류<a class="src-tag" href="#ev26">정답 근거</a></li>
     <li id="q26-4">④ 책임주의의 의미<a class="src-tag" href="#ev39">지문 근거</a></li>
-    <li id="q26-5">⑤ 상상적 경합의 사례<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q26-5">⑤ 상상적 경합의 사례<a class="src-tag ans" href="#ev38">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1132,10 +1132,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q27-1">① ㉠<a class="src-tag ans" href="#ev35">정답 근거</a></li>
-    <li id="q27-2">② ㉡<a class="src-tag" href="#ev35">지문 근거</a></li>
+    <li id="q27-2">② ㉡<a class="src-tag ans" href="#ev35">지문 근거</a></li>
     <li id="q27-3">③ ㉢<a class="src-tag" href="#ev39">지문 근거</a></li>
-    <li id="q27-4">④ ㉣<a class="src-tag" href="#ev38">지문 근거</a></li>
-    <li id="q27-5">⑤ ㉤<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q27-4">④ ㉣<a class="src-tag ans" href="#ev38">지문 근거</a></li>
+    <li id="q27-5">⑤ ㉤<a class="src-tag ans" href="#ev38">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1167,10 +1167,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">28. [A](실체적 경합)에 대한 이해로 적절하지 <strong>않은</strong> 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
   <ul class="q-opts">
     <li id="q28-1">① 실체적 경합은 각각의 죄에 선고될 형을 단순 합산한 것에 일정 부분을 가중해 처벌함을 원칙으로 한다.<a class="src-tag ans" href="#ev37">정답 근거</a></li>
-    <li id="q28-2">② 경합범에 대해 형법은 예방 효과 중복을 고려해 별도의 처벌 원칙을 둔다.<a class="src-tag" href="#ev37">지문 근거</a></li>
-    <li id="q28-3">③ 동일 재판에서 판결될 가능성이 있어야 별도의 처벌 원칙을 적용한다.<a class="src-tag" href="#ev37">지문 근거</a></li>
-    <li id="q28-4">④ 실체적 경합은 한 사람의 여러 행위로 여러 죄가 성립하는 것이다.<a class="src-tag" href="#ev38">지문 근거</a></li>
-    <li id="q28-5">⑤ 경합범은 실체적 경합 관계의 여러 죄를 가리킨다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q28-2">② 경합범에 대해 형법은 예방 효과 중복을 고려해 별도의 처벌 원칙을 둔다.<a class="src-tag ans" href="#ev37">지문 근거</a></li>
+    <li id="q28-3">③ 동일 재판에서 판결될 가능성이 있어야 별도의 처벌 원칙을 적용한다.<a class="src-tag ans" href="#ev37">지문 근거</a></li>
+    <li id="q28-4">④ 실체적 경합은 한 사람의 여러 행위로 여러 죄가 성립하는 것이다.<a class="src-tag ans" href="#ev38">지문 근거</a></li>
+    <li id="q28-5">⑤ 경합범은 실체적 경합 관계의 여러 죄를 가리킨다.<a class="src-tag ans" href="#ev38">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1195,17 +1195,17 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob29">
-  <p class="q-stem">29. 윗글을 참고할 때 〈보기〉에 대한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">29. 윗글을 참고할 때 〈보기〉에 대한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 46.9%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p><b>(가)</b> A 씨는 타인이 분실한 신용카드를 습득해 식대 결제에 쓰며 매출전표에 허위 서명했다. 검사는 신용카드부정사용죄·사문서위조죄로 기소했으나, 법원은 <b>신용카드부정사용죄만</b> 성립한다고 판결.<br>
     <b>(나)</b> B 씨는 C 기관을 비방할 목적으로 신문에 허위 사실 광고를 실었다. 검사는 출판물에 의한 명예훼손죄·업무방해죄로 기소. 법원은 두 죄가 모두 성립한다고 보고 <b>출판물에 의한 명예훼손죄에 정한 형</b>으로 처벌.</p>
   </div>
   <ul class="q-opts">
-    <li id="q29-1">① (가)에서 검사는 A 씨가 여러 구성요건에 해당하는 행위를 했다고 보고 두 죄로 기소한 것이다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q29-1">① (가)에서 검사는 A 씨가 여러 구성요건에 해당하는 행위를 했다고 보고 두 죄로 기소한 것이다.<a class="src-tag ans" href="#ev38">지문 근거</a></li>
     <li id="q29-2">② (가)에서 법원은 두 죄가 법조경합 관계에 있다고 본 것이다.<a class="src-tag" href="#ev39">지문 근거</a></li>
     <li id="q29-3">③ (가)에서 법원은 신용카드부정사용죄만 적용해도 불법을 적정하게 평가할 수 있다고 본 것이다.<a class="src-tag" href="#ev39">지문 근거</a></li>
-    <li id="q29-4">④ (나)에서 법원은 B 씨의 범죄가 수죄라고 보고 법정형이 가장 무거운 죄에 정한 형으로 처벌한 것이다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q29-4">④ (나)에서 법원은 B 씨의 범죄가 수죄라고 보고 법정형이 가장 무거운 죄에 정한 형으로 처벌한 것이다.<a class="src-tag ans" href="#ev38">지문 근거</a></li>
     <li id="q29-5">⑤ (나)에서 법원은 B 씨가 두 죄가 성립하는 두 개의 행위를 했지만 이중 평가를 피해 하나의 죄로만 처벌한 것이다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1238,10 +1238,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">30. 밑줄 친 부분의 문맥적 의미가 ⓐ(부른다)와 가장 유사한 것은?</p>
   <ul class="q-opts">
     <li id="q30-1">① 친구는 그를 천재라고 <u>불렀다</u>.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
-    <li id="q30-2">② 선행은 또 다른 선행을 <u>부른다</u>.<a class="src-tag" href="#ev37">지문 근거</a></li>
-    <li id="q30-3">③ 나는 집 앞으로 택시를 <u>불렀다</u>.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q30-2">② 선행은 또 다른 선행을 <u>부른다</u>.<a class="src-tag ans" href="#ev37">지문 근거</a></li>
+    <li id="q30-3">③ 나는 집 앞으로 택시를 <u>불렀다</u>.<a class="src-tag ans" href="#ev38">지문 근거</a></li>
     <li id="q30-4">④ 그 가게에서는 값을 싸게 <u>부른다</u>.<a class="src-tag" href="#ev39">지문 근거</a></li>
-    <li id="q30-5">⑤ 나는 멀리 있는 친구를 손짓하여 <u>불렀다</u>.<a class="src-tag" href="#ev35">지문 근거</a></li>
+    <li id="q30-5">⑤ 나는 멀리 있는 친구를 손짓하여 <u>불렀다</u>.<a class="src-tag ans" href="#ev35">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1296,13 +1296,13 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob31">
-  <p class="q-stem">31. 윗글에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">31. 윗글에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 43.0%</span></p>
   <ul class="q-opts">
-    <li id="q31-1">① 인물의 행동을 과장되게 표현하여 인물을 희화화하고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q31-1">① 인물의 행동을 과장되게 표현하여 인물을 희화화하고 있다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
     <li id="q31-2">② 편집자적 논평을 활용하여 서술자의 생각을 드러내고 있다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
-    <li id="q31-3">③ 독백을 반복하여 내적 갈등의 해결 과정을 보여 주고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q31-4">④ 꿈과 현실을 교차하여 사건을 입체적으로 구성하고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q31-5">⑤ 공간적 배경을 묘사하여 긴박한 분위기를 드러내고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q31-3">③ 독백을 반복하여 내적 갈등의 해결 과정을 보여 주고 있다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
+    <li id="q31-4">④ 꿈과 현실을 교차하여 사건을 입체적으로 구성하고 있다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
+    <li id="q31-5">⑤ 공간적 배경을 묘사하여 긴박한 분위기를 드러내고 있다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1329,11 +1329,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob32">
   <p class="q-stem">32. ㉠~㉤에 나타난 말하기 방식에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q32-1">① ㉠: 자신과 다른 인물의 차이점을 언급하며 앞으로의 일을 예견한다.<a class="src-tag" href="#ev-q32-3">지문 근거</a></li>
-    <li id="q32-2">② ㉡: 사건의 인과 관계를 바탕으로 상대의 의도에 의문을 제기한다.<a class="src-tag" href="#ev-q32-3">지문 근거</a></li>
+    <li id="q32-1">① ㉠: 자신과 다른 인물의 차이점을 언급하며 앞으로의 일을 예견한다.<a class="src-tag ans" href="#ev-q32-3">지문 근거</a></li>
+    <li id="q32-2">② ㉡: 사건의 인과 관계를 바탕으로 상대의 의도에 의문을 제기한다.<a class="src-tag ans" href="#ev-q32-3">지문 근거</a></li>
     <li id="q32-3">③ ㉢: 상대의 외양에 대한 생각을 드러내며 상대에게 설명을 요구한다.<a class="src-tag ans" href="#ev-q32-3">정답 근거</a></li>
-    <li id="q32-4">④ ㉣: 미래의 상황을 가정하며 상대의 어려움에 공감한다.<a class="src-tag" href="#ev-q34-5">지문 근거</a></li>
-    <li id="q32-5">⑤ ㉤: 다른 사람의 말을 근거로 삼아 자신의 행동 변화를 약속한다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q32-4">④ ㉣: 미래의 상황을 가정하며 상대의 어려움에 공감한다.<a class="src-tag ans" href="#ev-q34-5">지문 근거</a></li>
+    <li id="q32-5">⑤ ㉤: 다른 사람의 말을 근거로 삼아 자신의 행동 변화를 약속한다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1368,10 +1368,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     ⓔ 계파 — 위옥희를 해칠 <b>마음은 있었지만</b> 실제로 계책을 세우지 못함</p>
   </div>
   <ul class="q-opts">
-    <li id="q33-1">① ⓐ<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q33-2">② ⓑ<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q33-3">③ ⓒ<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q33-4">④ ⓓ<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q33-1">① ⓐ<a class="src-tag ans" href="#ev40">지문 근거</a></li>
+    <li id="q33-2">② ⓑ<a class="src-tag ans" href="#ev40">지문 근거</a></li>
+    <li id="q33-3">③ ⓒ<a class="src-tag ans" href="#ev40">지문 근거</a></li>
+    <li id="q33-4">④ ⓓ<a class="src-tag ans" href="#ev40">지문 근거</a></li>
     <li id="q33-5">⑤ ⓔ<a class="src-tag ans" href="#ev40">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1403,10 +1403,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>「한조삼성기봉」은 부부가 전생과 다른 성별로 환생하는 <b>환생담</b> 구조를 띤다. 여성 인물은 남편으로 인한 심적 고통을 토로하며 환생으로 보상받고자 하고, 초월적 존재가 이를 돕는다. 환생 전후 부부 관계가 <b>역전</b>되어 전생의 남편이 전생의 아내가 겪던 고통을 겪는다. 이는 가부장제 하의 권력 구조에 기인한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q34-1">① 곽후가 남편과 함께 겪은 어려움과 이후 버림받은 일을 밝히는 데서 원통함의 원인이 드러난다.<a class="src-tag" href="#ev-q34-5">지문 근거</a></li>
-    <li id="q34-2">② 곽후가 음양을 바꿔 달라 비는 데서 남편과 반대 성별로 태어나려는 이유가 드러난다.<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q34-3">③ 옥황상제가 세 사람의 윤회를 관장하는 데서 초월적 존재가 부탁을 수용함이 드러난다.<a class="src-tag" href="#ev-q32-3">지문 근거</a></li>
-    <li id="q34-4">④ 조수아가 스스로 박명하다며 분함을 토로하는 데서 전생의 남편이 환생 후 고통받는 역전이 드러난다.<a class="src-tag" href="#ev-q34-5">지문 근거</a></li>
+    <li id="q34-1">① 곽후가 남편과 함께 겪은 어려움과 이후 버림받은 일을 밝히는 데서 원통함의 원인이 드러난다.<a class="src-tag ans" href="#ev-q34-5">지문 근거</a></li>
+    <li id="q34-2">② 곽후가 음양을 바꿔 달라 비는 데서 남편과 반대 성별로 태어나려는 이유가 드러난다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
+    <li id="q34-3">③ 옥황상제가 세 사람의 윤회를 관장하는 데서 초월적 존재가 부탁을 수용함이 드러난다.<a class="src-tag ans" href="#ev-q32-3">지문 근거</a></li>
+    <li id="q34-4">④ 조수아가 스스로 박명하다며 분함을 토로하는 데서 전생의 남편이 환생 후 고통받는 역전이 드러난다.<a class="src-tag ans" href="#ev-q34-5">지문 근거</a></li>
     <li id="q34-5">⑤ 강왕이 위옥희에게 내조를 요구하는 데서 가부장적 질서를 위해 자신의 입장을 상대와 바꾸려는 모습이 드러난다.<a class="src-tag ans" href="#ev-q34-5">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1469,10 +1469,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">35. 윗글의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q35-1">① 작품 밖의 서술자가 특정 인물의 시각에서 사건을 서술하고 있다.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
-    <li id="q35-2">② 장면의 빈번한 전환으로 인물 간의 긴장감을 고조시킨다.<a class="src-tag" href="#ev42">지문 근거</a></li>
-    <li id="q35-3">③ 시대적 배경을 제시해 사건의 원인을 구체적으로 보여 준다.<a class="src-tag" href="#ev42">지문 근거</a></li>
-    <li id="q35-4">④ 외부 이야기에 내부 이야기를 삽입해 해결의 실마리를 드러낸다.<a class="src-tag" href="#ev45">지문 근거</a></li>
-    <li id="q35-5">⑤ 다른 장소에서 동시에 일어난 사건을 제시해 상황을 대비한다.<a class="src-tag" href="#ev42">지문 근거</a></li>
+    <li id="q35-2">② 장면의 빈번한 전환으로 인물 간의 긴장감을 고조시킨다.<a class="src-tag ans" href="#ev42">지문 근거</a></li>
+    <li id="q35-3">③ 시대적 배경을 제시해 사건의 원인을 구체적으로 보여 준다.<a class="src-tag ans" href="#ev42">지문 근거</a></li>
+    <li id="q35-4">④ 외부 이야기에 내부 이야기를 삽입해 해결의 실마리를 드러낸다.<a class="src-tag ans" href="#ev45">지문 근거</a></li>
+    <li id="q35-5">⑤ 다른 장소에서 동시에 일어난 사건을 제시해 상황을 대비한다.<a class="src-tag ans" href="#ev42">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1499,10 +1499,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob36">
   <p class="q-stem">36. ㉠~㉤에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q36-1">① ㉠: 자신이 직면한 문제의 원인을 다른 대상에 돌리는 모습이 나타난다.<a class="src-tag" href="#ev42">지문 근거</a></li>
-    <li id="q36-2">② ㉡: 상대가 부른 호칭으로 인해 느끼는 불편한 감정이 담겨 있다.<a class="src-tag" href="#ev43">지문 근거</a></li>
-    <li id="q36-3">③ ㉢: 제대로 답하지 못하는 상대를 질책하는 모습이 나타난다.<a class="src-tag" href="#ev43">지문 근거</a></li>
-    <li id="q36-4">④ ㉣: 상대의 태도가 급작스럽게 달라진 것에 대한 반응이 나타난다.<a class="src-tag" href="#ev43">지문 근거</a></li>
+    <li id="q36-1">① ㉠: 자신이 직면한 문제의 원인을 다른 대상에 돌리는 모습이 나타난다.<a class="src-tag ans" href="#ev42">지문 근거</a></li>
+    <li id="q36-2">② ㉡: 상대가 부른 호칭으로 인해 느끼는 불편한 감정이 담겨 있다.<a class="src-tag ans" href="#ev43">지문 근거</a></li>
+    <li id="q36-3">③ ㉢: 제대로 답하지 못하는 상대를 질책하는 모습이 나타난다.<a class="src-tag ans" href="#ev43">지문 근거</a></li>
+    <li id="q36-4">④ ㉣: 상대의 태도가 급작스럽게 달라진 것에 대한 반응이 나타난다.<a class="src-tag ans" href="#ev43">지문 근거</a></li>
     <li id="q36-5">⑤ ㉤: 자신의 예상과 다른 행동을 보인 대상에 대한 두려움이 담겨 있다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1531,10 +1531,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">37. ⓐ(실눈)와 ⓑ(헛기침)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q37-1">① ⓐ는 ‘그’가 앞으로 벌어질 일을 짐작하는 단서이고, ⓑ는 자신이 겪은 일에서 느낀 심정을 감추려는 행동이다.<a class="src-tag ans" href="#ev-q37-a">ⓐ 근거</a><a class="src-tag ans" href="#ev-q37-b">ⓑ 근거</a></li>
-    <li id="q37-2">② ⓐ는 ‘김 실장’을 오해하는 계기이고, ⓑ는 품은 의혹을 해소하려는 행동이다.<a class="src-tag" href="#ev-q37-a">지문 근거</a></li>
-    <li id="q37-3">③ ⓐ는 삶의 활력을 얻는 계기이고, ⓑ는 자신을 위로하려는 행동이다.<a class="src-tag" href="#ev-q37-b">지문 근거</a></li>
-    <li id="q37-4">④ ⓐ는 ‘김 실장’의 허점을 발견하는 단서이고, ⓑ는 실수를 숨기려는 행동이다.<a class="src-tag" href="#ev-q37-a">지문 근거</a></li>
-    <li id="q37-5">⑤ ⓐ는 안도감을 느끼는 계기이고, ⓑ는 권위를 내세우려는 행동이다.<a class="src-tag" href="#ev-q37-b">지문 근거</a></li>
+    <li id="q37-2">② ⓐ는 ‘김 실장’을 오해하는 계기이고, ⓑ는 품은 의혹을 해소하려는 행동이다.<a class="src-tag ans" href="#ev-q37-a">지문 근거</a></li>
+    <li id="q37-3">③ ⓐ는 삶의 활력을 얻는 계기이고, ⓑ는 자신을 위로하려는 행동이다.<a class="src-tag ans" href="#ev-q37-b">지문 근거</a></li>
+    <li id="q37-4">④ ⓐ는 ‘김 실장’의 허점을 발견하는 단서이고, ⓑ는 실수를 숨기려는 행동이다.<a class="src-tag ans" href="#ev-q37-a">지문 근거</a></li>
+    <li id="q37-5">⑤ ⓐ는 안도감을 느끼는 계기이고, ⓑ는 권위를 내세우려는 행동이다.<a class="src-tag ans" href="#ev-q37-b">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1556,17 +1556,17 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob38">
-  <p class="q-stem">38. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">38. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 31.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>이 작품에는 인물이 가정·사회라는 집단에서 부여받은 역할을 수행하며 느끼는 <b>무력감</b>이 나타난다. 사회적 역할을 못 해 받는 부정적 시선에 소극적으로 대응하고, 가정 내 기대에 부응하지 못하는 <b>현실과 기대의 괴리</b>를 느낀다. 이때 <b>쥐</b>는 인물이 자신과 동일시하는 대상으로, 쥐를 통해 인물은 스스로의 상황을 자각한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q38-1">① ‘빈 원고 용지’에 ‘37, 36, 35’를 써보는 데서, 부정적 시선에도 소극적으로 대응함을 알 수 있다.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q38-1">① ‘빈 원고 용지’에 ‘37, 36, 35’를 써보는 데서, 부정적 시선에도 소극적으로 대응함을 알 수 있다.<a class="src-tag ans" href="#ev45">지문 근거</a></li>
     <li id="q38-2">② ‘어설픈 흉내’를 내며 ‘긴 한숨을 잊기로’ 하는 데서, 괴리로 인해 가족의 기대에서 벗어나려는 심리를 알 수 있다.<a class="src-tag ans" href="#ev45">정답 근거</a></li>
-    <li id="q38-3">③ ‘구석구석 노려보’며 ‘허공과 마주 서서 대항’하는 데서, 인물의 무력함을 알 수 있다.<a class="src-tag" href="#ev42">지문 근거</a></li>
-    <li id="q38-4">④ ‘덫에 걸릴 것’을 생각하다 ‘김 실장 앞에’ 서 있던 자신을 떠올리는 데서, 자신을 쥐에 투영함을 알 수 있다.<a class="src-tag" href="#ev43">지문 근거</a></li>
-    <li id="q38-5">⑤ ‘잔악한 도구를 휘두를 작정’에 ‘웃음이 터’지는 데서, 상황에 따라 달라지는 자신을 돌아봄을 알 수 있다.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q38-3">③ ‘구석구석 노려보’며 ‘허공과 마주 서서 대항’하는 데서, 인물의 무력함을 알 수 있다.<a class="src-tag ans" href="#ev42">지문 근거</a></li>
+    <li id="q38-4">④ ‘덫에 걸릴 것’을 생각하다 ‘김 실장 앞에’ 서 있던 자신을 떠올리는 데서, 자신을 쥐에 투영함을 알 수 있다.<a class="src-tag ans" href="#ev43">지문 근거</a></li>
+    <li id="q38-5">⑤ ‘잔악한 도구를 휘두를 작정’에 ‘웃음이 터’지는 데서, 상황에 따라 달라지는 자신을 돌아봄을 알 수 있다.<a class="src-tag ans" href="#ev45">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1650,13 +1650,13 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob39">
-  <p class="q-stem">39. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">39. (가)와 (나)에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 41.6%</span></p>
   <ul class="q-opts">
-    <li id="q39-1">① (가)는 (나)와 달리 직유법으로 상황의 심각성을 부각한다.<a class="src-tag" href="#ev46">지문 근거</a></li>
-    <li id="q39-2">② (가)는 (나)와 달리 음성상징어로 대상을 생생하게 묘사한다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q39-1">① (가)는 (나)와 달리 직유법으로 상황의 심각성을 부각한다.<a class="src-tag ans" href="#ev46">지문 근거</a></li>
+    <li id="q39-2">② (가)는 (나)와 달리 음성상징어로 대상을 생생하게 묘사한다.<a class="src-tag ans" href="#ev46">지문 근거</a></li>
     <li id="q39-3">③ (나)는 (가)와 달리 연쇄적 표현으로 관련 있는 상황들을 연결한다.<a class="src-tag ans" href="#ev46">정답 근거</a></li>
     <li id="q39-4">④ (나)는 (가)와 달리 동일한 색채어를 반복해 대상의 특성을 드러낸다.<a class="src-tag" href="#ev47">지문 근거</a></li>
-    <li id="q39-5">⑤ (가)와 (나) 모두 계절적 배경으로 대상의 속성을 강조한다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q39-5">⑤ (가)와 (나) 모두 계절적 배경으로 대상의 속성을 강조한다.<a class="src-tag ans" href="#ev50">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1685,9 +1685,9 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q40-1">① ㉠은 화자의 근심을 해소하는 대상, ㉡은 글쓴이의 근심을 심화하는 대상이다.<a class="src-tag" href="#ev47">지문 근거</a></li>
     <li id="q40-2">② ㉠은 화자가 의구심을 느끼는 대상, ㉡은 글쓴이가 존경심을 느끼는 대상이다.<a class="src-tag" href="#ev48">지문 근거</a></li>
-    <li id="q40-3">③ ㉠은 화자가 이질감을 느끼는 대상, ㉡은 글쓴이가 동질감을 느끼는 대상이다.<a class="src-tag" href="#ev46">지문 근거</a></li>
-    <li id="q40-4">④ ㉠은 화자가 유한성을 지녔다고 보는 대상, ㉡은 글쓴이가 불변성을 지녔다고 보는 대상이다.<a class="src-tag ans" href="#ev47">㉠ 근거</a><a class="src-tag ans" href="#ev48">㉡ 근거</a><a class="src-tag ans" href="#ev40">정답 근거</a></li>
-    <li id="q40-5">⑤ ㉠은 화자가 지향하는 가치, ㉡은 글쓴이가 지양하는 가치를 지녔다고 보는 대상이다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q40-3">③ ㉠은 화자가 이질감을 느끼는 대상, ㉡은 글쓴이가 동질감을 느끼는 대상이다.<a class="src-tag ans" href="#ev46">지문 근거</a></li>
+    <li id="q40-4">④ ㉠은 화자가 유한성을 지녔다고 보는 대상, ㉡은 글쓴이가 불변성을 지녔다고 보는 대상이다.<a class="src-tag" href="#ev47">㉠ 근거</a><a class="src-tag" href="#ev48">㉡ 근거</a><a class="src-tag ans" href="#ev40">정답 근거</a></li>
+    <li id="q40-5">⑤ ㉠은 화자가 지향하는 가치, ㉡은 글쓴이가 지양하는 가치를 지녔다고 보는 대상이다.<a class="src-tag ans" href="#ev50">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1711,11 +1711,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob41">
   <p class="q-stem">41. ⓐ~ⓔ에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q41-1">① ⓐ: 그림이 임금에게 생각을 불러일으킬 것이라는 추측을 나타낸다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q41-1">① ⓐ: 그림이 임금에게 생각을 불러일으킬 것이라는 추측을 나타낸다.<a class="src-tag ans" href="#ev46">지문 근거</a></li>
     <li id="q41-2">② ⓑ: 선왕들의 행적이 의미하는 바를 돌이켜 보아야 한다는 생각을 나타낸다.<a class="src-tag" href="#ev48">지문 근거</a></li>
     <li id="q41-3">③ ⓒ: 그 문장이 임금의 선정을 널리 알릴 만큼 충분히 아름답지 않았다는 생각을 나타낸다.<a class="src-tag ans" href="#ev-q41-c">정답 근거</a></li>
-    <li id="q41-4">④ ⓓ: 임금이 보고 싶은 경관을 늘 가까이 두고 보려 한다는 추측을 나타낸다.<a class="src-tag" href="#ev50">지문 근거</a></li>
-    <li id="q41-5">⑤ ⓔ: 병풍을 통해 후대 왕에게 현재 임금의 뜻이 이어지리라는 인식을 나타낸다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q41-4">④ ⓓ: 임금이 보고 싶은 경관을 늘 가까이 두고 보려 한다는 추측을 나타낸다.<a class="src-tag ans" href="#ev50">지문 근거</a></li>
+    <li id="q41-5">⑤ ⓔ: 병풍을 통해 후대 왕에게 현재 임금의 뜻이 이어지리라는 인식을 나타낸다.<a class="src-tag ans" href="#ev50">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1740,16 +1740,16 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob42">
-  <p class="q-stem">42. 〈보기〉를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">42. 〈보기〉를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 41.7%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>사대부 작가들은 임금에 대한 충정을 다양하게 드러낸다. (가)의 작가는 <b>관직에 나아가지 못한 인물</b>로, 상황적 제약으로 인한 서글픔과 임금을 향한 간절한 그리움을 드러내며 현실을 감내하려는 태도를 보인다. (나)의 작가는 조정에서 관직을 수행하며 본분을 다하기 위해, 임금의 혜안을 칭송하면서도 임금이 지녀야 할 자세에 대한 <b>권계</b>를 드러낸다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q42-1">① (가)의 ‘미나리’를 ‘천리에 뉘 전할고’에서 임금에게 닿을 수 없는 상황적 제약이 드러난다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q42-1">① (가)의 ‘미나리’를 ‘천리에 뉘 전할고’에서 임금에게 닿을 수 없는 상황적 제약이 드러난다.<a class="src-tag ans" href="#ev46">지문 근거</a></li>
     <li id="q42-2">② (가)의 ‘장상사 한 곡조’에 ‘내 마음 일렁인다’에서 자신의 처지로 인한 서러움을 엿볼 수 있다.<a class="src-tag" href="#ev48">지문 근거</a></li>
-    <li id="q42-3">③ (나)의 ‘병풍을 만들겠다’는 이유를 언급하는 데서 소양을 갖추려는 임금의 혜안을 강조한다.<a class="src-tag" href="#ev50">지문 근거</a></li>
-    <li id="q42-4">④ (가)의 ‘첫잠’에 ‘옥루 높은 곳’에 가는 데서 간절한 그리움을, (나)의 ‘송경·이덕유’에 ‘연연’하는 데서 신하의 본분을 엿볼 수 있다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q42-3">③ (나)의 ‘병풍을 만들겠다’는 이유를 언급하는 데서 소양을 갖추려는 임금의 혜안을 강조한다.<a class="src-tag ans" href="#ev50">지문 근거</a></li>
+    <li id="q42-4">④ (가)의 ‘첫잠’에 ‘옥루 높은 곳’에 가는 데서 간절한 그리움을, (나)의 ‘송경·이덕유’에 ‘연연’하는 데서 신하의 본분을 엿볼 수 있다.<a class="src-tag ans" href="#ev46">지문 근거</a></li>
     <li id="q42-5">⑤ (가)의 ‘추당에 만부용’에서 현실을 견디려는 모습이, (나)의 ‘무너질 일을 염려’에서 지나친 걱정으로 정사를 그르치지 말라는 권계가 드러난다.<a class="src-tag ans" href="#ev50">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1809,13 +1809,13 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob43">
-  <p class="q-stem">43. (가)와 (나)의 표현상의 특징으로 가장 적절한 것은?</p>
+  <p class="q-stem">43. (가)와 (나)의 표현상의 특징으로 가장 적절한 것은? <span class="q-rate">오답률 31.0%</span></p>
   <ul class="q-opts">
-    <li id="q43-1">① (가)와 (나) 모두 명사로 시행을 마무리해 여운을 남긴다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q43-1">① (가)와 (나) 모두 명사로 시행을 마무리해 여운을 남긴다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
     <li id="q43-2">② (가)와 (나) 모두 특정 시어를 반복적으로 활용해 시적 상황을 부각한다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
-    <li id="q43-3">③ (가)는 (나)와 달리 의문형 어미로 화자의 정서를 강조한다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q43-4">④ (나)는 (가)와 달리 하강의 이미지로 배경을 묘사한다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q43-5">⑤ (나)는 (가)와 달리 청자를 명시적으로 설정해 친근감을 드러낸다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q43-3">③ (가)는 (나)와 달리 의문형 어미로 화자의 정서를 강조한다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
+    <li id="q43-4">④ (나)는 (가)와 달리 하강의 이미지로 배경을 묘사한다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
+    <li id="q43-5">⑤ (나)는 (가)와 달리 청자를 명시적으로 설정해 친근감을 드러낸다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1842,11 +1842,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob44">
   <p class="q-stem">44. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q44-1">① ㉠은 ‘심장 밑’에서 ‘흐르던’ ‘난류’의 미약함을 나타낸다.<a class="src-tag" href="#ev-q44-2">지문 근거</a></li>
+    <li id="q44-1">① ㉠은 ‘심장 밑’에서 ‘흐르던’ ‘난류’의 미약함을 나타낸다.<a class="src-tag ans" href="#ev-q44-2">지문 근거</a></li>
     <li id="q44-2">② ㉡은 ‘하늘’이 ‘별’로 인해 ‘얼어붙’은 정적인 상태를 강조하는 표현이다.<a class="src-tag ans" href="#ev-q44-2">정답 근거</a></li>
-    <li id="q44-3">③ ㉢은 ‘푸른 별’이 남김없이 ‘떨어질’ 극단적 상황을 나타낸다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q44-4">④ ㉣은 ‘구두’가 ‘낡아가’는 상황이 지속됨을 나타낸다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q44-5">⑤ ㉤은 ‘스승의 서재’가 충분히 오래된 공간임을 강조한다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q44-3">③ ㉢은 ‘푸른 별’이 남김없이 ‘떨어질’ 극단적 상황을 나타낸다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
+    <li id="q44-4">④ ㉣은 ‘구두’가 ‘낡아가’는 상황이 지속됨을 나타낸다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
+    <li id="q44-5">⑤ ㉤은 ‘스승의 서재’가 충분히 오래된 공간임을 강조한다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1871,17 +1871,17 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob45">
-  <p class="q-stem">45. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">45. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 34.0%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>(가)는 <b>일제 강점기</b>를, (나)는 <b>산업화 시기</b>를 배경으로 현실과 변화에 대한 인식을 드러낸다. (가)의 화자는 부정적 현실 속에서 상징적 대상을 통해 현실 극복의 희망과 변화의 염원을, (나)의 화자는 급격히 변하는 현실과 그에 대응하는 인물을 <b>관찰</b>하며 변화에 대한 문제의식을 드러낸다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q45-1">① (가)의 ‘하늘이 무너지고’ ‘지구가 정지’에서 시대적 현실로 인한 절망을 짐작할 수 있다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q45-2">② (가)의 ‘너’가 ‘아직 고운 심장을 지녔’다는 데서 생명력으로 냉혹한 현실을 극복할 수 있다는 희망을 짐작할 수 있다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q45-3">③ (나)의 ‘하룻밤새 또 건물’이 지어진다는 데서 빠른 도시화를 짐작할 수 있다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q45-1">① (가)의 ‘하늘이 무너지고’ ‘지구가 정지’에서 시대적 현실로 인한 절망을 짐작할 수 있다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
+    <li id="q45-2">② (가)의 ‘너’가 ‘아직 고운 심장을 지녔’다는 데서 생명력으로 냉혹한 현실을 극복할 수 있다는 희망을 짐작할 수 있다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
+    <li id="q45-3">③ (나)의 ‘하룻밤새 또 건물’이 지어진다는 데서 빠른 도시화를 짐작할 수 있다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
     <li id="q45-4">④ (나)의 ‘스승’이 ‘새롭게 등장하는 것들을 어깨에 짊어지’는 데서 변화를 이끌어 가는 인물의 모습을 짐작할 수 있다.<a class="src-tag ans" href="#ev53">정답 근거</a></li>
-    <li id="q45-5">⑤ (가)의 ‘밤이 이대로 억만 년이야 갈리라구’에서 현실 변화의 염원을, (나)의 ‘모든 것들이’ ‘먼저 낡아갈 것인가’에서 새로운 현실도 변할 것이라는 인식을 짐작할 수 있다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q45-5">⑤ (가)의 ‘밤이 이대로 억만 년이야 갈리라구’에서 현실 변화의 염원을, (나)의 ‘모든 것들이’ ‘먼저 낡아갈 것인가’에서 새로운 현실도 변할 것이라는 인식을 짐작할 수 있다.<a class="src-tag ans" href="#ev53">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>

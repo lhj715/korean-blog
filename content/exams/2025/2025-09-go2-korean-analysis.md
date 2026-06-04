@@ -44,9 +44,9 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표 내용에 관한 질문을 하여 청중의 반응을 확인하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li>
-    <li id="q1-2">② 청중이 발표 내용을 예측하도록 발표 순서를 안내하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-2">② 청중이 발표 내용을 예측하도록 발표 순서를 안내하고 있다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
     <li id="q1-3">③ 청중과 공유하고 있는 경험을 언급하며 주의를 환기하고 있다.<a class="src-tag" href="#ev-q1-3">지문 근거</a></li>
-    <li id="q1-4">④ 청중의 요청에 따라 발표 내용에 대한 추가 정보를 제공하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-4">④ 청중의 요청에 따라 발표 내용에 대한 추가 정보를 제공하고 있다.<a class="src-tag ans" href="#ev1">지문 근거</a></li>
     <li id="q1-5">⑤ 청중이 발표를 듣고 얻을 효용을 제시하며 마무리하고 있다.<a class="src-tag" href="#ev-q1-5">지문 근거</a></li>
   </ul>
   <details class="solution">
@@ -115,7 +115,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q3-1">① 학생1은 발표 내용을 듣고 자신의 기억을 떠올린다.</li>
     <li id="q3-2">② 학생2는 자신이 이해한 것이 맞는지 상대에게 확인한다.</li>
-    <li id="q3-3">③ 학생1은 학생2와 달리 발표에서 제공하지 않은 내용을 추론한다.<a class="src-tag ans" href="#ev3">정답 근거</a></li>
+    <li id="q3-3">③ 학생1은 학생2와 달리 발표에서 제공하지 않은 내용을 추론한다.<a class="src-tag" href="#ev3">정답 근거</a></li>
     <li id="q3-4">④ 학생2는 학생1과 달리 추가적인 정보 탐색을 계획한다.</li>
     <li id="q3-5">⑤ 학생1·2 모두 궁금한 내용이 다루어지지 않았음을 아쉬워한다.</li>
   </ul>
@@ -253,7 +253,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q6-1">① [A]에서 학생2는 견해 차이를 확인한 후 상대의 발화 내용을 수용한다.</li>
     <li id="q6-2">② [A]에서 학생2는 학생3이 제안한 방안에 객관적 자료를 추가로 요청한다.</li>
     <li id="q6-3">③ [B]에서 학생3은 상대 의견의 한계를 지적한 후 절충안을 제시한다.</li>
-    <li id="q6-4">④ [A]의 학생2와 [B]의 학생3은 모두, 상대 제안을 받아들일 때의 기대 효과를 제시한다.<a class="src-tag ans" href="#ev6">[A] 근거</a><a class="src-tag ans" href="#ev7" id="q6-4b">[B] 근거</a><a class="src-tag ans" href="#ev6">정답 근거</a></li>
+    <li id="q6-4">④ [A]의 학생2와 [B]의 학생3은 모두, 상대 제안을 받아들일 때의 기대 효과를 제시한다.<a class="src-tag" href="#ev6">[A] 근거</a><a class="src-tag ans" href="#ev7" id="q6-4b">[B] 근거</a><a class="src-tag" href="#ev6">정답 근거</a></li>
     <li id="q6-5">⑤ [A]의 학생3과 [B]의 학생2는 모두, 질문 방식으로 정보의 정확성에 의문을 제기한다.</li>
   </ul>
   <details class="solution">
@@ -279,7 +279,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob7">
-  <p class="q-stem">7. (나)의 논의를 반영해 (가)를 고쳐 쓰기 위한 계획으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">7. (나)의 논의를 반영해 (가)를 고쳐 쓰기 위한 계획으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 55.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 고쳐쓰기 계획 &gt;</p>
     <p>㉮ 표제 → ‘환경 동아리 〈초록누리〉, 생태 체험 활동으로 생태계 보전의 중요성을 깨달아’<br>
@@ -470,7 +470,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob11">
-  <p class="q-stem">11. 〈보기〉의 ⓐ~ⓒ에 들어갈 문장을 바르게 분류한 것은?</p>
+  <p class="q-stem">11. 〈보기〉의 ⓐ~ⓒ에 들어갈 문장을 바르게 분류한 것은? <span class="q-rate">오답률 46.8%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 분류 기준 &gt;</p>
     <p>① 다른 문장이 문장 성분 자격으로 들어가 있나? <b>아니요 → ⓐ</b> / 예 → ②<br>
@@ -583,13 +583,13 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob14">
-  <p class="q-stem">14. 〈보기〉의 ㉠(합성 동사), ㉡(본용언+본용언) 예끼리 묶인 것으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">14. 〈보기〉의 ㉠(합성 동사), ㉡(본용언+본용언) 예끼리 묶인 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 43.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 판단 기준 &gt;</p>
     <p><b>합성 동사</b>: 사전에 오른 한 단어, 두 용언 사이에 다른 성분이 못 들어감. <b>본용언+본용언</b>: 각 용언이 주어와 호응, 사이에 다른 성분이 들어갈 수 있음.</p>
   </div>
   <ul class="q-opts">
-    <li id="q14-1">① ㉠ 돌다리를 잘도 <u>건너뛴다</u> / ㉡ 우리 차례를 <u>건너 뛰었다</u><a class="src-tag ans" href="#ev14">정답 근거</a></li>
+    <li id="q14-1">① ㉠ 돌다리를 잘도 <u>건너뛴다</u> / ㉡ 우리 차례를 <u>건너 뛰었다</u><a class="src-tag" href="#ev14">정답 근거</a></li>
     <li id="q14-2">② ㉠ 관습을 <u>벗어던졌다</u> / ㉡ 모자를 <u>벗어 던졌다</u></li>
     <li id="q14-3">③ ㉠ 회장직에서 <u>끌어내렸다</u> / ㉡ 썰매를 선반에서 <u>끌어 내렸다</u></li>
     <li id="q14-4">④ ㉠ 나를 <u>뜯어먹어서</u> 안달 / ㉡ 소가 풀을 <u>뜯어 먹는다</u></li>
@@ -615,7 +615,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob15">
-  <p class="q-stem">15. 〈보기〉를 참고하여 〈자료〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">15. 〈보기〉를 참고하여 〈자료〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 62.6%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>중세 국어의 <b>주체 높임</b>은 ‘-시-/-샤-’나 특수 어휘로, <b>객체 높임</b>은 ‘-ᅀᆞᇦ-/-ᅀᆞᆸ-’류나 특수 어휘·조사로 실현되었다.</p>
@@ -684,10 +684,10 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob16">
   <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q16-1">① (가)는 (나)와 달리 특정 학자의 권력 개념을 다른 학자의 개념과 비교해 본질을 분석한다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q16-1">① (가)는 (나)와 달리 특정 학자의 권력 개념을 다른 학자의 개념과 비교해 본질을 분석한다.<a class="src-tag ans" href="#ev16">지문 근거</a></li>
     <li id="q16-2">② (나)는 (가)와 달리 생명 권력에 대한 학자 간 논쟁을 시간 순서로 제시한다.<a class="src-tag" href="#ev17">지문 근거</a></li>
-    <li id="q16-3">③ (가)·(나) 모두 권력 작동 방식에 대한 상반된 평가와 절충안을 제시한다.<a class="src-tag" href="#ev16">지문 근거</a></li>
-    <li id="q16-4">④ (가)는 학자의 한계를 지적하고, (나)는 생명 권력의 변화 과정을 제시한다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q16-3">③ (가)·(나) 모두 권력 작동 방식에 대한 상반된 평가와 절충안을 제시한다.<a class="src-tag ans" href="#ev16">지문 근거</a></li>
+    <li id="q16-4">④ (가)는 학자의 한계를 지적하고, (나)는 생명 권력의 변화 과정을 제시한다.<a class="src-tag ans" href="#ev16">지문 근거</a></li>
     <li id="q16-5">⑤ (가)는 권력 양상을 통시적으로 본 학자의 견해를, (나)는 생명 권력에 대한 학자들의 새로운 해석을 소개한다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -718,7 +718,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q17-1">① 푸코는 주권 권력이 효과를 잃고 점차 규율 권력으로 대체됐다고 보았다.<a class="src-tag" href="#ev13">지문 근거</a></li>
     <li id="q17-2">② 푸코는 주권 권력이 법에 따라 작동하며 명령을 안 따르는 자의 생명을 빼앗을 수도 있다고 보았다.<a class="src-tag" href="#ev-q17-2">지문 근거</a></li>
     <li id="q17-3">③ 라투르는 생태 위기가 근대 서구 철학의 인간 중심 이분법적 사고를 초래했다고 보았다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
-    <li id="q17-4">④ 라투르는 비인간·인간 모두를 행위자로 보고 이들이 만든 수평적 연결망이 세계를 이룬다고 보았다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q17-4">④ 라투르는 비인간·인간 모두를 행위자로 보고 이들이 만든 수평적 연결망이 세계를 이룬다고 보았다.<a class="src-tag ans" href="#ev16">지문 근거</a></li>
     <li id="q17-5">⑤ 해러웨이는 반려종 간 책임 있는 관계 맺기로 인류세 극복 가능성을 모색할 수 있다고 보았다.<a class="src-tag" href="#ev-q17-5">지문 근거</a></li>
   </ul>
   <details class="solution">
@@ -744,13 +744,13 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob18">
-  <p class="q-stem">18. ㉮(주체성에 대한 이런 생각이 허구)의 이유를 추론한 내용으로 가장 적절한 것은?</p>
+  <p class="q-stem">18. ㉮(주체성에 대한 이런 생각이 허구)의 이유를 추론한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 43.9%</span></p>
   <ul class="q-opts">
-    <li id="q18-1">① 개인의 삶이 권력에 의해 최대한 통제되고 있다고 생각했기 때문.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q18-1">① 개인의 삶이 권력에 의해 최대한 통제되고 있다고 생각했기 때문.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
     <li id="q18-2">② 개인의 자율적 행위도 권력의 작동으로 구성된 결과물이라고 생각했기 때문.<a class="src-tag ans" href="#ev15">정답 근거</a></li>
-    <li id="q18-3">③ 개인이 권력의 작동으로 새롭게 자신의 삶을 생성할 수 있다고 생각했기 때문.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q18-4">④ 개인이 권력을 새롭게 사유해 생활 전반을 규율에 예속할 수 있다고 생각했기 때문.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q18-5">⑤ 개인이 권력을 통제하려는 욕망이 허용되는 분위기가 형성됐다고 생각했기 때문.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q18-3">③ 개인이 권력의 작동으로 새롭게 자신의 삶을 생성할 수 있다고 생각했기 때문.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q18-4">④ 개인이 권력을 새롭게 사유해 생활 전반을 규율에 예속할 수 있다고 생각했기 때문.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
+    <li id="q18-5">⑤ 개인이 권력을 통제하려는 욕망이 허용되는 분위기가 형성됐다고 생각했기 때문.<a class="src-tag ans" href="#ev15">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -777,9 +777,9 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob19">
   <p class="q-stem">19. ㉠(생명 권력)과 ㉡(인간 너머의 생명 권력)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q19-1">① ㉠은 인간의 생명 문제가 국가의 중요 요소로 부각되며 등장했고, ㉡은 비인간과의 공존을 모색하려 등장했다.<a class="src-tag ans" href="#ev14">㉠ 근거</a><a class="src-tag ans" href="#ev17">㉡ 근거</a></li>
+    <li id="q19-1">① ㉠은 인간의 생명 문제가 국가의 중요 요소로 부각되며 등장했고, ㉡은 비인간과의 공존을 모색하려 등장했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
     <li id="q19-2">② ㉠은 인간·비인간 통제를 반성하게 했고, ㉡은 인간 이외 생명의 통제에 저항하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
-    <li id="q19-3">③ ㉠은 인간종 특성·질병에 대비하게 했고, ㉡은 동물 실험 기반 생물학으로 인류세를 극복하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev16">㉡ 근거</a></li>
+    <li id="q19-3">③ ㉠은 인간종 특성·질병에 대비하게 했고, ㉡은 동물 실험 기반 생물학으로 인류세를 극복하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag ans" href="#ev16">㉡ 근거</a></li>
     <li id="q19-4">④ ㉠은 정치·경제 변화를 유도해 산업 혁명을 초래했고, ㉡은 비인간과의 공생을 도모하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
     <li id="q19-5">⑤ ㉠은 순종적 노동력을 확보하게 했고, ㉡은 인간 생명을 통제해 반려종과 관계 맺기를 가능하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
   </ul>
@@ -814,7 +814,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q20-1">① 푸코 관점: 국가가 조류 독감을 직접 관리한 것은 인간 건강의 위험 요소로 간주했기 때문이다.<a class="src-tag" href="#ev14">지문 근거</a></li>
     <li id="q20-2">② 푸코 관점: 피해를 감수하고 가금류를 살처분하게 한 것은 인간 생명 문제에 권력이 개입한 것이다.<a class="src-tag" href="#ev14">지문 근거</a></li>
-    <li id="q20-3">③ 라투르 관점: 조류 독감 확산은 인간·동물·미생물 등 다양한 행위자의 행위성이 만든 결과다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q20-3">③ 라투르 관점: 조류 독감 확산은 인간·동물·미생물 등 다양한 행위자의 행위성이 만든 결과다.<a class="src-tag ans" href="#ev16">지문 근거</a></li>
     <li id="q20-4">④ 라투르 관점: 해결을 위해 ‘없다고 여겼던 병원체를 인간을 위한 연구 대상으로 보아야’ 한다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
     <li id="q20-5">⑤ 해러웨이 관점: 가금류 살처분은 동물을 공생이 아닌 인간 필요에 따라 통제할 대상으로 보기 때문이다.<a class="src-tag" href="#ev-q17-5">지문 근거</a></li>
   </ul>
@@ -898,7 +898,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob22">
-  <p class="q-stem">22. 의류 건조기에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">22. 의류 건조기에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 53.9%</span></p>
   <ul class="q-opts">
     <li id="q22-1">① 건조 속도를 조절하려 드럼 내에서 공기를 가열해 세탁물을 건조시키겠군.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
     <li id="q22-2">② 건조 시간을 자연 건조보다 줄이는 편의를 제공하겠군.<a class="src-tag" href="#ev-q22-23">지문 근거</a></li>
@@ -931,11 +931,11 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob23">
   <p class="q-stem">23. ㉠(배기식)과 ㉡(응축식)에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q23-1">① ㉠은 ㉡과 달리 수증기를 실외로 배출하는 별도 배기 장치가 필요하다.<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q23-1">① ㉠은 ㉡과 달리 수증기를 실외로 배출하는 별도 배기 장치가 필요하다.<a class="src-tag ans" href="#ev20">지문 근거</a></li>
     <li id="q23-2">② ㉠은 ㉡과 달리 세탁물 수분이 상변화를 거쳐 기체로 바뀐 뒤 드럼에서 빠져나온다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
-    <li id="q23-3">③ ㉡은 ㉠과 달리 공기가 열 교환기를 거치며 온도·습도가 모두 낮아진다.<a class="src-tag" href="#ev20">지문 근거</a></li>
-    <li id="q23-4">④ ㉡은 ㉠과 달리 수증기를 물로 응축시켜 물통·배수구로 배출한다.<a class="src-tag" href="#ev20">지문 근거</a></li>
-    <li id="q23-5">⑤ ㉡은 ㉠과 달리 빠져나온 공기가 가열 과정을 거쳐 다시 드럼으로 유입되는 과정이 반복된다.<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q23-3">③ ㉡은 ㉠과 달리 공기가 열 교환기를 거치며 온도·습도가 모두 낮아진다.<a class="src-tag ans" href="#ev20">지문 근거</a></li>
+    <li id="q23-4">④ ㉡은 ㉠과 달리 수증기를 물로 응축시켜 물통·배수구로 배출한다.<a class="src-tag ans" href="#ev20">지문 근거</a></li>
+    <li id="q23-5">⑤ ㉡은 ㉠과 달리 빠져나온 공기가 가열 과정을 거쳐 다시 드럼으로 유입되는 과정이 반복된다.<a class="src-tag ans" href="#ev20">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -960,7 +960,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob24">
-  <p class="q-stem">24. ㉮(공기 온도가 높을수록 건조 속도가 빨라짐)의 이유를 추론한 내용으로 가장 적절한 것은?</p>
+  <p class="q-stem">24. ㉮(공기 온도가 높을수록 건조 속도가 빨라짐)의 이유를 추론한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 48.6%</span></p>
   <ul class="q-opts">
     <li id="q24-1">① 물→수증기 상변화가 촉진돼 물체와 공기 사이 열전달이 활발해지기 때문.<a class="src-tag" href="#ev-q24-mech">지문 근거</a></li>
     <li id="q24-2">② 물 분자 운동 에너지가 커져 물체에 존재할 수 있는 수분량이 늘기 때문.<a class="src-tag" href="#ev-q24-mech">지문 근거</a></li>
@@ -991,7 +991,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob25">
-  <p class="q-stem">25. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">25. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 67.0%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>함수율·건조 속도 그래프. 함수율은 <b>C 구간이 가장 높고 A로 갈수록 낮아짐</b> → <b>C=예열, B=항률, A=감률</b>. (유입 공기 온도·습도·내부 압력은 일정.)</p>
@@ -1029,8 +1029,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">26. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q26-1">① ⓐ(넘어가게): 이전(移轉)하게<a class="src-tag" href="#ev-q25-23">지문 근거</a></li>
-    <li id="q26-2">② ⓑ(사라지는): 소거(消去)되는<a class="src-tag" href="#ev20">지문 근거</a></li>
-    <li id="q26-3">③ ⓒ(이어지는): 연동(聯動)되는<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q26-2">② ⓑ(사라지는): 소거(消去)되는<a class="src-tag ans" href="#ev20">지문 근거</a></li>
+    <li id="q26-3">③ ⓒ(이어지는): 연동(聯動)되는<a class="src-tag ans" href="#ev20">지문 근거</a></li>
     <li id="q26-4">④ ⓓ(맞닿으며): 대면(對面)하며<a class="src-tag" href="#ev-q22-23">지문 근거</a></li>
     <li id="q26-5">⑤ ⓔ(생기는): 발생(發生)하는<a class="src-tag ans" href="#ev26">정답 근거</a></li>
   </ul>
@@ -1249,7 +1249,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q31-2">② 손기는 시에 화답해 달라는 소운성의 요구에 침묵한다.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
     <li id="q31-3">③ 반선은 소운성의 질책에 자신이 본분을 어긴 것을 자책한다.<a class="src-tag" href="#ev-q31-3">지문 근거</a></li>
     <li id="q31-4">④ 세 동생은 손기에게 강물을 먹일 것을 소운성에게 제안한다.<a class="src-tag" href="#ev-q31-4">지문 근거</a></li>
-    <li id="q31-5">⑤ 형 한림은 손기의 연주에 대응하지 못하는 소운성의 어리석음을 꾸짖는다.<a class="src-tag" href="#ev29">지문 근거</a></li>
+    <li id="q31-5">⑤ 형 한림은 손기의 연주에 대응하지 못하는 소운성의 어리석음을 꾸짖는다.<a class="src-tag ans" href="#ev29">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1280,7 +1280,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q32-2">② ㉡은 우월한 지위를 언급해 자신의 능력을 과시한다.<a class="src-tag" href="#ev-q31-4">지문 근거</a></li>
     <li id="q32-3">③ ㉢은 상황에 대한 추측을 나열해 자신에 대한 비난을 반박한다.<a class="src-tag" href="#ev27">지문 근거</a></li>
     <li id="q32-4">④ ㉣은 물음의 형식을 활용해 자신의 요구를 우회적으로 전달한다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
-    <li id="q32-5">⑤ ㉤은 고사를 인용해 상대가 고사 속 인물의 행적을 되풀이하지 않도록 조언한다.<a class="src-tag" href="#ev28">지문 근거</a></li>
+    <li id="q32-5">⑤ ㉤은 고사를 인용해 상대가 고사 속 인물의 행적을 되풀이하지 않도록 조언한다.<a class="src-tag ans" href="#ev28">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1313,8 +1313,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q33-1">① ⓐ: 소운성이 시 짓기·피리 불기를 강요하는 데서, 대립 인물이 주인공을 곤경에 빠뜨리려는 것이 갈등 원인이다.<a class="src-tag" href="#ev27">지문 근거</a></li>
     <li id="q33-2">② ⓑ: 눈물 흘리던 손기가 [나]에서 소운성을 놀리는 데서, 우열 관계가 역전된다.<a class="src-tag" href="#ev27">지문 근거</a></li>
-    <li id="q33-3">③ ⓒ: 소운성은 문장으로, [나]의 손기는 신기한 조화로 능력을 드러내는 데서, 주인공의 능력이 비현실적 요소로 부각된다.<a class="src-tag" href="#ev29">지문 근거</a></li>
-    <li id="q33-4">④ ⓓ: 무시당하던 손기가 두려움·감탄의 대상이 되는 데서, 주변 인물의 평가가 달라진다.<a class="src-tag" href="#ev29">지문 근거</a></li>
+    <li id="q33-3">③ ⓒ: 소운성은 문장으로, [나]의 손기는 신기한 조화로 능력을 드러내는 데서, 주인공의 능력이 비현실적 요소로 부각된다.<a class="src-tag ans" href="#ev29">지문 근거</a></li>
+    <li id="q33-4">④ ⓓ: 무시당하던 손기가 두려움·감탄의 대상이 되는 데서, 주변 인물의 평가가 달라진다.<a class="src-tag ans" href="#ev29">지문 근거</a></li>
     <li id="q33-5">⑤ ⓔ: 형 한림이 [나]에서 소운성을 만류하는 데서, 방관자가 주인공의 요청으로 갈등을 중재한다.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1366,12 +1366,12 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob34">
-  <p class="q-stem">34. [A]에서 알 수 있는 내용으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
+  <p class="q-stem">34. [A]에서 알 수 있는 내용으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A] 보기</a> <span class="q-rate">오답률 48.2%</span></p>
   <ul class="q-opts">
     <li id="q34-1">① 행정청은 동일 위반 행위에 벌금과 과징금 모두를 부과할 수 있다.<a class="src-tag" href="#ev-q34-1">지문 근거</a></li>
     <li id="q34-2">② 행정청은 경미한 형사 사범이 형벌의 부과 대상이 되지 않도록 과태료를 부과할 수 있다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
     <li id="q34-3">③ 행정청은 불법적 이익 환수를 위해 과태료를 부과할 수 있다.<a class="src-tag" href="#ev-q34-3">지문 근거</a></li>
-    <li id="q34-4">④ 행정청은 경미한 행정 법규 위반자에게 형벌로서의 금전 제재를 부과할 수 있다.<a class="src-tag" href="#ev30">지문 근거</a></li>
+    <li id="q34-4">④ 행정청은 경미한 행정 법규 위반자에게 형벌로서의 금전 제재를 부과할 수 있다.<a class="src-tag ans" href="#ev30">지문 근거</a></li>
     <li id="q34-5">⑤ 행정청은 과징금 목적이 형벌과 동일해 재판 없이 과징금을 부과할 수 있다.<a class="src-tag" href="#ev-q34-5">지문 근거</a></li>
   </ul>
   <details class="solution">
@@ -1397,7 +1397,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob35">
-  <p class="q-stem">35. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">35. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 45.0%</span></p>
   <ul class="q-opts">
     <li id="q35-1">① 변형된 과징금은 수익적 행정 행위에 대한 사후 관리 수단으로 볼 수 있다.<a class="src-tag" href="#ev-q35-1">지문 근거</a></li>
     <li id="q35-2">② 본래적 의미의 과징금과 변형된 과징금은 모두 제재로서의 성격을 지닌다.<a class="src-tag" href="#ev-q34-1">지문 근거</a></li>
@@ -1428,7 +1428,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob36">
-  <p class="q-stem">36. ⓐ(선택권 부여), ⓑ(공익성 적은 영업에도 과징금)에 대한 추론으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">36. ⓐ(선택권 부여), ⓑ(공익성 적은 영업에도 과징금)에 대한 추론으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 73.0%</span></p>
   <ul class="q-opts">
     <li id="q36-1">① 영업 정지와 과징금이 대등한 제재라 위반자가 처분을 선택할 수 있다는 견해는 ⓐ 찬성.</li>
     <li id="q36-2">② 공익성을 넓게 적용해 과징금을 부과하면 영업 정지의 제재 효과를 떨어뜨린다는 견해는 ⓐ 반대.</li>
@@ -1459,7 +1459,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob37">
-  <p class="q-stem">37. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">37. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 53.6%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>A 약국이 무자격자 약품 판매로 영업 정지 1개월을 사전 통지받자, 손해를 우려한 영업자가 과징금 대체 민원을 냈다. 행정청은 ‘영업 정지를 갈음해 <b>1억 원 이하</b>의 과징금’이라는 약사법 규정을 근거로, 시행령에 따라 <b>전년도 총매출 기준 900만 원</b>을 산정해 통지받은 날부터 60일 이내 납부를 처분했다. 영업자는 경영 악화로 분할 납부를 희망한다.</p>
@@ -1467,7 +1467,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q37-1">① 1억 원은 부과할 수 있는 과징금의 상한액으로 볼 수 있다.<a class="src-tag" href="#ev-q35-5">지문 근거</a></li>
     <li id="q37-2">② 분할 납부하려면 통지받은 날부터 50일 이내(기한 10일 전)에 신청해야 한다.<a class="src-tag" href="#ev-q35-5">지문 근거</a></li>
-    <li id="q37-3">③ 행정청은 민원을 수용해 경영 악화 손해를 근거로 900만 원을 산정했다.<a class="src-tag ans" href="#ev-q35-5">정답 근거 — 〈보기〉 '전년도 총매출 기준' 확인</a></li>
+    <li id="q37-3">③ 행정청은 민원을 수용해 경영 악화 손해를 근거로 900만 원을 산정했다.<a class="src-tag" href="#ev-q35-5">정답 근거 — 〈보기〉 '전년도 총매출 기준' 확인</a></li>
     <li id="q37-4">④ 약사법 규정 근거의 과징금 부과는 불법적 이익을 환수하는 행정 행위로 볼 수 있다.<a class="src-tag" href="#ev-q34-3">지문 근거</a></li>
     <li id="q37-5">⑤ 영업 정지를 과징금으로 갈음한 것은 약국 영업이 공공 편익에 미치는 영향을 고려했기 때문이다.<a class="src-tag" href="#ev-q35-1">지문 근거</a></li>
   </ul>
@@ -1549,13 +1549,13 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob38">
-  <p class="q-stem">38. ㉠~㉤에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">38. ㉠~㉤에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 44.5%</span></p>
   <ul class="q-opts">
-    <li id="q38-1">① ㉠: 영탄으로 원하는 장소를 찾지 못하는 초조함을 드러낸다.<a class="src-tag" href="#ev34">지문 근거</a></li>
-    <li id="q38-2">② ㉡: 일상적 소재로 동일 대상이 시선에 따라 달리 보임을 강조한다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q38-1">① ㉠: 영탄으로 원하는 장소를 찾지 못하는 초조함을 드러낸다.<a class="src-tag ans" href="#ev34">지문 근거</a></li>
+    <li id="q38-2">② ㉡: 일상적 소재로 동일 대상이 시선에 따라 달리 보임을 강조한다.<a class="src-tag ans" href="#ev34">지문 근거</a></li>
     <li id="q38-3">③ ㉢: 풍경을 감상하는 행위들을 나열하며 풍경의 다양함을 부각한다.<a class="src-tag ans" href="#ev34">정답 근거</a></li>
-    <li id="q38-4">④ ㉣: 촉박한 일정으로 풍경을 못 보는 현실에 대한 불만을 직접 표출한다.<a class="src-tag" href="#ev34">지문 근거</a></li>
-    <li id="q38-5">⑤ ㉤: 찾던 장소가 기대에 못 미치는 상황에 대한 실망을 자조적으로 드러낸다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q38-4">④ ㉣: 촉박한 일정으로 풍경을 못 보는 현실에 대한 불만을 직접 표출한다.<a class="src-tag ans" href="#ev34">지문 근거</a></li>
+    <li id="q38-5">⑤ ㉤: 찾던 장소가 기대에 못 미치는 상황에 대한 실망을 자조적으로 드러낸다.<a class="src-tag ans" href="#ev34">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1648,11 +1648,11 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob41">
   <p class="q-stem">41. ⓐ(저다지도 영특한가)와 ⓑ(어찌 그리도 미혹한가)에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q41-1">① ⓐ는 탈속적 세계 지향, ⓑ는 세속적 세계 회피의 태도가 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
-    <li id="q41-2">② ⓐ는 본질을 파악한 자부심, ⓑ는 본질 모르는 이들에 대한 우월감이 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
+    <li id="q41-1">① ⓐ는 탈속적 세계 지향, ⓑ는 세속적 세계 회피의 태도가 담겨 있다.<a class="src-tag ans" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag ans" href="#ev-q41-b">ⓑ 근거</a></li>
+    <li id="q41-2">② ⓐ는 본질을 파악한 자부심, ⓑ는 본질 모르는 이들에 대한 우월감이 담겨 있다.<a class="src-tag ans" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag ans" href="#ev-q41-b">ⓑ 근거</a></li>
     <li id="q41-3">③ ⓐ는 현재 바라보는 대상에서 느끼는 경이감, ⓑ는 대상의 현재 모습에만 주목하는 이들에 대한 안타까움이 담겨 있다.<a class="src-tag ans" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag ans" href="#ev-q41-b">ⓑ 근거</a></li>
-    <li id="q41-4">④ ⓐ는 자연물과 조화 이룬 대상에 대한 찬탄, ⓑ는 어울리지 않는 대상에 대한 아쉬움이 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
-    <li id="q41-5">⑤ ⓐ는 변함없는 대상에 대한 놀라움, ⓑ는 상황에 따라 달리 보는 사람들에 대한 부정적 태도가 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
+    <li id="q41-4">④ ⓐ는 자연물과 조화 이룬 대상에 대한 찬탄, ⓑ는 어울리지 않는 대상에 대한 아쉬움이 담겨 있다.<a class="src-tag ans" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag ans" href="#ev-q41-b">ⓑ 근거</a></li>
+    <li id="q41-5">⑤ ⓐ는 변함없는 대상에 대한 놀라움, ⓑ는 상황에 따라 달리 보는 사람들에 대한 부정적 태도가 담겨 있다.<a class="src-tag ans" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag ans" href="#ev-q41-b">ⓑ 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1674,7 +1674,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob42">
-  <p class="q-stem">42. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">42. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 43.3%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>교술 문학은 글쓴이의 실제 체험을 바탕으로 하며, 글쓴이는 기존 지식을 활용해 새 대상을 평가하거나 생각을 바꾸기도 한다. 내용은 주관적 감상일 수도, 개인적 깨달음을 인간 삶에 대한 사유·성찰로 확장한 교훈일 수도 있다.</p>
@@ -1749,13 +1749,13 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob43">
-  <p class="q-stem">43. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <p class="q-stem">43. (가)와 (나)의 공통점으로 가장 적절한 것은? <span class="q-rate">오답률 62.4%</span></p>
   <ul class="q-opts">
     <li id="q43-1">① 특정 시어를 반복하여 의미를 강조하고 있다.<a class="src-tag ans" href="#ev-q44-a">정답 근거 — (가) '옛날' 반복</a></li>
-    <li id="q43-2">② 구체적인 청자를 설정하여 시상을 전개하고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q43-3">③ 자연물에 인격을 부여하여 대상을 예찬하고 있다.<a class="src-tag" href="#ev-q44-a">지문 근거</a></li>
-    <li id="q43-4">④ 색채의 대비를 활용하여 시적 분위기를 조성하고 있다.<a class="src-tag" href="#ev-q44-a">지문 근거</a></li>
-    <li id="q43-5">⑤ 시행을 종결하지 않은 채 시상을 마무리하여 여운을 남기고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q43-2">② 구체적인 청자를 설정하여 시상을 전개하고 있다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
+    <li id="q43-3">③ 자연물에 인격을 부여하여 대상을 예찬하고 있다.<a class="src-tag ans" href="#ev-q44-a">지문 근거</a></li>
+    <li id="q43-4">④ 색채의 대비를 활용하여 시적 분위기를 조성하고 있다.<a class="src-tag ans" href="#ev-q44-a">지문 근거</a></li>
+    <li id="q43-5">⑤ 시행을 종결하지 않은 채 시상을 마무리하여 여운을 남기고 있다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1814,11 +1814,11 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>(가)·(나)는 <b>부재하는 대상에 대한 그리움</b>을 소재로 하되 방법이 다르다. (가)는 질그릇의 수수·소박한 이미지를 감각적으로 표현하며 거기서 연상한 대상으로 옛것에 대한 그리움을, (나)는 아버지의 거친 손을 <b>두꺼비에 비유</b>해 고달픈 삶과 돌아가신 아버지에 대한 그리움을 형상화한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q45-1">① (가)의 ‘무르녹는 옛향기’는 ‘깨진 질그릇’의 수수·소박한 이미지를 후각적으로 표현한 것이다.<a class="src-tag" href="#ev-q44-a">지문 근거</a></li>
-    <li id="q45-2">② (가)의 ‘자애’로운 ‘할아버지 흰수염’은 ‘구름무늬’를 통해 연상한 대상이다.<a class="src-tag" href="#ev-q44-a">지문 근거</a></li>
-    <li id="q45-3">③ (나)의 늦은 퇴근·새벽 막일과 ‘양 손엔 우툴두툴한 두꺼비가 살았었다’는 아버지의 고달픈 삶을 형상화한 것이다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q45-1">① (가)의 ‘무르녹는 옛향기’는 ‘깨진 질그릇’의 수수·소박한 이미지를 후각적으로 표현한 것이다.<a class="src-tag ans" href="#ev-q44-a">지문 근거</a></li>
+    <li id="q45-2">② (가)의 ‘자애’로운 ‘할아버지 흰수염’은 ‘구름무늬’를 통해 연상한 대상이다.<a class="src-tag ans" href="#ev-q44-a">지문 근거</a></li>
+    <li id="q45-3">③ (나)의 늦은 퇴근·새벽 막일과 ‘양 손엔 우툴두툴한 두꺼비가 살았었다’는 아버지의 고달픈 삶을 형상화한 것이다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
     <li id="q45-4">④ (나)의 ‘두꺼비 독’으로 ‘양 눈이 충혈되어야 했다’는 것은 부재하는 아버지에 대한 그리움을 형상화한 것이다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
-    <li id="q45-5">⑤ (나)의 ‘두꺼비와 아버지’가 ‘겨울잠’에 든 상황과 ‘봄이 지나 잔디만 깨어난’ 상황의 대비는 아버지의 죽음을 비유한 것이다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q45-5">⑤ (나)의 ‘두꺼비와 아버지’가 ‘겨울잠’에 든 상황과 ‘봄이 지나 잔디만 깨어난’ 상황의 대비는 아버지의 죽음을 비유한 것이다.<a class="src-tag ans" href="#ev40">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
