@@ -52,7 +52,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>지금까지 해양 생물들의 독특한 번식 전략을 소개했습니다. 발표 마치겠습니다.</p>
 </div>
 
-<div class="q-block" id="prob1">
+<div class="q-block" id="prob1">1
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표 내용과 관련된 청중의 경험을 환기하고 있다.</li>
@@ -83,7 +83,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob2">
+<div class="q-block" id="prob2">2
   <p class="q-stem">2. 발표자의 자료 활용에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 자료 &gt;</p>
@@ -122,7 +122,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob3">
+<div class="q-block" id="prob3">3
   <p class="q-stem">3. 〈보기〉 학생들의 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -133,7 +133,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q3-2">② 학생2는 알고 싶은 정보가 발표에서 다뤄지지 않은 것을 아쉬워한다.</li>
     <li id="q3-3">③ 학생3은 발표 정보를 유용성 측면에서 긍정적으로 평가한다.</li>
     <li id="q3-4">④ 학생1·2 모두 발표 내용과 관련해 자신의 배경지식을 떠올린다.</li>
-    <li id="q3-5">⑤ 학생1·3 모두 발표 내용을 신뢰할 수 있는지 의문을 제기한다.</li>
+    <li id="q3-5">⑤ 학생1·3 모두 발표 내용을 신뢰할 수 있는지 의문을 제기한다.<a class="src-tag ans" href="#ev3">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -194,14 +194,14 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>먼저, <span class="ev" id="ev-q6-1">대중가요 편곡 곡을 연주해 주시면 좋겠습니다(학생들에게 익숙).</span><a class="ev-tag" href="#q6-1">6-①</a> 둘째, <span class="ev" id="ev-q6-2">설문 결과 가장 인기였던 △△곡 등 목록을 첨부합니다.</span><a class="ev-tag" href="#q6-2">6-②</a> <span class="ev" id="ev-q6-3">추가로 현대시 ○○ 영감 곡을 요청드립니다(학생들이 의미를 알아 관심·추억).</span><a class="ev-tag" href="#q6-3">6-③</a><a class="ev-tag" href="#q6-4">6-④</a> 마지막으로 영상은 가능하나 <span class="ev ans" id="ev14">조명이 밝아 흐려지므로 밝기를 낮춰야 하며, 이를 보완하려 바닥 조명을 활용하는 방법이 있습니다.</span><a class="ev-tag ans" href="#q6-5">6-⑤</a> ㉠ 다시 한번 참여해 주셔서 감사드립니다.</p>
 </div>
 
-<div class="q-block" id="prob4">
+<div class="q-block" id="prob4">4
   <p class="q-stem">4. (가)의 ‘학생1’에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q4-1">① 회의의 목적을 밝히며 논의를 시작한다.<a class="src-tag" href="#ev9">지문 근거</a></li>
     <li id="q4-2">② 회의 참여자들의 준비 상황을 확인한다.<a class="src-tag" href="#ev10">지문 근거</a></li>
     <li id="q4-3">③ 이어서 논의할 내용을 제시한다.<a class="src-tag" href="#ev11">지문 근거</a></li>
     <li id="q4-4">④ 회의 이후 수행할 일을 안내한다.<a class="src-tag" href="#ev12">지문 근거</a></li>
-    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.</li>
+    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -225,7 +225,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob5">
+<div class="q-block" id="prob5">5
   <p class="q-stem">5. [A]·[B]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q5-1">① [A]에서 학생3은 학생2를 반박하며 객관적 자료를 제시한다.</li>
@@ -256,7 +256,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob6">
+<div class="q-block" id="prob6">6
   <p class="q-stem">6. (가)의 회의 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
     <li id="q6-1">① 대중가요 편곡 곡 선택이 (나)에서 ‘이유’와 함께 제시됐다.<a class="src-tag" href="#ev-q6-1">지문 근거</a></li>
@@ -291,7 +291,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob7">
+<div class="q-block" id="prob7">7
   <p class="q-stem">7. 〈보기〉 조언에 따라 ㉠을 고쳐 쓴 것으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -302,7 +302,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q7-2">② 아름다운 선율이 춤추는 국악 크로스오버 공연 부탁드립니다.</li>
     <li id="q7-3">③ 국악 크로스오버는 옛것과 현대의 조화가 특징인 새 장르라고 생각합니다.</li>
     <li id="q7-4">④ 이번 공연이 학업에 지친 학생들의 감성을 적시는 반가운 단비가 되기를 바랍니다.</li>
-    <li id="q7-5">⑤ 무지개처럼 국악에 다양한 음악이 어우러져 탄생한 국악 크로스오버 공연이 뜻깊은 축제를 만들어 줄 것이라 기대합니다.</li>
+    <li id="q7-5">⑤ 무지개처럼 국악에 다양한 음악이 어우러져 탄생한 국악 크로스오버 공연이 뜻깊은 축제를 만들어 줄 것이라 기대합니다.<a class="src-tag ans" href="#ev7">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -350,7 +350,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted">[A] (결론 — 10번에서 작성)</p>
 </div>
 
-<div class="q-block" id="prob8">
+<div class="q-block" id="prob8">8
   <p class="q-stem">8. 학생의 초고에 활용된 글쓰기 전략으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q8-1">① 예상되는 반론에 대한 답변을 미리 제시한다.</li>
@@ -381,7 +381,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob9">
+<div class="q-block" id="prob9">9
   <p class="q-stem">9. 〈자료〉를 활용해 초고를 보완하는 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 자료 &gt;</p>
@@ -391,7 +391,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q9-1">① ㄱ-㉮ → ‘소비 증가’의 근거로 제시.</li>
     <li id="q9-2">② ㄴ → ‘표시 대상 확대로 알권리 보장’ 사례로 제시.</li>
     <li id="q9-3">③ ㄷ → ‘직관적으로 안전성을 파악하게 돕는 방안’으로 제시.</li>
-    <li id="q9-4">④ ㄱ-㉯+ㄴ → 소비자가 ‘성분보다 향을 중시하는 이유’로 제시.</li>
+    <li id="q9-4">④ ㄱ-㉯+ㄴ → 소비자가 ‘성분보다 향을 중시하는 이유’로 제시.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
     <li id="q9-5">⑤ ㄱ-㉯+ㄷ → ‘감각적 만족을 우선시한다’는 내용의 근거로 제시.</li>
   </ul>
   <details class="solution">
@@ -420,7 +420,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob10">
+<div class="q-block" id="prob10">10
   <p class="q-stem">10. 〈보기〉는 선생님의 조언에 따라 [A](결론)를 작성한 것이다. 선생님의 조언으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 — 작성된 결론 &gt;</p>
@@ -430,7 +430,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q10-1">① 활용 분야를 언급한 뒤, ‘연구를 위한 기업의 노력’을 제시하자.</li>
     <li id="q10-2">② 사회적 인식을 언급한 뒤, ‘세 주체가 협력해야 하는 이유’를 제시하자.</li>
     <li id="q10-3">③ 꼭 필요한 이유를 언급한 뒤, ‘기업의 책임’을 제시하자.</li>
-    <li id="q10-4">④ 효용성을 언급한 뒤, 안전한 사용을 위해 ‘여러 주체의 노력’이 필요함을 제시하자.</li>
+    <li id="q10-4">④ 효용성을 언급한 뒤, 안전한 사용을 위해 ‘여러 주체의 노력’이 필요함을 제시하자.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
     <li id="q10-5">⑤ 우려되는 점을 언급한 뒤, ‘기업·정부·소비자의 상호작용’이 필요함을 제시하자.</li>
   </ul>
   <details class="solution">
@@ -483,7 +483,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>한편 <span class="ev ans" id="ev19">부분 관계는 한 단어가 다른 단어가 지시하는 대상의 일부를 나타내는 관계(‘엔진’과 ‘자동차’)로, 일방적 함의가 성립할 수는 있으나 ‘A는 B의 일종이다’가 성립하지 않아 상하 관계와 다르다.</span><a class="ev-tag" href="#q12-3">12-③</a><a class="ev-tag ans" href="#q12-4">12-④</a></p>
 </div>
 
-<div class="q-block" id="prob11">
+<div class="q-block" id="prob11">11
   <p class="q-stem">11. 윗글에 대한 이해로 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q11-1">① 의미 성분 분석은 단어의 의미를 더 작은 의미 단위로 분해하여 표시하는 방법이다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
@@ -518,7 +518,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob12">
+<div class="q-block" id="prob12">12
   <p class="q-stem">12. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -561,7 +561,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <p class="muted seg-label">13~15번은 지문 없이 〈보기〉·학습 활동만으로 푸는 단독 문법 문항입니다.</p>
 
-<div class="q-block" id="prob13">
+<div class="q-block" id="prob13">13
   <p class="q-stem">13. 〈학습 활동〉을 수행한 결과로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습 활동 &gt;</p>
@@ -571,7 +571,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q13-1">① (㉠·ⓐ) 할머니는 언제나 <u>내가 건강하기</u>만 <u>바라는</u> 분이시다.</li>
-    <li id="q13-2">② (㉠·ⓑ) 그는 <u>이번 책이 독자들에게 많이 읽히기</u>를 바란다.</li>
+    <li id="q13-2">② (㉠·ⓑ) 그는 <u>이번 책이 독자들에게 많이 읽히기</u>를 바란다.<a class="src-tag ans" href="#ev13">정답 근거</a></li>
     <li id="q13-3">③ (㉠·ⓒ) 그녀는 <u>실력이 부족해 대회에 나가지 못했음</u>을 친구에게 털어놨다.</li>
     <li id="q13-4">④ (㉡·ⓑ) 의사는 보호자에게 <u>환자를 어서 눕히라고</u> 말했다.</li>
     <li id="q13-5">⑤ (㉡·ⓒ) 그는 외국어를 몰라서 <u>이곳이 어디냐고</u> <u>묻지 못했다</u>.</li>
@@ -602,14 +602,14 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob14">
+<div class="q-block" id="prob14">14
   <p class="q-stem">14. 〈보기〉 선생님의 설명을 바탕으로 ‘ㅎ’의 음운 변동을 탐구한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>‘ㅎ’은 음운 환경에 따라 <b>교체·탈락·축약</b> 등의 음운 변동을 겪는다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q14-1">① ‘많은’: 자음군 단순화를 통해 ‘ㅎ’이 탈락한다.</li>
+    <li id="q14-1">① ‘많은’: 자음군 단순화를 통해 ‘ㅎ’이 탈락한다.<a class="src-tag ans" href="#ev14">정답 근거</a></li>
     <li id="q14-2">② ‘놓고’: ‘ㅎ’이 뒤의 ‘ㄱ’을 만나 거센소리로 축약된다.</li>
     <li id="q14-3">③ ‘꽂히다’: ‘ㅈ’이 뒤의 ‘ㅎ’을 만나 거센소리로 축약된다.</li>
     <li id="q14-4">④ ‘앓는’: 자음군 단순화로 ‘ㅎ’이 탈락한 뒤, ‘ㄴ’이 앞의 ‘ㄹ’을 만나 유음으로 교체된다.</li>
@@ -641,7 +641,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob15">
+<div class="q-block" id="prob15">15
   <p class="q-stem">15. 〈보기〉의 ㉠~㉢에 들어갈 말로 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -653,7 +653,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q15-1">① 잇녀 / 그러터녀 / 求ᄒ다</li>
     <li id="q15-2">② 잇녀 / 그러터뇨 / 求ᄒ뇨</li>
-    <li id="q15-3">③ 잇뇨 / 그러터녀 / 求ᄒ다</li>
+    <li id="q15-3">③ 잇뇨 / 그러터녀 / 求ᄒ다<a class="src-tag ans" href="#ev15">정답 근거</a></li>
     <li id="q15-4">④ 잇뇨 / 그러터녀 / 求ᄒ뇨</li>
     <li id="q15-5">⑤ 잇뇨 / 그러터뇨 / 求ᄒ뇨</li>
   </ul>
@@ -710,11 +710,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>하이데거는 ‘숙고’(자신이 포함된 세계와 그 속의 자기 존재를 함께 이해함)로 교육관을 제시했다. 이성 도야 중심의 전통적 교육이 세계와 인간을 분리해 인식하고 세계의 개별성·특수성을 경시했다고 비판하며, <span class="ev" id="ev29">하이데거의 교육은 인간 존재가 세계와 분리되지 않은 채 사유하는 법을 중시한다.</span><a class="ev-tag" href="#q19-5b">19-⑤</a></p>
 </div>
 
-<div class="q-block" id="prob16">
+<div class="q-block" id="prob16">16
   <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q16-1">① (가)와 (나) 모두 선입견에 대한 철학자의 주장을 소개하고 그 한계점을 지적한다.</li>
-    <li id="q16-2">② (가)와 (나) 모두 선입견에 대한 철학자의 견해를 제시하고 이를 특정 분야(교육)에 적용해 설명한다.</li>
+    <li id="q16-2">② (가)와 (나) 모두 선입견에 대한 철학자의 견해를 제시하고 이를 특정 분야(교육)에 적용해 설명한다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
     <li id="q16-3">③ (가)는 (나)와 달리 선입견 이론의 변천 과정을 소개한다.</li>
     <li id="q16-4">④ (가)는 (나)와 달리 철학자가 제시한 사례를 유형화해 비교한다.</li>
     <li id="q16-5">⑤ (나)는 (가)와 달리 개념이 시대에 따라 달리 수용된 양상을 설명한다.</li>
@@ -741,7 +741,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob17">
+<div class="q-block" id="prob17">17
   <p class="q-stem">17. (가), (나)를 읽고 학생이 정리한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학생의 정리 &gt;</p>
@@ -777,7 +777,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob18">
+<div class="q-block" id="prob18">18
   <p class="q-stem">18. ㉠(매 순간의 이해는 과거의 시간성에 기인한다)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q18-1">① 인간 존재의 유한한 역사는 이해의 작용에 제약이 된다.</li>
@@ -808,14 +808,14 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob19">
+<div class="q-block" id="prob19">19
   <p class="q-stem">19. ‘교육’에 대한 데카르트와 하이데거의 입장을 비교한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q19-1">① 데카르트는 교육으로 사유하는 자아에서 벗어나야 한다고, 하이데거는 조건부 진리에서 벗어나야 한다고 보았다.</li>
     <li id="q19-2">② 데카르트는 교육이 전통·습관대로 이루어져야 한다고, 하이데거는 이성적 능력을 도야해야 한다고 보았다.</li>
     <li id="q19-3">③ 데카르트는 이성에 의한 판단이 가능하도록, 하이데거는 전통적 교육으로 회귀해야 한다고 보았다.</li>
     <li id="q19-4">④ 데카르트는 의심 가능한 모든 것을 의심해야 한다고, 하이데거는 이해가 실천적 차원에 머물지 않아야 한다고 보았다.</li>
-    <li id="q19-5">⑤ 데카르트는 교육의 목적이 자기 성찰에 있다고, 하이데거는 학습자가 세계와 분리되지 않은 채 사유하는 것이 중요하다고 보았다.<a class="src-tag" href="#ev24">근거 A</a><a class="src-tag" href="#ev29" id="q19-5b">근거 B</a></li>
+    <li id="q19-5">⑤ 데카르트는 교육의 목적이 자기 성찰에 있다고, 하이데거는 학습자가 세계와 분리되지 않은 채 사유하는 것이 중요하다고 보았다.<a class="src-tag" href="#ev24">근거 A</a><a class="src-tag" href="#ev29" id="q19-5b">근거 B</a><a class="src-tag ans" href="#ev19">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -839,7 +839,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob20">
+<div class="q-block" id="prob20">20
   <p class="q-stem">20. 〈보기〉(학습 일지)를 데카르트(A)·하이데거(B)의 관점에서 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -878,12 +878,12 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob21">
+<div class="q-block" id="prob21">21
   <p class="q-stem">21. 문맥상 ⓐ~ⓔ와 가장 유사한 의미로 쓰인 것은?</p>
   <ul class="q-opts">
     <li id="q21-1">① ⓐ(내리기): 올해는 유난히 눈이 많이 <u>내렸다</u>.</li>
     <li id="q21-2">② ⓑ(말하며): 나는 동생에게 그 사실을 <u>말하러</u> 갔다.</li>
-    <li id="q21-3">③ ⓒ(삼아): 그는 이번 일을 성장의 계기로 <u>삼았다</u>.</li>
+    <li id="q21-3">③ ⓒ(삼아): 그는 이번 일을 성장의 계기로 <u>삼았다</u>.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
     <li id="q21-4">④ ⓓ(가지고): 나는 밀가루를 <u>가지고</u> 빵을 만들었다.</li>
     <li id="q21-5">⑤ ⓔ(겪는다): 그는 며칠 동안 손님을 <u>겪느라</u> 고단했다.</li>
   </ul>
@@ -934,7 +934,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>측면 경계 조건은 제한된 영역을 모의하는 지역 모델에서 설정한다. 모든 층에서 대기의 유출입이 계속되므로 영역 외부의 변수 값을 내부에 반영해야 한다. 이 때문에 지역 모델은 지구 전체를 모의하는 전지구 모델에서 자료를 받아 측면 경계 조건으로 활용한다 — 상·하위 모델 간 변수 값의 불일치를 최소화하기 위해서다.</p>
 </div>
 
-<div class="q-block" id="prob22">
+<div class="q-block" id="prob22">22
   <p class="q-stem">22. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q22-1">① 대기의 상태는 기압, 기온, 습도, 바람 등의 변수로 나타낸다.</li>
@@ -965,7 +965,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob23">
+<div class="q-block" id="prob23">23
   <p class="q-stem">23. 윗글을 읽은 학생의 메모 ㉠~㉤에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 메모 &gt;</p>
@@ -1001,10 +1001,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob24">
+<div class="q-block" id="prob24">24
   <p class="q-stem">24. 경계 조건에 대해 이해한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q24-1">① 하단 경계에서는 상단 경계에서와 마찬가지로 대기의 연직 운동이 없다고 가정한다.<a class="src-tag" href="#ev32">근거(하단)</a><a class="src-tag" href="#ev33" id="q24-1b">근거(상단)</a></li>
+    <li id="q24-1">① 하단 경계에서는 상단 경계에서와 마찬가지로 대기의 연직 운동이 없다고 가정한다.<a class="src-tag" href="#ev32">근거(하단)</a><a class="src-tag" href="#ev33" id="q24-1b">근거(상단)</a><a class="src-tag ans" href="#ev24">정답 근거</a></li>
     <li id="q24-2">② 하단 경계에서는 측면 경계와 달리 영역 외부의 변수 값을 내부에 반영한다.</li>
     <li id="q24-3">③ 상단·측면 경계에서는 하단 경계와 달리 경계의 에너지 교환을 조건에 반영한다.</li>
     <li id="q24-4">④ 상단 경계에서는 하단 경계와 마찬가지로 변수 값이 왜곡돼 에너지가 비현실적으로 증가한다고 가정한다.</li>
@@ -1036,7 +1036,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob25">
+<div class="q-block" id="prob25">25
   <p class="q-stem">25. 윗글을 참고하여 〈보기〉를 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1104,12 +1104,12 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
 </div>
 
-<div class="q-block" id="prob26">
+<div class="q-block" id="prob26">26
   <p class="q-stem">26. 윗글에서 다룬 내용이 <strong>아닌</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q26-1">① 일죄의 개념</li>
     <li id="q26-2">② 형법의 정의</li>
-    <li id="q26-3">③ 법조경합의 종류</li>
+    <li id="q26-3">③ 법조경합의 종류<a class="src-tag ans" href="#ev26">정답 근거</a></li>
     <li id="q26-4">④ 책임주의의 의미</li>
     <li id="q26-5">⑤ 상상적 경합의 사례</li>
   </ul>
@@ -1135,7 +1135,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob27">
+<div class="q-block" id="prob27">27
   <p class="q-stem">27. 학습지의 ‘판단 결과’로 적절한 것은? (맞으면 ○, 틀리면 ×)</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습지 &gt;</p>
@@ -1178,7 +1178,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob28">
+<div class="q-block" id="prob28">28
   <p class="q-stem">28. [A](실체적 경합)에 대한 이해로 적절하지 <strong>않은</strong> 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
   <ul class="q-opts">
     <li id="q28-1">① 실체적 경합은 각각의 죄에 선고될 형을 단순 합산한 것에 일정 부분을 가중해 처벌함을 원칙으로 한다.<a class="src-tag ans" href="#ev37">정답 근거</a></li>
@@ -1209,7 +1209,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob29">
+<div class="q-block" id="prob29">29
   <p class="q-stem">29. 윗글을 참고할 때 〈보기〉에 대한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1249,10 +1249,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob30">
+<div class="q-block" id="prob30">30
   <p class="q-stem">30. 밑줄 친 부분의 문맥적 의미가 ⓐ(부른다)와 가장 유사한 것은?</p>
   <ul class="q-opts">
-    <li id="q30-1">① 친구는 그를 천재라고 <u>불렀다</u>.</li>
+    <li id="q30-1">① 친구는 그를 천재라고 <u>불렀다</u>.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
     <li id="q30-2">② 선행은 또 다른 선행을 <u>부른다</u>.</li>
     <li id="q30-3">③ 나는 집 앞으로 택시를 <u>불렀다</u>.</li>
     <li id="q30-4">④ 그 가게에서는 값을 싸게 <u>부른다</u>.</li>
@@ -1310,7 +1310,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 작자 미상, 「한조삼성기봉(漢朝三姓奇逢)」</p>
 </div>
 
-<div class="q-block" id="prob31">
+<div class="q-block" id="prob31">31
   <p class="q-stem">31. 윗글에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q31-1">① 인물의 행동을 과장되게 표현하여 인물을 희화화하고 있다.</li>
@@ -1341,7 +1341,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob32">
+<div class="q-block" id="prob32">32
   <p class="q-stem">32. ㉠~㉤에 나타난 말하기 방식에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q32-1">① ㉠: 자신과 다른 인물의 차이점을 언급하며 앞으로의 일을 예견한다.</li>
@@ -1372,7 +1372,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob33">
+<div class="q-block" id="prob33">33
   <p class="q-stem">33. 학생이 윗글을 읽고 작성한 메모 ⓐ~ⓔ 중 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 메모 &gt;</p>
@@ -1411,7 +1411,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob34">
+<div class="q-block" id="prob34">34
   <p class="q-stem">34. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1480,7 +1480,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 양귀자, 「쥐」</p>
 </div>
 
-<div class="q-block" id="prob35">
+<div class="q-block" id="prob35">35
   <p class="q-stem">35. 윗글의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q35-1">① 작품 밖의 서술자가 특정 인물의 시각에서 사건을 서술하고 있다.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
@@ -1511,7 +1511,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob36">
+<div class="q-block" id="prob36">36
   <p class="q-stem">36. ㉠~㉤에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q36-1">① ㉠: 자신이 직면한 문제의 원인을 다른 대상에 돌리는 모습이 나타난다.</li>
@@ -1542,7 +1542,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob37">
+<div class="q-block" id="prob37">37
   <p class="q-stem">37. ⓐ(실눈)와 ⓑ(헛기침)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q37-1">① ⓐ는 ‘그’가 앞으로 벌어질 일을 짐작하는 단서이고, ⓑ는 자신이 겪은 일에서 느낀 심정을 감추려는 행동이다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
@@ -1570,7 +1570,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob38">
+<div class="q-block" id="prob38">38
   <p class="q-stem">38. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1664,7 +1664,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 홍섬, 「한양궁궐도기(漢陽宮闕圖記)」</p>
 </div>
 
-<div class="q-block" id="prob39">
+<div class="q-block" id="prob39">39
   <p class="q-stem">39. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q39-1">① (가)는 (나)와 달리 직유법으로 상황의 심각성을 부각한다.</li>
@@ -1695,13 +1695,13 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob40">
+<div class="q-block" id="prob40">40
   <p class="q-stem">40. ㉠(초목이 시들고…)과 ㉡(산수를 그린 그림…)에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q40-1">① ㉠은 화자의 근심을 해소하는 대상, ㉡은 글쓴이의 근심을 심화하는 대상이다.</li>
     <li id="q40-2">② ㉠은 화자가 의구심을 느끼는 대상, ㉡은 글쓴이가 존경심을 느끼는 대상이다.</li>
     <li id="q40-3">③ ㉠은 화자가 이질감을 느끼는 대상, ㉡은 글쓴이가 동질감을 느끼는 대상이다.</li>
-    <li id="q40-4">④ ㉠은 화자가 유한성을 지녔다고 보는 대상, ㉡은 글쓴이가 불변성을 지녔다고 보는 대상이다.<a class="src-tag" href="#ev47">㉠ 근거</a><a class="src-tag" href="#ev48">㉡ 근거</a></li>
+    <li id="q40-4">④ ㉠은 화자가 유한성을 지녔다고 보는 대상, ㉡은 글쓴이가 불변성을 지녔다고 보는 대상이다.<a class="src-tag" href="#ev47">㉠ 근거</a><a class="src-tag" href="#ev48">㉡ 근거</a><a class="src-tag ans" href="#ev40">정답 근거</a></li>
     <li id="q40-5">⑤ ㉠은 화자가 지향하는 가치, ㉡은 글쓴이가 지양하는 가치를 지녔다고 보는 대상이다.</li>
   </ul>
   <details class="solution">
@@ -1723,7 +1723,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob41">
+<div class="q-block" id="prob41">41
   <p class="q-stem">41. ⓐ~ⓔ에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q41-1">① ⓐ: 그림이 임금에게 생각을 불러일으킬 것이라는 추측을 나타낸다.</li>
@@ -1754,7 +1754,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob42">
+<div class="q-block" id="prob42">42
   <p class="q-stem">42. 〈보기〉를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1823,11 +1823,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 허수경, 「스승의 구두」</p>
 </div>
 
-<div class="q-block" id="prob43">
+<div class="q-block" id="prob43">43
   <p class="q-stem">43. (가)와 (나)의 표현상의 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q43-1">① (가)와 (나) 모두 명사로 시행을 마무리해 여운을 남긴다.</li>
-    <li id="q43-2">② (가)와 (나) 모두 특정 시어를 반복적으로 활용해 시적 상황을 부각한다.</li>
+    <li id="q43-2">② (가)와 (나) 모두 특정 시어를 반복적으로 활용해 시적 상황을 부각한다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
     <li id="q43-3">③ (가)는 (나)와 달리 의문형 어미로 화자의 정서를 강조한다.</li>
     <li id="q43-4">④ (나)는 (가)와 달리 하강의 이미지로 배경을 묘사한다.</li>
     <li id="q43-5">⑤ (나)는 (가)와 달리 청자를 명시적으로 설정해 친근감을 드러낸다.</li>
@@ -1854,7 +1854,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob44">
+<div class="q-block" id="prob44">44
   <p class="q-stem">44. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q44-1">① ㉠은 ‘심장 밑’에서 ‘흐르던’ ‘난류’의 미약함을 나타낸다.</li>
@@ -1885,7 +1885,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob45">
+<div class="q-block" id="prob45">45
   <p class="q-stem">45. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>

@@ -28,7 +28,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>지금까지 식중독 예방을 위한 식품 위생 관리 방법을 알아봤는데요, 더 자세한 안내는 식품의약품안전처 누리집에서 확인하실 수 있습니다. 이번 강연이 건강하고 안전한 식생활 실천에 도움이 되기를 바랍니다. 고맙습니다.</p>
 </div>
 
-<div class="q-block" id="prob1">
+<div class="q-block" id="prob1">1
   <p class="q-stem">1. 위 강연자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 용어의 개념을 설명하며 청중의 이해를 돕고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li>
@@ -59,7 +59,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob2">
+<div class="q-block" id="prob2">2
   <p class="q-stem">2. 다음은 교사가 강연자에게 보낸 전자 우편이다. 이를 바탕으로 세운 강연자의 계획 중 강연에 반영되지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 전자 우편 &gt;</p>
@@ -68,7 +68,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q2-1">① 일상생활에 적용할 수 있는 구체적인 방법을 제시한다.</li>
     <li id="q2-2">② 잘못된 이해를 바로잡으려 계절별 식중독 발생 현황을 통계 자료로 제시한다.<a class="src-tag" href="#ev1a">지문 근거</a></li>
-    <li id="q2-3">③ 식중독의 종류에 따라 식중독 발생률이 달라질 수 있음을 설명한다.</li>
+    <li id="q2-3">③ 식중독의 종류에 따라 식중독 발생률이 달라질 수 있음을 설명한다.<a class="src-tag ans" href="#ev2">정답 근거</a></li>
     <li id="q2-4">④ 식중독을 일으키는 식품들을 소개하며 식품의 관리 방법을 설명한다.</li>
     <li id="q2-5">⑤ 지방의 산패로 인한 유해 성분의 생성 과정을 그림 자료로 제시한다.</li>
   </ul>
@@ -94,7 +94,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob3">
+<div class="q-block" id="prob3">3
   <p class="q-stem">3. 다음은 학생이 강연을 들으면서 작성한 메모이다. 이를 바탕으로 학생의 듣기 과정을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 메모 &gt;</p>
@@ -156,7 +156,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>현대 사회에서 미술 심리 상담사의 역할이 더욱 중요해지고 있다. 미술에 애정이 있고 친구 이야기를 잘 들어 주는 학생이라면 이 직업에 관심을 가져 보길 추천한다.</p>
 </div>
 
-<div class="q-block" id="prob4">
+<div class="q-block" id="prob4">4
   <p class="q-stem">4. 대화의 흐름을 고려할 때, ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q4-1">① ㉠: 질문에 답변하며 상대방이 잘못 이해한 부분을 바로잡고 있다.<a class="src-tag" href="#ev4">지문 근거</a></li>
@@ -187,7 +187,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob5">
+<div class="q-block" id="prob5">5
   <p class="q-stem">5. 다음은 (가) 인터뷰를 위해 작성한 인터뷰 계획이다. (가)에 반영되지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 인터뷰 계획 &gt;</p>
@@ -196,7 +196,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q5-1">① 어떤 일을 하는지 설명 부탁하며 시작</li>
     <li id="q5-2">② 일반 심리 상담과의 차이</li>
-    <li id="q5-3">③ 어떤 심리적 문제가 있는 사람들에게 필요한지</li>
+    <li id="q5-3">③ 어떤 심리적 문제가 있는 사람들에게 필요한지<a class="src-tag ans" href="#ev5">정답 근거</a></li>
     <li id="q5-4">④ 대표적인 상담 방법</li>
     <li id="q5-5">⑤ 희망 학생을 위한 조언 부탁하며 마무리</li>
   </ul>
@@ -222,7 +222,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob6">
+<div class="q-block" id="prob6">6
   <p class="q-stem">6. (가)를 참고할 때, (나)에서 활용한 글쓰기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q6-1">① 1문단: 미술 심리 상담사의 개념을 비교의 방식으로 서술</li>
@@ -253,7 +253,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob7">
+<div class="q-block" id="prob7">7
   <p class="q-stem">7. 다음은 (나)의 마지막 문단을 고쳐 쓴 것이다. 반영된 수정 계획으로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 고쳐 쓴 마지막 문단 &gt;</p>
@@ -301,7 +301,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted">[A] (마무리 — 10번에서 작성)</p>
 </div>
 
-<div class="q-block" id="prob8">
+<div class="q-block" id="prob8">8
   <p class="q-stem">8. ‘작문 상황’을 고려해 구상한 내용 중 학생의 초고에 반영되지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q8-1">① 구독 경제를 이용할 때의 장점</li>
@@ -332,7 +332,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob9">
+<div class="q-block" id="prob9">9
   <p class="q-stem">9. &lt;보기&gt;는 초고를 보완하기 위해 추가 수집한 자료이다. 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -343,7 +343,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q9-2">② ㄴ: 1인당 결제 대금 급증을, 구독료 과다 지출 근거로 2문단에 보강.</li>
     <li id="q9-3">③ ㄷ: 디지털 디톡스 실천 방법을, 뇌 건강 예방 방법으로 4문단에 추가.</li>
     <li id="q9-4">④ ㄱ-1·ㄴ: 여러 개를 이용하는 현황을, 청소년이 많이 이용하는 현황으로 1문단에 보강.</li>
-    <li id="q9-5">⑤ ㄱ-2·ㄷ: 사용 시간 증가→도파민 과다를, 다양한 형태의 구독 경제를 ‘이용해야 하는 이유’로 3문단에 추가.</li>
+    <li id="q9-5">⑤ ㄱ-2·ㄷ: 사용 시간 증가→도파민 과다를, 다양한 형태의 구독 경제를 ‘이용해야 하는 이유’로 3문단에 추가.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -367,7 +367,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob10">
+<div class="q-block" id="prob10">10
   <p class="q-stem">10. &lt;보기&gt;는 초고를 읽은 교사의 조언이다. 이를 반영해 [A]를 작성한 것으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -376,7 +376,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q10-1">① 과도한 구독 경제 이용은 뇌 건강을 해치는 지름길이다. 디지털 콘텐츠 이용 시간을 줄여 뇌가 쉬게 해야 한다.</li>
     <li id="q10-2">② 구독 경제를 지나치게 이용하는 것은 바람직하지 않다. 올바른 태도로 이용하는 것이 필요한 자세이다.</li>
-    <li id="q10-3">③ 무분별한 구독 경제 이용은 독이 될 수 있다. 자신에게 필요한 구독 경제만 선택하고 정해 둔 시간만큼 디지털 콘텐츠를 이용하는 태도가 필요하다.</li>
+    <li id="q10-3">③ 무분별한 구독 경제 이용은 독이 될 수 있다. 자신에게 필요한 구독 경제만 선택하고 정해 둔 시간만큼 디지털 콘텐츠를 이용하는 태도가 필요하다.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
     <li id="q10-4">④ 구독 경제는 양날의 검이 될 수 있다. 청소년이 합리적으로 이용하도록 정부의 규제가 필요하다.</li>
     <li id="q10-5">⑤ 구독 경제는 편리함을 제공하지만 지나친 이용은 과소비를 유발한다. 이용 개수를 최소화하는 것이 올바른 태도이다.</li>
   </ul>
@@ -413,7 +413,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>대립되는 의미를 가진 단어들의 관계를 <b>반의 관계</b>라 하며, <span class="ev" id="ev11d">반의어는 나머지 의미 성분을 공유하고 단 하나의 의미 성분에서만 차이를 가진다.</span><a class="ev-tag" href="#q11-4">11-④</a> 또 ㉠한 단어가 다의어일 때 의미에 따라 반의어가 달라질 수 있다.</p>
 </div>
 
-<div class="q-block" id="prob11">
+<div class="q-block" id="prob11">11
   <p class="q-stem">11. 윗글의 어휘 지도를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q11-1">① ‘동물’은 ‘어류’에 비해 지시 대상의 범위가 넓다.</li>
@@ -444,14 +444,14 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob12">
+<div class="q-block" id="prob12">12
   <p class="q-stem">12. 윗글의 ㉠을 참조하여 &lt;보기&gt;의 빈칸 [A]~[C]에 들어갈 말을 바르게 배열한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>‘걸다’ — 벽에 그림을 걸다 ↔ [A] / 전화를 걸다 ↔ 받다 / 시동을 걸다 ↔ [C]. ([B]에는 ‘자물쇠·빗장을 채우다’ 의미의 예문)</p>
   </div>
   <ul class="q-opts">
-    <li id="q12-1">① [A] 떼다 / [B] 대문에 빗장을 걸었다 / [C] 끄다</li>
+    <li id="q12-1">① [A] 떼다 / [B] 대문에 빗장을 걸었다 / [C] 끄다<a class="src-tag ans" href="#ev12">정답 근거</a></li>
     <li id="q12-2">② [A] 떼다 / [B] 솥을 가장자리에 걸었다 / [C] 끄다</li>
     <li id="q12-3">③ [A] 떼다 / [B] 문에 자물쇠를 걸지 않았다 / [C] 내리다</li>
     <li id="q12-4">④ [A] 빼다 / [B] 명예를 걸고 임해야 / [C] 내리다</li>
@@ -477,14 +477,14 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob13">
+<div class="q-block" id="prob13">13
   <p class="q-stem">13. &lt;보기&gt;의 ㉠~㉢에 들어갈 말로 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>중세 목적격 조사: 받침 있음+양성 ‘ᄋᆞᆯ’/음성 ‘을’(이어 적기), 받침 없음+양성 ‘ᄅᆞᆯ’/음성 ‘를’.<br>◦( ㉠ ) 손ᅀᅩ 자ᄇᆞ샤 [손을 손수 잡으시어] ◦世尊ㅅ긔 내 ( ㉡ ) 펴아 ᄉᆞᆯ​​ᄫᆞ쇼셔 [내 뜻을 펴 아뢰십시오] ◦王이 ( ㉢ ) 請ᄒᆞᄉᆞ쇼셔 [왕이 부처를 청하십시오]</p>
   </div>
   <ul class="q-opts">
-    <li id="q13-1">① ㉠ 소ᄂᆞᆯ / ㉡ ᄠᅳ들 / ㉢ 부텨를</li>
+    <li id="q13-1">① ㉠ 소ᄂᆞᆯ / ㉡ ᄠᅳ들 / ㉢ 부텨를<a class="src-tag ans" href="#ev13">정답 근거</a></li>
     <li id="q13-2">② ㉠ 소ᄂᆞᆯ / ㉡ ᄠᅳᄅᆞᆯ / ㉢ 부텨를</li>
     <li id="q13-3">③ ㉠ 소ᄂᆞᆯ / ㉡ ᄠᅳ들 / ㉢ 부텨ᄅᆞᆯ</li>
     <li id="q13-4">④ ㉠ 소늘 / ㉡ ᄠᅳᄅᆞᆯ / ㉢ 부텨ᄅᆞᆯ</li>
@@ -510,7 +510,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob14">
+<div class="q-block" id="prob14">14
   <p class="q-stem">14. &lt;보기&gt;에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -518,7 +518,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q14-1">① ㉠, ㉡에는 음절 끝에 둘 이상의 자음이 오지 못해 일어나는 음운 변동이 있다.</li>
-    <li id="q14-2">② ㉡, ㉢에서는 앞의 자음이 뒤의 자음에 동화되는 음운 변동이 일어났다.</li>
+    <li id="q14-2">② ㉡, ㉢에서는 앞의 자음이 뒤의 자음에 동화되는 음운 변동이 일어났다.<a class="src-tag ans" href="#ev14">정답 근거</a></li>
     <li id="q14-3">③ ㉠에서 탈락된 음운과 ㉢에서 첨가된 음운은 서로 다르다.</li>
     <li id="q14-4">④ ㉢에서는 ㉠, ㉡과 달리 음운 변동의 결과 음운 개수가 하나 늘었다.</li>
     <li id="q14-5">⑤ ㉡, ㉢에서는 ㉠과 달리 인접한 자음과 조음 방법이 같아지는 음운 변동이 일어났다.</li>
@@ -545,14 +545,14 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob15">
+<div class="q-block" id="prob15">15
   <p class="q-stem">15. &lt;보기&gt;의 ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>㉠ 그는 영수가 집에 간다고 했다. ㉡ 이것은 어제 그녀가 산 책이다. ㉢ 개나리꽃이 흐드러지게 피었다. ㉣ 영철이는 마음씨가 매우 착하다. ㉤ 나는 아이들이 행복하기를 바란다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q15-1">① ㉠은 인용절을 가진 안은문장으로, 안긴문장의 주어가 생략되어 있다.</li>
+    <li id="q15-1">① ㉠은 인용절을 가진 안은문장으로, 안긴문장의 주어가 생략되어 있다.<a class="src-tag ans" href="#ev15">정답 근거</a></li>
     <li id="q15-2">② ㉡은 관형사절을 가진 안은문장으로, 안은문장 주어는 ‘이것은’, 안긴문장 주어는 ‘그녀가’이다.</li>
     <li id="q15-3">③ ㉢은 부사절을 가진 안은문장으로, 안긴문장의 주어가 생략되어 있다.</li>
     <li id="q15-4">④ ㉣은 서술절을 가진 안은문장으로, 안은문장 주어는 ‘영철이는’, 안긴문장 주어는 ‘마음씨가’이다.</li>
@@ -603,7 +603,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>㉤<span class="ev" id="ev18e">전화를 받은 사람은 아침부터 재수가 없다고 할지도 모른다. 이 세계에는 행운의 총량이 정해져 있어, 한 사람이 많이 가져가면 남은 몫이 줄어든다.</span><a class="ev-tag" href="#q18-5">18-㉤</a></p>
 </div>
 
-<div class="q-block" id="prob16">
+<div class="q-block" id="prob16">16
   <p class="q-stem">16. 윗글의 인물에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q16-1">① 정비업체 사장은 보험 처리를 하지 않는 운전자들을 비난하였다.</li>
@@ -634,7 +634,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob17">
+<div class="q-block" id="prob17">17
   <p class="q-stem">17. 대화에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q17-1">① 공통의 관심사를 확인하며 인물들의 동질감이 드러난다.</li>
@@ -662,7 +662,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob18">
+<div class="q-block" id="prob18">18
   <p class="q-stem">18. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q18-1">① ㉠: 외양 묘사를 통해 인물의 특징을 드러낸다.<a class="src-tag" href="#ev18a">지문 근거</a></li>
@@ -693,7 +693,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob19">
+<div class="q-block" id="prob19">19
   <p class="q-stem">19. &lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -748,7 +748,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>이러한 퍼트넘의 주장은 비판도 받지만, 대상을 기반으로 한 객관적 의미를 찾으려 했다는 점에서 새로운 관점을 제시했다는 평가를 받는다.</p>
 </div>
 
-<div class="q-block" id="prob20">
+<div class="q-block" id="prob20">20
   <p class="q-stem">20. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q20-1">① 의미 내재주의에 의하면 의미는 지시체에 대한 기술구에 따라 결정된다.<a class="src-tag" href="#ev20a">지문 근거</a></li>
@@ -779,7 +779,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob21">
+<div class="q-block" id="prob21">21
   <p class="q-stem">21. 윗글을 참고할 때, ㉠의 이유로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q21-1">① 두 지구의 물이 같은 물질이더라도 서로 다른 화학식으로 표현하기 때문이다.</li>
@@ -807,7 +807,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob22">
+<div class="q-block" id="prob22">22
   <p class="q-stem">22. [A]를 읽은 학생이 &lt;보기&gt;에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -842,7 +842,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob23">
+<div class="q-block" id="prob23">23
   <p class="q-stem">23. &lt;보기&gt;의 관점에서 퍼트넘의 주장을 비판한 것으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -875,10 +875,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob24">
+<div class="q-block" id="prob24">24
   <p class="q-stem">24. ⓐ(지닌다)와 문맥상 의미가 가장 가까운 것은?</p>
   <ul class="q-opts">
-    <li id="q24-1">① 그는 착한 성품을 지닌 사람이다.</li>
+    <li id="q24-1">① 그는 착한 성품을 지닌 사람이다.<a class="src-tag ans" href="#ev24">정답 근거</a></li>
     <li id="q24-2">② 어릴 때 모습을 그대로 지니고 있다.</li>
     <li id="q24-3">③ 그가 지닌 목걸이는 친구에게 받은 것이다.</li>
     <li id="q24-4">④ 일을 성사시킬 책임을 지니고 출장을 갔다.</li>
@@ -926,7 +926,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>이 공이 “<span class="ev ans" id="ev27">현부가 온 지 오래니 차를 마시도록 하라.</span><a class="ev-tag ans" href="#q27-4">27-④</a>” 하니 양 씨가 차를 마시고 정신이 상쾌해졌다. 곧 섬돌에 걸려 깨어나니 한바탕 꿈이었다.</p>
 </div>
 
-<div class="q-block" id="prob25">
+<div class="q-block" id="prob25">25
   <p class="q-stem">25. 윗글의 인물에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q25-1">① 이 공의 부인은 눈물을 흘리며 양 소저를 위로하였다.</li>
@@ -957,7 +957,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob26">
+<div class="q-block" id="prob26">26
   <p class="q-stem">26. ㉠~㉣에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q26-1">① ㉠은 당위로 상대를 설득하고, ㉡은 감정에 호소하여 동의를 이끌어 낸다.</li>
@@ -987,7 +987,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob27">
+<div class="q-block" id="prob27">27
   <p class="q-stem">27. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1041,7 +1041,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><span class="ev ans" id="ev29b">법원은 세 방법 중 청구자가 원하는 방법에 구애받지 않고 재량에 따라 합리적 방법으로 분할을 명할 수 있다.</span><a class="ev-tag ans" href="#q29-2">29-②</a></p>
 </div>
 
-<div class="q-block" id="prob28">
+<div class="q-block" id="prob28">28
   <p class="q-stem">28. 윗글에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q28-1">① 공유물 분할의 장단점을 제시한 후 의의를 밝히고 있다.</li>
@@ -1072,7 +1072,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob29">
+<div class="q-block" id="prob29">29
   <p class="q-stem">29. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q29-1">① 공유자는 지분을 나머지 공유자들의 동의 없이 처분할 수 있다.</li>
@@ -1103,7 +1103,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob30">
+<div class="q-block" id="prob30">30
   <p class="q-stem">30. ㉠과 ㉡에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q30-1">① ㉠과 ㉡은 모두 공동 소유 관계에 있는 모든 이가 당사자로 참여한다.<a class="src-tag" href="#ev30a">지문 근거</a></li>
@@ -1134,7 +1134,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob31">
+<div class="q-block" id="prob31">31
   <p class="q-stem">31. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1191,7 +1191,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><span class="ev ans" id="ev36">느린 순응 타입Ⅰ수용체는 1 ㎐ 이하 저주파, 빠른 순응 타입Ⅰ은 30~40 ㎐, 빠른 순응 타입Ⅱ는 200~300 ㎐ 영역 자극에 민감하다. 빠른 순응 타입Ⅱ는 역치가 가장 낮아 미세 변화를 감지한다.</span><a class="ev-tag ans" href="#q36-4">36-④</a></p>
 </div>
 
-<div class="q-block" id="prob32">
+<div class="q-block" id="prob32">32
   <p class="q-stem">32. (가)를 읽고 가질 수 있는 의문 중 (나)를 통해 해결할 수 <strong>없는</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q32-1">① 사용자는 왜 200~300 ㎐ 진동을 쉽게 인지할까?</li>
@@ -1222,7 +1222,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob33">
+<div class="q-block" id="prob33">33
   <p class="q-stem">33. (가), (나)에서 확인할 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q33-1">① 신체 부위에 따라 타입Ⅰ수용체의 분포 정도가 다르다.<a class="src-tag" href="#ev33a">지문 근거</a></li>
@@ -1253,7 +1253,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob34">
+<div class="q-block" id="prob34">34
   <p class="q-stem">34. (가)를 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1285,7 +1285,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob35">
+<div class="q-block" id="prob35">35
   <p class="q-stem">35. 윗글을 참고할 때, ㉠의 이유로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q35-1">① 스퀴즈 필름이 발생하면서 스퀴즈 힘이 증가해 마찰력이 없어지기 때문에</li>
@@ -1314,7 +1314,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob36">
+<div class="q-block" id="prob36">36
   <p class="q-stem">36. (나)를 바탕으로 &lt;보기&gt;의 ㄱ~ㄷ을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1348,12 +1348,12 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob37">
+<div class="q-block" id="prob37">37
   <p class="q-stem">37. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q37-1">① ⓐ(띠는): 조성(造成)하는</li>
     <li id="q37-2">② ⓑ(끌려가): 유발(誘發)되어</li>
-    <li id="q37-3">③ ⓒ(가까운): 유사(類似)한</li>
+    <li id="q37-3">③ ⓒ(가까운): 유사(類似)한<a class="src-tag ans" href="#ev37">정답 근거</a></li>
     <li id="q37-4">④ ⓓ(사라지는): 변형(變形)되는</li>
     <li id="q37-5">⑤ ⓔ(다른): 차별(差別)되는데</li>
   </ul>
@@ -1407,7 +1407,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>지난해 종남산 정자에서 만나 네가 등불 밝혀 옛글을 읽던 일이 떠오른다. 화음동 골짜기로 함께 가자던 약속을 끝내 지키지 못했구나. 그러나 너와 나는 ㉡<span class="ev ans" id="ev41b">묶여 이어진 양 끝이니 넋이 이를 모르지 않을 것이다.</span><a class="ev-tag ans" href="#q41-5b">41-㉡</a></p>
 </div>
 
-<div class="q-block" id="prob38">
+<div class="q-block" id="prob38">38
   <p class="q-stem">38. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q38-1">① 영탄적 표현을 활용하여 자신의 심정을 강조하고 있다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
@@ -1438,7 +1438,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob39">
+<div class="q-block" id="prob39">39
   <p class="q-stem">39. [A]~[E]에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q39-1">① [A]: 설의적 표현으로 임을 잊지 못한 화자의 심정을 보여 준다.</li>
@@ -1469,7 +1469,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob40">
+<div class="q-block" id="prob40">40
   <p class="q-stem">40. (나)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q40-1">① ‘나’는 사람들이 ‘외손녀’에 대해 아는 것을 바라지 않았다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
@@ -1500,7 +1500,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob41">
+<div class="q-block" id="prob41">41
   <p class="q-stem">41. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q41-1">① ㉠은 화자가 임과 지낸 공간을, ㉡은 글쓴이가 외손녀와 지낸 시간을 의미한다.</li>
@@ -1528,7 +1528,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob42">
+<div class="q-block" id="prob42">42
   <p class="q-stem">42. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1589,7 +1589,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   속리산은 ㉤<span class="ev ans" id="ev44">단숨에 오를 수도 있는 높이를 길게 길게 늘여서 내 앞에 펼쳐주었다</span><a class="ev-tag ans" href="#q44-5">44-㉤</a></p>
 </div>
 
-<div class="q-block" id="prob43">
+<div class="q-block" id="prob43">43
   <p class="q-stem">43. (가), (나)의 표현상 특징에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q43-1">① (가)는 음성 상징어를 사용하여 생동감을 주고 있다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
@@ -1619,7 +1619,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob44">
+<div class="q-block" id="prob44">44
   <p class="q-stem">44. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q44-1">① ㉠: 바다를 대하는 마을 사람들의 행동을 믿지 못하는 상황을 부각한다.<a class="src-tag" href="#ev44a">지문 근거</a></li>
@@ -1650,7 +1650,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob45">
+<div class="q-block" id="prob45">45
   <p class="q-stem">45. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
