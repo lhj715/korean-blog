@@ -785,7 +785,195 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set6" class="set-anchor"></div>
 
-## 22~26번 현대시 · [작성 예정]
+## 22~26번 갈래복합 · 윤동주「흐르는 거리」/ 고정희「따뜻한 동행」/ 남유용「난설」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가)/(나) 현대시 + (다) 고전산문 세트. 각 작품의 핵심 주제와 표현법을 파악한다.</p>
+  <ul>
+    <li><strong>(가) 핵심</strong> — 안개 흐르는 거리 = 정처 없는 삶. 동무에 대한 그리움(포스트 편지). 배달부=밝은 아침 이미지. 영탄("어디로 흘리워 가는 것일까?")</li>
+    <li><strong>(나) 핵심</strong> — 강물=다양한 존재의 합류. 온도 대비(따뜻/서늘). '내게로 왔네' 반복. 가야금소리/바라춤이 강물 위에 실림(청각→강물=전이)</li>
+    <li><strong>(다) 핵심</strong> — 난초를 귀하게 돌보려는 주인 vs 자연 속에 두자는 객 → 객이 이김. 글쓴이 인식: 존재의 본성은 자연 속에서 드러난다</li>
+    <li><strong>㉢ 해석</strong> — "자네들은 지금 어디 있는가?" = 행방을 알 수 없는 상태. 찾은 게 아님</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 23번 ③ ㉢=찾을 수 있게 된 순간(X, 행방 모름), 24번 ⑤ 가야금소리 깃듦=반복(X, 전이), 25번 ② 객이 시들 것 걱정(X, 오히려 자연서 잘 자란다 강조).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가)</strong></p>
+  <div class="poem-text">
+    <p>으스름히 안개가 흐른다. 거리가 흘러간다. 저 전차, 자동차, 모든 바퀴가 <span class="ev" id="ev23-1">㉠어디로 흘리워 가는 것일까?</span><a class="ev-tag" href="#q23-1">23-①</a> 정박할 아무 항구도 없이, 가련한 많은 사람들을 싣고서, 안개 속에 잠긴 거리는,</p>
+    <p>거리 모퉁이 붉은 포스트 상자를 붙잡고 섰을라면 모든 것이 흐르는 속에 <span class="ev" id="ev23-2">㉡어렴풋이 빛나는 가로등,</span><a class="ev-tag" href="#q23-2">23-②</a> 꺼지지 않은 것은 무슨 상징일까? <span class="ev ans" id="ev23-3">사랑하는 동무 박(朴)이여! 그리고 김(金)이여! 자네들은 ㉢지금 어디 있는가?</span><a class="ev-tag ans" href="#q23-3">23-③</a> 끝없이 안개가 흐르는데,</p>
+    <p><span class="ev" id="ev24-4">'새로운 날 아침 우리 다시 정답게 손목을 잡아 보세' 몇 자 적어 포스트 속에 떨어뜨리고,</span><a class="ev-tag" href="#q24-4">24-④</a> 밤을 새워 기다리면 <span class="ev" id="ev24-5">금휘장(金徽章)에 금단추를 삐었고 거인처럼 찬란히 나타나는 배달부, 아침과 함께 즐거운 내림(來臨),</span><a class="ev-tag" href="#q24-5">24-⑤</a></p>
+    <p>이 밤을 하염없이 안개가 흐른다.</p>
+    <p class="poem-source">— 윤동주, 「흐르는 거리」 —</p>
+  </div>
+  <p><strong>(나)</strong></p>
+  <div class="poem-text">
+    <p><span class="ev" id="ev22-1">해거름녘 쓸쓸한 사람들과 흐르던 / 따뜻한 강물이 내게로 왔네</span></p>
+    <p>봄 눈 파릇파릇한 숲길을 지나 / 아득한 강물이 내게로 왔네</p>
+    <p>이십도의 따뜻하고 해맑은 강물과 / 이십도의 서늘하고 아득한 강물이</p>
+    <p><span class="ev" id="ev23-4">㉣서로 겹쳐 흐르며 온누리 껴안으며 / 삼라의 뜻을 돌아 내게로 왔네</span><a class="ev-tag" href="#q23-4">23-④</a></p>
+    <p>사흘 낮 사흘 밤 잔잔한 강물 속에 / 어여쁜 숭어떼 미끄럽게 춤추고</p>
+    <p><span class="ev ans" id="ev23-5">㉤늦게 뜬 별 둘이 살 속에 박혔네</span><a class="ev-tag ans" href="#q23-5">23-⑤</a> / 달빛이 내려와 이불로 덮었네</p>
+    <p>저물 무렵 머나먼 고향으로 흐르던 / 따뜻한 강물이 내게, 내게로 왔네</p>
+    <p><span class="ev" id="ev24-2">외로운 사람들의 낮과 밤 지나 / 기나긴 강물이 내게, 내게로 왔네</span><a class="ev-tag" href="#q24-2">24-②</a></p>
+    <p>사십도의 따뜻하고 드맑은 강물 위에 / <span class="ev ans" id="ev24-5b">열두 대의 가야금소리 깃들고</span><a class="ev-tag ans" href="#q24-5">24-⑤</a></p>
+    <p>사십도의 서늘하고 아득한 강물 위에 / 스물네 대의 바라춤이 실렸네</p>
+    <p>그 위에 우주의 동행이 겹쳤네</p>
+    <p class="poem-source">— 고정희, 「따뜻한 동행」 —</p>
+  </div>
+  <p><strong>(다)</strong></p>
+  <p>집의 남쪽 허물어진 담 그늘에 난초가 있어 싹이 돋아났다. 무너진 흙이 덮고 풀 덩굴이 둘러 있어 <span class="ev" id="ev25-5">지나가는 사람이 난초인 것을 알지 못했는데, 주인이 동자를 시켜 풀 덩굴을 치우고 흙을 거두어내서 흙단을 만들어 높이며 귀하게 여겼다.</span><a class="ev-tag" href="#q25-4">25-④</a><a class="ev-tag" href="#q25-5">25-⑤</a></p>
+  <p>객이 곁에 있어 웃으면서 말하기를,<br>"… 귀함이 있는 곳에는 이름이 반드시 따라 다니는 것이니, 장차 이름 있는 사람이 말하기를, '이것은 상서롭고 향기로운 풀이다.'고 하면서 손을 뻗어 만지려 하고 코를 대어 냄새를 맡으려 할 것이니, 마침내 그 천성(天性)을 없애는 것이니 어찌 난의 행복이겠습니까?"라고 하였다.</p>
+  <p>주인이 말하기를, <span class="ev" id="ev25-1">"비록 그러하나, 이 난의 됨됨이는 풀과 다르니, 오히려 이 난에서 풀 덩굴의 울창함으로 덮이게 하면 마침내 기이함을 볼 수 없게 되니 이것이 또한 난의 행복인가?"</span><a class="ev-tag" href="#q25-1">25-①</a>라고 하니,</p>
+  <p>객이 또 웃으면서 말하기를, <span class="ev ans" id="ev25-2">"무슨 걱정인가. 대저 이것은 무릇 오직 거처한 곳이 그윽한 지가 오래되었으니, 장차 거의 나타나는 것은 바람이 번식하게 하고 비가 윤택하게 하며, 뿌리는 굳어지고 잎은 강해집니다. 바야흐로 가을에 서리와 이슬이 내려 온갖 풀들이 말라 죽으나, 당신의 정원에는 어리고 푸른 것으로 있고, 비로소 겨울의 싸라기눈이 이미 내려 모든 기운이 폐색해지나, 그대의 방에는 검고 향기로운 것이 있을 것이니 …"</span><a class="ev-tag ans" href="#q25-2">25-②</a>라고 하였다.</p>
+  <p><span class="ev" id="ev25-3">이에 주인이 객을 돌아다보며 크게 탄식하고 동자를 가리켜 말하기를, "멈추어라. 대저 저 사람의 말은 거의 통달한 것이다."라고 하였다.</span><a class="ev-tag" href="#q25-3">25-③</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. (가)~(다)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① (가)는 영탄적 표현을 활용하여 대상에 대한 정서를 심화하고 있다.<a class="src-tag ans" href="#ev23-1">정답 근거</a></li>
+    <li id="q22-2">② (나)는 가정적 표현을 활용하여 현재 상황에 대한 원인을 포착하고 있다.<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q22-3">③ (다)는 음성 상징어를 활용하여 대상의 특징을 드러내고 있다.<a class="src-tag" href="#ev25-2">지문 근거</a></li>
+    <li id="q22-4">④ (가)는 계절감을 드러내는 표현을 활용하여, (나)는 묘사의 방식을 활용하여 대상에서 촉발된 인상을 표현하고 있다.<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q22-5">⑤ (가), (나), (다)는 모두, 반어적 표현을 활용하여 주제 의식을 드러내고 있다.<a class="src-tag" href="#ev25-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>(가): "어디로 흘리워 가는 것일까?", "무슨 상징일까?" 등 영탄적 의문문으로 정서 심화.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)의 "어디로 흘리워 가는 것일까?" 등 영탄적 표현.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 해당 표현 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠은 '전차, 자동차, 모든 바퀴'가 가는 곳을 알 수 없음을 부각하고 있다.<a class="src-tag" href="#ev23-1">지문 근거</a></li>
+    <li id="q23-2">② ㉡은 '거리 모퉁이'의 '가로등'의 빛이 환하지 않은 상황을 부각하고 있다.<a class="src-tag" href="#ev23-2">지문 근거</a></li>
+    <li id="q23-3">③ ㉢은 '사랑하는 동무'들을 '안개' 속에서 찾을 수 있게 된 순간을 강조하고 있다.<a class="src-tag ans" href="#ev23-3">정답 근거</a></li>
+    <li id="q23-4">④ ㉣은 '강물'들이 '겹쳐' 흐르는 상황을 강조하고 있다.<a class="src-tag" href="#ev23-4">지문 근거</a></li>
+    <li id="q23-5">⑤ ㉤은 '별 둘'이 알맞은 때를 지나 '뜬' 상황을 부각하고 있다.<a class="src-tag" href="#ev23-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>㉢ "자네들은 지금 어디 있는가?" = 동무들이 어디 있는지 모르는 상태. '찾을 수 있게 된 순간'이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢은 행방 불명 상태를 질문하는 것이지 찾은 순간이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>시적 상상력은 현실 세계를 새로운 이미지로 재구성하여 시적 세계를 창조하는 사고 작용이다. 시에서는 시적 상상력을 활용하여 추상적인 인식이나 감정을 구체적인 움직임이나 상태로 이미지화하는데, 이때 시적 상상력은 대상이 갖는 기존의 속성에 제한받지 않고 그 대상에 새로운 속성을 연결하기도 한다. 이 과정에서 시적 대상의 이미지의 반복, 과장, 대비, 전이 등을 통해 시적 세계는 형상화된다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q24-1">① (가)의 '거리가 흘러간다'는 표현은, 대상이 갖지 않는 속성을 활용하여 거리의 상태를 새로운 이미지로 재구성한 것이겠군.<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q24-2">② (나)의 '기나긴 강물'이 '외로운 사람들의 낮과 밤 지나' '내게로 왔'다는 표현은, 대비되는 시간을 활용하여 소외된 존재와 화자가 강물을 통해 연결되는 시적 세계를 형상화하고 있군.<a class="src-tag" href="#ev24-2">지문 근거</a></li>
+    <li id="q24-3">③ (가)의 '안개'가 '끝없이' 흐른다는 표현과 (나)의 '강물'과 '강물'이 '온누리'를 '껴안'고 '삼라의 뜻을 돌아'온다는 표현은, 과장을 활용하여 현실 세계에 대한 화자의 인식을 자연물의 동적 이미지로 형상화한 것이겠군.<a class="src-tag" href="#ev23-4">지문 근거</a></li>
+    <li id="q24-4">④ (가)의 '다시' '손목을 잡아 보'자는 편지를 '포스트 속에 떨어뜨'린다는 표현은 재회에 대한 기대를, (나)의 '잔잔한 강물 속에' '숭어떼'가 '미끄럽게 춤'춘다는 표현은 강물이 품은 생명력을 이미지화한 것이겠군.<a class="src-tag" href="#ev24-4">지문 근거</a></li>
+    <li id="q24-5">⑤ (가)의 '금휘장'에 '금단추'를 단 '배달부'가 '찬란히 나타'난다는 표현은 감각의 전이를, (나)의 '따뜻하고 드맑은 강물' 위에 '가야금소리'가 '깃'든다는 표현은 감각적 이미지의 반복을 활용하여 시적 대상의 긍정적 이미지를 재구성한 것이겠군.<a class="src-tag ans" href="#ev24-5b">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>(가) 배달부 '찬란히'는 시각→청각 전이가 아니라 시각 강조. (나) 강물 위 가야금소리는 청각이 촉각/시각 대상(강물)에 깃드는 '전이'. 반복이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>적절한 감상.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>가야금소리 깃듦 = 청각→시각(강물) 전이. '반복'이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. (다)에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① 주인은 담 그늘에 돋아난 난초의 됨됨이가 풀과 다르다고 생각했다.<a class="src-tag" href="#ev25-1">지문 근거</a></li>
+    <li id="q25-2">② 객은 난초가 바람과 비를 견디지 못하고 시들어 버릴 것이라고 우려했다.<a class="src-tag ans" href="#ev25-2">정답 근거</a></li>
+    <li id="q25-3">③ 주인은 객의 말이 거의 통달했다고 인정하며 동자가 하던 일을 멈추게 했다.<a class="src-tag" href="#ev25-3">지문 근거</a></li>
+    <li id="q25-4">④ 동자는 주인의 지시에 따라 풀 덩굴을 치워 숨겨진 난초가 드러나게 만들었다.<a class="src-tag" href="#ev25-5">지문 근거</a></li>
+    <li id="q25-5">⑤ 지나가는 사람은 무너진 흙과 풀 덩굴 때문에 난초가 있다는 사실을 알지 못했다.<a class="src-tag" href="#ev25-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>객은 오히려 "바람이 번식하게 하고 비가 윤택하게 하며, 뿌리는 굳어지고 잎은 강해진다"며 자연 속에서 잘 자랄 것이라고 했다. '시들 것을 우려'한 것이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>객은 자연 속에서 난초가 더 잘 자란다고 했다. 시들 것 걱정 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 다음에 따라 (가)와 (다)를 감상한 내용으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>선생님: (가)에서는 정착하지 못하는 삶을 통해 화자의 정서를, (다)에서는 대상을 대하는 인물들의 입장을 통해 글쓴이의 인식을 확인할 수 있지요.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q26-1">① (가)에서 화자는 '많은 사람들'이 '정박할' '항구'가 없는 상황을 통해 유랑하는 삶에 대한 연민을, (다)에서 글쓴이는 '난초'를 귀하게 여기는 주인을 부정적으로 평가하는 객의 말을 통해 존재의 본성을 인위적으로 드러내지 않는 것의 가치를 부각하고 있군.<a class="src-tag ans" href="#ev23-3">정답 근거</a></li>
+    <li id="q26-2">② (가)에서 화자는 '안개 속에 잠긴 거리'의 '모든 것이 흐르는' 모습을 통해 쇠락한 도시 문명에 대한 비애를, …<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q26-3">③ (가)에서 화자는 '붉은 포스트 상자'를 붙잡고 서는 행위를 통해 정착하고자 하는 소망을, …<a class="src-tag" href="#ev24-4">지문 근거</a></li>
+    <li id="q26-4">④ (가)에서 화자는 '꺼지지 않은 것'의 '상징'에 대한 의문을 통해 현실 극복의 의지를, …<a class="src-tag" href="#ev23-2">지문 근거</a></li>
+    <li id="q26-5">⑤ (가)에서 화자는 '밤'을 새워 '아침'을 기다리는 행위를 통해 벗어날 수 없는 현실에 대한 성찰을, …<a class="src-tag" href="#ev24-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>(가): 정박할 항구 없음 → 유랑하는 삶에 대한 연민. (다): 객이 주인의 인위적 돌봄에 반대 → 본성대로 두는 것의 가치. ①이 맞다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)=유랑 연민, (다)=인위적 드러냄 반대→본성의 가치. 적절.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 틀린 해석 포함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set7" class="set-anchor"></div>
 
