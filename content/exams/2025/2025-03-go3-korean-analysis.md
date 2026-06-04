@@ -1496,7 +1496,99 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setA3" class="set-anchor"></div>
 
-## 43~45번 작문 · [작성 예정 — 43②44③45②]
+## 43~45번 작문 · 환경을 고려한 자외선 차단제
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 작문 상황: 환경을 고려한 자외선 차단제 사용의 필요성을 알리는 글.</p>
+  <p><strong>초고 구조</strong> — 1문단: 자외선 차단제의 해양 유입량(최대 1만4천 톤) / 2문단: 산호 백화 현상 가속화+산호의 중요성+인간 삶 위협 / 3문단: 하와이 규제 사례 / 4문단: 국내 현황+전문가 권고+규제 필요성</p>
+</div>
+
+<div class="q-block" id="probA43">
+  <p class="q-stem">43. '작문 상황'을 고려하여 구상한 글쓰기 내용으로 '초고'에 반영되지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA43-1">① 자외선 차단제의 해양 유입량<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA43-2">② 국내의 자외선 차단제 사용 현황<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA43-3">③ 자외선 차단제가 해양 생태계에 미치는 위험<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA43-4">④ 우리나라의 산호 중 백화 현상이 나타난 비율<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA43-5">⑤ 산호가 해양 생태계 및 인간의 삶에 미치는 영향<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>초고에 국내의 자외선 차단제 사용 현황(얼마나 사용하는지)은 없다. 국내 산호 백화 비율은 있지만 사용 현황은 없음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>초고에 반영됨.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>국내 자외선 차단제 사용 현황=초고에 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA44">
+  <p class="q-stem">44. 다음은 '초고'에 대한 교지 편집장의 조언이다. 이를 반영하여 마지막 문단에 추가할 내용으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>환경을 고려한 자외선 차단제 사용의 필요성을 강조한 뒤, 예상되는 효과를 제시하며 글을 마무리하면 좋겠어.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA44-1">① 오존층의 파괴로 자외선의 위험성이 날로 증가하고 있다. 환경을 고려하여 모자와 양산을 사용하는 습관을 갖추면 자외선을 피하면서 산호를 백화 현상에서 지킬 수 있을 것이다.</li>
+    <li id="qA44-2">② 자외선 차단제를 사용할 때 성분을 고려하고 자외선 차단제의 사용량을 줄이는 노력이 필요하다. 우리의 작은 실천이 모여 해양 생태계와 인간의 삶을 지킬 수 있을 것이다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA44-3">③ 우리가 무심코 사용하는 자외선 차단제가 바다를 오염시키고 있다. 앞으로 자외선 차단제를 고를 때 해양에 유해한 성분이 없는지 확인할 필요가 있다.</li>
+    <li id="qA44-4">④ 미래 세대를 위해 해양 생태계는 보전되어야 한다. 자외선 차단제가 환경에 미치는 영향을 줄이기 위해서는 공동체의 협력이 요구된다.</li>
+    <li id="qA44-5">⑤ 기후 변화에 따라 자외선 차단의 필요성이 커지고 있다. 성능이 뛰어난 자외선 차단제 사용으로 피부 건강을 지킬 수 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>조건: ①필요성 강조 ②효과 제시. ②: "성분 고려+사용량 줄이기"(필요성) + "해양 생태계와 인간의 삶을 지킬 수 있을 것"(효과). 두 조건 충족.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 조건 미충족.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>필요성(성분·사용량)+효과(생태계·삶 보호) 모두 충족.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA45">
+  <p class="q-stem">45. 다음은 '초고'를 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>[자료1-ㄱ] 자외선 차단 성분의 독성 발현 농도 및 규제 도입 전 검출 농도 / [자료1-ㄴ] 자외선 차단제 구매 시 고려 요인(기능, 성분, 가격 등) / [자료2] 산호의 경제적 가치 약 2조7천억달러, 업계에서 '옥시벤존 프리', '리프 세이프' 제품 선보임 / [자료3] 유입 경로(물놀이·샤워·세탁), 국내 규제는 인체 기준만</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA45-1">① [자료1-ㄱ]을 활용하여, 옥시벤존과 옥티노세이트가 독성 발현 기준치를 초과하는 농도로 하와이 해변에서 검출되었다는 내용을, 하와이 규제 배경으로 3문단에 추가한다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA45-2">② [자료2]를 활용하여, 경제적 가치가 높은 산호의 멸종 위기가 생계에 치명적인 영향을 미칠 수 있다는 내용을, 인간의 삶에 직결되는 문제의 또 다른 사례로 2문단에 추가한다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA45-3">③ [자료3]을 활용하여, 자외선 차단제가 물놀이와 샤워 등을 통해 바다에 유입되고 있다는 내용을, 자외선 차단제의 해양 유입 경로의 예시로 1문단에 추가한다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA45-4">④ [자료1-ㄴ]과 [자료2]를 활용하여, 자외선 차단제 업계가 기능에 대한 소비자의 선호도가 높다는 점에 착안하여 제품을 선보이고 있다는 내용을, 환경 유해성을 고려한 자외선 차단제 생산의 대안으로 4문단에 추가한다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA45-5">⑤ [자료1-ㄱ]과 [자료3]을 활용하여, 국내 자외선 차단제의 성분 함량 규제가 해양에 미치는 악영향을 간과하고 있다는 내용을, 자외선 차단제 생산 시 환경 유해성을 고려한 규제가 필요한 이유로 4문단에 추가한다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>[자료1-ㄴ]은 소비자가 기능을 중시한다는 내용인데, [자료2]에서 업계가 환경 친화적 제품을 선보인 이유는 기능 선호가 아니라 환경 의식 때문이다. ④에서 '기능에 대한 소비자 선호도가 높다는 점에 착안'이라고 한 것이 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>적절한 자료 활용.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>[자료1-ㄴ]과 [자료2]의 연결 논리가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
