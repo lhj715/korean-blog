@@ -1069,7 +1069,159 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set8" class="set-anchor"></div>
 
-## 31~34번 현대시 · [작성 예정]
+## 31~34번 현대시 · 김용호「고향으로 간다」/ 나희덕「그 골목 잃어버리고」— 상실과 성찰
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가): 없어진 고향을 향해 그리움으로 가는 화자. "고향으로 간다" 반복. (나): 판잣집 떠난 이들을 잃은 화자의 성찰. "그들은 떠났다" 반복.</p>
+  <ul>
+    <li><strong>㉠</strong> — (가)에서 낡은 옷=화자가 고향으로 가며 자신과 분리하는 것</li>
+    <li><strong>㉡</strong> — (나)에서 검은 재=화자가 주변 상황 변화(판잣집 무너짐)를 실감하게 하는 것</li>
+    <li><strong>ⓒ</strong> — "어떤 황혼에 물들며 서 있어야 하나" = 어떤 황혼인지에 대한 의문(이유 아님)</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 33번 ③: ⓒ=어떤 황혼인지 의문(이유에 대한 의문 아님), 34번 ④: 침대에 살면서 낮은 잠자리 기웃거리던 것=과거 행동(앞으로의 태도 고민 아님).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가)</strong></p>
+  <div class="poem-text">
+    <p><span class="ev" id="ev31-4a">어느 간절한 사람도 없는 곳 / 고향으로 간다</span><a class="ev-tag ans" href="#q31-4">31-④</a></p>
+    <p><span class="ev" id="ev32-2a">㉠낡은 옷 훌훌이 벗어 버리고</span><a class="ev-tag ans" href="#q32-2">32-②</a></p>
+    <p><span class="ev" id="ev33-1">세월이 흘러 / 내 ⓐ또한 흘러</span><a class="ev-tag" href="#q33-1">33-①</a></p>
+    <p><span class="ev" id="ev34-1">눈감아도 뛰놀던 예옛 어린 시절 / 좁은 골목 골목들이 서언하게 다가 오구나</span><a class="ev-tag" href="#q34-1">34-①</a></p>
+    <p>없는 고향이라 ⓑ사뭇 그리워<a class="ev-tag" href="#q33-2">33-②</a></p>
+    <p>그 그리움을 캐러 고향으로 내가 간다</p>
+    <p class="poem-source">— 김용호, 「고향으로 간다」 —</p>
+  </div>
+  <p><strong>(나)</strong></p>
+  <div class="poem-text">
+    <p><span class="ev ans" id="ev31-4b">그들은 떠났다</span><a class="ev-tag ans" href="#q31-4">31-④</a></p>
+    <p><span class="ev" id="ev32-2b">무너져내린 판잣집들, 흩어진 유리 조각, / ㉡검은 재를 밟으며 돌아오는 나에게</span><a class="ev-tag ans" href="#q32-2">32-②</a></p>
+    <p>나 이제 어떤 가벼움으로 살아야 하나</p>
+    <p>고향처럼 지나던 그 골목 잃어버리고 / 창 너머 백열등 불빛에 젖어 보던 저녁도 잃어버리고</p>
+    <p><span class="ev ans" id="ev33-3">재와 흙이 섞여가는 길 위에서 / ⓒ어떤 황혼에 물들며 서 있어야 하나</span><a class="ev-tag ans" href="#q33-3">33-③</a></p>
+    <p><span class="ev" id="ev34-4a">새 아파트에 살면서 그들의 / 때 묻은 벽지를 정겹다 말했던 나는 / 침대에 몸을 눕히고 살면서 그들의 / 낮은 잠자리 기웃거리던 나는</span><a class="ev-tag ans" href="#q34-4">34-④</a><a class="ev-tag" href="#q34-3">34-③</a></p>
+    <p><span class="ev" id="ev34-4b">잃어버렸다, 그들을, 또한 / 누군가의 가난을 필요로 했던 반성과 / 누군가의 비참을 필요로 했던 그리움을</span><a class="ev-tag" href="#q34-3">34-③</a></p>
+    <p>그들은 떠났다<a class="ev-tag" href="#q31-4">31-④</a></p>
+    <p>… ⓓ총총히 사라졌다<a class="ev-tag" href="#q33-4">33-④</a></p>
+    <p><span class="ev" id="ev33-5">내 마음의 덩굴손이여 / 너는 ⓔ또 어떤 누추함에 뿌리를 내리려느냐</span><a class="ev-tag" href="#q33-5">33-⑤</a></p>
+    <p class="poem-source">— 나희덕, 「그 골목 잃어버리고」 —</p>
+  </div>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. (가), (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① (가)는 감탄사를 사용하여 고조된 감정을 드러내고 있다.<a class="src-tag" href="#ev31-4a">지문 근거</a></li>
+    <li id="q31-2">② (가)는 명령적 어조를 활용하여 화자의 태도를 드러내고 있다.<a class="src-tag" href="#ev31-4a">지문 근거</a></li>
+    <li id="q31-3">③ (나)는 명사형으로 시상을 마무리하여 시적 여운을 주고 있다.<a class="src-tag" href="#ev33-5">지문 근거</a></li>
+    <li id="q31-4">④ (가)와 (나)는 모두, 동일한 시구를 반복하여 시적 상황을 강조하고 있다.<a class="src-tag ans" href="#ev31-4a">정답 근거</a></li>
+    <li id="q31-5">⑤ (가)와 (나)는 모두, 구체적인 청자를 설정하여 대상에 대한 친근감을 드러내고 있다.<a class="src-tag" href="#ev33-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>(가) "고향으로 간다" 반복. (나) "그들은 떠났다" 반복. 둘 다 동일 시구 반복.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>(가)(나) 모두 동일 시구 반복.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① ㉠은 화자가 상황이 변할 것이라는 확신을 갖게 하는 것이고, ㉡은 화자가 상황을 변화시키기 위해 준비하는 것이다.<a class="src-tag" href="#ev32-2a">지문 근거</a></li>
+    <li id="q32-2">② ㉠은 화자가 상황의 변화를 앞두고 자신과 분리하는 것이고, ㉡은 화자가 주변 상황의 변화를 실감하게 하는 것이다.<a class="src-tag ans" href="#ev32-2b">정답 근거</a></li>
+    <li id="q32-3">③ ㉠은 화자가 처한 상황이 변하게 된 원인을 보여 주는 것이고, ㉡은 화자가 자신의 변화로 인해 일어날 상황을 예상하게 하는 것이다.<a class="src-tag" href="#ev32-2a">지문 근거</a></li>
+    <li id="q32-4">④ ㉠과 ㉡은 모두, 화자가 주변 상황의 변화에 대응하기 위해 활용해야 하는 것이다.<a class="src-tag" href="#ev32-2a">지문 근거</a></li>
+    <li id="q32-5">⑤ ㉠과 ㉡은 모두, 화자가 주변 상황의 변화로부터 자신이 소외되고 있음을 깨닫게 하는 것이다.<a class="src-tag" href="#ev32-2a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>㉠: 고향으로 가며 낡은 옷 벗음=변화를 앞두고 자신과 분리. ㉡: 검은 재 밟으며 돌아옴=판잣집 무너진 변화 실감.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉠=변화 앞 자신과 분리, ㉡=변화 실감.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. ⓐ~ⓔ에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① ⓐ: '세월' 이외에 다른 존재도 흐른다는 것을 드러내는 표현이다.<a class="src-tag" href="#ev33-1">지문 근거</a></li>
+    <li id="q33-2">② ⓑ: '고향'을 '그리워'하는 감정의 깊이를 드러내는 표현이다.<a class="src-tag" href="#ev31-4a">지문 근거</a></li>
+    <li id="q33-3">③ ⓒ: '재와 흙이 섞여가는 길 위에서' 자신이 '황혼에 물들'어야 하는 이유에 대한 의문을 드러내는 표현이다.<a class="src-tag ans" href="#ev33-3">정답 근거</a></li>
+    <li id="q33-4">④ ⓓ: '그들'이 급하고 바쁘게 '사라졌다'는 것을 드러내는 표현이다.<a class="src-tag" href="#ev31-4b">지문 근거</a></li>
+    <li id="q33-5">⑤ ⓔ: '내 마음의 덩굴손'이 '누추함에 뿌리를 내리'는 행위가 과거에도 있었음을 드러내는 표현이다.<a class="src-tag" href="#ev33-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>ⓒ "어떤 황혼에 물들며 서 있어야 하나" = 어떤 황혼인지에 대한 의문. '이유'에 대한 의문이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>ⓒ=어떤 황혼인지 의문(이유 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>(가) 화자: 과거에 떠나온 삶의 공간이 이전 모습 잃었음에도 향함. (나) 화자: 삶에서 의미 부여했던 존재를 잃은 후 공간 변화를 계기로 과거 성찰 + 삶의 태도 고민.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q34-1">① (가)의 '눈감아도' '좁은 골목 골목들이 서언하게 다가'온다는 것에서 화자가 과거의 기억을 잊지 못하고 떠올리고 있음을 엿볼 수 있군.<a class="src-tag" href="#ev34-1">지문 근거</a></li>
+    <li id="q34-2">② (가)의 '그리움을 캐러 고향으로' '간다'는 것에서 화자가 떠나온 곳을 향해 가는 목적을 엿볼 수 있군.<a class="src-tag" href="#ev31-4a">지문 근거</a></li>
+    <li id="q34-3">③ (나)의 '그들의' '때 묻은 벽지를 정겹다 말했던 나'에 대해 '누군가의 가난을 필요로 했'다고 하는 것에서 화자가 과거의 모습을 성찰하고 있음을 엿볼 수 있군.<a class="src-tag" href="#ev34-4b">지문 근거</a></li>
+    <li id="q34-4">④ (나)의 '침대에 몸을 눕히고 살면서' '낮은 잠자리'를 '기웃거리'는 것에서 화자가 앞으로의 삶의 태도를 고민하고 있는 모습을 엿볼 수 있군.<a class="src-tag ans" href="#ev34-4a">정답 근거</a></li>
+    <li id="q34-5">⑤ (가)의 '끝내 잃어버려' '없는 고향'이라는 것에서 화자가 과거에 살던 공간이, (나)의 '그들은 떠'나고 '판잣집들'이 '무너져내'렸다는 것에서 화자가 의미를 부여했던 존재가 살던 공간이 이전과 달라졌음을 엿볼 수 있군.<a class="src-tag" href="#ev32-2b">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>"침대에 몸을 눕히고 살면서 그들의 낮은 잠자리 기웃거리던 나는"은 과거의 행동을 서술한 것이다. 앞으로의 삶의 태도를 고민하는 장면이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>과거 행동 서술. 앞으로의 태도 고민 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
