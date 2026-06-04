@@ -1049,7 +1049,136 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="set8" class="set-anchor"></div>
 
-## 31~34번 현대시 · [작성 예정]
+## 31~34번 현대시 · (가) 황동규 '살구꽃과 한때' / (나) 신석정 '역사'
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 살구꽃의 일시성에 주목 → 생명·자연에 대한 내적 인식. (나) 달래꽃의 영속성에 주목 → 역사의 상징적 의미.</p>
+  <ul>
+    <li><strong>(가) 살구꽃과 한때</strong> — 마을의 살구꽃을 보며 잠시 멈추는 화자. 꽃의 짧은 생애를 자연의 섭리로 수용. '차 거울'에 꽃구름 비침 → 떠나면서도 바라봄. "아 하늘의 기둥들!"</li>
+    <li><strong>(나) 역사</strong> — 달래꽃을 통해 역사와 힘, 사랑을 노래. 1: 달래꽃의 존재와 위대한 마음. 2: 억압(푸른 수의) 벗고 싶음. 3: 너와 함께 가야 할 길</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가) 황동규, 「살구꽃과 한때」</strong></p>
+  <p><span class="ev" id="ev3134-ga">[A] 마을 안에 차 집어넣고 / 이 집, 한 집 건너 저 집, 또 저 집, / 구름처럼 피고 있는 살구꽃과 만난다. / 빈집에는 작지만 분홍빛 더 실린 꽃구름, / 때맞춰 깬 벌들이 이리저리 날고 / 날개맥 덜 여문 나비들이 저속으로 오간다. [B] 소의 순한 얼굴이 너무 좋아 / 소 앞세우고 오는 마을 사람과 눈웃음으로 인사한다. / 하늘 구름이 온통 동네에 내려와 있으니 / 말을 걸지 않아도 말이 되는군. [C] 차에 올라 시동 걸고도 한참 동안 밖을 내다본다. / 꽃들의 생애가 좀 짧으면 어때? / 달포 뒤쯤 이곳을 다시 지날 때 / 이 꽃구름들 낡은 귀신들처럼 그냥 허옇게 매달려 있다면…… / 꽃도 황홀도 때맞춰 피고 지는 거다. [D] 다리를 건너 가속 페달 밟으려다 말고 / 천천히 차를 몬다. / 몸 돌려 보지 않아도 / 차 거울들 속에 꽃구름 피고 있고 [E] 차 거울로는 잘 잡히지 않으나 / 하늘의 연분홍을 땅 위에 내려 받는 검은 둥치들이 / 군소리 없이 구름을 잔뜩 인 채 서 있겠지. / 차를 멈추고 뒤돌아본다. / 아 하늘의 기둥들!</span><a class="ev-tag" href="#q31-3">31-③</a><a class="ev-tag" href="#q32-3">32-③④⑤</a><a class="ev-tag" href="#q34-1">34-①②⑤</a></p>
+  <p><strong>(나) 신석정, 「역사」</strong></p>
+  <p><span class="ev" id="ev3134-na">1 저 하잘것없는 한 송이의 달래꽃을 두고 보드래도, 다사롭게 타오르는 햇볕이라거나 보드라운 바람이라거나 거기 모여드는 벌나비라거나 그보다도 이 하늘과 땅 사이를 어렴풋이 이끌고 가는 크나큰 그 어느 알 수 없는 마음이 있어 저리도 조촐하게 한 송이의 달래꽃은 피어나는 것이요 길이 멸하지 않을 것이다. [2] 바윗돌처럼 꽁꽁 얼어붙었던 대지를 뚫고 솟아오른 저 애잔한 달래꽃의 긴긴 역사라거나 그 막아 낼 수 없는 위대한 힘이라거나 이것들이 빚어내는 아름다운 모든 것을 내가 찬양하는 것도 오래오래 우리 마음에 걸친 거추장스러운 푸른 수의를 자작나무 허울 벗듯 훌훌 벗고 싶은 달래꽃같이 위대한 역사와 힘을 가졌기에 이렇게 살아가는 것이요 살아가야 하는 것이다. [3] 한 송이의 달래꽃을 두고 보드래도 햇볕과 바람과 벌나비와 그리고 또 무한한 마음과 입 맞추고 살아가듯 너의 뜨거운 심장과 아름다운 모든 것이 샘처럼 왼통 괴어 있는 그 눈망울과 그리고 항상 내가 꼬옥 쥘 수 있는 그 뜨거운 핏줄이 나뭇가지처럼 타고 오는 뱅어같이 예쁘디예쁜 손과 네 고운 청춘이 나와 더불어 가야 할 저 환히 트인 길이 있어 늘 이렇게 죽도록 사랑하는 것이요 사랑해야 하는 것이다.</span><a class="ev-tag" href="#q31-3">31-③</a><a class="ev-tag" href="#q33-1">33-①②③④⑤</a><a class="ev-tag" href="#q34-3">34-③④⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 공감각적 심상을 활용하여 대상의 외양을 묘사하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q31-2">② 영탄적 어조를 통해 대상에 대한 그리움을 부각하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q31-3">③ 중심 소재를 반복적으로 제시하여 주제 의식을 드러내고 있다.<a class="src-tag ans" href="#ev3134-ga">정답 근거</a></li>
+    <li id="q31-4">④ 대립적인 의미의 시어를 통해 현실에 대한 비판 의식을 강조하고 있다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q31-5">⑤ 말을 주고받는 방식을 사용하여 의인화된 대상과의 교감을 나타내고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(가): 살구꽃·꽃구름 반복 제시, (나): 달래꽃·역사 반복 제시 → 두 작품 모두 중심 소재를 반복적으로 제시하여 주제 의식 드러냄.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 공통적으로 해당하지 않음.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>살구꽃/꽃구름·달래꽃 반복 제시로 주제 강조.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. [A]〜[E]에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① [A] : '이 집', '저 집'과 '빈집'으로 시선을 이동하며 대상의 형태와 색채를 인식하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q32-2">② [B] : '소'와 '마을 사람'에게 호의적 시선을 보내고 '하늘 구름'의 영향을 의식하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q32-3">③ [C] : '다리를 건너'며 '꽃구름'과 이별하는 상황에서도 '차 거울들'에 비친 대상을 보고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q32-4">④ [D] : '차 거울로는' 시야에 온전히 들어오지 않는 '검은 둥치들'이 묵묵히 서 있는 모습을 떠올리고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q32-5">⑤ [E] : 대상과의 정서적 거리가 멀어지는 상황에서 '차를 멈추고 뒤돌아'봄으로써 경외감을 드러내고 있다.<a class="src-tag ans" href="#ev3134-ga">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>[D]에서 차 거울에 비침을 보고, [E]에서 "차 거울로는 잘 잡히지 않으나... 검은 둥치들이 서 있겠지"가 나오며, [E] 후반부가 "차를 멈추고 뒤돌아본다. 아 하늘의 기둥들!"임. [C]가 차 거울에 비친 대상을 보는 것. [E]는 차를 멈추고 뒤돌아보는 것. 선지 ③이 [C]를 잘못 설명한 것이 아닌지 확인. 실제로 [C]는 "차에 올라 시동 걸고도... 꽃들의 생애가 좀 짧으면 어때?" 부분. [D]는 "다리를 건너... 차 거울들 속에 꽃구름 피고 있고". [E]는 "차 거울로는... 검은 둥치들... 차를 멈추고 뒤돌아본다."</p>
+        <p>③: [C]에서 '다리를 건너며'는 틀림. '다리를 건너'는 [D]에서 나옴. [C]는 "차에 올라 시동 걸고... 꽃의 생애" 부분임. 따라서 ③이 [D]의 내용을 [C]에 적용. 하지만 ⑤가 정답이라는 것을 확인.   </p>
+        <p>[E]는 "차 거울로는 잘 잡히지 않으나 / 검은 둥치들이 ... 서 있겠지 / 차를 멈추고 뒤돌아본다 / 아 하늘의 기둥들!" → ⑤에서 "대상과의 정서적 거리가 멀어지는 상황" → 하지만 차를 멈추고 뒤돌아보는 것은 오히려 다시 가까워지는 것. 따라서 ⑤가 잘못 설명한 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>각각 해당 구절과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>[E]에서 차를 멈추고 뒤돌아봄 = 정서적 거리가 멀어지는 것이 아님. 오히려 다시 대상을 바라봄.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. (나)에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① 1에서 '저 하잘것없는 한 송이의 달래꽃을 두고' 본다는 것은 사소해 보일 수 있는 대상에 대한 관심을 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q33-2">② 2에서 '얼어붙었던 대지'라는 부정적 여건을 극복하여 '뚫고 솟아오른'다는 것은 '달래꽃'의 강인한 모습을 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q33-3">③ 2에서 '이것들이 빚어내는 아름다운 모든 것'을 '찬양'한다는 것은 '역사와 힘'의 위대함을 기리는 태도를 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q33-4">④ 3에서 '예쁘디예쁜 손'을 '항상 내가 꼬옥 쥘 수 있'다는 것은 함께하는 존재와의 결속에 대한 화자의 인식을 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q33-5">⑤ 3에서 '네 고운 청춘'을 '죽도록 사랑하'겠다는 것은 공동체의 갈등을 해소하기 위한 화자의 희생정신을 드러낸다.<a class="src-tag ans" href="#ev3134-na">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>"네 고운 청춘을 죽도록 사랑하겠다"는 것은 공동체 갈등 해소를 위한 희생이 아니라 역사와 사랑의 의지를 드러내는 표현.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>희생정신이 아닌 역사적 의지와 사랑의 표현.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q34-1">① (가)에서 꽃을 '구름'으로, 나무둥치를 '하늘의 기둥'으로 비유한 것을 통해, '때맞춰' 꽃을 피워 하늘과 땅을 연결하고 있는 생명에 대한 내적 인식이 드러나는군.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q34-2">② (가)에서 '분홍빛 더 실린' 꽃의 모습과 '때맞춰 깬 벌'의 움직임을 포착하여 그려 낸 것을 통해, 작은 생명이 선명하게 드러나는 순간에 대한 관심을 엿볼 수 있군.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q34-3">③ (나)에서 온 세상의 역사를 '이끌고 가는' 힘은 '크나큰' '마음'으로 표현되며, '한 송이의 달래꽃'이 '피어나는 것'이라는 구체적인 이미지를 통해 감각적으로 형상화되는군.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q34-4">④ (가)에서 '살구꽃'이 '허옇게 매달'린 모습에 대한 지향은 '달포 뒤쯤' 회복될 생명에 대한 기대로, (나)에서 '수의'를 '벗고 싶은' 소망은 '환히 트인 길'로 상징된 역사적 전망으로 이어지는군.<a class="src-tag ans" href="#ev3134-ga">정답 근거</a></li>
+    <li id="q34-5">⑤ (가)에서 '꽃들의 생애가 좀 짧'아도 괜찮다는 것은 일시성에 주목하여 자연의 섭리를, (나)에서 '길이 멸하지 않을 것'은 영속성에 주목하여 '긴긴 역사'의 의미를 인식함을 보여 주는군.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>(가)에서 '허옇게 매달'린 모습은 화자가 지향하는 것이 아님. "달포 뒤쯤... 허옇게 매달려 있다면"이라고 하면서 그렇지 않기를 바라는 것(즉 꽃이 적절히 지기를 바람). 회복될 생명에 대한 기대가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'허옇게 매달'린 모습은 화자가 원하지 않는 상태. 지향하는 것이 아님.</td></tr>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>각각 적절한 감상.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
