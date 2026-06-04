@@ -16,17 +16,17 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 </section>
 ## 1~3번 화법 · 발표 속 의문문의 기능
 
-<div class="read-guide">
-  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+<div class=”read-guide”>
+  <div class=”read-guide-head”>이 지문, 이렇게 읽는다</div>
   <p>발표·화법 지문은 <strong>무엇을 설명했나(내용)</strong>와 <strong>어떻게 설명했나(방식)</strong>를 따로 챙겨야 한다. 이 발표는 그 둘이 모두 문제로 나왔다.</p>
   <ul>
-    <li><strong>내용 뼈대</strong> — 의문문 → 판정 의문문 / 설명 의문문 → <em>판정 의문문은 ‘행동을 요구’하는 의미도 가질 수 있다</em> → 그때는 대답만으로 부족하고 <strong>행동까지 해야</strong> 소통이 성공한다.</li>
+    <li><strong>내용 뼈대</strong> — 의문문 → 판정 의문문 / 설명 의문문 → <em>판정 의문문은 '행동을 요구'하는 의미도 가질 수 있다</em> → 그때는 대답만으로 부족하고 <strong>행동까지 해야</strong> 소통이 성공한다.</li>
     <li><strong>방식 특징</strong> — 발표자가 계속 “~나요?” 하고 묻고 청중 반응을 살핀다(= 상호 작용).</li>
   </ul>
-  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — ‘행동을 요구하는 판정 의문문’이 이 지문의 핵심 장치다. 2번·3번이 전부 여기서 나온다.</p>
+  <p class=”read-guide-tip”><strong>출제 포인트 예고</strong> — '행동을 요구하는 판정 의문문'이 이 지문의 핵심 장치다. 2번·3번이 전부 여기서 나온다.</p>
 </div>
 
-<div class="passage">
+<div class=”passage”>
   <p class="passage-guide">[1 ~ 3] 다음은 수업 시간 중 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆의 번호는 해당 문항·선지를 가리킵니다. <span class="click-hint">번호를 누르면 그 문제로, 선지의 ‘지문 근거’를 누르면 이 밑줄로 이동합니다.</span> (예: 1-④ = 1번 ④의 근거)</span></p>
   <p>안녕하세요. <span class="ev" id="ev1">지난 수업 시간에 선생님께서 다음 발표 순서가 누구인지 물어보셨는데요. 이렇게 화자가 청자에게 질문하여 대답을 요구하는 문장을 의문문이라고 합니다.</span><a class="ev-tag" href="#q2-1">2-①</a> 오늘은 의문문에 대해 발표하겠습니다.</p>
   <p>의문문에는 판정 의문문과 설명 의문문 등이 있습니다. <span class="ev" id="ev2">판정 의문문은 화자의 질문에 긍정 또는 부정의 대답을 요구하는 문장입니다.</span><a class="ev-tag" href="#q2-2">2-②</a><a class="ev-tag" href="#q3-1">3-①</a> <span class="ev ans" id="ev3">여러분, 판정 의문문의 개념이 이해되었나요? (청중의 반응을 살핀 후)</span><a class="ev-tag ans" href="#q1-4">1-④</a> 대답 감사합니다. 방금 제가 한 질문은 “네.” 혹은 “아니요.”와 같은 대답을 요구하는 판정 의문문입니다. 반면, <span class="ev" id="ev4">설명 의문문은 화자의 질문에 구체적인 설명을 대답으로 요구하는 문장입니다.</span><a class="ev-tag" href="#q3-2">3-②</a> 예를 들어 “우리 언제 어디에서 만날까?”는 청자에게 “내일 12시에 학교에서 만나.”와 같이 ‘언제’, ‘어디’에 대한 정보를 요구하는 설명 의문문입니다.</p>
