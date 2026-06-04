@@ -1,9 +1,8 @@
 ---
-draft: true
 title: "2016년 9월 고2 국어 기출 분석"
 category: "학력평가"
 date: 2016-09-01
-keywords: ["고2", "2016년 9월", "학력평가", "국어", "기출 분석"]
+keywords: ["고2", "2016년 9월", "학력평가", "국어", "기출 분석", "근거 표시", "혼자 공부"]
 summary: "2016년 9월 고2 전국연합학력평가 국어 기출 분석 — 발문 해석·선지 판단·오답 함정까지 담은 풀이."
 ---
 
@@ -18,902 +17,1879 @@ summary: "2016년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div id="set1" class="set-anchor"></div>
 
+## 1~3번 화법 · 발표
+
 <div class="q-block" id="prob1">
-  <p class="q-stem">1. 문제</p>
+  <p class="q-stem">1. [A]~[E]에 나타난 대담 참여자의 말하기 방식에 대한 설명으
+로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q1-1">① 오답 선지</li>
-    <li id="q1-2">② 오답 선지</li>
-    <li id="q1-3">③ 오답 선지</li>
-    <li id="q1-4">④ 정답 선지</li>
-    <li id="q1-5">⑤ 오답 선지</li>
+    <li id="q1-1">① [A] : 진행자는 화제 선정의 배경을 밝히며 대담의 내용을 안내하고 있다.</li>
+    <li id="q1-2">② [B] : 사학자는 진행자의 질문에 대한 구체적 정보를 제공하 고 있다.</li>
+    <li id="q1-3">③ [C] : 사학자는 진행자의 요청에 따라 관련 내용을 추가적으 로 설명하며 화제의 의의를 밝히고 있다.</li>
+    <li id="q1-4">④ [D] : 사학자는 진행자의 배경지식을 확인하며 용어의 개념을 제시하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li>
+    <li id="q1-5">⑤ [E] : 진행자는 앞선 내용을 정리하며 다음 내용을 소개하고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>대화 참여자의 말하기 방식 파악하기
+  사학자는 ‘팔만대장경판’에 대해 설명하고 있지만 진행자의 배경지식을 확인하고 있지도 않
+고, 용어의 개념에 대한 설명을 제시하고 있지도 않다. 
+  ① ‘강화도조약 체결 140주년’이라는 화제 선정의 배경을 밝히며, ‘강화 지역의 역사’에 
+대해 알아보겠다고 안내하고 있다. ② 사학자는 ‘강화도조약’의 정확한 명칭과 의미에 대해 
+설명하고 있다. ③ 사학자는 강화가 ‘민족의 자주정신을 보여주는 곳’이라는 설명을 추가하
+고 있다. ⑤ 진행자는 비유적인 표현을 통해 대담의 내용을 정리하고 다음 내</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob2">
-  <p class="q-stem">2. 문제</p>
+  <p class="q-stem">2. <보기>는 위에 제시된 대담 내용을 바탕으로 학생들이 나눈 
+대화이다. ㉠과 ㉡에 들어갈 내용으로 가장 적절한 것은?
+  
+<보 기>
+학생1 한국사 발표 과제는 다 했어?
+학생2 응, 강화 지역을 소개하는 내용으로 만들었는데, 한
+번 볼래? 과제 제목은 의인법을 활용했고, 부제는 대
+담의 핵심 내용을 바탕으로 만들어 봤어.
+제목: 
+               ㉠
+  부제: 
+          
+ ㉡
+  발표일: 2016. 9. 1.
+  발표자: ○○○</p>
   <ul class="q-opts">
-    <li id="q2-1">① 정답 선지</li>
-    <li id="q2-2">② 오답 선지</li>
-    <li id="q2-3">③ 오답 선지</li>
-    <li id="q2-4">④ 오답 선지</li>
-    <li id="q2-5">⑤ 오답 선지</li>
+    <li id="q2-1">① ㉠: 역사의 살아 있는 증인, 강화 ㉡: 선사, 고려, 조선에 걸친 강화 역사의 흔적 찾아보기<a class="src-tag ans" href="#ev2">정답 근거</a></li>
+    <li id="q2-2">② ㉠: 우리나라 전략적 요충지, 강화 ㉡: 외세에 맞선 우리 민족의 자주정신 배워보기</li>
+    <li id="q2-3">③ ㉠: 우리 역사를 기억하는 고장, 강화 ㉡: 선사 시대 집터를 중심으로 옛 유적 답사하기</li>
+    <li id="q2-4">④ ㉠: 역사의 선율이 흐르는 고장, 강화 ㉡: 문화 유적의 가치를 중심으로 강화에 대한 자긍심 느껴보기</li>
+    <li id="q2-5">⑤ ㉠: 우리 민족의 저항과 긍지의 땅, 강화 ㉡: 강화도조약을 중심으로 근대 조약의 역사 둘러보기 2 국어영역 고2 2 16 [3~5] 다음의 (가)는 발표 준비를 위한 학생들 간의 대화이고, (나)는 수업 중‘학생 1’의 발표이다. 물음에 답하시오. (가) 학생 1 : 이번에 정보 전달을 목적으로 발표하는 과제 있잖 아. 어떤 내용으로 발표를 하는 것이 좋을까? 학생 2 : 며칠 전 뉴스를 보니 새 우편 번호 제도에 대해 사 람들이 잘 모른다는 내용이 보도되었는데, 그건 어떨까? 학생 1 : 괜찮은 생각이다. 그런데 새 우편 번호와 관련된 정 보는 어디서 얻어야 하지? 학생 2 : 그에 대한 정보는 ‘우정사업본부’ 홈페이지를 통해 얻을 수 있을 거야. 학생 1 : 고마워. 덕분에 발표 준비를 잘 할 수 있을 것 같아. (나) ‘04383’, 이 숫자는 우리 학교 근처에 있는 국립중앙박물관 의 우편 번호입니다. 기존의 6자리 우편 번호가 최근 새롭게 5자리로 바뀌었는데, 여러분은 5자리 숫자 구성의 의미에 대 해 아시나요? (모른다는 대답을 들은 후) 2015년 8월 1일부 터 새 우편 번호를 사용하고 있지만, 숫자의 구성 의미는 물 론이고 바뀐 제도에 대해 모르는 사람들이 많아, 이에 대해 알려드리고자 합니다. 먼저, 우편 번호를 왜 바꾸었을까요? (청중을 둘러보고) 그 이유는 바로 ‘도로명 주소’ 때문입니다. 정부에서는 도로 명 주소를 시행하면서 우리나라를 작은 경계로 나누고, 각 지역마다 5자리로 구성된 국가기초구역번호를 부여하였는데, 이를 새 우편 번호로 활용하게 된 것입니다. 그럼 새 우편 번호가 어떻게 구성되어 있는지 살펴보겠습니 다. (지도를 보여 주며) 지도에 나타난 것처럼 우편 번호 중 앞 3자리는 특별시 및 광역시· 도와 시· 군· 자치구를, 뒤 2자 리는 해당 시· 군· 자치구 내에서 북서에서 남동 방향으로 00 부터 99까지 부여된 일련번호를 나타냅니다. 서울특별시 용산 구는 앞 3자리가 043~044로 구성되어 있으므로, ‘04383’이 라는 우편 번호를 통해 국립중앙박물관이 용산구 내에서 84 번째 구역에 위치하고 있다는 점을 알 수 있습니다. 하지만 아직까지 많은 사람들이 새 우편 번호를 잘 모르는 것이 사실입니다. (사진을 보여 주며) 그래서 정부에서는 새 우편 번호를 홍보하기 위해 사진에서 보는 바와 같이 우리나 라 전 가구에 우편 번호 변경 안내문을 발송하고, 각 건물의 번호판에 새 우편 번호 스티커를 부착하는 한편, 각종 매체 를 통해 새 우편 번호를 알리고 있습니다. 그렇다면 새 우편 번호의 장점은 무엇일까요? (시계를 확 인하며) 원래는 인터뷰 자료를 준비했는데, 시간 관계상 해 당 내용을 간략하게 말씀드리겠습니다. 새 우편 번호는 도로 명 주소 체계를 활용하기 때문에 우편물 배달 서비스가 개선 될 수 있습니다. 또한 우편 번호의 자릿수가 줄어들어 국민 들이 쉽게 인지할 수 있다는 것도 장점이라고 합니다. 오늘 이 시간을 통해 새 우편 번호에 대한 여러분들의 관심이 높 아졌기를 바라며 이상으로 발표를 마치겠습니다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>조건에 맞는 표현하기
+  ㉠은 ‘강화’를 ‘증인’으로 의인화하였으며, ㉡은 대담의 핵심 내용인 시대별 강화의 역사를 
+드러내고 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob3">
-  <p class="q-stem">3. 문제</p>
+  <p class="q-stem">3. (가)에서 ‘학생 2’의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q3-1">① 오답 선지</li>
-    <li id="q3-2">② 오답 선지</li>
-    <li id="q3-3">③ 정답 선지</li>
-    <li id="q3-4">④ 오답 선지</li>
-    <li id="q3-5">⑤ 오답 선지</li>
+    <li id="q3-1">① 상대방의 관심을 고려하여 화제를 전환하고 있다.</li>
+    <li id="q3-2">② 상대방의 말을 반복하면서 의도를 파악하고 있다.</li>
+    <li id="q3-3">③ 상대방의 질문에 대해 해결 방안을 제시하고 있다.<a class="src-tag ans" href="#ev3">정답 근거</a></li>
+    <li id="q3-4">④ 상대방의 경험을 환기하며 대화를 이끌어 내고 있다.</li>
+    <li id="q3-5">⑤ 상대방의 발언 내용을 요약하며 대화를 진행하고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>말하기 전략 파악하기
+  ‘학생 2’는 ‘학생 1’의 질문에 대해, 발표 주제를 제안하고 그와 관련된 정보를 어디서 얻을 
+수 있는지 이야기하고 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set2" class="set-anchor"></div>
+
+## 4~7번 화법·작문 · 화작
+
 <div class="q-block" id="prob4">
-  <p class="q-stem">4. 문제</p>
+  <p class="q-stem">4. 다음은 ‘학생 1’이 발표를 준비하는 과정에서 검색한 인터넷 게
+시판의 일부이다. ㉠~㉤ 중 (나)에서 답을 확인할 수 없는 것은? 
+  
+질 문 내 용 
+Q : 우편 번호는 왜 새롭게 개편되었나요? ····················· ㉠
+Q : 새 우편 번호는 언제부터 사용되었나요? ·················· ㉡
+Q : 새 우편 번호는 어떤 방식으로 구성되어 있나요? ····· ㉢
+Q : 기존의 우편 번호는 언제까지 사용할 수 있나요? ····· ㉣
+Q : 기존의 우편 번호보다 새 우편 번호가 더 좋은 점은 
+무엇인가요? ································································ ㉤</p>
   <ul class="q-opts">
-    <li id="q4-1">① 오답 선지</li>
-    <li id="q4-2">② 오답 선지</li>
-    <li id="q4-3">③ 오답 선지</li>
-    <li id="q4-4">④ 정답 선지</li>
-    <li id="q4-5">⑤ 오답 선지</li>
+    <li id="q4-1">① ㉠</li>
+    <li id="q4-2">② ㉡</li>
+    <li id="q4-3">③ ㉢</li>
+    <li id="q4-4">④ ㉣<a class="src-tag ans" href="#ev4">정답 근거</a></li>
+    <li id="q4-5">⑤ ㉤</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>발표 내용의 반영 여부 파악하기
+  ‘학생 1’은 새 우편 번호의 개편 이유와 시행 시기, 구성 방법, 장점 등에 대해 설명하고 
+있다. 하지만 기존 우편 번호의 사용 기한에 대해서는 언급하지 않고 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob5">
-  <p class="q-stem">5. 문제</p>
+  <p class="q-stem">5. 다음의 항목을 바탕으로 (나)를 평가했을 때, 적절하지 않은 
+것은? [3점]
+  
+평 가 항 목
+◦정보 전달의 목적에 맞는 화제를 선정하였는가? ············ ⓐ
+◦발표 내용에 적합한 매체 자료를 사용하였는가? ············ ⓑ
+◦발표에 활용한 매체 자료의 출처를 밝히고 있는가? ········ ⓒ
+◦발표 시간을 고려하여 발표 내용을 전달하고 있는가? ···· ⓓ
+◦청중들이 발표 내용을 이해하고 있는지 확인하였는가? ···· ⓔ</p>
   <ul class="q-opts">
-    <li id="q5-1">① 오답 선지</li>
-    <li id="q5-2">② 오답 선지</li>
-    <li id="q5-3">③ 오답 선지</li>
-    <li id="q5-4">④ 오답 선지</li>
-    <li id="q5-5">⑤ 정답 선지</li>
+    <li id="q5-1">① ⓐ: 청중들이 잘 알지 못하는 화제를 선정하여 관련 정보를 전달하고 있군.</li>
+    <li id="q5-2">② ⓑ: 화제와 관련된 지도와 사진 같은 시각 자료를 활용하고 있군.</li>
+    <li id="q5-3">③ ⓒ: 자료의 출처에 대해서는 구체적으로 언급하지 않고 있군.</li>
+    <li id="q5-4">④ ⓓ: 기존의 발표 계획을 수정하며 발표 시간을 조절하고 있군.</li>
+    <li id="q5-5">⑤ ⓔ: 발표한 내용에 대한 확인 질문을 통해 청중의 이해 여부 를 점검하고 있군. 고2 국어영역 3 3 16 [6~8] 다음을 읽고 물음에 답하시오. 작문 상황 폐전자제품에서 금속을 추출하는 도시 광산이 운영의 어려움 을 겪고 있다는 신문 기사를 읽고 이에 관한 글을 쓰기로 함. 개요 Ⅰ. 처음 ◦도시 광산의 개념 소개 ◦도시 광산 운영의 어려움 제시····························· ㉠ Ⅱ. 중간 ◦도시 광산의 필요성 - 천연 광산보다 높은 효율성······························ ㉡ - 희소금속의 확보 수단······································· ㉢ ◦도시 광산의 활성화 방안 - 폐전자제품에서의 금속 추출 기술 개발·········· ㉣ - 폐전자제품 수거에 적극 동참·························· ㉤ - 폐전자제품 수거 서비스 홍보 Ⅲ. 끝 ◦도시 광산의 필요성 요약 ◦폐전자제품 수거에 대한 관심 촉구 초고 재활용은 환경을 보호하면서 자원도 재생산할 수 있다는 장점이 있다. 도시 광산은 폐전자제품에서 금속을 추출하여 자원으로 되돌리는 재활용 산업이다. 그런데 도시 광산이 원 료인 폐전자제품을 충분히 확보하지 못해 운영에 어려움을 겪고 있다고 한다. 도시 광산은 천연 광산에 비해 효율성이 높다. 동일한 무 게의 원료에서 더 많은 양의 금속 자원을 얻을 수 있기 때문 이다. 예를 들어, 금광석 1톤에서는 약 5g의 금이, 같은 양의 휴대전화에서는 약 400g의 금이 추출된다. 또한 도시 광산은 몰리브덴, 니켈 등과 같은 희소금속의 확보 수단이 된다. 희 소금속은 지구상에 존재하는 양이 적은 금속을 말하는데 가 격이 높고, 수요에 비해 공급이 불안정하다. 도시 광산은 이 로 인한 문제를 해결할 수 있다. 그렇다면 도시 광산을 활성화하기 위해서 우리가 할 수 있 는 일은 무엇일까? 먼저, 도시 광산의 원료가 되는 폐전자제 품 수거에 적극적으로 참여해야 한다. 폐휴대전화, 고장 난 액정 모니터나 PC 등을 일반 쓰레기로 버리지 말고 집 근처 관공서에 설치된 폐전자제품 수거함을 이용해 배출해야 한 다. 또한 폐전자제품 무상 방문 수거 서비스도 있다고 하니 SNS와 같은 매체를 활용하여 많은 사람들에게 이를 알려야 할 것이다. ⓐ<a class="src-tag ans" href="#ev5">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>발표 내용 평가하기
+  ‘학생 1’은 청중의 배경지식을 확인하기 위해 질문을 하고 있으나, 발표한 내용을 확인하기 위해 
+질문을 하는 것은 아니다. 
+  ① 새 우편 번호에 관해 모르는 사람들을 위해 그에 관한 정보를 전달하고 있다. ② 지도를 활용
+하여 새 우편 번호의 구성을, 사진 자료를 활용하여 새 우편 번호에 대한 정부의 홍보 방법을 말하
+고 있다. ③ 발표에 활용한 지도와 사진의 출처는 밝히지 않았다. ④ 주어진 시간을 고려하여 인터
+뷰 자료를 요약하여 제시하고 있다.
+
+** 작문 **</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob6">
-  <p class="q-stem">6. 문제</p>
+  <p class="q-stem">6. ‘개요’의 ㉠~㉤ 중 ‘초고’에 반영되지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q6-1">① 오답 선지</li>
-    <li id="q6-2">② 오답 선지</li>
-    <li id="q6-3">③ 오답 선지</li>
-    <li id="q6-4">④ 정답 선지</li>
-    <li id="q6-5">⑤ 오답 선지</li>
+    <li id="q6-1">① ㉠</li>
+    <li id="q6-2">② ㉡</li>
+    <li id="q6-3">③ ㉢</li>
+    <li id="q6-4">④ ㉣<a class="src-tag ans" href="#ev6">정답 근거</a></li>
+    <li id="q6-5">⑤ ㉤</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>글쓰기 계획 파악하기
+  개요대로라면 ㉣은 초고의 3단락에 제시되어야 하지만 그 부분에는 도시 광산의 활성화 
+방안이 제시되었고, ‘폐전자제품에서의 금속 추출 기술 개발’에 관한 내용은 확인할 수 없
+다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob7">
-  <p class="q-stem">7. 문제</p>
+  <p class="q-stem">7. ‘초고’를 수정․ 보완하는 과정에서 다음 자료를 활용하는 방안
+으로 가장 적절한 것은? [3점]
+  
+활용 자료
+(가) 전 세계 자원의 채굴 가능 연도 (○○환경연구원, 2014년)
+ (나) 연간 발생하는 폐전자제품 정보 (○○연구소, 2014년)
+휴대전화
+액정 모니터
+PC
+희소금속 함유량(g/대)
+11.5
+344.0
+61.8 
+폐전자제품 발생량(대)
+18,275,000
+3,361,000
+3,790,000
+폐전자제품에 함유된 
+희소금속의 가치
+70억 원
+214억 원
+60억 원</p>
   <ul class="q-opts">
-    <li id="q7-1">① 오답 선지</li>
-    <li id="q7-2">② 오답 선지</li>
-    <li id="q7-3">③ 정답 선지</li>
-    <li id="q7-4">④ 오답 선지</li>
-    <li id="q7-5">⑤ 오답 선지</li>
+    <li id="q7-1">① (가) : 채굴 가능한 자원이 고갈되고 있는 상황을 첫째 단락에 추 가하여 도시 광산 운영의 어려움을 구체적으로 드러낸다.</li>
+    <li id="q7-2">② (가) : 몰리브덴과 니켈의 고갈 시기를 둘째 단락에 추가하여 도시 광산에서 추출하는 희소금속의 종류를 늘려야 함 을 강조한다.</li>
+    <li id="q7-3">③ (나) : 폐전자제품에 함유된 희소금속의 경제적 가치를 둘째 단락에 추가하여 도시 광산의 필요성을 부각한다.<a class="src-tag ans" href="#ev7">정답 근거</a></li>
+    <li id="q7-4">④ (나) : 휴대전화의 희소금속 함유량이 가장 적다는 것을 셋째 단락에 추가하여 폐휴대전화의 발생량을 늘리기 위한 방안을 모색해야 한다는 점을 언급한다.</li>
+    <li id="q7-5">⑤ (가), (나) : 자원이 부족해지는 상황에서 폐전자제품이 그 대 안이 될 수 있다는 내용을 셋째 단락에 추가하여 전자제 품에 희소금속 함유량을 늘려야 한다는 것을 강조한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>자료 활용의 적절성 파악하기
+  (가)를 통해 채굴 가능한 자원이 점점 고갈될 것이라는 점을, (나)를 통해 폐전자제품에 
+함유된 희소금속의 경제적 가치가 높다는 점을 알 수 있다. 따라서 도시 광산의 필요성을 
+언급한 둘째 단락에 (나)와 관련한 내용을 추가하면 그 필요성이 더욱 부각된다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
+## 8~10번 작문 · 작문
+
 <div class="q-block" id="prob8">
-  <p class="q-stem">8. 문제</p>
+  <p class="q-stem">8. ‘개요’의 [A]에 따라 작성한 ⓐ의 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q8-1">① 오답 선지</li>
-    <li id="q8-2">② 오답 선지</li>
-    <li id="q8-3">③ 정답 선지</li>
-    <li id="q8-4">④ 오답 선지</li>
-    <li id="q8-5">⑤ 오답 선지</li>
+    <li id="q8-1">① 도시 광산은 국가 경쟁력을 확보할 수 있는 산업이다. 따라 서 관공서에서는 폐전자제품 수거함을 설치해야 한다.</li>
+    <li id="q8-2">② 도시 광산은 자원을 재생산한다는 점에서 무엇보다 의미 있 는 산업이다. 폐전자제품을 재활용하여 폐기물 발생을 줄임 으로써 환경을 보호해야 한다.</li>
+    <li id="q8-3">③ 도시 광산을 통해 금속 자원을 효율적으로 추출하고 희소금 속을 확보할 수 있다. 따라서 도시 광산의 원료인 폐전자제 품의 수거에 관심을 가져야 한다.<a class="src-tag ans" href="#ev8">정답 근거</a></li>
+    <li id="q8-4">④ 폐전자제품은 쓰레기가 아니라 도시 광산의 원료가 된다. 많 은 장점을 지닌 도시 광산이 활성화되기 위해서는 폐전자제 품을 지정된 장소에 배출해야 한다.</li>
+    <li id="q8-5">⑤ 희소금속은 전자제품에 꼭 필요하지만 가격이 높고 공급이 불안정하다. 그렇기 때문에 희소금속을 안정적으로 확보하기 위해 도시 광산이 활성화되도록 관심을 기울여야 한다. [A] 4 국어영역 고2 4 16 [9~10] 다음은 한 학생이 진로 체험 활동을 하고 쓴 보고서의 초고이다. 물음에 답하시오. 나는 어릴 적부터 만화 그리기를 좋아했다. ‘캐릭터 디자이 너’가 꿈인 나는 아침 독서 시간마다 책은 읽지 않고 ⓐ번번히 연습장에 만화를 그리곤 했다. 그 모습을 지켜보던 선생님께 서 어느 날, ㉠“책 속에 길이 있단다.”라고 말씀하셨다. 그 이후에도 선생님께서 여러 번 독서를 권장하시면서 읽을 만 한 책도 ⓑ소개시켜 주셨지만 나는 여전히 만화를 그리며 아침 시간을 보냈다. 지난 달, 진로 체험을 위해 애니메이션을 제작하는 ○○회 사를 방문했다. 마침 역사 만화 속 캐릭터 개발 회의가 있어 참관하게 되었는데, 디자이너들의 해박한 지식에 여간 ⓒ놀 랐다. 디자이너들이 삼국 시대의 역사적 사건뿐만 아니라 당 시의 문화, 특정 위인의 일대기까지 구체적으로 언급하면서 캐릭터를 구상하고 있었기 때문이다. ⓓ삼국 시대는 고구려, 백제, 신라의 세 나라가 한반도의 세력을 다투던 시대로 철 기 문화를 받아들이고, 농경생활을 했던 때이다. 그림만 잘 그리면 유명한 디자이너가 될 것이라고 생각했는데 그분들을 보니 다양한 분야의 지식까지도 겸비해야 한다는 것을 알게 되었다. 회의가 끝나고 디자이너와 이야기할 수 있는 기회가 있어 디자이너가 되려면 어떤 준비를 해야 하는지 질문을 하였다. ⓔ그분께서는 그림을 잘 그리는 것도 중요하지만 풍부한 소 양이 있어야 훌륭한 디자이너가 될 수 있다고 말씀하셨다. 또 한 풍부한 소양을 쌓기 위해서는 책을 많이 읽으라고 하시면 서 지금도 애니메이션 스토리 개발을 위해 독서를 게을리하지 않는다고 말씀하셨다. 그때 아침 독서 시간에 선생님께서 말 씀하셨던 ㉡“책 속에 길이 있단다.”라는 말이 생각났다. 그동 안 독서의 필요성을 느끼지 못했었는데, 이번 진로 체험을 계 기로 독서는 내 꿈을 열어 주는 길임을 깨닫게 되었다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>조건에 맞게 표현하기
+  금속 자원의 효율적 추출, 희소금속 확보라는 도시 광산의 필요성에 대해 요약했고, 폐전
+자제품 수거에 대해 관심을 갖자는 내용이 제시되었다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob9">
-  <p class="q-stem">9. 문제</p>
+  <p class="q-stem">9. ㉠과 ㉡을 중심으로 파악한 윗글의 글쓰기 전략으로 가장 적절
+한 것은?</p>
   <ul class="q-opts">
-    <li id="q9-1">① 정답 선지</li>
-    <li id="q9-2">② 오답 선지</li>
-    <li id="q9-3">③ 오답 선지</li>
-    <li id="q9-4">④ 오답 선지</li>
-    <li id="q9-5">⑤ 오답 선지</li>
+    <li id="q9-1">① 마음에 와 닿지 않았던 ㉠을 경험을 통해 알게 된 ㉡과 연결 하여 글의 주제를 드러낸다.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
+    <li id="q9-2">② 타인의 삶을 탐색하게 해 준 ㉠에 자신의 삶을 반성하는 ㉡ 을 추가하여 글의 의도를 강조한다.</li>
+    <li id="q9-3">③ 참신한 표현인 ㉠과 상투적 표현인 ㉡의 의미상의 차이점을 부각하여 글의 전달 효과를 높인다.</li>
+    <li id="q9-4">④ 물질적 가치를 중시하는 ㉠과 정신적 가치를 중시하는 ㉡을 대응시켜 주장의 논리성을 강화한다.</li>
+    <li id="q9-5">⑤ 과거의 갈등을 소개한 ㉠을 현재의 갈등을 바탕으로 한 ㉡으 로 바꾸어 독자의 공감을 이끌어낸다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>글쓰기 전략 파악하기
+  학생은 처음에는 선생님의 말씀인 ㉠을 마음으로 받아들이지 못했지만, 진로 체험 활동을 
+통해 ㉡의 참된 의미를 알게 되었다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob10">
-  <p class="q-stem">10. 문제</p>
+  <p class="q-stem">10. ⓐ～ⓔ를 고쳐쓰기 위한 방안으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q10-1">① 오답 선지</li>
-    <li id="q10-2">② 오답 선지</li>
-    <li id="q10-3">③ 오답 선지</li>
-    <li id="q10-4">④ 오답 선지</li>
-    <li id="q10-5">⑤ 정답 선지</li>
+    <li id="q10-1">① ⓐ: 단어의 표기가 적절하지 않으므로 ‘번번이’로 고친다.</li>
+    <li id="q10-2">② ⓑ: 사동 표현이 잘못 사용되었으므로 ‘소개해’로 고친다.</li>
+    <li id="q10-3">③ ⓒ: 문장 성분 간의 호응을 고려하여 ‘놀라지 않았다.’로 고친다.</li>
+    <li id="q10-4">④ ⓓ: 글의 흐름에 어긋나는 문장이므로 삭제한다.</li>
+    <li id="q10-5">⑤ ⓔ: 앞뒤 내용을 자연스럽게 이어주지 못하므로 바로 앞의 문장과 순서를 바꾼다.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>고쳐쓰기의 적절성 판단하기 
+  ⓔ 앞에 있는 문장은 학생의 질문이고, ⓔ는 그에 대한 대답이므로 둘의 순서를 바꾸는 
+것은 적절하지 않다.  
+  ① ‘번번히’가 아니라 ‘번번이’가 맞는 표현이다. ② ‘소개하다’라는 표현으로 의미가 충분
+히 전달되므로 사동 표현이 필요하지 않다. ③ ‘여간’은 주로 부정의 의미를 나타내는 말과 
+호응한다. ④ 삼국 시대의 특징과 관련된 세부적인 내용은 이 글의 흐름과는 관련이 없다.  
+** 문법 **</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set4" class="set-anchor"></div>
+
+## 11~15번 문법 · 문법
+
 <div class="q-block" id="prob11">
-  <p class="q-stem">11. 문제</p>
+  <p class="q-stem">11. <보기>의 표준 발음법을 참고하여 단어의 올바른 발음을 탐
+구한 내용으로 적절하지 않은 것은?
+  
+  
+<보 기>
+[표준 발음법]
+제13항홑받침이나 쌍받침이 모음으로 시작된 조사나 어미, 
+접미사와 결합되는 경우에는, 제 음가대로 뒤 음절 첫소리
+로 옮겨 발음한다. 
+제14항겹받침이 모음으로 시작된 조사나 어미, 접미사와 
+결합되는 경우에는, 뒤엣것만을 뒤 음절 첫소리로 옮겨 발
+음한다.</p>
   <ul class="q-opts">
-    <li id="q11-1">① 정답 선지</li>
-    <li id="q11-2">② 오답 선지</li>
-    <li id="q11-3">③ 오답 선지</li>
-    <li id="q11-4">④ 오답 선지</li>
-    <li id="q11-5">⑤ 오답 선지</li>
+    <li id="q11-1">① ‘깎아’는 [깍가]로 발음해야 한다.<a class="src-tag ans" href="#ev11">정답 근거</a></li>
+    <li id="q11-2">② ‘읊어’는 [을퍼]로 발음해야 한다.</li>
+    <li id="q11-3">③ ‘여덟을’은 [여덜블]로 발음해야 한다.</li>
+    <li id="q11-4">④ ‘덮이다’는 [더피다]로 발음해야 한다.</li>
+    <li id="q11-5">⑤ ‘부엌이’는 [부어키]로 발음해야 한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>표준 발음법 적용하기
+  ‘깎아’는 쌍받침이 모음으로 시작되는 어미 ‘-아’와 결합되는 경우이므로, 제13항에 따라 [까
+까]로 발음해야 한다. 
+  ④, ⑤의 발음은 제13항과, ②, ③의 발음은 제 14항과 관련된다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob12">
-  <p class="q-stem">12. 문제</p>
+  <p class="q-stem">12. <보기>의 ㉠~㉢에 해당하는 것을 바르게 분류한 것은? 
+  
+  
+<보 기>
+  ㉠관형사, ㉡대명사, ㉢부사 중에는 ‘이, 그, 여기, 이리, 
+그리’ 등과 같이 ‘지시성’을 지닌 단어들이 있다. 이들은 지
+시성이라는 공통점 때문에 구별이 쉽지 않으므로 문장 내에
+서의 기능을 통해 단어의 품사를 파악해야 한다. 
+  ⓐ 이 사과는 맛있게 생겼다.
+  ⓑ 그 책 좀 나에게 빌려줄 수 있어?
+  ⓒ 여기가 바로 우리의 고향입니다.  
+  ⓓ 이리 가까이 오게. 
+  ⓔ그리 물건을 보내겠습니다.    
+ 
+㉠
+㉡
+㉢</p>
   <ul class="q-opts">
-    <li id="q12-1">① 오답 선지</li>
-    <li id="q12-2">② 정답 선지</li>
-    <li id="q12-3">③ 오답 선지</li>
-    <li id="q12-4">④ 오답 선지</li>
-    <li id="q12-5">⑤ 오답 선지</li>
+    <li id="q12-1">① ⓐ ⓑ, ⓒ ⓓ, ⓔ</li>
+    <li id="q12-2">② ⓐ, ⓑ ⓒ ⓓ, ⓔ<a class="src-tag ans" href="#ev12">정답 근거</a></li>
+    <li id="q12-3">③ ⓑ, ⓒ ⓓ, ⓔ ⓐ</li>
+    <li id="q12-4">④ ⓑ, ⓓ ⓔ ⓐ, ⓒ</li>
+    <li id="q12-5">⑤ ⓒ, ⓓ ⓐ ⓑ, ⓔ 고2 국어영역 5 5 16</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>단어의 품사 구별하기
+  ⓐ ‘이’는 명사 ‘사과’를, ⓑ ‘그’는 명사 ‘책’을 수식하는 관형사이다. ⓒ ‘여기’는 장소를 
+나타내는 대명사이다. ⓓ ‘이리’는 용언 ‘오게’를, ⓔ ‘그리’는 용언 ‘보내겠습니다’를 수식하
+는 부사이다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob13">
-  <p class="q-stem">13. 문제</p>
+  <p class="q-stem">13. 다음과 같이 서술어의 자릿수를 파악하는 활동을 해 보았다. 
+이를 이해한 내용으로 적절하지 않은 것은? [3점]
+  
+탐구활동
+  문장 성분을 생략해 보며, 문법적으로 올바
+른 문장인지를 파악한다. 
+탐구결과
+  서술어 ‘만들었다’는 필수적으로 요구하는 
+문장 성분의 수에 따라 두 자리 서술어가 되
+기도 하고, 세 자리 서술어가 되기도 한다. 
+적용자료
+[B]
+ ∘ 친구는 내 손을 살며시 잡았다.
+ ∘ 철수가 물고기를 많이 잡았다.
+  문장에서 서술어는 그 성격에 따라 필요로 하는 문장 성분의 
+개수가 다른데 이를 서술어의 자릿수라고 한다. 그런데 같은 
+형태의 서술어라도 필요로 하는 문장 성분의 개수가 다른 경우
+가 있는데, 문장 성분을 생략해 봄으로써 이를 파악할 수 있다.
+탐구자료
+[A]
+ ∘콩쥐가 옷을 예쁘게 만들었다.
+ ∘어머니는 아들을 의사로 만들었다.</p>
   <ul class="q-opts">
-    <li id="q13-1">① 오답 선지</li>
-    <li id="q13-2">② 오답 선지</li>
-    <li id="q13-3">③ 오답 선지</li>
-    <li id="q13-4">④ 오답 선지</li>
-    <li id="q13-5">⑤ 정답 선지</li>
+    <li id="q13-1">① [A]에서 ‘콩쥐가’와 ‘어머니는’은 서술어의 주체가 되는 말이 므로 꼭 필요한 성분이겠군.</li>
+    <li id="q13-2">② [A]에서 ‘옷을’과 ‘아들을’은 서술어가 필수적으로 요구하는 문장 성분이므로 생략할 수 없겠군.</li>
+    <li id="q13-3">③ [A]에서 ‘예쁘게’는 ‘의사로’와 달리 서술어가 필수적으로 요 구하는 문장 성분이 아니기 때문에 생략할 수 있겠군.</li>
+    <li id="q13-4">④ [B]에서 ‘친구는’과 ‘손을’을 생략했을 때 문장이 성립되지 않으므로 ‘잡았다’는 두 자리 서술어이겠군.</li>
+    <li id="q13-5">⑤ [B]에서 ‘많이’는 생략할 수 없는 문장 성분이므로 ‘잡았다’ 는 세 자리 서술어이겠군.<a class="src-tag ans" href="#ev13">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>서술어의 자릿수 파악하기
+  ‘철수는 물고기를 많이 잡았다’에서 ‘잡았다’는 주어(철수는)와 목적어(물고기를)를 필수
+적으로 요구하는 두 자리 서술어이다. 부사어 ‘많이’는 생략 가능한 문장 성분이다.
+  ① ‘콩쥐가’와 ‘어머니는’은 서술어 ‘만들었다’의 주체를 나타내는 말이기 때문에 필요한 
+성분이다. ② ‘옷을’과 ‘아들을’은 생략하면 문장이 성립하지 않으므로 생략할 수 없다. ③ 
+‘의사로’는 부사어라도 ‘～을 ～(으)로 만들다’는 문장에 꼭 필요한 성분이지만, ‘예쁘게’는 
+‘만들었다’를 꾸며주는 부사어로 생략이 가능하다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob14">
-  <p class="q-stem">14. 문제</p>
+  <p class="q-stem">14. 밑줄 친 부분이 한글 맞춤법에 맞게 쓰인 것은?</p>
   <ul class="q-opts">
-    <li id="q14-1">① 정답 선지</li>
-    <li id="q14-2">② 오답 선지</li>
-    <li id="q14-3">③ 오답 선지</li>
-    <li id="q14-4">④ 오답 선지</li>
-    <li id="q14-5">⑤ 오답 선지</li>
+    <li id="q14-1">① 힘든 일은 제가 다 알아서 할게요.<a class="src-tag ans" href="#ev14">정답 근거</a></li>
+    <li id="q14-2">② 무엇을 하던지 최선을 다했으면 좋겠어.</li>
+    <li id="q14-3">③ 오늘 소풍 가는 날인데 비가 와서 어떻해.</li>
+    <li id="q14-4">④ 네가 원하는 꿈을 꼭 이룰 수 있기를 바래.</li>
+    <li id="q14-5">⑤ 넉넉치 않은 살림이지만 어려운 사람을 돕자.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>올바른 한글 맞춤법 파악하기
+  ② ‘-든지’가, ③ ‘어떡해’가, ④ ‘바라’나 ‘바란다’가, ⑤ ‘넉넉지’가 올바른 표기이다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob15">
-  <p class="q-stem">15. 문제</p>
+  <p class="q-stem">15. 밑줄 친 부분이 <보기>의 ㉠에 해당하는 예로 적절하지 않
+은 것은?  
+  
+<보 기>
+  일반적으로 의문문은 화자가 청자에게 질문에 대한 대답을 
+요청할 때, 청유문은 화자가 청자에게 함께 행동할 것을 요
+청할 때 쓰인다. 그런데 담화 상황에 따라 의문문과 청유문 
+모두 ㉠화자가 청자에게 행동을 요청할 때 쓰이기도 한다.</p>
   <ul class="q-opts">
-    <li id="q15-1">① 오답 선지</li>
-    <li id="q15-2">② 오답 선지</li>
-    <li id="q15-3">③ 정답 선지</li>
-    <li id="q15-4">④ 오답 선지</li>
-    <li id="q15-5">⑤ 오답 선지</li>
+    <li id="q15-1">① A : 얘들아, 영화 좀 보자. B : 알았어. 떠들어서 미안해.</li>
+    <li id="q15-2">② A : 환기가 필요하구나. 창문 좀 열자. B : 네. 알겠습니다.</li>
+    <li id="q15-3">③ A : 잠깐, 내가 안경을 어디다 뒀더라? B : 너 혼자 거기서 뭐하니? 빨리 나와.<a class="src-tag ans" href="#ev15">정답 근거</a></li>
+    <li id="q15-4">④ A : 방 청소를 해야 하는데, 좀 비켜줄래? B : 네, 엄마. 바로 나갈게요.</li>
+    <li id="q15-5">⑤ A : 기사님! 저 신호등 앞에서 세워 주시겠어요? B : 네, 저기에 세우겠습니다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>의문문과 청유문의 공통적 기능 이해하기
+  ‘잠깐, 내가 안경을 어디다 뒀더라?’는 의문문이지만 청자에게 요청하는 것이 아니다. ‘B’
+의 대답을 고려했을 때, ‘A’의 말은 혼자 있는 상황에서 화자가 안경을 찾으면서 하는 혼잣
+말이다. 
+  ① 조용히 해 줄 것을, ② 창문을 열어줄 것을, ④ 비켜 줄 것을, ⑤ 차를 세워줄 것을 청
+자에게 요청하는 문장이다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
+## 16~19번 현대소설 · 현대소설
+
 <div class="q-block" id="prob16">
-  <p class="q-stem">16. 문제</p>
+  <p class="q-stem">16. <보기>를 바탕으로 중세 국어의 특징을 탐구한 내용으로 적
+절하지 않은 것은?
+  
+  
+<보 기>
+  [중세 국어] 잣 ㉠ ㉡보 플와 나모
+  [현대 국어] 성(城) 안의 봄에 풀과 나무만
+  [중세 국어] 烽火(봉화)ㅣ㉢석 ㉣니시니
+  [현대 국어] 봉화가 석 달을 이어지니
+  [중세 국어] 첫소리㉤니라 
+  [현대 국어] 첫소리를 쓰느니라.</p>
   <ul class="q-opts">
-    <li id="q16-1">① 오답 선지</li>
-    <li id="q16-2">② 정답 선지</li>
-    <li id="q16-3">③ 오답 선지</li>
-    <li id="q16-4">④ 오답 선지</li>
-    <li id="q16-5">⑤ 오답 선지</li>
+    <li id="q16-1">① ㉠을 보니 ‘ㅅ’은 현대 국어의 ‘의’에 해당하는 관형격 조사로 쓰였군.</li>
+    <li id="q16-2">② ㉡을 보니 체언과 조사를 구분하여 그 형태를 밝혀 적었군.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
+    <li id="q16-3">③ ㉢을 보니 ‘’은 현대 국어 ‘달을’과 달리 모음조화를 지켜 표기하였군.</li>
+    <li id="q16-4">④ ㉣을 보니 현대 국어에서 쓰이지 않는 자음을 사용하였군.</li>
+    <li id="q16-5">⑤ ㉤을 보니 첫 음절 초성에 서로 다른 자음을 가로로 나란히 붙여썼군. ∘콩쥐가 옷을 예쁘게 만들었다. ☞‘콩쥐가’, ‘옷을’, ‘예쁘게’를 각각 생략해 본다. ∘어머니는 아들을 의사로 만들었다. ☞‘어머니는’, ‘아들을’, ‘의사로’를 각각 생략해 본다. 6 국어영역 고2 6 16 [17~19] 다음 글을 읽고 물음에 답하시오. 칸트는 ‘인간(人間)’이란 이성을 바탕으로 자신이 지켜야 할 도덕 법칙을 인식하고 이를 실천할 수 있는 ‘실천 능력’을 가진 존재라고 생각하였다. 그리고 이러한 도덕적 인간성을 ‘인격(人格)’이라 불렀고, 이는 인간이라면 누구나 동일하게 가지고 있는 보편적인 것이라 보았다. 셸러는 칸트의 이러한 견해가 인간의 감정은 배제하고 이 성만을 강조하였으며, 인간의 개별성을 간과하고 인간을 몰 개성적인 존재로 보았다는 점을 비판하면서 새로운 인격 개 념을 제시하였다. 셸러는 인간의 감정을 강조하면서 인격은 인간으로 하여금 어떠한 가치를 지향하게 하는 감정작용의 통일체라고 주장했다. 따라서 셸러의 인격 개념을 이해하기 위해서는 가치와 감정에 관한 셸러의 논의를 살펴볼 필요가 있다. 셸러는 가치가 경험 이전에 존재하기 때문에 선험적이라고 보았다. 그리고 가치에는 객관적인 위계질서가 있는데 재화, 도구처럼 유용함과 관련된 가치는 낮은 가치이며, 도덕성과 같은 정신적 가치는 높은 가치라고 구분하면서 이러한 가치 의 위계질서를 직관적으로 파악하는 것이 감정이라고 주장했 다. 또한 셸러는 감정에도 객관적인 위계질서가 있으며, 낮은 감정은 그에 대응하는 낮은 가치를, 높은 감정은 높은 가치 를 선택한다고 보았다. 인격은 이러한 감정작용을 통해 더 높은 가치를 선택하여 선(善)을 실현할 수도 있고, 또 낮은 가치를 선택하여 악을 실현할 수도 있다는 것이다. 셸러에 의하면 이처럼 가치의 위계를 직관적으로 파악하는 감정이 인간에게는 선천적으로 주어져 있지만, 가치를 선택 해야 하는 순간에 자신이 처한 내외적 상황에 따라 그러한 선천적 감정의 지향과는 다른 선택을 할 수도 있다는 것이 다. 셸러는 가치 선택의 순간에서 내외적 상황에 구애받지 않고 더 높은 가치를 선택하는 것이 선(善)이고, 이렇게 인 간을 선(善)으로 이끄는 감정이 사랑이라고 보았다. 반대로 인간에게는 미움이라는 감정이 있는데, 셸러는 미움이 인간 이 더 높은 가치를 선택하는 것을 방해한다고 보았다. 미움 으로 인해 인간은 가치들 간의 위계를 잘못 파악하는 가치 왜곡에 빠지거나, 더 높은 가치를 제대로 감지하지 못하는 가치 맹목에 빠질 수 있다고 주장했다. 이처럼 셸러는 인간의 감정이 어떤 가치를 지향하느냐에 따라 인격이 달라지므로 인격은 보편적인 것이 아니라 개별 적인 것이라고 파악했다. 그리고 성숙한 인격이란 사랑을 통 해 항상 보다 높은 가치를 선택하여 선(善)을 실현하는 감정 작용이라 보았다. 따라서 셸러는 훌륭한 인격을 갖추기 위해 서는 보다 높은 감정을 통해 높은 가치를 추구하려는 노력이 중요하다고 강조하면서 도덕 교육의 토대를 정립했다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>중세 국어의 특징 파악하기 
+  ㉡ ‘보’는 체언 ‘봄’과 조사 형태를 밝혀 적지 않고 이어적기를 한 것이다. 
+** 인문 **
+□ 출전: 이인제, <셸러의 감정 윤리학></p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob17">
-  <p class="q-stem">17. 문제</p>
+  <p class="q-stem">17. 윗글을 읽고 알 수 있는 내용이 아닌 것은?</p>
   <ul class="q-opts">
-    <li id="q17-1">① 오답 선지</li>
-    <li id="q17-2">② 오답 선지</li>
-    <li id="q17-3">③ 정답 선지</li>
-    <li id="q17-4">④ 오답 선지</li>
-    <li id="q17-5">⑤ 오답 선지</li>
+    <li id="q17-1">① 인격에 대한 칸트의 견해</li>
+    <li id="q17-2">② 셸러가 말하는 가치의 특징</li>
+    <li id="q17-3">③ 셸러가 말하는 도덕 교육의 한계<a class="src-tag ans" href="#ev17">정답 근거</a></li>
+    <li id="q17-4">④ 셸러의 논의에 나타난 감정의 역할</li>
+    <li id="q17-5">⑤ 칸트의 인격 개념에 대한 셸러의 관점</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>글의 세부 내용 파악하기 
+  이 글은 셸러의 인격 개념과 이러한 셸러의 인격관이 도덕 교육의 토대를 마련하는 데 기
+여하였다는 점에서 의의를 지니고 있음을 밝히고 있다.  
+  ① 1문단에서 인격에 대한 칸트의 견해를 확인할 수 있다. ② 3문단에서 셸러가 말하는 
+가치는 선험적이며 위계질서가 있다는 내용을 확인할 수 있다. ④ 3, 4문단에서 셸러는 인
+간의 감정이 가치를 직관적으로 파악한다고 보았음을 알 수 있다. ⑤ 2문단에서 셸러가 칸
+트의 인격 개념을 이성적이고 지적인 측면을 강조한 것이라고 보았음을 확인할 수 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob18">
-  <p class="q-stem">18. 문제</p>
+  <p class="q-stem">18. 윗글에 나타난 셸러의 주장과 일치하지 않는 것은?</p>
   <ul class="q-opts">
-    <li id="q18-1">① 정답 선지</li>
-    <li id="q18-2">② 오답 선지</li>
-    <li id="q18-3">③ 오답 선지</li>
-    <li id="q18-4">④ 오답 선지</li>
-    <li id="q18-5">⑤ 오답 선지</li>
+    <li id="q18-1">① 인격과 감정은 서로 독립적으로 작용한다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
+    <li id="q18-2">② 감정과 가치는 모두 객관적인 위계질서를 지닌다.</li>
+    <li id="q18-3">③ 가치 왜곡은 가치의 위계 관계를 잘못 파악한 것이다.</li>
+    <li id="q18-4">④ 미움의 감정은 인간이 더 높은 가치를 선택하는 것을 방해한다.</li>
+    <li id="q18-5">⑤ 인간의 감정이 어떤 가치를 지향하느냐에 따라 인격의 차이 가 나타난다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>글의 핵심 내용 이해하기 
+  셸러는 가치를 직관적으로 파악하는 것이 감정이고, 그러한 감정작용의 통일체가 인격이
+라고 보았다. 따라서 감정과 인격이 서로 독립적으로 작용한다는 진술은 적절하지 않다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob19">
-  <p class="q-stem">19. 문제</p>
+  <p class="q-stem">19. 윗글의 셸러의 입장에서 <보기>를 이해한 내용으로 적절하
+지 않은 것은? [3점]
+  
+  
+<보 기>
+  영희가 사는 동네에는 A와 B, 두 개의 커피 전문점이 있
+다. A는 영희의 집에서 가깝고 가격도 저렴하지만 제3세계
+의 노동력을 착취하여 생산된 원두를 수입해서 사용하고 있
+다. B는 A보다 거리도 멀고 가격도 비싸지만 노동력에 대
+한 정당한 대가를 지불하고 수입한 원두를 사용하고 있다. 
+영희는 최근 이러한 사실을 알게 되었다.</p>
   <ul class="q-opts">
-    <li id="q19-1">① 오답 선지</li>
-    <li id="q19-2">② 오답 선지</li>
-    <li id="q19-3">③ 오답 선지</li>
-    <li id="q19-4">④ 정답 선지</li>
-    <li id="q19-5">⑤ 오답 선지</li>
+    <li id="q19-1">① 영희가 커피 전문점 A에서 커피를 구입한다면 영희는 낮은 가치를 선택하는 것이겠군.</li>
+    <li id="q19-2">② 영희가 비싼 가격에 상관없이 커피 전문점 B를 선택한다면, ‘선(善)’을 실현한 것이라고 볼 수 있겠군.</li>
+    <li id="q19-3">③ 영희가 커피 전문점 A를 선택하는 것도, B를 선택하는 것도 모두 ‘인격’의 감정작용에서 비롯된 것이겠군.</li>
+    <li id="q19-4">④ 영희가 고민 없이 커피 전문점 B가 아닌 A를 선택한다면 그 것은 가치를 파악하는 ‘감정’이 선천적으로 없기 때문이겠군.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
+    <li id="q19-5">⑤ 영희가 갈등을 하지 않고 커피 전문점 A가 아닌 B를 선택 했다면 그것은 ‘높은 감정’이 이끈 행동이라고 할 수 있겠군. 고2 국어영역 7 7 16 [20~22] 다음 글을 읽고 물음에 답하시오. 중세 회화에 등장하는 아이들은 아이 특유의 신체적 특성 이 고려되지 않은 채 그저 어른을 작게 그린 ‘축소된 어른’의 모습으로 묘사되었다. 그런 면에서 현대회화의 작가들은 16 세기 초 카로토의 <그림을 든 빨간 머리 소년>이라는 작품 에 주목한다. 이 작품 속에 등장하는 소년은 아이 특유의 신체적 특 성과 장난기 머금은 웃 음을 통해 아동만의 매 력을 보여준다. 이 작품은 아이를 아 이답게 묘사했다는 점 외에, 아이가 그린 그 림이 소재로 쓰였다는 점에서도 주목을 받는 다. 아주 오랫동안 아이가 그린 그림이 서구 회화에 등장하 지 않았기 때문이다. [A]에는 작품 속 소년이 그린 것처럼 보이는 그림 [B]가 등장하는데, 전문가에 따르면 [B]는 그림 속 소년보다는 더 어린 아이가 그린 것으로 보인다고 한다. 즉, [B]는 진짜 소년이 그린 그림이라기보다는 화가가 생각 하는 아이의 그림이라는 얘기다. 카로토는 대상을 눈에 보이 는 것과 똑같이 재현하는 것을 중시했던 당시 르네상스 회화 의 경향과는 다르게, 상상한 것을 꾸밈없이 순수하게 드러내 는 아이들의 표현 방식을 따랐던 것이다. 그 이유는 카로토 가 르네상스 이래로 내려오는 사실적 재현이 유일한 가치가 아님을 인식했기 때문이라고 볼 수 있다. 르네상스를 거치면서 실물을 꼭 닮게 그리는 기술은 거의 완성 단계에 도달했고 19세기에 카메라까지 발명되면서, 도 처에서 사물을 꼭 빼닮은 이미지를 볼 수 있게 되었다. 이런 현실은 당시 화가들에게는 위기였고, 그래서 새로운 출발로 선택한 방식이 근원으로 ⓐ돌아가는 것이었다. 그리하여 몇 몇의 현대 화가들은 사회화를 겪지 않은 아동을 상상력과 잠 재력의 근원으로 보고, 유년기의 화풍으로 돌아가기로 했던 것이다. 현대 화가들이 이처럼 유년기의 화풍으로 돌아가려 했던 것은 결코 사실적 묘사 ‘능력’이 부족해서가 아니다. 미술사 를 ㉠사실적 재현 기술의 발전 과정으로 보는 사람들에게는 이러한 유년기 화풍이 미숙함의 산물일 수 있다. 하지만 미 술사를 움직이는 것은 ‘능력’이 아니라 ‘의지’라고 말한 미술 사학자 알로이스 리글처럼 미술사를 ㉡상이한 ‘표현 의지’들 이 교차하는 장(場)으로 보는 사람들에게는 유년기 화풍이 어른의 것과는 완전히 다른 예술 의지의 표현일 것이다. 현 대 화가들이 유년기 화풍에 주목한 것은 바로 이러한 점 때 문이다. 이러한 변화는 현대회화의 과제가 외부의 ‘재현’에서 내면 의 ‘표현’으로 바뀐 것과 관련이 있다. 원근법처럼 대상을 ‘보 이는 대로’ 재현하기 위해 사용되는 방법은 오히려 ‘표현’에 방해가 될 수 있다. ‘느끼는 대로’ 그리는 데 필요한 것은 학 습되지 않은, 순수함과 솔직함이기 때문이다. 이런 의미에서 현대 화가들의 시도는 ‘퇴화’가 아니라, ‘창조적 역행’이라 할 수 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>구체적 사례에 적용하기 
+  셸러는 가치를 지향하는 감정이 인간에게 선천적으로 주어져 있다고 보았다. 따라서 영희가 A
+에 대하여 문제의식을 못 느끼는 것이 가치를 파악하는 감정이 선천적으로 없기 때문이라는 설
+명은 셸러의 입장에서 볼 때 적절하지 않다.  
+  ① A는 B에 비해 상대적으로 낮은 가치를 지닌다. ② 비싼 가격이라는 외적인 상황과 상
+관없이 B를 선택한 것은 높은 가치로 이끄는 감정에 의한 것이며 이는 선을 실현한 행동이
+다. ③ 3문단에서 인격은, 감정작용을 통해 더 높은 가치를 선택하여 선을 실현할 수도 있
+고,</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
+## 20~25번 독서(인문) · 독서(인문)
+
 <div class="q-block" id="prob20">
-  <p class="q-stem">20. 문제</p>
+  <p class="q-stem">20. 윗글을 읽고 알 수 있는 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q20-1">① 오답 선지</li>
-    <li id="q20-2">② 오답 선지</li>
-    <li id="q20-3">③ 정답 선지</li>
-    <li id="q20-4">④ 오답 선지</li>
-    <li id="q20-5">⑤ 오답 선지</li>
+    <li id="q20-1">① 중세 회화에 등장하는 아이들은 특유의 신체적 특징이 충실 히 반영된 모습이었다.</li>
+    <li id="q20-2">② 중세 시대부터 아이들이 그린 그림은 서구 회화에서 꾸준하 게 관심을 받고 있었다.</li>
+    <li id="q20-3">③ 르네상스 시기의 화가들은 외형을 사실적으로 묘사하는 데에 큰 관심을 갖고 있었다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
+    <li id="q20-4">④ 사진의 등장으로 당시의 화가들은 실물을 꼭 닮게 그리는 기 술을 완성할 수 있었다.</li>
+    <li id="q20-5">⑤ 현대 화가들은 재현 기술의 발전을 위해 사회화를 겪지 않은 아이들이 그린 그림에 주목하였다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>글의 세부 내용 파악하기
+  2문단, 3문단을 통해 르네상스 이래로 사실적 재현 방식이 유일한 가치로 내려온다고 하
+였으므로 당시의 화가들은 이를 중요하게 여겼다는 점을 알 수 있다.
+  ② 1, 2문단을 통해 카로토 이전의 화가들은 아이가 그린 그림을 주목하지 않았음을 알 
+수 있다.④ 3문단을 통해 사진의 등장 이전에 회화에서의 재현 기술은 거의 완성에 도달했
+다는 것을 알 수 있다. 사진의 등장 때문에 당시 화가들의 재현 기술이 완성된 것은 아니
+다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob21">
-  <p class="q-stem">21. 문제</p>
+  <p class="q-stem">21. ㉠과 ㉡의 입장에서 <보기>의 작품을 이해한 것으로 적절하
+지 않은 것은? [3점]   
+  
+<보 기></p>
   <ul class="q-opts">
-    <li id="q21-1">① 오답 선지</li>
-    <li id="q21-2">② 정답 선지</li>
-    <li id="q21-3">③ 오답 선지</li>
-    <li id="q21-4">④ 오답 선지</li>
-    <li id="q21-5">⑤ 오답 선지</li>
+    <li id="q21-1">① ㉠은 <보기>의 작품을 아이가 그린 그림처럼 미숙하다고 볼 것이다.</li>
+    <li id="q21-2">② ㉠은 <보기>의 작품을 보이는 대로 재현하는 기법을 강조한 것으로 볼 것이다.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
+    <li id="q21-3">③ ㉡은 <보기>의 작품을 ‘유년기의 화풍’으로 화자의 내면을 표현한 것으로 볼 것이다.</li>
+    <li id="q21-4">④ ㉡은 ‘느끼는 대로’ 그린 화가의 표현 의지가 <보기>의 작 품에 드러나 있는지에 주목할 것이다.</li>
+    <li id="q21-5">⑤ ㉡은 ‘재현’ 능력보다는 화가 내면에 있는 순수함과 솔직함이 <보기>의 작품에 담겨 있는지에 주목할 것이다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>구체적 사례에 적용하기
+
+  ㉠은 대상의 사실적 재현을, ㉡은 화가들의 표현 의지를 강조하는 입장이다. 따라서 ㉠의 
+입장에서 <보기>는 유년기의 화풍으로 그린 작품이므로 보이는 대로 재현하는 기법이라고 
+할 수 없다고 할 것이다.
+  ① ㉠은 재현 기술을 중시하므로 <보기>의 작품을 미숙하다고 볼 것이다. ③ ㉡은 <보
+기>와 같은 작품이 화자의 내면을 드러내는 작품이라고 볼 것이다. ④ ㉡은 화가의 표현 
+의지를 중시하므로 표현의지가 작품에 드러나는지 주목할 것이다. ⑤ 5문단에서 현대회화의 
+과제가 표현으로 바뀌었으며, 이때 </p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob22">
-  <p class="q-stem">22. 문제</p>
+  <p class="q-stem">22. ⓐ와 문맥적 의미가 가장 유사한 것은?</p>
   <ul class="q-opts">
-    <li id="q22-1">① 오답 선지</li>
-    <li id="q22-2">② 오답 선지</li>
-    <li id="q22-3">③ 오답 선지</li>
-    <li id="q22-4">④ 오답 선지</li>
-    <li id="q22-5">⑤ 정답 선지</li>
+    <li id="q22-1">① 기계가 잘 돌아간다.</li>
+    <li id="q22-2">② 물레방아가 빙글빙글 돌아간다.</li>
+    <li id="q22-3">③ 우리는 돌아가면서 점심을 산다.</li>
+    <li id="q22-4">④ 일이 바쁘게 돌아가서 정신이 없다.</li>
+    <li id="q22-5">⑤ 우리 원점으로 돌아가 다시 생각해 보자. 이 작품은 화가 김점선 (1946～2009)의 도롱뇽 알 그림 연작 중 하나이 다. 화가는 아이의 그림 연습장을 우연히 보고, 자신의 어린 시절 기억 을 표현하였다고 한다. 8 국어영역 고2 8 16 총수입 1억 원 명 시 적 비 용 재료비 1,000만 원 직원 인건비 3,500만 원 대출 이자 500만 원 세금 400만 원 회계학적 이윤 4,600만 원 [23~26] 다음 글을 읽고 물음에 답하시오. 직장인들이 퇴사를 결심하고 창업을 하는 큰 이유 중 하나 는 더 많은 이윤을 얻기 위함일 것이다. 그렇다면 창업을 고 려할 때, 회사를 다닐 때와 창업 후의 이윤을 비교해 볼 필 요가 있는데, 연봉 3,600만 원의 직장인 철수가 제과점을 개 업한 사례를 들어 이를 알아보자. 2014년, 철수는 여유 자금 2억 원에 1억 원의 은행 대 출을 받아 본인이 소유하고 있던 매장에 제과점을 개업 했다. 1년 동안, 철수의 총수 입과 제과점 ⓐ운영을 위해 직접 소비한 명시적 비용은 <표>와 같다. 총수입에서 명시적 비용을 뺀 회계학적 이윤은 4,600만 원이다. 그렇다면 철수는 회사를 다닐 때보다 이윤이 늘어난 것일까? 창업 후의 정확한 이윤을 알기 위해서는, 총수입에서 명시 적 비용을 뺀 ㉠‘회계학적 이윤’보다는 ㉡‘경제학적 이윤’을 따져보아야 한다. 경제학적 이윤은 총수입에서 명시적 비용 과 암묵적 비용을 뺀 금액이다. 암묵적 비용은 어떤 선택 때 문에 포기한 활동을 통해 얻을 수 있는 가치로, 철수의 경우 직장을 계속 다녔다면 1년 동안 벌 수 있었던 3,600만 원과 본인 소유의 매장을 다른 사람에게 임대하여 받을 수 있는 임대료 1,000만 원, 또 제과점을 열기 위해 사용한 자본금을 은행에 예금하여 받을 수 있는 이자 수익 600만 원(예금금리 3% 가정)을 합한 금액인 5,200만 원이 암묵적 비용에 해당 할 것이다. 철수네 제과점은 회계학적 이윤으로는 이익이 발 생했지만, 철수가 ⓑ간과한 암묵적 비용까지 고려한다면 경 제학적 이윤으로는 600만 원의 손실을 본 셈이다. 또한 ‘손익분기점’을 사용하여 이윤을 ⓒ파악할 수도 있다. 손익분기점이란 일정기간에 발생하는 총수입과 투입된 총비용 이 같아 손실도 이익도 발생하지 않는 지점이다. 손익분기점은 고정비와 매출액에 대한 변동비의 비율을 활용하여 계산하는 데, 고정비는 직원 인건비와 가게 임대료, 대출 이자, 세금과 같이 매출과 관련 없이 고정적으로 발생하는 비용이며, 변동비 는 재료비처럼 매출에 따라 변하는 비용이다. 총수입이 늘거 나, ⓓ투입된 총비용이 줄면 손익분기점은 낮아진다. 이처럼 손익분기점은 총수입과 총비용과의 관계에서 손실이 발생하지 않는 매출 수준을 알 수 있다는 장점이 있지만, 손익분기점 역 시 암묵적인 비용이 ⓔ반영되지 않기 때문에 창업을 고려할 때는 경제학적 이윤과 함께 따져보는 것이 필요하다.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>해설 참조.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob23">
-  <p class="q-stem">23. 문제</p>
+  <p class="q-stem">23. 윗글의 서술 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q23-1">① 오답 선지</li>
-    <li id="q23-2">② 오답 선지</li>
-    <li id="q23-3">③ 정답 선지</li>
-    <li id="q23-4">④ 오답 선지</li>
-    <li id="q23-5">⑤ 오답 선지</li>
+    <li id="q23-1">① 예외적인 현상을 통해 경제학적 이론의 형성 과정을 제시하고 있다.</li>
+    <li id="q23-2">② 하나의 경제학 관점으로 다양한 이론의 장․ 단점을 비교하고 있다.</li>
+    <li id="q23-3">③ 경제학적 개념을 구체적인 사례를 들어 이해하기 쉽게 설명 하고 있다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
+    <li id="q23-4">④ 전문가의 견해를 인용하여 문제를 해결하기 위한 방안을 검 토하고 있다.</li>
+    <li id="q23-5">⑤ 여러 사례의 공통점을 추출하여 새로운 경제학적 개념을 도 출하고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>내용의 서술 방식 파악하기
+  이 글은 회계학적 이윤과 경제학적 이윤, 손익분기점과 같은 경제학적 개념을 철수의 제
+과점 창업 사례를 통해 이해하기 쉽게 설명하고 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob24">
-  <p class="q-stem">24. 문제</p>
+  <p class="q-stem">24. ㉠과 ㉡에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q24-1">① 오답 선지</li>
-    <li id="q24-2">② 오답 선지</li>
-    <li id="q24-3">③ 오답 선지</li>
-    <li id="q24-4">④ 오답 선지</li>
-    <li id="q24-5">⑤ 정답 선지</li>
+    <li id="q24-1">① 총수입의 변화가 없을 때, 명시적 비용이 줄면 ㉠은 늘어난다.</li>
+    <li id="q24-2">② ㉡에는 제과점 운영을 위해 직접 소비한 비용이 반영되어 있다.</li>
+    <li id="q24-3">③ ㉠과 달리 ㉡에는 암묵적 비용이 반영되어 있다.</li>
+    <li id="q24-4">④ ㉡에 이익이 발생할 경우 ㉠에도 항상 이익이 발생한다.</li>
+    <li id="q24-5">⑤ 정확한 이윤을 알기 위해서는 ㉡보다는 ㉠을 확인해야 한다.<a class="src-tag ans" href="#ev24">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>핵심 개념의 관계 파악하기 
+  ㉠은 총수입에서 명시적 비용을 뺀 것이며, ㉡은 총수입에서 명시적 비용과 암묵적 비용
+까지 뺀 것이다. 3문단을 통해 정확한 이윤을 살펴보기 위해서는 회계학적 이윤보다는 경제
+학적 이윤을 살펴보아야 한다는 것을 알 수 있다. 
+  ① 총수입은 명시적 비용과 회계학적 이윤의 합이므로, 총수입의 변화가 없을 때 명시적 
+비용이 줄어들면 회계학적 이윤은 늘어난다. ② 제과점 운영을 위해 직접 소비한 비용은 명
+시적 비용으로 ㉠, ㉡ 모두에 반영된다. ④ ㉠에 반영되지 않은 비용이 ㉡에는 반영되기 때
+문에 </p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob25">
-  <p class="q-stem">25. 문제</p>
+  <p class="q-stem">25. <보기>는 철수의 2015년 결산 자료이다. 윗글을 바탕으로, 
+<보기>를 이해한 것으로 적절하지 않은 것은? [3점]  
+  
+  
+<보 기>
+2015년 제과점의 총수입
+1억 원
+명시적
+비용
+재료비
+800만 원
+직원 인건비
+3,500만 원
+대출 이자
+500만 원
+세금
+400만 원
+회계학적 이윤
+4,800만 원
+※ 암묵적 비용은 2014년과 동일함.</p>
   <ul class="q-opts">
-    <li id="q25-1">① 정답 선지</li>
-    <li id="q25-2">② 오답 선지</li>
-    <li id="q25-3">③ 오답 선지</li>
-    <li id="q25-4">④ 오답 선지</li>
-    <li id="q25-5">⑤ 오답 선지</li>
+    <li id="q25-1">① 2015년의 손익분기점은 2014년에 비해 높아졌군.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
+    <li id="q25-2">② 2015년에도 경제학적 이윤으로는 손실을 보았군.</li>
+    <li id="q25-3">③ 2014년과 2015년에 고정비로 지출한 금액은 동일하군.</li>
+    <li id="q25-4">④ 2014년에 비해 2015년의 회계학적 이윤이 높아진 것은 변동 비가 줄었기 때문이군.</li>
+    <li id="q25-5">⑤ 2015년의 직원 인건비, 대출 이자, 세금은 제과점의 총수입 과 관련 없이 고정적으로 발생하였군.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>구체적 사례에 적용하기
+  <보기>는 제시문의 <표>와 비교할 때, 총수입과 고정비는 일정하나 변동비에 해당하는 
+재료비가 200만 원 줄었다. 4문단에서 투입된 총비용이 줄면 손익분기점이 낮아진다고 하
+였으므로, 2015년의 손익분기점은 2014년에 비해 낮아졌다고 할 수 있다. 
+  ② 3문단에서 경제학적 이윤을 따졌을 때 철수는 2014년 600만 원 손해를 보았다고 했
+으므로, 재료비가 200만 원 줄어든 2015년의 경제학적 이윤을 따졌을 때 철수는 400만 원 
+손해를 본 것이다. ③ 직원 인건비, 대출 이자, 세금이 고</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
+## 26~30번 독서(과학) · 독서(과학)
+
 <div class="q-block" id="prob26">
-  <p class="q-stem">26. 문제</p>
+  <p class="q-stem">26. ⓐ~ⓔ의 사전적 의미로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q26-1">① 오답 선지</li>
-    <li id="q26-2">② 오답 선지</li>
-    <li id="q26-3">③ 오답 선지</li>
-    <li id="q26-4">④ 정답 선지</li>
-    <li id="q26-5">⑤ 오답 선지</li>
+    <li id="q26-1">① ⓐ: 어떤 대상을 관리하고 운용하여 나감.</li>
+    <li id="q26-2">② ⓑ: 큰 관심 없이 대강 보아 넘김.</li>
+    <li id="q26-3">③ ⓒ: 어떤 대상의 내용이나 본질을 확실하게 이해하여 앎.</li>
+    <li id="q26-4">④ ⓓ: 귀중한 물품이나 정보를 밖으로 내보냄.<a class="src-tag ans" href="#ev26">정답 근거</a></li>
+    <li id="q26-5">⑤ ⓔ: 다른 것에 영향을 받아 어떤 현상이 나타남. 고2 국어영역 9 9 16 [27~29] 다음 글을 읽고 물음에 답하시오. 한 장의 종이를 반으로 계속해서 접어 나간다면 과연 몇 번이나 접을 수 있을까? 얼핏 생각하면 수없이 접을 수 있을 것 같지만, 실제로는 그럴 수 없다. ㉠그 이유는 무엇일까? 먼저, 종이를 접는 횟수에 따라 종이의 넓이와 두께의 관 계가 어떻게 변하는지를 생각해 보자. 종이를 한 방향으로 접을 경우, 한 번, 두 번, 세 번 접어나가면 종이의 넓이는 계속해서 반으로 줄어들게 되고, 두께는 각각 2겹, 4겹, 8겹 으로 늘어나 두꺼워진다. 이런 식으로 두께 0.1㎜의 종이를 10번 접으면 1,024겹이 되어 그 두께는 약 10㎝나 되고, 42번을 접는다면 그 두께는 439,805㎞로 지구에서 달에 이를 수 있 는 거리에 이르게 된다. 물론 이때 종이를 접으면서 생기는 종이의 두께는 종이의 길이를 초과할 수 없으므로 종이 접기 의 횟수 역시 무한할 수 없다. 다음으로, 종이를 접는 횟수에 따라 종이의 길이와 종이가 접힌 모서리 부분에서 만들어지는 반원의 호 길이가 어떻게 변하는지 알아보자. [A]처럼 종이의 두께가 t이고 길이가 L 인 종이를 한 번 접으면, [B]처럼 접힌 모서리 부분이 반원 을 이루게 된다. 이때 이 반원의 반지름 길이가 t이면 반원의 호 길이는 t가 된다. 결국 두께가 t인 종이를 한 번 접기 위 해서는 종이의 길이가 최소한 t보다는 길어야 한다. 예를 들어 두께가 1㎝인 종이를 한 번 접으려면, 종이의 길이가 최소 3.14㎝보다는 길어야 한다는 것이다. 그런데 종이를 한 방향으로 두 번 접는 경우에는 [C]처럼 접힌 모서리 부분에 반원이 3개 나타난다. 그래서 모서리에 생기는 반원의 호 길이를 모두 합하면, 가장 큰 반원의 호 길이인 2t와 그 반원 속의 작은 반원의 호 길이인 t, 그리 고 처음 접힌 반원의 호 길이인 t의 합, 즉 4t가 된다. 그 러므로 종이를 한 방향으로 두 번 접으려면 종이는 최소한 4t 보다는 길어야 한다. 종이를 한 번 더 접었을 뿐이지만 모서 리에 생기는 반원의 호 길이 합은 이전보다 훨씬 커진다. 결 국, 종이 접는 횟수는 산술적으로 늘어나는 데 비해 이로 인 해 생기는 반원의 호 길이의 합은 기하급수적으로 커지기 때 문에 종이의 길이가 한정되어 있다면 계속해서 종이를 접는 것은 불가능하다는 것을 알 수 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>어휘의 사전적 의미 파악하기 
+  ⓓ의 ‘투입’은 ‘사람이나 물자, 자본 따위를 필요한 곳에 넣음.’의 의미이다. ‘귀중한 물품이나 
+정보를 밖으로 내보냄.’의 뜻을 지닌 단어는 ‘유출’이다. 
+** 과학 **
+□ 출전: 이광연, <이광연의 수학 블로그></p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob27">
-  <p class="q-stem">27. 문제</p>
+  <p class="q-stem">27. 윗글의 내용을 <보기>와 같이 정리할 때, ㉮～㉰에 들어갈 
+말로 옳은 것은?
+  
+<보 기>
+  한 방향으로 종이를 접을 때, 접는 횟수가 증가하면, 접힌 
+종이의 넓이는  ㉮ , 접힌 종이의 두께는  ㉯ , 접힌 모서리
+에 생기는 반원의 호 길이 합은  ㉰ .
+㉮
+㉯
+㉰</p>
   <ul class="q-opts">
-    <li id="q27-1">① 오답 선지</li>
-    <li id="q27-2">② 정답 선지</li>
-    <li id="q27-3">③ 오답 선지</li>
-    <li id="q27-4">④ 오답 선지</li>
-    <li id="q27-5">⑤ 오답 선지</li>
+    <li id="q27-1">① 줄어들고 두꺼워지고 작아진다</li>
+    <li id="q27-2">② 줄어들고 두꺼워지고 커진다<a class="src-tag ans" href="#ev27">정답 근거</a></li>
+    <li id="q27-3">③ 줄어들고 얇아지고 커진다</li>
+    <li id="q27-4">④ 늘어나고 얇아지고 커진다</li>
+    <li id="q27-5">⑤ 늘어나고 얇아지고 작아진다</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>글의 세부 내용 파악하기
+  한 방향으로 계속해서 종이를 반씩 접어 나가면, 접힌 종이의 넓이는 줄어드는 반면 접힌 
+종이의 두께와 접힌 모서리에 생기는 반원의 호 길이의 합은 늘어난다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob28">
-  <p class="q-stem">28. 문제</p>
+  <p class="q-stem">28. 윗글을 참고하여 <보기>를 이해한 것으로 적절한 것은? 
+[3점]
+  
+<보 기>
+  다음은 종이를 한 방향으로 세 번 접었을 때 나타난 모습
+과 확대한 단면이다. 세 번 접은 모서리에 생기는 반원의 호 
+길이 합은 14t(4t+3t+2t+2t+t+t+t)이다.   
+※ 종이의 두께(t), 종이의 길이(L)는 [A]와 동일함.</p>
   <ul class="q-opts">
-    <li id="q28-1">① 오답 선지</li>
-    <li id="q28-2">② 오답 선지</li>
-    <li id="q28-3">③ 오답 선지</li>
-    <li id="q28-4">④ 오답 선지</li>
-    <li id="q28-5">⑤ 정답 선지</li>
+    <li id="q28-1">① 접힌 모서리에 생기는 반원의 호 길이 합은 접힌 두께와 같겠군.</li>
+    <li id="q28-2">② 접힌 모서리에 생기는 반원의 호 길이가 가장 긴 것은 L보다 길겠군.</li>
+    <li id="q28-3">③ 접힌 모서리에 생기는 반원의 호 길이가 t인 반원의 수가 가장 적겠군.</li>
+    <li id="q28-4">④ 접힌 모서리에 생기는 가장 큰 반원의 호 길이는 가장 작은 반원들의 호 길이 합보다 작겠군.</li>
+    <li id="q28-5">⑤ 접힌 모서리에 생기는 가장 큰 반원의 호 길이는 종이를 두 번 접었을 때 모서리에 생기는 반원의 호 길이 합과 같겠군.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>구체적 사례에 적용하기
+  종이를 세 번 접었을 때, 접힌 모서리에 생기는 가장 큰 반원의 호 길이(4t)는 두 번 접
+었을 때 모서리에 생기는 반원의 호 길이의 합(4t)과 같다. 
+  ① 접힌 모서리에 생기는 반원의 호 길이의 합(14t)과 접힌 두께(8t)는 같지 않다. ② 
+접힌 모서리에 생기는 반원의 호 길이가 종이의 길이인 L보다 더 클 수는 없다. L보다 더 
+크면 종이 접는 것이 불가능하다. ③ 호 길이가 t인 반원의 수는 3개로 가장 많다. ④ 접
+힌 모서리에 생기는 가장 큰 반원의 호 길이(4t)가 가장 </p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob29">
-  <p class="q-stem">29. 문제</p>
+  <p class="q-stem">29. ㉠에 대한 대답으로 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q29-1">① 오답 선지</li>
-    <li id="q29-2">② 정답 선지</li>
-    <li id="q29-3">③ 오답 선지</li>
-    <li id="q29-4">④ 오답 선지</li>
-    <li id="q29-5">⑤ 오답 선지</li>
+    <li id="q29-1">① 접는 종이의 두께가 한정되어 있기 때문에</li>
+    <li id="q29-2">② 접는 종이의 길이가 한정되어 있기 때문에<a class="src-tag ans" href="#ev29">정답 근거</a></li>
+    <li id="q29-3">③ 종이를 접는 방법의 수가 한정되어 있기 때문에</li>
+    <li id="q29-4">④ 종이를 접으면서 생기는 모서리의 모양이 일정하기 때문에</li>
+    <li id="q29-5">⑤ 종이를 접으면서 모서리에 생기는 반원의 호 길이가 일정하 기 때문에 10 국어영역 고2 10 16 [A] [B] [C] [D] [E] [30~32] 다음 글을 읽고 물음에 답하시오. (가) 낡은 나조반*에 흰밥도 가재미도 나도 나와 앉아서 쓸쓸한 저녁을 맞는다 흰밥과 가재미와 나는 우리들은 그 무슨 이야기라도 다 할 것 같다 우리들은 서로 미덥고 정답고 그리고 서로 좋구나 우리들은 맑은 물밑 해정한 모래톱에서 하구 긴 날을 모 래알만 혜이며 잔뼈가 굵은 탓이다 바람 좋은 한벌판에서 물닭이 소리를 들으며 단이슬 먹고 나이 들은 탓이다 외따른 산골에서 소리개 소리 배우며 다람쥐 동무하고 자 라난 탓이다 우리들은 모두 욕심이 없어 희여졌다 착하디착해서 세괃은* 가시 하나 손아귀 하나 없다 너무나 정갈해서 이렇게 파리했다 우리들은 가난해도 서럽지 않다 우리들은 외로워할 까닭도 없다 그리고 누구 하나 부럽지도 않다 흰밥과 가재미와 나는 우리들이 같이 있으면 세상 같은 건 밖에 나도 좋을 것 같다 - 백석,「선우*사(膳友辭)」- * 나조반: 책상처럼 생긴 장방형의 큰 상. * 세괃은: ‘성질이나 기세가 억센’이란 뜻의 평북 방언. * 선우: 반찬 친구. (나) 어머니는 그륵이라 쓰고 읽으신다 ㉠그륵이 아니라 그릇이 바른 말이지만 어머니에게 그릇은 그륵이다 물을 담아 오신 어머니의 그륵을 앞에 두고 그륵, 그륵 중얼거려 보면 그륵에 담긴 물이 편안한 수평을 찾고 ㉡어머니의 그륵에 담겨졌던 모든 것들이 사람의 체온처럼 따뜻했다는 것을 깨닫는다 나는 학교에서 그릇이라 배웠지만 ㉢어머니는 인생을 통해 그륵이라 배웠다 그래서 내가 담는 한 그릇의 물과 어머니가 담는 한 그륵의 물은 다르다 말 하나가 살아남아 빛나기 위해서는 말과 하나가 되는 사랑이 있어야 하는데 어머니는 어머니의 삶을 통해 말을 만드셨고 ㉣나는 사전을 통해 쉽게 말을 찾았다 무릇 시인이라면 하찮은 것들의 이름이라도 뜨겁게 살아 있도록 불러주어야 하는데 ㉤두툼한 개정판 국어사전을 자랑처럼 옆에 두고 서정시를 쓰는 내가 부끄러워진다 - 정일근,「어머니의 그륵」-</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>글의 핵심 개념 이해하기
+  종이를 접을수록 접힌 종이의 두께와 모서리에 생기는 반원의 호 길이의 합은 기하급수적
+으로 늘어난다. 종이를 계속 접기 위해서는 종이의 길이가 이 둘의 값보다 길어야 하는데 
+종이의 길이가 한정되어 있으므로 이는 불가능하다. 
+** 현대시 **
+□ 출전: (가) 백석, <선우사>
+         (나) 정일근, <어머니의 그륵></p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob30">
-  <p class="q-stem">30. 문제</p>
+  <p class="q-stem">30. (가)와 (나)에 대한 설명으로 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q30-1">① 정답 선지</li>
-    <li id="q30-2">② 오답 선지</li>
-    <li id="q30-3">③ 오답 선지</li>
-    <li id="q30-4">④ 오답 선지</li>
-    <li id="q30-5">⑤ 오답 선지</li>
+    <li id="q30-1">① (가)는 (나)와 달리 색채 이미지를 활용하여 시적 대상의 속 성을 드러내고 있다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
+    <li id="q30-2">② (나)는 (가)와 달리 시적 대상에 인격을 부여하여 화자의 정 서를 표현하고 있다.</li>
+    <li id="q30-3">③ (가)는 상승 이미지를, (나)는 하강 이미지를 활용하여 사물 에 대한 새로운 인식을 보여 주고 있다.</li>
+    <li id="q30-4">④ (가)와 (나)는 모두 영탄적인 표현을 사용하여 화자의 고조 된 감정을 표출하고 있다.</li>
+    <li id="q30-5">⑤ (가)와 (나)는 모두 수미상관의 방식으로 시상을 완결하여 구조적인 안정감을 획득하고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>표현상의 특징 파악하기
+  (가)의 화자는 맑고 청정한 곳에서 자란 ‘우리’는 공통적으로 욕심이 없고 ‘착하’고 ‘정갈’
+하다고 생각한다. 그리고 이러한 ‘우리’의 속성을 ‘희여졌다’와 같은 흰색의 이미지를 통해 
+드러내고 있다. (나)에는 색채 이미지가 나타나지 않는다.
+  ② (가)의 화자는 ‘흰밥’과 ‘가재미’에 인격을 부여하여 대상에 대한 친밀감을 드러낸다. 
+③ (가)는 반찬을 친구라고 생각하는 화자의 모습이 드러날 뿐, 상승 이미지와는 상관이 없
+다. (나)는 ‘그릇’이라는 말을 통해 그 말을 사용하는 사람의 삶의 모습을</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
+## 31~34번 고전소설 · 고전소설
+
 <div class="q-block" id="prob31">
-  <p class="q-stem">31. 문제</p>
+  <p class="q-stem">31. [A]~[E]에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q31-1">① 오답 선지</li>
-    <li id="q31-2">② 오답 선지</li>
-    <li id="q31-3">③ 오답 선지</li>
-    <li id="q31-4">④ 정답 선지</li>
-    <li id="q31-5">⑤ 오답 선지</li>
+    <li id="q31-1">① [A]에는 ‘낡은 나조반’을 중심으로 화자와 ‘흰밥’, ‘가재미’가 함께 있는 상황이 제시되어 있다.</li>
+    <li id="q31-2">② [B]에서는 ‘우리들’이라는 시어를 통해 ‘흰밥’, ‘가재미’에 대 해 화자가 느끼는 친근감을 보여 주고 있다.</li>
+    <li id="q31-3">③ [C]에서는 ‘모래톱’, ‘한벌판’, ‘산골’이라는 공간에서 비롯된 ‘우리들’의 공통점을 감각적으로 형상화하고 있다.</li>
+    <li id="q31-4">④ [D]에서 화자는 ‘않다’, ‘없다’와 같은 부정적 표현을 활용하 여 이상과 현실의 괴리를 나타내고 있다.<a class="src-tag ans" href="#ev31">정답 근거</a></li>
+    <li id="q31-5">⑤ [E]에서 화자는 ‘우리들’의 관계를 바탕으로 ‘세상’을 대하는 태도를 드러내고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>시구의 의미 파악하기 
+  [D]에서 화자는 외롭지 않고, 누구도 부럽지 않으며, 가난해도 서러워할 까닭이 없다고 
+생각한다. ‘않다’, ‘없다’는 부정 표현이지만 [D]에는 화자의 현실에 대한 긍정적 인식이 드
+러나 있다. 화자는 ‘흰밥’과 ‘가재미’를 친구로 생각하고, 함께 있기에 비록 가난하지만 서럽
+지도 않고 외롭지도 않다고 여긴다. 
+  ① [A]에는 ‘낡은 나조반’, 즉 밥상에 ‘흰밥’과반찬인 ‘가재미’와 화자인 ‘나’가 둘러 앉아 
+있는 상황이 나타나 있다. ② [B]에서 ‘나’는 ‘우리’라는 표현을 통해 사물인 ‘흰밥</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob32">
-  <p class="q-stem">32. 문제</p>
+  <p class="q-stem">32. <보기>를 고려하여 ㉠~㉤을 이해한 내용으로 적절하지 않
+은 것은? [3점]
+  
+<보 기>
+  ‘그릇’은 물을 담고, 음식을 담는 사물을 이르는 말로, 우
+리와 늘 함께 존재한다. 이 시의 화자에게 어머니의 ‘그륵’은 
+평생 자식을 위해 따스한 정성과 사랑의 음식을 담아낸 것
+으로, 사전적 의미인 ‘그릇’ 그 이상의 가치를 담은 것이라 
+할 수 있다. 어머니가 살아온 삶의 진정성을 담고 있는 
+‘그륵’을 보며, 화자는 시인으로서의 자신을 성찰하게 된다.</p>
   <ul class="q-opts">
-    <li id="q32-1">① 오답 선지</li>
-    <li id="q32-2">② 오답 선지</li>
-    <li id="q32-3">③ 오답 선지</li>
-    <li id="q32-4">④ 정답 선지</li>
-    <li id="q32-5">⑤ 오답 선지</li>
+    <li id="q32-1">① ㉠: 화자는 어머니가 ‘그릇’을 자신만의 언어인 ‘그륵’으로 사 용하고 있다는 사실을 밝히고 있군.</li>
+    <li id="q32-2">② ㉡: 화자는 ‘그륵’이라는 말에 어머니의 따스한 정성과 사랑 이 담겨 있고 삶이 녹아있었음을 깨닫고 있군.</li>
+    <li id="q32-3">③ ㉢: 화자는 학교에서 지식으로 배운 ‘그릇’과는 달리, ‘그륵’을 어머니가 삶 속에서 체득한 살아있는 단어라고 보고 있군.</li>
+    <li id="q32-4">④ ㉣: 화자는 정성과 사랑이 담긴 시어를 쓰기 위해 사전을 찾 아보는 노력이 부족했음을 성찰하고 있군.<a class="src-tag ans" href="#ev32">정답 근거</a></li>
+    <li id="q32-5">⑤ ㉤: 화자는 삶의 진정성이 담겨 있지 않은 말로 시를 썼던 자신에 대해 부끄러움을 느끼고 있군. 고2 국어영역 11 11 16 [33~35] 다음 글을 읽고 물음에 답하시오. (가) ⓐ얼음 위에 댓잎 자리 보아 님과 내가 얼어 죽을망정 얼음 위에 댓잎 자리 보아 님과 내가 얼어 죽을망정 ㉠정 나눈 오늘 밤 더디 새오시라 더디 새오시라 경경(耿耿) 고침상(孤枕上)*에 어느 잠이 오리오 서창(西窓)을 열어보니 도화(桃花)가 발(發)하도다 ⓑ도화는 시름없어 소춘풍(笑春風)하노라* 소춘풍하노라 넋이라도 임과 함께 지내고자 했는데 넋이라도 임과 함께 지내고자 했는데 우기던 사람 누구입니까 누구입니까 - 작자 미상,「만전춘별사(滿殿春別詞)」- * 경경 고침상: 근심에 싸인 외로운 잠자리. * 소춘풍하노라: 봄바람에 웃는구나. (나) 엊그제 젊었더니 벌써 어찌 다 늙거니 소년행락(少年行樂) 생각하니 말해도 속절없다 늙어서야 서러운 말 하자 하니 목이 멘다 부생모육(父生母育) 고생하여 이내 몸 길러 낼 제 공후배필(公候配匹)*은 못 바라도 군자호구(君子好逑)* 원 하더니 삼생(三生)의 원업(怨業)이요 월하(月下)*의 연분(緣分)으로 장안(長安) 유협(遊俠) 경박자(輕薄子)를 꿈같이 만나 있어 당시에 마음 쓰기 ⓒ살얼음 디디는 듯 삼오이팔(三五二八) 겨우 지나 천연여질(天然麗質)* 절로 이니 이 얼굴 이 태도로 백년기약(百年期約) 하였더니 연광(年光)이 훌쩍 지나 조물(造物)이 시샘하여 ㉡봄바람 가을 물이 베올에 북 지나듯 설빈화안(雪鬂花顔)* 어디 가고 면목가증(面目可憎)* 되었구나 내 얼굴 내 보거니 어느 임이 날 사랑할까 스스로 참괴(慚愧)하니 누구를 원망하랴 삼삼오오(三三五五) 야유원(冶遊園)*의 새 사람이 났단 말인가 꽃 피고 날 저물 제 정처 없이 나가 있어 백마금편(白馬金鞭)*으로 어디어디 머무는고 원근(遠近)을 모르거니 소식이야 더욱 알랴 인연(因緣)을 끊었어도 생각이야 없을쏘냐 얼굴을 못 보거든 그립기나 말면 좋으련만 ㉢열두 때 길기도 길구나 서른 날 지리하다 옥창(玉窓)에 심은 매화 몇 번이나 피었다 진고 겨울밤 차고 찬 제 ⓓ자취눈 섞어 치고 여름날 길고 길 제 궂은 비는 무슨 일인고 ㉣삼춘화류(三春花柳) 호시절(好時節)의 경물(景物)이 시 름없다 가을 달 방에 들고 ⓔ실솔(蟋蟀)이 상(床)에 울 제 긴 한숨 지는 눈물 속절없이 생각만 많다 아마도 모진 목숨 죽기도 어려울사 - 허난설헌,「규원가(閨怨歌)」- * 공후배필: 높은 벼슬아치의 아내. * 군자호구: 군자의 좋은 배필. * 월하: 부부의 인연을 맺어 준다는 전설상의 노인. * 천연여질: 타고난 아름다운 모습. * 설빈화안: 고운 머릿결과 아름다운 얼굴. * 면목가증: 얼굴 생김새가 밉살스러움. * 야유원: 술집. * 백마금편: 호화로운 차림.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>외적 준거를 바탕으로 감상하기
+  ㉣에서 화자는 어머니의 말에는 당신의 ‘삶’과 ‘사랑’이 담겨 있지만 ‘나’는 어머니와 달리, 
+삶에서 우러난 진정성이 담겨 있는 말로 시를 쓰고 있지 못함을 반성하고 있다.
+  ② 화자는 어머니가 물을 담아 오신 ‘그릇’을 보며 어머니의 ‘그륵’은 단순한 도구가 아니
+라 어머니의 사랑과 따뜻함이 담겨 있는 것임을 깨닫고 있다. ⑤ 화자는 시인이라면 언어에 
+
+자신의 삶, 사랑 등의 가치를 담아내어 시를 써야 하는데, 자신은 그러지 못했다는 점에서 
+부끄러움을 느끼고 있다.
+** 고전시가 **
+□ </p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob33">
-  <p class="q-stem">33. 문제</p>
+  <p class="q-stem">33. (가)와 (나)의 공통점으로 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q33-1">① 오답 선지</li>
-    <li id="q33-2">② 정답 선지</li>
-    <li id="q33-3">③ 오답 선지</li>
-    <li id="q33-4">④ 오답 선지</li>
-    <li id="q33-5">⑤ 오답 선지</li>
+    <li id="q33-1">① 시적 공간을 이동하여 긴장감을 유발하고 있다.</li>
+    <li id="q33-2">② 물음의 형식을 통해 시적 상황을 부각하고 있다.<a class="src-tag ans" href="#ev33">정답 근거</a></li>
+    <li id="q33-3">③ 동일한 시구를 반복하여 화자의 심정을 강조하고 있다.</li>
+    <li id="q33-4">④ 대화체와 독백체를 교차하여 극적 효과를 높이고 있다.</li>
+    <li id="q33-5">⑤ 감정을 절제한 표현으로 화자의 단호한 의지를 표출하고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>작품의 공통점 파악하기
+  (가)는 ‘-오리오’, ‘-니까’, (나)는 ‘-ㄹ까’, ‘-하랴’, ‘-인가’, ‘-ㄹ쏘냐’ 등의 물음 형식
+을 통해 임과 이별한 상황을 드러내고 있다. 
+  ① (가), (나) 모두 시적 공간이 변화하지는 않는다. ③ (가)는 시구의 반복을 통해 화자
+의 정서를 강조하고 있으나 (나)는 그렇지 않다.  ④ (가)에는 독백체와 말을 건네는 방식, 
+(나)에는 독백체만 사용되었다. ⑤ (가), (나) 모두 임과 이별한 상황에서 임에 대한 그리
+움을 드러내고는 있으나, 임을 만나려는 의지는 드러나지 않는다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob34">
-  <p class="q-stem">34. 문제</p>
+  <p class="q-stem">34. <보기1>을 바탕으로 ㉠~㉣을 이해한다고 할 때, <보기2>
+에서 적절한 것만을 있는 대로 고른 것은? [3점]
+  
+<보기 1>
+  고전시가에서 화자는 임이 곁에 있고 없음에 따라 객관적
+인 시간을 다르게 인식한다. 임이 부재하는 시간은 상대적으
+로 길다고 느끼거나 의미가 없다고 생각한다. 반면, 임과 함
+께하는 시간은 상대적으로 짧게 느껴져서 그 시간을 지연하
+고 싶어 한다. 
+  
+<보기 2>
+㉮: ㉠은 임과 함께하는 ‘오늘 밤’이라는 시간을 지연하고 
+싶은 심리를 담고 있다. 
+㉯: ㉡에는 임과 함께하기 위해 시간이 ‘베올에 북 지나듯’ 
+빨리 흐르기를 바라고 있다.   
+㉰: ㉢에서 화자는 임이 부재하는 시간인 ‘열두 때’, ‘서른 
+날’은 길고 지루하다고 느낀다. 
+㉱: ㉣에서 화자는 임이 곁에 없는 상황이기에 꽃 피고 새
+잎 나는 ‘삼춘화류’의 계절임에도 아무런 감흥을 느끼지 
+못한다.</p>
   <ul class="q-opts">
-    <li id="q34-1">① 오답 선지</li>
-    <li id="q34-2">② 오답 선지</li>
-    <li id="q34-3">③ 오답 선지</li>
-    <li id="q34-4">④ 정답 선지</li>
-    <li id="q34-5">⑤ 오답 선지</li>
+    <li id="q34-1">① ㉮, ㉯</li>
+    <li id="q34-2">② ㉮, ㉱</li>
+    <li id="q34-3">③ ㉯, ㉰</li>
+    <li id="q34-4">④ ㉮, ㉰, ㉱<a class="src-tag ans" href="#ev34">정답 근거</a></li>
+    <li id="q34-5">⑤ ㉯, ㉰, ㉱</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>외적 준거를 바탕으로 감상하기
+  ㉡은 화자가 자신이 아름답던 젊은 시절이 빨리 지났다고 느끼고 있음을 드러내는 것이므로 
+㉯의 진술은 적절하지 않다. 
+  ㉠에서 화자는 임과 함께하는 ‘오늘 밤’이 시간이 빠르게 흐른다고 인식하여 그 시간을 
+지연하고 싶어 한다. ㉢에서 화자가 ‘열두 때’, ‘서른 날’의 시간을 길고 지루하다고 느끼는 
+이유는 임이 없기 때문이다. ㉣에서 화자는 임이 부재하기 때문에 꽃 피고 새 잎 나는 좋은 
+시절인 봄이지만 아무런 감흥을 느끼지 못한다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
+## 35~38번 독서(사회) · 독서(사회)
+
 <div class="q-block" id="prob35">
-  <p class="q-stem">35. 문제</p>
+  <p class="q-stem">35. ⓐ~ⓔ에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q35-1">① 오답 선지</li>
-    <li id="q35-2">② 정답 선지</li>
-    <li id="q35-3">③ 오답 선지</li>
-    <li id="q35-4">④ 오답 선지</li>
-    <li id="q35-5">⑤ 오답 선지</li>
+    <li id="q35-1">① ⓐ: 극한 상황을 가정하여 화자의 사랑을 강조한 표현이다.</li>
+    <li id="q35-2">② ⓑ: 화자의 처지와 비슷하여 동질감을 불러일으키는 대상이다.<a class="src-tag ans" href="#ev35">정답 근거</a></li>
+    <li id="q35-3">③ ⓒ: 화자의 조심스러웠던 마음을 비유적으로 나타내는 표현이다.</li>
+    <li id="q35-4">④ ⓓ: 계절과 연결되어 화자의 쓸쓸한 심정을 드러내는 소재이다.</li>
+    <li id="q35-5">⑤ ⓔ: 화자의 슬픈 감정이 이입된 자연물이다. 12 국어영역 고2 12 16 [A] [36~39] 다음 글을 읽고 물음에 답하시오. [앞부분의 줄거리] 어느 시골에 한 부자가 있었는데, 그의 친척 중 한 명이 수시로 횡포를 부리더니, 어느 날은 재산의 절반을 달 라고 위협한다. 그러자 부자는 서울 형조에 송사를 제기하지만 친 척이 미리 관원들에게 뇌물을 준다. 부자는 결국 재판에 지게 되어 재산을 빼앗기게 된다. 부자 생각하되, ‘내 관전에서 크게 소리를 하여 전후사를 아뢰려 하면 반 드시 관전(官前) 발악(發惡)이라 하여 뒤얽어 잡고 법대로 할 양이면 청 듣고 송사도 지게 만드는데, 무슨 일을 할 것이며 무지한 사령 놈들이 만일 함부로 두드리면 고향에 돌아가지도 못하고 죽을 때까지 어혈(瘀血)만 될 것이니 어찌할꼬.’ 이리 생각 저리 생각 아무리 생각하여도 그저 송사를 지고 가기는 차마 분하고 애달픔이 가슴에 가득하여 재판관을 뚫 어지게 치밀어 보다가 문득 생각하되, ‘내 송사는 지고 가거니와 이야기 한 마디를 꾸며 내어 조 용히 할 것이니, 만일 저놈들이 듣기만 하면 무안이나 뵈 리라.’ 하고, 다시 일어서 계단 아래에 가까이 앉으며 하는 말이, “소인이 천 리에 올라와 송사는 지고 가옵거니와 들음직한 이야기 한 마디 있사오니 들으심을 원하나이다.” 관원이 이 말을 듣고 가장 우습게 여기나 평소에 이야기 듣기를 좋아하는 고로 시골 이야기는 재미있는가 하여 듣고 자 하나 다른 송사도 결단치 아니하고 저놈의 말을 들으면 남들이 보는 눈이 걱정되는지라. 거짓 꾸짖는 분부로 일러 하는 말이, “네 본디 시골에 있어 일이 돌아가는 상황을 잘 모르고 관 전에서 이야기한단 말이 되지 못한 말이로되, 네 원이나 풀어 줄 것이니 무슨 말인고 아뢰어라.” [중간 부분의 줄거리] 이렇게 시작된 부자의 이야기는 다음과 같다. 꾀꼬리, 뻐꾹새, 따오기가 서로 자기의 우는 소리가 최고의 소리라고 다투다가 황새를 찾아가 송사를 제기한다. 그런데 소리에 자신이 없었던 따오기는 송사에서 이기기 위해 황새에게 미리 청 탁을 한다. 날이 밝아 세 짐승이 황새 앞에서 소리를 시작한다. 꾀꼬리 먼저 날아들어 소리를 한번 곱게 하고 아뢰되, “소인은 바야흐로 봄이 한창 화창한 좋은 시절에 이화도화 (梨花桃花) 만발하고, 앞내의 버들빛은 초록장 드리운 듯, 뒷내의 버들빛은 유록장 드리운 듯, 금빛 같은 이내 몸이 날아들고 떠들면서 흥에 겨워 청아(淸雅)하고 옥을 깨뜨릴 만한 아름다운 목소리를 춘풍결에 흩날리며 봄의 석 달 동 안 보낼 적에 뉘 아니 아름답게 여기리이까.” 황새 한 번 들으매 과연 제 말과 같아 심히 아름다운지라. 그러나 이제 제 소리를 좋다 하면 따오기에게 청 받은 뇌물 을 도로 줄 것이요, 좋지 못하다 한즉 내 공정치 못한 판결 로 정체가 손상할지라. 반나절이나 깊이 생각한 끝에 판결하 여 이르되, “네 들어라. 당시(唐詩)에 타기황앵아(打起黃鶯兒) 막교 지상제(莫敎枝上啼)*라 하였으니, 네 소리 비록 아름다 우나 애잔하여 쓸데없도다.” 꾀꼬리 점즉히 물러 나올 새, 또 뻐꾹새 들어와 목청을 가 다듬고 소리를 묘하게 하여 아뢰되, “소인은 녹수청산(綠水靑山) 깊은 곳에 만학천봉(萬壑千 峯) 기이하고 안개 피어 구름 되며, 구름이 걷히고 많은 신기한 봉우리로 별세계가 펼쳐졌는데 만장폭포 흘러내려 수정렴을 드리운 듯 송풍(松風)은 소슬하고 오동추야 밝은 달에 이내 소리 만첩청산의 아름다운 새 소리가 되오리니 뉘 아니 반겨하리이까.” 황새 듣고 여러모로 생각해 본 후 판결하되, “월락자규제(月落子規啼) 초국천일애(楚國千日愛)*라 하였으 니, 네 소리 비록 깨끗하나 아주 어려웠던 옛날의 일을 떠 오르게 하니, 가히 불쌍하도다.” 하니, 뻐꾹새 또한 부끄러워하며 물러나거늘, 그제야 따오기 가 날아들어 소리를 하고자 하되, 저보다 나은 소리도 벌써 지고 물러나거늘 어찌할꼬 하며 차마 남부끄러워 입을 열지 못하나, 그 황새에게 약 먹임을 믿고 고개를 나직이 하여 한 번 소리를 주하며 아뢰되, “소인의 소리는 다만 따옥성이옵고 달리 풀쳐 고할 일 없 사오니 사또 처분만 바라고 있나이다.” 하되, 황새놈이 그 소리를 듣고 두 무릎을 탕탕 치며 좋아하 며 이른 말이, “쾌재(快哉)며 장자(長者)로다. 화난 감정이 일시에 터져 나와서 큰 소리로 꾸짖음은 옛날 황장군(黃將軍)의 위풍이 요, 장판교(長坂橋) 다리 위에 백만 군병 물리치던 장익덕 의 호통이로소이다. 네 소리 가장 웅장하니 짐짓 대장부의 기상이로다.” 하고, “이렇듯이 처결하여 따옥성을 상성(上聲)으로 처결하여 주 오니, 그런 짐승이라도 뇌물을 먹은즉 잘못 판결하여 그 꾀꼬리와 뻐꾹새에게 못할 노릇 하였으니 어찌 화가 자손 에게 미치지 아니 하오리이까. 이러하온 짐승들도 물욕에 잠겨 틀린 노릇을 잘 하기로 그놈을 개아들 개자식이라 하 였으니, 이제 서울 법관도 여차하오니, 소인의 일은 벌써 판이 났으매 부질없는 말하여 쓸데없으니 이제 물러가나이 다.” 하니, 형조 관원들이 대답할 말이 없어 가장 부끄러워하더라. - 작자 미상,「황새결송」- * 타기황앵아 막교지상제: ‘꾀꼬리를 날려 보내어 가지 위에서 울게 하지 마라.’는 뜻으로 전쟁으로 헤어진 임을 그리워하는 여인의 애절한 심정 을 담고 있음. * 월락자규제 초국천일애: ‘달이 지고 두견이 우니 초나라 천일의 사랑이 라.’는 뜻으로 나라가 망할 것을 암시함. 고2 국어영역 13 13 16</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>시어의 의미 파악하기
+  ⓑ는 아무런 걱정 없이 봄바람에 웃고 있는 대상으로, 임의 부재로 인해 잠을 이루지 못
+하고 있는 화자의 처지와 대조된다.
+** 고전소설 **
+□ 출전: 작자 미상, <황새결송></p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob36">
-  <p class="q-stem">36. 문제</p>
+  <p class="q-stem">36. 윗글에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q36-1">① 오답 선지</li>
-    <li id="q36-2">② 오답 선지</li>
-    <li id="q36-3">③ 오답 선지</li>
-    <li id="q36-4">④ 정답 선지</li>
-    <li id="q36-5">⑤ 오답 선지</li>
+    <li id="q36-1">① ‘부자’는 송사 결과에 대한 자신의 생각을 제대로 말하지 못해 분 해하였군.</li>
+    <li id="q36-2">② ‘관원’은 ‘부자’의 이야기를 듣고 싶어하나, 남들의 시선을 의 식하고 있군.</li>
+    <li id="q36-3">③ ‘황새’는 ‘따오기’에게 받은 뇌물 때문에 송사에서 공정한 판 결을 내리지 못하는군.</li>
+    <li id="q36-4">④ ‘따오기’는 자기 소리를 자랑하기보다는 ‘황새’의 처분만 기다 리는 것으로 보아 겸손한 자세를 지니고 있군.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
+    <li id="q36-5">⑤ ‘꾀꼬리’는 자신의 소리를 누구든 아름답게 여긴다고 말하는 것으로 보아 자신의 소리에 자부심을 가지고 있군.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>인물의 심리 및 태도 파악하기
+  ‘따오기’는 ‘황새’에게 미리 뇌물을 주고 자신에게 유리한 판결이 내려질 것을 알고 말하
+는 상황이므로 겸손하다고 볼 수 없다.  
+  ① 부자는 ‘관전 발악’이라 해서 처벌 받을까 두려워 송사 결과에 대한 자신의 생각을 제
+대로 말하지 못해 분해하고 있다. ② 관원은 부자의 이야기를 듣고 싶지만, ‘저놈의 말을 들
+으면 남들이 보는 눈이 걱정’되어 거짓으로 꾸짖고 있다. ③ 황새가 따오기의 소리가 ‘상성’
+이라고 판결하는 것은 그에게 받은 뇌물 때문이다. ⑤ 꾀꼬리는 자신의 청아하고 맑은 목소
+리</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob37">
-  <p class="q-stem">37. 문제</p>
+  <p class="q-stem">37. 윗글에 나타난 송사의 내용을 <보기>와 같이 정리해 보았다. 
+(가), (나)에 대한 이해로 적절하지 않은 것은?   
+  
+<보 기></p>
   <ul class="q-opts">
-    <li id="q37-1">① 오답 선지</li>
-    <li id="q37-2">② 정답 선지</li>
-    <li id="q37-3">③ 오답 선지</li>
-    <li id="q37-4">④ 오답 선지</li>
-    <li id="q37-5">⑤ 오답 선지</li>
+    <li id="q37-1">① (가)는 친척의 부당한 요구에서 비롯된다.</li>
+    <li id="q37-2">② (가)를 통해 (나)의 판결 이유가 밝혀지게 된다.<a class="src-tag ans" href="#ev37">정답 근거</a></li>
+    <li id="q37-3">③ (가)의 결과는 부자가 (나)의 이야기를 시작하는 계기가 된다.</li>
+    <li id="q37-4">④ (가)에서 송사의 원인은 ‘재산’이고 (나)에서는 ‘최고의 소리’ 이다.</li>
+    <li id="q37-5">⑤ (가)와 (나) 모두 청탁이 판결에 중요한 영향을 미친다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>작품의 구조 파악하기
+  (나)의 판결 이유는 (가)와 마찬가지로 청탁 때문이다. (나)는 (가)의 상황을 빗대어 비판하
+기 위해 제시된 것이지 (가)를 통해 (나)의 판결 이유가 밝혀지는 것은 아니다. 
+  ① (가)는 재산의 절반을 내놓으라는 친척의 요구에서 비롯된다. ③ (가)의 송사 결과에 
+억울함을 느낀 부자가 (나)의 이야기를 시작한다. ④ (가)에서 송사의 원인은 돈이지만 
+(나)에서는 ‘최고의 소리’이다. ⑤ (가)에서는 친척이 관원에게 준 뇌물이, (나)에서는 따오
+기가 황새에게 준 뇌물이 송사의 판결에 중요한 영향</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob38">
-  <p class="q-stem">38. 문제</p>
+  <p class="q-stem">38. ‘부자’가 이야기를 한 의도로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q38-1">① 오답 선지</li>
-    <li id="q38-2">② 오답 선지</li>
-    <li id="q38-3">③ 정답 선지</li>
-    <li id="q38-4">④ 오답 선지</li>
-    <li id="q38-5">⑤ 오답 선지</li>
+    <li id="q38-1">① 관원들에게 다른 송사를 청탁하기 위해서</li>
+    <li id="q38-2">② 무식한 관원에게 자신의 지혜를 뽐내기 위해서</li>
+    <li id="q38-3">③ 비리와 관련된 관원들을 우회적으로 비판하기 위해서<a class="src-tag ans" href="#ev38">정답 근거</a></li>
+    <li id="q38-4">④ 예상과 다른 판결에 대해 관원들과 논쟁을 벌이기 위해서</li>
+    <li id="q38-5">⑤ 자신의 패배로 끝난 송사로 인해 잃게 된 재산을 되찾기 위 해서</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>인물의 의도 파악하기
+  부자는 잘못된 판결을 내린 관원들에게 무안함을 주기 위해 새들의 이야기를 하고 있다. 
+따라서 이야기의 의도는 송사와 관련된 형조 관원들의 부패상을 우회적으로 비판하기 위한 
+것이라 볼 수 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
+## 39~42번 갈래 복합 · 갈래 복합
+
 <div class="q-block" id="prob39">
-  <p class="q-stem">39. 문제</p>
+  <p class="q-stem">39. [A]에 대해 <보기>와 같이 반응한다고 할 때, (   )에 들어
+갈 한자성어로 가장 적절한 것은?
+  
+<보 기>
+  “황새는 자기의 주장을 합리화하기 위해 (       )의 태도
+를 보이고 있군.”</p>
   <ul class="q-opts">
-    <li id="q39-1">① 정답 선지</li>
-    <li id="q39-2">② 오답 선지</li>
-    <li id="q39-3">③ 오답 선지</li>
-    <li id="q39-4">④ 오답 선지</li>
-    <li id="q39-5">⑤ 오답 선지</li>
+    <li id="q39-1">① 견강부회(牽强附會)<a class="src-tag ans" href="#ev39">정답 근거</a></li>
+    <li id="q39-2">② 경거망동(輕擧妄動)</li>
+    <li id="q39-3">③ 각주구검(刻舟求劍)</li>
+    <li id="q39-4">④ 배은망덕(背恩忘德)</li>
+    <li id="q39-5">⑤ 타산지석(他山之石) 14 국어영역 고2 14 16 [B] [A] [40~43] 다음 글을 읽고 물음에 답하시오. 구보씨는 친구 H의 결혼식에 가면서 문득, 이례적으로, 부조금을 가져갈 것인가 말 것인가를 고민하다가, 별안간, 그러면 대체 소설이 무얼까, 소설가란 무얼까, 하는 물음 에 직면하게 되었다. 구보씨는 참 우스운 사람이다. 물론, 그 순간, 골목길에 멈춰선 구보씨도 스스로가 우습다는 생각을 했다. 소설가는 세상에서 실패한 사람이니까, 하고 구보씨는 스스로에게 대답해보았다. 밑도 끝도 없이. 정말 그런 걸 까. 구보씨도 세상에서 실패한 사람인가. 그래서 친구 결 혼식에 부조금도 못 낸단, 아니 안 낸단 말인가. 그러면 성공하면 낸다는 말인가. 성공한다는 게 뭔가. 소설가도 성공할 수 있는 건가. 구보씨 스스로 소설가란 세상에서 실패한 사람이라고 하지 않았던가. 그러니 성공하면 이미 소설가가 아니지 않는가. 그 ‘성공’이라는 말이 ‘소설에 관 한 한 성공’이라면 모르되 말이다. 소설에 관한 한 성공은 곧 세상에서의 더 큰 실패가 아닐까. 세상에서 성공하면 소설가로선 실패하는 것이다. (중략) “어이, 구보 아냐. 오래간만인데.” K였다. 대학 동기다. 구보씨는 멍청한 표정으로 그와 악수 했다. “소설 쓴다며? 너밖에 없구나. 난 학교 때도 그놈의 문학은 영 모르겠더라구. 학과 선택에 실패했나봐, 난. 그래서 취 직했지.” K는 웬일인지 호들갑스러웠다. 구보씨는 말을 잊은 듯 K 의 얼굴만 멀뚱멀뚱 바라볼 뿐이었다. K가 너무 이질적으로 보였다. 하긴 K도 구보씨를 이질적으로 보고 있었겠지만. 구 보씨가 아무 말이 없자 K는 계속 혼자 말해야 했다. “너 소설 쓰느라 피곤한 모양이구나. 돈은 좀 벌리냐? 소설 을 돈 벌라고 쓰는 건 아니겠지만. 그래도 먹구는 살아야 지.” “조금. 5 ․ 16 이후에 어디 조선 땅에서 굶어죽은 사람이 있 었니.” 구보씨가 대답했다. 그의 첫마디였다. “그래. 어쨌든 한국 자본주의가 많이 컸어.” ㉠K는 구보씨가 비꼬아서 말한 줄을 모르고 그렇게 말했 다. 그러나 K가 무슨 죄가 있으랴. 비꼬는 구보씨가 나쁘지. “그런데, H 이 자식, 돈 좀 벌었나보더라.” “돈?” K의 말인즉슨, H의 출판사에서 낸 책이 요즘 장안의 지가를 올리고 있다는 거였다. 돈 벌려면 이렇게 살아라, 라던가 이렇게 살면 돈 번다, 라던가 아무튼 그런 책인데, 성공한 자본가들의 체험담을 모아놓은 책이라고 했다. 그 러고 보니 구보씨도 그런 책이 있다는 소릴 들은 것도 같 았다. 그 책이 잘 팔린단다. 돈 버는 방법을 가르쳐주는 책으로 돈을 벌다니. 돈 번 사람들의 이야기로 돈을 벌다 니. 책이라는 게 뭔가. 글을 쓴다는 건 또 뭔가. 요즘 사 람들은 대재벌 총수들이 쓴 책을 즐겨 사 본다. 이 시대 의 진정한 문필가는 성공한 대자본가인 것 같다. 소설가 나 시인이 쓴 글은 거들떠보지도 않는다. 밤낮 뭐가 잘 안 되는 이야기나 써놓은 책을 볼 까닭이 없다고 생각하 나보다. 사람들은 성공한 이야기를 듣고 싶어하고, 그 성 공의 척도는 돈이다. 모두 돈을 벌고 싶으니까 돈 번 사 람의 이야기를 듣는다. 그 사람이 돈을 벌기 위해 노동자 를 얼마나 착취했건, 독재 정권과 얼마나 추악한 거래를 했건, 부동산 투기를 얼마나 했건, 그런 것은 아무 상관이 없다. 도덕이니 정의니 가치니 이런 말들은 듣고 싶지도 않은 모양이다. “돈 좀 버니까 사람들 꼬이는 거 봐라.” K가 말했다. 구보씨는 그제서야 다시 결혼식이 벌어지고 있는 식장 쪽을 바라보았다. 정말 입추의 여지가 없이 꽉 차 있었다. “친구들은 많이 왔지?” 구보씨가 물었다. “많이 왔더라.” “어떻게 지낸다디?” “뭐, 다 그렇지. 취직하고 결혼하고 애 낳고.” “넌 뭐하니?” “㉡보험. 증권은 한물갔잖아. 그 다음은 보험이야.” “그래?” “결혼식이 다 끝났나보다. 가서 사진이나 찍자.” “먼저 가. 나는 담배나 한 대 피우고 가지.” K는 식장 안으로 들어갔고, 구보씨는 담배를 한 대 피워물 었다. 구보씨의 가슴은 두근거렸다. 담배를 피우고 있는 손은 떨리고 있었고. 빌어먹을. H가 돈을 벌었다네. 돈을 벌려면 이렇게 살아라, 라던가 이렇게 살면 돈을 번다, 라던가 하는 책을 만들었다네. ㉢그래서 결혼식에 이렇게 많은 사람들이 꼬여든 거라네. 오지 말걸. 이제 다시는 사람 많이 모이는, 꼬여드는 곳엔 가지 말아야지. 구보씨는 담배를 끄고 결혼식장을 나가려다 그만 멈칫했 다. 그는 마지막으로 친구 H의 모습을 보고 싶어졌다. 마지 막으로. 마지막이란 말은 항상 사람을 비장하게 만든다. 구보 씨는 비장하게 결혼식장 입구로 걸어갔다. 그는 문밖에 선 채로 빼꼼히 안을 들여다보았다. H가 보였다. H는 친구들에 게 둘러싸여 환하게 웃으며 사진을 찍고 있었다. 네가 나와 함께 군부 독재와 독점 재벌을 타도하자던 H냐. ㉣구보씨가 서 있는 입구와 H가 서 있는 자리 사이에는 울긋불긋한 주 단이 깔려 있었다. 구보씨는 그 주단을 밟고 뛰쳐나가 H의 멱살을 잡고 그 웃는 얼굴에다 대고 그렇게 묻고 싶었다. 그 러나 구보씨는 그러지 못했다. 그 대신 구보씨는 H의 얼굴과 그 주변에 늘어서 함께 사진을 찍고 있는, 역시 웃고 있는, 친구들의 얼굴을 유심히 보아두었다. 대체로 알고 있는 얼굴 들이었다. ㉤구보씨는 마지막으로 그들의 얼굴을 머릿속에 또렷하게 새겨두었다. 다시는 만나지 않기 위해. - 주인석, ｢사잇길로 접어든 역사-소설가 구보씨의 하루2｣-</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>상황에 맞는 한자성어 파악하기
+  [A]에서 황새는 꾀꼬리의 소리가 아름답다고 생각하나 따오기에게 받은 뇌물 때문에 억
+지 논리로 판결을 내리고 있다. 따라서 이러한 황새의 태도를 평가하는 말로는, ‘가당치도 
+않은 말을 억지로 끌어다 대어 자기 주장을 합리화함.’을 뜻하는 ‘견강부회’가 적절하다.
+  ②는 ‘경솔하여 생각 없이 망령되게 행동함.’을,  ③은 ‘융통성 없이 현실에 맞지 않는 낡
+은 생각을 고집하는 어리석음.’을, ④는 ‘남에게 입은 은덕을 저버리고 배신함.’을, ⑤는 ‘본
+보기가 되지 않은 남의 말이나 행동도 자신의</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob40">
-  <p class="q-stem">40. 문제</p>
+  <p class="q-stem">40. [A]의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q40-1">① 오답 선지</li>
-    <li id="q40-2">② 오답 선지</li>
-    <li id="q40-3">③ 오답 선지</li>
-    <li id="q40-4">④ 오답 선지</li>
-    <li id="q40-5">⑤ 정답 선지</li>
+    <li id="q40-1">① 인물의 회상을 중심으로 사건이 진행된다.</li>
+    <li id="q40-2">② 장면 변화에 따른 인물의 심리가 암시된다.</li>
+    <li id="q40-3">③ 서술자가 교체되어 사건을 심층적으로 제시한다.</li>
+    <li id="q40-4">④ 두 사건을 동시에 진행하면서 긴장감을 고조한다.</li>
+    <li id="q40-5">⑤ 서술자가 인물에 대한 평가와 인물의 내면을 드러낸다. 고2 국어영역 15 15 16<a class="src-tag ans" href="#ev40">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>서술상의 특징 파악하기
+  [A]의 서술자는 소설에 대한 고민, 변해버린 친구에 대한 씁쓸함 등 구보의 내면도 제시하면서 
+‘구보씨는 참 우스운 사람이다.’와 같이 구보에 대한 평가도 드러내고 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob41">
-  <p class="q-stem">41. 문제</p>
+  <p class="q-stem">41. 윗글을 통해 알 수 있는 내용으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q41-1">① 오답 선지</li>
-    <li id="q41-2">② 오답 선지</li>
-    <li id="q41-3">③ 오답 선지</li>
-    <li id="q41-4">④ 정답 선지</li>
-    <li id="q41-5">⑤ 오답 선지</li>
+    <li id="q41-1">① 구보는 K를 통해 H의 근황에 대해 듣게 된다.</li>
+    <li id="q41-2">② K와 구보는 오랜만에 H의 결혼식장에서 만난다.</li>
+    <li id="q41-3">③ 구보는 H가 돈을 벌었다는 것을 달가워하지 않는다.</li>
+    <li id="q41-4">④ K는 H의 출판사에서 낸 책에 대해 비판적인 견해를 드러낸다.<a class="src-tag ans" href="#ev41">정답 근거</a></li>
+    <li id="q41-5">⑤ K는 H가 책으로 성공을 해서 결혼식에 사람들이 많이 왔다 고 생각한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>작품의 내용 이해하기
+  K는 구보에게 H의 출판사에서 낸 책이 성공을 거두었다는 것을 이야기하고 있으나, 그에 
+대해 비판적인 견해를 드러내지는 않는다. 
+  ① K는 구보에게 H가 돈을 벌었다는 이야기를 해준다. ② ‘구보 아냐. 오래 간만인데.’라
+는 대사를 통해 두 사람이 오랜만에 결혼식장에서 만났다는 것을 알 수 있다. ③ H가 돈을 
+번 사실에 구보는 ‘빌어먹을. H가 돈을 벌었다네.’라며 H의 멱살을 잡고 묻고 싶어 하는 것
+으로 보아 그에 대해 부정적으로 생각한다는 것을 알 수 있다. ⑤ K는 H가 성공해서 사람
+들이</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob42">
-  <p class="q-stem">42. 문제</p>
+  <p class="q-stem">42. <보기>는 윗글의 창작 동기가 된 소설의 일부이다. <보기>와 
+[B]를 비교하여 이해한 것으로 가장 적절한 것은? [3점]
+  
+<보 기>
+  황금광 시대(黃金狂時代).
+  저도 모를 사이에 구보의 입술은 무거운 한숨이 새어나왔
+다. 황금을 찾아, 황금을 찾아, 그것도 역시 숨김없는 인생
+의, 분명히, 일면이다. 그것은 적어도, 한 손에 단장과 또 한 
+손에 공책을 들고, 목적 없이 거리로 나온 자기보다는 좀더 
+진실한 인생이었을지도 모른다. 시내에 산재한 무수한 광무
+소(鑛務所)*. 인지대 백 원. 열람비 오 원. 수수료 십 원. 지
+도대 십팔 전…… 출원 등록된 광구, 조선 전토(全土)의 칠 
+할. 시시각각으로 사람들은 졸부가 되고, 또 몰락해갔다. 황
+금광 시대. 그들 중에는 평론가와 시인, 이러한 문인들조차 
+끼어 있었다. 구보는 일찍이 창작을 위해 그의 벗의 광산에 
+가보고 싶다 생각하였다. 사람들의 사행심, 황금의 매력, 그
+러한 것들을 구보는 보고, 느끼고, 하고 싶었다. 그러나, 고
+도의 금광열은, 오히려, 총독부 청사, 동측 최고층, 광무과 
+열람실에서 볼 수 있었다…….
+- 박태원, ｢소설가 구보씨의 일일｣-
+* 광무소: 광산 회사의 사무실.</p>
   <ul class="q-opts">
-    <li id="q42-1">① 오답 선지</li>
-    <li id="q42-2">② 오답 선지</li>
-    <li id="q42-3">③ 오답 선지</li>
-    <li id="q42-4">④ 정답 선지</li>
-    <li id="q42-5">⑤ 오답 선지</li>
+    <li id="q42-1">① <보기>와 [B] 모두 당대의 정치적 상황에 당당히 맞서는 문인들의 모습이 담겨 있다.</li>
+    <li id="q42-2">② <보기>와 [B] 모두 문인들이 현실 타협적인 글을 쓸 수밖 에 없는 이유가 드러나 있다.</li>
+    <li id="q42-3">③ <보기>와 [B] 모두 자본가에 밀려 자신들의 입지가 좁아지 는 것에 대한 문인들의 고민이 나타나 있다.</li>
+    <li id="q42-4">④ <보기>에는 문인들조차 돈을 좇는 현실이, [B]에는 돈을 추 구하는 세태로 인해 소설가의 글이 인정받지 못하는 현실이 드러나 있다.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
+    <li id="q42-5">⑤ <보기>에는 문인들이 사회에 적응할 수 없는 이유가, [B]에 는 사회 변화에 따라 소설가의 역할도 달라져야 하는 이유가 부각되고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>작품 이해의 적절성 판단하기 
+  <보기>에는 문인들조차 황금에 열광하는 상황이, [B]에는 소설가의 글보다 자본가에 관
+한 책이 인기를 얻는 상황이 나타난다. 
+  ① <보기>에는 ‘총독부’, [B]에는 ‘독재 정권’이라는 정치적 현실이 나타났으나, 이에 맞
+서는 문인들의 모습은 나타나지 않는다. ② <보기>에는 문인들이 황금을 좇는 모습이 드러
+나지만, <보기>와 [B] 모두 현실 타협적인 글쓰기의 이유는 나타나지 않는다. ③ [B]에는 
+성공한 자본가의 책에 밀리는 문인들의 모습이 드러나 있으나, <보기>에서는 자본가와 관
+련</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 현대시 · 현대시
+
 <div class="q-block" id="prob43">
-  <p class="q-stem">43. 문제</p>
+  <p class="q-stem">43. ㉠~㉤에 대한 설명으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q43-1">① 오답 선지</li>
-    <li id="q43-2">② 오답 선지</li>
-    <li id="q43-3">③ 오답 선지</li>
-    <li id="q43-4">④ 오답 선지</li>
-    <li id="q43-5">⑤ 정답 선지</li>
+    <li id="q43-1">① ㉠에는 K가 구보가 말한 의도를 파악하지 못하고 있음이 드 러나 있다.</li>
+    <li id="q43-2">② ㉡에는 시대의 흐름에 편승하는 K의 세속적 면모가 드러나 있다.</li>
+    <li id="q43-3">③ ㉢에는 H의 결혼식에 모인 사람들에 대한 구보의 부정적 인 식이 나타나 있다.</li>
+    <li id="q43-4">④ ㉣에는 과거와 달라진 H와 그를 바라보는 구보 사이의 거리 감이 나타나 있다.</li>
+    <li id="q43-5">⑤ ㉤에는 친구들과 감정을 교류하며 살아야겠다는 구보의 다짐 이 나타나 있다. 16 국어영역 고2 16 16 [44∼45] 다음 글을 읽고 물음에 답하시오. [앞부분의 줄거리] 위조지폐를 만드는 가족(사장, 사원 갑, 사원 을, 사원 병)이 빌딩에 유령 회사를 차려 놓고, 누명을 써서 전과 자가 된 청년을 사원으로 채용한다. 청년은 한 달 치 월급으로 받 은 위조지폐로 양복을 구입하다 사복형사에게 잡혀 사무실로 끌려 오게 된다. 청년: 오! 사장님! 사복: 선생이 간편무역 사장이십니까? 청년: 그렇습니다. 이분이 바로……. 사장: 잘못 아시고 오신 모양이군. 사원 갑: 용산서에서 오셨어요. 사장: 나한테? 무슨 일로? 사복: 이 남자가 선생 회사에 취직했다는뎁쇼. 사장: 천만에! 대체 누구입니까? 이 남자는 난 생면부지올시다. 청년: 아닙니다. 사장님, 그런 말씀이 어디 있습니까? 금방 제가 눈물을 흘리며 고마워하지 않았어요? 전 여기 사원이에요, 사장님. 사복: (뺨을 갈기며) 인마, 아직도 거짓말이야, 응? 청년: 아녜요. 나으리는 몰라요, 나으린. 아씨, 아씨! 아씨가 아십니다. 회계과장이 한 달 월급을 선불해 주시고, 양복을 사 입으라고 달러 지폐를 주셨어요. 사복: 인마, 떠들지 마라. 글쎄 이 미련한 친구가 누굴 속여 보겠다고 백 불짜리 지폐를 위조해 가지고 백주 에 서울 네거리를 횡행합니다그려. 헛헛……. 그래서 월급을 받았다? (머리를 갈기며) 인마, 뭐 양복을 짓 겠다고? 가짜 돈을 찍으려면 남이 봐도 그럴듯하게 만 들어. 진짜 백 불짜린 구경도 못했을 자식이. 가자, 인 마. 실례 많았습니다. 사장: 원 천만에요. 청년: 사장님, 나으리! 제겐 아무 죄도 없어요. 제발, 미련은 하지만 나쁜 짓을 한 적은 한 번도 없어요. 하나님이 아십 니다, 하나님이! 어이구 그 지긋지긋한 감옥살일 어떻게 하라고 이러십니까, 이러시길. 사장님! 구두도 사서 신구 양복도 새로 맞추고 추천서도 일없고 신원보증도 일없다고 그러시지 않았어요. 사장님! 아씨를 만나게 해주세요, 아씨 를. 아씨는 거짓말을 안 하실 겁니다. 아씨! 아씨! 사복: 인마, 떠들지 마라, 가자! (억지로 끌고 나간다.) 청년: (복도로 해서 오른쪽으로 끌려가며) 사장님! 왜 제게 취직자리를 줬어요? 취직만 안 했더라면 감옥에도 안 가고…… 감옥엘, 감옥엘…… 저 사장님…… 너무합니다. 사장님! 사장과 사원 갑은 사장실로, 사원 정은 복도로 가서 청년 이 간 뒤를 물끄러미 바라본다. 사장: 결국 또 실패지. 이번엔 얼마나 찍었더냐? 사원 갑: 시험 삼아 3백 장만 찍었어요. 사장: 흥, 3만 불이로구나. (지갑에서 진짜를 꺼내 대조 하며) 어디가 다른가 좀 자세히 보아라. 사원 갑: 도안이 좀 이상하다 했더니만. 사원 병: 도안이 아녜요, 형님. 인쇄 잉크가 달라요. 사원 을: 잉크가 어떻다고 그래, 종이가 틀리는걸 뭐. 사원 갑: 종이야 할 수 없지. 미국을 간다고 같은 종이 를 사겠니. 사원 병: 아녜요, 잉크예요. 사원 을: 종이야. 사원 갑: 도안이 틀렸어. 사원 병: 잉크가 아니라니깐. 사원 을: 잉크가 어쨌단 말야. 네가 도안을 잘못 그려놓곤. 사원 병: 도안이 어디가 틀렸어! 사장: 얘들아, 떠들지 마라. 그 미련한 녀석 때문에 단단히 손해 봤다. 사원 병: 참 그 자식 때문이야. 사원 갑: 첫눈에도 자식이 좀 모자라는 것 같더니만. - 오영진,「정직한 사기한」-<a class="src-tag ans" href="#ev43">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>구절 의미 파악하기 
+  구보는 세속적 가치를 좇는 H와 친구들의 모습에 실망하고, 이들과 결별할 것을 다짐하
+고 있다. 따라서 구보가 친구들과의 감정을 교류하며 위안을 얻는다는 진술은 적절하지 않
+다. 
+  ② K가 증권이 한물가서 보험을 한다는 것으로 보아 시대의 흐름에 편승하는 인물임을 
+알 수 있다. ③ 구보는 H가 돈을 벌어 H의 결혼식에 많은 사람이 ‘꼬여든 거’라고 생각하는
+데, 이는 구보가 그러한 사람들에 대해 부정적으로 인식하고 있음을 보여준다. 
+
+** 희곡 **
+□ 출전: 오영진, <정직한 사기한></p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob44">
-  <p class="q-stem">44. 문제</p>
+  <p class="q-stem">44. 윗글에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q44-1">① 오답 선지</li>
-    <li id="q44-2">② 오답 선지</li>
-    <li id="q44-3">③ 오답 선지</li>
-    <li id="q44-4">④ 오답 선지</li>
-    <li id="q44-5">⑤ 정답 선지</li>
+    <li id="q44-1">① ‘사복’은 ‘청년’보다는 ‘사장’의 말을 신뢰한다.</li>
+    <li id="q44-2">② ‘청년’은 자신의 결백함을 ‘아씨’가 밝혀줄 수 있다고 믿고 있다.</li>
+    <li id="q44-3">③ ‘사장’은 위기를 모면하기 위해 ‘사복’ 앞에서 ‘청년’을 모른 체한다.</li>
+    <li id="q44-4">④ ‘사장’은 잡혀 온 ‘청년’을 통해 지폐를 위조하는 데 실패했음 을 확인한다.</li>
+    <li id="q44-5">⑤ ‘사원 갑’과 ‘사원 병’은 위조지폐를 사용하다 ‘사복’에게 붙잡 힌 ‘청년’을 동정한다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>작품의 내용 이해하기
+  ‘사원 갑’과 ‘사원 병’은 ‘청년’ 때문에 지폐 위조가 실패했다고 생각하며 ‘청년’을 모자란 
+사람이라고 생각한다. 그들이 ‘청년’을 ‘동정’하는 것은 아니다. 
+  ② ‘청년’은 끌려가는 마지막 순간까지 ‘아씨’를 부르며 ‘아씨’는 거짓말을 안 할 것이라고 
+굳게 믿고 있다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
 
 <div class="q-block" id="prob45">
-  <p class="q-stem">45. 문제</p>
+  <p class="q-stem">45. [A]∼[E] 중, <보기>의 밑줄 친 부분에 해당하는 것은?
+  
+<보 기>
+  단막극인 이 작품은 무대 공간이 회사 안으로 제한된다. 
+무대 공간에서 이루어지는 인물들의 행동과 대화로 이야기
+가 형상화되기도 하지만, 무대 공간의 제약으로 인해 무대 
+밖에서 일어난 사건이 오직 인물의 언어적 표현으로 전달되
+기도 한다.</p>
   <ul class="q-opts">
-    <li id="q45-1">① 오답 선지</li>
-    <li id="q45-2">② 정답 선지</li>
-    <li id="q45-3">③ 오답 선지</li>
-    <li id="q45-4">④ 오답 선지</li>
-    <li id="q45-5">⑤ 오답 선지</li>
+    <li id="q45-1">① [A] : 사복이 청년의 뺨을 때리고 의견을 묵살하는 일</li>
+    <li id="q45-2">② [B] : 청년이 백 불짜리 위조지폐로 양복을 구매하려는 일<a class="src-tag ans" href="#ev45">정답 근거</a></li>
+    <li id="q45-3">③ [C] : 사복이 청년을 끌고 사무실 밖으로 나가는 일</li>
+    <li id="q45-4">④ [D] : 사장이 진짜 지폐를 꺼내 사원들에게 대조시키는 일</li>
+    <li id="q45-5">⑤ [E] : 사원들이 위조지폐의 조잡함에 대해서 이야기하는 일 * 확인 사항 ◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인 하시오. [D] [A] [C] [E] [B]</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 해설 준비 중입니다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p>외적 준거를 바탕으로 감상하기
+  [B]에서 ‘청년’이 위조지폐로 양복을 구매하려 한 일은 ‘사복’의 말을 통해 제시되고 있을 
+뿐, 무대 공간에서 일어난 것이 아니다. [A], [C], [D], [E]는 모두 무대 공간에서 인물의 
+말과 행동을 통해 드러난 일이다.</p>
       </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+        </tbody>
+      </table>
     </div>
   </details>
 </div>
