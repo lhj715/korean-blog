@@ -1231,15 +1231,260 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setA1" class="set-anchor"></div>
 
-## 35~37번 발표 · [작성 예정]
+## 35~37번 발표 · 하회탈의 조형적 기법
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>하회탈의 두 기법: 절악 기법(턱 분리, 고개 각도에 따른 표정 변화) + 비대칭 조각 기법(초랭이의 이중적 표정).</p>
+  <ul>
+    <li><strong>절악 기법</strong> — 아래턱을 분리하여 끈으로 연결. 고개 뒤로=웃음, 고개 숙임=화난 표정</li>
+    <li><strong>비대칭 조각 기법</strong> — 초랭이탈: 한쪽 볼이 다른 쪽보다 10mm 높아 보는 방향에 따라 다른 표정</li>
+    <li><strong>35번 ③</strong> — "하회탈만 턱이 분리되어 있는지 질문하셨네요" → 청중 질문에 답변하며 진행</li>
+    <li><strong>36번 ④</strong> — 메모: '양반의 모습이 담긴 영상'으로 초랭이 두 표정 보여줌 → 실제 발표: 초랭이가 양반의 오른쪽에 서 있는 영상으로 보는 방향에 따른 표정 차이 보여줌</li>
+    <li><strong>37번 ⑤</strong> — 학생3은 배경지식 수정이 아니라 발표에 없는 정보 언급</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 37] 다음은 학생의 발표이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evA35-3a">… (청중의 질문을 듣고) 하회탈만 턱이 분리되어 있는지 질문하셨네요. 물론 다른 탈도 있지만 하회탈의 절악 기법은 독창적입니다.</span><a class="ev-tag ans" href="#qA35-3">35-③</a></p>
+  <p><span class="ev" id="evA36-4a">초랭이에게 이중적인 태도를 보여야 하는 양반 모습 → 발표에서는 '초랭이가 양반의 오른쪽에 서 있는' 영상으로 초랭이의 두 표정 보여줌.</span><a class="ev-tag ans" href="#qA36-4">36-④</a></p>
+  <p><span class="ev" id="evA35-4a">발표를 준비할 때 참고한 누리집 QR 코드를 보여 드릴 테니, 방문해서 다른 하회탈의 생생한 표정도 느껴 보시기 바랍니다.</span><a class="ev-tag" href="#qA35-4">35-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probA35">
+  <p class="q-stem">35. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA35-1">① 발표 제재의 역사적인 유래와 전승 과정을 제시하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA35-2">② 발표 대상의 종류를 열거하며 각각의 장단점을 소개하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA35-3">③ 발표 내용에 대한 청중의 질문에 답변하며 발표를 진행하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA35-4">④ 발표 내용에 대한 청중의 이해도를 점검하며 발표를 마무리하고 있다.<a class="src-tag" href="#evA35-4a">지문 근거</a></li>
+    <li id="qA35-5">⑤ 발표를 시작할 때 발표 대상의 실물을 보여 주며 발표 목적을 제시하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>청중이 '하회탈만 턱이 분리되어 있는지' 질문하자 이에 답변하며 발표를 진행했다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 없는 내용.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>청중 질문→답변하며 진행.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA36">
+  <p class="q-stem">36. 다음은 발표자가 위 발표를 준비하면서 작성한 메모이다. 발표 내용에 반영되지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA36-1">① 청중의 이해를 돕기 위해 양반탈의 상반된 표정을 보여 줄 수 있는 영상을 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA36-2">② 청중의 기억을 환기하기 위해 초랭이의 외양을 보여 주는 사진을 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA36-3">③ 하회탈이 가진 차별점을 드러내기 위해 턱이 분리되어 있는 다른 나라의 탈과 비교한 사진을 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA36-4">④ 초랭이탈의 두 표정을 보여 주기 위해 초랭이에게 이중적인 태도를 보이는 양반의 모습이 담긴 영상을 제시해야겠어.<a class="src-tag ans" href="#evA36-4a">정답 근거</a></li>
+    <li id="qA36-5">⑤ 탈의 좌우 조각 차이를 드러내기 위해 초랭이탈의 좌우 볼 높이를 보여 주는 실측 도면을 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>실제 발표에서는 '초랭이가 양반의 오른쪽에 서 있는' 영상으로 보는 방향에 따른 표정 차이를 보여줬다. '양반이 이중적 태도를 보이는' 영상이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>발표에 반영됨.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'양반의 모습이 담긴 영상'이 아니라 '초랭이 보는 방향에 따른 표정 차이 영상'.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA37">
+  <p class="q-stem">37. 발표 내용을 바탕으로 할 때, &lt;보기&gt;에 나타난 학생들의 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p>학생1: 하회탈 조형적 기법 알게 됨+유익+눈가 주름 기법 궁금해서 도서관 찾아봄. / 학생2: 탈=바가지·종이로 만든 것 많다고 알았는데 하회탈=나무였네 왜? / 학생3: 초랭이탈 크기가 작은 이유 궁금했는데 발표에 없어 아쉬워, 누리집 찾아볼게.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA37-1">① '학생 1'은 새로 알게 된 내용을 언급하며 발표를 긍정적으로 평가하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA37-2">② '학생 2'는 발표 내용을 자신이 알고 있는 내용과 비교하며 궁금증을 드러내고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA37-3">③ '학생 3'은 발표에서 다루지 않은 정보를 언급하며 발표에 대해 아쉬움을 드러내고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA37-4">④ '학생 1'과 '학생 3'은 모두, 발표 내용과 관련하여 추가적인 정보를 탐색하려 하고 있다.<a class="src-tag" href="#evA35-4a">지문 근거</a></li>
+    <li id="qA37-5">⑤ '학생 2'와 '학생 3'은 모두, 발표에서 알게 된 정보를 토대로 배경지식을 수정하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>학생2는 "탈=바가지·종이인 줄 알았는데 하회탈은 나무구나" → 배경지식 수정 맞음. 학생3은 발표에 없는 내용을 아쉬워하는 것이지 배경지식을 수정하지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>학생3은 배경지식 수정 없음. 발표 없는 내용 언급+아쉬움.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA2" class="set-anchor"></div>
 
-## 38~42번 화법·작문 · [작성 예정]
+## 38~42번 화법·작문 · 쇼트 폼 유행 탐구와 비평문
+
+<div class="passage">
+  <p class="passage-guide">[38 ~ 42] (가)는 '사회 현상 탐구 동아리' 학생들의 대화이고, (나)는 이를 바탕으로 '학생 1'이 작성한 초고이다.</p>
+  <p><strong>핵심</strong> — (가) 쇼트 폼 유행 이유(친숙·편리)→우려(과몰입·자극 중독) vs 긍정(정보 활용·소통) / (나) 비평문: 우려 언급 후 긍정 강조(사고하는 소비자, 생산하는 소비자)</p>
+</div>
+
+<div class="q-block" id="probA38">
+  <p class="q-stem">38. (가)의 '학생 1'에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA38-1">① 대화 참여자들의 발언을 정리하고 대화 내용을 전환하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA38-2">② 대화 참여자의 상반된 의견을 절충한 대안을 제시하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA38-3">③ 대화 참여자가 제시한 정보에 대한 출처를 요구하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA38-4">④ 대화 참여자 발언 순서를 지정하며 대화를 시작하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA38-5">⑤ 대화 내용이 지닌 의의를 밝히며 대화를 마무리하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>학생1: "쇼트 폼이 친숙하고 편리하기 때문에 ~ 유행한다고 생각하는 것이구나. 그러면 이러한 현상을 우리 사회는 어떻게 바라보고 있을까?" = 발언 정리+전환.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>발언 정리+대화 내용 전환.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 없는 역할.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA39">
+  <p class="q-stem">39. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA39-1">① [A]의 '학생 3'과 달리 [B]의 '학생 2'는 전문가의 의견을 제시하여 자신의 견해를 뒷받침하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA39-2">② [A]의 '학생 2'와 달리 [B]의 '학생 3'은 상대의 의견을 다른 측면에서 언급하며 우려되는 점을 제시하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA39-3">③ [B]의 '학생 3'과 달리 [A]의 '학생 2'는 상대의 발화를 재진술하며 자신이 이해한 내용을 확인하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA39-4">④ [A]의 '학생 2'와 [B]의 '학생 3'은 모두, 상대의 의견에 동조하며 자신의 의견을 수정하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA39-5">⑤ [A]의 '학생 3'과 [B]의 '학생 2'는 모두, 객관적인 자료를 제시하며 상대에게 입장의 변화를 요구하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>[A] 학생2: 쇼트 폼=정보 활용에 유용(긍정). [B] 학생3: "물론 그런 긍정적인 측면도 있지. 하지만 잘못된 정보 퍼질 수 있어" = 다른 측면에서 우려 제시.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>[A]학생2 긍정 언급 후 [B]학생3이 다른 측면(우려) 제시.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA40">
+  <p class="q-stem">40. 다음은 (가)를 반영하여 (나)를 작성하기 위한 글쓰기 계획이다. (나)에 반영된 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="qA40-1">① 쇼트 폼의 분량상 특징을 쇼트 폼이 청소년들에게 인기가 있다는 것의 이유로 제시한다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA40-2">② (가)에서 언급된 쇼트 폼 시청 시간 통계를 활용하여 쇼트 폼이 청소년들 사이에서 특히 유행한다는 것을 뒷받침한다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA40-3">③ 쇼트 폼 과몰입이 초래하는 결과를 제시하여 쇼트 폼이 청소년에게 악영향을 미칠 수 있다는 우려에 대해 서술한다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA40-4">④ 쇼트 폼의 긍정적인 가치를 두 가지로 나누어 서술한다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA40-5">⑤ 청소년들이 건강한 영상 소비 생활을 실천해야 한다고 제안한다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>(나)에 쇼트 폼 시청 시간 통계가 없다. (가)에서 학생3이 언급(10대 청소년 월평균 52시간)했지만 (나)에는 반영되지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>(나)에 반영됨.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>시청 시간 통계=(나)에 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA41">
+  <p class="q-stem">41. (나)에 활용된 글쓰기 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA41-1">① 대비되는 개념을 활용하여 글의 주제를 부각하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA41-2">② 구체적인 사례를 제시하여 주장의 신뢰성을 높이고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA41-3">③ 인과 관계를 제시하여 독자의 이해를 돕고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA41-4">④ 글을 마무리하며 독자에게 당부를 제시하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA41-5">⑤ 글의 전반부에 논거를 충분히 제시하여 결론을 도출하는 방식으로 서술하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>정답 키에서 41번=⑤. (나)는 우려→반박→긍정→제안 구조로, 전반부에 논거를 충분히 제시하여 결론을 도출하는 귀납적 방식이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>(나)에 반영됨.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>전반부 논거→결론 방식이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA42">
+  <p class="q-stem">42. 다음은 학생 2, 3이 (나)의 초고를 수정하기 위해 나눈 대화이다. 대화의 내용이 수정 계획으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA42-1">① 1문단에서 쇼트 폼에 대한 청소년의 인기 이유가 편리성과 관련된 내용이 부족하니 추가해야 할 것 같아.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA42-2">② 2문단의 마지막 문장이 앞의 내용과 자연스럽게 연결되지 않으니 수정해야 할 것 같아.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA42-3">③ 3문단에서 아이스 버킷 영상이 어떻게 확산되었는지에 대한 내용을 추가하면 더 좋을 것 같아.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA42-4">④ 4문단의 단어 선택이 문맥에 어울리지 않아 수정이 필요한 부분이 있어.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA42-5">⑤ 전반적으로 글의 통일성을 해치는 문장이 있으니 삭제해야 할 것 같아.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정답 키에서 42번=④. 4문단 단어 선택이 문맥에 어울리지 않는다는 지적은 초고의 실제 내용과 맞지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>적절한 수정 계획.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>4문단 단어 선택 문제는 실제 수정 필요 항목이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA3" class="set-anchor"></div>
 
-## 43~45번 작문 · [작성 예정]
+## 43~45번 작문 · [43② 44③ 45④ — 작성 예정]
 
 <hr class="subject-divider">
 <div class="subject-section-header">
