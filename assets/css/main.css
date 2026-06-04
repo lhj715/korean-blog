@@ -620,7 +620,7 @@ a.lh-work:hover{border-bottom-color:var(--accent-light);text-decoration:none}
 /* 세트 바로가기 목차 */
 .set-nav{display:flex;flex-wrap:wrap;gap:6px;align-items:center;background:var(--paper-warm);
   border:1px solid var(--paper-line);border-radius:6px;padding:12px 14px;margin:0 0 28px}
-.set-nav-label{font-size:12px;font-weight:700;color:var(--ink-soft);margin-right:4px}
+.set-nav-label{font-size:12px;font-weight:700;color:var(--ink-soft);margin-right:4px;flex-basis:100%;margin-top:4px}
 .set-nav a{font-size:12.5px;padding:4px 10px;background:#fff;border:1px solid var(--paper-line);
   border-radius:4px;color:var(--ink-mid)}
 .set-nav a:hover{border-color:var(--gold);color:var(--accent);text-decoration:none}
