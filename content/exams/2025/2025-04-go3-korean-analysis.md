@@ -1484,7 +1484,99 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setA3" class="set-anchor"></div>
 
-## 43~45번 작문 · [43② 44③ 45④ — 작성 예정]
+## 43~45번 작문 · 전통 시장 앞 교차로 보행자 교통사고 문제
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 작문 상황: 전통 시장 앞 교차로 보행자 교통사고 문제와 해결 방안.</p>
+  <p><strong>초고 구조</strong> — 문제(교통사고 빈발) → 원인(교차로 환경, 안전거리, 보행자-운전자 부주의) → 해결(도로 환경 개선, 횡단보도 재설치, 교통안전 의식 개선 프로그램)</p>
+</div>
+
+<div class="q-block" id="probA43">
+  <p class="q-stem">43. '초고'에 활용된 글쓰기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA43-1">① 예상되는 반론을 제시하고, 이를 전문가의 견해를 들어 반박하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA43-2">② 상황에 대한 상반된 입장을 소개하고, 이를 절충한 견해를 드러내고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA43-3">③ 문제 상황을 밝히고, 이에 대한 원인과 해결 방안을 구체적으로 제시하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA43-4">④ 기존 대책의 한계를 서술하고, 새롭게 도출된 대책들의 실효성을 비교하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA43-5">⑤ 통념이 지닌 모순을 지적하고, 이를 통해 논의의 필요성을 서술하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>초고: 문제(교통사고) → 원인(교차로 환경, 안전거리, 부주의) → 해결 방안(도로 개선, 횡단보도 재설치, 프로그램). ③이 정확히 일치.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 없는 방식.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>문제→원인→해결 방안 구조.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA44">
+  <p class="q-stem">44. &lt;보기&gt;는 '초고'를 읽은 교사의 조언이다. 이를 반영하여 [A]를 작성한다고 할 때, 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>조언: "시장 앞 교차로에서 발생하는 보행자 교통사고를 줄이는 핵심적인 방안을 모두 언급하고, 이를 통한 기대 효과를 구체적으로 제시하는 게 좋겠어."</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA44-1">① 이처럼 효과적인 교통사고 예방은 단속과 캠페인을 통해 이루어질 수 있다. …</li>
+    <li id="qA44-2">② 이처럼 교통사고를 예방하려면 시민들의 적극적인 노력이 중요하다. …</li>
+    <li id="qA44-3">③ 이처럼 전통 시장 앞 교차로의 도로 환경과 횡단보도를 정비하고 시민 안전 의식을 제고하면, 보행자의 안전이 강화되어 시민들은 안심하고 전통 시장을 이용할 수 있게 될 것이다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA44-4">④ 이처럼 보행자 교통사고 문제를 해소하기 위해서는 문제의 본질에 먼저 다가가야 한다. …</li>
+    <li id="qA44-5">⑤ 이처럼 지자체는 보행 환경 개선을 위해 예산을 확보해야 한다. …</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>③: 도로 환경+횡단보도 정비(핵심 방안 언급)+보행자 안전 강화·시민 안심(기대 효과 구체 제시). 두 조건 충족.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>조건 미충족.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>핵심 방안+기대 효과 모두 충족.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA45">
+  <p class="q-stem">45. &lt;보기&gt;는 학생이 '초고'를 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>ㄱ-1: 유형별 사고 건수 / ㄱ-2: 연령별 사고 비율 / ㄴ: 정지선 이격 거리 넓힘→횡단보도 침범 절반 이상↓+캠페인→고령 보행자 사고 30%↓ / ㄷ: 교통 약자 보호 구역(속도 30km 제한, 주정차 금지)+스마트 횡단보도·홍보 활동</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA45-1">① ㄱ-1과 ㄱ-2를 활용하여, 어르신들의 교차로 횡단 중 사고율이 높다는 내용을 뒷받침하는 근거로 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA45-2">② ㄴ을 활용하여, 횡단보도 보행자를 위한 안전거리를 확보할 수 있는 방안을 추가로 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA45-3">③ ㄷ을 활용하여, 교통안전에 대한 시민들의 의식을 개선할 수 있는 제도적 방안을 추가로 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA45-4">④ ㄱ-1과 ㄷ을 활용하여, 횡단 중인 보행자의 교통사고를 막을 수 있도록 운전자에게 보행자 유무를 알려 주는 교통 안전시설을 설치해야 한다는 내용을 뒷받침하는 근거로 제시해야겠어.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA45-5">⑤ ㄴ과 ㄷ을 활용하여, 고령 보행자의 안전에 대한 운전자들의 의식을 개선하기 위한 캠페인을 지자체에서 실시해야 한다는 내용을 뒷받침하는 근거로 제시해야겠어.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>ㄷ에서 '스마트 횡단보도'는 보행자에게 차량 유무를 알려주는 것이지, '운전자에게 보행자 유무를 알려주는' 것이 아니다. 따라서 ④의 논리가 맞지 않는다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>적절한 자료 활용.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>ㄷ의 스마트 횡단보도=보행자에게 차량 유무 알림. '운전자에게 보행자 유무 알림'이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
