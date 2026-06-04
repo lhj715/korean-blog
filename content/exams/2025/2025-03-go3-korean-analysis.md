@@ -1388,22 +1388,22 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
   <ul class="q-opts">
     <li id="qA39-1">① 개인의 역할을 명확하게 정해 주었을 때 참여도가 높아짐을 확인한 실험 내용을 추가한다.</li>
     <li id="qA39-2">② 링겔만 효과의 원인으로 '나 하나쯤이야'라는 생각을 들어 집단 활동 소홀의 원인을 구체화한다.</li>
-    <li id="qA39-3">③ 링겔만 효과가 집단 활동의 혜택만 누리려는 모습과 관련이 있다는 내용을 추가한다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
-    <li id="qA39-4">④ 개별 구성원이 달성해야 하는 목표를 구체적으로 설정하는 것을 해결 방안으로 제시한다.</li>
-    <li id="qA39-5">⑤ 링겔만 효과가 학교뿐 아니라 사회에서도 나타난다는 내용을 추가한다.</li>
+    <li id="qA39-3">③ 링겔만 효과가 집단 활동의 혜택만 누리려는 모습과 관련이 있다는 내용을 추가한다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA39-4">④ 개별 구성원이 달성해야 하는 목표를 구체적으로 설정하는 것을 해결 방안으로 제시한다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA39-5">⑤ 링겔만 효과가 학교뿐 아니라 사회에서도 나타난다는 내용을 추가한다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p>(나)에서 링겔만 효과가 '혜택만 누리려는 모습'과 관련 있다는 내용이 포함됐는지 확인 필요. (나) 지문에 "다른 구성원이 자신의 몫까지 해줄 것이라고 기대하여 자신은 최선을 다하지 않는 현상"이 있으면 ③이 반영된 것. 없으면 ③이 정답. 정답이 ③이므로 (나)에 반영되지 않은 것.</p>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>(가)에서 학생2가 링겔만 효과가 학교뿐 아니라 사회에서도 나타난다고 했는데, (나) 초고에서 이 내용이 반영되지 않음. ⑤가 반영되지 않은 계획.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①②④⑤</td><td>오답</td><td>(나)에 반영됨.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(나)에 '혜택만 누리려는 모습' 관련 내용이 없음.</td></tr>
+          <tr><td>①②③④</td><td>오답</td><td>(나)에 반영됨.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>'학교뿐 아니라 사회에서도'라는 내용이 (나)에 없음.</td></tr>
         </tbody>
       </table>
     </div>
