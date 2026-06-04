@@ -889,10 +889,10 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">22. 의류 건조기에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q22-1">① 건조 속도를 조절하려 드럼 내에서 공기를 가열해 세탁물을 건조시키겠군.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
-    <li id="q22-2">② 건조 시간을 자연 건조보다 줄이는 편의를 제공하겠군.<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q22-3">③ 같은 조건이어도 소재에 따라 수축 정도가 달라질 수 있겠군.<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q22-4">④ 건조 과정 동안 일정 온도의 공기를 드럼으로 계속 유입시키겠군.<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q22-5">⑤ 유입·배출 공기의 온도 차에 따라 작동 종료 여부가 결정될 수 있겠군.<a class="src-tag" href="#ev21">지문 근거</a></li>
+    <li id="q22-2">② 건조 시간을 자연 건조보다 줄이는 편의를 제공하겠군.<a class="src-tag" href="#ev-q22-23">지문 근거</a></li>
+    <li id="q22-3">③ 같은 조건이어도 소재에 따라 수축 정도가 달라질 수 있겠군.<a class="src-tag" href="#ev-q22-23">지문 근거</a></li>
+    <li id="q22-4">④ 건조 과정 동안 일정 온도의 공기를 드럼으로 계속 유입시키겠군.<a class="src-tag" href="#ev-q25-23">지문 근거</a></li>
+    <li id="q22-5">⑤ 유입·배출 공기의 온도 차에 따라 작동 종료 여부가 결정될 수 있겠군.<a class="src-tag" href="#ev-q25-15">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
