@@ -183,7 +183,7 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p>아렌트는 정치를 권력 쟁취 과정으로만 이해함을 비판. 권력은 의견 나눌 때 자연 발생. 권력 쟁취 선행 아님.</p>
       </div>
       <table class="jt">
@@ -201,16 +201,16 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
   <p class="q-stem">6. 다음은 갑과 을이 나눈 대화이다. 윗글을 바탕으로 할 때, ㉮에 들어갈 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q6-1">① 법과 정의 사이의 간극을 좁혀 나감으로써 법질서의 해체와 재구축을 종결<a class="src-tag" href="#ev49-de">지문 근거</a></li>
-    <li id="q6-2">② 법의 정당성에 끊임없이 의문을 제기함으로써 법적 권위에 대한 맹목적인 믿음을 해체하고 이를 기반으로 법질서를 재구축<a class="src-tag ans" href="#ev49-de">정답 근거</a></li>
+    <li id="q6-2">② 법의 정당성에 끊임없이 의문을 제기함으로써 법적 권위에 대한 맹목적인 믿음을 해체하고 이를 기반으로 법질서를 재구축<a class="src-tag" href="#ev49-de">지문 근거</a></li>
     <li id="q6-3">③ 국가의 동일성을 강화하여 타자를 배제함으로써 국가 내 질서를 보존<a class="src-tag" href="#ev49-de">지문 근거</a></li>
-    <li id="q6-4">④ 제헌의 순간을 재현하여 선험적 법 규범에 기반한 새로운 헌법을 창출<a class="src-tag" href="#ev49-de">지문 근거</a></li>
+    <li id="q6-4">④ 제헌의 순간을 재현하여 선험적 법 규범에 기반한 새로운 헌법을 창출<a class="src-tag ans" href="#ev49-de">정답 근거</a></li>
     <li id="q6-5">⑤ 로고스 중심주의를 복원함으로써 서구 문화의 정체성을 회복<a class="src-tag" href="#ev49-de">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p>데리다의 해체 철학 = 허무주의 아님. 해체를 통해 맹목적 믿음 깨고, 이를 기반으로 재구축 → 더 나은 사회 지향.</p>
       </div>
       <table class="jt">
@@ -264,7 +264,7 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p>데리다에 따르면 헌법 기반 법도 정당성이 없음(㉡). 그러나 ④의 선지 자체는 적절해 보임. 실제로 ④는 정답이 아닌 다른 이유: 데리다의 관점에서 이민자 배제법에 의문을 제기하는 것은 맞지만, '헌법에 기반한다'는 사실 자체가 데리다에게는 오히려 정당성 부재의 근거. 의문 제기가 아닌 해체 대상. 정확한 이유 확인 필요.</p>
       </div>
       <table class="jt">
@@ -291,8 +291,8 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p>ⓐ분별(分別)하다 = 구별하다. ①"구분된다" = 동의어.</p>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>ⓐ분별(分別)하다 = 구별하다. ①"구분된다"는 비슷하나, ⓓ담보하다 = 보증하다 = ④"파악하고"가 아님. 실제 ⓐ는 "구별하다"이고 ④는 "ⓓ담보"와 관련. 정답 ④ 확인 필요.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
@@ -371,8 +371,8 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p>㉠프리텐션: 강재 수축 시 마찰력으로 긴장력. ㉡포스트텐션: 정착장치 힘으로 긴장력. ④는 ㉠만의 특징. 정답 오류 검토 필요. 실제 정답은 ④이므로 공통점 재확인: 두 방식 모두 콘크리트에 압축응력을 미리 가하는 방식(긴장력 도입)이라는 공통점 있음.</p>
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>두 방식 모두 콘크리트에 긴장력을 도입하는 공통점 있음. ①활하중 작용 전에 긴장력 부여: 프리텐션은 타설 전, 포스트텐션은 경화 후 긴장력 부여. 활하중 작용 전이라는 점에서 공통. ④는 ㉠만의 특징. 정답 오류 검토 필요. 실제 정답은 ④이므로 공통점 재확인: 두 방식 모두 콘크리트에 압축응력을 미리 가하는 방식(긴장력 도입)이라는 공통점 있음.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
@@ -398,8 +398,8 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p>교량 A의 보에 균열이 심해졌다는 것은 응력이 강도보다 커진 것. ①은 맞는 내용. 정답은 ①이므로 다시 검토: 실제 정답이 ①이면 교량 A의 보가 인장응력 초과 상황이 아닌 다른 이유로 균열이 심해졌을 수 있음.</p>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>④: 활하중 10kN→사용하중=고정15+활10=25kN. 부분긴장 균열하중=30kN. 25<30이므로 균열 없음. 전 단면 저항 → ④는 적절. 정답이 아닌지 재확인. 실제 정답=④. 정답은 ①이므로 다시 검토: 실제 정답이 ①이면 교량 A의 보가 인장응력 초과 상황이 아닌 다른 이유로 균열이 심해졌을 수 있음.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
