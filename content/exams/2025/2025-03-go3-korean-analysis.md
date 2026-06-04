@@ -1506,19 +1506,183 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setB1" class="set-anchor"></div>
 
-## 35~36번 언어 · [작성 예정]
+## 35~36번 언어 · 선어말 어미 '-더-'의 역사적 변화
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>'-더-'의 현대 국어·중세 국어·근대 국어별 의미와 특징을 비교한다.</p>
+  <ul>
+    <li><strong>현대 국어 '-더-'</strong> — 화자가 인식한 시점이 과거(사건 시점≠인식 시점) / 1인칭 평서문·2인칭 의문문에서 일반적으로 부자연스러움 / 예외: 감정·감각 형용사</li>
+    <li><strong>중세 국어 '-더-'</strong> — 단순히 사건이 과거에 발생했음 표현 / 인칭 관련 제약 없음 / '-오-'와 결합→'-다-', '이다' 뒤→'-러-', '-시-'와 '-더시-' 순서</li>
+    <li><strong>변화</strong> — 근대 국어에서 '-앗-/-엇-' 확립→'-더-'는 지각·인식 의미로 변화 / '-던'에는 중세 국어 '-더-' 의미가 잔존</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 35번 ② '인식 시점이 과거가 아닐 수 있다'→틀림(항상 과거), 36번 ④ 중세 국어 '-던'이 현대 국어 '-더-'의 인칭 특징과 차이 있다→틀림(둘 다 없음).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev ans" id="evB35-2">현대 국어에서 선어말 어미 '-더-'는 일반적으로 과거 어느 때의 사건을 회상할 때 쓰인다. 그러나 … 이때 '-더-'가 쓰인 것은 화자가 그 사실을 알게 된 시점이 과거이기 때문이다. 즉 현대 국어의 '-더-'가 표현하는 과거는 사건이 발생한 시점이 아니라 화자가 사건을 인식한 시점이라고 할 수 있다.</span><a class="ev-tag ans" href="#qB35-2">35-②</a><a class="ev-tag" href="#qB35-5">35-⑤</a> '-더-'는 자신이 직접 지각하여 새롭게 알게 된 사실을 떠올리며 말할 때 쓰는 것이므로, <span class="ev" id="evB35-4">일반적인 맥락에서는 평서문에서 1인칭 주어가, 의문문에서 2인칭 주어가 '-더-'와 함께 쓰이면 자연스럽지 않다. 그러나 감정이나 감각을 표현하는 형용사가 서술어일 때에는 예외적으로 평서문에서 1인칭 주어가, 의문문에서 2인칭 주어가 '-더-'와 함께 쓰인다.</span><a class="ev-tag" href="#qB35-4">35-④</a></p>
+  <p><span class="ev" id="evB36-1">중세 국어에서 선어말 어미 '-더-'는 현재나 미래의 사건에 쓰이지 않았으며, 주어의 인칭과 관련하여 현대 국어의 '-더-'가 지닌 특징도 나타내지 않았다. 이는 중세 국어의 '-더-'가 단순히 사건이 과거에 발생한 것임을 나타낼 뿐 '어떤 사실을 지각을 통해 새로 알게 됨.'과 같은 의미를 갖지 않았기 때문이다.</span><a class="ev-tag" href="#qB36-1">36-①</a><a class="ev-tag ans" href="#qB36-4">36-④</a> <span class="ev" id="evB36-23">중세 국어의 '-더-'는 환경에 따라 실현되는 형태가 다양했는데, 문장의 주어가 1인칭 화자 자신일 때 나타나는 선어말 어미 '-오-'와 결합하면 융합형 '-다-'로, 서술격 조사 '이다'의 '이-' 뒤에서는 '-러-'로 실현되었다. 또한 '-더-'와 주체 높임 선어말 어미 '-시-'가 연달아 쓰일 경우에는 '-더시-'로 나타나 '-시더-'의 순서로 나타나는 현대 국어와는 차이가 있었다.</span><a class="ev-tag" href="#qB36-2">36-②</a><a class="ev-tag" href="#qB36-3">36-③</a></p>
+  <p><span class="ev" id="evB35-1">과거 시제 선어말 어미 '-앗-/-엇-'이 근대 국어 시기에 확립되면서 '-더-'는 '어떤 사실을 지각을 통해 새로 알게 됨.'으로 그 의미가 바뀌었다.</span><a class="ev-tag" href="#qB35-1">35-①</a><a class="ev-tag" href="#qB35-5">35-⑤</a> <span class="ev" id="evB36-5">관형사절은 언어 변화 침투의 속도가 느려 '-앗-/-엇-'이 과거 시제 선어말 어미로 확립된 이후로도, 중세 국어의 '-더-'가 나타냈던 의미가 과거 시제 관형사형 어미 '-던'에 남아 있는 채로 현대 국어까지 유지되고 있다.</span><a class="ev-tag" href="#qB35-3">35-③</a><a class="ev-tag ans" href="#qB36-5">36-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probB35">
+  <p class="q-stem">35. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB35-1">① 중세 국어에서 과거 시제는 특정한 선어말 어미에 의해 실현될 수 있다.<a class="src-tag" href="#evB35-1">지문 근거</a></li>
+    <li id="qB35-2">② 현대 국어의 '-더-'가 쓰인 문장에서 화자의 사건 인식 시점은 과거가 아닐 수 있다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB35-3">③ 현대 국어에서 관형사절의 과거 시제는 관형사형 어미 '-던'을 통해 표현될 수 있다.<a class="src-tag" href="#evB36-5">지문 근거</a></li>
+    <li id="qB35-4">④ 현대 국어의 평서문에서 1인칭 주어가 '-더-'와 함께 쓰이게 되는 적절한 예로 '간밤에 나는 좀 춥더라.'를 들 수 있다.<a class="src-tag" href="#evB35-4">지문 근거</a></li>
+    <li id="qB35-5">⑤ 현대 국어와 중세 국어에서 '-더-'의 의미가 서로 다른 것은 근대 국어 시기에 확립된 과거 시제 선어말 어미와 관련이 있다.<a class="src-tag" href="#evB35-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>지문: ''-더-'가 표현하는 과거는 화자가 사건을 인식한 시점이라고 할 수 있다" → 인식 시점은 항상 과거. ②는 "과거가 아닐 수 있다"고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>'-더-'의 인식 시점=항상 과거. '과거가 아닐 수 있다'가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB36">
+  <p class="q-stem">36. 윗글을 바탕으로 &lt;보기&gt;를 탐구한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>㉠ 太子ㅣ 닐오내 담다라 [태자가 이르되 "내가 농담하였다."] / ㉡ 부텻 나히 셜흔세히러시니 [부처님의 연세가 서른셋이셨으니] / ㉢ 내 던 이리 甚히 외다다 [내가 하던 일이 심히 잘못되었습니다.] / ㉣ *내일부터 오르던 버스 요금은 첫차부터 적용된다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB36-1">① ㉠은 중세 국어에서 감정이나 감각을 표현하는 형용사가 서술어인 경우가 아님에도 평서문의 1인칭 주어가 '-더-'와 함께 쓰였음을 보여 주는군.<a class="src-tag" href="#evB36-1">지문 근거</a></li>
+    <li id="qB36-2">② ㉡은 중세 국어에서 '-더-'와 '-시-'가 연이어 쓰일 때 현대 국어와는 선어말 어미의 결합 순서가 달랐음을 보여 주는군.<a class="src-tag" href="#evB36-23">지문 근거</a></li>
+    <li id="qB36-3">③ ㉠과 ㉡은 중세 국어의 '-더-'가 환경에 따라 다양한 형태로 실현되었음을 보여 주는군.<a class="src-tag" href="#evB36-23">지문 근거</a></li>
+    <li id="qB36-4">④ ㉢은 중세 국어의 '-던'이 주어의 인칭과 관련하여 현대 국어의 '-더-'가 갖는 특징을 나타내지 않는다는 점에서 현대 국어의 '-던'과는 차이가 있었음을 보여 주는군.<a class="src-tag ans" href="#evB36-1">정답 근거</a></li>
+    <li id="qB36-5">⑤ ㉣은 중세 국어의 '-더-'가 나타냈던 의미가 현대 국어의 '-던'에 남아 있기 때문에 '-던'이 미래의 사건에 쓰일 수 없음을 보여 주는군.<a class="src-tag" href="#evB36-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>중세 국어 '-더-'와 현대 국어 '-더-'는 둘 다 인칭 관련 특징이 없다(중세는 원래 없었고, 현대는 감정형용사 예외가 있지만). 따라서 '현대 국어 '-던'과 차이가 있다'는 ④가 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>중세 '-던'=인칭 특징 없음, 현대 '-던'도 인칭 특징 없음 → 차이 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB2" class="set-anchor"></div>
 
-## 37~39번 언어 · [작성 예정]
+## 37~39번 언어 · 음운변동 / 문장 구조 / 형태론
+
+<div class="q-block" id="probB37">
+  <p class="q-stem">37. &lt;보기&gt;에 제시된 ㉠~㉤의 발음을 탐구한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p>㉠꽃잎에[꼰니페] / ㉡맺힌[매친] / ㉢읊조리며[읍쪼리며] / ㉣끓는[끌른] / ㉤구급약[구ː금냑]</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB37-1">① ㉠, ㉢에서는 모두 음운 변동이 각각 세 번씩 일어났군.</li>
+    <li id="qB37-2">② ㉠, ㉤에서는 모두 첨가된 자음으로 인해 조음 방법이 변하는 음운 변동이 일어났군.</li>
+    <li id="qB37-3">③ ㉡, ㉢에서는 모두 음운의 개수가 달라지는 음운 변동이 일어났군.</li>
+    <li id="qB37-4">④ ㉡, ㉣에서는 모두 음절 끝에 올 수 있는 자음 개수의 제한으로 인한 음운 변동이 일어났군.<a class="src-tag ans" href="#evB36-23">정답 근거</a></li>
+    <li id="qB37-5">⑤ ㉣, ㉤에서는 모두 인접한 자음끼리 조음 방법이 같아지는 음운 변동이 일어났군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉡맺힌[매친]: ㅈ→구개음화(ㅈ+ㅎ→ㅊ). ㉣끓는[끌른]: 자음군단순화(ㄼ→ㄹ)+유음화. ④는 "음절 끝 자음 개수 제한"이 둘 다라고 했는데, ㉡에서는 음절 끝 자음 제한이 아니라 구개음화가 주된 변동. 따라서 ④가 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 적절.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉡에서 음절 끝 자음 제한이 주된 변동이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB38">
+  <p class="q-stem">38. &lt;보기&gt;의 조건을 모두 만족하는 문장으로 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>◦안은문장의 서술어는 서술어의 자릿수가 두 자리일 것. ◦안은문장에서 부사어 기능을 하는 안긴문장에 보어가 포함될 것.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB38-1">① 어머니께서는 내가 국어 교사가 되기를 간절히 바라신다.</li>
+    <li id="qB38-2">② 경찰의 수사로 그곳은 범행 현장이 아니었음이 밝혀졌다.</li>
+    <li id="qB38-3">③ 지금 상황은 그가 차기 학생회장이 되기에 매우 유리하다.<a class="src-tag ans" href="#evB36-23">정답 근거</a></li>
+    <li id="qB38-4">④ 준희는 동생과 오랜만에 외갓집에 방문하기로 마음먹었다.</li>
+    <li id="qB38-5">⑤ 나는 그에게 김 교수의 교양 수업이 휴강되었음을 알렸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>③: "그가 차기 학생회장이 되기에" = '되기에'(부사어 기능 안긴문장), '되기에'에 보어 '차기 학생회장이' 포함. 안은문장 서술어 '유리하다'=두 자리(주어+보어 또는 부사어). 두 조건 충족.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 조건 미충족.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>부사어절 '-기에' + 보어 포함 + 안은문장 서술어 두 자리.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB39">
+  <p class="q-stem">39. [학습 자료]에 대한 설명으로 적절한 것만을 &lt;보기&gt;에서 있는 대로 고른 것은?</p>
+  <ul class="q-opts">
+    <li id="qB39-1">① ㄱ<a class="src-tag" href="#evB36-23">지문 근거</a></li>
+    <li id="qB39-2">② ㄴ</li>
+    <li id="qB39-3">③ ㄱ, ㄷ</li>
+    <li id="qB39-4">④ ㄴ, ㄷ</li>
+    <li id="qB39-5">⑤ ㄱ, ㄴ, ㄷ<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>정답 키에서 39번=⑤. ㄱ, ㄴ, ㄷ 모두 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB3" class="set-anchor"></div>
 
-## 40~43번 언어·매체 · [작성 예정]
+## 40~43번 언어·매체 · [40①41④42③43⑤ — 작성 예정]
 
 <div id="setB4" class="set-anchor"></div>
 
-## 44~45번 매체 · [작성 예정]
+## 44~45번 매체 · [44③45③ — 작성 예정]
 
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
