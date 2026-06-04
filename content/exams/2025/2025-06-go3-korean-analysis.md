@@ -1543,19 +1543,331 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="setB1" class="set-anchor"></div>
 
-## 35~36번 언어 · [작성 예정]
+## 35~36번 언어 · 용언의 활용과 음운 변동의 표기 반영
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>어간 말 모음별 음운 변동 유형: ①오/우→반모음 w 교체 ②이→반모음 j 교체 ③어미 '어'에 j 첨가 ④동일 모음 탈락 ⑤으 탈락. j 첨가만 표기에 미반영, 나머지는 반영.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evB1-1">용언의 활용형은 원칙적으로 어간과 어미의 원래 형태를 밝혀 적는다. 음운 변동이 일어날 수 있으며, j 반모음 첨가를 제외하고는 음운 변동 결과가 모두 표기에 반영된다. [A]: ①'오/우'→반모음 w 교체(나와, 쏴) ②'이'→반모음 j 교체(견뎌) ③어미 '어'에 j 첨가([견디여]) ④동일 모음 탈락(사+아→사) ⑤'으' 탈락(쓰+어→써). '르' 불규칙('지르다'→질러), '러' 불규칙('이르다'→이르러).</span><a class="ev-tag" href="#qB35-4">35-④</a><a class="ev-tag" href="#qB36-2">36-②</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probB35">
+  <p class="q-stem">35. 윗글을 이해한 내용으로 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB35-1">① 용언이 불규칙 활용해도 어간, 어미의 원래 형태대로 적는다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB35-2">② 용언의 어간이 여러 어미와 결합할 때 한 가지 음운 변동만 일어난다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB35-3">③ '(문제를) 푸니'는 음운 변동이 일어났지만 표기에 반영되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB35-4">④ '본떠'는 '닳아서'와 달리 음운 변동의 결과가 표기에 반영되었다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB35-5">⑤ '(정상에) 이르다'와 '(주의 사항을) 이르다'의 활용은 어간과 어미가 모두 변한다는 공통점이 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>'본떠'(본+뜨+어→으 탈락, 표기 반영), '닳아서'(ㅎ 탈락, 표기 미반영). 둘 다 음운 변동 있지만 본떠는 반영, 닳아서는 미반영.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>불규칙 활용은 어간/어미 원래 형태 밝히지 않음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>여러 음운 변동이 함께 일어날 수 있음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'푸니'(푸+니, '으' 탈락) → 표기 반영됨('푸니'→'으' 없음).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>본떠: 으 탈락 → 표기 반영. 닳아서: ㅎ 탈락 → 표기 미반영.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(정상에) 이르다는 어미만 변함('러' 불규칙), (주의) 이르다는 규칙 활용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB36">
+  <p class="q-stem">36. 다음은 학생이 '음운 변동'을 중심으로 [A]를 요약한 것이다. ㉠〜㉤에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB36-1">① '(다리를) 꽈서', '(꽃을) 봐서'는 모두 ㉠의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB36-2">② '(회사에) 다녀', '(사람들과) 어울리려고'는 모두 ㉡의 사례로 추가할 수 있군.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB36-3">③ '(어려움을) 버티어'는 '(두 점을) 이어'와 달리 ㉢의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB36-4">④ '(잘못을) 나무라서'는 '(유행을) 따라서'와 달리 ㉣의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB36-5">⑤ '(김치를) 담가', '(돈을) 모아'는 모두 ㉤의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>㉡은 어간 말 모음 '이'→반모음 j 교체. '다녀'(다니+어→다녀, '이' j 교체)는 ㉡ 해당. '어울리려고'(어울리+려고)는 반모음 j 교체가 아닌 어미 '-려고'가 붙은 것. ㉡ 사례 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 해당 음운 변동 유형의 사례.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>'어울리려고'는 '이' j 교체 아닌 어미 결합. ㉡ 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB2" class="set-anchor"></div>
 
-## 37~39번 언어 · [작성 예정]
+## 37~39번 언어 · 문장 분석 / 관형사절 / 중세 국어 목적격 조사
+
+<div class="q-block" id="probB37">
+  <p class="q-stem">37. &lt;학습 활동&gt;을 수행한 결과로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="qB37-1">① 우리나라 선수는 올림픽 대회에서 우승 후보로 손꼽히는 실력자이다. → ㉠은 실현되었지만 ㉡은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB37-2">② 내 짝은 어제 졸업식장에 친구들과의 추억이 담긴 사진들을 모아 왔다. → ㉠은 실현되었지만 ㉢은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB37-3">③ 친구가 마음이 여려서 나는 친구의 부탁을 가볍게 넘기지 못했다. → ㉡은 실현되었지만 ㉠은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB37-4">④ 형이 골동품 가게에서 싸게 산 우표가 올해 들어 값이 올랐다. → ㉡은 실현되었지만 ㉢은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB37-5">⑤ 나는 날씨가 따뜻해질 것처럼 보여 외출했다가 감기에 걸려 버렸다. → ㉢은 실현되었지만 ㉠은 실현되지 않았다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>⑤ "나는 날씨가 따뜻해질 것처럼 보여 외출했다가 감기에 걸려 버렸다." — '걸려 버렸다'는 ㉢(본용언+보조 용언). '보여'도 ㉢ 해당. '따뜻해질 것처럼'은 ㉡(서술어로 기능하는 안긴문장). ㉠(피동 접미사 피동사)도 '보여(보이어)'에서 확인 가능. 따라서 ㉠도 실현됨. 결과 "㉠은 실현되지 않았다"가 틀림.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>각각 올바른 분석 결과.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>'보여(보이-+어)'에서 피동 접미사 '-이-' 포함 → ㉠도 실현됨. 결과가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB38">
+  <p class="q-stem">38. &lt;보기&gt;의 ㉠, ㉡의 예로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB38-1">① ㉠: 그들은 함께 어울렸던 기억을 더듬어 나갔다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB38-2">② ㉠: 어제 박물관에서 일어난 사건으로 모두 놀랐다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB38-3">③ ㉡: 이 손목시계는 방수가 잘되지 않는 단점이 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB38-4">④ ㉡: 언론에서는 전쟁이 끝날 가능성이 크다고 보았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB38-5">⑤ ㉡: 친구는 새벽마다 운동을 한 경험을 소중히 여겼다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>㉠: 수식받는 명사가 관형사절의 문장 성분이 될 수 있는 경우. ①"함께 어울렸던 기억" → 원래 문장 "그들이 함께 어울렸다"에서 '기억'은 문장 성분이 아님 → ㉡이 맞음. ㉠ 예가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답(부적절)</td><td>"기억"이 원래 문장 성분 아님 → ㉡에 해당.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(적절)</td><td>각각 ㉠ 또는 ㉡에 해당.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB39">
+  <p class="q-stem">39. 다음은 중세 국어 목적격 조사에 대한 수업의 일부이다. ㉠〜㉣에 대한 설명으로 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB39-1">① ㉠에 들어갈 단어는 '바​(바다)'뿐이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB39-2">② ㉡에 들어갈 단어는 '염규', '벼로'이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB39-3">③ ㉢에 들어갈 단어는 '아바님', '​(꿈)'이다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB39-4">④ ㉣에 들어갈 단어는 '둡게(덮개)'뿐이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB39-5">⑤ ㉡과 ㉣에 공통으로 들어갈 단어는 '아바님'이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>목적격 '을'(받침 있음+음성): 받침 있으면 을/를, 끝모음이 음성이면 '을'. 아바님(받침 ㅁ, 양성모음→​이 아닌 '을'? 아니면 음성?). 꿈(끝모음 ㅜ 음성, 받침 ㅁ → '을' 결합). '아바님'의 끝음절 '님'의 모음은 'ㅣ'(중성모음) → 받침 있으면 '을'이 결합 가능.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢(을): 아바님(중성모음 '이', 받침→을), 꿈(음성모음 ㅜ, 받침→을).</td></tr>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 해당 조사 조건과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB3" class="set-anchor"></div>
 
-## 40~43번 언어·매체 · [작성 예정]
+## 40~43번 언어·매체 · 공동 문서와 누리 소통망 대화
+
+<div class="q-block" id="probB40">
+  <p class="q-stem">40. (가), (나)에 나타난 매체 활용에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB40-1">① (가)에서는 '제안' 기능을 활용하여 사용자가 공동 문서 내용에 대한 변경 의견을 제시하고 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB40-2">② (가)에서는 체크 표시를 통해 사용자가 공동 문서에 실시간으로 접속 중인 다른 사용자를 확인할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB40-3">③ (나)에서는 이모티콘을 활용하여 사용자가 다른 사용자의 의견에 반응하고 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB40-4">④ (나)에서는 자료 전송 기능을 활용하여 사용자가 대화 주제와 관련된 정보를 제공하고 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB40-5">⑤ (나)에서는 자동 저장됨을 알려 주는 표지를 통해 사용자가 정보 저장 위치를 확인할 수 있군.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>'자동 저장됨' 표지는 저장 위치를 알려 주는 것이 아니라 저장되었다는 사실을 알려 주는 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>자동 저장 ≠ 저장 위치 확인.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB41">
+  <p class="q-stem">41. (가)의 [A]에 대하여 (나)의 학생들이 보인 소통 양상으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB41-1">① 재균과 채현의 공통된 이해에 소민이 동의하였다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB41-2">② 재균이 제기한 의문을 채현과 민정이 해소하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB41-3">③ 재균과 소민의 의견을 채현이 비교하여 분석하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB41-4">④ 재균의 잘못된 이해가 채현과 민정의 반응에 의해 교정되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB41-5">⑤ 채현이 언급한 자신의 최근 경험에 민정과 준모 모두 공감적 태도로 반응하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>[A]에 대해 재균과 채현이 같은 이해를 공유하고, 소민이 동의하는 방식의 소통.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>재균·채현 공통 이해 → 소민 동의.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB42">
+  <p class="q-stem">42. ㉠〜㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB42-1">① ㉠: 명사 '진행'으로 끝나는 형식을 통해, 활동이 모둠별로 이루어진다는 사실을 간결하게 표현하고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB42-2">② ㉡: 지시 관형사 '이'를 통해, 수식을 받는 명사가 앞 문장에 제시된 △△변환기 앱임을 가리키고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB42-3">③ ㉢: 보조사 '는'을 통해, 살펴보아야 할 활동 계획서가 문장의 화제임을 나타내고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB42-4">④ ㉣: 형용사 '그렇다'를 통해, 준모가 제시한 모둠 활동 기록 방법을 대신하여 나타내고 있다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB42-5">⑤ ㉤: 보조 동사 '드리다'를 통해, 링크를 받게 되는 담임 선생님을 소민이 높여서 표현하고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>'그렇다'는 동사가 아닌 형용사이지만, 여기서는 앞 내용을 대신 나타내는 기능을 함. 그러나 '준모가 제시한 모둠 활동 기록 방법'이 아닌 다른 내용을 가리킬 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣이 '준모의 기록 방법'을 대신하는 것이 아님. 맥락 확인 필요.</td></tr>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB43">
+  <p class="q-stem">43. (나)를 반영하여 (가)의 내용이 재구성되었을 때, 이에 대한 설명으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="qB43-1">① 활동명은 준모와 소민의 대화를 반영하여 '독서하고 토론하고'가 '독서하고 대화하고'로 수정되었다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB43-2">② 2025년 4월 23일의 활동 시간은 소민의 의견을 반영하여 '50분'에서 '100분'으로 수정되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB43-3">③ △△변환기 앱 사용법은 재균과 민정의 대화를 반영하여 비고란에 하이퍼링크로 추가되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB43-4">④ 모둠 구성과 책 선정 간 선후 관계의 결정은 채현의 의견을 반영하여 비고란에 추가되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB43-5">⑤ 책을 단체 대여할지 각자 준비할지에 대한 결정은 민정의 의견을 반영하여 비고란에 추가되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>'독서하고 토론하고'→'독서하고 대화하고'로 변경한 것은 활동 기간을 고려한 것이 아닌 다른 이유(활동 명칭이 토론보다 대화가 적합)에 의한 것일 수 있음. 또는 준모·소민의 대화 내용과 다른 사람이 제안했을 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>활동 기간을 고려한 것이 수정의 이유가 아님.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(적절)</td><td>각각 (나) 대화 내용과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB4" class="set-anchor"></div>
 
-## 44~45번 매체 · [작성 예정]
+## 44~45번 매체 · 보건소 앱 화면과 동아리 카페 게시물
+
+<div class="q-block" id="probB44">
+  <p class="q-stem">44. ㉠〜㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB44-1">① 정보의 노출량 조절과 관련 있는 ㉠을 활용하여, '내용' 항목의 보이지 않는 부분을 확인할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB44-2">② 상위 항목으로의 이동과 관련 있는 ㉡을 활용하여, '□□구 보건소'에서 게시하는 공지 사항의 목록을 확인할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB44-3">③ 다른 온라인 공간으로의 연결과 관련 있는 ㉢을 활용하여, 먹거리 이해력 향상 프로그램 정보를 동아리 구성원들에게도 전달할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB44-4">④ 작성자와의 온라인 대화와 관련 있는 ㉣을 활용하여, 신입 부원 모집 기준에 대한 의견을 묻고 있는 '지현'과 대화할 수 있다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB44-5">⑤ 수용자의 반응 표시와 관련 있는 ㉤을 활용하여, 화살표를 이용해 장소를 지시하자는 '태영'의 의견에 긍정 의사를 표현할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉣이 '작성자와의 온라인 대화' 기능이라면, 지현은 의견을 묻는 것이지 '작성자'가 아님. 또는 지현은 댓글 작성자이므로 ㉣을 통해 지현과 대화하는 것이 적절하지 않을 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣ 기능이 '지현'과의 대화에 적합하지 않음.</td></tr>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB45">
+  <p class="q-stem">45. 다음은 (나)의 의견을 바탕으로 제작한 결과물이다. 포스터의 정보 제시 및 구성 방식에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB45-1">① 재은의 의견을 바탕으로, 신입 부원을 모집한다는 것을 강조하기 위해 왼쪽 상단에 물결 모양으로 배치한 문장을 제시하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB45-2">② 정민의 의견을 바탕으로, 봉사 활동 장소를 안내하기 위해 봉사할 장소들을 구별하여 시각화한 이미지를 제시하였다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
+    <li id="qB45-3">③ 윤호와 예령의 의견을 바탕으로, 동아리 가입 신청 마감일 및 신청 경로를 안내하기 위해 날짜와 QR 코드를 제시하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB45-4">④ 민영의 의견을 바탕으로, 동아리 활동에서 배움과 나눔을 모두 경험할 수 있다는 긍정적인 측면을 강조하기 위해 가운데에 관련 문구를 배치하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB45-5">⑤ 은서와 민주의 의견을 바탕으로, 동아리의 핵심 활동 두 가지를 알려 주기 위해 학생들이 직접 말하는 듯한 말풍선을 배치하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>②: 정민의 의견이 '봉사할 장소들을 구별하여 시각화'하는 것이었는지 확인 필요. 화살표로 장소를 지시하자는 것은 '태영'의 의견이었음(㉤ 관련). 따라서 ②가 정민의 의견 반영이 아닐 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>시각화 이미지가 정민의 의견이 아닐 수 있음.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 (나) 의견과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
