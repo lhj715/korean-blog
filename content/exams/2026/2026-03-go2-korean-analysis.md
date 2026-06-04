@@ -37,14 +37,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 
 ## 문제 풀이
 
-<div class="q-block" id="prob1">1
+<div class="q-block" id="prob1">
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q1-1">① 발표 내용을 추가하여 청중의 요청에 따르고 있다.</li>
-    <li id="q1-2">② 시각 자료를 활용하여 청중의 흥미를 유발하고 있다.</li>
-    <li id="q1-3">③ 발표를 하게 된 소감을 밝히며 발표를 시작하고 있다.</li>
+    <li id="q1-1">① 발표 내용을 추가하여 청중의 요청에 따르고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-2">② 시각 자료를 활용하여 청중의 흥미를 유발하고 있다.<a class="src-tag" href="#ev5">지문 근거</a></li>
+    <li id="q1-3">③ 발표를 하게 된 소감을 밝히며 발표를 시작하고 있다.<a class="src-tag" href="#ev8">지문 근거</a></li>
     <li id="q1-4">④ 발표 중간중간에 질문을 던지며 청중과 상호 작용하고 있다.<a class="src-tag ans" href="#ev3">정답 근거</a></li>
-    <li id="q1-5">⑤ 발표 내용의 순서를 안내하여 청중의 주의를 환기하고 있다.</li>
+    <li id="q1-5">⑤ 발표 내용의 순서를 안내하여 청중의 주의를 환기하고 있다.<a class="src-tag" href="#ev8">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -72,7 +72,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob2">2
+<div class="q-block" id="prob2">
   <p class="q-stem">2. 다음은 위 발표를 하기 위해 학생이 세운 계획이다. 발표에 반영되지 <strong>않은</strong> 것은?</p>
   <div class="q-plan">
     <p class="plan-sec">[도입]</p>
@@ -110,7 +110,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob3">3
+<div class="q-block" id="prob3">
   <p class="q-stem">3. &lt;보기&gt;는 위 발표 후 이어진 수업의 일부이다. [가]에 들어갈 학생의 말로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -181,7 +181,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p class="dlg"><b>사회자:</b> 수거함 설치와 관련하여 폐전지 분리배출에 참여하는 학생들에게 주는 혜택까지 고려하셨네요. 학교에 건의하도록 하겠습니다. <span class="ev" id="ev12">다음에는 폐전지 분리배출의 중요성과 방법을 알리는 캠페인을 어떻게 진행할 것인지에 대해 토의를 진행하겠습니다.</span><a class="ev-tag" href="#q4-5">4-⑤</a> 감사합니다.</p>
 </div>
 
-<div class="q-block" id="prob4">4
+<div class="q-block" id="prob4">
   <p class="q-stem">4. 위 토의에 나타난 ‘사회자’의 역할로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q4-1">① 토의자가 제시한 정보에 대해 출처를 확인하고 있다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
@@ -216,7 +216,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob5">5
+<div class="q-block" id="prob5">
   <p class="q-stem">5. [A], [B]에서 나타나는 의사소통 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q5-1">① [A]에서 ‘학생2’는 ‘학생1’이 말한 내용과 관련해 자신이 알고 있는 정보를 덧붙이고 있다.<a class="src-tag" href="#ev-q5-1">지문 근거</a></li>
@@ -251,7 +251,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob6">6
+<div class="q-block" id="prob6">
   <p class="q-stem">6. &lt;보기&gt;는 ‘학생3’이 토의를 준비하며 수집한 자료이다. 자료를 모두 활용하여 [가]에 제시할 의견으로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -276,10 +276,10 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </div>
   <ul class="q-opts">
-    <li id="q6-1">① 폐전지 수거함에 분리배출한 학생에게 보상을 제공하면 학생들이 분리배출에 관심을 가질 수 있습니다.</li>
-    <li id="q6-2">② 폐전지 수거함까지 찾아가기 어려워 분리배출을 하지 않으니 학교에 수거함을 설치하되 실시간으로 적재량을 확인하기 위해 스마트 수거함을 설치하면 좋겠습니다.</li>
-    <li id="q6-3">③ 폐전지 수거함의 수가 적어 분리배출을 하지 않으니 여러 장소에 일반 수거함을 설치하면 분리배출이 활성화될 것입니다.</li>
-    <li id="q6-4">④ 폐전지 수거함이 관리가 안 되어 분리배출을 하지 않으니 학교에 일반 수거함을 설치하면 환경 포인트도 받고 이물질 혼합도 막을 수 있습니다.</li>
+    <li id="q6-1">① 폐전지 수거함에 분리배출한 학생에게 보상을 제공하면 학생들이 분리배출에 관심을 가질 수 있습니다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q6-2">② 폐전지 수거함까지 찾아가기 어려워 분리배출을 하지 않으니 학교에 수거함을 설치하되 실시간으로 적재량을 확인하기 위해 스마트 수거함을 설치하면 좋겠습니다.<a class="src-tag" href="#ev11">지문 근거</a></li>
+    <li id="q6-3">③ 폐전지 수거함의 수가 적어 분리배출을 하지 않으니 여러 장소에 일반 수거함을 설치하면 분리배출이 활성화될 것입니다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q6-4">④ 폐전지 수거함이 관리가 안 되어 분리배출을 하지 않으니 학교에 일반 수거함을 설치하면 환경 포인트도 받고 이물질 혼합도 막을 수 있습니다.<a class="src-tag" href="#ev11">지문 근거</a></li>
     <li id="q6-5">⑤ 폐전지 수거함까지의 거리가 멀어 분리배출을 하지 않으니 학교에 수거함을 설치하되 보상을 통한 참여 동기를 부여하기 위해 스마트 수거함을 설치하면 좋겠습니다.<a class="src-tag ans" href="#ev6">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -312,7 +312,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 
 <p class="ask-read" style="margin:0 0 16px"><strong>안내</strong> — 7~10번은 공유 지문 없이 각 〈보기〉만으로 푸는 문법(언어) 문항입니다.</p>
 
-<div class="q-block" id="prob7">7
+<div class="q-block" id="prob7">
   <p class="q-stem">7. &lt;보기&gt;를 바탕으로 &lt;자료&gt;의 띄어쓰기를 판단한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -354,7 +354,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob8">8
+<div class="q-block" id="prob8">
   <p class="q-stem">8. &lt;보기&gt;의 ㉠, ㉡에 들어갈 말로 적절한 것은? <span class="q-rate">오답률 41.5%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -394,7 +394,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob9">9
+<div class="q-block" id="prob9">
   <p class="q-stem">9. &lt;보기&gt;의 ㉠, ㉡에 대한 예문으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -433,7 +433,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob10">10
+<div class="q-block" id="prob10">
   <p class="q-stem">10. &lt;학습 활동&gt;을 수행한 결과로 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습 활동 &gt;</p>
@@ -493,14 +493,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>위험 이전 시점은 물품 부적합에 대한 책임을 판단하는 기준이 된다. 물품 부적합이란 물품이 계약 내용이나 법적 안전 기준에 맞지 않는 상태다. <span class="ev ans" id="ev21">물품 부적합이 위험 이전 시점 전에 존재했다면 매도인이 책임지도록, 매수인은 수령한 물품이 품질·포장 등에서 계약에 합치하는지 확인할 의무가 있다.</span><a class="ev-tag" href="#q13-4">13-④</a></p>
 </div>
 
-<div class="q-block" id="prob11">11
+<div class="q-block" id="prob11">
   <p class="q-stem">11. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q11-1">① 우리나라 민법에 따르면 매도인의 책임이 없는 사유로 이행이 불가능해진 경우 손해는 매도인이 부담한다.<a class="src-tag" href="#ev13">지문 근거</a></li>
     <li id="q11-2">② 우리나라 민법에 따르면 매수인의 물품 수령이 늦어지는 중 양 당사자 책임 없는 사유로 이행이 불가능해진 경우 손해는 매수인이 부담한다.<a class="src-tag" href="#ev14">지문 근거</a></li>
     <li id="q11-3">③ CISG에 따르면 위험이 매수인에게 이전되기 전 물품이 멸실되어 이행이 불가능해진 경우 매도인이 물품을 공급할 부담을 진다.<a class="src-tag" href="#ev15">지문 근거</a></li>
     <li id="q11-4">④ CISG의 위험 이전 규정이 적용되려면 당사자 간에 별도의 합의나 관행이 있어야 한다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
-    <li id="q11-5">⑤ 국제 거래의 물품 매매 계약은 대부분 물품의 운송을 포함한다.</li>
+    <li id="q11-5">⑤ 국제 거래의 물품 매매 계약은 대부분 물품의 운송을 포함한다.<a class="src-tag" href="#ev16">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -528,7 +528,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob12">12
+<div class="q-block" id="prob12">
   <p class="q-stem">12. 윗글과 관련하여 ㉠을 이해한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 45.2%</span></p>
   <ul class="q-opts">
     <li id="q12-1">① 운송이 포함된 매매 계약은 운송인이 위험 이전 시점을 결정할 수 있다.<a class="src-tag" href="#ev18">지문 근거</a></li>
@@ -563,7 +563,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob13">13
+<div class="q-block" id="prob13">
   <p class="q-stem">13. 〈메모〉의 사례를 윗글로 떠올린 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 70.2%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 메모 &gt;</p>
@@ -574,7 +574,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <li id="q13-2">② A로부터 ○○를 인도받은 운송인이 B에게 운송한 시점에 위험이 A에서 B로 이전되었다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
     <li id="q13-3">③ 태풍 침수로 ○○가 훼손되었음에도 B는 A에게 물품 대금을 지급할 의무를 진다.<a class="src-tag" href="#ev17">지문 근거</a></li>
     <li id="q13-4">④ B가 수령 직후 훼손을 확인했으므로 계약 합치 여부를 확인할 의무를 수행했다.<a class="src-tag" href="#ev21">지문 근거</a></li>
-    <li id="q13-5">⑤ 계약 체결 시점의 위험 부담 주체는 A, 이행 완료 시점의 주체는 B이다.</li>
+    <li id="q13-5">⑤ 계약 체결 시점의 위험 부담 주체는 A, 이행 완료 시점의 주체는 B이다.<a class="src-tag" href="#ev19">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -623,7 +623,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p><span class="ev ans" id="ev28">접촉의 기계적 움직임을 전자 이동이라는 전기적 에너지로 변환시키는</span><a class="ev-tag ans" href="#q15-1">15-①</a> TENG의 성능을 높이려면 <span class="ev" id="ev-q14-4">유효 접촉 면적을 늘리는 것이 중요하다.</span><a class="ev-tag" href="#q14-4">14-④</a> 평평해 보이는 면도 미세하게는 높낮이가 균일하지 않아 일부만 접촉한다. 따라서 ㉮ <span class="ev ans" id="ev27">접촉면에 균일한 높낮이의 미세한 나노 패턴을 만들면 실제로 맞닿는 접촉점을 늘릴 수 있다.</span><a class="ev-tag ans" href="#q16-1">16-①</a> (그러면 표면 전하가 더 많이 형성되어 더 많은 전기 에너지를 얻는다.)</p>
 </div>
 
-<div class="q-block" id="prob14">14
+<div class="q-block" id="prob14">
   <p class="q-stem">14. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q14-1">① 전자를 끌어당기는 능력인 전자 친화도는 물질에 따라 다르다.<a class="src-tag" href="#ev22">지문 근거</a></li>
@@ -658,14 +658,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob15">15
+<div class="q-block" id="prob15">
   <p class="q-stem">15. ㉠과 ㉡에 대한 이해로 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q15-1">① ㉠과 ㉡ 모두 두 물질의 기계적 움직임을 전기적 에너지로 변환시킨다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
-    <li id="q15-2">② ㉠과 ㉡ 모두 두 물질이 접촉한 상태에서 수평 방향으로 이동한다.</li>
-    <li id="q15-3">③ ㉠과 달리 ㉡은 전기적 평형을 위해 두 물질 사이에 전하가 이동한다.</li>
-    <li id="q15-4">④ ㉡과 달리 ㉠에서 전류의 방향은 전자의 이동 방향과 반대이다.</li>
-    <li id="q15-5">⑤ ㉠에서는 미끄러짐이, ㉡에서는 진동·압축이 발생한다.</li>
+    <li id="q15-2">② ㉠과 ㉡ 모두 두 물질이 접촉한 상태에서 수평 방향으로 이동한다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q15-3">③ ㉠과 달리 ㉡은 전기적 평형을 위해 두 물질 사이에 전하가 이동한다.<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q15-4">④ ㉡과 달리 ㉠에서 전류의 방향은 전자의 이동 방향과 반대이다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q15-5">⑤ ㉠에서는 미끄러짐이, ㉡에서는 진동·압축이 발생한다.<a class="src-tag" href="#ev24">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -693,14 +693,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob16">16
+<div class="q-block" id="prob16">
   <p class="q-stem">16. ㉮의 이유로 가장 적절한 것은? <span class="q-rate">오답률 48.5%</span></p>
   <ul class="q-opts">
     <li id="q16-1">① 유효 접촉 면적이 늘어나면 표면 전하가 더 많이 형성되어 더 많은 전기 에너지를 얻을 수 있기 때문에<a class="src-tag ans" href="#ev27">정답 근거</a></li>
-    <li id="q16-2">② 맞닿는 접촉점이 늘어나면 미세한 나노 패턴이 형성되어 더 많은 전기 에너지를 얻기 때문에</li>
-    <li id="q16-3">③ 유효 접촉 면적이 같다면 작은 움직임으로도 전류 방향을 역전시킬 수 있기 때문에</li>
-    <li id="q16-4">④ 접촉하지 않게 되는 부분의 표면 전하가 외부 도선으로 이동하기 때문에</li>
-    <li id="q16-5">⑤ 높낮이 차이를 극대화하면 불필요한 전자 이동을 막을 수 있기 때문에</li>
+    <li id="q16-2">② 맞닿는 접촉점이 늘어나면 미세한 나노 패턴이 형성되어 더 많은 전기 에너지를 얻기 때문에<a class="src-tag" href="#ev23">지문 근거</a></li>
+    <li id="q16-3">③ 유효 접촉 면적이 같다면 작은 움직임으로도 전류 방향을 역전시킬 수 있기 때문에<a class="src-tag" href="#ev24">지문 근거</a></li>
+    <li id="q16-4">④ 접촉하지 않게 되는 부분의 표면 전하가 외부 도선으로 이동하기 때문에<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q16-5">⑤ 높낮이 차이를 극대화하면 불필요한 전자 이동을 막을 수 있기 때문에<a class="src-tag" href="#ev27">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -728,18 +728,18 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob17">17
+<div class="q-block" id="prob17">
   <p class="q-stem">17. 〈보기〉 실험에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.0%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>비닐과 유리에 전극을 붙이고 외부 도선으로 연결, 바람이 불면 마찰하도록 만든 <b>슬라이딩 방식</b> 장치. 유리는 고정, 비닐은 바람개비 회전에 따라 함께 회전. 바람은 점차 세져 5분 뒤 강풍(회전 빨라짐), 10분 뒤 방향이 바뀌어 회전 방향도 반전. 이후 비닐을 <b>구리</b>로 교체(구리 친화도: 비닐 &lt; 구리 &lt; 유리).</p>
   </div>
   <ul class="q-opts">
-    <li id="q17-1">① 바람이 안 불 때 접촉 상태에서 비닐에 (−), 유리에 (+) 표면 전하가 형성되지만 전류는 측정되지 않겠군.</li>
-    <li id="q17-2">② 바람개비가 움직이기 시작하면 전위차가 생기고 비닐→유리로 이동하는 전자가 양의 전류로 측정되겠군.</li>
-    <li id="q17-3">③ 5분 뒤 빠르게 회전하면 접촉 면적 증감이 빨라져 전류 방향 전환 주기가 짧아지겠군.</li>
+    <li id="q17-1">① 바람이 안 불 때 접촉 상태에서 비닐에 (−), 유리에 (+) 표면 전하가 형성되지만 전류는 측정되지 않겠군.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q17-2">② 바람개비가 움직이기 시작하면 전위차가 생기고 비닐→유리로 이동하는 전자가 양의 전류로 측정되겠군.<a class="src-tag" href="#ev24">지문 근거</a></li>
+    <li id="q17-3">③ 5분 뒤 빠르게 회전하면 접촉 면적 증감이 빨라져 전류 방향 전환 주기가 짧아지겠군.<a class="src-tag" href="#ev25">지문 근거</a></li>
     <li id="q17-4">④ 10분 뒤 회전 방향이 바뀌어 도는 동안 비닐과 유리의 표면 전하 부호가 서로 바뀌겠군.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
-    <li id="q17-5">⑤ 구리·유리 장치에서는 유리→구리로 이동한 (−) 전하가 회전에 따라 외부 도선으로 이동하겠군.</li>
+    <li id="q17-5">⑤ 구리·유리 장치에서는 유리→구리로 이동한 (−) 전하가 회전에 따라 외부 도선으로 이동하겠군.<a class="src-tag" href="#ev28">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -792,14 +792,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>생태 중심 윤리에서 보면 생명 중심 윤리는 생태계를 살아 있는 것으로 보지 않아 환경 쟁점을 제대로 다루지 못한다. 다만 개체의 희생을 정당화할 수 있어 ‘환경 파시즘’이라는 비판도 받는다.</p>
 </div>
 
-<div class="q-block" id="prob18">18
+<div class="q-block" id="prob18">
   <p class="q-stem">18. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q18-1">① (가)는 특정 사상의 시대적 변화 과정을, (나)는 사상이 환경 문제 해결에 도입된 사례를 분석한다.</li>
-    <li id="q18-2">② (가)는 (나)와 달리 특정 학자의 한계점을 보완하는 새 이론적 가정을 소개한다.</li>
-    <li id="q18-3">③ (나)는 (가)와 달리 여러 학자의 이론이 사회 변화에 미친 영향을 분석한다.</li>
+    <li id="q18-1">① (가)는 특정 사상의 시대적 변화 과정을, (나)는 사상이 환경 문제 해결에 도입된 사례를 분석한다.<a class="src-tag" href="#ev32">지문 근거</a></li>
+    <li id="q18-2">② (가)는 (나)와 달리 특정 학자의 한계점을 보완하는 새 이론적 가정을 소개한다.<a class="src-tag" href="#ev36">지문 근거</a></li>
+    <li id="q18-3">③ (나)는 (가)와 달리 여러 학자의 이론이 사회 변화에 미친 영향을 분석한다.<a class="src-tag" href="#ev29">지문 근거</a></li>
     <li id="q18-4">④ (가)와 (나)는 모두 도덕적 고려 대상에 관한 특정 학자의 견해를 제시한다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
-    <li id="q18-5">⑤ (가)와 (나)는 모두 미래 상황을 가정하여 도덕적 가치의 의의를 강조한다.</li>
+    <li id="q18-5">⑤ (가)와 (나)는 모두 미래 상황을 가정하여 도덕적 가치의 의의를 강조한다.<a class="src-tag" href="#ev31">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -823,7 +823,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob19">19
+<div class="q-block" id="prob19">
   <p class="q-stem">19. (가)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q19-1">① 어떤 존재가 선이라고 믿는 것은 객관적으로 그 존재에게 선이 아닐 수 있다.<a class="src-tag" href="#ev32">지문 근거</a></li>
@@ -858,14 +858,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob20">20
+<div class="q-block" id="prob20">
   <p class="q-stem">20. (나)를 바탕으로 할 때, ㉠의 이유로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q20-1">① 개별 생명체가 자기 역할을 통해 생태계를 규정하기 때문에<a class="src-tag" href="#ev35">지문 근거</a></li>
-    <li id="q20-2">② 개체의 생존이 생태계의 보전과 이해관계가 일치하기 때문에</li>
+    <li id="q20-2">② 개체의 생존이 생태계의 보전과 이해관계가 일치하기 때문에<a class="src-tag" href="#ev33">지문 근거</a></li>
     <li id="q20-3">③ 개별 생명체의 기능은 생태계에서의 역할을 통해 제대로 이해되기 때문에<a class="src-tag ans" href="#ev33">정답 근거</a></li>
     <li id="q20-4">④ 생태계의 평형이 개별 구성 요소의 총합으로 결정되기 때문에<a class="src-tag" href="#ev35">지문 근거</a></li>
-    <li id="q20-5">⑤ 다른 생명체를 위협하는 개체는 네트워크를 형성하지 못하기 때문에</li>
+    <li id="q20-5">⑤ 다른 생명체를 위협하는 개체는 네트워크를 형성하지 못하기 때문에<a class="src-tag" href="#ev35">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -889,7 +889,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob21">21
+<div class="q-block" id="prob21">
   <p class="q-stem">21. 〈보기〉에서 ‘테일러’·‘레오폴드’ 입장으로 ㉮·㉯를 판단한 것으로 가장 적절한 것은? <span class="q-rate">오답률 67.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -897,10 +897,10 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </div>
   <ul class="q-opts">
     <li id="q21-1">① 테일러는 ㉮에 동의하지 않고 ㉯에 동의하겠군.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
-    <li id="q21-2">② 레오폴드는 ㉮에 동의하고 ㉯에 동의하지 않겠군.</li>
-    <li id="q21-3">③ 테일러는 ㉮에 동의하고 레오폴드는 ㉯에 동의하겠군.</li>
-    <li id="q21-4">④ 테일러와 레오폴드는 ㉮·㉯ 모두에 동의하겠군.</li>
-    <li id="q21-5">⑤ 테일러와 레오폴드는 ㉮·㉯ 모두에 동의하지 않겠군.</li>
+    <li id="q21-2">② 레오폴드는 ㉮에 동의하고 ㉯에 동의하지 않겠군.<a class="src-tag" href="#ev36">지문 근거</a></li>
+    <li id="q21-3">③ 테일러는 ㉮에 동의하고 레오폴드는 ㉯에 동의하겠군.<a class="src-tag" href="#ev29">지문 근거</a></li>
+    <li id="q21-4">④ 테일러와 레오폴드는 ㉮·㉯ 모두에 동의하겠군.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q21-5">⑤ 테일러와 레오폴드는 ㉮·㉯ 모두에 동의하지 않겠군.<a class="src-tag" href="#ev31">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -928,7 +928,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob22">22
+<div class="q-block" id="prob22">
   <p class="q-stem">22. (가)·(나)로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 72.4%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -939,7 +939,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <li id="q22-2">② 테일러는 A를 인위적으로 제거하는 것은 생명체를 배반하는 행위이므로 인간이 A에게 보상해야 한다고 보겠군.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
     <li id="q22-3">③ 레오폴드는 A가 다른 식물에 피해를 주는 것이 생태계에 해가 되므로 도덕적으로 옳지 않다고 보겠군.<a class="src-tag" href="#ev34">지문 근거</a></li>
     <li id="q22-4">④ 레오폴드는 생태계의 안정과 균형을 고려하여 A를 제거할 수 있다고 보겠군.<a class="src-tag" href="#ev34">지문 근거</a></li>
-    <li id="q22-5">⑤ 테일러는 하천 변 생태계가 도덕적 의무 대상이 아니라고, 레오폴드는 도덕적 가치를 갖는다고 보겠군.</li>
+    <li id="q22-5">⑤ 테일러는 하천 변 생태계가 도덕적 의무 대상이 아니라고, 레오폴드는 도덕적 가치를 갖는다고 보겠군.<a class="src-tag" href="#ev29">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -967,14 +967,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob23">23
+<div class="q-block" id="prob23">
   <p class="q-stem">23. 문맥상 ⓐ~ⓔ와 가장 가까운 의미로 쓰인 것은?</p>
   <ul class="q-opts">
-    <li id="q23-1">① ⓐ(좇는): 그의 시선이 멀어지는 까마귀 떼를 좇았다.</li>
+    <li id="q23-1">① ⓐ(좇는): 그의 시선이 멀어지는 까마귀 떼를 좇았다.<a class="src-tag" href="#ev29">지문 근거</a></li>
     <li id="q23-2">② ⓑ(막는): 사람들은 우리가 집 안으로 들어가려는 것을 막았다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
-    <li id="q23-3">③ ⓒ(미친다): 학교에서 방법을 찾으리라는 데 생각이 미쳤다.</li>
-    <li id="q23-4">④ ⓓ(다루지): 이 상점들은 오랫동안 전자 제품만을 다뤘다.</li>
-    <li id="q23-5">⑤ ⓔ(가져올): 동생은 어려운 문제를 늘 나에게 가져왔다.</li>
+    <li id="q23-3">③ ⓒ(미친다): 학교에서 방법을 찾으리라는 데 생각이 미쳤다.<a class="src-tag" href="#ev33">지문 근거</a></li>
+    <li id="q23-4">④ ⓓ(다루지): 이 상점들은 오랫동안 전자 제품만을 다뤘다.<a class="src-tag" href="#ev34">지문 근거</a></li>
+    <li id="q23-5">⑤ ⓔ(가져올): 동생은 어려운 문제를 늘 나에게 가져왔다.<a class="src-tag" href="#ev35">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1010,7 +1010,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>현재 학생 참여 예산제는 임원 제안대로 편성되고 운영 정보도 충분히 공개되지 않는다(문제 상황). 해결 방안으로 ① 학생 참여 예산 공모제 실시 ② 예산 심의 위원회 구성 ③ 배분 과정 공개를 건의하며, 인근 학교 사례를 근거로 든다. 예상 반론(이익 경쟁→갈등)에 대해 ㉠ 예산 정보 공개가 더 많은 학생의 이익을 늘릴 수 있다고 반박한다. <span class="ev ans" id="ev41">개선 방안이 수용되면 학교생활 만족도뿐 아니라 민주 시민 의식도 높아질 것이다(기대 효과).</span><a class="ev-tag ans" href="#q26-5">26-⑤</a></p>
 </div>
 
-<div class="q-block" id="prob24">24
+<div class="q-block" id="prob24">
   <p class="q-stem">24. 글을 읽으며 작성한 질문 중 (가)·(나)에서 답을 확인할 수 <strong>없는</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q24-1">① (가) 주민 참여 예산 제도에서 주민의 역할은?<a class="src-tag" href="#ev38">지문 근거</a></li>
@@ -1045,14 +1045,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob25">25
+<div class="q-block" id="prob25">
   <p class="q-stem">25. (다)를 작성하기 위해 (가)·(나)를 읽은 방법으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q25-1">① (가)에서 예산 집행 결과에 주목해, 과정이 투명하게 공개될 때 만족도가 높아질 수 있음을 확인하며 읽었다.<a class="src-tag ans" href="#ev37">정답 근거</a></li>
-    <li id="q25-2">② (가)에서 행정의 책임성보다 투명성이 중요하다는 것을 확인하며 읽었다.</li>
-    <li id="q25-3">③ (가)에서 예산을 독점적으로 사용해야 한다는 것을 확인하며 읽었다.</li>
-    <li id="q25-4">④ (나)에서 재정 자원 소진을 위한 우선적 예산 확보가 중요하다는 것을 확인하며 읽었다.</li>
-    <li id="q25-5">⑤ (나)에서 제도적 장치가 충분할수록 이해관계 충돌이 반복된다는 것을 확인하며 읽었다.</li>
+    <li id="q25-2">② (가)에서 행정의 책임성보다 투명성이 중요하다는 것을 확인하며 읽었다.<a class="src-tag" href="#ev37">지문 근거</a></li>
+    <li id="q25-3">③ (가)에서 예산을 독점적으로 사용해야 한다는 것을 확인하며 읽었다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q25-4">④ (나)에서 재정 자원 소진을 위한 우선적 예산 확보가 중요하다는 것을 확인하며 읽었다.<a class="src-tag" href="#ev41">지문 근거</a></li>
+    <li id="q25-5">⑤ (나)에서 제도적 장치가 충분할수록 이해관계 충돌이 반복된다는 것을 확인하며 읽었다.<a class="src-tag" href="#ev40">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1076,17 +1076,17 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob26">26
+<div class="q-block" id="prob26">
   <p class="q-stem">26. 〈보기〉(건의문 구성)를 참고할 때, (다)의 글쓰기 계획으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 55.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>건의문: <b>서론</b>=글 쓰는 의도 / <b>본론</b>=문제 상황·해결 방안·근거(+예상 반론과 반박) / <b>결론</b>=건의 수용에 따른 기대 효과.</p>
   </div>
   <ul class="q-opts">
-    <li id="q26-1">① 학생 참여 예산제 개선 건의를 의도로 제시한다.</li>
-    <li id="q26-2">② 임원 제안대로 편성되고 정보가 불충분하다는 점을 문제 상황으로 제시한다.</li>
-    <li id="q26-3">③ 공모제 실시·심의 위원회 구성·정보 공개를 해결 방안으로 제시한다.</li>
-    <li id="q26-4">④ 만족도 높은 인근 학교 사례를 근거로 제시한다.</li>
+    <li id="q26-1">① 학생 참여 예산제 개선 건의를 의도로 제시한다.<a class="src-tag" href="#ev37">지문 근거</a></li>
+    <li id="q26-2">② 임원 제안대로 편성되고 정보가 불충분하다는 점을 문제 상황으로 제시한다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q26-3">③ 공모제 실시·심의 위원회 구성·정보 공개를 해결 방안으로 제시한다.<a class="src-tag" href="#ev39">지문 근거</a></li>
+    <li id="q26-4">④ 만족도 높은 인근 학교 사례를 근거로 제시한다.<a class="src-tag" href="#ev40">지문 근거</a></li>
     <li id="q26-5">⑤ ‘더 좋은 제도로 발전하기를 바란다’는 내용을 기대 효과로 제시한다.<a class="src-tag ans" href="#ev41">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1115,18 +1115,18 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob27">27
+<div class="q-block" id="prob27">
   <p class="q-stem">27. 〈보기〉(추가 자료)를 (가)·(나)와 연결해 (다)의 ㉠을 보완하는 방안으로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>예산 정보 공개는 정책 목표·예산 배분에 대한 이해도를 높여 ① 무리한 예산 배분 요구를 자제하게 하는 <b>예방적 기능</b>과 ② 효과적 의사소통으로 전체의 이익을 도모하는 <b>결과적 기능</b>을 가진다. (□□ 정책 자료집)</p>
   </div>
   <ul class="q-opts">
-    <li id="q27-1">① (가)와 연결해, 정보 공개가 자기 집단의 이익을 우선시한다는 내용으로 보완.</li>
+    <li id="q27-1">① (가)와 연결해, 정보 공개가 자기 집단의 이익을 우선시한다는 내용으로 보완.<a class="src-tag" href="#ev37">지문 근거</a></li>
     <li id="q27-2">② (가)와 연결해, 이해·소통으로 공동의 선을 꾀함을 제시하고, 공개·참여가 무리한 요구를 자제시키고 효과적 의사소통으로 전체 이익을 도모한다는 내용으로 보완.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
-    <li id="q27-3">③ (나)와 연결해, 정보 공개가 합리적 예산 배분에 어려움을 준다는 내용으로 보완.</li>
-    <li id="q27-4">④ (나)와 연결해, 효과적 의사소통이 경쟁을 갈등으로 번지게 한다는 내용으로 보완.</li>
-    <li id="q27-5">⑤ (나)와 연결해, 개별·전체 이익을 비교할 필요가 있다는 내용으로 보완.</li>
+    <li id="q27-3">③ (나)와 연결해, 정보 공개가 합리적 예산 배분에 어려움을 준다는 내용으로 보완.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q27-4">④ (나)와 연결해, 효과적 의사소통이 경쟁을 갈등으로 번지게 한다는 내용으로 보완.<a class="src-tag" href="#ev41">지문 근거</a></li>
+    <li id="q27-5">⑤ (나)와 연결해, 개별·전체 이익을 비교할 필요가 있다는 내용으로 보완.<a class="src-tag" href="#ev42">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1167,14 +1167,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>조사로 현황·원인을 파악하고 해결 방안을 도출했다. <span class="ev ans" id="ev44">(초고에는 “자전거 통학이 학생 체력 관리에 도움이 된다”는 조사와 무관한 문장이 섞여 있다.)</span><a class="ev-tag ans" href="#q30-4">30-④</a> 해결 방안 실현으로 안전한 통학 환경을 조성할 수 있을 것이다.</p>
 </div>
 
-<div class="q-block" id="prob28">28
+<div class="q-block" id="prob28">
   <p class="q-stem">28. ‘초고’의 글쓰기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q28-1">① 각 해결 방안의 장단점을 비교하여 서술한다.</li>
-    <li id="q28-2">② 조사 내용 관련 보도 자료를 분류하여 요약한다.</li>
+    <li id="q28-1">① 각 해결 방안의 장단점을 비교하여 서술한다.<a class="src-tag" href="#ev43">지문 근거</a></li>
+    <li id="q28-2">② 조사 내용 관련 보도 자료를 분류하여 요약한다.<a class="src-tag" href="#ev44">지문 근거</a></li>
     <li id="q28-3">③ 통계 자료를 활용하여 문제 상황의 심각성을 제시한다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
-    <li id="q28-4">④ 전문가 인터뷰로 주요 용어의 개념을 설명한다.</li>
-    <li id="q28-5">⑤ 문헌 자료 분석으로 해결 방안의 근거를 제시한다.</li>
+    <li id="q28-4">④ 전문가 인터뷰로 주요 용어의 개념을 설명한다.<a class="src-tag" href="#ev43">지문 근거</a></li>
+    <li id="q28-5">⑤ 문헌 자료 분석으로 해결 방안의 근거를 제시한다.<a class="src-tag" href="#ev44">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1202,7 +1202,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob29">29
+<div class="q-block" id="prob29">
   <p class="q-stem">29. ㉠~㉢이 ‘Ⅲ. 조사 결과’에 구체화된 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q29-1">① ㉠: 자전거·보행자 교통사고 건수 변동 추이<a class="src-tag" href="#ev43">지문 근거</a></li>
@@ -1237,18 +1237,18 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob30">30
+<div class="q-block" id="prob30">
   <p class="q-stem">30. 〈보기〉(고쳐 쓴 ‘Ⅳ. 결론’)에 반영된 친구의 조언으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>(고쳐 쓴 결론) 조사로 현황·원인을 파악하고 해결 방안을 도출했다. 사고 예방을 위해 <b>도로 정비·지속 관리, 안전 수칙 캠페인 실시</b> 등이 필요하다. 노력한다면 더 안전한 통학 환경을 조성할 수 있다. <span class="muted">(※ 초고의 ‘체력 관리에 도움’ 문장은 삭제됨)</span></p>
   </div>
   <ul class="q-opts">
-    <li id="q30-1">① 조사의 한계를 추가하고 후속 조사의 필요성을 제시한다.</li>
-    <li id="q30-2">② 의미가 중복되는 내용을 삭제하고 조사의 의의를 제시한다.</li>
-    <li id="q30-3">③ 문제 해결의 주체를 추가하고 문제 해결의 필요성을 제시한다.</li>
+    <li id="q30-1">① 조사의 한계를 추가하고 후속 조사의 필요성을 제시한다.<a class="src-tag" href="#ev43">지문 근거</a></li>
+    <li id="q30-2">② 의미가 중복되는 내용을 삭제하고 조사의 의의를 제시한다.<a class="src-tag" href="#ev44">지문 근거</a></li>
+    <li id="q30-3">③ 문제 해결의 주체를 추가하고 문제 해결의 필요성을 제시한다.<a class="src-tag" href="#ev43">지문 근거</a></li>
     <li id="q30-4">④ 조사와 관련 없는 내용을 삭제하고 해결 방안을 요약하여 제시한다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
-    <li id="q30-5">⑤ 조사의 취지를 삭제하고 담당 기관의 참여를 촉구한다.</li>
+    <li id="q30-5">⑤ 조사의 취지를 삭제하고 담당 기관의 참여를 촉구한다.<a class="src-tag" href="#ev44">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1295,14 +1295,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>혼례 날 밤, 별선이 비몽사몽간에 젖은 옷을 입고 나타나 “이 방이 누구 방이라고 누웠으며…” 하고 원망하다가, <span class="ev ans" id="ev46">㉠ “어찌 떨어진 꽃을 생각하고 새로 피는 꽃을 돌아보지 아니하오리까?”</span><a class="ev-tag ans" href="#q32-5">32-⑤</a> 하며 새 인연을 받아들이라 이른다. 이후 다시 꿈에 나타나 “황성에서 과거를 보인다”는 소식을 전하며 원수를 갚으라 한다. 학공이 과거에 나아가 일필휘지하니 문장은 이태백, 필법은 왕희지였다.</p>
 </div>
 
-<div class="q-block" id="prob31">31
+<div class="q-block" id="prob31">
   <p class="q-stem">31. 윗글의 내용에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q31-1">① 학공은 별선의 만류에도 복수를 위해 잔치에 참석하였다.</li>
-    <li id="q31-2">② 별선은 잔치에 다녀온 학공에게 자신의 잘못을 고백하고 용서를 구한다.</li>
-    <li id="q31-3">③ 별선은 학공과 자신이 같은 날 밤 죽임을 당할 것이라 생각해 슬퍼한다.</li>
+    <li id="q31-1">① 학공은 별선의 만류에도 복수를 위해 잔치에 참석하였다.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q31-2">② 별선은 잔치에 다녀온 학공에게 자신의 잘못을 고백하고 용서를 구한다.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q31-3">③ 별선은 학공과 자신이 같은 날 밤 죽임을 당할 것이라 생각해 슬퍼한다.<a class="src-tag" href="#ev47">지문 근거</a></li>
     <li id="q31-4">④ 학공이 부친의 부음을 핑계로 애걸하면 물 지키는 관리가 도와줄 것이라고 별선은 생각한다.<a class="src-tag ans" href="#ev45">정답 근거</a></li>
-    <li id="q31-5">⑤ 학공은 신방에 든 신부의 아름다운 모습에 감탄한다.</li>
+    <li id="q31-5">⑤ 학공은 신방에 든 신부의 아름다운 모습에 감탄한다.<a class="src-tag" href="#ev46">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1326,13 +1326,13 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob32">32
+<div class="q-block" id="prob32">
   <p class="q-stem">32. ‘별선’이 ㉠을 통해 말하고자 하는 바로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q32-1">① 앞으로 학공에게 나타나지 않겠다.</li>
-    <li id="q32-2">② 학공이 평생 자신을 잊지 말기를 바란다.</li>
-    <li id="q32-3">③ 학공에게 미래에 좋은 일이 생길 것이다.</li>
-    <li id="q32-4">④ 꿈에서나마 학공을 만날 수 있어 기쁘다.</li>
+    <li id="q32-1">① 앞으로 학공에게 나타나지 않겠다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q32-2">② 학공이 평생 자신을 잊지 말기를 바란다.<a class="src-tag" href="#ev47">지문 근거</a></li>
+    <li id="q32-3">③ 학공에게 미래에 좋은 일이 생길 것이다.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q32-4">④ 꿈에서나마 학공을 만날 수 있어 기쁘다.<a class="src-tag" href="#ev46">지문 근거</a></li>
     <li id="q32-5">⑤ 학공이 새 신부를 맞이한 것을 이해한다.<a class="src-tag ans" href="#ev46">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1361,18 +1361,18 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob33">33
+<div class="q-block" id="prob33">
   <p class="q-stem">33. 〈학습 활동〉을 수행한 결과로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습 활동 &gt;</p>
     <p>ⓐ <b>서사 구조</b>: 비범한 탄생 → 죽음의 위기 → 조력자의 도움 → 위기 극복 → 개인 목표·사회적 위업 달성<br>ⓑ <b>시대 배경</b>: 조선 후기 신분 질서의 동요<br>ⓒ <b>조력 방식</b>: 해결 방안 제시 · 초월적 능력 발휘 · 죽음 이후 개입</p>
   </div>
   <ul class="q-opts">
-    <li id="q33-1">① ‘모친과 동생의 원수를 갚지 못하고’ 슬퍼함 → ⓐ: 원수 갚기가 학공의 개인적 목표.</li>
-    <li id="q33-2">② ‘노비의 손에 죽나이다’ → ⓑ: 신분 질서가 흔들리던 조선 후기 사회상.</li>
+    <li id="q33-1">① ‘모친과 동생의 원수를 갚지 못하고’ 슬퍼함 → ⓐ: 원수 갚기가 학공의 개인적 목표.<a class="src-tag" href="#ev45">지문 근거</a></li>
+    <li id="q33-2">② ‘노비의 손에 죽나이다’ → ⓑ: 신분 질서가 흔들리던 조선 후기 사회상.<a class="src-tag" href="#ev47">지문 근거</a></li>
     <li id="q33-3">③ 별선이 ‘내 몸을 바꾸어 죽을 것’이라 함 → ⓒ: 별선이 ‘초월적 능력’을 발휘하는 조력자임.<a class="src-tag ans" href="#ev47">정답 근거</a></li>
-    <li id="q33-4">④ 별선이 꿈에서 ‘과거를 보인다’를 알려 줌 → ⓒ: 사후에도 삶에 개입하는 조력자.</li>
-    <li id="q33-5">⑤ 답안이 ‘문장은 이태백, 필법은 왕희지’ → ⓐ: 사회적 위업을 달성할 능력을 갖춤.</li>
+    <li id="q33-4">④ 별선이 꿈에서 ‘과거를 보인다’를 알려 줌 → ⓒ: 사후에도 삶에 개입하는 조력자.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q33-5">⑤ 답안이 ‘문장은 이태백, 필법은 왕희지’ → ⓐ: 사회적 위업을 달성할 능력을 갖춤.<a class="src-tag" href="#ev47">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1426,14 +1426,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>부구공: “남들이 나를 군자라 해도 내가 군자라 결정할 수 없고, 소인이라 해도 소인이라 결정할 수 없소. … 시비에 휩쓸려 근심·기뻐함은 지혜롭지 못한 일이오.” ⓑ 선문자가 “그렇다면 근심도 기쁨도 없다는 말이오?” 하고 묻자, 부구공: “있소. 나를 군자라 하는 이가 정말 군자라면 기뻐하고, <span class="ev ans" id="ev-q38-4">군자가 나를 소인이라 하면 근심하오.</span><a class="ev-tag ans" href="#q38-4">38-④</a> … 근본은 나에게 있지만 실상을 아는 것은 남에게 있으니, 가릴 바와 힘쓸 바를 알아야 하오.” 이에 <span class="ev ans" id="ev51">ⓑ 선문자가 팔짝팔짝 뛰면서 기뻐하여</span><a class="ev-tag ans" href="#q36-5">36-⑤</a> ㉤ “지금 선생의 말을 듣고 보니 내가 스승을 얻었소이다.”</p>
 </div>
 
-<div class="q-block" id="prob34">34
+<div class="q-block" id="prob34">
   <p class="q-stem">34. (가)~(다)의 공통점으로 가장 적절한 것은? <span class="q-rate">오답률 48.3%</span></p>
   <ul class="q-opts">
-    <li id="q34-1">① 불가능한 상황을 가정하여 소망을 강조한다.</li>
+    <li id="q34-1">① 불가능한 상황을 가정하여 소망을 강조한다.<a class="src-tag" href="#ev50">지문 근거</a></li>
     <li id="q34-2">② 대비되는 상황을 제시하여 바람직한 삶의 태도를 드러낸다.<a class="src-tag ans" href="#ev48">정답 근거</a></li>
-    <li id="q34-3">③ 명령형 표현으로 대상의 가능성에 대한 믿음을 부각한다.</li>
-    <li id="q34-4">④ 사물의 속성에 도덕적 의미를 부여해 지향 가치를 드러낸다.</li>
-    <li id="q34-5">⑤ 시간 표현으로 자연 경관의 순차적 변화를 나타낸다.</li>
+    <li id="q34-3">③ 명령형 표현으로 대상의 가능성에 대한 믿음을 부각한다.<a class="src-tag" href="#ev48">지문 근거</a></li>
+    <li id="q34-4">④ 사물의 속성에 도덕적 의미를 부여해 지향 가치를 드러낸다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q34-5">⑤ 시간 표현으로 자연 경관의 순차적 변화를 나타낸다.<a class="src-tag" href="#ev52">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1461,7 +1461,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob35">35
+<div class="q-block" id="prob35">
   <p class="q-stem">35. 〈보기〉로 (나)를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.1%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1469,10 +1469,10 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </div>
   <ul class="q-opts">
     <li id="q35-1">① ‘값 주고 닦을’ ‘명경’에 마음을 빗대어 자신의 마음가짐에 대한 비판적 성찰을 드러낸다.<a class="src-tag ans" href="#ev49">정답 근거</a></li>
-    <li id="q35-2">② ‘명덕을 닦을 줄을 모르는도다’로 자기 수양에 소홀한 사람들에 대한 안타까움을 드러낸다.</li>
-    <li id="q35-3">③ ‘팔덕문’ 길을 ‘크나큰 한 길’이라 해 8윤리가 실천해야 할 것임을 드러낸다.</li>
-    <li id="q35-4">④ ‘행인이 오도 가도 안 하는’ 상황으로 올바른 가치가 외면받는 세태를 문제 삼는다.</li>
-    <li id="q35-5">⑤ ‘제세주’를 ‘강가에 버’린 ‘사공’으로 포부를 못 이룬 자신을 반성한다.</li>
+    <li id="q35-2">② ‘명덕을 닦을 줄을 모르는도다’로 자기 수양에 소홀한 사람들에 대한 안타까움을 드러낸다.<a class="src-tag" href="#ev48">지문 근거</a></li>
+    <li id="q35-3">③ ‘팔덕문’ 길을 ‘크나큰 한 길’이라 해 8윤리가 실천해야 할 것임을 드러낸다.<a class="src-tag" href="#ev52">지문 근거</a></li>
+    <li id="q35-4">④ ‘행인이 오도 가도 안 하는’ 상황으로 올바른 가치가 외면받는 세태를 문제 삼는다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q35-5">⑤ ‘제세주’를 ‘강가에 버’린 ‘사공’으로 포부를 못 이룬 자신을 반성한다.<a class="src-tag" href="#ev53">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1500,13 +1500,13 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob36">36
+<div class="q-block" id="prob36">
   <p class="q-stem">36. ⓐ(청춘과부)와 ⓑ(선문자)를 이해한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q36-1">① ⓐ는 대화로 갈등을 해소하고, ⓑ는 대화로 갈등이 고조된다.</li>
-    <li id="q36-2">② ⓐ는 대화 결과 태도 변화를 보이고, ⓑ는 자신에 대한 상대 평가를 반박한다.</li>
-    <li id="q36-3">③ ⓐ는 물음으로 상대에 대한 우려를, ⓑ는 질문으로 상대 생각에 의문을 표한다.</li>
-    <li id="q36-4">④ ⓐ와 ⓑ 모두 자신의 경험을 예로 들어 상대를 설득한다.</li>
+    <li id="q36-1">① ⓐ는 대화로 갈등을 해소하고, ⓑ는 대화로 갈등이 고조된다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q36-2">② ⓐ는 대화 결과 태도 변화를 보이고, ⓑ는 자신에 대한 상대 평가를 반박한다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q36-3">③ ⓐ는 물음으로 상대에 대한 우려를, ⓑ는 질문으로 상대 생각에 의문을 표한다.<a class="src-tag" href="#ev48">지문 근거</a></li>
+    <li id="q36-4">④ ⓐ와 ⓑ 모두 자신의 경험을 예로 들어 상대를 설득한다.<a class="src-tag" href="#ev49">지문 근거</a></li>
     <li id="q36-5">⑤ ⓐ와 ⓑ는 모두 상대와 대화한 이후 기쁨의 정서를 표출한다.<a class="src-tag ans" href="#ev51">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1531,14 +1531,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob37">37
+<div class="q-block" id="prob37">
   <p class="q-stem">37. 문맥을 고려해 ㉠~㉤을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q37-1">① ㉠: 주어진 상황을 운명으로 여기고 현실을 받아들이는 태도.</li>
+    <li id="q37-1">① ㉠: 주어진 상황을 운명으로 여기고 현실을 받아들이는 태도.<a class="src-tag" href="#ev50">지문 근거</a></li>
     <li id="q37-2">② ㉡: 젊고 어여쁜 시절이 금세 지나가는 것에 대한 아쉬움.<a class="src-tag ans" href="#ev50">정답 근거</a></li>
-    <li id="q37-3">③ ㉢: 상대의 말이 화자의 생각에 영향을 주었음.</li>
+    <li id="q37-3">③ ㉢: 상대의 말이 화자의 생각에 영향을 주었음.<a class="src-tag" href="#ev53">지문 근거</a></li>
     <li id="q37-4">④ ㉣: 대상이 되는 행위는 누구나 할 수 있는 일임을 강조.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q37-5">⑤ ㉤: 상대의 말에서 새로 배운 것이 있었음.</li>
+    <li id="q37-5">⑤ ㉤: 상대의 말에서 새로 배운 것이 있었음.<a class="src-tag" href="#ev52">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1566,18 +1566,18 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob38">38
+<div class="q-block" id="prob38">
   <p class="q-stem">38. 〈보기〉를 참고해 (가)·(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 45.1%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>(가) 덴동어미: 근심·기쁨은 일의 좋고 나쁨이 아니라 <b>마음가짐</b>에 달렸다. (다) 글쓴이: 근심·기쁨은 자신이 훌륭한지에 달렸으니 타인 평가에 얽매여 근심·기뻐함은 지혜롭지 못하다. 다만 자신의 실상은 타인을 통해 알 수 있으므로, 평가의 의미를 <b>가려서</b> 받아들이고 스스로 군자가 되도록 힘써야 한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q38-1">① (가) ‘귀도 또한 별일이지’ → 감정이 마음가짐에 따라 달라질 수 있음.</li>
-    <li id="q38-2">② (가) ‘마음만 여사 태평하면’ ‘고생될 일 별로 없소’ → 감정은 외부가 아니라 내면에서 비롯.</li>
-    <li id="q38-3">③ (다) ‘나를 군자라 하는’ 말을 군자가 하면 기뻐하고 소인이 하면 근심 → 평가의 의미를 가려 받아들임.</li>
+    <li id="q38-1">① (가) ‘귀도 또한 별일이지’ → 감정이 마음가짐에 따라 달라질 수 있음.<a class="src-tag" href="#ev49">지문 근거</a></li>
+    <li id="q38-2">② (가) ‘마음만 여사 태평하면’ ‘고생될 일 별로 없소’ → 감정은 외부가 아니라 내면에서 비롯.<a class="src-tag" href="#ev48">지문 근거</a></li>
+    <li id="q38-3">③ (다) ‘나를 군자라 하는’ 말을 군자가 하면 기뻐하고 소인이 하면 근심 → 평가의 의미를 가려 받아들임.<a class="src-tag" href="#ev53">지문 근거</a></li>
     <li id="q38-4">④ (다) ‘나를 소인이라 하는 이가 정말 군자라면’ 근심 → 타인 평가에 얽매이는 것을 지혜롭지 않게 여김.<a class="src-tag ans" href="#ev-q38-4">정답 근거</a></li>
-    <li id="q38-5">⑤ (다) ‘근본은 나에게 있’으므로 ‘힘쓸 바를 알지 않아서야’ → 군자가 되려 노력함이 중요.</li>
+    <li id="q38-5">⑤ (다) ‘근본은 나에게 있’으므로 ‘힘쓸 바를 알지 않아서야’ → 군자가 되려 노력함이 중요.<a class="src-tag" href="#ev51">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1630,14 +1630,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>그때 밖에서 자동차 <span class="ev ans" id="ev56">ⓐ 경적 소리가 울려 대화가 끊긴다.</span><a class="ev-tag ans" href="#q41-1">41-①</a> 어머니가 성호에게 귓속말을 하려는 순간, 할아버지의 <span class="ev" id="ev58">ⓑ “커엄!” 소리에 성호는 이끌리듯 차에 올라탄다(귓속말이 막힌다).</span><a class="ev-tag ans" href="#q41-1">41-①</a> 차가 시내를 벗어나자 <span class="ev" id="ev59">성호는 ‘가슴이 툭 트이는 것 같’은 해방감을 느끼고,</span><a class="ev-tag" href="#q42-3">42-③</a> 약혼식을 ‘도깨비들 잔치판’으로 떠올린다. 끝에 고고한 동곡 할아버지(갈매나무)를 떠올리며 옷깃을 여민다.</p>
 </div>
 
-<div class="q-block" id="prob39">39
+<div class="q-block" id="prob39">
   <p class="q-stem">39. [A]의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q39-1">① 상징적 배경을 제시하여 긴장감을 고조한다.</li>
-    <li id="q39-2">② 현재와 과거를 교차해 사건 해결의 실마리를 제시한다.</li>
+    <li id="q39-1">① 상징적 배경을 제시하여 긴장감을 고조한다.<a class="src-tag" href="#ev54">지문 근거</a></li>
+    <li id="q39-2">② 현재와 과거를 교차해 사건 해결의 실마리를 제시한다.<a class="src-tag" href="#ev57">지문 근거</a></li>
     <li id="q39-3">③ 대화를 주고받는 장면으로 인물 간 갈등 양상을 보여 준다.<a class="src-tag ans" href="#ev55">정답 근거</a></li>
-    <li id="q39-4">④ 인물의 외양을 과장 묘사해 부정적 면모를 부각한다.</li>
-    <li id="q39-5">⑤ 장면마다 서술자를 달리해 사건을 입체적으로 조명한다.</li>
+    <li id="q39-4">④ 인물의 외양을 과장 묘사해 부정적 면모를 부각한다.<a class="src-tag" href="#ev56">지문 근거</a></li>
+    <li id="q39-5">⑤ 장면마다 서술자를 달리해 사건을 입체적으로 조명한다.<a class="src-tag" href="#ev55">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1661,13 +1661,13 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob40">40
+<div class="q-block" id="prob40">
   <p class="q-stem">40. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 43.8%</span></p>
   <ul class="q-opts">
     <li id="q40-1">① ㉠의 상황은 성호가 ㉡의 행동을 주저하는 이유이다.<a class="src-tag" href="#ev54">지문 근거</a></li>
-    <li id="q40-2">② ㉡의 상황은 아버지·성호가 ㉢을 듣고 긴장하는 이유가 된다.</li>
-    <li id="q40-3">③ ㉡의 아버지 요구와 ㉣의 할아버지 요구 사이에서 성호는 할아버지의 뜻을 따른다.</li>
-    <li id="q40-4">④ ㉢에 대한 대답은 할아버지가 말한 ㉣로 이어진다.</li>
+    <li id="q40-2">② ㉡의 상황은 아버지·성호가 ㉢을 듣고 긴장하는 이유가 된다.<a class="src-tag" href="#ev57">지문 근거</a></li>
+    <li id="q40-3">③ ㉡의 아버지 요구와 ㉣의 할아버지 요구 사이에서 성호는 할아버지의 뜻을 따른다.<a class="src-tag" href="#ev59">지문 근거</a></li>
+    <li id="q40-4">④ ㉢에 대한 대답은 할아버지가 말한 ㉣로 이어진다.<a class="src-tag" href="#ev58">지문 근거</a></li>
     <li id="q40-5">⑤ ㉤은 아버지가, ㉣의 요구가 일의 중요도를 고려하지 않은 것임을 알리는 말이다.<a class="src-tag ans" href="#ev55">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1696,14 +1696,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob41">41
+<div class="q-block" id="prob41">
   <p class="q-stem">41. ⓐ(경적)와 ⓑ(커엄)의 기능으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q41-1">① ⓐ는 대화를 중단시키고, ⓑ는 이어지려는 말을 막는다.<a class="src-tag ans" href="#ev56">정답 근거</a></li>
-    <li id="q41-2">② ⓐ는 성호·할아버지 갈등을 심화하고, ⓑ는 그 갈등을 해소한다.</li>
-    <li id="q41-3">③ ⓐ는 기대감을, ⓑ는 이미 일어난 일에 대한 실망감을 불러일으킨다.</li>
-    <li id="q41-4">④ ⓐ는 할아버지의 아버지 평가를 바꾸고, ⓑ는 성호의 거부감을 유발한다.</li>
-    <li id="q41-5">⑤ ⓐ는 전화로 약속한 일이 일어났음을, ⓑ는 그에 대한 만족감을 드러낸다.</li>
+    <li id="q41-2">② ⓐ는 성호·할아버지 갈등을 심화하고, ⓑ는 그 갈등을 해소한다.<a class="src-tag" href="#ev58">지문 근거</a></li>
+    <li id="q41-3">③ ⓐ는 기대감을, ⓑ는 이미 일어난 일에 대한 실망감을 불러일으킨다.<a class="src-tag" href="#ev58">지문 근거</a></li>
+    <li id="q41-4">④ ⓐ는 할아버지의 아버지 평가를 바꾸고, ⓑ는 성호의 거부감을 유발한다.<a class="src-tag" href="#ev57">지문 근거</a></li>
+    <li id="q41-5">⑤ ⓐ는 전화로 약속한 일이 일어났음을, ⓑ는 그에 대한 만족감을 드러낸다.<a class="src-tag" href="#ev59">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1727,18 +1727,18 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob42">42
+<div class="q-block" id="prob42">
   <p class="q-stem">42. 〈보기〉를 참고해 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>두 할아버지는 강직한 역사의식과 고고한 기품을 지닌 인물. 김학모는 친일 이력을 덮으려, 성호 아버지는 출세하려 결혼을 서두른다. 성호는 할아버지의 역사의식에 공감하면서도 현재의 삶도 중요하다 여긴다. 제목의 ‘도깨비’는 역사의식 없이 세속에 매몰된 인물들을, ‘잔치’는 그들이 활개치는 세상을 풍자한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q42-1">① ‘고개를 돌’린 것 → 아버지가 김학모의 환심으로 이익을 얻으려 함을 성호가 짐작.</li>
+    <li id="q42-1">① ‘고개를 돌’린 것 → 아버지가 김학모의 환심으로 이익을 얻으려 함을 성호가 짐작.<a class="src-tag" href="#ev54">지문 근거</a></li>
     <li id="q42-2">② ‘수모를 삼키고 식을 올리겠다’는 김학모를 ‘배짱과 집념’으로 표현 → 과거에 얽매이지 않는 삶에 대한 성호의 긍정.<a class="src-tag ans" href="#ev57">정답 근거</a></li>
     <li id="q42-3">③ 시내에서 멀어지며 ‘가슴이 툭 트이는’ 기분 → 할아버지 뜻을 따르게 된 성호의 심정.<a class="src-tag" href="#ev59">지문 근거</a></li>
-    <li id="q42-4">④ 약혼식을 ‘도깨비들 잔치판’으로 표현 → 세속에 매몰된 자들의 득세에 대한 비판 의식.</li>
-    <li id="q42-5">⑤ ‘갈매나무’를 떠올리고 ‘옷깃을 여’밈 → 고고한 동곡 할아버지의 삶에 대한 성호의 마음.</li>
+    <li id="q42-4">④ 약혼식을 ‘도깨비들 잔치판’으로 표현 → 세속에 매몰된 자들의 득세에 대한 비판 의식.<a class="src-tag" href="#ev57">지문 근거</a></li>
+    <li id="q42-5">⑤ ‘갈매나무’를 떠올리고 ‘옷깃을 여’밈 → 고고한 동곡 할아버지의 삶에 대한 성호의 마음.<a class="src-tag" href="#ev59">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1788,14 +1788,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>이곳에선 아무도 걷지를 않습니다 / 내쳐 달리거나 길바닥 위에서 쓰러질 뿐입니다 / <span class="ev ans" id="ev60">이 도시는 느슨한 산책을 아주 / 싫어하는 모양입니다</span><a class="ev-tag ans" href="#q43-3">43-③</a> 산책은 아니 / ⓑ산책만이 두 눈과 귀를 열어 준다는 비밀을 … 도시는 단 한 사람의 산책자도 / 인정하지 않으려 합니다 느림보는 / 가장 큰 죄인으로 몰립니다 … <span class="ev ans" id="ev62">이 도시는 산책의 거대한 묘지입니다</span><a class="ev-tag ans" href="#q45-5">45-⑤</a></p>
 </div>
 
-<div class="q-block" id="prob43">43
+<div class="q-block" id="prob43">
   <p class="q-stem">43. ㉠을 중심으로 (나)·(다)를 이해한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 41.7%</span></p>
   <ul class="q-opts">
-    <li id="q43-1">① (나)는 시각적 이미지의 대비로 대상의 의미 변화를 드러낸다.</li>
-    <li id="q43-2">② (나)는 명사형으로 시상을 마무리해 화자의 태도를 드러낸다.</li>
+    <li id="q43-1">① (나)는 시각적 이미지의 대비로 대상의 의미 변화를 드러낸다.<a class="src-tag" href="#ev60">지문 근거</a></li>
+    <li id="q43-2">② (나)는 명사형으로 시상을 마무리해 화자의 태도를 드러낸다.<a class="src-tag" href="#ev63">지문 근거</a></li>
     <li id="q43-3">③ (다)는 한 문장의 중간에서 행을 나누어 대상의 속성을 부각한다.<a class="src-tag ans" href="#ev60">정답 근거</a></li>
-    <li id="q43-4">④ (나)·(다) 모두 경어체로 대상에 대한 친근감을 강조한다.</li>
-    <li id="q43-5">⑤ (나)·(다) 모두 사물에 인격을 부여해 대상 간 갈등 해소를 부각한다.</li>
+    <li id="q43-4">④ (나)·(다) 모두 경어체로 대상에 대한 친근감을 강조한다.<a class="src-tag" href="#ev62">지문 근거</a></li>
+    <li id="q43-5">⑤ (나)·(다) 모두 사물에 인격을 부여해 대상 간 갈등 해소를 부각한다.<a class="src-tag" href="#ev60">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1823,14 +1823,14 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob44">44
+<div class="q-block" id="prob44">
   <p class="q-stem">44. ⓐ·ⓑ에 대한 이해로 가장 적절한 것은? <span class="q-rate">오답률 40.9%</span></p>
   <ul class="q-opts">
     <li id="q44-1">① ⓐ는 직면한 현실을 감당하려는 태도에서 비롯된 것이다.<a class="src-tag ans" href="#ev61">정답 근거</a></li>
-    <li id="q44-2">② ⓑ는 문제 해결의 책임을 회피하려는 의도에서 비롯된 것이다.</li>
-    <li id="q44-3">③ ⓐ·ⓑ는 모두 화자의 내적 성숙을 지연시키는 요인이다.</li>
-    <li id="q44-4">④ ⓐ는 화자와 세계의 소통을 방해하고, ⓑ는 소통을 가능하게 한다.</li>
-    <li id="q44-5">⑤ ⓐ는 한계 수용의 원인, ⓑ는 현실 순응의 결과이다.</li>
+    <li id="q44-2">② ⓑ는 문제 해결의 책임을 회피하려는 의도에서 비롯된 것이다.<a class="src-tag" href="#ev61">지문 근거</a></li>
+    <li id="q44-3">③ ⓐ·ⓑ는 모두 화자의 내적 성숙을 지연시키는 요인이다.<a class="src-tag" href="#ev63">지문 근거</a></li>
+    <li id="q44-4">④ ⓐ는 화자와 세계의 소통을 방해하고, ⓑ는 소통을 가능하게 한다.<a class="src-tag" href="#ev61">지문 근거</a></li>
+    <li id="q44-5">⑤ ⓐ는 한계 수용의 원인, ⓑ는 현실 순응의 결과이다.<a class="src-tag" href="#ev62">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1854,13 +1854,13 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob45">45
+<div class="q-block" id="prob45">
   <p class="q-stem">45. (가)를 참고해 (나)·(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.3%</span> <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
     <li id="q45-1">① (나)의 ‘꼿꼿하여 흩어지지 않았다’ → 부정적 현실에 굴하지 않는 삶의 태도.<a class="src-tag" href="#ev63">지문 근거</a></li>
-    <li id="q45-2">② (나)의 ‘온갖 협잡의 시대’ → 현실 세계에 대한 화자의 문제의식.</li>
-    <li id="q45-3">③ (다)의 ‘두 눈과 귀를 열어 준다’는 산책 → 여유로운 삶을 살아야 한다는 주제 의식.</li>
-    <li id="q45-4">④ (다)의 ‘유토피아의 초대장들’이 산책을 훼방 → 도시 문명의 기만적 속성.</li>
+    <li id="q45-2">② (나)의 ‘온갖 협잡의 시대’ → 현실 세계에 대한 화자의 문제의식.<a class="src-tag" href="#ev62">지문 근거</a></li>
+    <li id="q45-3">③ (다)의 ‘두 눈과 귀를 열어 준다’는 산책 → 여유로운 삶을 살아야 한다는 주제 의식.<a class="src-tag" href="#ev63">지문 근거</a></li>
+    <li id="q45-4">④ (다)의 ‘유토피아의 초대장들’이 산책을 훼방 → 도시 문명의 기만적 속성.<a class="src-tag" href="#ev62">지문 근거</a></li>
     <li id="q45-5">⑤ (다)의 ‘도시’를 ‘거대한 묘지’로 표현 → 개인주의가 만연한 사회에 대한 문제의식.<a class="src-tag ans" href="#ev62">정답 근거</a></li>
   </ul>
   <details class="solution">
