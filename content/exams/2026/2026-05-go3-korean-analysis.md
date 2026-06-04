@@ -644,7 +644,144 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set5" class="set-anchor"></div>
 
-## 18~21번 현대소설 · [작성 예정]
+## 18~21번 현대소설 · 이동하 「모래」 — 갑작스러운 휴무와 노동자의 반응
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>산업화 시대 소기업 노동자(사환아이, 영희)의 시각으로 전개. 갑작스러운 조업 중단 공고 → 노동자 반응 → 오해의 진상 → 불안으로 이어진다.</p>
+  <ul>
+    <li><strong>사건 전개</strong> — 공고문(조업 중단) → 영희=안도감/즐거움 / 남자 사환=위기의식 → 진상: 수위장 김씨가 국제전화 잘못 처리 → 다음날 정상화지만 불안 확산</li>
+    <li><strong>ⓐ 공고문 vs ⓑ 메모</strong> — ⓑ 메모(수위장 김씨 → 한비서) → ⓐ 공고문(대문에 나붙음). ⓑ가 시간상 앞섬</li>
+    <li><strong>㉢ 서술 방식</strong> — "영화라도 한 프로 감상해야지..." = 인물의 생각을 직접 서술(서술자 평가 아님)</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 18번 ③ 영희가 멈춘 게 아니라 사환애들이 나타나 영희가 멈춘 것, 19번 ③ ㉢은 인물 생각 직접 서술(서술자 평가 아님), 20번 ④ ⓑ→ⓐ 순서, 21번 ④ 수위장 착오=기업 위기 대응 아님.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[18 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p>사환아이는 한동안 멍하니 서 있기만 했다. <span class="ev" id="ev19-1">㉠도무지 무슨 영문인지 알 수가 없었다.</span><a class="ev-tag" href="#q19-1">19-①</a> 당분간 조업을 전면 중단하고 휴무라니…… 그것도 전혀 예고 없이 이 아침에 갑자기. <span class="ev" id="ev18-1">그녀는 눈을 동그랗게 치뜬 채 예의 ⓐ공고문을 되풀이해 읽었다. 입사 이래 만 이 년 동안 한 번도 없던 일이었다. … 지금은 구정 대목을 눈앞에 두고 있는 때라 공급이 엄청나게 달리는 판인 것이다.</span><a class="ev-tag" href="#q18-1">18-①</a></p>
+  <p>사환아이는 영하의 추위 속에 오들오들 떨며 서 있었다. … <span class="ev" id="ev18-2">그러자 이상하게도 일종의 안도감 같은 것이 느껴져 왔다. 어쨌든 오늘 근무를 하지 않아도 된다는 것은 과히 싫지 않았다.</span><a class="ev-tag" href="#q18-2">18-②</a> <span class="ev" id="ev19-2">㉡해묵은 천식을 앓고 있는 그 늙다리 총무부장은 아마도, 서너 시간마다 탄불을 갈아 넣으라고 성화일 것이다. 그런다고 십구공탄 난로가 얼마나 더 더워질 것인가. 필경에 고물 석유난로까지 꺼내다 놓고는 기름을 사와라, 심지를 소제하라 한바탕 난리를 피울 것이었다.</span><a class="ev-tag" href="#q19-2">19-②</a></p>
+  <p><span class="ev ans" id="ev19-3">㉢그러고는 오랜만에 영화라도 한 프로 감상해야지. 아니야, 어느 극장에서던가, 내가 좋아하는 가수가 리사이틀을 하고 있다지. 그래, 명자나 수연일 불러내서 거길 가야지. 고 계집애들도 미치게 좋아할 거야…….</span><a class="ev-tag ans" href="#q19-3">19-③</a></p>
+  <p><span class="ev ans" id="ev18-3">갑자기 즐거워진 마음으로 그녀는 돌아섰다. 그러고는 막 발을 떼 놓으려다 말고 멈추어 섰다. 타과 소속의 사환애들 서넛이 한꺼번에 나타났기 때문이었다.</span><a class="ev-tag ans" href="#q18-3">18-③</a></p>
+  <p>… (중략) …</p>
+  <p><span class="ev" id="ev18-4">사장은 결코 그러한 지시를 한 적이 없으며, 또한 일정이 너무나 바빴기 때문에 외유 기간 동안 본가로도 국제전화 한 통 할 기회가 없었다는 것이었다.</span><a class="ev-tag" href="#q18-4">18-④</a></p>
+  <p><span class="ev ans" id="ev20-4">남의 사정 잘 헤아릴 나이가 된 수위장 김씨는 하는 수 없이 스스로 비서 행세를 하면서 어물어물 통화를 했다. 결정적인 잘못은 거기서 빚어졌던 것이다. ㉣경황없이 통화를 끝낸 그는 식은땀이 촉촉하게 배어난 손으로 내용을 메모해 뒀다. 그러곤 새벽녘에야 간신히 한비서를 깨우는 데 성공하여 그걸 전했노라고 실토했다.</span><a class="ev-tag" href="#q19-4">19-④</a></p>
+  <p>―내가 귀국할 때까지 모든 일을 중지할 것. 사장.</p>
+  <p>이것이 한비서가 받은 ⓑ메모의 전부였다고 한다. 여기서부터 '당분간 일체의 조업을 중단하고 휴무함. 사장백'이라는 공고문이 예의 녹슨 철제 대문 위에 나붙게 되기까지의 과정은 굳이 얘기할 필요조차도 없는 일이다. <span class="ev ans" id="ev19-5">㉤이 대목에서만은 다들 쓴 입맛만 다셨을 따름이었다.</span><a class="ev-tag ans" href="#q19-5">19-⑤</a> 어쨌든 회사는 당장 다음날부터 정상 업무를 한다고 공시되었지만, <span class="ev" id="ev18-5">그러나 한비서와 부사장의 인책 사임의 소문과 더불어 회사의 장래에 대한 불안감이 전사원들의 마음을 어둡게 사로잡았다.</span><a class="ev-tag" href="#q18-5">18-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 회사는 구정 대목을 앞두고 있어 공급이 달리는 상황이었다.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+    <li id="q18-2">② 사환아이는 영하의 추위 속에서 떨기만 하다가 일종의 안도감을 느꼈다.<a class="src-tag" href="#ev18-2">지문 근거</a></li>
+    <li id="q18-3">③ 영희는 타과 소속의 사환애들이 한꺼번에 나타나자 그들을 멈춰 세웠다.<a class="src-tag ans" href="#ev18-3">정답 근거</a></li>
+    <li id="q18-4">④ 사장은 외유 기간 동안 일정이 바빠서 본가로 국제전화 한 통 할 기회가 없었다.<a class="src-tag" href="#ev18-4">지문 근거</a></li>
+    <li id="q18-5">⑤ 회사에는 한비서와 부사장의 사임에 대한 소문이 돌게 되었다.<a class="src-tag" href="#ev18-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>지문: "그녀(영희)는 돌아섰다. 그러고는 막 발을 떼 놓으려다 말고 멈추어 섰다. 타과 소속의 사환애들 서넛이 한꺼번에 나타났기 때문이었다." → 영희가 멈춘 것이고, 사환애들을 멈춰 세운 게 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>영희 자신이 멈춘 것. 사환애들을 멈춰 세운 것이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. ㉠~㉤의 서술 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① ㉠: 특정 인물의 생각을 직접적으로 드러내어 서술하고 있다.<a class="src-tag" href="#ev19-1">지문 근거</a></li>
+    <li id="q19-2">② ㉡: 특정 인물에 대한 정보를 제시하고 그 인물이 보일 법한 행동을 짐작하여 서술하고 있다.<a class="src-tag" href="#ev19-2">지문 근거</a></li>
+    <li id="q19-3">③ ㉢: 특정 인물의 생각을 서술자의 관점으로 평가하는 방식으로 서술하고 있다.<a class="src-tag ans" href="#ev19-3">정답 근거</a></li>
+    <li id="q19-4">④ ㉣: 특정 인물의 행동들을 순차적으로 서술하고 있다.<a class="src-tag" href="#ev20-4">지문 근거</a></li>
+    <li id="q19-5">⑤ ㉤: 상황에 대한 인물들의 반응을 관용 표현을 활용하여 서술하고 있다.<a class="src-tag" href="#ev19-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>㉢: "영화라도 한 프로 감상해야지… 거길 가야지…" — 인물(영희)의 생각을 직접 서술하는 것이지, 서술자가 평가하는 방식이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 적절한 서술 방식 설명.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢은 인물의 생각을 직접 옮긴 것. 서술자 평가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. ⓐ와 ⓑ에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① ⓐ에 담긴 정보는 ⓑ에 잘못된 정보가 기록되는 원인이 된다.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+    <li id="q20-2">② ⓐ는 ⓑ로 인해 발생한 문제의 책임을 규명하기 위해 만들어진 것이다.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+    <li id="q20-3">③ ⓐ의 존재는 누구나 예상할 수 있었지만, ⓑ의 존재는 누구도 예상할 수 없었다.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+    <li id="q20-4">④ ⓑ가 작성된 시점은 ⓐ가 집단적으로 공유되는 시점보다 앞선다.<a class="src-tag ans" href="#ev20-4">정답 근거</a></li>
+    <li id="q20-5">⑤ ⓑ는 인물 간 갈등을 표면화하는 계기가 되고, ⓐ는 인물 간 갈등을 해소하는 계기가 된다.<a class="src-tag" href="#ev19-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>ⓑ 메모(수위장 → 한비서, 새벽녘) → ⓐ 공고문(대문에 나붙음). 시간 순서상 ⓑ가 먼저, ⓐ가 집단 공유됨.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>ⓑ 메모 작성(새벽) → ⓐ 공고문 게시(아침) 순서.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>이 작품은 사소한 착오로 발생한 사건에 대한 노동자들의 반응을 통해 산업화 시대의 단면을 보여 준다. 부당한 현실에 익숙해진 채 살아가던 노동자들이 사건에 대해 보이는 문제의식의 차이는 불안정한 노동 현실을 사실적으로 드러낸다. 또한 이 작품은 직면한 위기를 해결하기 위한 기업의 대처와 이에 대한 노동자들의 심리적 동요를 재현함으로써 산업화 시대의 취약한 기업 구조의 실상을 드러낸다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q21-1">① '쥐꼬리만한 사환 봉급'마저 '에누리하여 지급'받았던 '사환아이'가 '제대로 난방도 되지 않은 사무실'에서 일하고 있는 것에서, 부당한 노동 환경에 처해 있는 노동자의 현실을 엿볼 수 있군.<a class="src-tag" href="#ev18-2">지문 근거</a></li>
+    <li id="q21-2">② '사환애'가 '돌연한 사태'를 '그다지 해로울 게 없다'고 생각하며 '친구들이나 죄 순방해 보'고자 하는 것에서, 당면한 사건에 대하여 문제의식이 부족한 노동자의 모습을 엿볼 수 있군.<a class="src-tag" href="#ev19-3">지문 근거</a></li>
+    <li id="q21-3">③ '남자 사환애'가 '당분간 조업'이 '중단'된 상황을 '휴가 같은 게 아니'라 '결국 회사 문을 처닫는단 소리'로 이해하는 것에서, 불안정한 노동 현실에 대한 노동자의 위기의식을 엿볼 수 있군.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+    <li id="q21-4">④ '숙직 사령'인 '한비서'가 '통화를 할 수 없는 상태'라 '수위장 김씨'가 '스스로 비서 행세'를 하며 통화한 것에서, 기업이 직면한 위기에 직접 대응할 수밖에 없는 노동자의 모습을 엿볼 수 있군.<a class="src-tag ans" href="#ev20-4">정답 근거</a></li>
+    <li id="q21-5">⑤ 회사가 '정상 업무를 한다고 공시'된 상황에도 '전사원들'이 '실업의 위기'에 대하여 생각하는 것에서, 취약한 기업 구조로 인한 노동자들의 불안감을 엿볼 수 있군.<a class="src-tag" href="#ev18-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>수위장 김씨가 통화한 것은 기업이 위기에 직면해서 대응한 것이 아니라, 한비서가 술에 취해 통화 불가 상태인 상황에서 우발적으로 비서 행세를 한 것이다. 이는 '사소한 착오'에 해당하지, 위기 대응이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>보기와 지문 내용 적절히 연결.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>수위장 통화는 우발적 착오이지 기업 위기 대응이 아니다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set6" class="set-anchor"></div>
 
