@@ -749,7 +749,167 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="set6" class="set-anchor"></div>
 
-## 22~26번 갈래복합 · [작성 예정]
+## 22~26번 갈래복합 · (가) 홍정유 '동유가' / (나) 이태준 '해촌 일지'
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가)는 기행가사(관찰자 입장 사실 기록), (나)는 기행 수필(인상 감각적 묘사). 두 작품 모두 자연물에 주목하며 친화적 태도를 드러냄.</p>
+  <ul>
+    <li><strong>(가) 동유가</strong> — 금강산 기행, 화룡담·우물집 등 관찰. 날씨 탓에 만물초 포기, 총석으로 향함</li>
+    <li><strong>(나) 해촌 일지</strong> — 송전 기행 수필. 솔밭·바다·달밤의 감각적 묘사</li>
+    <li>ⓐ만물초 가는 길: 화자가 가려다 포기한 길 / ⓑ바다로 나가는 길: 글쓴이가 걷고 있는 길</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가) 홍정유, 「동유가」</strong></p>
+  <p><span class="ev" id="ev2226-ga1">화룡담 깊은 못이 너럭바위 아래 있어 / 뿜으며 들썩이며 변화가 무궁하다 / 사자봉 높은 돌이 용소를 굽어보되 / 바위 중턱 파인 곳에 돌 하나 끼어 있다 / 중의 말이 황당하여 대강 걸러 들으니 / 저 바위의 사자가 화룡더러 말하기를 / 이내 몸 육중하여 무너져 내려가면 / 너의 깊은 못이 터전도 없을 테니 / 네가 재주 많다 하니 내 발 조금 고여 다오 / 화룡이 옳게 여겨 건너편 산에 올라 / 저 돌을 빼다가 이 바위 괴었다 하네</span><a class="ev-tag" href="#q24-1">24-①②③</a></p>
+  <p><span class="ev" id="ev2226-ga2">들으니 그럴듯해 건넛산 바라보니 / 과연 산 중턱에 돌 하나 빠진 틈이 / 이 돌 갖다 끼울 만큼 크기가 비슷하다 [A] / 한참을 구경하고 도로 내려 금강문에... / 만물초 가는 길이 온정을 지난다기에... / ⓐ만물초 가는 길이 칠십 리 왕복이요 / 청명한 일기에도 구름 끼면 못 보는데 / 하물며 비 오는 날 지척을 분간하랴 / 들으니 그럴듯하고 일행들도 옳다 하여 / 봉래의 후약을 만물초에 남겨 두고 / 행장을 다시 차려 총석으로 향할 제 / 금강 내외산을 이곳에서 작별하니 / 만 이천 봉 빛이 눈앞에 역력하다</span><a class="ev-tag" href="#q23-3">23-③</a><a class="ev-tag" href="#q26-1">26-①</a></p>
+  <p><strong>(나) 이태준, 「해촌 일지」</strong></p>
+  <p><span class="ev" id="ev2226-na1">7월 3일(금) / 총석정은 다음날 와서 찾아가기로 하고 송전으로 오다. / 고저가 곳간 바닥 그대론 듯이 송전은 솔밭 그대로다. / 솔만 보면 봄인 듯하다. 그렇게 푸르기만 하지 않고 윤택하다. 땅만 보면 가을인 듯하다.</span><a class="ev-tag" href="#q22-3">22-③</a><a class="ev-tag" href="#q26-2">26-②</a><a class="ev-tag" href="#q26-4">26-④</a></p>
+  <p><span class="ev" id="ev2226-na2">거리에서 ⓑ바다로 나가는 길이 좋다. 혼례식장에서 이제 막 나오는 신랑 신부나 걸었으면 싶은 그런 길이다. 이 길이 끝나면 천공, 해활, 거기엔 떡 뻗치고 선 것이 하나 있으니 초현실파의 그림처럼 의외의 것이되 배경에 조화되어 버린 철봉이 하나, 나는 뛰어가 매달리어 턱걸이를 겨우 네 번을 하다.</span><a class="ev-tag ans" href="#q25-2">25-② 정답</a><a class="ev-tag" href="#q23-3">23-③ 근거</a></p>
+  <p><span class="ev" id="ev2226-na3">바다는 물결이 세다. 해당화가 군데군데서 나부낀다. 바다는 늘 보아도 젊어 있다. / 밤에 창이 하 밝기에 주인에게 물으니 보름달이라 한다. 다시 여관을 나섰다. / 낮에도 텅― 비었던 길, 밤에도 사람의 그림자는 하나도 없다. 달빛만이 꽉― 차 있었다. 달은 또한 큰 바다이다. 이 달의 바다 아래에선 물의 바다는 너무나 조그맣구나! 그리고 달의 바다는 너무나 성스럽구나! / 사람이, 미물처럼 조그마한 사람이 제가 공연히 그에게 정을 두도다.</span><a class="ev-tag" href="#q25-4">25-④</a><a class="ev-tag" href="#q25-5">25-⑤</a><a class="ev-tag" href="#q26-5">26-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① 자연물에서 덕성을 발견하여 사회적 차원으로 일반화하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
+    <li id="q22-2">② 계절의 변화를 제시하여 삶에 대한 관조적 태도를 드러내고 있다.<a class="src-tag" href="#ev2226-na1">지문 근거</a></li>
+    <li id="q22-3">③ 자연물의 모습에 주목하여 자연에 대한 친화적 태도를 드러내고 있다.<a class="src-tag ans" href="#ev2226-ga1">정답 근거</a></li>
+    <li id="q22-4">④ 자연물 간의 조화로움에 빗대어 현실에서 겪는 삶의 문제를 제기하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
+    <li id="q22-5">⑤ 자연의 극한적 상황을 제시하여 인간의 나약함을 극복하고자 하는 태도를 드러내고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(가): 화룡담·사자봉 자연물에 주목, (나): 솔밭·바다·달 자연물에 주목 → 둘 다 자연물에 주목하여 친화적 태도.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 공통적으로 해당하지 않음.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>둘 다 자연물 모습에 주목, 자연 친화적 태도.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ⓐ, ⓑ에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ⓐ는 화자가 날씨의 영향을 받지 않고 갈 수 있는 길이다.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
+    <li id="q23-2">② ⓑ는 글쓴이가 걷는 도중에 많은 사람들을 마주치는 길이다.<a class="src-tag" href="#ev2226-na2">지문 근거</a></li>
+    <li id="q23-3">③ ⓐ는 화자가 가려던 길이고, ⓑ는 글쓴이가 가고 있는 길이다.<a class="src-tag ans" href="#ev2226-ga2">정답 근거</a></li>
+    <li id="q23-4">④ ⓐ는 화자가 일행을 찾아 떠나는 길이고, ⓑ는 글쓴이가 일행을 마중하러 나가는 길이다.<a class="src-tag" href="#ev2226-na2">지문 근거</a></li>
+    <li id="q23-5">⑤ ⓐ와 ⓑ는 각각 화자와 글쓴이가 걷기에 편한 길이다.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>ⓐ(만물초 가는 길): 화자가 가려다 날씨 때문에 포기한 길. ⓑ(바다로 나가는 길): 글쓴이가 실제로 걷고 있는 길.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>ⓐ는 날씨 때문에 포기(날씨 영향 받음).</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓑ는 밤에 사람 그림자 없는 빈 길.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>ⓐ: 가려던 길(포기), ⓑ: 가고 있는 길.</td></tr>
+          <tr><td>④⑤</td><td>오답</td><td>각각 지문과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. [A]에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① 화자는 '용소' 위에 있는 '사자봉'의 중턱 파인 곳에 '돌 하나'가 끼어 있는 모습을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
+    <li id="q24-2">② 화자는 '중'에게 전해 들은 말을 통해 '사자봉' 중턱 파인 곳의 위치가 사자 형상의 발밑임을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
+    <li id="q24-3">③ 화자는 '중'에게 전해 들은 말을 통해 파인 곳에 끼어 있는 '돌 하나'는 '못'의 용이 재주를 부려 옮긴 것임을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
+    <li id="q24-4">④ 화자는 '중'의 말을 듣고 자신이 '건너편 산'에 올라가 '사자봉'을 바라보는 상황을 제시하고 있다.<a class="src-tag ans" href="#ev2226-ga2">정답 근거</a></li>
+    <li id="q24-5">⑤ 화자는 '중'의 말을 듣고 산 중턱의 '틈'과 '이 돌'을 견주면서 그 크기가 유사함을 제시하고 있다.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>"들으니 그럴듯해 건넛산 바라보니" → 건너편 산에 올라가서가 아니라 그냥 바라본 것. 직접 올라가지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>지문 내용과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>화자는 건너편 산을 바라봤을 뿐, 올라가지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. (나)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① '솔'의 생김새에서 '파라솔'을 연상하면서, 쉴 수 있는 공간을 떠올리고 있다.<a class="src-tag" href="#ev2226-na1">지문 근거</a></li>
+    <li id="q25-2">② '초현실파의 그림' 같은 공간에서 '뛰어가 매달리'는 행동을 하면서, '혼례식장'을 걷는 '신랑 신부'의 모습을 상상하고 있다.<a class="src-tag ans" href="#ev2226-na2">정답 근거</a></li>
+    <li id="q25-3">③ '뽀―얀' 물거품이 '눈보라처럼' 퍼지는 바닷가의 풍경을 바라보면서, 바다를 젊음과 연결하고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+    <li id="q25-4">④ 밤 풍경 위를 채운 '달빛'을 '달의 물결'로 인식하면서, 세상 곳곳을 비추는 달의 속성을 발견하고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+    <li id="q25-5">⑤ '끝없는 사막'과 '별의 세계'에 미치는 달빛을 '사람'의 미미함과 대비하면서, 달빛의 무한함에 대해 사색하고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>'혼례식장 신랑 신부'는 바다로 나가는 길을 묘사하며 나온 표현. 철봉에서 턱걸이를 한 것은 그 이후에 별도로 서술. 순서를 혼동하면 안 됨. 즉 혼례식장 상상 → 이어서 철봉에서 턱걸이(별개 행동).</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>'초현실파' 공간에서 턱걸이 하면서 혼례식장을 상상한 것이 아님. 순서 혼동.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q26-1">① (가)는 '점심을 먹은 후'에 '극락고개'를 넘어 '오 리 남짓' 가는 것으로 표현한 데서, 시간의 순서에 따른 장소의 이동을 사실적으로 기록하려는 양상이 드러나는군.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
+    <li id="q26-2">② (나)는 '솔'의 모습을 '푸르'고 '윤택하다'고 표현한 데서, 여행 장소에서 관심을 갖게 된 대상에 대한 인상을 감각적으로 묘사하려는 양상이 드러나는군.<a class="src-tag" href="#ev2226-na1">지문 근거</a></li>
+    <li id="q26-3">③ (가)는 '우물집'을 '문 열고 구경하'는 데서, (나)는 '산산'함에도 '여관을 나섰다'는 데서, 동일한 장소를 다시 찾아가 감흥을 새로 얻고자 하는 욕구를 충족하려는 모습이 드러나는군.<a class="src-tag ans" href="#ev2226-na3">정답 근거</a></li>
+    <li id="q26-4">④ (가)는 '조반' 먹은 것을 '이십일 일'로, (나)는 '동해여관'으로 숙소를 정한 것을 '7월 3일(금)'으로 날짜를 밝혀 기록한 데서, 여정의 경험을 일기 형식을 사용하여 표현했음이 드러나는군.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
+    <li id="q26-5">⑤ (가)는 '주막 주인'이 '만류'한 일을, (나)는 '주인'이 '보름달'이라 답한 일을 기록한 데서, 여정 중의 만남에서 정보를 얻은 경험을 기억할 만한 것으로 여기는 모습이 드러나는군.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(가)의 '우물집 문 열고 구경'은 처음 방문한 새로운 장소. (나)의 '여관을 나섰다'도 새로운 경험. 둘 다 '동일한 장소를 다시 찾아가는' 것이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>'동일한 장소를 다시 찾아가는' 것이 아님. 모두 처음 방문/새 경험.</td></tr>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>각각 적절한 감상.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set7" class="set-anchor"></div>
 
