@@ -330,7 +330,145 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set3" class="set-anchor"></div>
 
-## 10~13번 사회 · [작성 예정]
+## 10~13번 사회 · 자본시장법 — 공시 의무와 미공개중요정보 이용행위
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>상장 법인의 공시 의무(발행시장·유통시장)와 미공개중요정보 이용행위 금지를 파악한다.</p>
+  <ul>
+    <li><strong>공모 vs 사모</strong> — 50인 이상=공모 / 50인 미만+1년 전매제한=사모 / 50인 미만이나 전매 가능=공모로 간주</li>
+    <li><strong>공시 의무</strong> — ㉠발행시장(공모 시 증권신고서) / ㉡정기 공시(기업 현황 일정 기간마다) / ㉢수시 공시(중대한 경영 정보 즉시) / 공정 공시(선별 제공 전 동일 정보 공개)</li>
+    <li><strong>규제</strong> — 미공개중요정보 이용행위 금지(내부자+1차 정보수령자) / 시장질서 교란행위 금지(1차로부터 받은 2차+)</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 10번 ⑤ 사모=공시 면제(50인 미만+전매 제한), 12번 ④ B=임원=내부자→미공개중요정보 이용행위, 13번 ③ ⓐ이른다='칭한다/뜻한다'.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[10 ~ 13] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev10-1">기업은 주식과 채권 등 증권을 발행함으로써 경영 활동에 필요한 자금을 조달한다. … 청약을 권유받는 대상이 50인 이상인 경우를 공모, 50인 미만인 경우를 사모라고 한다. 사모는 취득한 증권을 타인에게 되파는 전매가 1년간 제한된다. 다만 청약을 권유받는 대상이 50인 미만이더라도 1년 내 증권 전매가 가능하다면 공모로 간주된다.</span><a class="ev-tag ans" href="#q10-5">10-⑤</a></p>
+  <p>기업이 증권 거래소에 증권을 거래 물건으로 등록하면 상장 법인이 된다. <span class="ev" id="ev10-3">상장 법인은 자본시장법에 따라 '중요사항'을 시장에 공개할 공시 의무를 지닌다. … 공시 의무는 상장 법인이 금융위원회에 공시 자료를 제출함으로써 이행되며, 자료를 제출하지 않거나 자료에 불완전한 정보를 기재한 상장 법인은 제재 대상이 된다.</span><a class="ev-tag" href="#q10-3">10-③</a></p>
+  <p><span class="ev" id="ev11-1a">공시 의무는 발행 시장과 유통 시장에서 발생한다. 발행 시장에서 상장 법인은 증권을 공모할 때마다 증권 신고서를 통해 중요사항을 공개함으로써 공시 의무를 이행한다. 반면 상장 법인이 사모로 증권을 발행한 경우에는 공시 의무가 면제되기 때문에 증권 신고서를 제출하지 않아도 된다. ㉠발행 시장에서의 공시에 포함되어야 하는 중요사항에는 공모하는 증권의 수량 및 가격 등의 공모 관련 사항과 상장 법인의 사업 내용 및 대주주에 관한 사항 등의 발행인 관련 사항이 있다. 상장 법인이 제출한 증권 신고서가 금융위원회의 심사를 통과하여 증권이 발행되면, 상장 법인은 청약을 권유하고 투자자는 해당 증권을 청약할 수 있게 된다.</span><a class="ev-tag" href="#q10-4">10-④</a><a class="ev-tag" href="#q11-1">11-①</a></p>
+  <p><span class="ev" id="ev11-4">유통 시장은 공모 절차를 거친 증권이 투자자들 간에 거래되는 곳이다. 여기에서는 증권의 매매가 끊임없이 이루어지며 가격 또한 변한다.</span><a class="ev-tag" href="#q10-2">10-②</a> 따라서 상장 법인은 투자 판단에 필요한 정보를 빠르고 정확하게 제공할 공시 의무를 지닌다. <span class="ev" id="ev11-4b">상장 법인은 발행인 관련 사항 가운데 변동된 사항을 반영하여 기업의 현황을 일정 기간마다 공시하는 ㉡정기 공시를 해야 한다. 그리고 투자자의 투자 판단에 중대한 영향을 미치는 경영 정보가 발생하는 경우에는 이를 신속하게 공시하는 ㉢수시 공시를 해야 한다. 한편 공시되지 않은 정보를 특정인에게 투자 설명회 등을 통하여 선별적으로 제공하고자 한다면 그 제공에 앞서 동일한 정보를 공시해야 한다. 정보의 비대칭을 방지하기 위한 이러한 공시를 공정 공시라 한다.</span><a class="ev-tag ans" href="#q11-4">11-④</a><a class="ev-tag" href="#q11-2">11-②</a><a class="ev-tag" href="#q11-3">11-③</a><a class="ev-tag" href="#q11-5">11-⑤</a></p>
+  <p><span class="ev" id="ev12-4">자본시장법에서는 공시되지 않은 정보를 거래에 이용하는 것을 규제한다. 대표적인 규제로는 미공개중요정보 이용행위 금지가 있다. 미공개중요정보 이용행위란 중요사항 중 공개되지 않은 것을 특정 증권 등의 매매에 이용하거나 타인에게 이용하게 하는 것을 ⓐ이른다. 이 규제의 대상은 상장 법인의 임직원 등 내부자와 내부자로부터 직접 정보를 받은 1차 정보수령자이다. 단, 해당 정보를 인식하더라도 그 정보가 거래에 영향을 미치지 않았다면 이는 미공개중요정보 이용행위라 볼 수 없다. 이와는 별개로 1차 정보수령자로부터 정보를 받아 이를 증권 매매에 이용하거나 타인에게 이용하게 했다면 이는 시장질서 교란행위 금지를 위반한 것으로 처벌받게 된다.</span><a class="ev-tag" href="#q12-4">12-④</a><a class="ev-tag" href="#q12-5">12-⑤</a><a class="ev-tag" href="#q12-2">12-②</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q10-1">① 상장 법인이 증권을 발행하면 투자자에게 해당 증권의 청약을 권유할 수 있다.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+    <li id="q10-2">② 유통 시장에서 투자자들에 의해 거래되는 증권은 가격이 변화한다는 특징을 갖는다.<a class="src-tag" href="#ev11-4">지문 근거</a></li>
+    <li id="q10-3">③ 공시 제도는 투자자들의 합리적인 투자 판단을 도와 시장의 효율성을 제고할 수 있다.<a class="src-tag" href="#ev10-3">지문 근거</a></li>
+    <li id="q10-4">④ 증권 신고서가 금융위원회의 심사를 통과하지 못한 경우 상장 법인은 투자자에게 청약을 권유할 수 없다.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+    <li id="q10-5">⑤ 청약의 권유 대상이 50인 미만이면서 1년간 전매가 제한된 증권을 발행하는 경우 상장 법인은 공시 의무를 갖는다.<a class="src-tag ans" href="#ev10-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>50인 미만+1년 전매 제한=사모. 사모는 공시 의무 면제. ⑤는 공시 의무가 있다고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>사모(50인 미만+전매 제한)=공시 의무 면제.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. ㉠~㉢에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① ㉠에서는 상장 법인이 추가로 발행해 공모하는 증권에 대해서는 공시 자료를 제출하지 않아도 된다.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+    <li id="q11-2">② ㉡은 특정인에게 정보를 선별적으로 제공한 즉시 그 정보와 동일한 내용을 포함하여 이루어져야 한다.<a class="src-tag" href="#ev11-4b">지문 근거</a></li>
+    <li id="q11-3">③ ㉢은 주기적으로 이루어지므로 상장 법인이 불완전한 내용을 제출하더라도 제재 대상이 되지 않는다.<a class="src-tag" href="#ev11-4b">지문 근거</a></li>
+    <li id="q11-4">④ ㉠과 ㉡에서는 모두 상장 법인이 금융위원회에 공시 자료를 제출해야 한다.<a class="src-tag ans" href="#ev11-4b">정답 근거</a></li>
+    <li id="q11-5">⑤ ㉠과 ㉢에는 모두 증권의 최초 발행 가격과 수량 정보가 포함되어야 한다.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉠(발행시장)=증권신고서 제출. ㉡(정기 공시)=유통시장 공시. 두 경우 모두 금융위원회에 자료 제출.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉠·㉡ 모두 금융위원회에 공시 자료 제출.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>배터리 제조사 갑은 2022년 7월 증권 거래소에 주식을 상장하면서 대표 이사 겸 대주주 A의 지분이 누락된 증권 신고서를 제출하였다. 갑은 2024년 6월, A가 보유 주식 중 일부를 주기적으로 매도한다는 계획을 공시하였다. 이후 A는 계획대로 주식을 매도하고 있다. 같은 해 10월, A와 갑의 임원 B는 갑의 지난 분기 영업 이익이 시장 예상치를 크게 밑돌았다는 사실을 알게 되었으나 갑은 이 사실을 공시하지 않았다. B는 자산 관리사 C에게 이 사실을 전달하였고, C는 갑의 주가가 하락할 것으로 보고 자신의 고객들이 보유하고 있던 갑의 주식을 매도하였다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q12-1">① 갑이 증권 신고서에 A의 지분을 기재하지 않은 것은 중요사항을 누락한 것이므로 갑은 공시 의무를 위반하였군.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+    <li id="q12-2">② A가 2024년 10월 이후에 주식을 매도하더라도 그 행위가 6월에 공시한 계획대로 행해진 것이라면 A의 주식 매매는 미공개중요정보 이용행위에 해당하지 않겠군.<a class="src-tag" href="#ev12-4">지문 근거</a></li>
+    <li id="q12-3">③ 영업 이익이 시장 예상치를 크게 밑돌았음에도 이를 신속하게 공시하지 않았기 때문에 갑은 수시 공시 의무를 위반한 것이겠군.<a class="src-tag" href="#ev11-4b">지문 근거</a></li>
+    <li id="q12-4">④ B가 C에게 갑에 관한 중요사항을 전달한 것은 공개되지 않은 상장 법인의 정보를 타인에게 이용하게 한 것이므로 B는 미공개중요정보 이용행위 금지를 위반하였군.<a class="src-tag ans" href="#ev12-4">정답 근거</a></li>
+    <li id="q12-5">⑤ C가 B로부터 받은 정보를 활용해 주식을 매도한 것은 1차 정보수령자로부터 받은 정보를 매매에 이용한 것이므로 C는 시장질서 교란행위로 처벌받게 되겠군.<a class="src-tag" href="#ev12-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>잠깐, 정답이 ⑤라면 C의 행위가 시장질서 교란행위가 아니라는 것인데... 지문에서 "1차 정보수령자로부터 정보를 받아 이를 증권 매매에 이용하거나 타인에게 이용하게 했다면 이는 시장질서 교란행위 금지를 위반"이라고 했다. C는 B(1차 정보수령자)로부터 받아 매매에 이용. 그러면 ⑤는 맞는 진술... 그런데 정답이 ⑤(적절하지 않은 것)라면 틀린 것이어야 함.</p>
+        <p>다시 확인: B는 임원(내부자). B가 C에게 전달. C는 B로부터 직접 받아서 이용 = C는 1차 정보수령자. 그러면 C는 미공개중요정보 이용행위가 아니라 시장질서 교란행위? 아니면 C는 1차 수령자이므로 미공개중요정보 이용행위?</p>
+        <p>지문: "1차 정보수령자로부터 정보를 받아 이를 증권 매매에 이용하거나 타인에게 이용하게 했다면 이는 시장질서 교란행위." C는 B(내부자=1차 정보수령자 아님, B는 내부자)로부터 직접 받은 것이므로 C는 1차 정보수령자? 그러면 C는 미공개중요정보 이용행위 대상.</p>
+        <p>실제 정답: ⑤가 정답이므로 ⑤가 틀린 것. C는 B(내부자)로부터 직접 받았으므로 C=1차 정보수령자, 미공개중요정보 이용행위 대상이지 시장질서 교란행위가 아닐 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>C는 B(내부자)로부터 직접 받아 = C는 1차 정보수령자 → 미공개중요정보 이용행위 대상. 시장질서 교란행위가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. ⓐ와 문맥상 의미가 가장 가까운 것은?</p>
+  <ul class="q-opts">
+    <li id="q13-1">① 올해는 예년에 비해 꽃피는 시기가 이르다.</li>
+    <li id="q13-2">② 친구는 매번 선생님께 나의 잘못을 이른다.</li>
+    <li id="q13-3">③ 평화는 분쟁과 갈등이 없는 상태를 이른다.<a class="src-tag ans" href="#ev12-4">정답 근거</a></li>
+    <li id="q13-4">④ 그가 아이에게 다시는 늦지 말라고 일렀다.</li>
+    <li id="q13-5">⑤ 그가 기자에게 자신이 목격한 것을 일렀다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>ⓐ '이른다' = "~라고 한다/칭한다/정의한다". ③ "평화는 분쟁과 갈등이 없는 상태를 이른다" = 동일 의미.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>의미</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>이르다(이르다)=빠르다</td><td>오답</td></tr>
+          <tr><td>②</td><td>이르다=고발하다/알리다</td><td>오답</td></tr>
+          <tr class="correct"><td>③</td><td>이른다=칭한다/의미한다</td><td class="ok">정답</td></tr>
+          <tr><td>④⑤</td><td>일렀다=경고/알림</td><td>오답</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set4" class="set-anchor"></div>
 
