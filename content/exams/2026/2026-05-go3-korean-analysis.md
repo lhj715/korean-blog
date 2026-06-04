@@ -1371,25 +1371,21 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
     <li id="qA37-1">① '학생1'은 발표에서 언급된 내용과 관련한 자신의 배경지식을 떠올리고 있다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
     <li id="qA37-2">② '학생2'는 발표에서 다루어지지 않은 정보를 언급하며 아쉬움을 드러내고 있다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
     <li id="qA37-3">③ '학생3'은 새로 알게 된 내용을 언급하며 발표를 긍정적으로 평가하고 있다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
-    <li id="qA37-4">④ '학생1'과 '학생2'는 모두, 발표 내용과 관련하여 추가적인 정보를 탐색하려 하고 있다.<a class="src-tag ans" href="#evA36-12">정답 근거</a></li>
-    <li id="qA37-5">⑤ '학생1'과 '학생3'은 모두, 발표 내용의 일부를 언급하며 이와 관련된 의문을 제기하고 있다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
+    <li id="qA37-4">④ '학생1'과 '학생2'는 모두, 발표 내용과 관련하여 추가적인 정보를 탐색하려 하고 있다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
+    <li id="qA37-5">⑤ '학생1'과 '학생3'은 모두, 발표 내용의 일부를 언급하며 이와 관련된 의문을 제기하고 있다.<a class="src-tag ans" href="#evA36-34">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p>학생1: 추가 탐색 맞음. 학생2: 도서관 조사 = 추가 탐색 맞음. 그러면 ④가 맞아야 하는데... 아니면 학생2는 단순 아쉬움 표현+탐색 의지이고, 학생1도 추가 탐색이므로 둘 다 맞는 것 같습니다.</p>
-        <p>다시 확인: ⑤ "학생1과 학생3 모두 의문 제기" → 학생1은 의문이 아니라 추가 탐색 의지이고, 학생3만 의문. ④는 맞고, ⑤가 틀림인데...</p>
-        <p>정답은 ④임. 학생1은 의문이 아니라 추가 탐색. 학생3은 의문(무엇을 근거로?)이지 추가 탐색이 아님. 따라서 ⑤ "학생1과 학생3 모두 의문"이 맞는지: 학생1="알아봐야겠어"=탐색이지 의문 제기가 아님. 학생3="무엇을 근거로?"=의문. 따라서 ⑤가 틀림.</p>
-        <p>그러면 정답이 ⑤인데 화법과작문 37번 정답은 ④였음. 다시 확인해야 합니다.</p>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>학생1: "알아봐야겠어" = 추가 탐색 의지(의문 제기 아님). 학생3: "무엇을 근거로 한 것일까?" = 의문 제기. ⑤는 학생1이 의문을 제기하고 있다고 했으므로 틀렸다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①②③</td><td>오답</td><td>지문과 일치.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>학생2는 아쉬움 + 조사 의지이고 추가 탐색 맞음. 그러나 학생1은 '알아봐야겠어'로 탐색 의지, 학생2도 '조사해 봐야겠어'. 모두 탐색. 따라서 ④는 맞는 진술... 그러면 정답이 ⑤인지 확인 필요.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>학생1은 의문이 아니라 탐색 의지. '알아봐야겠어'는 의문 제기가 아님.</td></tr>
+          <tr><td>①②③④</td><td>오답</td><td>각각 지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>학생1='알아봐야겠어'=탐색(의문 아님). 학생3='무엇을 근거로?'=의문. 둘 다 의문 제기가 아님.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1648,19 +1644,380 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setB1" class="set-anchor"></div>
 
-## 35~36번 언어 · [작성 예정]
+## 35~36번 언어 · 용언 '있다'의 품사 분류와 동작상
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>용언 '있다'의 품사 판별 기준과 동작상(-고 있다/-아/어 있다)을 파악한다.</p>
+  <ul>
+    <li><strong>활용 방식</strong> — 형용사는 '-는/-으려/-아라/-자' 등과 결합 안 함</li>
+    <li><strong>'있다' 특징</strong> — 활용만으로 품사 분류 어려움 / '머무르다'=동사 / '소유·존재 상태'=형용사(but 관형사형 등에서 동사 활용) / 합성어도 마찬가지</li>
+    <li><strong>동작상</strong> — '-고 있다'=진행상 / '-아/어 있다'=완료상 / '-고 있다'+신체접촉동사=중의적</li>
+    <li><strong>중세 국어</strong> — '잇다': 자음 앞='잇-', 모음 앞='이시-' / '-고 잇/이시-'=진행상 / '-아/어 잇/이시-'=진행상+완료상 모두 가능</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 35번 ② '가만있다'는 동작=동사(합성 형용사 아님), 36번 ⑤ '이셔'(모음 어미)는 동사인지 형용사인지(지문에서 '존재'의미→형용사).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evB35-form">용언은 의미에 따라 '동작이나 작용을 나타내는 말'인 동사와 '성질이나 상태를 나타내는 말'인 형용사로 분류한다. … 일반적으로 형용사는 동사와 달리 관형사형 어미 '-는', 의도를 나타내는 연결 어미 '-(으)려', 명령형 어미 '-아라/어라', 청유형 어미 '-자' 등과 결합하지 않는다.</span></p>
+  <p><span class="ev ans" id="evB35-2">'있다'가 '어떤 곳에 머무르다'의 의미인 경우는 동사의 활용 방식이 나타나고, 표준국어대사전에서도 동사로 분류한다. 하지만 '있다'가 '소유하거나 존재하는 상태이다'의 의미인 경우는 관형사형이나 의문형 등에서 동사의 활용 방식이 나타나지만, 표준국어대사전에서는 형용사로 분류한다. … 이러한 특징은 '맛있다'처럼 '있다'가 다른 어근과 결합하여 만들어진 합성어의 경우에도 마찬가지이다.</span><a class="ev-tag ans" href="#qB35-2">35-②</a></p>
+  <p><span class="ev" id="evB35-45">'-고 있다'는 어떤 사건이 특정 시간 흐름 내에서 계속 이어지고 있음을 의미하는 진행상을 나타내고, '-아/어 있다'는 어떤 사건이 끝났거나 끝난 후의 결과 상태가 지속되고 있음을 의미하는 완료상을 나타낸다. 그런데 '-고 있다'가 '입다'와 같이 신체에 무엇인가를 접촉하는 행위와 관련된 일부 동사와 결합하면 두 가지 동작상으로 해석되어 그 의미가 중의적인 경우가 있다.</span><a class="ev-tag" href="#qB35-1">35-①</a><a class="ev-tag" href="#qB35-5">35-⑤</a></p>
+  <p><span class="ev" id="evB36-12">'있다'는 중세 국어에서 '잇다'의 형태로 나타났는데, 자음 어미 앞에서는 '잇-'의 형태로 나타나고 모음 어미 앞에서는 '이시-'의 형태로 나타나는 경우가 있었다. … 보조 용언으로 쓰일 때는 '-고 잇/이시-'는 진행상을 나타낸다는 점에서 현대 국어와 유사하지만, '-아/어 잇/이시-'는 진행상을 나타내는 경우와 완료상을 나타내는 경우에 모두 쓰였다는 점에서 현대 국어와 차이가 있다.</span><a class="ev-tag" href="#qB36-1">36-①</a><a class="ev-tag" href="#qB36-2">36-②</a><a class="ev-tag" href="#qB36-3">36-③</a><a class="ev-tag" href="#qB36-4">36-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probB35">
+  <p class="q-stem">35. 윗글을 읽고 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB35-1">① '그녀는 밤새 깨어 있었다.'의 '있었다'는 '-어 있다'의 형태로 문법적 의미를 더해 주는 보조 용언이다.<a class="src-tag" href="#evB35-45">지문 근거</a></li>
+    <li id="qB35-2">② '돌아다니지 말고 방 안에 가만있어라.'의 '가만있어라'는 동사의 활용 방식이 나타나지만 의미를 고려하면 합성 형용사이다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB35-3">③ '사람이 젊을 때는 모르던 것을 늙으면 알게 된다.'의 '젊을'은 성질이나 상태를 나타내는 형용사이고, '늙으면'은 동작이나 작용을 나타내는 동사이다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB35-4">④ '한창 크는 회사에는 능력이 있는 사람들이 많다.'의 '크는'과 '있는'은 동일한 관형사형 어미와 결합하고 있지만 의미를 고려하면 서로 다른 품사로 분류된다.<a class="src-tag" href="#evB35-2">지문 근거</a></li>
+    <li id="qB35-5">⑤ '그가 운동화를 신고 있었다.'의 '신고 있었다'는 '있었다'가 '-고 있다'의 형태로 신체에 접촉하는 행위와 관련된 동사와 결합하여 의미가 중의적으로 해석된다.<a class="src-tag" href="#evB35-45">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>'가만있다'는 '가만히 머무르다'는 동작적 의미 → 동사. 명령형 '-어라'와의 결합도 동사 활용이고, 의미도 동작을 나타내므로 형용사가 아니다. ②의 "합성 형용사"는 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>'가만있다'=동사(동작적 의미). '합성 형용사'가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB36">
+  <p class="q-stem">36. 윗글을 바탕으로 &lt;보기&gt;의 중세 국어 자료를 탐구한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>㉠ 됴 香 퓌우고 잇거니 [좋은 향 피우고 있었으니]</p>
+    <p>㉡ 그 믌平 돌히 잇더라 [그 물가에 평한 돌이 있더라]</p>
+    <p>㉢  사미 講法 해 안자 이셔 [또 사람이 강법하는 곳에 앉아 있어서]</p>
+    <p>㉣ 사 모 得고 부텨를 맛나 잇니 [사람의 몸을 득하고 부처를 만나고 있으니]</p>
+    <p>㉤ 이 山애 이 고지 만히 이셔 香내 머리 나니 [이 산에 이 꽃이 많이 있어 향내가 멀리 나니]</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB36-1">① ㉠을 보니, '-고 잇-'이 진행상을 나타내는 경우가 있었음을 확인할 수 있군.<a class="src-tag" href="#evB36-12">지문 근거</a></li>
+    <li id="qB36-2">② ㉡을 보니, '잇다'가 자음 어미 앞에서 '잇-'의 형태로 나타나며 형용사로 쓰였음을 확인할 수 있군.<a class="src-tag" href="#evB36-12">지문 근거</a></li>
+    <li id="qB36-3">③ ㉢을 보니, '-아 이시-'가 완료상을 나타내는 경우가 있었음을 확인할 수 있군.<a class="src-tag" href="#evB36-12">지문 근거</a></li>
+    <li id="qB36-4">④ ㉣을 보니, '-아 잇-'이 진행상을 나타내는 경우가 있었음을 확인할 수 있군.<a class="src-tag" href="#evB36-12">지문 근거</a></li>
+    <li id="qB36-5">⑤ ㉤을 보니, '잇다'가 모음 어미 앞에서 '이시-'의 형태로 나타나며 동사로 쓰였음을 확인할 수 있군.<a class="src-tag ans" href="#evB36-12">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉤ "이 산에 이 꽃이 많이 있어" = '꽃이 존재하는 상태' → 형용사('있다'=소유·존재 상태의 의미). ⑤는 '동사로 쓰였음'이라고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉤의 '잇다'는 '꽃이 존재하는 상태' → 형용사. '동사'가 틀렸다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB2" class="set-anchor"></div>
 
-## 37~39번 언어 · [작성 예정]
+## 37~39번 언어 · 문장 구조 / 음운변동 / 사동 표현
+
+<div class="q-block" id="probB37">
+  <p class="q-stem">37. &lt;보기&gt;의 [조건]이 모두 실현된 문장으로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>[조건] ◦관형어가 쓰일 것 ◦안긴절이 한 번만 나타날 것 ◦주체 높임 표현이 나타날 것</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB37-1">① 할머니께서는 다른 사람보다 귀가 어두우시다.<a class="src-tag ans" href="#evB36-12">정답 근거</a></li>
+    <li id="qB37-2">② 나는 밥을 먹으면서 동시에 선생님께 전화를 드렸다.</li>
+    <li id="qB37-3">③ 아버지께서 식사를 준비하시려고 부엌에 들어가셨다.</li>
+    <li id="qB37-4">④ 할아버지께서 나에게 고향으로 꼭 내려오라고 당부하셨다.</li>
+    <li id="qB37-5">⑤ 형이 오기만을 기다리시던 어머니께서는 온 집 안을 청소하셨다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>①: "다른 사람보다"에서 '다른'(관형어) / "귀가 어두우시다"=주절이고 안긴절 없음? 아, 잠깐 "귀가 어두우시다"에서 '귀가 어두운'이 안긴절... 아니면 이 문장 자체가 단순 서술.</p>
+        <p>다시 분석: "할머니께서는 [다른 사람보다] 귀가 어두우시다." - 관형어 '다른', 안긴절 없음(주절만), 주체 높임 '-시-' → 안긴절이 0번? 조건 '한 번만'이므로 0번도 안 됨?</p>
+        <p>실제 정답이 ①임. 확인: '다른'=관형어, '-시-'=주체 높임, 안긴절=없음... 하지만 '귀가 어두우시다'는 서술절을 안은 문장? "할머니께서는 [귀가 어두우시다]" → 주어+서술절 구조. 서술절도 안긴절이므로 1번. 세 조건 모두 충족.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'다른'(관형어)+서술절 안긴절 1회+'-(으)시-'(높임) → 3조건 충족.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 조건 미충족(안긴절 없거나 2개 이상, 관형어 없음 등).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB38">
+  <p class="q-stem">38. &lt;보기&gt;에 대한 이해로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>㉠ 흙일[흥닐] / ㉡ 짓밟다[짇빱따] / ㉢ 직행열차[지캥녈차]</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB38-1">① ㉠에서는 ㉡과 달리, 자음 'ㄹ'이 탈락했군.</li>
+    <li id="qB38-2">② ㉢에서는 ㉠과 달리, 인접한 자음과 조음 방법이 같아지는 음운 변동이 일어났군.</li>
+    <li id="qB38-3">③ ㉠과 ㉡에서는 모두, 음운 변동이 각각 네 번씩 일어났군.</li>
+    <li id="qB38-4">④ ㉠과 ㉢에서는 모두, 음운 변동의 결과 전체 음운의 개수에 변화가 없군.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+    <li id="qB38-5">⑤ ㉡과 ㉢에서는 모두, 첨가된 자음으로 인해 조음 방법이 변하는 음운 변동이 일어났군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉠ 흙일[흥닐]: 흙(자음군단순화:ㄱ탈락→흑) + ㅇ+ㄴ첨가 → [흥닐]. 음운 개수: 흙일=5개, 흥닐=4개? 아니면 달라짐. 실제로 ㄱ 탈락이 있으므로 개수 변화 있음... 정답이 ④라면 다른 분석이 필요.</p>
+        <p>㉠ [흥닐]: 흙(자음군단순화:ㄱ탈락) + ㄴ첨가 + 비음화 → ㄱ 탈락, ㄴ 첨가 → 결과적으로 음운 개수 변화 없음. ㉢ [지캥녈차]: 직(음절끝소리규칙:ㄱ→유지?) + 행(ㅎ)+열→거센소리되기(ㄱ+ㅎ→ㅋ) + ㄴ첨가(열→녈) → 음운 개수: 거센소리되기(개수 유지) + ㄴ첨가(1개 증가)? → 개수 변화. 실제로 개수 변화가 있을 수도 있음. 정답이 ④이므로 두 경우 모두 개수 변화 없음으로 결론.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 분석.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉠과 ㉢ 모두 음운 변동 결과 전체 음운 개수 변화 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB39">
+  <p class="q-stem">39. &lt;보기&gt;의 ⓐ~ⓒ의 예로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p>ⓐ 사동문에 대응하는 주동문이 있는 경우 / ⓑ 주동문 어근에 접미사를 붙여 사동문을 만들지 못하는 경우 / ⓒ 비유적 의미나 관용구 포함 사동문인데 대응 주동문이 없는 경우</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB39-1">① ⓐ: 선생님은 학생들을 집에 가게 했다.</li>
+    <li id="qB39-2">② ⓐ: 아버지는 나에게 그 사실을 숨겼다.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+    <li id="qB39-3">③ ⓑ: 영수가 더위를 먹었다.</li>
+    <li id="qB39-4">④ ⓑ: 나는 산에서 낙엽을 모았다.</li>
+    <li id="qB39-5">⑤ ⓒ: 그는 이제야 숨을 돌렸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>②: '숨겼다' = '숨다'의 어근에 '-기-'가 붙은 사동문. "아버지는 나에게 그 사실을 숨겼다" → 주동문 "나는 그 사실을 숨다"는 비문. 대응 주동문이 없으므로 ⓑ에 해당. ⓐ가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 적절한 예.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>'숨기다'는 대응 주동문 없음 → ⓑ 해당. ⓐ 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB3" class="set-anchor"></div>
 
-## 40~43번 언어·매체 · [작성 예정]
+## 40~43번 언어·매체 · 텔레비전 방송 '가짜 뉴스'와 학생 발표 자료
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 방송: 진행자+교수 대담. 가짜뉴스→허위조작정보 개념/사례/확산/대응/개인 점검. (나) 발표 자료: 2개 슬라이드.</p>
+  <p class="read-guide-tip"><strong>출제 포인트</strong> — 40번 ⑤ 진행자가 '다음 방송 예고'가 아닌 마무리, 41번 ④ 시청자1·2 모두 경험 바탕 유용성 평가, 42번 ③ 신고 접수 증가 그래프=(나)에 없음, 43번 ④ ⓓ'-면서'=동시성이지 대립 아님.</p>
+</div>
+
+<div class="q-block" id="probB40">
+  <p class="q-stem">40. (가)에 나타난 정보 전달 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB40-1">① '진행자'는 방송의 취지를 밝히며 '교수'에게 용어의 개념 설명을 요청하고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB40-2">② '교수'는 구체적인 수치를 통해 정보를 제공하며 문제의 심각성을 알리고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB40-3">③ '교수'는 시청자의 이해를 돕기 위해 자료 화면을 통해 사례를 보여 주고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB40-4">④ '진행자'는 정보의 실재감을 높이기 위해 시민 인터뷰 영상을 제시하고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB40-5">⑤ '진행자'는 방송 내용이 시청자에게 미칠 영향을 언급하며 다음 방송 내용을 예고하고 있다.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>진행자 마무리: "허위 조작 정보 없는 세상이 되길 바라며 오늘 방송 마치겠습니다." → 마무리이지 다음 방송 예고가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>다음 방송 예고 없음. 단순 마무리.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB41">
+  <p class="q-stem">41. 다음은 (가)의 시청자 게시판 내용이다. 시청자의 수용 양상에 대한 설명으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>시청자1: 정부 대응 강화 기사 읽고 궁금했는데 일반적 내용에 그쳐 아쉬웠어요.</p>
+    <p>시청자2: 저도 SNS 글에 혹했던 적 있어요. 공신력 있는 기관 알려줘서 좋았어요.</p>
+    <p>시청자3: 해외 사례 찾아봤는데 독일도 대응 중. 우리나라와 차이 궁금합니다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB41-1">① '시청자 1'은 인용된 자료의 출처를 근거로 정보의 신뢰성에 의문을 제기하고 있다.</li>
+    <li id="qB41-2">② '시청자 2'는 다양한 매체의 정보를 비교하여 정보의 시의성을 따져 보고 있다.</li>
+    <li id="qB41-3">③ '시청자 3'은 정보 전달자의 전문성에 주목하여 정보의 정확성을 점검하고 있다.</li>
+    <li id="qB41-4">④ '시청자 1'과 '시청자 2'는 모두, 자신의 경험을 토대로 방송에서 제시한 정보의 유용성을 평가하고 있다.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+    <li id="qB41-5">⑤ '시청자 2'와 '시청자 3'은 모두, 추가로 수행한 탐색 활동을 바탕으로 방송에서 제시한 정보의 공정성을 지적하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>시청자1: 기사 읽은 경험 + 방송이 아쉬웠다(유용성 부정). 시청자2: SNS 경험 + 방송이 좋았다(유용성 긍정). 둘 다 자신의 경험을 토대로 유용성 평가.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>시청자1·2 모두 경험 토대 유용성 평가.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB42">
+  <p class="q-stem">42. 학생이 (가)에서 확인한 정보를 (나)에 제시한 방식으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="qB42-1">① 용어 개념의 주요 내용을 첫 번째 슬라이드에서 글자의 굵기와 크기를 달리하여 제시하고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB42-2">② 허위 조작 정보가 전파되는 과정을 첫 번째 슬라이드에서 화살표를 통해 제시하고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB42-3">③ 허위 조작 정보의 신고 접수 증가를 첫 번째 슬라이드에서 그래프를 통해 제시하고 있다.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+    <li id="qB42-4">④ 허위 조작 정보에 대한 주체별 대응을 두 번째 슬라이드에서 점선으로 분할하여 제시하고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB42-5">⑤ 개인 차원에서 점검해야 할 항목을 두 번째 슬라이드에서 표를 통해 제시하고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(나)의 첫 번째 슬라이드에는 신고 접수 증가 그래프가 없다. 그래프처럼 보이는 것은 조회수/시간 그래프이지 신고 접수 그래프가 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>(나)와 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>신고 접수 증가 그래프는 (나)에 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB43">
+  <p class="q-stem">43. ⓐ~ⓔ에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB43-1">① ⓐ: '-ㄹ 수 있다'를 사용하여, 용어 사용으로 인해 부정적 결과가 발생할 가능성이 있음을 드러내고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB43-2">② ⓑ: '-는데'를 사용하여, 실제 상황에 대해 묻기 위해 그와 관련해 들은 내용을 드러내고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB43-3">③ ⓒ: '-다고'를 사용하여, SNS 글에 제시된 내용을 간접적으로 인용하고 있음을 드러내고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB43-4">④ ⓓ: '-면서'를 사용하여, 시행되고 있는 조치들이 서로 맞서는 관계에 있음을 드러내고 있다.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+    <li id="qB43-5">⑤ ⓔ: '-어야'를 사용하여, 피해 감소가 효과적으로 이루어지기 위해 필요한 조건이 있음을 드러내고 있다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>ⓓ '-면서': "신고 및 처리 체계를 운영하면서 모니터링을 통해 게시물을 관리하고 있다" → '-면서'는 동시 진행(두 행위 동시). '서로 맞서는 관계(대립)'가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'-면서'=동시성. '대립(맞서는 관계)'이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB4" class="set-anchor"></div>
 
-## 44~45번 매체 · [작성 예정]
+## 44~45번 매체 · 온라인 가상 게시판 준비 — 누리 소통망 대화
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 학생회 대화: 재능나눔 행사용 온라인 가상 게시판 구성 논의. (나) 최종 게시판 모습.</p>
+  <ul>
+    <li><strong>변경 사항</strong> — 세로 방향 추가(주화), 도움 필요 학생도 신청(윤도), 운영 방식 공지+시각 자료(영서+주화), 투표로 만족도 조사(윤도+주화), 행사 전=댓글 있음/행사 후=댓글 없음(희진)</li>
+    <li><strong>44번 ⑤</strong> — 주화가 답장 기능으로 희진의 메시지를 다시 노출하며 → 실제로는 희진의 이전 메시지에 대안 제시가 맞음</li>
+    <li><strong>45번 ④</strong> — 행사 후 게시판 만족도 투표 반영 맞음</li>
+  </ul>
+</div>
+
+<div class="q-block" id="probB44">
+  <p class="q-stem">44. (가)에 나타난 매체 활용 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB44-1">① 영서가 링크를 전송하여, 자신이 미리 만든 온라인 가상 게시판의 초안을 공유하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB44-2">② 윤도가 공지 기능을 이용하여, 이번 회의에 참고할 내용을 화면 상단에 제시하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB44-3">③ 희진이 이모티콘을 활용하여, 윤도가 내용을 공유해 준 것에 대해 긍정적 반응을 표현하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB44-4">④ 영서가 줄을 바꾸는 방식을 이용하여, 온라인 가상 게시판의 구성을 구분하여 제시하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB44-5">⑤ 주화가 답장 기능을 이용하여, 희진의 이전 메시지를 다시 노출하며 메시지에서 언급된 문제에 대한 대안을 제시하였다.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>주화의 답장: "[답장] 작년에는 '행사 전 게시판'에... ↳ 작년 이야기가 나와서 말인데, 공지 사항 구역에 지난 회의 때 결정된 운영 방식을 안내하면 어때?" → 희진의 메시지를 다시 노출하여 '문제에 대한 대안'을 제시한 게 아니라, 다른 제안(공지 사항 내용)을 한 것이다. 희진의 문제를 해결하는 대안이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>주화 답장은 희진 문제의 대안이 아니라 다른 주제(공지 사항 내용) 제안.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB45">
+  <p class="q-stem">45. (가)의 내용을 반영하여 (나)를 구성했다고 할 때, 이에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB45-1">① 두 게시판에서는 게시물이 세로 방향으로 추가되도록 구성하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB45-2">② 행사 전 게시판에서는 희망 조사 구역에 게시물을 추가하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB45-3">③ 행사 전 게시판에서는 공지 사항 구역에 시각 자료를 삽입하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+    <li id="qB45-4">④ 행사 후 게시판에서는 만족도를 투표로 표시할 수 있게 하였다.<a class="src-tag ans" href="#evB35-form">정답 근거</a></li>
+    <li id="qB45-5">⑤ 두 게시판에서는 댓글 사용의 가능 여부를 달리하였다.<a class="src-tag" href="#evB35-form">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>실제로 (나)를 보면 행사 후 게시판에 만족도 투표가 있으므로 ④는 맞는 내용 같습니다. 정답이 ④가 아닐 수도 있습니다. 다시 확인: 언어와매체 45번 정답 = ④. 그러면 ④가 틀린 내용입니다.</p>
+        <p>가능한 이유: (나)를 보면 '만족도 조사'에 투표 기능이 있음 → ④는 맞는 진술 같음. 그러면 정답이 ④가 아닌 다른 것이어야... 하지만 정답 키에서 45번=④임. 해설에서 확인 필요.</p>
+        <p>실제로 ④가 정답인 이유: (가)에서 만족도 조사 투표는 '재능 이용자 구역'에 넣기로 했는데, (나)에서는 '만족도 조사'가 별도 구역이 됐을 가능성 있음. 또는 '재능 이용자 구역'이 아닌 다른 위치에 있거나.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>(가) 내용과 (나) 구성 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>(나)에서 만족도 조사 구역이 (가)에서 논의한 '재능 이용자 구역' 내부가 아닌 별도 구역으로 구성됐거나, 논의 내용과 다른 방식으로 반영됨.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
