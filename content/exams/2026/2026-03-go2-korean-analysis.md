@@ -37,7 +37,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 
 ## 문제 풀이
 
-<div class="q-block" id="prob1">1
+<div class="q-block" id="prob1">
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표 내용을 추가하여 청중의 요청에 따르고 있다.</li>
@@ -72,7 +72,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob2">2
+<div class="q-block" id="prob2">
   <p class="q-stem">2. 다음은 위 발표를 하기 위해 학생이 세운 계획이다. 발표에 반영되지 <strong>않은</strong> 것은?</p>
   <div class="q-plan">
     <p class="plan-sec">[도입]</p>
@@ -110,7 +110,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob3">3
+<div class="q-block" id="prob3">
   <p class="q-stem">3. &lt;보기&gt;는 위 발표 후 이어진 수업의 일부이다. [가]에 들어갈 학생의 말로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -192,7 +192,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p class="dlg"><b>사회자:</b> 수거함 설치와 관련하여 폐전지 분리배출에 참여하는 학생들에게 주는 혜택까지 고려하셨네요. 학교에 건의하도록 하겠습니다. <span class="ev" id="ev12">다음에는 폐전지 분리배출의 중요성과 방법을 알리는 캠페인을 어떻게 진행할 것인지에 대해 토의를 진행하겠습니다.</span><a class="ev-tag" href="#q4-5">4-⑤</a> 감사합니다.</p>
 </div>
 
-<div class="q-block" id="prob4">4
+<div class="q-block" id="prob4">
   <p class="q-stem">4. 위 토의에 나타난 ‘사회자’의 역할로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q4-1">① 토의자가 제시한 정보에 대해 출처를 확인하고 있다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
@@ -227,7 +227,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob5">5
+<div class="q-block" id="prob5">
   <p class="q-stem">5. [A], [B]에서 나타나는 의사소통 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q5-1">① [A]에서 ‘학생2’는 ‘학생1’이 말한 내용과 관련해 자신이 알고 있는 정보를 덧붙이고 있다.<a class="src-tag" href="#ev-q5-1">지문 근거</a></li>
@@ -262,7 +262,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob6">6
+<div class="q-block" id="prob6">
   <p class="q-stem">6. &lt;보기&gt;는 ‘학생3’이 토의를 준비하며 수집한 자료이다. 자료를 모두 활용하여 [가]에 제시할 의견으로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -323,7 +323,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 
 <p class="ask-read" style="margin:0 0 16px"><strong>안내</strong> — 7~10번은 공유 지문 없이 각 〈보기〉만으로 푸는 문법(언어) 문항입니다.</p>
 
-<div class="q-block" id="prob7">7
+<div class="q-block" id="prob7">
   <p class="q-stem">7. &lt;보기&gt;를 바탕으로 &lt;자료&gt;의 띄어쓰기를 판단한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -365,7 +365,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob8">8
+<div class="q-block" id="prob8">
   <p class="q-stem">8. &lt;보기&gt;의 ㉠, ㉡에 들어갈 말로 적절한 것은? <span class="q-rate">오답률 41.5%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -405,7 +405,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob9">9
+<div class="q-block" id="prob9">
   <p class="q-stem">9. &lt;보기&gt;의 ㉠, ㉡에 대한 예문으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -444,7 +444,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob10">10
+<div class="q-block" id="prob10">
   <p class="q-stem">10. &lt;학습 활동&gt;을 수행한 결과로 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습 활동 &gt;</p>
@@ -504,7 +504,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>위험 이전 시점은 물품 부적합에 대한 책임을 판단하는 기준이 된다. 물품 부적합이란 물품이 계약 내용이나 법적 안전 기준에 맞지 않는 상태다. <span class="ev" id="ev21">물품 부적합이 위험 이전 시점 전에 존재했다면 매도인이 책임지도록, 매수인은 수령한 물품이 품질·포장 등에서 계약에 합치하는지 확인할 의무가 있다.</span><a class="ev-tag" href="#q13-4">13-④</a></p>
 </div>
 
-<div class="q-block" id="prob11">11
+<div class="q-block" id="prob11">
   <p class="q-stem">11. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q11-1">① 우리나라 민법에 따르면 매도인의 책임이 없는 사유로 이행이 불가능해진 경우 손해는 매도인이 부담한다.<a class="src-tag" href="#ev13">지문 근거</a></li>
@@ -539,7 +539,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob12">12
+<div class="q-block" id="prob12">
   <p class="q-stem">12. 윗글과 관련하여 ㉠을 이해한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 45.2%</span></p>
   <ul class="q-opts">
     <li id="q12-1">① 운송이 포함된 매매 계약은 운송인이 위험 이전 시점을 결정할 수 있다.<a class="src-tag" href="#ev18">지문 근거</a></li>
@@ -574,7 +574,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob13">13
+<div class="q-block" id="prob13">
   <p class="q-stem">13. 〈메모〉의 사례를 윗글로 떠올린 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 70.2%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 메모 &gt;</p>
@@ -634,7 +634,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p><span class="ev ans" id="ev28">접촉의 기계적 움직임을 전자 이동이라는 전기적 에너지로 변환시키는</span><a class="ev-tag ans" href="#q15-1">15-①</a> TENG의 성능을 높이려면 <span class="ev" id="ev-q14-4">유효 접촉 면적을 늘리는 것이 중요하다.</span><a class="ev-tag" href="#q14-4">14-④</a> 평평해 보이는 면도 미세하게는 높낮이가 균일하지 않아 일부만 접촉한다. 따라서 ㉮ <span class="ev ans" id="ev27">접촉면에 균일한 높낮이의 미세한 나노 패턴을 만들면 실제로 맞닿는 접촉점을 늘릴 수 있다.</span><a class="ev-tag ans" href="#q16-1">16-①</a> (그러면 표면 전하가 더 많이 형성되어 더 많은 전기 에너지를 얻는다.)</p>
 </div>
 
-<div class="q-block" id="prob14">14
+<div class="q-block" id="prob14">
   <p class="q-stem">14. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q14-1">① 전자를 끌어당기는 능력인 전자 친화도는 물질에 따라 다르다.<a class="src-tag" href="#ev22">지문 근거</a></li>
@@ -669,7 +669,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob15">15
+<div class="q-block" id="prob15">
   <p class="q-stem">15. ㉠과 ㉡에 대한 이해로 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q15-1">① ㉠과 ㉡ 모두 두 물질의 기계적 움직임을 전기적 에너지로 변환시킨다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
@@ -704,7 +704,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob16">16
+<div class="q-block" id="prob16">
   <p class="q-stem">16. ㉮의 이유로 가장 적절한 것은? <span class="q-rate">오답률 48.5%</span></p>
   <ul class="q-opts">
     <li id="q16-1">① 유효 접촉 면적이 늘어나면 표면 전하가 더 많이 형성되어 더 많은 전기 에너지를 얻을 수 있기 때문에<a class="src-tag ans" href="#ev27">정답 근거</a></li>
@@ -739,7 +739,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob17">17
+<div class="q-block" id="prob17">
   <p class="q-stem">17. 〈보기〉 실험에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.0%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -803,7 +803,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>생태 중심 윤리에서 보면 생명 중심 윤리는 생태계를 살아 있는 것으로 보지 않아 환경 쟁점을 제대로 다루지 못한다. 다만 개체의 희생을 정당화할 수 있어 ‘환경 파시즘’이라는 비판도 받는다.</p>
 </div>
 
-<div class="q-block" id="prob18">18
+<div class="q-block" id="prob18">
   <p class="q-stem">18. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q18-1">① (가)는 특정 사상의 시대적 변화 과정을, (나)는 사상이 환경 문제 해결에 도입된 사례를 분석한다.</li>
@@ -834,7 +834,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob19">19
+<div class="q-block" id="prob19">
   <p class="q-stem">19. (가)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q19-1">① 어떤 존재가 선이라고 믿는 것은 객관적으로 그 존재에게 선이 아닐 수 있다.<a class="src-tag" href="#ev32">지문 근거</a></li>
@@ -869,7 +869,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob20">20
+<div class="q-block" id="prob20">
   <p class="q-stem">20. (나)를 바탕으로 할 때, ㉠의 이유로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q20-1">① 개별 생명체가 자기 역할을 통해 생태계를 규정하기 때문에<a class="src-tag" href="#ev35">지문 근거</a></li>
@@ -900,7 +900,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob21">21
+<div class="q-block" id="prob21">
   <p class="q-stem">21. 〈보기〉에서 ‘테일러’·‘레오폴드’ 입장으로 ㉮·㉯를 판단한 것으로 가장 적절한 것은? <span class="q-rate">오답률 67.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -939,7 +939,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob22">22
+<div class="q-block" id="prob22">
   <p class="q-stem">22. (가)·(나)로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 72.4%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -978,7 +978,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob23">23
+<div class="q-block" id="prob23">
   <p class="q-stem">23. 문맥상 ⓐ~ⓔ와 가장 가까운 의미로 쓰인 것은?</p>
   <ul class="q-opts">
     <li id="q23-1">① ⓐ(좇는): 그의 시선이 멀어지는 까마귀 떼를 좇았다.</li>
@@ -1021,7 +1021,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>현재 학생 참여 예산제는 임원 제안대로 편성되고 운영 정보도 충분히 공개되지 않는다(문제 상황). 해결 방안으로 ① 학생 참여 예산 공모제 실시 ② 예산 심의 위원회 구성 ③ 배분 과정 공개를 건의하며, 인근 학교 사례를 근거로 든다. 예상 반론(이익 경쟁→갈등)에 대해 ㉠ 예산 정보 공개가 더 많은 학생의 이익을 늘릴 수 있다고 반박한다. <span class="ev ans" id="ev41">개선 방안이 수용되면 학교생활 만족도뿐 아니라 민주 시민 의식도 높아질 것이다(기대 효과).</span><a class="ev-tag ans" href="#q26-5">26-⑤</a></p>
 </div>
 
-<div class="q-block" id="prob24">24
+<div class="q-block" id="prob24">
   <p class="q-stem">24. 글을 읽으며 작성한 질문 중 (가)·(나)에서 답을 확인할 수 <strong>없는</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q24-1">① (가) 주민 참여 예산 제도에서 주민의 역할은?<a class="src-tag" href="#ev38">지문 근거</a></li>
@@ -1056,7 +1056,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob25">25
+<div class="q-block" id="prob25">
   <p class="q-stem">25. (다)를 작성하기 위해 (가)·(나)를 읽은 방법으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q25-1">① (가)에서 예산 집행 결과에 주목해, 과정이 투명하게 공개될 때 만족도가 높아질 수 있음을 확인하며 읽었다.<a class="src-tag ans" href="#ev37">정답 근거</a></li>
@@ -1087,7 +1087,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob26">26
+<div class="q-block" id="prob26">
   <p class="q-stem">26. 〈보기〉(건의문 구성)를 참고할 때, (다)의 글쓰기 계획으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 55.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1126,7 +1126,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob27">27
+<div class="q-block" id="prob27">
   <p class="q-stem">27. 〈보기〉(추가 자료)를 (가)·(나)와 연결해 (다)의 ㉠을 보완하는 방안으로 가장 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1178,7 +1178,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>조사로 현황·원인을 파악하고 해결 방안을 도출했다. <span class="ev ans" id="ev44">(초고에는 “자전거 통학이 학생 체력 관리에 도움이 된다”는 조사와 무관한 문장이 섞여 있다.)</span><a class="ev-tag ans" href="#q30-4">30-④</a> 해결 방안 실현으로 안전한 통학 환경을 조성할 수 있을 것이다.</p>
 </div>
 
-<div class="q-block" id="prob28">28
+<div class="q-block" id="prob28">
   <p class="q-stem">28. ‘초고’의 글쓰기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q28-1">① 각 해결 방안의 장단점을 비교하여 서술한다.</li>
@@ -1213,7 +1213,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob29">29
+<div class="q-block" id="prob29">
   <p class="q-stem">29. ㉠~㉢이 ‘Ⅲ. 조사 결과’에 구체화된 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q29-1">① ㉠: 자전거·보행자 교통사고 건수 변동 추이<a class="src-tag" href="#ev43">지문 근거</a></li>
@@ -1248,7 +1248,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob30">30
+<div class="q-block" id="prob30">
   <p class="q-stem">30. 〈보기〉(고쳐 쓴 ‘Ⅳ. 결론’)에 반영된 친구의 조언으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1306,7 +1306,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>혼례 날 밤, 별선이 비몽사몽간에 젖은 옷을 입고 나타나 “이 방이 누구 방이라고 누웠으며…” 하고 원망하다가, <span class="ev ans" id="ev46">㉠ “어찌 떨어진 꽃을 생각하고 새로 피는 꽃을 돌아보지 아니하오리까?”</span><a class="ev-tag ans" href="#q32-5">32-⑤</a> 하며 새 인연을 받아들이라 이른다. 이후 다시 꿈에 나타나 “황성에서 과거를 보인다”는 소식을 전하며 원수를 갚으라 한다. 학공이 과거에 나아가 일필휘지하니 문장은 이태백, 필법은 왕희지였다.</p>
 </div>
 
-<div class="q-block" id="prob31">31
+<div class="q-block" id="prob31">
   <p class="q-stem">31. 윗글의 내용에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q31-1">① 학공은 별선의 만류에도 복수를 위해 잔치에 참석하였다.</li>
@@ -1337,7 +1337,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob32">32
+<div class="q-block" id="prob32">
   <p class="q-stem">32. ‘별선’이 ㉠을 통해 말하고자 하는 바로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q32-1">① 앞으로 학공에게 나타나지 않겠다.</li>
@@ -1372,7 +1372,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob33">33
+<div class="q-block" id="prob33">
   <p class="q-stem">33. 〈학습 활동〉을 수행한 결과로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습 활동 &gt;</p>
@@ -1437,7 +1437,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>부구공: “남들이 나를 군자라 해도 내가 군자라 결정할 수 없고, 소인이라 해도 소인이라 결정할 수 없소. … 시비에 휩쓸려 근심·기뻐함은 지혜롭지 못한 일이오.” ⓑ 선문자가 “그렇다면 근심도 기쁨도 없다는 말이오?” 하고 묻자, 부구공: “있소. 나를 군자라 하는 이가 정말 군자라면 기뻐하고, <span class="ev ans" id="ev-q38-4">군자가 나를 소인이라 하면 근심하오.</span><a class="ev-tag ans" href="#q38-4">38-④</a> … 근본은 나에게 있지만 실상을 아는 것은 남에게 있으니, 가릴 바와 힘쓸 바를 알아야 하오.” 이에 <span class="ev ans" id="ev51">ⓑ 선문자가 팔짝팔짝 뛰면서 기뻐하여</span><a class="ev-tag ans" href="#q36-5">36-⑤</a> ㉤ “지금 선생의 말을 듣고 보니 내가 스승을 얻었소이다.”</p>
 </div>
 
-<div class="q-block" id="prob34">34
+<div class="q-block" id="prob34">
   <p class="q-stem">34. (가)~(다)의 공통점으로 가장 적절한 것은? <span class="q-rate">오답률 48.3%</span></p>
   <ul class="q-opts">
     <li id="q34-1">① 불가능한 상황을 가정하여 소망을 강조한다.</li>
@@ -1472,7 +1472,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob35">35
+<div class="q-block" id="prob35">
   <p class="q-stem">35. 〈보기〉로 (나)를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.1%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1511,7 +1511,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob36">36
+<div class="q-block" id="prob36">
   <p class="q-stem">36. ⓐ(청춘과부)와 ⓑ(선문자)를 이해한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q36-1">① ⓐ는 대화로 갈등을 해소하고, ⓑ는 대화로 갈등이 고조된다.</li>
@@ -1542,7 +1542,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob37">37
+<div class="q-block" id="prob37">
   <p class="q-stem">37. 문맥을 고려해 ㉠~㉤을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q37-1">① ㉠: 주어진 상황을 운명으로 여기고 현실을 받아들이는 태도.</li>
@@ -1577,7 +1577,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob38">38
+<div class="q-block" id="prob38">
   <p class="q-stem">38. 〈보기〉를 참고해 (가)·(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 45.1%</span> <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1641,7 +1641,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>그때 밖에서 자동차 <span class="ev ans" id="ev56">ⓐ 경적 소리가 울려 대화가 끊긴다.</span><a class="ev-tag ans" href="#q41-1">41-①</a> 어머니가 성호에게 귓속말을 하려는 순간, 할아버지의 <span class="ev" id="ev58">ⓑ “커엄!” 소리에 성호는 이끌리듯 차에 올라탄다(귓속말이 막힌다).</span><a class="ev-tag ans" href="#q41-1">41-①</a> 차가 시내를 벗어나자 <span class="ev" id="ev59">성호는 ‘가슴이 툭 트이는 것 같’은 해방감을 느끼고,</span><a class="ev-tag" href="#q42-3">42-③</a> 약혼식을 ‘도깨비들 잔치판’으로 떠올린다. 끝에 고고한 동곡 할아버지(갈매나무)를 떠올리며 옷깃을 여민다.</p>
 </div>
 
-<div class="q-block" id="prob39">39
+<div class="q-block" id="prob39">
   <p class="q-stem">39. [A]의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q39-1">① 상징적 배경을 제시하여 긴장감을 고조한다.</li>
@@ -1672,7 +1672,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob40">40
+<div class="q-block" id="prob40">
   <p class="q-stem">40. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 43.8%</span></p>
   <ul class="q-opts">
     <li id="q40-1">① ㉠의 상황은 성호가 ㉡의 행동을 주저하는 이유이다.<a class="src-tag" href="#ev54">지문 근거</a></li>
@@ -1707,7 +1707,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob41">41
+<div class="q-block" id="prob41">
   <p class="q-stem">41. ⓐ(경적)와 ⓑ(커엄)의 기능으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q41-1">① ⓐ는 대화를 중단시키고, ⓑ는 이어지려는 말을 막는다.<a class="src-tag ans" href="#ev56">정답 근거</a></li>
@@ -1738,7 +1738,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob42">42
+<div class="q-block" id="prob42">
   <p class="q-stem">42. 〈보기〉를 참고해 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1799,7 +1799,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p>이곳에선 아무도 걷지를 않습니다 / 내쳐 달리거나 길바닥 위에서 쓰러질 뿐입니다 / <span class="ev ans" id="ev60">이 도시는 느슨한 산책을 아주 / 싫어하는 모양입니다</span><a class="ev-tag ans" href="#q43-3">43-③</a> 산책은 아니 / ⓑ산책만이 두 눈과 귀를 열어 준다는 비밀을 … 도시는 단 한 사람의 산책자도 / 인정하지 않으려 합니다 느림보는 / 가장 큰 죄인으로 몰립니다 … <span class="ev ans" id="ev62">이 도시는 산책의 거대한 묘지입니다</span><a class="ev-tag ans" href="#q45-5">45-⑤</a></p>
 </div>
 
-<div class="q-block" id="prob43">43
+<div class="q-block" id="prob43">
   <p class="q-stem">43. ㉠을 중심으로 (나)·(다)를 이해한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 41.7%</span></p>
   <ul class="q-opts">
     <li id="q43-1">① (나)는 시각적 이미지의 대비로 대상의 의미 변화를 드러낸다.</li>
@@ -1834,7 +1834,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob44">44
+<div class="q-block" id="prob44">
   <p class="q-stem">44. ⓐ·ⓑ에 대한 이해로 가장 적절한 것은? <span class="q-rate">오답률 40.9%</span></p>
   <ul class="q-opts">
     <li id="q44-1">① ⓐ는 직면한 현실을 감당하려는 태도에서 비롯된 것이다.<a class="src-tag ans" href="#ev61">정답 근거</a></li>
@@ -1865,7 +1865,7 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
-<div class="q-block" id="prob45">45
+<div class="q-block" id="prob45">
   <p class="q-stem">45. (가)를 참고해 (나)·(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.3%</span> <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
     <li id="q45-1">① (나)의 ‘꼿꼿하여 흩어지지 않았다’ → 부정적 현실에 굴하지 않는 삶의 태도.<a class="src-tag" href="#ev63">지문 근거</a></li>
