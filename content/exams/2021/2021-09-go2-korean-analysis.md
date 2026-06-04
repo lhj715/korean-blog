@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2021" month="09" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 여러분, 달걀 껍데기에 있는 번호를 보신 적 있으신가요
 
 <div class="passage">
@@ -120,6 +122,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법 · (가)는 학생회 블로그에 올라온 ‘공지 사항’이고, (나)는 이
 
@@ -252,6 +256,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 독서(사회) · (가)는 작문 과제이고, (나)는 (가)를 바탕으로 쓴 학생의 
 
 <div class="passage">
@@ -354,6 +360,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 형태소는 일정한 뜻을 가진 가장 작은 단위를 말하며, 
 
@@ -557,6 +565,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~19번 작문 · 이런들 어떠하며 져런들 어떠하랴초야우생*이 이러타 어떠
 
 <div class="passage">
@@ -688,6 +698,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 20~25번 화법 · 헌법의 최고규범성에도 불구하고 헌법은 규범 체계상 하위
 
@@ -890,6 +902,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~30번 독서(인문) · 서양철학에서는 많은 철학자들이 기억을 중요한 사유로 인
 
 <div class="passage">
@@ -1052,6 +1066,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~34번 독서(사회) · 김장우는 형이 경영하던 여행사가 산산조각으로 부서지는 
 
 <div class="passage">
@@ -1180,6 +1196,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 35~38번 독서(과학·기술) · 우리 주변에 존재하는 생물들 중에는 독을 가진 경우가 
 
@@ -1312,6 +1330,8 @@ B는 꼬리에 있는 독침에서 분비되는 단백질 계열의 카리브도
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 39~42번 독서 · 비탈진 공터 언덕 위 푸른 풀이 덮이고 그 아래 웅덩이
 
 <div class="passage">
@@ -1443,6 +1463,8 @@ B는 꼬리에 있는 독침에서 분비되는 단백질 계열의 카리브도
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · [앞부분의 줄거리] 불도 수행자 성진은 여덟 선녀를 희
 
