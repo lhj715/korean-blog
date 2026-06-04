@@ -343,7 +343,139 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set3" class="set-anchor"></div>
 
-## 10~13번 과학·기술 · [작성 예정]
+## 10~13번 과학·기술 · 자기 유변 유체를 활용한 제진 시스템
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>건물 진동 → 가속도 감지기(질량체→압전소자→전압) → 제어기(전압 증폭 수신, 가속도 산출) → 감쇠기(피스톤+자기 유변 유체, 마찰→열에너지 전환)의 순환 구조를 파악한다.</p>
+  <ul>
+    <li><strong>응답 인식 과정</strong> — 가속도 감지기: 질량체(관성→반대 방향)→압전소자(전압 발생) / 제어기: 전류 보내 전압 증폭 수신→가속도 산출</li>
+    <li><strong>감쇠 제어 과정</strong> — 피스톤 이동→유체가 구멍 통과→마찰→운동에너지→열에너지 / 가속도≥기준값: 전류→자기장→점성↑→감쇠력↑</li>
+    <li><strong>㉠</strong> — 가속도<기준값: 전류 안 보냄→자기장 없음→자성 입자 배열 풀림→점성 원상복귀</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[10 ~ 13] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p>건물에 외부의 힘이 작용하면 건물에는 특정 위치를 기준으로 반복적으로 움직이는 운동인 진동이 발생한다.</p>
+  <p><span class="ev" id="ev10-1">건물이 진동으로 흔들리기 시작하면서 한쪽으로 움직이면, 먼저 가속도 감지기 내부에서는 특정 질량을 가진 질량체가 관성에 의해 건물의 운동 방향과 반대 방향으로 압전소자에 힘을 가한다. 이렇게 힘을 받은 압전소자에서는 전압이 발생한다.</span><a class="ev-tag" href="#q10-1">10-①②④</a> <span class="ev" id="ev10-3">이때 발생한 전압은 크기가 매우 작아 왜곡이 일어나기 쉽다. 그래서 자체 전원을 지닌 제어기에서 가속도 감지기로 전류를 보내 가속도 감지기에서 발생한 전압을 증폭시켜 수신한다.</span><a class="ev-tag" href="#q10-3">10-③</a> <span class="ev ans" id="ev10-5">이후 제어기는 수신한 전압의 값을 토대로 건물의 가속도의 크기를 산출한다.</span><a class="ev-tag ans" href="#q10-5">10-⑤</a></p>
+  <p><span class="ev" id="ev11-1a">자기 유변 유체는 구성 입자가 쉽게 움직이는 액체에 마이크로미터 단위의 자성 입자를 섞은 물질이다. 이 유체는 주변에 자기장이 형성되면 자성 입자가 자기장의 방향으로 배열되면서 유체가 운동에 저항하는 성질인 점성이 커지는 특징이 있다.</span><a class="ev-tag" href="#q11-1">11-①</a><a class="ev-tag" href="#q11-3">11-③</a><a class="ev-tag" href="#q11-4">11-④</a></p>
+  <p><span class="ev ans" id="ev11-2">감쇠기의 감쇠를 조절하기 위해 사용됨.</span><a class="ev-tag" href="#q11-5">11-⑤</a> <span class="ev ans" id="ev11-2a">건물의 진동에 비례하여 전류를 생성하는 물질은 아님.</span><a class="ev-tag ans" href="#q11-2">11-②</a></p>
+  <p><span class="ev" id="ev13-5">가속도의 크기가 제어기에 입력된 기준값보다 작아지면 제어기는 감쇠기로 전류를 보내지 않아 ㉠감쇠기는 자기 유변 유체가 지닌 기존 점성의 크기만으로 건물의 진동을 감쇠시킨다.</span><a class="ev-tag ans" href="#q13-5">13-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q10-1">① 건물에 외부의 힘이 작용하면 진동이 발생한다.<a class="src-tag" href="#ev10-1">지문 근거</a></li>
+    <li id="q10-2">② 감쇠기의 피스톤에는 가늘고 긴 구멍이 나 있다.<a class="src-tag" href="#ev10-1">지문 근거</a></li>
+    <li id="q10-3">③ 제진 시스템의 제어기는 자체 전원을 지니고 있다.<a class="src-tag" href="#ev10-3">지문 근거</a></li>
+    <li id="q10-4">④ 압전소자에서 발생한 전압의 크기는 왜곡이 일어날 수 있다.<a class="src-tag" href="#ev10-3">지문 근거</a></li>
+    <li id="q10-5">⑤ 가속도 감지기는 제어기에서 산출한 가속도의 크기를 수신한다.<a class="src-tag ans" href="#ev10-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>제어기가 가속도 크기를 산출해 수신하는 것이지, 가속도 감지기가 제어기의 가속도 수신하는 게 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>가속도 산출은 제어기가 하는 것. 가속도 감지기가 수신하는 것이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 자기 유변 유체에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① 주변에 형성된 자기장에 영향을 받는 물질이다.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+    <li id="q11-2">② 건물의 진동에 비례하여 전류를 생성하는 물질이다.<a class="src-tag ans" href="#ev11-2a">정답 근거</a></li>
+    <li id="q11-3">③ 유체가 운동에 저항하는 성질인 점성을 지닌 물질이다.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+    <li id="q11-4">④ 마이크로미터 단위의 자성 입자가 액체에 섞여 있는 물질이다.<a class="src-tag" href="#ev11-1a">지문 근거</a></li>
+    <li id="q11-5">⑤ 건물의 제진 시스템에서 감쇠를 조절하기 위해 사용되는 물질이다.<a class="src-tag" href="#ev11-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>자기 유변 유체는 전류를 생성하지 않는다. 전류를 받아 점성이 변하는 물질이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>자기 유변 유체=전류 생성 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. &lt;보기&gt;는 시간에 따른 감쇠기의 감쇠력 변화를 설명하기 위한 그래프이다. 윗글을 이해한 학생이 ⓐ~ⓔ에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>세로축 +/- = 감쇠력 방향 반대. 자기장 없을 때 감쇠력=500N.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q12-1">① 건물의 진동이 시작될 때 가속도 감지기의 질량체가 압전소자에 힘을 가한 방향은 ⓐ에서 피스톤이 이동하는 방향과 반대이겠군.<a class="src-tag" href="#ev10-1">지문 근거</a></li>
+    <li id="q12-2">② ⓑ에서 피스톤이 이동하는 방향은 ⓓ에서 자기 유변 유체가 이동하는 방향과 서로 다르겠군.<a class="src-tag ans" href="#ev11-1a">정답 근거</a></li>
+    <li id="q12-3">③ ⓒ부터 ⓓ 사이에서 자기 유변 유체의 점성은 크기가 작아졌겠군.<a class="src-tag" href="#ev13-5">지문 근거</a></li>
+    <li id="q12-4">④ ⓓ와 ⓔ 사이에서 제어기는 감쇠기로 전류를 보내지 않겠군.<a class="src-tag" href="#ev13-5">지문 근거</a></li>
+    <li id="q12-5">⑤ ⓔ에서 가속도 감지기 내부의 압전소자에서 발생한 전압의 값은 ⓐ일 때보다 작아졌겠군.<a class="src-tag" href="#ev10-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>ⓑ와 ⓓ에서 진동이 반대 방향이면 피스톤 이동도 반대. 그런데 유체는 피스톤이 이동하는 방향과 반대쪽으로 이동하므로, 결국 같은 방향. ②는 '서로 다르다'고 했으나 실제로는 같다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>ⓑ 피스톤 방향과 ⓓ 유체 방향은 같음. '서로 다르다'가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 윗글을 읽고 ㉠의 이유를 추론한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q13-1">① 제어기에서 더 이상 건물의 가속도 크기를 산출하지 않기 때문이다.<a class="src-tag" href="#ev13-5">지문 근거</a></li>
+    <li id="q13-2">② 감쇠기의 자기 유변 유체가 더 이상 움직일 수 없게 되었기 때문이다.<a class="src-tag" href="#ev13-5">지문 근거</a></li>
+    <li id="q13-3">③ 감쇠기의 마찰로 인해 건물의 운동 에너지가 열에너지로 모두 전환되었기 때문이다.<a class="src-tag" href="#ev13-5">지문 근거</a></li>
+    <li id="q13-4">④ 가속도 감지기에서 산출한 가속도의 크기가 제어기에 입력된 기준값보다 커졌기 때문이다.<a class="src-tag" href="#ev13-5">지문 근거</a></li>
+    <li id="q13-5">⑤ 피스톤 주변에 자기장이 생성되지 않아 자기 유변 유체의 자성 입자의 배열이 풀렸기 때문이다.<a class="src-tag ans" href="#ev13-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>가속도<기준값 → 전류 안 보냄 → 자기장 없음 → 자성 입자 배열 풀림 → 점성 원래 크기로 복귀 → 기존 점성만으로 감쇠.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 틀린 이유.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>전류 없음→자기장 없음→자성 입자 배열 풀림→점성 원상복귀.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set4" class="set-anchor"></div>
 
