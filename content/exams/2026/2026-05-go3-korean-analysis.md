@@ -1283,15 +1283,362 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setA1" class="set-anchor"></div>
 
-## 35~37번 발표 · [작성 예정]
+## 35~37번 발표 · 흉배의 문양과 제작 방법
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>흉배 발표. 자료(㉠㉡㉢) 활용 방식과 학생 반응을 파악한다.</p>
+  <ul>
+    <li><strong>발표 구조</strong> — 흉배 소개(지난주 박물관) → 흉배의 역사·위치(㉠자료) → 문양 차이(문관=날짐승/무관=길짐승, 품계에 따라, ㉡=쌍학흉배) → 제작 방법(직조/자수/금박, ㉢=금박 제작) → 마무리</li>
+    <li><strong>35번</strong> — "지난주에 박물관에서 관람한 것 기억하시나요?" = 질문으로 경험 환기</li>
+    <li><strong>36번 ⑤</strong> — ㉢자료는 금박 흉배 '만드는 모습'이지 '목판에 새기는 방식'만 설명하는 게 아님. 금박 흉배 제작 전체 과정(풀 찍고→금박 붙이고→문양 밖 떼어내기)</li>
+    <li><strong>37번 ④</strong> — 학생1: 배경지식+추가 탐색. 학생2: 아쉬움+추가 탐색. 학생3: 유익+의문 제기. "모두 추가 탐색"은 학생3에 해당 안 함</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 37] 다음은 학생의 발표이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev ans" id="evA35-2">안녕하세요, 발표를 맡은 ○○○입니다. 여러분, 지난주에 박물관에서 조선 시대 의복 전시를 관람한 것 기억하시나요?</span><a class="ev-tag ans" href="#qA35-2">35-②</a> 저는 의복에 있는 여러 가지 장식들이 인상적이었는데요, 그 장식 중 하나인 흉배에 관해 소개하려고 합니다.</p>
+  <p><span class="ev" id="evA36-12">흉배는 왕족과 관료들의 의복에 주로 사용되었습니다. (㉠자료 제시) 화면을 보면 오른쪽 초상에서 관복의 가슴 위치에 흉배가 있는 걸 확인할 수 있지요. … 흉배는 조선 건국 이후에 사용되기 시작했는데, 왕실의 위엄과 조정의 예를 강조하기 위함이었습니다.</span><a class="ev-tag" href="#qA36-1">36-①</a><a class="ev-tag" href="#qA36-2">36-②</a></p>
+  <p><span class="ev" id="evA36-34">흉배는 지위에 따라 달랐는데 특히 관료들의 흉배는 주 문양에 따라 문관과 무관을 구별하고, 관직의 등급인 품계를 드러내는 역할을 했습니다. 대체로 문관의 흉배에는 고결함을 상징하는 날짐승을 주 문양으로 사용했으며, 무관의 흉배에는 용맹함을 상징하는 길짐승을 사용했죠. (㉡자료 제시) 화면에 보이는 것은 조선 시대 문관의 묘에서 출토된 쌍학흉배의 복제품입니다. … 흉배의 배경 문양으로는 상서로움을 상징하는 구름, 물결, 바위 등의 자연물을 사용했는데, 이는 의복을 착용한 사람의 복을 빌어 주는 의미를 가졌다고 합니다.</span><a class="ev-tag" href="#qA36-3">36-③</a><a class="ev-tag" href="#qA36-4">36-④</a></p>
+  <p><span class="ev ans" id="evA36-5">이러한 흉배는 어떻게 만들어졌을까요? 직조, 자수, 금박 등의 기법이 쓰였습니다. … (㉢자료 제시) 이 장면은 금박 흉배를 만드는 모습입니다. 보시는 것처럼 먼저 옷감 위에 문양이 새겨진 목판으로 풀을 찍습니다. 그리고 그 위에 얇은 금박을 붙인 다음 문양 밖의 금박을 떼어 내면 문양이 완성됩니다. 이러한 금박 흉배는 왕실에 속한 장인들이 제작하였는데요, 문양을 목판에 조각하거나 전통 풀과 얇은 금박을 만드는 것이 까다로웠기 때문입니다.</span><a class="ev-tag ans" href="#qA36-5">36-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probA35">
+  <p class="q-stem">35. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA35-1">① 발표를 시작할 때 발표 진행 순서를 안내하고 있다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
+    <li id="qA35-2">② 질문을 통해 청중과 공유하는 경험을 환기하고 있다.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+    <li id="qA35-3">③ 청중의 이해도를 점검하며 발표 내용을 조정하고 있다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA35-4">④ 화제와 관련된 전망을 제시하며 발표를 마무리하고 있다.<a class="src-tag" href="#evA36-5">지문 근거</a></li>
+    <li id="qA35-5">⑤ 전문가의 견해를 인용하며 잘못된 통념을 지적하고 있다.<a class="src-tag" href="#evA36-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>"지난주에 박물관에서 관람한 것 기억하시나요?" = 질문으로 청중과 공유 경험 환기.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 없는 내용.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>박물관 관람 경험 공유 질문.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA36">
+  <p class="q-stem">36. 다음은 발표자가 제시한 자료이다. 발표자의 자료 활용에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA36-1">① 흉배가 관복에 사용된 위치를 보여 주기 위해 [자료1]을 ㉠에 제시하였다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
+    <li id="qA36-2">② 흉배가 언제부터 사용되었는지를 설명하기 위해 [자료1]을 ㉠에 제시하였다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
+    <li id="qA36-3">③ 흉배의 배경 문양이 가지는 상징적 의미를 설명하기 위해 [자료2]를 ㉡에 제시하였다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
+    <li id="qA36-4">④ 문관의 흉배에 주 문양으로 사용된 동물의 예를 보여 주기 위해 [자료2]를 ㉡에 제시하였다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
+    <li id="qA36-5">⑤ 흉배 문양을 목판에 새기는 방식을 설명하기 위해 [자료3]을 ㉢에 제시하였다.<a class="src-tag ans" href="#evA36-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉢은 금박 흉배 제작 전체 과정(풀 찍기→금박 붙이기→문양 밖 떼기)을 보여준다. '목판에 새기는 방식'만 설명한 게 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉢=금박 제작 전 과정. '목판에 새기는 방식'으로 한정한 게 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA37">
+  <p class="q-stem">37. 발표 내용을 바탕으로 할 때, &lt;보기&gt;에 나타난 학생들의 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p>학생1: 왕의 곤룡포에 쓰이는 흉배에는 용을 주 문양으로 활용한다는 것을 알고 있었어. 왕실의 흉배에 쓰이는 문양과 관료들의 흉배에 쓰이는 문양에 어떠한 의미 차이가 있는지 알아봐야겠어.</p>
+    <p>학생2: 무관의 흉배에 사용된 길짐승에는 구체적으로 어떤 것들이 있는지 궁금했는데 알려 주지 않아서 아쉬워. 도서관에 가서 더 조사해 봐야겠어.</p>
+    <p>학생3: 흉배의 문양이 의복을 착용한 사람의 품계에 따라 다르다는 것을 알게 되어 유익했어. 그런데 흉배가 의복을 착용한 사람의 복을 비는 것과 관련이 있다고 했는데, 이 내용은 무엇을 근거로 한 것일까?</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA37-1">① '학생1'은 발표에서 언급된 내용과 관련한 자신의 배경지식을 떠올리고 있다.<a class="src-tag" href="#evA36-12">지문 근거</a></li>
+    <li id="qA37-2">② '학생2'는 발표에서 다루어지지 않은 정보를 언급하며 아쉬움을 드러내고 있다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
+    <li id="qA37-3">③ '학생3'은 새로 알게 된 내용을 언급하며 발표를 긍정적으로 평가하고 있다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
+    <li id="qA37-4">④ '학생1'과 '학생2'는 모두, 발표 내용과 관련하여 추가적인 정보를 탐색하려 하고 있다.<a class="src-tag ans" href="#evA36-12">정답 근거</a></li>
+    <li id="qA37-5">⑤ '학생1'과 '학생3'은 모두, 발표 내용의 일부를 언급하며 이와 관련된 의문을 제기하고 있다.<a class="src-tag" href="#evA36-34">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>학생1: 추가 탐색 맞음. 학생2: 도서관 조사 = 추가 탐색 맞음. 그러면 ④가 맞아야 하는데... 아니면 학생2는 단순 아쉬움 표현+탐색 의지이고, 학생1도 추가 탐색이므로 둘 다 맞는 것 같습니다.</p>
+        <p>다시 확인: ⑤ "학생1과 학생3 모두 의문 제기" → 학생1은 의문이 아니라 추가 탐색 의지이고, 학생3만 의문. ④는 맞고, ⑤가 틀림인데...</p>
+        <p>정답은 ④임. 학생1은 의문이 아니라 추가 탐색. 학생3은 의문(무엇을 근거로?)이지 추가 탐색이 아님. 따라서 ⑤ "학생1과 학생3 모두 의문"이 맞는지: 학생1="알아봐야겠어"=탐색이지 의문 제기가 아님. 학생3="무엇을 근거로?"=의문. 따라서 ⑤가 틀림.</p>
+        <p>그러면 정답이 ⑤인데 화법과작문 37번 정답은 ④였음. 다시 확인해야 합니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>학생2는 아쉬움 + 조사 의지이고 추가 탐색 맞음. 그러나 학생1은 '알아봐야겠어'로 탐색 의지, 학생2도 '조사해 봐야겠어'. 모두 탐색. 따라서 ④는 맞는 진술... 그러면 정답이 ⑤인지 확인 필요.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>학생1은 의문이 아니라 탐색 의지. '알아봐야겠어'는 의문 제기가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA2" class="set-anchor"></div>
 
-## 38~42번 화법·작문 · [작성 예정]
+## 38~42번 화법·작문 · 건의문과 대화 — 학교 텃밭 잡초 관찰 구역
+
+<div class="passage">
+  <p class="passage-guide">[38 ~ 42] (가)는 건의문의 초고이고, (나)는 수정을 위한 대화이다.</p>
+  <p><strong>건의문 핵심</strong> — 잡초 관찰 구역 지정 건의. 활용 계획: 잡초 연구 + 캠페인('풀꽃 관찰의 날') + 발표회 전시. 우려 해소: 당번제로 텃밭 관리.</p>
+  <p><strong>대화 핵심</strong> — 학생1(건의문 작성자), 학생2/3(의견 제시). 수정 사항: ①설문 근거 추가 ②토끼풀 탐구 구체화 ③글 통일성(비료 문장 삭제) ④사진 범위 확대 ⑤발표회 사진 전시 추가 ⑥마무리 수정(비유+건의 수용 요청)</p>
+</div>
+
+<div class="q-block" id="probA38">
+  <p class="q-stem">38. (가)에 활용된 글쓰기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA38-1">① 묻고 답하는 방식을 통해 문제의 해결 방안을 제시하고 있다.</li>
+    <li id="qA38-2">② 건의가 수용되지 않을 경우를 대비한 차선책을 제시하고 있다.</li>
+    <li id="qA38-3">③ 예상 독자가 할 수 있는 행동을 나열하며 건의를 구체화하고 있다.</li>
+    <li id="qA38-4">④ 건의가 수용되지 않았던 건의 주체의 경험을 밝혀 건의 내용의 필요성을 강조하고 있다.</li>
+    <li id="qA38-5">⑤ 건의 사항 수용 시 발생할 수 있는 문제점 해결에 건의 주체가 기여할 수 있는 바를 제시하고 있다.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>(가)의 마지막: "저희들이 당번을 정해 더욱 열심히 텃밭을 관리하도록 하겠습니다" = 수용 시 문제점(작물 피해) 해결에 기여할 수 있는 바 제시.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 없는 내용.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>작물 피해 우려 → 당번제 관리 = 문제점 해결 기여.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA39">
+  <p class="q-stem">39. (나)를 참고하여 '학생 1'이 (가)를 고쳐 쓰기 위해 세운 계획으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="qA39-1">① 둘째 문단: 설문 조사 결과를 근거로 추가.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA39-2">② 셋째 문단: 토끼풀 탐구 방법(질소 함량 비교) 추가.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA39-3">③ 셋째 문단: 비료 문장 삭제(통일성 위반).<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA39-4">④ 셋째 문단: '관찰 구역에 핀 잡초의 꽃들'을 '학교 전체에 핀 잡초의 꽃들'로 수정.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+    <li id="qA39-5">⑤ 셋째 문단: 학생들이 잡초 찍은 사진을 동아리 발표회에서 전시하는 내용 추가.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>(나)에서 사진 범위 확대=꽃→잡초 전체로 넓히기이지, '관찰 구역'을 '학교 전체'로 바꾸는 것이 아니다. 대화에서 범위 변경은 사진 대상(꽃→잡초)이지 장소(관찰 구역→학교 전체)가 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>(나) 내용과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>사진 대상 범위 확대이지 '학교 전체'로 장소 변경이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA40">
+  <p class="q-stem">40. ㉠을 반영하여 (가)의 마무리 부분을 작성한 것으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA40-1">① 학생들이 잡초에 대해 배울 수 있도록 잡초 관찰 구역이 꼭 지정되면 좋겠습니다. 긍정적인 답변을 기다리겠습니다.</li>
+    <li id="qA40-2">② 잡초를 면밀하게 관찰하는 동안 학생들의 생각은 큰 나무로 성장할 수 있을 것입니다. 긴 글 읽어 주셔서 감사합니다.</li>
+    <li id="qA40-3">③ 잡초 관찰 구역의 지정은 생태 환경 교육에 반드시 필요하다고 생각합니다. 건의에 대한 긍정적인 검토 부탁드립니다.</li>
+    <li id="qA40-4">④ 학생들이 잡초의 가치를 알기 위해서는 학교 구성원들의 관심과 노력이 필요합니다. 텃밭 일부를 잡초 관찰 구역으로 사용할 수 있도록 꼭 허락해 주시기 바랍니다.</li>
+    <li id="qA40-5">⑤ 주위에 늘 있어 공기처럼 흔하지만 평소에는 그 가치를 잘 모르는 잡초에 대해 학생들에게 알릴 수 있도록, 텃밭 일부를 잡초 관찰 구역으로 꼭 지정해 주시기 바랍니다.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉠: 비유적 표현("공기처럼") + 건의 수용 요청("꼭 지정해 주시기 바랍니다") 모두 포함.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>비유 없거나 건의 직접 표현 없음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>"공기처럼"(비유) + "꼭 지정해 주시기 바랍니다"(건의 수용 요청) 모두 충족.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA41">
+  <p class="q-stem">41. (나)의 '학생 1'에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA41-1">① 대화 내용이 지닌 의의를 밝히며 대화를 마무리하고 있다.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+    <li id="qA41-2">② 다른 참여자의 발언이 주제에서 벗어난 것을 지적하고 있다.</li>
+    <li id="qA41-3">③ 대화에서 논의할 사항을 안내하며 발언 순서를 정해 주고 있다.</li>
+    <li id="qA41-4">④ 참여자들의 서로 다른 의견을 절충하며 새로운 대안을 제시하고 있다.</li>
+    <li id="qA41-5">⑤ 참여자의 발언에 대해 보충 질문을 하며 내용의 구체화를 요구하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>"오늘 대화가 정말 유익했다고 생각해" = 대화 의의 밝힘. "오늘은 여기까지 하자" = 마무리.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>"유익했다" = 의의 밝힘 + "여기까지 하자" = 마무리.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 없는 내용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA42">
+  <p class="q-stem">42. [A]와 [B]에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA42-1">① [A]의 '학생 2'는 앞선 상대의 발화 내용에 대해 자신이 알고 있는 정보를 덧붙이고 있다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA42-2">② [A]의 '학생 3'은 상대의 생각에 수긍하며 자신의 발화 내용을 수정하고 있다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA42-3">③ [B]의 '학생 2'는 발생할 수 있는 문제 상황에 대한 우려를 표현하고 있다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA42-4">④ [B]의 '학생 3'은 상대의 발화 중 일부를 재진술하며 그와 관련된 정보를 요청하고 있다.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+    <li id="qA42-5">⑤ [A]의 '학생 3'과 [B]의 '학생 2'는 모두, 자신이 제시한 의견과 관련하여 자신의 경험을 언급하고 있다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>[B]의 학생3: "꽃이 있는 식물을 더 아름답다고 느꼈다는 거구나" = 재진술. 이후 정보 요청이 없이 자신의 의견을 제시한다. '정보를 요청하고 있다'가 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>학생3이 재진술은 하지만 정보 요청은 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA3" class="set-anchor"></div>
 
-## 43~45번 작문 · [작성 예정]
+## 43~45번 작문 · 사운드스케이프 디자인과 학교 소리 환경
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 작문 상황: 사운드스케이프 디자인을 통한 학교 소리 환경 개선.</p>
+  <p><strong>초고 구조</strong> — 사운드스케이프 디자인 개념(소리를 핵심 요소로 설계) → 문제점 3가지(①공간 배치 시 소리 무시 ②자연음 부족 ③외부 소음 차단 미흡) → 해결 방안 3가지(①공간 재배치 ②자연음 활용 ③소음 차단) → 마무리</p>
+</div>
+
+<div class="q-block" id="probA43">
+  <p class="q-stem">43. 다음은 '초고'를 쓰기 위해 학생이 세운 계획의 일부이다. ㉠~㉤ 중 '초고'에 반영되지 않은 것은?</p>
+  <div class="q-bogi">
+    <p>㉠ 사운드스케이프 디자인의 개념을 밝혀야겠어. / ㉡ 학교 내에서 학생들이 경험할 수 있는 인공음의 예를 열거해야겠어. / ㉢ 학교 경계면에 수목을 심으면 어떤 효과를 기대할 수 있는지 언급해야겠어. / ㉣ 소리 환경을 고려하여 공간을 재배치하기 위해 할 수 있는 활동을 제시해야겠어. / ㉤ 사운드스케이프 디자인의 관점에서 학교의 소리 환경을 개선하자는 요구가 커진 배경을 드러내야겠어.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA43-1">① ㉠<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA43-2">② ㉡<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+    <li id="qA43-3">③ ㉢<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA43-4">④ ㉣<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA43-5">⑤ ㉤<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>㉡: 인공음의 구체적 예 열거 → 초고에서 "인공음이 대부분이다"라고만 했고 예를 열거하지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>초고에 반영됨.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>인공음 예 열거 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA44">
+  <p class="q-stem">44. &lt;보기&gt;는 친구의 조언에 따라 [A]를 고쳐 쓴 것이다. 친구의 조언으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>학교의 소리 환경은 교육 환경의 질을 결정하는 핵심 요소이다. 사운드스케이프 디자인의 관점에서 소리 환경을 개선하면 학생들은 쾌적한 학교 환경에서 학습에 집중할 수 있고 정서적 안정감도 얻을 수 있을 것이다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA44-1">① 글에서 제시된 소리 환경 개선 방안을 모두 언급했으면 좋겠어.</li>
+    <li id="qA44-2">② 학교의 소리 환경 개선을 위해 해야 할 일들을 주체별로 달리 제시하면 좋겠어.</li>
+    <li id="qA44-3">③ 학교의 소리 환경을 개선할 때 학생들이 얻을 수 있는 효용을 언급했으면 좋겠어.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+    <li id="qA44-4">④ 사운드스케이프 디자인의 관점이 지닌 한계를 극복할 수 있는 대안을 언급했으면 좋겠어.</li>
+    <li id="qA44-5">⑤ 학교의 소리 환경 개선을 위해 학교와 지역 사회의 지원을 촉구하는 내용으로 마무리하면 좋겠어.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>보기에 새로 추가된 내용: "학생들은 쾌적한 학교 환경에서 학습에 집중할 수 있고 정서적 안정감도 얻을 수 있을 것이다" = 학생들이 얻는 효용.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>보기 내용과 불일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>학습 집중+정서 안정감 = 학생들이 얻을 수 있는 효용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA45">
+  <p class="q-stem">45. &lt;보기&gt;는 학생이 '초고'를 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>ㄱ-1. 학생 설문 조사 결과 / ㄱ-2. 자연음 청취 전후 정서 지표 변화 / ㄴ. 전문가 인터뷰(자연음 부족, WHO 기준 초과 소음 많음, 자연음 경험 필요) / ㄷ. 신문 기사(○○ 학교 물소리 재생, 학생 정서 안정)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qA45-1">① ㄱ-1을 활용하여, 자습실 소음 관련 내용을 공간 배치 문제의 근거로 제시한다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA45-2">② ㄱ-2를 활용하여, 자연음의 정서 안정 효과를 근거로 제시한다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA45-3">③ ㄷ을 활용하여, 자연음을 학교 공간에 경험하게 하는 추가 방안으로 제시한다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA45-4">④ ㄱ-1과 ㄴ을 활용하여, 학교 외부 소음 문제를 외부 소음 차단 방안의 근거로 제시한다.<a class="src-tag" href="#evA35-2">지문 근거</a></li>
+    <li id="qA45-5">⑤ ㄴ과 ㄷ을 활용하여, 다양한 소리 경험 제공이 인접 공간의 소리환경 회복 방안으로 제시한다.<a class="src-tag ans" href="#evA35-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>ㄴ+ㄷ = 자연음 경험 필요성에 관한 자료. 이를 '인접 공간의 소리환경 회복 방안'으로 연결하는 것은 적절하지 않다. 두 자료는 자연음 활용(둘째 문제) 관련이지 공간 재배치(첫째 문제)와 다른 주제다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>적절한 활용.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ㄴ+ㄷ=자연음 관련이지 공간 배치 회복과 다른 내용이다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
