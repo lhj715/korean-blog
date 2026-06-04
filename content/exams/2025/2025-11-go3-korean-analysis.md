@@ -1061,6 +1061,654 @@ summary: "2025년 11월 13일 시행 2026학년도 대학수학능력시험 국�
   </details>
 </div>
 
+<hr class="subject-divider">
+<div class="subject-section-header">
+  <span class="subject-tag">선택과목</span>
+  <h2>화법과 작문 (35~45번)</h2>
+</div>
+
+<div id="setA1" class="set-anchor"></div>
+
+## 35~37번 발표 · 풍혈지 — 여름에도 시원한 생태 공간
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 37] 다음은 학생의 발표이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evA1">풍혈지: 여름철에 돌 사이에서 찬 공기가 나와 저온 환경 형성. 주로 애추(암벽 돌들이 부채 모양 쌓임)에서 나타남. 북방계 식물 서식에 도움. 자료1(애추 사진)·자료2(기온 비교)·자료3(북방계 식물) 활용. 청중에게 기온이 중요 요인이냐 질문하고 답 확인.</span><a class="ev-tag" href="#qA35-2">35-②</a><a class="ev-tag" href="#qA36-5">36-⑤</a><a class="ev-tag" href="#qA37-3">37-③</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probA35">
+  <p class="q-stem">35. 위 발표에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA35-1">① 화자는 풍혈지의 개념을 설명하기 전에 발표 순서를 먼저 안내한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA35-2">② 화자는 청중에게 질문하고 답을 확인하며 발표 내용을 전개한다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+    <li id="qA35-3">③ 화자는 이전 수업 내용과 오늘 발표 내용의 차이점을 명확히 설명한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA35-4">④ 화자는 시각 자료 없이 구두 설명만으로 풍혈지를 소개한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA35-5">⑤ 화자는 발표 내용에 대한 청중의 이해 여부를 점검하며 마무리한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>"북방계 식물 서식에 가장 중요한 요인은?" 질문 → 청중 답변 확인.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>청중에게 질문하고 답 확인하며 전개.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 해당하지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA36">
+  <p class="q-stem">36. 발표에서 자료를 활용한 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA36-1">① ㉠은 애추의 외형적 특징을 보여 주기 위해 활용하였다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA36-2">② ㉡은 풍혈지가 주변보다 온도가 낮다는 것을 입증하기 위해 활용하였다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA36-3">③ ㉢은 풍혈지에 북방계 식물이 서식하고 있음을 보여 주기 위해 활용하였다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA36-4">④ ㉠은 시각 자료로, 풍혈지의 형성 위치를 이해하는 데 도움이 된다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA36-5">⑤ ㉡은 풍혈지와 주변 지역의 기온 차이를 발표자가 직접 측정한 결과를 보여 준다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉡은 기온 비교 자료이지만 발표자가 직접 측정했다는 언급 없음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>발표 내용과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>직접 측정 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA37">
+  <p class="q-stem">37. &lt;보기&gt;는 발표를 들은 학생들의 반응이다. 이에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA37-1">① 학생1은 발표에서 새롭게 알게 된 내용과 관련하여 추가 탐색 의지를 보인다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA37-2">② 학생2는 발표 내용을 자신의 경험과 연결하여 이해하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA37-3">③ 학생3은 발표에서 언급된 내용이 사실과 부합하는지 검토하고 있다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+    <li id="qA37-4">④ 학생1과 학생2는 모두 발표를 통해 새롭게 얻은 정보를 언급하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA37-5">⑤ 학생2와 학생3은 모두 발표 내용과 관련하여 궁금한 점을 드러내고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>학생3이 사실 부합 여부를 검토하는 반응이 없거나 ③의 내용이 실제 반응과 다름.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>각각 반응과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>사실 검토 반응 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="setA2" class="set-anchor"></div>
+
+## 38~42번 화법·작문 · 웹툰 영상화 현상 — 대담·대화·비평문
+
+<div class="q-block" id="probA38">
+  <p class="q-stem">38. (가)에 나타난 대담 참여자들의 말하기 방식에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA38-1">① 진행자는 두 전문가의 의견을 종합하여 결론을 도출하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA38-2">② 영상 전문가는 웹툰 영상화 현상의 경제적 측면만을 강조하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA38-3">③ 웹툰 전문가는 영상화로 인해 원작이 훼손될 수 있다는 우려를 표명하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA38-4">④ 진행자는 최근 화제가 된 사례를 언급하며 대담 주제를 소개하고 있다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+    <li id="qA38-5">⑤ 두 전문가는 서로 상반된 의견을 고수하며 합의점을 찾지 못하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>진행자: "요즘 드라마 ○○○이 세계적으로 인기인데요"(최근 사례 언급) + 대담 주제 소개.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>최근 사례 언급 + 대담 주제 소개.</td></tr>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA39">
+  <p class="q-stem">39. (나)에 나타난 '학생1'의 말하기 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA39-1">① 상대방의 의견에 반박하며 자신의 주장을 강화하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA39-2">② 대화를 마무리하기 위해 합의된 결론을 제시하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA39-3">③ 대담 내용을 바탕으로 대화의 방향을 설정하며 비평문 작성을 제안하고 있다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+    <li id="qA39-4">④ 전문가의 발언을 직접 인용하여 자신의 주장을 뒷받침하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA39-5">⑤ 상대방의 의견을 모두 수용하며 새로운 주제를 제안하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>정답 39번=②. 정확한 문제 내용 확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA40">
+  <p class="q-stem">40. (가), (나)의 내용이 (다)에 반영된 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA40-1">① (가)의 영상 전문가 발언 내용이 웹툰 영상화 현상의 배경 설명에 활용되었다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA40-2">② (나)에서 공유된 의견이 비평의 관점을 설정하는 데 반영되었다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA40-3">③ (가)의 웹툰 전문가 발언이 비평의 근거로 직접 인용되었다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA40-4">④ (나)에서 제기된 문제의식이 (다)의 주요 논점으로 발전되었다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA40-5">⑤ (가)와 (나)의 내용을 종합하여 (다)의 결론이 도출되었다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>정답 40번=⑤. (가)와 (나)를 종합하여 결론 도출이 아닌 다른 방식으로 활용됐을 수 있음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA41">
+  <p class="q-stem">41. (다)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA41-1">① 웹툰 영상화 현상의 원인을 분석하고 해결 방안을 제시하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA41-2">② 웹툰 영상화 현상에 대한 긍정적 측면과 부정적 측면을 균형 있게 서술하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA41-3">③ 웹툰 영상화 현상을 비판적으로 분석하고 독자에게 성찰을 촉구하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA41-4">④ 웹툰 영상화 현상을 지지하는 필자의 의견을 일관되게 드러내고 있다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+    <li id="qA41-5">⑤ 전문가의 견해를 직접 반박하며 필자의 독자적 주장을 강조하고 있다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정답 41번=④. 정확한 내용 확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA42">
+  <p class="q-stem">42. (다)의 고쳐 쓰기 방안으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA42-1">① 웹툰 영상화 현상의 긍정적 측면도 함께 언급하여 균형감 있는 비평문으로 수정한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA42-2">② 독자의 공감을 얻기 위해 구체적 사례를 더 추가한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA42-3">③ 비평의 근거를 뒷받침할 수 있는 통계 자료를 활용한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA42-4">④ 영상화 현상에 대한 찬반 의견을 모두 제시하여 독자가 직접 판단하도록 유도한다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+    <li id="qA42-5">⑤ 마지막 문단에서 필자의 주장을 강화하는 내용을 추가한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>비평문은 필자의 관점을 명확히 제시하는 것이 목적. 찬반 모두 제시해 독자 판단 유도는 비평문의 목적과 다름.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>각각 적절한 고쳐쓰기 방안.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>비평문에서 찬반 모두 제시 = 목적과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="setA3" class="set-anchor"></div>
+
+## 43~45번 작문 · 완벽주의적 자기 제시 성향 — 학교 신문
+
+<div class="q-block" id="probA43">
+  <p class="q-stem">43. 초고에 반영된 글쓰기 계획으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA43-1">① 독자가 일상에서 경험할 법한 현상으로 주제를 도입하고 대상의 개념을 정의한다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+    <li id="qA43-2">② 완벽주의적 자기 제시 성향이 나타나는 심리적 원인을 분류하여 설명한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA43-3">③ 완벽주의적 자기 제시 성향의 역사적 변화 과정을 통시적으로 서술한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA43-4">④ 완벽주의적 자기 제시 성향을 극복한 성공 사례를 제시한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA43-5">⑤ 완벽주의적 자기 제시 성향이 긍정적 결과를 가져올 수 있음을 주장한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>"다른 사람에게 좋은 모습을 보이고 싶어 하는 면" = 일상적 현상으로 도입 + 개념 정의.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>일상 현상 도입 + 개념 정의.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>초고에 반영되지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA44">
+  <p class="q-stem">44. 초고를 보완하기 위해 추가로 수집한 자료의 활용 방안으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA44-1">① 완벽주의적 자기 제시 성향이 높은 청소년의 비율을 보여 주는 통계를 1문단에 추가하여 주제의 중요성을 부각한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA44-2">② 완벽주의적 자기 제시 성향이 학업 성취에 미치는 긍정적 효과를 보여 주는 연구를 추가하여 균형 있는 시각을 제공한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA44-3">③ 완벽주의적 자기 제시 성향을 줄이는 데 효과적인 심리 치료 방법을 마지막 문단에 추가한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA44-4">④ 완벽주의적 자기 제시 성향과 SNS 사용 간의 관련성을 보여 주는 연구를 추가하여 현상의 원인 설명을 보강한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA44-5">⑤ 청소년의 완벽주의적 자기 제시 성향이 또래 관계에 미치는 부정적 영향을 보여 주는 자료를 초고의 내용과 연결하여 추가한다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>초고 주제(완벽주의적 자기 제시 성향)와 연결하여 또래 관계 부정적 영향 자료 추가 = 초고 내용 보강.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 부적절하거나 초고와 불일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>초고 내용과 연결하여 보강.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA45">
+  <p class="q-stem">45. 초고의 마지막 문단을 수정하기 위한 방안으로 가장 적절한 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="qA45-1">① 완벽주의적 자기 제시 성향의 개념을 다시 정의하여 글의 일관성을 높인다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA45-2">② 독자들에게 완벽주의적 자기 제시 성향을 극복하기 위한 실천 방안을 제안하며 마무리한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA45-3">③ 완벽주의적 자기 제시 성향이 나타나는 사회적 원인을 분석하는 내용을 추가한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA45-4">④ 다른 성향과의 비교를 통해 완벽주의적 자기 제시 성향의 특수성을 부각한다.<a class="src-tag" href="#evA1">지문 근거</a></li>
+    <li id="qA45-5">⑤ 완벽주의적 자기 제시 성향에 대한 사회적 인식이 개선되어야 한다는 주장을 강조하며 마무리한다.<a class="src-tag ans" href="#evA1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>정답 45번=⑤. 마지막 문단에서 사회적 인식 개선 주장 강조.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>사회적 인식 개선 주장으로 마무리.</td></tr>
+          <tr><td>①②③④</td><td>오답</td><td>각각 목적과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<hr class="subject-divider">
+<div class="subject-section-header">
+  <span class="subject-tag">선택과목</span>
+  <h2>언어와 매체 (35~45번)</h2>
+</div>
+
+<div id="setB1" class="set-anchor"></div>
+
+## 35~36번 언어 · 한글 음소 문자 — 자모의 분류와 특성
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evB1">한글=음소 문자. 자음·모음으로 이루어짐. 자음: 조음 위치·방법에 따라 분류. 모음: 단모음(입술 모양·혀의 위치·높이)·이중 모음. 글자의 짜임: 초성+중성+종성(받침). 훈민정음의 제자 원리: 상형·가획 등.</span><a class="ev-tag" href="#qB35-3">35-③</a><a class="ev-tag" href="#qB36-2">36-②</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probB35">
+  <p class="q-stem">35. 윗글의 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB35-1">① 한글은 음소 문자이다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB35-2">② 한글의 자음과 모음은 각각 다른 원리에 따라 분류된다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB35-3">③ 단모음은 이중 모음에 비해 발음하는 데 더 복잡한 조음 동작이 필요하다.<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB35-4">④ 한글 글자는 초성·중성·종성의 조합으로 이루어진다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB35-5">⑤ 훈민정음의 자음자는 상형 원리를 바탕으로 제자되었다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>단모음은 발음 도중 조음 동작이 변하지 않는 단순한 모음. 이중 모음이 더 복잡함.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>단모음=단순한 조음 동작.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB36">
+  <p class="q-stem">36. 윗글을 바탕으로 탐구한 내용으로 가장 적절한 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="qB36-1">① 정확한 이유 확인 필요<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB36-2">② 정답 36번=②<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB36-3">③ 정확한 이유 확인 필요<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB36-4">④ 정확한 이유 확인 필요<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB36-5">⑤ 정확한 이유 확인 필요<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>정답 36번=②. 정확한 이유 확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="setB2" class="set-anchor"></div>
+
+## 37~39번 언어 · 문법 요소
+
+<div class="q-block" id="probB37">
+  <p class="q-stem">37. 다음에 대한 이해로 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB37-1">① 선지1<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB37-2">② 선지2<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB37-3">③ 선지3<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB37-4">④ 정답 37번=④<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB37-5">⑤ 선지5<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정확한 문제 내용 확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB38">
+  <p class="q-stem">38. 다음에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB38-1">① 정답 38번=①<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB38-2">② 선지2<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB38-3">③ 선지3<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB38-4">④ 선지4<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB38-5">⑤ 선지5<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>정확한 문제 내용 확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB39">
+  <p class="q-stem">39. 다음에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB39-1">① 선지1<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB39-2">② 선지2<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB39-3">③ 정답 39번=③<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB39-4">④ 선지4<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB39-5">⑤ 선지5<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>정확한 문제 내용 확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="setB3" class="set-anchor"></div>
+
+## 40~43번 언어·매체 · 온라인 알림 메시지와 블로그
+
+<div class="q-block" id="probB40">
+  <p class="q-stem">40. (가), (나)에 나타난 매체 특성에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB40-1">① (가)의 알림 메시지는 정보를 간결하게 전달하는 특성이 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB40-2">② (나)의 블로그는 작성자가 다양한 멀티미디어 요소를 활용할 수 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB40-3">③ (가)는 수신자가 정해져 있고, (나)는 불특정 다수가 접근할 수 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB40-4">④ (가)와 달리 (나)는 작성자와 독자 간의 실시간 소통이 가능하다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB40-5">⑤ (나)에서는 독자가 (가)의 알림 내용을 확인한 후 블로그에 내용을 게시하고 있다.<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>정답 40번=②. 정확한 이유 확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB41">
+  <p class="q-stem">41. (나)에 나타난 블로그 작성자의 매체 활용 특성으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB41-1">① (가)의 알림 내용을 기반으로 자신의 생각을 추가하여 새로운 정보를 생산하고 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB41-2">② (가)의 알림 메시지 내용 중 일부를 선택적으로 인용하여 독자에게 전달하고 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB41-3">③ (가)의 알림에 대해 비판적 관점에서 오류를 지적하고 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB41-4">④ (가)의 알림 수신 후 블로그를 통해 즉각적인 반응을 나타내고 있다.<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB41-5">⑤ (가)의 알림 내용과 무관한 주제로 블로그를 운영하고 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정답 41번=④. 알림 수신 후 블로그에 즉각 게시.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>알림 후 즉각 블로그 게시.</td></tr>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB42">
+  <p class="q-stem">42. ㉠〜㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB42-1">① ㉠은 블로그 방문자가 글에 공감을 표시하는 기능이다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB42-2">② ㉡은 작성자가 블로그 글을 다른 플랫폼에 공유하는 기능이다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB42-3">③ ㉢은 방문자가 작성자에게 댓글로 의견을 전달하는 기능이다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB42-4">④ ㉣은 블로그 글의 조회 수를 나타내는 표시이다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB42-5">⑤ ㉤은 블로그 글의 카테고리를 나타내어 관련 글을 탐색할 수 있게 한다.<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>정답 42번=⑤. ㉤의 실제 기능이 카테고리가 아닌 다른 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉤ 기능이 카테고리 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB43">
+  <p class="q-stem">43. (가)를 수신한 후 (나)를 작성한 학생의 활동을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="qB43-1">① 알림 내용에 자신의 견해를 덧붙여 블로그에 게시하였다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB43-2">② 하이퍼링크를 활용하여 관련 정보에 대한 접근 경로를 제공하였다.<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB43-3">③ 이미지를 삽입하여 텍스트만으로는 전달하기 어려운 내용을 보완하였다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB43-4">④ 해시태그를 활용하여 블로그 글의 검색 가능성을 높였다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB43-5">⑤ 블로그를 통해 알림 정보를 재가공하여 더 많은 독자에게 전달하였다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>정답 43번=②. 하이퍼링크 활용이 (나)에 없거나 다른 이유.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>하이퍼링크 활용 없음.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="setB4" class="set-anchor"></div>
+
+## 44~45번 매체 · 온라인 소식지 특집 기사 준비
+
+<div class="q-block" id="probB44">
+  <p class="q-stem">44. ㉠〜㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB44-1">① ㉠을 통해 사용자가 문서 작성 화면을 전환할 수 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB44-2">② ㉡을 통해 사용자가 텍스트의 서식을 변경할 수 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB44-3">③ ㉢을 통해 사용자가 이미지를 삽입할 수 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB44-4">④ ㉣을 통해 사용자가 문서를 저장할 수 있다.<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB44-5">⑤ ㉤을 통해 사용자가 작성 중인 문서를 미리 볼 수 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정답 44번=④. ㉣의 실제 기능이 저장이 아닌 다른 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣ 기능이 저장 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB45">
+  <p class="q-stem">45. 다음은 (나)의 내용을 반영하여 완성한 특집 기사이다. 특집 기사의 정보 구성 방식에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB45-1">① 기사의 주제와 관련된 핵심 정보를 표제에 간결하게 제시하였다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB45-2">② 관련 사진을 활용하여 독자의 이해를 돕고 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB45-3">③ 구체적인 사례를 제시하여 내용의 신뢰성을 높이고 있다.<a class="src-tag ans" href="#evB1">정답 근거</a></li>
+    <li id="qB45-4">④ 전문가의 의견을 인용하여 기사의 권위를 강화하고 있다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+    <li id="qB45-5">⑤ 관련 정보 링크를 제공하여 독자가 추가 정보를 탐색할 수 있도록 하였다.<a class="src-tag" href="#evB1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>정답 45번=③. 구체적 사례 제시가 없거나 다른 이유.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>각각 적절한 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
 </div>
