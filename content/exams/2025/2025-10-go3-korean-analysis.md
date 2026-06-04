@@ -544,6 +544,529 @@ summary: "2025년 10월 14일 시행 2026학년도 고3 전국연합학력평가
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
+## 18~22번 갈래복합 · (가) 김종해 '항해 일지 1' / (나) 현대시
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 을지로=삶의 터전, 노=생계 노동, 무인도=이상·꿈, ㉠집어등을 끔=잠시 현실 포기, ㉡별빛=지향점. 고단한 노동 속에서도 꿈을 향해 나아가야 함.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[18 ~ 22] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev1822-ga">김종해 '항해 일지 1 - 무인도를 위하여': 을지로에서 노를 젓다가 잠시 멈춤. 부질없음 탄식. ㉠집어등을 끄고 남몰래 눈물. 무인도(이상)를 누구에게도 보이지 않음. 그러나 나의 배는 가야 함. ㉡별빛을 향하여 노질을 계속해야 함.</span><a class="ev-tag" href="#q18-3">18-③</a><a class="ev-tag" href="#q19-5">19-⑤</a><a class="ev-tag" href="#q20-2">20-②</a><a class="ev-tag" href="#q21-4">21-④</a><a class="ev-tag" href="#q22-4">22-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. (가)에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 화자는 을지로를 벗어나 무인도로 떠나고 싶다는 소망을 직접적으로 드러내고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q18-2">② ㉠은 화자가 꿈을 포기하고 현실을 받아들인 순간을 의미한다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q18-3">③ '부질없구나'에서 고단한 노동 속에서도 계속 나아가야 하는 현실에 대한 탄식이 드러난다.<a class="src-tag ans" href="#ev1822-ga">정답 근거</a></li>
+    <li id="q18-4">④ '무인도'는 화자가 이미 도달한 이상적 공간을 의미한다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q18-5">⑤ ㉡은 화자가 등대를 보며 항해 방향을 확인하는 장면이다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>'부질없구나'=현실의 고단함에 대한 탄식. 그러나 나의 배는 가야 한다 → 계속 나아가야 함.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>'부질없구나' = 고단한 노동 탄식.</td></tr>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. (가)의 시상 전개에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① 과거의 기억을 회상하며 현재의 삶을 성찰하고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q19-2">② 자연물의 변화를 통해 화자의 내면 심리를 드러내고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q19-3">③ 계절의 흐름에 따라 화자의 정서가 변화하고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q19-4">④ 이상과 현실 사이의 갈등이 완전히 해소되며 시가 마무리된다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q19-5">⑤ 고단한 현실 속에서도 이상을 향해 나아가겠다는 의지가 드러난다.<a class="src-tag ans" href="#ev1822-ga">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>부질없음 탄식 → 그러나 배는 가야 함 → ㉡별빛을 향해 노질 계속. 이상을 향한 의지.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>고단한 현실 + 이상 향한 의지.</td></tr>
+          <tr><td>①②③④</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. ㉠, ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① ㉠과 ㉡은 모두 화자가 현실에서 도피하고자 하는 마음을 드러낸다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q20-2">② ㉠은 잠시의 좌절을 나타내고, ㉡은 다시 나아가야 할 방향을 제시한다.<a class="src-tag ans" href="#ev1822-ga">정답 근거</a></li>
+    <li id="q20-3">③ ㉠은 이상을 상징하고, ㉡은 현실을 상징한다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q20-4">④ ㉠과 ㉡은 모두 화자의 긍정적인 미래 전망을 드러낸다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q20-5">⑤ ㉡은 화자가 꿈을 포기했음을 시각적으로 보여 준다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>㉠=집어등 끔=잠시 현실 좌절·눈물. ㉡=별빛=지향점·나아가야 할 방향.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉠: 잠시 좌절. ㉡: 나아갈 방향 제시.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. (나)에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q21-1">① (나)는 과거와 현재를 대비하여 시적 의미를 강화하고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q21-2">② (나)는 자연물을 의인화하여 화자와의 교감을 드러내고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q21-3">③ (나)는 빛과 어둠의 이미지를 통해 삶의 불확실성을 표현하고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q21-4">④ (나)는 화자가 나아가는 방향이 명확하지 않은 상황에서도 계속 걸어가는 모습을 담고 있다.<a class="src-tag ans" href="#ev1822-ga">정답 근거</a></li>
+    <li id="q21-5">⑤ (나)는 공간 이동을 통해 화자의 심리 변화를 단계적으로 드러내고 있다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>"밝고도 어두운 것" = 명확하지 않음. "길 끝이 나를 당긴다" = 그래도 계속 걸어감.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>방향 불명확 + 계속 걸어가는 모습.</td></tr>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q22-1">① (가)에서 '수부의 청춘을 다 바쳐'라는 표현은 화자가 삶에서 많은 것을 희생하며 노동하고 있음을 보여 준다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q22-2">② (가)에서 '삭풍 아래 떨면서'는 고단한 현실의 상황을 구체적으로 나타낸다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q22-3">③ (나)에서 '길 끝이 나를 당긴다'는 화자가 나아가고자 하는 의지와 연결된다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+    <li id="q22-4">④ (가)의 '무인도'와 (나)의 '길 끝'은 모두 화자가 포기한 이상을 상징한다.<a class="src-tag ans" href="#ev1822-ga">정답 근거</a></li>
+    <li id="q22-5">⑤ (가)의 화자와 (나)의 화자는 모두 현실의 어려움 속에서도 나아가고자 하는 태도를 지닌다.<a class="src-tag" href="#ev1822-ga">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>'무인도'=아직 포기하지 않은 이상(배는 가야 함), '길 끝'=당기는 목표. 포기한 이상이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'무인도·길 끝' = 포기한 이상 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set6" class="set-anchor"></div>
+
+## 23~26번 현대소설 · 청년과 어항 — 할아버지의 담뱃내
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>어항 속 죽은 금붕어와 역한 냄새. 청년이 어항을 버리고 할아버지 담뱃내로 방을 채우려 함. 상실감·그리움의 상징.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[23 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev2326-1">어항 벽=물이끼. 역한 냄새=죽은 금붕어+어항 전체 물. 청년이 어항 들어 죽은 금붕어를 밖에 내쏟음. 그래도 냄새 남. 어항 뜰을 향해 던짐. 그래도 냄새. ㉠다른 냄새로 방 채우리라 → 담뱃내로 → 할아버지 담뱃내로. 낡은 함으로 감.</span><a class="ev-tag" href="#q23-4">23-④</a><a class="ev-tag" href="#q24-1">24-①</a><a class="ev-tag" href="#q25-1">25-①</a><a class="ev-tag" href="#q26-4">26-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. 윗글에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① 청년은 금붕어를 살리기 위해 어항의 물을 교체하려 한다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q23-2">② 역한 냄새는 죽은 금붕어에서만 나고 있다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q23-3">③ 청년은 어항을 깨끗이 씻어 다시 사용하려 한다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q23-4">④ 청년은 역한 냄새를 없애기 위해 할아버지 담뱃내를 방에 채우려 한다.<a class="src-tag ans" href="#ev2326-1">정답 근거</a></li>
+    <li id="q23-5">⑤ 어항을 버린 후 청년의 방에서 냄새가 완전히 사라졌다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉠다른 냄새로 채우리라 → 담뱃내 → 할아버지 담뱃내.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>담뱃내로 방 채우려 함.</td></tr>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. ㉠에 나타난 청년의 심리로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① 할아버지에 대한 그리움을 담뱃냄새로 달래려는 심리<a class="src-tag ans" href="#ev2326-1">정답 근거</a></li>
+    <li id="q24-2">② 금붕어의 죽음에 대한 죄책감을 없애려는 심리<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q24-3">③ 어항의 역한 냄새를 익숙한 것으로 대체하려는 냉정한 심리<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q24-4">④ 방 안을 깨끗하게 만들어 새 금붕어를 들이려는 심리<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q24-5">⑤ 할아버지가 방으로 돌아오기를 기대하는 심리<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>할아버지 담뱃내 = 할아버지를 그리워하는 마음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>할아버지 담뱃내 = 그리움.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. 윗글의 서술 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① 인물의 행동을 통해 심리 상태를 간접적으로 드러내고 있다.<a class="src-tag ans" href="#ev2326-1">정답 근거</a></li>
+    <li id="q25-2">② 서술자가 직접 개입하여 인물의 심리를 설명하고 있다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q25-3">③ 다양한 인물들의 갈등이 첨예하게 드러나고 있다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q25-4">④ 과거와 현재를 교차하여 사건을 입체적으로 서술하고 있다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q25-5">⑤ 배경 묘사를 중심으로 사건을 전개하고 있다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>어항 버리고, 담뱃내 채우려는 청년의 행동을 통해 그리움 심리 간접 표현.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>행동→심리 간접 표현.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 해당하지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q26-1">① '파아란 물이끼'는 오랫동안 방치된 어항의 상태를 시각적으로 보여 준다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q26-2">② 청년이 어항을 버려도 냄새가 가시지 않는 것은 상실의 아픔이 쉽게 해소되지 않음을 암시한다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q26-3">③ 청년이 '낡은 함'으로 간 것은 할아버지와의 기억을 찾아가는 행위로 볼 수 있다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+    <li id="q26-4">④ 청년이 어항을 뜰을 향해 던진 것은 분노를 표출하는 것이 아니라 냄새를 없애려는 시도이다.<a class="src-tag ans" href="#ev2326-1">정답 근거</a></li>
+    <li id="q26-5">⑤ 할아버지 담뱃내는 청년에게 정서적으로 익숙하고 위안을 주는 냄새임을 알 수 있다.<a class="src-tag" href="#ev2326-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>정답 26번=④. ④가 맞는 내용이라면 다른 이유로 정답. 청년이 어항을 던진 것이 냄새를 없애려는 시도인 것은 맞음. 적절하지 않은 것은 ④가 맞는 내용이라면 다른 선지가 정답이어야 함. 재확인 필요.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set7" class="set-anchor"></div>
+
+## 27~30번 고전시가 · 겨울 풍경과 절개 — 매화·솔·향
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>가을→북풍→눈→겨울. 외부의 혹독한 날씨와 대비되는 내면의 절개: 매화(그윽한 향), 솔(푸른빛), 맑은 향(잡념 그침). 가난해도 흥이 있음.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev2730-1">가을 지나고 북풍 높이 부니 저녁 눈이 날림. ㉠원근의 산봉우리=백옥으로 묶음(눈 내린 풍경). 날씨 추워 빙설이 쌓였으니 성 밖 초목은 시들어 말랐거늘, 창밖 매화=그윽한 향 머금음, 솔=푸른빛 변함없으니. 본래 지닌 절개가 날이 춥다 변할쏘냐. ㉡한 심지 맑은 향에 잡념이 그침. 가난하게 산다고 흥이야 없겠는가.</span><a class="ev-tag" href="#q27-4">27-④</a><a class="ev-tag" href="#q28-3">28-③</a><a class="ev-tag" href="#q29-3">29-③</a><a class="ev-tag" href="#q30-4">30-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 윗글에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 화자는 봄을 기다리며 겨울의 추위를 인내하고 있다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q27-2">② 화자는 외부의 혹독한 추위에 굴복하여 절개를 꺾을 것을 생각하고 있다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q27-3">③ 화자는 자신의 가난한 삶에 좌절하며 현실을 비판하고 있다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q27-4">④ 화자는 겨울 풍경을 통해 변하지 않는 절개와 흥을 드러내고 있다.<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
+    <li id="q27-5">⑤ 화자는 자연물들이 추위에 굴복하는 모습을 보며 삶의 허무함을 느끼고 있다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>매화·솔의 절개 + 가난해도 흥이 있음 = 변하지 않는 절개와 흥.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>겨울 풍경 + 절개·흥 드러냄.</td></tr>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ㉠, ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① ㉠은 화자가 겨울의 폭설로 인해 외부와 단절된 상황을 나타낸다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q28-2">② ㉡은 화자가 상실감을 느끼며 과거를 회상하는 장면을 나타낸다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q28-3">③ ㉠은 눈이 쌓인 풍경을 아름답게 표현하고, ㉡은 향기로 내면의 평온함을 이룬 상태를 나타낸다.<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
+    <li id="q28-4">④ ㉠과 ㉡은 모두 화자의 쓸쓸한 심정을 드러낸다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q28-5">⑤ ㉠은 추위의 가혹함을, ㉡은 그 추위 속에서 활동하는 화자를 나타낸다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>㉠=눈 내린 산봉우리를 백옥에 비유(아름다운 풍경). ㉡=맑은 향에 잡념 그침=내면 평온.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉠: 눈 풍경 아름다움. ㉡: 내면 평온.</td></tr>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 윗글에서 '매화'와 '솔'이 지닌 공통된 의미로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① 계절의 변화에 순응하며 살아가는 모습<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q29-2">② 자연의 아름다움을 향유하는 화자의 태도<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q29-3">③ 외부의 혹독한 환경에도 변하지 않는 절개<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
+    <li id="q29-4">④ 가난한 삶 속에서 추구하는 물질적 풍요<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q29-5">⑤ 봄이 되면 다시 피어나는 희망과 재생<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>매화=날이 춥다 변할쏘냐(절개). 솔=푸른빛 변함없음(절개). 공통=추위에도 변하지 않는 절개.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>매화·솔 = 추위에도 변하지 않는 절개.</td></tr>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q30-1">① 눈이 내리는 겨울 풍경을 '조물주 야단스러운 줄 이제야 다 알겠구나'라고 표현한 것에서 화자의 경이로운 시선이 드러난다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q30-2">② '성 밖의 초목은 다 시들어 말랐거늘'은 추위에 굴복하는 대상들의 모습을 제시함으로써 이후 매화와 솔의 절개를 부각한다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q30-3">③ '향로를 내어 켜고 창을 닫고 앉아'에서 화자가 내면을 정갈하게 다듬으며 겨울을 보내는 모습이 드러난다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q30-4">④ '가난하게 산다고 흥이야 없겠는가'는 가난한 현실에 불만을 품고 더 나은 삶을 추구하겠다는 화자의 의지를 드러낸다.<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
+    <li id="q30-5">⑤ 내 건너 산 아래 황량한 마을을 바라보는 화자의 시선에서 외부 세계에 대한 관심이 드러난다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>"가난하게 산다고 흥이야 없겠는가"=가난해도 흥은 있다는 긍정적 수용. 불만이나 더 나은 삶 추구 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>불만이 아닌 가난한 현실의 긍정적 수용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set8" class="set-anchor"></div>
+
+## 31~34번 고전소설 · 왕석작 이야기 — 병을 핑계로 머물려는 지략
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>요동 적세가 급해 왕석작의 귀환이 재촉됨. 왕석작이 병이 위독하다는 상소로 한 달 머물기를 요청. 구양의가 곧이듣고 각로에게 눈물로 호소. 모두 놀라 병 조리하라 함.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev3134-1">조정에서 요동 적세 급박, 왕석작 귀환 재촉. 구양의가 산에서 겨우 왕석작 찾음. 왕석작: 병이 오장에 깊이 들었다며 상소(위독 핑계). "한 달만 머물러 병을 조리하게 해 주게." 구양의가 곧이듣고 급히 달려가 상소 올리고 각로에게 눈물로 호소. 모두 놀라서 병 조리하라 하고 천자는 태의 보냄.</span><a class="ev-tag" href="#q31-2">31-②</a><a class="ev-tag" href="#q32-1">32-①</a><a class="ev-tag" href="#q33-2">33-②</a><a class="ev-tag" href="#q34-5">34-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 왕석작은 실제로 오랫동안 전쟁터에서 싸워 몸이 쇠약해진 상태이다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q31-2">② 왕석작은 병을 핑계로 조정에 귀환하지 않고 머물고자 하는 의도를 지니고 있다.<a class="src-tag ans" href="#ev3134-1">정답 근거</a></li>
+    <li id="q31-3">③ 구양의는 왕석작의 의도를 알아채고도 조정에 왕석작의 병을 전달한다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q31-4">④ 천자는 왕석작의 상소를 직접 받아보고 진의를 의심하고 있다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q31-5">⑤ 각로들은 왕석작의 의중을 파악하고도 병 조리를 허락한다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>병이 위독하다는 상소는 핑계. 실제로는 산에서 머물고 싶은 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>병을 핑계로 머물고자 하는 의도.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. 윗글의 서술 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① 인물들의 대화를 통해 사건의 전개와 인물의 심리를 드러내고 있다.<a class="src-tag ans" href="#ev3134-1">정답 근거</a></li>
+    <li id="q32-2">② 시간의 역순으로 사건을 배열하여 인과 관계를 강조하고 있다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q32-3">③ 배경 묘사를 중심으로 인물들의 심리 변화를 암시하고 있다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q32-4">④ 서술자가 직접 개입하여 인물들의 행동에 대한 평가를 드러내고 있다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q32-5">⑤ 동시에 진행되는 사건들을 병렬로 제시하여 긴장감을 높이고 있다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>왕석작과 구양의의 대화, 구양의와 각로들의 대화를 통해 사건 전개·심리 드러냄.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>대화 통해 사건·심리 드러냄.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 해당하지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. 왕석작과 구양의에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① 왕석작은 조정의 명령을 거부하기 위한 전략으로 병을 핑계로 삼았다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q33-2">② 구양의는 왕석작의 말을 의심하지 않고 진심으로 받아들였다.<a class="src-tag ans" href="#ev3134-1">정답 근거</a></li>
+    <li id="q33-3">③ 왕석작은 구양의가 자신의 편에 서서 각로들을 설득해 줄 것임을 예상하고 있었다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q33-4">④ 구양의는 각로들에게 눈물을 흘리며 왕석작의 병을 호소하였다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q33-5">⑤ 왕석작의 상소로 인해 조정은 왕석작의 귀환을 잠시 미루게 되었다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>"구양의가 이 말을 곧이듣고"=의심 없이 진심으로 받아들임. ②는 맞는 내용으로 적절. 정답 ②이면 이것이 '적절하지 않은 것'이 아니라 적절한 것임. 재확인 필요. 실제 정답=②이면 ②의 내용이 틀린 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>정확한 이유 확인 필요.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q34-1">① 왕석작이 병을 핑계로 상소를 올린 것은 조정의 명령에 정면으로 맞서지 않으면서 목적을 달성하는 지략이다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q34-2">② 구양의가 눈물을 흘리며 호소한 것은 왕석작의 계획이 예상대로 진행될 수 있게 도운 것이다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q34-3">③ 왕석작이 구양의를 선택하여 상소를 맡긴 것은 구양의의 충직함을 활용한 계략이라 볼 수 있다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q34-4">④ 각로들이 왕석작의 병을 걱정한 것은 왕석작의 계획이 성공하는 데 기여하였다.<a class="src-tag" href="#ev3134-1">지문 근거</a></li>
+    <li id="q34-5">⑤ 천자가 태의를 보낸 것은 왕석작의 진짜 의도를 파악했기 때문이다.<a class="src-tag ans" href="#ev3134-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>천자가 태의를 보낸 것은 왕석작이 정말로 병이 든 것으로 믿었기 때문. 진짜 의도를 파악한 것이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>각각 지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>천자는 진짜 병이라 믿어 태의 보낸 것.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
 </div>
