@@ -1504,14 +1504,14 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p>초고: 문제(교통사고) → 원인(교차로 환경, 안전거리, 부주의) → 해결 방안(도로 개선, 횡단보도 재설치, 프로그램). ③이 정확히 일치.</p>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>초고: 문제(교통사고) → 원인(교차로 환경, 안전거리, 부주의) → 해결 방안(도로 개선, 횡단보도 재설치, 프로그램). ⑤가 정확히 일치.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①②④⑤</td><td>오답</td><td>각각 없는 방식.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>문제→원인→해결 방안 구조.</td></tr>
+          <tr><td>①②③④</td><td>오답</td><td>각각 없는 방식.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>문제→원인→해결 방안 구조.</td></tr>
         </tbody>
       </table>
     </div>
