@@ -1077,7 +1077,156 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set8" class="set-anchor"></div>
 
-## 31~34번 현대시 · [작성 예정]
+## 31~34번 현대시 · 김기림「아스팔트」/ 김명인「봄길」— 도시와 내면의 풍경
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 도시 아스팔트 거리의 풍경 = 화자의 우울함·회색 내면 투영. [A]에서 '너' 호칭으로 대상과 거리 좁힘. (나) 봄 들판+바다 이미지 중첩으로 화자의 내면 표현.</p>
+  <ul>
+    <li><strong>(가) 핵심</strong> — 4월 석양, 잎없는 가로수, 분주한 자동차 → '너의 마음=해저', '너의 가슴=회색 잔디밭'. 아스팔트 거리가 지평선 흉내를 냄</li>
+    <li><strong>(나) 핵심</strong> — 김제 봄들(들판) + 신포(바다 항구). 염소도 배처럼. 새끼 염소 타박거림=화자의 처지. ⓒ항구=화자가 지워야 할 목적지(닿을 수 없음)</li>
+    <li><strong>[A]에서 '너'</strong> — 화자가 도시 풍경 또는 특정 대상에게 '너'라고 부르며 내면을 투영</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 32번 ①: [A]에서 '너'=심리적 거리 좁혀 우울함 투영, 33번 ⑤: ⓒ=닿을 수 없는 것이 목적지가 아니라 '지워야 할' 것, 34번 ②: 자동차 분주함이 아스팔트에 전이 아님.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가)</strong></p>
+  <div class="poem-text">
+    <p><span class="ev" id="ev31-1a">아스팔트 위에는 / 4월의 석양이 졸리고 / 잎사귀를 붙이지 아니한 가로수 밑에서는 / 오후가 손질한다.</span><a class="ev-tag ans" href="#q31-1">31-①</a></p>
+    <p><span class="ev" id="ev34-2a">소리 없는 고무바퀴를 신은 자동차의 아기들이 / 분주히 지나간 뒤에</span><a class="ev-tag ans" href="#q34-2">34-②</a></p>
+    <p id="p-A31">[A]<span class="ev ans" id="ev32-1">너의 마음은 / 우울한 해저. / 너의 가슴은 / 구름들의 피곤한 그림자가 때때로 쉬러 오는 / 회색의 잔디밭</span><a class="ev-tag ans" href="#q32-1">32-①</a></p>
+    <p>바다를 꿈꾸는 바람들의 탄식을 들으러 나오는 침묵한 행인들을 위하여</p>
+    <p><span class="ev" id="ev34-3">작은 아스팔트의 거리는 / 지평선의 흉내를 낸다.</span><a class="ev-tag" href="#q34-3">34-③</a></p>
+    <p class="poem-source">— 김기림, 「아스팔트」 —</p>
+  </div>
+  <p><strong>(나)</strong></p>
+  <div class="poem-text">
+    <p><span class="ev" id="ev33-1">꽃이 피면 마음 간격들 한층 촘촘해져 / ⓐ김제 봄들 건너는데 몸 건너기가 너무 힘겹다</span><a class="ev-tag" href="#q33-1">33-①</a><a class="ev-tag" href="#q33-2">33-②</a></p>
+    <p>피기도 전에 봉오리째 져내리는 / 그 꽃잎 부리러 / 이 배는 <span class="ev" id="ev33-3">ⓑ신포 어디쯤에 닿아 헤맨다 / 저 망해 다 쓸고 온 꽃샘바람 거기 부는 듯 / 몸 속에 곤두서는 봄 밖의 봄바람!</span><a class="ev-tag" href="#q33-3">33-③</a></p>
+    <p>눈앞 해발이 양쪽 날개 펼친 구릉 / 사이로 스미려다 / 골짜기 비집고 빠져나오는 염소 떼와 문득 마주친다</p>
+    <p><span class="ev" id="ev34-4">염소도 제 한 몸 한 척 배로 따로 띄우는지 / 만경 저쪽이 포구라는 듯 / 새끼 염소 한 마리, / 지평도 뿌우연 황삿길 타박거리며 간다</span><a class="ev-tag" href="#q34-4">34-④</a><a class="ev-tag" href="#q34-5">34-⑤</a></p>
+    <p><span class="ev ans" id="ev33-5">마음은 곁가지로 펄럭거리며 덜 핀 꽃나무 / 둘레에서 멈칫거리자 하지만 / 남몰래 출렁거리는 상심은 아지랑이 너머 / 끝내 닿을 수 없는 ⓒ항구 몇 개는 더 지워야 한다고 / 닻이 끊긴 배 한 척,</span><a class="ev-tag ans" href="#q33-5">33-⑤</a><a class="ev-tag" href="#q33-4">33-④</a></p>
+    <p class="poem-source">— 김명인, 「봄길」 —</p>
+  </div>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 현재형 어미를 사용하여 시적 상황을 제시하고 있다.<a class="src-tag ans" href="#ev31-1a">정답 근거</a></li>
+    <li id="q31-2">② 명암의 대비를 통해 작품의 주제를 형상화하고 있다.<a class="src-tag" href="#ev32-1">지문 근거</a></li>
+    <li id="q31-3">③ 동일한 색채어를 반복하여 시적 운율을 형성하고 있다.<a class="src-tag" href="#ev32-1">지문 근거</a></li>
+    <li id="q31-4">④ 음성 상징어를 활용하여 대상의 모습을 묘사하고 있다.<a class="src-tag" href="#ev34-4">지문 근거</a></li>
+    <li id="q31-5">⑤ 영탄적 표현을 통해 대상에 대한 태도를 드러내고 있다.<a class="src-tag" href="#ev33-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>(가): "졸리고", "손질한다" 등 현재형. (나): "피면", "건너는데", "헤맨다" 등 현재형.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>두 시 모두 현재형 어미 사용.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 한쪽에만 있거나 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. &lt;보기&gt;를 바탕으로 [A]를 이해한 내용으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>시에서 특정 호칭의 사용은 화자와 대상 간의 관계나 거리를 조정하여 정서를 나타내는 기반이 된다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q32-1">① 대상과의 심리적 거리를 좁혀서 화자의 우울함을 대상에게 투영한다.<a class="src-tag ans" href="#ev32-1">정답 근거</a></li>
+    <li id="q32-2">② 대상과 각별한 관계를 형성하여 화자가 느낀 경이로움을 나타낸다.<a class="src-tag" href="#ev32-1">지문 근거</a></li>
+    <li id="q32-3">③ 대상과 거리를 두기 시작하면서 느낀 화자의 회의감을 드러낸다.<a class="src-tag" href="#ev32-1">지문 근거</a></li>
+    <li id="q32-4">④ 대상과의 관계를 회복시켜 화자의 권태로움을 해소한다.<a class="src-tag" href="#ev32-1">지문 근거</a></li>
+    <li id="q32-5">⑤ 대상과의 관계를 역전시켜 화자의 침울함을 극복한다.<a class="src-tag" href="#ev32-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>[A]에서 '너'라는 호칭을 사용하여 대상과 거리를 좁히고, "너의 마음은 우울한 해저", "너의 가슴은 회색의 잔디밭"처럼 화자의 우울함을 대상에 투영한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'너' 호칭=거리 좁힘, 우울함 투영.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. ⓐ~ⓒ에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① ⓐ에서 화자는 '꽃이 피'는 것과 내면의 변화 간의 관련성을 의식한다.<a class="src-tag" href="#ev33-1">지문 근거</a></li>
+    <li id="q33-2">② ⓐ에서 '건너기'의 힘듦을 자각한 화자는 이를 해소하고 싶은 마음에 ⓑ로 향한다.<a class="src-tag" href="#ev33-1">지문 근거</a></li>
+    <li id="q33-3">③ ⓑ에서 화자는 '거기'에 부는 '꽃샘바람'을 '몸 속'에서 감각적으로 느끼고 있다.<a class="src-tag" href="#ev33-3">지문 근거</a></li>
+    <li id="q33-4">④ '마음'과 '상심' 사이에서 번민하는 화자는 자신을 ⓑ와 ⓒ 사이에 놓인 '닻이 끊긴 배 한 척'으로 인식한다.<a class="src-tag" href="#ev33-5">지문 근거</a></li>
+    <li id="q33-5">⑤ ⓒ에서 화자는 자신의 목적지를 '끝내 닿을 수 없는' 곳이라고 인식한다.<a class="src-tag ans" href="#ev33-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>지문: "끝내 닿을 수 없는 ⓒ항구 몇 개는 더 지워야 한다고" → ⓒ는 화자가 '지워야 할' 곳이다. 즉 목적지를 포기하는 것이지, 목적지로 인식하는 것이 아니다. 닿을 수 없는 항구를 '목적지'로 인식한다는 ⑤는 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ⓒ=지워야 할 곳(포기할 목적지). '자신의 목적지'로 인식한다는 것이 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. &lt;보기&gt;를 바탕으로 (가)와 (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>(가): 아스팔트에 자연물이 인접하여 배치됨으로써 생명력 있는 것과 그렇지 않은 것의 경계 완화. (나): 봄 들판과 바다라는 상이한 공간 이미지가 중첩됨으로써 공간에 속한 대상의 속성이 화자의 내면에 공유.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q34-1">① (가)에서 '4월'의 '가로수'는 '잎사귀를 붙이지 아니한' 상태로 제시되어 생명력을 띠지 않은 '아스팔트'의 속성이 전이되었음을 드러내고, (나)에서 들판을 건너는 화자의 '몸'은 바다를 건너는 '배'와 중첩되어 화자의 부유하는 내면을 드러낸다.<a class="src-tag" href="#ev31-1a">지문 근거</a></li>
+    <li id="q34-2">② (가)에서 '고무바퀴를 신은 자동차의 아기들'이 '분주'하게 움직이는 모습은, 자동차가 지닌 분주함이 아스팔트에 전이되어 자동차와 아스팔트의 경계가 완화되고 있음을 드러낸다.<a class="src-tag ans" href="#ev34-2a">정답 근거</a></li>
+    <li id="q34-3">③ (가)에서 '지평선의 흉내'를 내는 '작은 아스팔트의 거리'가 '행인들'을 '위하'는 존재로 포착된 것은, 아스팔트가 '바다'의 속성을 공유하게 되었음을 암시한다.<a class="src-tag" href="#ev34-3">지문 근거</a></li>
+    <li id="q34-4">④ (나)에서 들판과 바다라는 공간의 중첩은 '염소'도 '제 한 몸 한 척 배로 따로 띄우는' 것으로 전이되면서, 화자가 '염소'에게서 자신의 처지를 발견하고 있음을 드러낸다.<a class="src-tag" href="#ev34-4">지문 근거</a></li>
+    <li id="q34-5">⑤ (나)에서 '새끼 염소'가 가는 '지평도 뿌우연 황삿길'은 화자가 향하는 '아지랑이 너머'와 중첩되면서, 자신이 지향하는 바가 이루어지기 쉽지 않으리라는 화자의 인식을 암시한다.<a class="src-tag" href="#ev34-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>자동차가 아스팔트 위를 '분주히 지나간 뒤에'라고 했다. 자동차의 분주함이 아스팔트에 전이된 것이 아니라, 자동차가 지나간 후의 아스팔트 거리의 고요함이 대조적으로 드러나는 것이다. ②의 '자동차가 지닌 분주함이 아스팔트에 전이'는 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>자동차 분주함이 아스팔트에 전이된 것이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
