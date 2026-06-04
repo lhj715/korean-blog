@@ -1414,23 +1414,23 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
   <p class="q-stem">40. (가)의 내용이 (나)에 반영된 양상으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="qA40-1">① (가)에서 학생3이 링겔만 효과와 관련된 자신의 경험을 언급한 것이 (나)에서 링겔만 효과의 사례로 제시되었다.</li>
-    <li id="qA40-2">② (가)에서 학생2가 링겔만 효과의 원인으로 제시한 내용과 학생3이 언급한 내용이 (나)에서 링겔만 효과의 원인으로 제시되었다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
-    <li id="qA40-3">③ (가)에서 학생1이 공유한 자료와 학생2가 공유한 자료가 (나)에서 링겔만 효과의 문제 상황으로 제시되었다.</li>
-    <li id="qA40-4">④ (가)에서 학생3이 링겔만 효과에 관련된 실험 내용을 조사하겠다고 제안한 것이 (나)에서 새로운 해결 방안으로 제시되었다.</li>
+    <li id="qA40-2">② (가)에서 학생2가 링겔만 효과의 원인으로 제시한 내용과 학생3이 언급한 내용이 (나)에서 링겔만 효과의 원인으로 제시되었다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
+    <li id="qA40-3">③ (가)에서 학생1이 공유한 자료와 학생2가 공유한 자료가 (나)에서 링겔만 효과의 문제 상황으로 제시되었다.<a class="src-tag ans" href="#evA36-23">정답 근거</a></li>
+    <li id="qA40-4">④ (가)에서 학생3이 링겔만 효과에 관련된 실험 내용을 조사하겠다고 제안한 것이 (나)에서 새로운 해결 방안으로 제시되었다.<a class="src-tag" href="#evA36-23">지문 근거</a></li>
     <li id="qA40-5">⑤ (가)에서 학생1이 논의한 내용이 (나)에서 링겔만 효과를 설명하는 이론적 근거로 제시되었다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p>정답 키에서 40번=④. 학생3이 개인의 역할을 명확히 정해 준 실험 내용을 조사하겠다고 했고, 이것이 (나)에서 해결 방안으로 제시됨.</p>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(가)에서 학생1이 줄 잡아당기기 실험 내용을, 학생2가 링겔만 효과 개념을 공유했고, 이것이 (나)에서 링겔만 효과 현상 및 문제 상황으로 제시됨.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>학생3 실험 조사 제안 → (나) 해결 방안으로 제시.</td></tr>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>학생1·2 공유 자료 → (나) 문제 상황으로 제시.</td></tr>
         </tbody>
       </table>
     </div>
