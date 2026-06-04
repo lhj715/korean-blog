@@ -379,7 +379,7 @@
         "month": "12",
         "type": "학력평가",
         "key": "2023-12-go2",
-        "url": null
+        "url": "/exams/2023/2023-12-go2-korean-analysis/"
       }
     ],
     "2022": [
@@ -387,25 +387,25 @@
         "month": "03",
         "type": "학력평가",
         "key": "2022-03-go2",
-        "url": null
+        "url": "/exams/2022/2022-03-go2-korean-analysis/"
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2022-06-go2",
-        "url": null
+        "url": "/exams/2022/2022-06-go2-korean-analysis/"
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2022-09-go2",
-        "url": null
+        "url": "/exams/2022/2022-09-go2-korean-analysis/"
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2022-11-go2",
-        "url": null
+        "url": "/exams/2022/2022-11-go2-korean-analysis/"
       }
     ],
     "2021": [
@@ -413,19 +413,19 @@
         "month": "03",
         "type": "학력평가",
         "key": "2021-03-go2",
-        "url": null
+        "url": "/exams/2021/2021-03-go2-korean-analysis/"
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2021-06-go2",
-        "url": null
+        "url": "/exams/2021/2021-06-go2-korean-analysis/"
       },
       {
         "month": "08",
         "type": "학력평가",
         "key": "2021-08-go2",
-        "url": null
+        "url": "/exams/2021/2021-08-go2-korean-analysis/"
       },
       {
         "month": "11",
