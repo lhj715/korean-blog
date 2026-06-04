@@ -29,8 +29,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set11">43~45 고전소설</a>
 </nav>
 
-<div id="set1" class="set-anchor"></div>
-
 ## 1~3번 화법 · 한글에 대한 세 가지 오해 발표
 
 <div class="read-guide">
@@ -153,8 +151,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법 · 제주남방큰돌고래 ‘생태법인’ 토론과 교지글
 
@@ -310,8 +306,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
-
 ## 8~10번 작문 · 펫코노미(반려동물 산업) 소개 글
 
 <div class="read-guide">
@@ -438,8 +432,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 자음군 단순화·중세 국어·관형사절·띄어쓰기
 
@@ -636,8 +628,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set5" class="set-anchor"></div>
-
 ## 16~20번 독서(과학) · 약물은 몸속에서 어떻게 이동하나
 
 <div class="read-guide">
@@ -825,8 +815,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set6" class="set-anchor"></div>
 
 ## 21~25번 고전 갈래 복합 · 「수남방옹가」·「금강영언록」·「촉견폐일설」
 
@@ -1040,8 +1028,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set7" class="set-anchor"></div>
-
 ## 26~30번 독서(사회) · 무권대리와 상대방을 지키는 표현대리제도
 
 <div class="read-guide">
@@ -1221,8 +1207,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
-
 ## 31~34번 현대소설 · 손홍규 「이슬람 정육점」 — 흉터를 나눈 두 사람
 
 <div class="read-guide">
@@ -1375,8 +1359,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
-
 ## 35~37번 현대시 · 백석 「선우사」와 송찬호 「고래의 꿈」
 
 <div class="read-guide">
@@ -1510,8 +1492,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set10" class="set-anchor"></div>
 
 ## 38~42번 독서(주제 통합) · 역사학의 두 시선 — 카의 역사관과 ‘언어로의 전환’
 
@@ -1695,8 +1675,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 고전소설 · 「백봉선전」 — 여러 영웅의 국난 극복담
 

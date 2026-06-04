@@ -9,8 +9,6 @@ layout: "exam"
 
 {{< exam-nav year="2023" month="03" grade="go2" >}}
 
-<div id="set1" class="set-anchor"></div>
-
 ## 1~3번 화법 · 발표
 
 <div class="passage">
@@ -116,8 +114,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · (가)는 수업 중 학생 대화이고, (나)는 (가)의 활동 이후 
 
@@ -252,8 +248,6 @@ layout: "exam"
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
-
 ## 8~10번 작문 · 교지 편집부의 요청에 따라 학생이 쓴 글의 초고
 
 <div class="passage">
@@ -360,8 +354,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 글을 읽고
 
@@ -502,8 +494,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set5" class="set-anchor"></div>
 
 ## 16~20번 독서(과학·기술) · 글을 읽고
 
@@ -666,8 +656,6 @@ layout: "exam"
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
-
 ## 21~25번 독서(사회) · 글을 읽고
 
 <div class="passage">
@@ -827,8 +815,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 현대시 · 글을 읽고
 
@@ -992,8 +978,6 @@ layout: "exam"
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
-
 ## 31~34번 고전시가 · 글을 읽고
 
 <div class="passage">
@@ -1124,8 +1108,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set9" class="set-anchor"></div>
 
 ## 35~38번 현대시 · 글을 읽고
 
@@ -1259,8 +1241,6 @@ layout: "exam"
   </details>
 </div>
 
-<div id="set10" class="set-anchor"></div>
-
 ## 39~42번 현대시 · 글을 읽고
 
 <div class="passage">
@@ -1390,8 +1370,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학 · 글을 읽고
 

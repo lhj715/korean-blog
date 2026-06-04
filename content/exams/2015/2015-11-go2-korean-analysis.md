@@ -15,8 +15,6 @@ summary: "2015년 11월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
-<div id="set1" class="set-anchor"></div>
-
 ## 1~3번 화법 · 발표
 
 <div class="q-block" id="prob1">
@@ -159,8 +157,6 @@ summary: "2015년 11월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 화작
 
@@ -355,8 +351,6 @@ summary: "2015년 11월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
-
 ## 8~10번 작문 · 작문
 
 <div class="q-block" id="prob8">
@@ -488,8 +482,6 @@ summary: "2015년 11월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 문법
 
@@ -766,8 +758,6 @@ summary: "2015년 11월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set5" class="set-anchor"></div>
-
 ## 16~19번 현대소설 · 현대소설
 
 <div class="q-block" id="prob16">
@@ -938,8 +928,6 @@ summary: "2015년 11월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set6" class="set-anchor"></div>
 
 ## 20~25번 독서(인문) · 독서(인문)
 
@@ -1213,8 +1201,6 @@ GRP78이 분리되어 센서가 활성화된다고 했으므로
   </details>
 </div>
 
-<div id="set7" class="set-anchor"></div>
-
 ## 26~30번 독서(과학) · 독서(과학)
 
 <div class="q-block" id="prob26">
@@ -1437,8 +1423,6 @@ GRP78이 분리되어 센서가 활성화된다고 했으므로
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
-
 ## 31~34번 고전소설 · 고전소설
 
 <div class="q-block" id="prob31">
@@ -1608,8 +1592,6 @@ GRP78이 분리되어 센서가 활성화된다고 했으므로
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
-
 ## 35~38번 독서(사회) · 독서(사회)
 
 <div class="q-block" id="prob35">
@@ -1775,8 +1757,6 @@ GRP78이 분리되어 센서가 활성화된다고 했으므로
     </div>
   </details>
 </div>
-
-<div id="set10" class="set-anchor"></div>
 
 ## 39~42번 갈래 복합 · 갈래 복합
 
@@ -1960,8 +1940,6 @@ GRP78이 분리되어 센서가 활성화된다고 했으므로
     </div>
   </details>
 </div>
-
-<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · 현대시
 

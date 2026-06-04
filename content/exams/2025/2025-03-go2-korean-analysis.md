@@ -29,8 +29,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set11">42~45 갈래 복합</a>
 </nav>
 
-<div id="set1" class="set-anchor"></div>
-
 ## 1~3번 화법 · 청산도 구들장논 발표
 
 <div class="read-guide">
@@ -153,8 +151,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 생체 인식 정보 (동아리 대화 → 교지 글)
 
@@ -309,8 +305,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
-
 ## 8~10번 작문 · 다목적 운동장 빛·소음 개선 건의문
 
 <div class="read-guide">
@@ -435,8 +429,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 조사 ‘의/에’·문장 짜임·파생어·음운 변동
 
@@ -629,8 +621,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 독서(인문) · 본유 관념을 둘러싼 로크와 라이프니츠
 
@@ -845,8 +835,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
-
 ## 22~26번 독서(사회) · 소송 비용과 공익 소송
 
 <div class="read-guide">
@@ -1025,8 +1013,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set7" class="set-anchor"></div>
-
 ## 27~30번 독서(과학·기술) · 냉방·난방을 다 하는 열펌프
 
 <div class="read-guide">
@@ -1174,8 +1160,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set8" class="set-anchor"></div>
 
 ## 31~34번 현대소설 · 이청준 「과녁」 — 궁도(수양)와 솜씨(구경거리) 사이
 
@@ -1328,8 +1312,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
-
 ## 35~38번 고전소설 · 「금환기봉」 — 남장 여성 영웅 장선빙
 
 <div class="read-guide">
@@ -1481,8 +1463,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set10" class="set-anchor"></div>
-
 ## 39~41번 현대시 · 오장환 「성씨보」와 김수영 「미농인찰지」
 
 <div class="read-guide">
@@ -1608,8 +1588,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set11" class="set-anchor"></div>
 
 ## 42~45번 갈래 복합 · 정훈 「수남방옹가」와 신흠 「천정기」
 

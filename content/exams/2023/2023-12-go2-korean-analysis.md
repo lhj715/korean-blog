@@ -9,8 +9,6 @@ layout: "exam"
 
 {{< exam-nav year="2023" month="12" grade="go2" >}}
 
-<div id="set1" class="set-anchor"></div>
-
 ## 1~3번 화법 · 발표
 
 <div class="passage">
@@ -123,8 +121,6 @@ layout: "exam"
   </details>
 </div>
 
-<div id="set2" class="set-anchor"></div>
-
 ## 4~7번 화법·작문 · (가)는 학교 누리집에 실을 글을 작성하기 위한 학생회 학생들의
 
 <div class="passage">
@@ -225,8 +221,6 @@ layout: "exam"
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
-
 ## 8~10번 작문 · 작문 상황과 이를 바탕으로 학생이 작성한 초고
 
 <div class="passage">
@@ -294,8 +288,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set4" class="set-anchor"></div>
 
 ## 11~14번 문법 · 글을 읽고
 
@@ -444,8 +436,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 화법 · 글을 읽고
 
@@ -608,8 +598,6 @@ layout: "exam"
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
-
 ## 22~25번 독서(사회) · 글을 읽고
 
 <div class="passage">
@@ -710,8 +698,6 @@ layout: "exam"
     </div>
   </details>
 </div>
-
-<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 현대시 · 글을 읽고
 
@@ -894,8 +880,6 @@ C
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
-
 ## 31~33번 독서(사회) · 글을 읽고
 
 <div class="passage">
@@ -997,8 +981,6 @@ C
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
-
 ## 34~37번 독서(인문) · 글을 읽고
 
 <div class="passage">
@@ -1099,8 +1081,6 @@ C
   </details>
 </div>
 
-<div id="set10" class="set-anchor"></div>
-
 ## 38~40번 현대시 · 글을 읽고
 
 <div class="passage">
@@ -1197,8 +1177,6 @@ C
     </div>
   </details>
 </div>
-
-<div id="set11" class="set-anchor"></div>
 
 ## 42~45번 작문 · 글을 읽고
 

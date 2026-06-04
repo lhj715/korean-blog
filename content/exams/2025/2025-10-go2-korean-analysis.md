@@ -29,8 +29,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <a href="#set11">43~45 현대시</a>
 </nav>
 
-<div id="set1" class="set-anchor"></div>
-
 ## 1~3번 화법 · 해양 생물의 번식 전략 발표
 
 <div class="read-guide">
@@ -160,8 +158,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 축제 공연 답장 (회의 → 초고)
 
@@ -330,8 +326,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
-
 ## 8~10번 작문 · 휘발성 유기 화합물 안전성
 
 <div class="read-guide">
@@ -458,8 +452,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 단어의 의미 관계와 음운·중세 국어
 
@@ -680,8 +672,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 독서(인문) · 선입견을 보는 두 시선, 데카르트와 하이데거
 
@@ -909,8 +899,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
-
 ## 22~25번 독서(과학·기술) · 날씨를 계산하는 수치예보 모델
 
 <div class="read-guide">
@@ -1076,8 +1064,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 독서(사회) · 범죄는 어떻게 성립하고, 죄의 수는 어떻게 세나
 
@@ -1280,8 +1266,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
-
 ## 31~34번 고전소설 · 「한조삼성기봉」 — 성별을 바꿔 환생하는 복수담
 
 <div class="read-guide">
@@ -1450,8 +1434,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
-
 ## 35~38번 현대소설 · 양귀자 「쥐」 — 무력한 가장과 그를 닮은 쥐
 
 <div class="read-guide">
@@ -1608,8 +1590,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set10" class="set-anchor"></div>
 
 ## 39~42번 고전시가·수필 · 「사미인곡」과 「한양궁궐도기」 — 임금을 향한 두 마음
 
@@ -1792,8 +1772,6 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · 「고운 심장」과 「스승의 구두」 — 얼어붙은 밤, 낡아가는 구두
 
