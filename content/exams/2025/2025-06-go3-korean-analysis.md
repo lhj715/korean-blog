@@ -334,7 +334,144 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="set3" class="set-anchor"></div>
 
-## 10~13번 과학·기술 · [작성 예정]
+## 10~13번 과학·기술 · 수소 저장·운송·추출 및 수소 연료 전지
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>수소 기체의 저장·운송 문제를 해결하는 두 방식(MCH, 암모니아)의 특성과 수소 연료 전지 작동 원리를 구분하며 읽기.</p>
+  <ul>
+    <li><strong>MCH(㉠)</strong> — 톨루엔+수소 → MCH, 반복 시 불안정 문제. 석유 인프라 활용 가능, 누출 위험 낮음</li>
+    <li><strong>암모니아(㉡)</strong> — 질소+수소, 분자당 수소 많음; 독성 위험; 열분해(전환율 0.9↑, 부반응 없음)·전기분해·광분해</li>
+    <li><strong>수소 연료 전지</strong> — 수소 → 수소이온+전자(산화극), 이온=전해질 통해·전자=도선 통해 환원극 이동, 산소+이온+전자 → 물</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[10 ~ 13] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev1013-1">청정 에너지원 중 하나인 수소는 생산, 저장, 운송, 추출, 활용 등 전체 과정에서의 친환경성과 관련하여 높은 관심을 받고 있다. 재생 에너지를 통해 생산된 전기로 물을 전기분해하면 탄소 배출 없이 수소 생산이 가능하다.</span><a class="ev-tag ans" href="#q10-1">10-①</a></p>
+  <p><span class="ev" id="ev1013-mch">㉠메틸사이클로헥세인(MCH): 톨루엔에 수소가 결합해 MCH가 되고 역으로 MCH가 톨루엔과 수소로 변환. MCH는 취급 안전성 및 독성이 휘발유와 유사하므로 석유의 저장과 운송을 위한 기존 인프라를 이용할 수 있다. 또한 MCH가 액체이므로 증발 기체 발생으로 인한 누출 위험이 거의 없다. 하지만 반복되면서 화합물이 불안정해지는 문제가 있다.</span><a class="ev-tag" href="#q10-2">10-②</a><a class="ev-tag ans" href="#q11-4">11-④</a></p>
+  <p><span class="ev" id="ev1013-nh3">㉡암모니아: 질소 원자와 수소 원자로 이루어진 화합물. 분자당 세 개의 수소 원자를 포함하고 있어 물보다 분자당 저장된 수소가 많다. 암모니아는 기존 비료 산업에서 사용하는 합성법으로 생산할 수 있고, 대규모의 투자 없이 기존 인프라를 이용하여 저장 및 운송할 수 있다. 하지만 높은 독성으로 인한 위험성은 해결해야 할 과제이다. 암모니아에서의 수소 추출 방식으로는 전기분해, 광분해, 그리고 가장 많이 쓰이는 열분해가 있다. 각 방식에서는 암모니아 분해 반응이 일어나는데, 반응한 암모니아, 질소 기체, 수소 기체의 몰 수의 비는 2 : 1 : 3이다.</span><a class="ev-tag" href="#q10-3">10-③</a><a class="ev-tag" href="#q11-2">11-②③</a></p>
+  <p><span class="ev" id="ev1013-thermal">Ⓐ열분해 방식을 통해서는 0.9 이상의 전환율이 얻어지는데, 부반응은 거의 없다. 여기서 전환율은 반응한 전체 암모니아의 몰 수를 공급한 암모니아의 몰 수로 나눈 값이며, 부반응이란 암모니아 분해 반응의 의도된 생성물 외의 다른 물질이 최종 물질로 생기는 반응을 뜻한다.</span><a class="ev-tag ans" href="#q12-4">12-④</a></p>
+  <p><span class="ev" id="ev1013-fc">수소 연료 전지: 산화 극에서 공급된 수소가 수소 이온과 전자로 분해. 수소 이온은 전해질을 통해, 전자는 도선을 통해 환원 극으로 이동하면서 전기를 생산. 환원 극에서는 공급된 산소가 수소 이온과 전자를 만나 물을 생성. 이 외의 반응은 거의 일어나지 않으므로 친환경적이다.</span><a class="ev-tag" href="#q10-4">10-④</a><a class="ev-tag ans" href="#q10-5">10-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q10-1">① 재생 에너지는 탄소 배출 없이 수소를 생산하기 위한 에너지원으로 사용될 수 있다.<a class="src-tag" href="#ev1013-1">지문 근거</a></li>
+    <li id="q10-2">② MCH는 휘발유와 유사한 취급 안전성을 갖는다.<a class="src-tag" href="#ev1013-mch">지문 근거</a></li>
+    <li id="q10-3">③ 광분해 방식으로 암모니아를 질소 기체와 수소 기체로 분해할 수 있다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+    <li id="q10-4">④ 수소 연료 전지에 공급되는 물질은 수소와 산소이다.<a class="src-tag" href="#ev1013-fc">지문 근거</a></li>
+    <li id="q10-5">⑤ 수소 연료 전지에서 수소 이온은 전자와 마찬가지로 도선을 통해 이동한다.<a class="src-tag ans" href="#ev1013-fc">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>수소 이온은 전해질을 통해 이동, 전자가 도선을 통해 이동. 둘이 같은 경로가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(일치)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>수소이온=전해질, 전자=도선 → 경로 다름.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. ㉠, ㉡에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q11-1">① ㉠은 증발 기체가 많이 발생하므로 누출 위험성이 크다.<a class="src-tag" href="#ev1013-mch">지문 근거</a></li>
+    <li id="q11-2">② ㉡은 독성이 낮아 위험성이 크지 않다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+    <li id="q11-3">③ ㉡은 운송을 위한 대규모의 투자가 필요하다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+    <li id="q11-4">④ ㉠은 ㉡보다 분자당 저장되어 있는 수소 원자가 많다.<a class="src-tag ans" href="#ev1013-mch">정답 근거</a></li>
+    <li id="q11-5">⑤ ㉠은 ㉡과 달리, 기존 인프라를 이용하여 저장할 수 있다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>MCH: 톨루엔 분자 하나 + 수소 분자 세 개 = MCH 한 개(수소 원자 6개). 암모니아는 분자당 수소 원자 3개. MCH가 더 많음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>MCH는 누출 위험 거의 없다고 서술.</td></tr>
+          <tr><td>②③</td><td>오답</td><td>암모니아는 높은 독성, 기존 인프라 이용 가능.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>MCH 분자당 수소 원자 6개 &gt; 암모니아 분자당 수소 원자 3개.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>암모니아도 기존 인프라 이용 가능.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글의 Ⓐ와 &lt;보기&gt;의 Ⓑ를 비교하여 탐구한 내용으로 가장 적절한 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q12-1">① Ⓐ에서 질소 기체를 생성하는 것과 달리, Ⓑ에서는 질소 기체를 생성하지 않겠군.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+    <li id="q12-2">② Ⓐ에서 생성된 수소 기체는 Ⓑ에서 생성된 수소 기체와 달리, 부반응에 의해서 생겼군.<a class="src-tag" href="#ev1013-thermal">지문 근거</a></li>
+    <li id="q12-3">③ Ⓐ에서 암모니아를 공급했을 때의 전환율은 Ⓑ에서 암모니아를 공급했을 때의 전환율보다 작겠군.<a class="src-tag" href="#ev1013-thermal">지문 근거</a></li>
+    <li id="q12-4">④ Ⓑ는 Ⓐ와 비교할 때, 같은 양의 암모니아를 공급한다면 더 적은 양의 수소 기체를 생성하겠군.<a class="src-tag ans" href="#ev1013-thermal">정답 근거</a></li>
+    <li id="q12-5">⑤ Ⓑ에서는 Ⓐ에서와 달리, 반응한 암모니아의 몰 수보다 많은 몰 수의 수소 기체가 생성된 것이겠군.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>Ⓐ(열분해): 전환율 0.9 이상, 부반응 없음. Ⓑ(전기분해): 암모니아 10몰 공급→6몰만 반응(전환율=0.6), 암모늄 이온 등 부반응 상당량. 같은 양 공급 시 Ⓑ가 더 적은 수소 기체 생성.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>Ⓑ도 암모니아 분해 반응 → 질소 기체 생성(비록 부반응도 있음).</td></tr>
+          <tr><td>②</td><td>오답</td><td>Ⓐ의 수소 기체는 부반응이 아닌 정상 분해 반응으로 생성.</td></tr>
+          <tr><td>③</td><td>오답</td><td>Ⓐ 전환율 0.9이상 &gt; Ⓑ 전환율 0.6.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>Ⓑ 전환율 낮고 부반응 많음 → 같은 공급량 대비 수소 기체 더 적음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>Ⓑ에서도 반응한 암모니아 6몰 기준 수소 기체 9몰(2:3 비율) 이상이 생성될 수 있지만 부반응 때문에 모두 수소 기체는 아님. 지문 <보기>에서 "반응한 암모니아의 몰 수보다 많은 몰 수의 수소 기체가 생성"이라 했으므로 ⑤의 "Ⓐ에서와 달리"가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. 문맥상 ⓐ〜ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q13-1">① ⓐ: 단축(短縮)할<a class="src-tag" href="#ev1013-1">지문 근거</a></li>
+    <li id="q13-2">② ⓑ: 제작(製作)하며<a class="src-tag" href="#ev1013-mch">지문 근거</a></li>
+    <li id="q13-3">③ ⓒ: 활용(活用)되는<a class="src-tag ans" href="#ev1013-nh3">정답 근거</a></li>
+    <li id="q13-4">④ ⓓ: 습득(拾得)되는데<a class="src-tag" href="#ev1013-thermal">지문 근거</a></li>
+    <li id="q13-5">⑤ ⓔ: 성행(盛行)하지<a class="src-tag" href="#ev1013-fc">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>ⓒ쓰이는 = '사용되는' = 활용(活用)되는. ⓐ줄일(축소, 단축X); ⓑ만들며(형성하며, 제작X); ⓓ얻어지는(획득X, 습득X); ⓔ일어나지(발생하지, 성행X).</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>줄이다=부피를 감소시키다 → 단축은 시간·거리에 씀.</td></tr>
+          <tr><td>②</td><td>오답</td><td>만들다(형성하다) ≠ 제작(물건을 만들다).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>쓰이다 = 활용되다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>얻어지다 ≠ 습득(주워 얻다).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>일어나다 ≠ 성행(유행하다).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set4" class="set-anchor"></div>
 
