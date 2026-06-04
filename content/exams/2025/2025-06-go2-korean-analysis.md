@@ -1784,9 +1784,6 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-head">이 회차에서 챙길 개념</div>
   <div class="concept-grid">
     <div class="concept-card"><strong>말 ≠ 글자</strong><span>세종대왕이 창제한 건 ‘우리말’이 아니라 ‘글자(한글)’.</span></div>
     <div class="concept-card"><strong>세계기록유산</strong><span>등재된 건 한글이 아니라 기록물 ‘훈민정음 해례본’.</span></div>

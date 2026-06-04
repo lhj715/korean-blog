@@ -1761,9 +1761,6 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-head">이 회차에서 챙길 개념</div>
   <div class="concept-grid">
     <div class="concept-card"><strong>홍차의 산화</strong><span>녹차=산화 X / 홍차=충분히 산화 → 암갈색·붉은 찻물.</span></div>
     <div class="concept-card"><strong>점핑</strong><span>100℃ 물의 낙차 → 찻잎 대류 운동 → 성분 충분히 우러남.</span></div>

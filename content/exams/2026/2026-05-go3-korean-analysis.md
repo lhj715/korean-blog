@@ -2010,9 +2010,6 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-card-head">핵심 개념 카드</div>
 </div>
 
 </div>

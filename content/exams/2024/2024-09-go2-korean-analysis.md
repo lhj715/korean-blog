@@ -1662,9 +1662,6 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-head">이 회차에서 챙길 개념</div>
   <div class="concept-grid">
     <div class="concept-card"><strong>산패</strong><span>지방질이 공기에 노출돼 변질 → 곰팡이 독(아플라톡신), 열에 강함.</span></div>
     <div class="concept-card"><strong>의미 외재주의</strong><span>의미는 인식이 아니라 외부 세계 지시체의 ‘실제적 본성’이 결정.</span></div>

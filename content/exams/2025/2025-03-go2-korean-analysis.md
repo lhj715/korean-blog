@@ -1729,9 +1729,6 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-head">이 회차에서 챙길 개념</div>
   <div class="concept-grid">
     <div class="concept-card"><strong>구들장논 이름</strong><span>통수로 위 넓적한 돌이 온돌 구들장을 닮음.</span></div>
     <div class="concept-card"><strong>지형 극복</strong><span>좁고 돌 많은 산비탈에 석축으로 계단식 논 조성.</span></div>

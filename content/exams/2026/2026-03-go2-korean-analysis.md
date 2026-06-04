@@ -1888,9 +1888,6 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-head">이 회차에서 챙길 개념</div>
   <div class="concept-grid">
     <div class="concept-card"><strong>판정 vs 설명 의문문</strong><span>“응/아니”로 답하면 판정, ‘언제·왜·어디’ 정보를 답해야 하면 설명.</span></div>
     <div class="concept-card"><strong>행동 요구 판정 의문문</strong><span>대답만으론 부족하고, 요구된 행동까지 해야 소통이 성공한다.</span></div>

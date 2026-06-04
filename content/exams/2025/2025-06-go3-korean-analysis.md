@@ -1860,9 +1860,6 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-card-head">핵심 개념 카드</div>
 </div>
 
 </div>

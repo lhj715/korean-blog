@@ -152,9 +152,6 @@ draft: true
     </div>
   </details>
 </div>
-
-<div class="concept-cards">
-  <div class="concept-head">이 회차에서 챙길 개념</div>
   <div class="concept-grid">
     <div class="concept-card"><strong>호작도 두 관점</strong><span>통속(호랑이=수호자·까치=길조) vs 풍자(호랑이=지배층·까치=조롱하는 민중).</span></div>
     <div class="concept-card"><strong>응집성 표현</strong><span>지시(여기·이)·대용(이·그)·접속(그런데·한편).</span></div>
