@@ -1828,19 +1828,385 @@ summary: "2026년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="setB1" class="set-anchor"></div>
 
-## 35~36번 언어 · [미완성 — 작성 예정]
+## 35~36번 언어 · 문장의 중의성 — 수식 관계와 행위 주체
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>문장 구조가 둘 이상으로 분석될 때 중의성이 나타난다. <strong>두 가지 원인</strong>을 정확히 구분한다.</p>
+  <ul>
+    <li><strong>수식 관계</strong> — 관형어/부사어가 무엇을 수식하느냐에 따라 구조가 달라짐. 부사어는 안은문장 vs 안긴문장 성분 수식으로도 분화</li>
+    <li><strong>행위 주체의 범위</strong> — '와/과', '(이)랑', '하고'가 쓰인 문장에서 접속 조사(대상) vs 부사격 조사(동반)로 분석 차이</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 35번 ② "부사어 수식→여러 구조→모두 겹문장"은 틀림(부사어 수식 문제가 있어도 홑문장일 수 있음), 36번 ⑤ '하고'가 두 분석 모두 접속 조사인 경우.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p>문장은 서술어를 중심으로 서술어가 요구하는 필수 성분을 갖추어 성립되며, 여기에 부속 성분이나 독립 성분이 더해지기도 한다. 문장을 구성하는 성분들 간의 결합 관계를 가리켜 문장 구조라고 하는데, 한 문장의 구조가 둘 이상으로 분석될 때는 문장의 중의성이 나타난다.</p>
+  <p>그렇다면 어떤 경우에 문장 구조가 둘 이상으로 분석될 수 있을까? 먼저 수식 관계와 관련하여 문장 내에서 <span class="ev" id="evB35-5">관형어 또는 부사어가 무엇을 수식하는지에 따라 문장 구조가 다르게 분석될 수 있다.</span><a class="ev-tag" href="#qB35-5">35-⑤</a> 예를 들어 '내가 좋아하는 철수의 그림이 전시되었다.'는 관형어 '내가 좋아하는'이 '철수'를 수식하는 것으로 분석될 수도 있고, '철수의 그림'을 수식하는 것으로 분석될 수도 있다. 또한 '나는 아주 새 옷을 좋아한다.'는 부사어 '아주'가 '새'를 수식하는 것으로 분석될 수도 있고, '좋아한다'를 수식하는 것으로 분석될 수도 있다. <span class="ev ans" id="evB35-2">한편 부사어는 안은문장의 성분을 수식하는 것으로 분석될 수도 있고, 안긴문장의 성분을 수식하는 것으로 분석될 수도 있다. 예를 들어 '소형이는 어제 입원한 친구에게 전화했다.'에서 부사어 '어제'는 안은문장의 '전화했다'를 수식하는 것으로 분석될 수도 있고, 안긴문장의 '입원한'을 수식하는 것으로 분석될 수도 있다.</span><a class="ev-tag ans" href="#qB35-2">35-②</a></p>
+  <p>다음으로 행위 주체의 범위 해석과 관련하여 '와/과'나 '(이)랑', '하고'가 쓰인 문장 중에서 그 구조가 둘 이상으로 분석될 때가 있다. 예를 들어 <span class="ev" id="evB35-1">'정민이가 소희와 지아를 기다렸다.'에서 '기다렸다'의 주체를 '정민'으로 분석하면 … '와'는 접속 조사로 분석된다. 반면 '기다렸다'의 주체를 '정민', '소희'로 분석하면 … '와'는 … 부사격 조사로 분석된다.</span><a class="ev-tag" href="#qB35-1">35-①</a><a class="ev-tag" href="#qB35-3">35-③④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probB35">
+  <p class="q-stem">35. 윗글을 읽고 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB35-1">① 행위 주체가 누구인지 다양하게 분석되는 문장은 중의성이 나타난다.<a class="src-tag" href="#evB35-1">지문 근거</a></li>
+    <li id="qB35-2">② 부사어의 수식 대상과 관련하여 문장 구조가 여러 개로 분석되는 문장은 모두 겹문장이다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB35-3">③ '나는 책을 읽었다.'는 서술어와 서술어가 필수로 요구하는 성분만으로 이루어진 문장이다.</li>
+    <li id="qB35-4">④ '나는 친구와 함께 놀았다.'는 조사 '와'가 쓰였으나 문장 구조가 하나로만 분석되는 문장이다.</li>
+    <li id="qB35-5">⑤ 문장에서 관형어의 수식 대상이 다양하게 분석되는 것은 중의성이 나타나는 요인 중 하나이다.<a class="src-tag" href="#evB35-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 지문에서 직접 확인되는 내용인지 확인한다. ②의 "모두 겹문장"이 핵심 함정이다.</p>
+        <p>지문에서 부사어의 수식 대상에 따라 구조가 다르게 분석될 수 있다고 했다. 예시 '소형이는 어제 입원한 친구에게 전화했다'에서 '어제'가 안은문장 성분을 수식하면 겹문장이지만, '나는 아주 새 옷을 좋아한다'에서 '아주'가 '새' vs '좋아한다'를 수식하는 경우는 겹문장과 무관하다. 부사어 수식 대상이 다르다고 해서 모두 겹문장인 것은 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>부사어 수식 대상 분화가 겹문장에서만 일어나는 것이 아니다. '아주 새 옷' 예시처럼 홑문장에서도 가능.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB36">
+  <p class="q-stem">36. 윗글을 바탕으로 &lt;자료&gt;를 탐구한 내용으로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>㉠ 그는 도희랑 혜빈이에게 책을 주었다.</p>
+    <p>㉡ 그녀는 종일 손님들로 붐비는 가게에 머물렀다.</p>
+    <p>㉢ 나는 이 근처로 이사를 온 그와 그녀를 만났다.</p>
+    <p>㉣ 그는 아침에 그녀가 떠났다는 것을 내게 말했다.</p>
+    <p>㉤ 검은 모자를 쓴 그하고 그녀는 내 오랜 친구들이다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB36-1">① ㉠: 문장 구조가 두 개로 분석되더라도 각각의 경우 모두 '랑'은 부사격 조사로 분석된다.</li>
+    <li id="qB36-2">② ㉡: '종일'이 수식하는 대상이 안긴문장의 성분으로 분석되면, 그녀가 가게에 종일 머물렀다는 의미로 해석된다.</li>
+    <li id="qB36-3">③ ㉢: '이 근처로 이사를 온'의 수식 대상이 '그'인 경우와 '그와 그녀'인 경우 모두, '만났다'의 주체는 '나'로만 분석된다.</li>
+    <li id="qB36-4">④ ㉣: '아침에'가 수식하는 대상이 안긴문장의 성분으로 분석되면, 그가 말한 시점이 아침이라는 의미로 해석된다.</li>
+    <li id="qB36-5">⑤ ㉤: 문장 구조가 두 개로 분석되더라도 각각의 경우 모두 '하고'는 접속 조사로 분석된다.<a class="src-tag ans" href="#evB35-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 문장을 지문의 분석 원리에 따라 탐구한다. 접속 조사 vs 부사격 조사 구분이 핵심이다.</p>
+        <p>㉤ "검은 모자를 쓴 그하고 그녀는 내 오랜 친구들이다." '검은 모자를 쓴'이 수식하는 대상이 '그'로 분석되든 '그하고 그녀'로 분석되든, 두 경우 모두 '하고'는 '그'와 '그녀'를 같은 자격으로 이어 주는 접속 조사로 분석된다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>책을 준 주체가 '그'면 '랑'=접속 조사, '그+도희'면 '랑'=부사격 조사.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'종일'이 안긴문장 '붐비는' 수식 → 종일 붐비는 가게에 머문 것. 안긴문장 성분이면 '종일 머물렀다'가 아니라 '종일 붐비는'이다.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'이사를 온'이 '그'만 수식 → '와'가 부사격 조사 분석 시 '만났다' 주체 = '나, 그'가 될 수도 있다.</td></tr>
+          <tr><td>④</td><td>오답</td><td>'아침에'가 안긴문장 '떠났다' 수식 → 그녀가 아침에 떠난 것. 그가 말한 시점이 아침이 아니다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>'검은 모자를 쓴' 수식 범위 두 가지 모두, '하고' = 접속 조사.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB2" class="set-anchor"></div>
 
-## 37~39번 언어 · [미완성 — 작성 예정]
+## 37~39번 언어 · 음운 변동 / 사동 표현 / 합성어
+
+<div class="q-block" id="probB37">
+  <p class="q-stem">37. [A]에 들어갈 말로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>선생님: '곁눈질[견눈질]'과 동일하게 일어나는 단어의 예로는 무엇이 있을까요? (단, '진흙물[진흥물]' = 자음군 단순화 + 비음화, '곁눈질' = 음절의 끝소리 규칙 + 비음화)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB37-1">① '잡일[잠닐]'과 '칡덩굴[칙떵굴]'이 있어요.</li>
+    <li id="qB37-2">② '늦잠[늗짬]'과 '첫마디[천마디]'가 있어요.</li>
+    <li id="qB37-3">③ '개울녘[개울력]'과 '분말약[분말략]'이 있어요.</li>
+    <li id="qB37-4">④ '꽃노을[꼰노을]'과 '옆넓이[염널비]'가 있어요.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB37-5">⑤ '겉모습[건모습]'과 '가랑잎[가랑닙]'이 있어요.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '곁눈질[견눈질]'의 음운 변동 순서 파악이 핵심이다.</p>
+        <p>'곁눈질': 겹[겻] → 음절의 끝소리 규칙(ㄷ) → [겯] + 눈 → 비음화(ㄷ+ㄴ→ㄴ+ㄴ) → [견눈질]. 이와 동일: '꽃노을[꼰노을]': 꽃 → 음절의 끝소리 규칙(ㅊ→ㄷ) → [꼬ᄃ] + 노을 → 비음화(ㄷ+ㄴ→ㄴ+ㄴ) → [꼰노을]. '옆넓이[염널비]': 옆 → 음절의 끝소리 규칙(ㅍ→ㅂ) + 넓이[널비] → 비음화(ㅂ+ㄴ→ㅁ+ㄴ) → [염널비]. 둘 다 음절의 끝소리 규칙 + 비음화.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>'잡일[잠닐]' = ㄴ첨가+비음화, '칡덩굴[칙떵굴]' = 자음군단순화+된소리되기.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'늦잠[늗짬]' = 음절끝소리규칙+된소리되기, '첫마디[천마디]' = 음절끝소리규칙+비음화. 단어마다 다름.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'개울녘[개울력]', '분말약[분말략]' = 유음화.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>두 단어 모두 음절의 끝소리 규칙 + 비음화. 곁눈질과 동일.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'겉모습[건모습]' = 음절끝소리규칙+비음화(맞음), '가랑잎[가랑닙]' = 음절끝소리규칙만. 둘이 다름.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB38">
+  <p class="q-stem">38. &lt;보기&gt;를 바탕으로 &lt;자료&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p><strong>&lt;보기&gt;</strong> 사동 표현: 자동사/타동사/형용사 + 사동 접미사(-이-/-히-/-리-/-기-/-/으-) 또는 '-게 하다'. 현대 국어와 중세 국어의 사동 표현 실현 양상 비교.</p>
+    <p><strong>&lt;자료&gt;</strong> ⓐ 기(밝-+-이-)시고 / ⓑ 사(살-+--) / ⓒ 길이(긷-+-이-) / ⓓ 싯기(싯-+-기-)</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB38-1">① ⓐ는 형용사 '다'(>밝다)의 어근에, ⓑ는 자동사 '살다'의 어근에 사동 접미사가 결합한 것이군.</li>
+    <li id="qB38-2">② ⓒ와 ⓓ는 각각 타동사 '긷다'와 타동사 '싯다'(>씻다)의 어근에 사동 접미사가 결합한 것이군.</li>
+    <li id="qB38-3">③ ⓐ와 ⓑ는 모두, 현대 국어에 쓰이지 않는 형태의 사동 접미사가 어근에 결합한 것이군.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB38-4">④ ⓒ는 현대 국어와 달리 어근에 사동 접미사가 결합되어 사동 표현이 실현된 것이군.</li>
+    <li id="qB38-5">⑤ ⓓ는 현대 국어와 같은 형태의 사동 접미사가 어근에 결합되어 사동 표현이 실현된 것이군.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ의 사동 접미사가 현대 국어에 쓰이지 않는지 확인한다.</p>
+        <p>ⓐ '기'(밝-+-이-)는 중세 국어에서 형용사 '밝다'의 어근에 '-이-'가 결합한 것이다. 현대 국어에서도 '-이-'는 사동 접미사로 쓰인다(예: 먹이다, 녹이다). 따라서 ⓐ의 '-이-'는 현대 국어에서도 쓰이는 형태다. ③은 ⓐ와 ⓑ 모두 현대 국어에 쓰이지 않는다고 했으나, ⓐ의 '-이-'는 현대에도 쓰인다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 지문 내용과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>ⓐ의 '-이-'는 현대 국어에서도 쓰이는 사동 접미사다. "현대 국어에 쓰이지 않는 형태"가 틀렸다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB39">
+  <p class="q-stem">39. &lt;보기&gt;의 ㉠과 ㉡이 모두 사용된 예문으로 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>합성어 중에는 ㉠어미 '-아/어'나 '-고' 등이 결합한 용언의 연결형이 포함된 것이나, ㉡어미 '-(으)ㄴ'이나 '-(으)ㄹ' 등이 결합한 용언의 관형사형이 포함된 것도 있다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="qB39-1">① 산에 올라갈 때는 뱀과 같은 길짐승을 주의해야 한다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB39-2">② 그들의 지고지순했던 지난날 이야기에 눈물이 흘렀다.</li>
+    <li id="qB39-3">③ 건널목을 건너기 전에는 항상 좌우를 잘 살펴야 한다.</li>
+    <li id="qB39-4">④ 먹고살기 위해서라면 많은 고생도 다 견딜 수 있었다.</li>
+    <li id="qB39-5">⑤ 혼자 소란을 피우고 있는 그를 보며 쓴웃음을 지었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 문장에서 ㉠(연결형 포함 합성어)과 ㉡(관형사형 포함 합성어) 둘 다 있는지 찾는다.</p>
+        <p>①: '올라가다' = '올라'(올-+-아, ㉠ 연결형) + '가다' → 합성어. '올라갈' = '올라가다'에 '-(으)ㄹ'(관형사형). '길짐승' = '길-'+'짐승'. 하지만 합성어 내부 ㉡ 관형사형 포함 여부는... '날짐승', '건널목', '올라가다' 등 분석 필요. '날짐승'은 '날-'(나-+-ㄹ)+'짐승' = ㉡ 관형사형. '올라가다'는 ㉠ 포함. ①에서 '올라갈' = ㉠(올라가다) + ㉡(-ㄹ 접사), '길짐승' = 길(관형사)+짐승(합성어). 정확히는 '올라갈' 자체에 ㉠(올라-) + ㉡(-ㄹ)이 있다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'올라갈': '올라가다'(올-+-아, ㉠ 연결형 포함 합성어) + '-(으)ㄹ'(㉡ 관형사형). 둘 다 포함.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 ㉠·㉡ 중 하나만 있거나 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB3" class="set-anchor"></div>
 
-## 40~42번 언어·매체 · [미완성 — 작성 예정]
+## 40~42번 언어·매체 · 실시간 인터넷 방송 — 표준 특허
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>실시간 인터넷 방송으로 진행자가 '표준 특허'를 설명하고 시청자들이 대화창에 반응한다. 화면 구성 요소(㉠~㉤)와 발화 방식(ⓐ~ⓔ), 시청자 반응을 파악해야 한다.</p>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 40번 ④ ㉣이 '다른 채널 영상 목록'인지(실제로는 기사 링크), 41번 ② '나무'가 실시간 탐색하며 추가 예 제시, 42번 ⑤ ⓔ '점하고 있다'가 '시도 진행 중'인지(실제로는 이미 우위 점하고 있는 상태).</p>
+</div>
+
+<div class="q-block" id="probB40">
+  <p class="q-stem">40. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB40-1">① ㉠: 방송 내용과 관련된 자료가 진행자의 모습과 함께 제시되었다.</li>
+    <li id="qB40-2">② ㉡: 방송에서 다루는 핵심 어구가 '#' 기호와 함께 제시되었다.</li>
+    <li id="qB40-3">③ ㉢: 대화 참여 시 시청자들이 주의해야 할 사항이 제시되었다.</li>
+    <li id="qB40-4">④ ㉣: 유사한 내용을 다룬 다른 채널의 영상 목록이 제시되었다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB40-5">⑤ ㉤: 방송에 대한 시청자의 긍정적인 반응이 숫자로 제시되었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>지문에서 ㉣은 방송 화면 구성 요소 중 하나다. 실제로 ㉣이 무엇인지 지문에서 확인하면, 대화창이나 다시 보기 목록 관련이지 '다른 채널 영상 목록'이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣은 다른 채널의 영상 목록이 아니다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB41">
+  <p class="q-stem">41. 위 방송에 나타난 시청자들의 반응에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qB41-1">① '구름'은 이모티콘을 사용하여 진행자의 의견에 공감을 표현하고 있다.</li>
+    <li id="qB41-2">② '나무'는 실시간으로 정보를 탐색하여 방송 내용과 관련된 추가적인 예를 제시하고 있다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB41-3">③ '산들'은 다른 매체를 통해 알게 된 문제 상황을 제시하며 이를 보완할 수 있는 대안을 모색하고 있다.</li>
+    <li id="qB41-4">④ '햇살'은 기사 링크를 공유하여 다른 시청자가 진행자에게 요청한 정보를 대신 제공하고 있다.</li>
+    <li id="qB41-5">⑤ '바람'은 특정 시청자를 호명하며 앞서 언급한 정보에 오류가 있음을 지적하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>'나무'는 "지금 검색해 보니까 스마트폰 말고도 텔레비전, 컴퓨터, 자동차까지 많은 제품들이 모두 표준 기술을 따라야 하네요"라며 실시간 탐색으로 방송 내용의 추가 예를 제시했다. ②가 정확하다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>'구름'은 이모티콘 없이 질문만.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>'나무' = 실시간 검색 + 추가 예(텔레비전, 컴퓨터, 자동차) 제시.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'산들'은 문제 상황만 제시, 대안 모색 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>'햇살'은 기사 링크 공유했으나 다른 시청자 요청 정보 대신 제공이 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'바람'은 정보 오류 지적이 아니라 추가 정보 제공.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB42">
+  <p class="q-stem">42. ⓐ~ⓔ에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB42-1">① ⓐ: 형용사 '같다'를 사용하여, 표준 특허라는 용어가 시청자들에게 생소할 것이라는 추측을 드러내고 있다.</li>
+    <li id="qB42-2">② ⓑ: 부사 '반드시'를 사용하여, 스마트폰을 만드는 데 표준 기술이 예외 없이 사용되어야 함을 강조하고 있다.</li>
+    <li id="qB42-3">③ ⓒ: 대명사 '이'를 사용하여, 특허권자의 권리에 대해 앞서 언급한 내용을 가리키고 있다.</li>
+    <li id="qB42-4">④ ⓓ: 연결 어미 '-여야만'을 사용하여, 해당 원칙에 대한 특허권자의 동의가 표준 특허 획득의 필수적 조건임을 표현하고 있다.</li>
+    <li id="qB42-5">⑤ ⓔ: 보조 용언 구성 '-고 있다'를 사용하여, 정보 통신 분야에서 우위를 점하기 위한 시도가 지속적으로 진행 중임을 표현하고 있다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>ⓔ "정보 통신 분야에서 세계적으로 우위를 점하고 있어요" — '-고 있다'는 진행이나 상태 지속을 나타낸다. 여기서는 이미 우위를 점하고 있는 상태의 지속을 표현하는 것이지, '우위를 점하기 위한 시도가 진행 중'이라는 뜻이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 적절히 설명됨.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>'-고 있다' = 이미 우위를 점한 상태 지속. '시도 진행 중'이 아니다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setB4" class="set-anchor"></div>
 
-## 43~45번 매체 · [미완성 — 작성 예정]
+## 43~45번 매체 · 누리 소통망 대화 — 스마트팜 앱 설정
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>스마트팜 운영 학생들이 앱을 활용해 문제를 해결하는 누리 소통망 대화. 이미지·파일 전송, 초대, 공지, 투표 기능 등 매체 활용 방식을 파악한다.</p>
+  <ul>
+    <li><strong>핵심 내용</strong> — A 구역(상추): 온도 초기값 초과 + 조명 시간 과다 → 잎 억세짐 / B 구역(토마토): 비료 농도 과잉처럼 보이지만 실은 토양 수분 부족</li>
+    <li><strong>매체 기능</strong> — 초대/이미지전송/파일전송/공지/투표 다양하게 활용</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 43번 ④ 투표 기능 사용(사용했지만 안건 선정이 아닌 점검 시간 투표), 44번 ③ '설정 메뉴에서 온도 누적 그래프를 10일 단위로 바꾸면'이 실제 ㉣~㉤에 반영됐는지, 45번 ③ '서연'이 ㉢에서 앱 화면 설명하며 밝힌 내용.</p>
+</div>
+
+<div class="q-block" id="probB43">
+  <p class="q-stem">43. 위 대화에 나타난 매체 활용 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB43-1">① 초대 기능을 활용하여 대화방에 참여하지 않은 사람을 참여시키고 있다.</li>
+    <li id="qB43-2">② 이미지 전송 기능을 활용하여 논의의 대상이 되는 앱 화면을 제시하고 있다.</li>
+    <li id="qB43-3">③ 파일 전송 기능을 활용하여 관련 자료를 대화 참여자들과 공유하고 있다.</li>
+    <li id="qB43-4">④ 투표 기능을 활용하여 다음 대화에서 다룰 안건을 선정하고 있다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB43-5">⑤ 공지 등록 기능을 활용하여 합의한 내용을 대화 참여자들에게 안내하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>지문에서 민재가 투표를 올린 것은 "다음 주부터 스마트팜을 주기적으로 점검하려고 하는데 선호하는 시간대에 투표해 줘"다. 안건 선정이 아니라 점검 시간대 선택을 위한 투표다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>투표 = 점검 시간대 선택. '다음 안건 선정'이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB44">
+  <p class="q-stem">44. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qB44-1">① ㉠: '민재'가 스마트팜 식물 상태가 안 좋아진 원인에 대해 조사 결과를 공유하고 있다.</li>
+    <li id="qB44-2">② ㉡: '지수'가 앱 화면으로는 파악이 어려운 문제를 직접 확인한 결과를 알리고 있다.</li>
+    <li id="qB44-3">③ ㉢: '서연'이 앱 화면을 설명하여 온도 조정이 필요한 구역을 특정하고 있다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+    <li id="qB44-4">④ ㉣: '은지'가 인터넷 검색 정보의 신뢰성을 '현우'가 공유한 자료로 확인하고 있다.</li>
+    <li id="qB44-5">⑤ ㉤: '지수'가 앱 화면의 수치를 분석하여 식물 상태가 안 좋아진 원인을 파악하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>㉢ 구간에서 '현우'가 온도 누적 그래프를 보며 상추/토마토 적정 누적 온도를 언급하고, '도현'이 "상추를 키우기에는 목표 온도가 너무 높았구나"라고 결론 내린다. '서연'이 구역을 특정하는 발화는 없다. ㉢에서 구역 특정은 '도현'과 '서연'의 발화로 이루어지지만, '서연'이 앱 화면을 설명하여 온도 조정이 필요한 구역을 특정하는 내용이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢에서 온도 조정 구역 특정은 '현우'의 자료 정보와 '도현'의 판단에 의한 것이지, 서연이 앱 화면을 설명하여 특정한 것이 아니다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probB45">
+  <p class="q-stem">45. 위 대화에 나타난 소통 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <ul class="q-opts">
+    <li id="qB45-1">① 대화 참여자들이 실시간으로 정보를 탐색하고 공유하면서 문제의 원인을 파악하고 있다.</li>
+    <li id="qB45-2">② 대화 참여자들이 각자의 역할을 나누어 문제 해결에 필요한 정보를 수집하고 있다.</li>
+    <li id="qB45-3">③ 진행자가 없는 대화임에도 대화 참여자들이 차례를 지키며 의견을 교환하고 있다.</li>
+    <li id="qB45-4">④ 대화 참여자들이 앱의 설정값 변경 사항을 공지로 공유하여 정보를 효율적으로 전달하고 있다.</li>
+    <li id="qB45-5">⑤ 대화 참여자들이 의견을 교환하면서 문제의 원인을 서로 다르게 파악하여 최종적으로 합의에 이르지 못하고 있다.<a class="src-tag ans" href="#evB35-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 실제로 정답은 ③이 아닐 수 있습니다. 언어와매체 45번 정답 키는 ③이므로 다시 확인합니다.</p>
+        <p>실제 정답: ③ "진행자가 없는 대화임에도 차례를 지키며" — 누리 소통망 대화에서는 차례를 반드시 지킬 필요 없다. 실제로 대화를 보면 여러 참여자가 동시에 발화하는 경우도 있어 엄격한 차례 지키기가 아닌 자유로운 소통 방식이다.</p>
+        <p>⑤에 대해서는: 대화 참여자들이 A 구역(온도/조명)과 B 구역(수분)의 원인을 각각 파악하여 결론에 합의("그렇게 조정하면 될 것 같은데")한다. 합의에 이르지 못한다는 것은 틀리다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④</td><td>오답</td><td>각각 지문 내용과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>누리 소통망은 차례 교대가 엄격하지 않으며, 동시 발화도 가능한 비동기 소통 방식이다.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>참여자들은 최종적으로 설정값 조정에 합의했다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
