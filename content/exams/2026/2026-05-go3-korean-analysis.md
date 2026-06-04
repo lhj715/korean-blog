@@ -502,7 +502,145 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set4" class="set-anchor"></div>
 
-## 14~17번 법률 · [작성 예정]
+## 14~17번 법률 · 집합건물법과 구분소유권
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>집합건물(아파트 등)에서 개별 소유(전유부분)와 공동 소유(공용부분)가 공존하는 법률 관계를 파악한다.</p>
+  <ul>
+    <li><strong>핵심 구분</strong> — 전유부분(구조상+이용상 독립성) / 공용부분(복도·옥상·엘리베이터 등)</li>
+    <li><strong>구분소유권</strong> — 구분 행위 필요 / 공용부분 지분=전유부분 면적 비율</li>
+    <li><strong>관리단</strong> — 구분소유권 성립 시 자동 설립 / 최종 의사결정 주체 / 관리인(구분소유자 불필요, 10인 이상 시 선임)</li>
+    <li><strong>하자</strong> — 원인 불분명 → 공용부분 하자 간주 → 관리단에 비용 청구</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 15번 ③ 민법 한계(집합건물법 한계 아님), 16번 ④ 가림막=구조상 독립성 없음(이동 가능), 17번 ① 관리인=구분소유자 불필요.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[14 ~ 17] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev15-3">오늘날 하나의 건물 안에 여러 세대와 점포 등이 공존하는 집합건물이 보편화되었다. 민법의 개별 소유와 공동 소유의 내용에 대한 규정만으로는 … 한계가 있었다. 집합건물법이 제정되면서 구분소유권이라는 권리를 통해 집합건물 내의 다양한 권리관계를 명료하게 하여 공동생활을 합리적으로 규율할 수 있게 되었다.</span><a class="ev-tag ans" href="#q15-3">15-③</a></p>
+  <p><span class="ev" id="ev15-2">구분소유권은 전유부분을 개별 소유의 대상으로 삼는 소유권을 의미하는데, 전유부분은 건물 내에서 구조상 독립성과 이용상 독립성을 모두 갖춘 부분이고 전유부분 이외의 건물 부분은 공용부분이라고 한다.</span><a class="ev-tag" href="#q15-2">15-②</a> 이때 구조상 독립성이란 각 건물 부분이, <span class="ev ans" id="ev16-4">바닥이나 천장, 벽, 출입문과 같이 건물을 구성하고 있지만 쉽게 이동되거나 제거될 수 없는 부분에 의해, 공용부분이나 다른 구분소유자들의 전유부분과 차단된 것을 말한다.</span><a class="ev-tag ans" href="#q16-4">16-④</a> <span class="ev" id="ev16-4b">이용상 독립성이란 해당 부분이 다른 전유부분을 통하지 않고도 공용부분이나 외부로 출입할 수 있어, 독립된 세대, 점포 등으로 사용될 수 있어야 함을 의미한다.</span><a class="ev-tag" href="#q16-4">16-④</a> <span class="ev" id="ev15-1">구분소유권이 성립하기 위해서는 구분 행위가 필요하다.</span><a class="ev-tag" href="#q15-1">15-①</a></p>
+  <p><span class="ev ans" id="ev14-4">공용부분에는 복도, 옥상, 공동 현관 등의 건물 부분과, 엘리베이터와 같은 건물의 부속물이 있다.</span><a class="ev-tag ans" href="#q14-4">14-④</a> 공용부분은 구분소유자들이 공유한다. <span class="ev" id="ev15-5">구분소유자가 전유부분을 소유함으로써 자동으로 얻게 되는 권리가 바로 공용부분에 대한 지분이다. 공용부분의 지분은 해당 구분소유자의 전유부분의 면적이 전체 전유부분의 면적에서 차지하는 비율로 결정되며, 공용부분으로 인한 수익과 비용 역시 공용부분의 지분 비율에 따른다.</span><a class="ev-tag" href="#q15-5">15-⑤</a><a class="ev-tag" href="#q16-2">16-②</a> <span class="ev" id="ev16-1">전유부분이 될 수 있는 공간도 규약을 통해 공용부분으로 지정하여 노인정, 공동 휴게 공간 등으로 사용하는 것도 가능하다. 단, 이때는 공용부분이라는 것을 반드시 등기해야 한다.</span><a class="ev-tag" href="#q16-1">16-①</a></p>
+  <p><span class="ev" id="ev15-4">구분소유자는 전유부분을 자유롭게 사용하고 처분할 수는 있지만 건물의 관리 및 사용에 있어서 단체 규율에 의해 제약을 받는다.</span><a class="ev-tag" href="#q15-4">15-④</a></p>
+  <p>공용부분의 관리에 대한 의사결정은 원칙적으로 구분소유자들의 결의를 중심으로 이루어진다. <span class="ev" id="ev16-5">다만 안전 등을 사유로 긴급한 조치가 필요한 경우에는 구분소유자 개인이 단독으로 훼손된 공용부분을 복구하는 보존행위를 할 수도 있다. 이런 경우에는 관리단에 그 비용을 청구할 수 있다. 전유부분에 하자가 생긴 경우라도, 하자의 원인이 불분명할 때에는 공용부분의 하자로 여기고 구분소유자의 공동책임으로 보아 관리단에 수리 비용을 청구할 수 있다.</span><a class="ev-tag" href="#q16-5">16-⑤</a><a class="ev-tag" href="#q16-3">16-③</a></p>
+  <p id="p-A14">[A]<span class="ev" id="ev17-2">관리단은 건물에 대하여 구분소유권이 성립되면 구분소유자 전원을 구성원으로 하여 별다른 절차가 없어도 설립된다.</span><a class="ev-tag" href="#q17-2">17-②</a> <span class="ev" id="ev17-4">관리단은 집합건물의 공동 관리를 위한 최종 의사결정의 주체이다.</span><a class="ev-tag" href="#q17-4">17-④</a> … <span class="ev" id="ev17-5">관리단에서 적법하게 결의된 사항은 그 결의에 반대한 구분소유자에 대해서도 효력을 미칠 수 있다.</span><a class="ev-tag" href="#q17-5">17-⑤</a> <span class="ev" id="ev17-3">구분소유자가 10인 이상일 때는 관리인을 선임해야 한다.</span><a class="ev-tag" href="#q17-3">17-③</a> <span class="ev ans" id="ev17-1">관리인은 구분소유자일 필요가 없으며, 관리단을 대표해 관리단의 결의 결과를 집행하는 법적 지위를 갖는다.</span><a class="ev-tag ans" href="#q17-1">17-①</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 윗글을 통해 해결할 수 있는 질문으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q14-1">① 건물을 분양하기 위한 자격 조건은 무엇일까?<a class="src-tag" href="#ev15-3">지문 근거</a></li>
+    <li id="q14-2">② 건물에 대한 소유권을 등기하는 절차는 무엇일까?<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q14-3">③ 공용부분에서 수익을 얻기 위한 방안은 무엇일까?<a class="src-tag" href="#ev15-5">지문 근거</a></li>
+    <li id="q14-4">④ 건물의 부속물로서 공용부분에 해당하는 예는 무엇일까?<a class="src-tag ans" href="#ev14-4">정답 근거</a></li>
+    <li id="q14-5">⑤ 전유부분을 처분하기 위해 필요한 의결권의 종류는 무엇일까?<a class="src-tag" href="#ev15-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>지문: "엘리베이터와 같은 건물의 부속물이 있다" → ④ 해결 가능.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 지문에 없는 내용.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>엘리베이터=건물 부속물 공용부분 예시. 해결 가능.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. 구분소유권에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q15-1">① 구분소유권이 성립하기 위해서는 구분 행위가 필요하다.<a class="src-tag" href="#ev15-1">지문 근거</a></li>
+    <li id="q15-2">② 구분소유권은 전유부분을 개별 소유의 대상으로 삼는다.<a class="src-tag" href="#ev15-2">지문 근거</a></li>
+    <li id="q15-3">③ 구분소유권은 집합건물법의 한계로 인해 등장하게 되었다.<a class="src-tag ans" href="#ev15-3">정답 근거</a></li>
+    <li id="q15-4">④ 구분소유권의 주체는 전유부분에 대해 권리를 행사하는 데 제약이 있다.<a class="src-tag" href="#ev15-4">지문 근거</a></li>
+    <li id="q15-5">⑤ 구분소유권을 가지면 전유부분을 소유함으로써 자동으로 공용부분에 대한 지분을 얻게 된다.<a class="src-tag" href="#ev15-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>지문: "민법의 … 한계가 있었다. 집합건물법이 제정되면서…" → 민법의 한계. ③은 '집합건물법의 한계'로 바꿨다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>민법의 한계로 집합건물법 등장. '집합건물법의 한계'가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. 윗글을 바탕으로 &lt;보기&gt;에 대해 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>○○ 아파트는 고층일수록 각 호실의 전유부분 면적이 더 넓다. 관리단은 주민 복지를 위해 규약을 통해 5층의 한 호실을 공동 휴게 공간으로 지정하였다. 3층 301호 소유자 갑은 공동 휴게 공간 내부에 철거하기 쉬운 가림막을 설치하고 복도로 연결되는 새로운 출입문을 내어 개인 작업실을 만들고 싶어 했다. 5층 501호 소유자 을은 우연히 공동 현관의 유리가 깨져 있는 것을 발견하였다. 을은 위험하다고 판단하여 깨진 유리를 급하게 새것으로 갈아 끼우고 관리 사무실에 알렸다. 또한 을은 자신의 집 천장에서 누수를 발견하고 기술자를 불러 확인하였으나 정확한 원인을 알 수 없었다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q16-1">① 공동 휴게 공간으로 사용한 호실은 공용부분임을 등기했겠군.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q16-2">② 공동 휴게 공간을 관리하기 위해 부담해야 하는 비용은 갑보다 을이 더 크겠군.<a class="src-tag" href="#ev15-5">지문 근거</a></li>
+    <li id="q16-3">③ 을은 누수로 인해 발생한 하자를 수리하는 비용을 관리단에 청구할 수 있겠군.<a class="src-tag" href="#ev16-5">지문 근거</a></li>
+    <li id="q16-4">④ 갑이 만들고 싶어 한 개인 작업실은 구조상 독립성은 있지만 이용상 독립성이 없겠군.<a class="src-tag ans" href="#ev16-4">정답 근거</a></li>
+    <li id="q16-5">⑤ 깨진 유리를 교체한 을의 행위는 훼손된 공용부분을 복구하는 보존행위로 볼 수 있겠군.<a class="src-tag" href="#ev16-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>갑의 작업실: 가림막=철거하기 쉬운 것 → 구조상 독립성 없음 / 복도로 연결되는 새 출입문 → 이용상 독립성 있음. ④는 반대.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>공용부분 지정 시 등기 필수. 적절.</td></tr>
+          <tr><td>②</td><td>오답</td><td>5층 > 3층 전유면적 → 을의 지분 > 갑의 지분 → 을 비용 더 큼. 적절.</td></tr>
+          <tr><td>③</td><td>오답</td><td>누수 원인 불분명 → 공용부분 하자로 간주 → 관리단 청구 가능. 적절.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>가림막(쉽게 철거) → 구조상 독립성 없음. 새 출입문(복도 연결) → 이용상 독립성 있음. 반대.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>긴급 보존행위. 적절.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. [A]에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q17-1">① 관리인은 구분소유자 중에서 선출해야 한다.<a class="src-tag ans" href="#ev17-1">정답 근거</a></li>
+    <li id="q17-2">② 구분소유자 전원을 대상으로 관리단을 구성한다.<a class="src-tag" href="#ev17-2">지문 근거</a></li>
+    <li id="q17-3">③ 관리단 구성원이 특정 인원 이상일 때는 관리인을 선임해야 한다.<a class="src-tag" href="#ev17-3">지문 근거</a></li>
+    <li id="q17-4">④ 관리단은 집합건물을 공동으로 관리하기 위한 최종 의사결정의 주체이다.<a class="src-tag" href="#ev17-4">지문 근거</a></li>
+    <li id="q17-5">⑤ 관리단에서 적법하게 결의된 사항은 결의에 반대한 구분소유자에 대해서도 효력을 미칠 수 있다.<a class="src-tag" href="#ev17-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>지문: "관리인은 구분소유자일 필요가 없다." ①은 반대.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>관리인은 구분소유자일 필요 없음. "선출해야"는 틀림.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set5" class="set-anchor"></div>
 
