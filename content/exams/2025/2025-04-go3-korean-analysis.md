@@ -1496,9 +1496,9 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
   <ul class="q-opts">
     <li id="qA43-1">① 예상되는 반론을 제시하고, 이를 전문가의 견해를 들어 반박하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
     <li id="qA43-2">② 상황에 대한 상반된 입장을 소개하고, 이를 절충한 견해를 드러내고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
-    <li id="qA43-3">③ 문제 상황을 밝히고, 이에 대한 원인과 해결 방안을 구체적으로 제시하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
+    <li id="qA43-3">③ 통념이 지닌 모순을 지적하고, 이를 통해 논의의 필요성을 서술하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
     <li id="qA43-4">④ 기존 대책의 한계를 서술하고, 새롭게 도출된 대책들의 실효성을 비교하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
-    <li id="qA43-5">⑤ 통념이 지닌 모순을 지적하고, 이를 통해 논의의 필요성을 서술하고 있다.<a class="src-tag" href="#evA35-3a">지문 근거</a></li>
+    <li id="qA43-5">⑤ 문제 상황을 밝히고, 이에 대한 원인과 해결 방안을 구체적으로 제시하고 있다.<a class="src-tag ans" href="#evA35-3a">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
