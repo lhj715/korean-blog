@@ -790,7 +790,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q19-2">② 데카르트는 교육이 전통·습관대로 이루어져야 한다고, 하이데거는 이성적 능력을 도야해야 한다고 보았다.<a class="src-tag" href="#ev22">지문 근거</a></li>
     <li id="q19-3">③ 데카르트는 이성에 의한 판단이 가능하도록, 하이데거는 전통적 교육으로 회귀해야 한다고 보았다.<a class="src-tag" href="#ev24">지문 근거</a></li>
     <li id="q19-4">④ 데카르트는 의심 가능한 모든 것을 의심해야 한다고, 하이데거는 이해가 실천적 차원에 머물지 않아야 한다고 보았다.<a class="src-tag" href="#ev29">지문 근거</a></li>
-    <li id="q19-5">⑤ 데카르트는 교육의 목적이 자기 성찰에 있다고, 하이데거는 학습자가 세계와 분리되지 않은 채 사유하는 것이 중요하다고 보았다.<a class="src-tag" href="#ev24">근거 A</a><a class="src-tag" href="#ev29" id="q19-5b">근거 B</a><a class="src-tag ans" href="#ev19">정답 근거</a></li>
+    <li id="q19-5">⑤ 데카르트는 교육의 목적이 자기 성찰에 있다고, 하이데거는 학습자가 세계와 분리되지 않은 채 사유하는 것이 중요하다고 보았다.<a class="src-tag ans" href="#ev24">근거 A</a><a class="src-tag ans" href="#ev29" id="q19-5b">근거 B</a><a class="src-tag ans" href="#ev19">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -977,7 +977,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob24">
   <p class="q-stem">24. 경계 조건에 대해 이해한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q24-1">① 하단 경계에서는 상단 경계에서와 마찬가지로 대기의 연직 운동이 없다고 가정한다.<a class="src-tag" href="#ev32">근거(하단)</a><a class="src-tag" href="#ev33" id="q24-1b">근거(상단)</a><a class="src-tag ans" href="#ev24">정답 근거</a></li>
+    <li id="q24-1">① 하단 경계에서는 상단 경계에서와 마찬가지로 대기의 연직 운동이 없다고 가정한다.<a class="src-tag ans" href="#ev32">근거(하단)</a><a class="src-tag ans" href="#ev33" id="q24-1b">근거(상단)</a><a class="src-tag ans" href="#ev24">정답 근거</a></li>
     <li id="q24-2">② 하단 경계에서는 측면 경계와 달리 영역 외부의 변수 값을 내부에 반영한다.<a class="src-tag" href="#ev32">지문 근거</a></li>
     <li id="q24-3">③ 상단·측면 경계에서는 하단 경계와 달리 경계의 에너지 교환을 조건에 반영한다.<a class="src-tag" href="#ev33">지문 근거</a></li>
     <li id="q24-4">④ 상단 경계에서는 하단 경계와 마찬가지로 변수 값이 왜곡돼 에너지가 비현실적으로 증가한다고 가정한다.<a class="src-tag" href="#ev30">지문 근거</a></li>
@@ -1666,7 +1666,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q40-1">① ㉠은 화자의 근심을 해소하는 대상, ㉡은 글쓴이의 근심을 심화하는 대상이다.<a class="src-tag" href="#ev47">지문 근거</a></li>
     <li id="q40-2">② ㉠은 화자가 의구심을 느끼는 대상, ㉡은 글쓴이가 존경심을 느끼는 대상이다.<a class="src-tag" href="#ev48">지문 근거</a></li>
     <li id="q40-3">③ ㉠은 화자가 이질감을 느끼는 대상, ㉡은 글쓴이가 동질감을 느끼는 대상이다.<a class="src-tag" href="#ev46">지문 근거</a></li>
-    <li id="q40-4">④ ㉠은 화자가 유한성을 지녔다고 보는 대상, ㉡은 글쓴이가 불변성을 지녔다고 보는 대상이다.<a class="src-tag" href="#ev47">㉠ 근거</a><a class="src-tag" href="#ev48">㉡ 근거</a><a class="src-tag ans" href="#ev40">정답 근거</a></li>
+    <li id="q40-4">④ ㉠은 화자가 유한성을 지녔다고 보는 대상, ㉡은 글쓴이가 불변성을 지녔다고 보는 대상이다.<a class="src-tag ans" href="#ev47">㉠ 근거</a><a class="src-tag ans" href="#ev48">㉡ 근거</a><a class="src-tag ans" href="#ev40">정답 근거</a></li>
     <li id="q40-5">⑤ ㉠은 화자가 지향하는 가치, ㉡은 글쓴이가 지양하는 가치를 지녔다고 보는 대상이다.<a class="src-tag" href="#ev50">지문 근거</a></li>
   </ul>
   <details class="solution">

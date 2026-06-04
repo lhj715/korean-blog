@@ -249,7 +249,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q6-1">① [A]에서 학생2는 견해 차이를 확인한 후 상대의 발화 내용을 수용한다.</li>
     <li id="q6-2">② [A]에서 학생2는 학생3이 제안한 방안에 객관적 자료를 추가로 요청한다.</li>
     <li id="q6-3">③ [B]에서 학생3은 상대 의견의 한계를 지적한 후 절충안을 제시한다.</li>
-    <li id="q6-4">④ [A]의 학생2와 [B]의 학생3은 모두, 상대 제안을 받아들일 때의 기대 효과를 제시한다.<a class="src-tag" href="#ev6">[A] 근거</a><a class="src-tag" href="#ev7" id="q6-4b">[B] 근거</a><a class="src-tag ans" href="#ev6">정답 근거</a></li>
+    <li id="q6-4">④ [A]의 학생2와 [B]의 학생3은 모두, 상대 제안을 받아들일 때의 기대 효과를 제시한다.<a class="src-tag ans" href="#ev6">[A] 근거</a><a class="src-tag ans" href="#ev7" id="q6-4b">[B] 근거</a><a class="src-tag ans" href="#ev6">정답 근거</a></li>
     <li id="q6-5">⑤ [A]의 학생3과 [B]의 학생2는 모두, 질문 방식으로 정보의 정확성에 의문을 제기한다.</li>
   </ul>
   <details class="solution">
@@ -1600,7 +1600,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q40-1">① [A]·[B] 모두 ‘백탑’을 찾아가는 과정을 시간 흐름에 따라 보여 준다.</li>
     <li id="q40-2">② [A]·[B] 모두 계절적 배경 소재(눈·얼음)로 관찰한 자연을 제시한다.</li>
     <li id="q40-3">③ [B]는 [A]와 달리 청각 어휘(‘콸콸’)로 물소리를 생동감 있게 표현한다.</li>
-    <li id="q40-4">④ [A]는 일행에게 특정 행위를 지시한 이유를, [B]는 일행이 동참을 원하지 않는 이유를 밝힌다.<a class="src-tag" href="#segA">[A] 보기</a><a class="src-tag ans" href="#ev-q40-4">정답 근거</a></li>
+    <li id="q40-4">④ [A]는 일행에게 특정 행위를 지시한 이유를, [B]는 일행이 동참을 원하지 않는 이유를 밝힌다.<a class="src-tag ans" href="#segA">[A] 보기</a><a class="src-tag ans" href="#ev-q40-4">정답 근거</a></li>
     <li id="q40-5">⑤ [A]는 비유 나열로 ‘백탑’을 보고 싶은 간절함을, [B]는 섬세한 작업에 비유해 길의 위험함을 드러낸다.</li>
   </ul>
   <details class="solution">
