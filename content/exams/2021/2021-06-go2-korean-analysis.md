@@ -108,7 +108,7 @@ layout: "exam"
   </details>
 </div>
 
-## 4~7번 화법·작문 · (가)는 독서반 학생들과 작가의 대화이고, (나)는 이를 바탕으
+## 4~7번 화법·작문 · 멸종 위기종 보호와 인간·자연 공존
 
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가)는 독서반 학생들과 작가의 대화이고, (나)는 이를 바탕으로 쓴 건의문 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
@@ -702,7 +702,7 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
   </details>
 </div>
 
-## 21~25번 현대시 · 분쟁이 예견되거나 진행 중인 상황에서 후일 상대방이 사
+## 21~25번 독서(사회) · 내용증명 우편 제도의 활용
 
 <div class="passage">
   <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
