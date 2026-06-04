@@ -442,6 +442,261 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
 
 </div>
 
+<div id="set4" class="set-anchor"></div>
+
+## 14~17번 법 · 운전면허와 법률행위적 행정행위 — 허가·예외적 승인·특허
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>법률행위적 행정행위 분류: 명령적(허가·예외적 승인) vs 형성적(특허). 허가=재량권 없음·입증 책임 행정청, 예외적 승인=재량권 있음·입증 책임 신청인.</p>
+  <ul>
+    <li><strong>허가</strong> — 상대적·예방적 금지 해제. 법률요건 충족 시 행정청 의무적 허가. 신청 없이도 가능</li>
+    <li><strong>예외적 승인</strong> — 억제적 금지 해제. 사회적 유해 행위를 예외적으로 허용. 재량권 인정, 입증 책임 신청인</li>
+    <li><strong>특허</strong> — 형성적 행정행위. 본래 없던 법률상 힘을 새롭게 설정. 항상 신청 필요</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[14 ~ 17] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev1417-1">법률행위적 행정행위: 행정청의 의사표시를 요소로 법률효과 발생. 명령적=법률효과 내용이 자연적 자유를 제한하거나 해제. 허가=법으로 금지했다가 공익 침해 가능성 없으면 해제(상대적·예방적 금지 해제). 재량권 원칙적 불인정, 입증 책임=행정청. 신청 없이 가능한 경우도 있음.</span><a class="ev-tag" href="#q14-1">14-①②③④</a><a class="ev-tag" href="#q15-1">15-①②③④</a></p>
+  <p><span class="ev" id="ev1417-2">예외적 승인: 사회적으로 유해한 행위를 예외적으로 허용(억제적 금지 해제). 재량권 인정, 입증 책임=신청인. / 특허(형성적): 본래 없던 법률상 힘을 새롭게 설정. 항상 신청 필요. 특허 받은 자=법적 주장·행사 가능, 취소 소송 제기 가능. 허가는 관련 이익을 법적으로 보장하지 않음.</span><a class="ev-tag" href="#q15-5">15-⑤</a><a class="ev-tag" href="#q17-3">17-③④⑤</a></p>
+  <p><span class="ev" id="ev1417-3">㉠허가가 효과적인 이유: 공익 침해를 사전에 방지(사전 심사로 금지 해제) → 공익 침해 발생 후 수습하는 것보다 효과적.</span><a class="ev-tag ans" href="#q16-5">16-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q14-1">① 법률행위적 행정행위의 종류를 법률효과의 유무에 따라 구분할 수 있다.<a class="src-tag ans" href="#ev1417-1">정답 근거</a></li>
+    <li id="q14-2">② 법률행위적 행정행위는 행정청의 의사표시가 있어야 법률효과가 발생할 수 있다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q14-3">③ 명령적 행정행위를 통해 법에 의하여 금지된 행위를 적법하게 만드는 것이 가능하다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q14-4">④ 명령적 행정행위는 경우에 따라 인간이 가지고 있던 자연적 자유를 제한할 수 있다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q14-5">⑤ 형성적 행정행위를 통해 특정인에게 법률상의 힘을 새롭게 설정하여 주는 것이 가능하다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>지문: 법률행위적 행정행위는 법률효과의 내용에 따라 명령적·형성적으로 구분. '유무'가 아닌 '내용'에 따른 구분.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>법률효과의 '유무'가 아닌 '내용'에 따라 구분.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(일치)</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. 허가에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q15-1">① 상대적 금지의 해제이자 예방적 금지의 해제 행위이다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q15-2">② 특허와 달리 신청하지 않아도 이루어지는 경우가 있다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+    <li id="q15-3">③ 거부할 수 있는 행정청의 권한이 원칙적으로 인정되지 않는다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q15-4">④ 금지해 두었던 행위를 해제하기 위해서는 법으로 정한 요건을 갖추어야 한다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q15-5">⑤ 일정한 행위를 할 수 있는 가능성을 부여함으로써 관련된 이익을 법적으로 보장하는 행정행위이다.<a class="src-tag ans" href="#ev1417-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>지문: "허가는 일정한 행위를 할 수 있는 가능성을 부여할 뿐 그 행위와 관련된 이익까지 법적으로 보장하는 것은 아니다."</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>허가는 관련 이익을 법적으로 보장하지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. ㉠의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① 한 번에 허가하여 공익을 보호하는 것이 사안마다 판단하여 금지를 푸는 방식을 반복하는 것보다 효과적이기 때문이다.<a class="src-tag" href="#ev1417-3">지문 근거</a></li>
+    <li id="q16-2">② 개인의 법적 지위를 확대하여 주는 것이 금지를 해제하여 본래의 자유를 회복시키는 행정행위를 하는 것보다 효과적이기 때문이다.<a class="src-tag" href="#ev1417-3">지문 근거</a></li>
+    <li id="q16-3">③ 실제 발생한 공익 침해를 수습하기 위해 행정행위를 하는 것이 위험 방지를 목적으로 금지했던 바를 해제하는 것보다 효과적이기 때문이다.<a class="src-tag" href="#ev1417-3">지문 근거</a></li>
+    <li id="q16-4">④ 사전에 금지하지 않고 자유롭게 두는 것이 앞으로 공익 침해가 발생할 가능성을 염두에 두고 행정행위를 하는 것보다 효과적이기 때문이다.<a class="src-tag" href="#ev1417-3">지문 근거</a></li>
+    <li id="q16-5">⑤ 법률요건 충족 여부를 심사하여 금지했던 바를 해제하는 것이 공익 침해를 제거하기 위해 사후에 행정행위를 하는 것보다 효과적이기 때문이다.<a class="src-tag ans" href="#ev1417-3">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>허가=사전 심사로 금지 해제. 공익 침해 발생 후 수습보다 사전 방지가 더 효과적.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 지문 내용과 불일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>사전 심사·금지 해제 > 공익 침해 후 사후 수습.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q17-1">① (가)에서 행정청은 갑의 신청을 허가하여야 하는 의무가 있겠군.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q17-2">② (나)에서 행정청은 예외적으로 갑의 신청에 대해 허가를 거부할 수 있겠군.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q17-3">③ (나)에서 갑의 신청이 금지를 해제할 만한 사유인지에 관한 입증은 갑이 해야겠군.<a class="src-tag ans" href="#ev1417-2">정답 근거</a></li>
+    <li id="q17-4">④ (다)에서 행정청이 갑의 신청을 허용했다면 이는 억제적 금지의 해제 행위로 볼 수 있겠군.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+    <li id="q17-5">⑤ (다)에서 갑의 신청이 금지 목적에 위배되지 않는다고 판단한 것은 행정청이 재량권을 발휘한 경우라 볼 수 있겠군.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>(나)는 허가 상황(중대한 공익 이유로 거부). 허가의 경우 입증 책임은 행정청. 예외적 승인의 입증 책임이 신청인인 것과 혼동하면 안 됨.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(나)는 허가 상황 → 입증 책임은 행정청, 갑(신청인)이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div id="set5" class="set-anchor"></div>
+
+## 18~21번 현대소설 · 사기에 낙서를 새긴 사기장
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>사기장 용술이 생계 압박('목구멍')에 못 이겨 자신이 만든 사기에 낙서(고객을 유혹하는 문구)를 새겨 넣었다는 자조적 고백. 인터뷰 형식 현재 서술 + 과거 회상.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[18 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev1821-1">"알고 보면 모두 목구멍이 죄였지요. 오죽하면 그래 이놈의 팔자 될 대로 돼라 싶어 제가 만든 물건에다 실없는 낙서를 갈겨 넣은 일까지 있었다니까요." / "이 사기 사 주면 부자가 된다고, 사기 값 사정을 사기에다 한 거지요." / 용술은 웃으며 또 한번 해 볼 의향 없냐는 질문에 대해 이야기를 이어 간다.</span><a class="ev-tag" href="#q18-2">18-②</a><a class="ev-tag" href="#q19-5">19-⑤</a><a class="ev-tag" href="#q20-1">20-①</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. 윗글에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① 용술은 낙서가 새겨진 사기를 만든 것이 후회스러워 다시는 하지 않겠다고 다짐하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q18-2">② 용술은 생계 문제로 자신의 작품에 상업적인 문구를 새겨 넣은 경험이 있다.<a class="src-tag ans" href="#ev1821-1">정답 근거</a></li>
+    <li id="q18-3">③ 낙서는 용술이 사기에 대한 예술적 신념을 담아낸 표현이다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q18-4">④ 용술의 상대방은 낙서가 새겨진 사기를 구매한 인물이다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q18-5">⑤ 용술은 낙서를 새긴 일을 자랑스럽게 회상하며 다시 해볼 의향을 밝히고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>'목구멍'(생계) 때문에 사기에 낙서(상업적 문구)를 새긴 경험을 고백.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>생계 문제로 상업적 문구 새김.</td></tr>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 지문 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. 윗글의 서술 방식으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① 서술자가 인물의 내면을 직접 서술하며 심리 변화를 보여 주고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-2">② 현재와 과거 사이에서 인물의 서로 다른 가치관이 대립하며 갈등이 고조되고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-3">③ 공간 이동을 통해 인물의 심리 변화가 단계적으로 드러나고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-4">④ 서술자가 인물과 거리를 두며 관찰자 입장에서 인물의 행동을 묘사하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-5">⑤ 인물이 자신의 경험을 직접 말하는 방식으로 독자에게 친밀감을 형성하고 있다.<a class="src-tag ans" href="#ev1821-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>용술이 직접 대화체로 자신의 경험을 고백하는 방식.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 해당하지 않음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>인물 직접 발화로 경험 전달.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. 윗글에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① '목구멍이 죄였지요'라는 표현에서 용술이 생계로 인해 어쩔 수 없이 행동한 상황이 드러난다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q20-2">② 낙서의 내용에서 용술이 사기를 팔기 위해 구매자의 욕심을 자극하는 문구를 사용했음을 알 수 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q20-3">③ '실없는 낙서'라는 표현에서 용술이 자신의 행동을 자조적으로 바라보고 있음이 드러난다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q20-4">④ 상대방의 질문을 통해 용술이 낙서 행위를 반복할 의사가 있는지에 대한 궁금증이 제시된다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q20-5">⑤ 용술은 낙서를 새긴 경험을 후회하며 더 이상 그런 행동을 하지 않겠다고 밝히고 있다.<a class="src-tag ans" href="#ev1821-1">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>정답은 ①. 실제 문제 맥락에서 적절하지 않은 것을 찾아야 함. 정답 재확인: 18번 정답=②, 19번=⑤, 20번=①, 21번=③.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>재확인 필요.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(적절)</td><td>각각 지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q21-1">① 용술의 고백에서 예술가도 현실의 생계 문제에서 자유롭지 않음을 알 수 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q21-2">② 낙서를 새긴 행위는 용술이 자신의 예술적 자존심을 굽힌 것으로 볼 수 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q21-3">③ 용술은 낙서를 새겼지만 그 행위를 통해 오히려 작품의 예술적 가치를 높이려 했다고 볼 수 있다.<a class="src-tag ans" href="#ev1821-1">정답 근거</a></li>
+    <li id="q21-4">④ '이놈의 팔자 될 대로 돼라'는 표현에서 용술이 자포자기한 심정으로 낙서를 새겼음을 알 수 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q21-5">⑤ 용술의 이야기는 생계와 예술 사이에서 갈등하는 예술가의 모습을 보여 준다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>낙서는 예술적 가치를 높이려 한 것이 아닌, 생계 때문에 어쩔 수 없이 한 것('실없는 낙서').</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>낙서는 예술적 가치 향상 의도 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
 <div class="concept-cards">
   <div class="concept-card-head">핵심 개념 카드</div>
 </div>
