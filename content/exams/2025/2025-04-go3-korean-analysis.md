@@ -479,7 +479,140 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set4" class="set-anchor"></div>
 
-## 14~17번 사회 · [작성 예정]
+## 14~17번 사회(경제학) · 섀플리 값을 활용한 비용 분배
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>섀플리 값=경제주체별 한계기여도×가중치의 합. 기회 균등성(모든 경우 고려)과 기여 공정성(증가분에 비례)이 핵심.</p>
+  <ul>
+    <li><strong>한계기여도</strong> — 특정 주체가 연합 참여 시 총비용 증가분 = (참여 후 총비용) - (참여 전 총비용)</li>
+    <li><strong>가중치</strong> — 특정 순서로 연합 형성될 확률 (n개 주체: 1/n!)</li>
+    <li><strong>섀플리 값</strong> = Σ(한계기여도 × 가중치) / 모든 주체의 섀플리 값 합 = 연합 총비용</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 15번 ②: A,B,C 순서에서 C한계기여도(8억)<B한계기여도(16억)→'C>B'가 틀림, 17번 ④: ⓓ '갈 때'='이동할 때'이지 '회귀할'이 아님.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[14 ~ 17] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev14-1">연합형 게임은 경제주체들이 연합을 형성하여 협력한 결과를 공정하게 분배하는 방법을 모색하는 경제학 이론이다.</span><a class="ev-tag" href="#q14-1">14-①②③</a></p>
+  <p><span class="ev" id="ev14-4">섀플리 값은 연합의 경제주체들이 분담할 총비용을 각 경제주체가 연합에 기여한 정도에 따라 공정하게 분배할 수 있는 기준이다. 이 기준은 경제주체들이 연합을 형성할 수 있는 모든 경우의 수를 고려한다는 측면에서 기회 균등성을, 경제주체들이 연합에 참여함으로써 발생하는 총비용의 증가분에 비례하여 비용을 분담하게 한다는 측면에서 기여 공정성을 가진다.</span><a class="ev-tag" href="#q14-4">14-④</a><a class="ev-tag ans" href="#q16-3">16-③</a></p>
+  <p>섀플리 값을 구할 때는 먼저, 연합을 형성할 수 있는 모든 경우마다 연합에 참여하는 경제주체들의 한계기여도를 계산한다. <span class="ev" id="ev16-1">이때 한계기여도는 특정 경제주체가 연합에 참여하면서 연합에서 발생한 총비용의 증가분을 뜻하며, 이는 특정 경제주체가 참여하면서 발생한 연합의 총비용에서 특정 경제주체가 참여하기 전에 발생한 연합의 총비용을 빼서 구한다.</span><a class="ev-tag" href="#q15-2">15-②④⑤</a> 다음으로 이렇게 구한 경제주체들의 한계기여도에 가중치를 곱한 값을 경제주체별로 모두 더하면 경제주체들의 섀플리 값이 결정된다. <span class="ev" id="ev15-1">이때 가중치란 연합을 형성할 수 있는 모든 경우 중 특정 순서로 형성된 연합이 나타날 확률을 뜻한다.</span><a class="ev-tag" href="#q15-1">15-①</a></p>
+  <p><span class="ev ans" id="ev17-4">함께 여행을 간 갑과 을이 숙소에서 이동 수단을 불러 같은 경로에 있는 서로 다른 유적지로 가는데</span><a class="ev-tag ans" href="#q17-4">17-④</a></p>
+  <p><span class="ev" id="ev15-3">이렇게 경제주체들의 섀플리 값을 모두 더하면 경제주체들이 연합을 형성하여 발생하는 연합의 총비용과 같다.</span><a class="ev-tag" href="#q15-3">15-③</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 윗글을 통해 답을 찾을 수 <strong>없는</strong> 질문은?</p>
+  <ul class="q-opts">
+    <li id="q14-1">① 섀플리 값의 개념은 무엇인가?<a class="src-tag" href="#ev14-4">지문 근거</a></li>
+    <li id="q14-2">② 섀플리 값을 구하는 방법은 무엇인가?<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q14-3">③ 섀플리 값은 어떤 경우에 사용할 수 있는가?<a class="src-tag" href="#ev14-1">지문 근거</a></li>
+    <li id="q14-4">④ 섀플리 값에서 가중치란 무엇을 의미하는가?<a class="src-tag" href="#ev15-1">지문 근거</a></li>
+    <li id="q14-5">⑤ 섀플리 값으로 비용을 분담할 때 나타날 수 있는 문제는 무엇인가?<a class="src-tag ans" href="#ev14-4">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>지문에 섀플리 값의 문제점이나 한계에 대한 내용이 없다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문에서 찾을 수 있음.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>섀플리 값의 문제점=지문에 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. &lt;보기&gt;는 윗글을 이해하기 위한 학습지의 일부이다. 윗글을 바탕으로 &lt;보기&gt;에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>A: 1구간만(6억), B: 1+2구간(22억), C: 1+2+3구간(30억). A,B,C 모두 참여 연합, 섀플리 값으로 비용 분담.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q15-1">① 지자체 A, B, C가 모두 참여하여 형성된 각 연합들의 가중치는 모두 같겠군.<a class="src-tag" href="#ev15-1">지문 근거</a></li>
+    <li id="q15-2">② 지자체 A, B, C의 순서로 형성된 연합의 경우, 지자체 C의 한계기여도는 지자체 B의 한계기여도보다 크겠군.<a class="src-tag ans" href="#ev16-1">정답 근거</a></li>
+    <li id="q15-3">③ 지자체 A, B, C의 섀플리 값을 모두 더하면 세 지자체가 형성한 연합에서 발생하는 총비용과 같겠군.<a class="src-tag" href="#ev15-3">지문 근거</a></li>
+    <li id="q15-4">④ 지자체 B, A, C의 순서로 형성된 연합의 경우, 지자체 C가 참여하면서 연합의 총비용은 8억 원이 증가했겠군.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q15-5">⑤ 지자체 B, C, A의 순서로 형성된 연합의 경우, 비용을 분담하지 않는 지자체가 있겠군.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>A→B→C 순서: B한계기여도=22-6=16억, C한계기여도=30-22=8억. C(8억)<B(16억). ②는 C>B라고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 적절.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>A,B,C 순서: C한계(8억)<B한계(16억). C>B가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. 윗글을 참고할 때, ㉠의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① 섀플리 값은 경제주체들이 공동의 목적을 위한 연합을 형성할 때 참여하는 순서를 고려하지 않기 때문이다.<a class="src-tag" href="#ev14-4">지문 근거</a></li>
+    <li id="q16-2">② 섀플리 값은 경제주체가 연합에 참여하면서 발생하는 비용이 증가할수록 가중치를 크게 부여하기 때문이다.<a class="src-tag" href="#ev14-4">지문 근거</a></li>
+    <li id="q16-3">③ 섀플리 값은 경제주체가 연합에 기여하는 모든 경우를 고려하고, 연합에 참여하는 순서가 동일한 중요성을 가질 수 있게 하기 때문이다.<a class="src-tag ans" href="#ev14-4">정답 근거</a></li>
+    <li id="q16-4">④ 섀플리 값은 경제주체들이 참여하여 형성할 모든 연합을 고려하고, 연합에 참여함으로써 발생하는 비용의 증가분에 반비례하여 비용을 분담하게 하기 때문이다.<a class="src-tag" href="#ev14-4">지문 근거</a></li>
+    <li id="q16-5">⑤ 섀플리 값은 연합을 형성한 경제주체들이 비용을 분담할 수 있는 기회를 공정하게 제공하고, 연합을 형성하는 경제주체의 수가 늘어날수록 연합에서 발생한 총비용이 줄어들기 때문이다.<a class="src-tag" href="#ev14-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>기회 균등성(모든 경우 고려) + 기여 공정성(순서 동일 중요성). ③이 두 가지를 모두 담고 있다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>각각 틀린 이유.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>기회 균등성(모든 경우)+기여 공정성(순서 동일 중요성).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q17-1">① ⓐ: 의미(意味)하며<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q17-2">② ⓑ: 감(減)해서<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q17-3">③ ⓒ: 변동(變動)될<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q17-4">④ ⓓ: 회귀(回歸)할<a class="src-tag ans" href="#ev17-4">정답 근거</a></li>
+    <li id="q17-5">⑤ ⓔ: 동일(同一)하다<a class="src-tag" href="#ev15-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>ⓓ '숙소에서 유적지까지 갈 때' = '이동할 때/가다'의 의미. '회귀'는 돌아오다는 의미이므로 맞지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 적절한 유의어.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>ⓓ'갈 때'=이동할 때. '회귀'=돌아오다→맞지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set5" class="set-anchor"></div>
 
