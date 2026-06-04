@@ -14,12 +14,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전 문항 (1~45)</strong></div>
 </section>
-<nav class="set-nav">
-  <span class="set-nav-label">세트 바로가기</span>
-  <a href="#set1">1~3 화법</a><a href="#set2">4~7 화법·작문</a><a href="#set3">8~10 작문</a><a href="#set4">11~15 문법</a><a href="#set5">16~20 독서</a><a href="#set6">21~25 독서</a><a href="#set7">26~30 독서</a><a href="#set8">31~34 문학</a><a href="#set9">35~38 현대소설</a><a href="#set10">39~42 고전소설</a><a href="#set11">43~45 갈래복합</a>
-</nav>
 
-<div id="set1" class="set-anchor"></div>
 
 ## 1~3번 화법 · 발표 · 먹의 재료·종류·제조 과정
 
@@ -127,7 +122,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 대화 → 독서감상문
 
@@ -278,7 +272,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
 
 ## 8~10번 작문 · 초고 · 패스트 패션과 환경 오염
 
@@ -386,7 +379,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · ㅎ 음운 변동 · 단어 구조 · 안긴문장 · 높임 표현
 
@@ -561,7 +553,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set5" class="set-anchor"></div>
 
 ## 16~20번 독서(과학) · DNA·mRNA·바이러스·백신
 
@@ -732,7 +723,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
 
 ## 21~25번 독서(사회·법) · 주택 임대차 보호 제도
 
@@ -901,7 +891,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 독서(인문) · 출퇴근 관념의 형성과 변화
 
@@ -1070,7 +1059,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
 
 ## 31~34번 문학(갈래복합) · 박인로 「노계가」 · 이태준 「자연과 문헌」
 
@@ -1214,7 +1202,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
 
 ## 35~38번 현대소설 · 단역 배우 · 기계적 노동과 정체성
 
@@ -1353,7 +1340,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set10" class="set-anchor"></div>
 
 ## 39~42번 고전소설 · 「이생규장전」 · 이루어질 수 없는 사랑
 
@@ -1491,7 +1477,6 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 갈래복합 · 윤동주 「소년」 · (나) 현대시
 

@@ -14,12 +14,7 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전 문항 (1~45)</strong></div>
 </section>
-<nav class="set-nav">
-  <span class="set-nav-label">세트 바로가기</span>
-  <a href="#set1">1~3 화법</a><a href="#set2">4~7 화법·작문</a><a href="#set3">8~10 작문</a><a href="#set4">11~15 문법</a><a href="#set5">16~19 독서</a><a href="#set6">20~25 독서</a><a href="#set7">26~30 독서</a><a href="#set8">31~34 문학</a><a href="#set9">35~38 현대소설</a><a href="#set10">39~42 고전소설</a><a href="#set11">43~45 갈래복합</a>
-</nav>
 
-<div id="set1" class="set-anchor"></div>
 
 ## 1~3번 화법 · 발표 · 조선 시대 흑립
 
@@ -131,7 +126,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 교지 편집부 대화 → 기사
 
@@ -276,7 +270,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
 
 ## 8~10번 작문 · 학교 신문 초고 수정
 
@@ -391,7 +384,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 능동·피동 · 개별 문법 문항
 
@@ -573,7 +565,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set5" class="set-anchor"></div>
 
 ## 16~19번 독서 · 독서 세트
 
@@ -715,7 +706,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
 
 ## 20~25번 독서 · 독서 세트 (장문)
 
@@ -924,7 +914,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 독서 · 독서 세트
 
@@ -1096,7 +1085,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
 
 ## 31~34번 문학(갈래복합) · 갈래복합 문학
 
@@ -1238,7 +1226,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
 
 ## 35~38번 현대소설 · 현대소설
 
@@ -1380,7 +1367,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set10" class="set-anchor"></div>
 
 ## 39~42번 고전소설 · 고전소설
 
@@ -1530,7 +1516,6 @@ summary: "2023년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 갈래복합 · 현대시 갈래복합
 

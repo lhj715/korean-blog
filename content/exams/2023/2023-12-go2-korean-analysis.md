@@ -14,12 +14,7 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전 문항 (1~45)</strong></div>
 </section>
-<nav class="set-nav">
-  <span class="set-nav-label">세트 바로가기</span>
-  <a href="#set1">1~3 화법</a><a href="#set2">4~7 화법·작문</a><a href="#set3">8~10 작문</a><a href="#set4">11~15 문법</a><a href="#set5">16~21 독서</a><a href="#set6">22~25 독서</a><a href="#set7">26~30 독서</a><a href="#set8">31~33 문학</a><a href="#set9">34~37 현대소설</a><a href="#set10">38~41 갈래복합</a><a href="#set11">42~45 고전소설</a>
-</nav>
 
-<div id="set1" class="set-anchor"></div>
 
 ## 1~3번 화법 · 발표 · 조선 시대 역사 탐구
 
@@ -131,7 +126,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 대화 → 초고
 
@@ -275,7 +269,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
 
 ## 8~10번 작문 · 선사 유적 박물관 활성화 방안
 
@@ -393,7 +386,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 음절 구조 · 개별 문법 문항
 
@@ -575,7 +567,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 독서(인문·기술철학) · 기술철학 — 고전적 vs 현대적 관점
 
@@ -783,7 +774,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
 
 ## 22~25번 독서(사회·행정법) · 건축 허가와 확인 통지
 
@@ -925,7 +915,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 독서(과학) · 로켓 연소 불안정
 
@@ -1097,7 +1086,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
 
 ## 31~33번 문학(현대시) · 갈밭 시편 · 고독과 소통
 
@@ -1212,7 +1200,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
 
 ## 34~37번 현대소설 · 현대소설 · 직장 내 갈등
 
@@ -1354,7 +1341,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set10" class="set-anchor"></div>
 
 ## 38~41번 갈래복합 · 가사 · 순력 길 풍속 탐방
 
@@ -1508,7 +1494,6 @@ summary: "2023년 12월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set11" class="set-anchor"></div>
 
 ## 42~45번 고전소설 · 고전소설 · 유씨 집안 갈등
 

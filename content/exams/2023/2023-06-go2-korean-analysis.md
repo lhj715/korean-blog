@@ -14,12 +14,7 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전 문항 (1~45)</strong></div>
 </section>
-<nav class="set-nav">
-  <span class="set-nav-label">세트 바로가기</span>
-  <a href="#set1">1~3 화법</a><a href="#set2">4~7 화법·작문</a><a href="#set3">8~10 작문</a><a href="#set4">11~15 문법</a><a href="#set5">16~20 독서</a><a href="#set6">21~25 독서</a><a href="#set7">26~28 문학</a><a href="#set8">29~32 독서</a><a href="#set9">33~38 독서</a><a href="#set10">39~42 고전소설</a><a href="#set11">43~45 갈래복합</a>
-</nav>
 
-<div id="set1" class="set-anchor"></div>
 
 ## 1~3번 화법 · 강연 · 식물의 인지와 이동
 
@@ -127,7 +122,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 보도 + 회의 → 기사 작성
 
@@ -271,7 +265,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set3" class="set-anchor"></div>
 
 ## 8~10번 작문 · 초고 · 가치 소비 소개
 
@@ -381,7 +374,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 품사·문장 성분 · 개별 문법 문항
 
@@ -559,7 +551,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set5" class="set-anchor"></div>
 
 ## 16~20번 독서(문학/인문) · 고전시가 · 전쟁의 비극과 민중
 
@@ -741,7 +732,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set6" class="set-anchor"></div>
 
 ## 21~25번 독서(철학) · 소크라테스 이후 형이상학과 반형이상학
 
@@ -909,7 +899,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set7" class="set-anchor"></div>
 
 ## 26~28번 현대소설 · 마름집 · 계급 갈등과 복수
 
@@ -1019,7 +1008,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set8" class="set-anchor"></div>
 
 ## 29~32번 독서(과학) · DNA 분석과 과학수사
 
@@ -1158,7 +1146,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set9" class="set-anchor"></div>
 
 ## 33~38번 독서(사회·경제) · 완전경쟁시장과 불완전경쟁시장
 
@@ -1360,7 +1347,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set10" class="set-anchor"></div>
 
 ## 39~42번 고전소설 · 「소현성록」 · 충의와 가문
 
@@ -1501,7 +1487,6 @@ summary: "2023년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 갈래복합 · 현대시 (가)·(나) · 삶의 고단함과 공존
 
