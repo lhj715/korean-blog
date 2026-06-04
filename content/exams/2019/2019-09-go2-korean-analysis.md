@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "2019년 9월 고2 국어 기출 분석"
 category: "학력평가"
 date: 2019-09-04

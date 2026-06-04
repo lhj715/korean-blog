@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "2020년 9월 고2 국어 기출 분석"
 category: "학력평가"
 date: 2020-09-16
