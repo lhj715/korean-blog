@@ -913,7 +913,139 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="set7" class="set-anchor"></div>
 
-## 27~30번 고전소설 · [작성 예정]
+## 27~30번 고전소설 · 작자 미상, '김진옥전'
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>영웅소설 구조: 표류 → 부친 상봉 → 용궁 원조 요청 → 동곡 용왕 격파 → 보상. 동시에 본국에서는 진옥 모함으로 가족 위기 발생.</p>
+  <ul>
+    <li>㉠대성통곡(진옥) → 부친임을 알고 격한 반응</li>
+    <li>㉡대성통곡(노인) → 아들이라는 사실 확인 후 기절</li>
+    <li>㉢대희(용왕) → 진옥의 태도에 만족, 병력 지원</li>
+    <li>㉣대경실색(유 승상) → 진옥 실종 소식에 공포</li>
+    <li>㉤대로(동곡 용왕) → 진옥의 도발에 분노</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오. (작자 미상, 「김진옥전」)<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev2730-1">노인이 "내 자식의 이름은 김진옥이거니와 화초암에서 공부하다가 이별하였더니..." → 원수(진옥)가 부친인 줄 알고 ㉠대성통곡. 노인이 진옥이란 말을 듣고 ㉡대성통곡하고 기절. / 배를 타고 고국으로 향하더니 옥피리 소리와 청의 동자가 일엽편주로 와 수부 왕이 청한다고 알림.</span><a class="ev-tag" href="#q27-1">27-①②</a><a class="ev-tag" href="#q28-1">28-①</a></p>
+  <p><span class="ev" id="ev2730-2">용왕: "원수의 존명을 들은 지 오래더니..." / 동곡 대병이 지경 범함 → 용왕이 진옥에게 소멸 요청. 진옥: "저는 진세 사람이라 어찌 수부 용왕을 당하리오. 그러나 힘을 다하여 보겠나이다." → ㉢용왕 대희, 정병 팔만 조발. 원수가 일자 장사진으로 동곡 격파, ⓔ항서 받음. 용왕이 진옥과 부친에게 보상(동해군·서해군 봉함).</span><a class="ev-tag" href="#q27-3">27-③</a><a class="ev-tag" href="#q30-2">30-②</a><a class="ev-tag" href="#q30-4">30-④</a><a class="ev-tag" href="#q30-5">30-⑤</a></p>
+  <p><span class="ev" id="ev2730-3">중국 대병이 회환하다가 원수 탄 배가 표풍하여 간 곳 없음 → 황제에게 "대원수 김진옥을 중도에 잃어버렸다"고 보고. / 유 승상 ㉣대경실색, 가족과 주야 근심. / 우양 공주가 병부상서 정동한을 통해 황제에게 "김진옥의 아비가 오랑캐와 내응하다 월국으로 들어갔고 진옥이 월국으로 도망했다"고 모함 → 황제가 유 승상 삭탈관직, 진옥 처 유 씨 잡아 죽이려 함.</span><a class="ev-tag" href="#q27-4">27-④</a><a class="ev-tag" href="#q29-3">29-③</a><a class="ev-tag ans" href="#q29-3">29-③ 정답</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. ㉠〜㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① ㉠: '노인'과 함께 전란을 극복했던 과거를 떠올린 '진옥'의 반응이며, '진옥'이 서러움을 토로하는 모습으로 이어지는군.<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
+    <li id="q27-2">② ㉡: 자신이 알지 못했던 의외의 사실을 확인한 '노인'의 반응이며, '노인'이 격한 감정을 못 이기는 모습으로 이어지는군.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q27-3">③ ㉢: '진옥'의 태도에 만족한 '용왕'의 반응이며, '용왕'이 '진옥'에게 목표 달성을 위한 수단을 제공하는 행위로 이어지는군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q27-4">④ ㉣: '진옥'의 실종 소식에 대한 '유 승상'의 반응이며, 가족들과 '유 승상'이 '진옥'의 생환을 비는 모습으로 이어지는군.<a class="src-tag" href="#ev2730-3">지문 근거</a></li>
+    <li id="q27-5">⑤ ㉤: 싸움을 걸며 조화를 부리는 '진옥'에 대한 '동곡 용왕'의 반응이며, '동곡 용왕'이 '진옥'을 제압하려는 행위로 이어지는군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>㉠은 부친을 처음 만난 감격에 대성통곡한 것이지, 전란을 함께 극복한 과거를 떠올린 것이 아님. 또한 서러움 토로가 아닌 전후사를 설화하는 것으로 이어짐.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>전란 극복 과거 회상이 아닌, 부친임을 알고 대성통곡. 서러움 토로보다 전후사 설화로 이어짐.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(적절)</td><td>지문 내용과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ⓐ〜ⓔ에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① ⓐ는 환상적 분위기를 조성하여, 새롭게 등장하는 존재에 대한 인물의 주의를 환기하는 소재이다.<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
+    <li id="q28-2">② ⓑ는 인물들이 계획했던 항해가 무사히 지속될 수 있도록 안내하여, 당초 목적한 곳에 이를 수 있도록 하는 소재이다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q28-3">③ ⓒ는 주변 풍광을 보여 주는 앞선 장면과 대비되어, 인물이 당면한 처지에 안절부절못함을 상징적으로 나타내는 소재이다.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q28-4">④ ⓓ는 인물이 지닌 비범함을 돋보이게 하여, 직면한 공격에 상대가 미처 대응하지 못하게 도움을 주는 소재이다.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q28-5">⑤ ⓔ는 갈등의 양상을 감추어, 건네받는 인물이 상대의 진의를 파악할 수 없도록 기능하는 소재이다.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>ⓐ(옥피리 소리): 청의 동자가 등장하기 전 환상적 분위기를 조성하여 새로운 존재의 등장에 주의를 환기.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>옥피리 소리 → 청의 동자 등장 전 환상 분위기 조성.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ⓑ(일엽편주)는 고국 항해를 안내한 게 아니라 용궁으로 데려감.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ⓒ(백옥상)은 안절부절 상징 아닌 환대 분위기.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓓ(청전검)은 동곡 용왕이 진옥에게 달려들 때 든 무기(상대방의 것).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ⓔ(항서)는 항복 의사 표현이므로 진의가 명확.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 다음은 학생이 윗글을 읽고 작성한 감상문의 일부이다. ㉮〜㉲ 중 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① ㉮<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q29-2">② ㉯<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q29-3">③ ㉰<a class="src-tag ans" href="#ev2730-3">정답 근거</a></li>
+    <li id="q29-4">④ ㉱<a class="src-tag" href="#ev2730-3">지문 근거</a></li>
+    <li id="q29-5">⑤ ㉲<a class="src-tag" href="#ev2730-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>㉰: "황제는 진옥이 귀환하지 못했다는 상황이 그러할 듯하다고 이해했지만" → 황제가 그러할 듯하다고 이해한 것은 공주의 모함(진옥이 월국으로 도망)임. 표류 사실이 아니라 모함을 받아들인 것.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>황제가 '그러할 듯하다'고 이해한 것은 표류가 아닌 공주의 모함 내용.</td></tr>
+          <tr><td>①②④⑤</td><td>오답(적절)</td><td>각각 지문 내용과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q30-1">① 진옥이 '청의'를 입은 '동자'와 이야기하는 장면에서 '용궁과 인세가 길이 다르'다고 하는 것을 보면, 진옥이 초월적 세계와의 간극을 인식하고 있음을 알 수 있군.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q30-2">② 용왕이 '공을 이루라'고 한 장면에서 '적병'의 처치를 진옥에게 요청한 것을 보면, 진옥으로 하여금 인간 세계와 초월적 세계 사이에서 생긴 문제를 대신 해결하게 하려 함을 알 수 있군.<a class="src-tag ans" href="#ev2730-2">정답 근거</a></li>
+    <li id="q30-3">③ 진옥이 '지경'을 침입한 적과 '대진'하는 장면에서 '남해 용궁'에서도 '중국'처럼 전란이 생기는 것을 보면, 초월적 세계에도 인간 세계에나 있을 법한 갈등이 나타남을 확인할 수 있군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q30-4">④ 진옥이 '진법'을 펼치는 장면에서 용궁의 '제장'이 '명장'이라고 '칭찬'하는 것을 보면, 진옥이 초월적 세계의 존재에게 뛰어난 능력을 인정받고 있음을 확인할 수 있군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q30-5">⑤ 용왕이 진옥을 '치사'하는 장면에서 진옥을 '동해군'으로 '봉하'며 '표창'하는 것을 보면, 진옥이 약속된 보상을 받아 영웅으로서의 자격을 증명하고 있음을 알 수 있군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>보기에서 "초월적 세계의 문제를 대신 해결한다"고 했으나, 동곡 용왕의 침략은 수부(초월적 세계) 내의 갈등이지 인간 세계와 초월적 세계 사이의 문제가 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>동곡 용왕 침략은 초월적 세계 내부 갈등. 인간-초월적 세계 사이 문제가 아님.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 보기 설명과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set8" class="set-anchor"></div>
 
