@@ -1781,11 +1781,3 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-  <div class="concept-grid">
-    <div class="concept-card"><strong>호화</strong><span>생쌀+물 가열 → 수분 침투, 부드러워짐(갓 지은 밥).</span></div>
-    <div class="concept-card"><strong>노화</strong><span>식으며 수분 빠짐 → 딱딱. 0~60도·수분 30~60%에서 잘 일어남.</span></div>
-    <div class="concept-card"><strong>찬밥+라면</strong><span>노화 전분이 국물 흡수→재호화. 갓 지은 밥은 삼투압으로 싱거워짐.</span></div>
-  </div>
-</div>
-
-</div>

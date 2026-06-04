@@ -1531,14 +1531,3 @@ draft: false
     </div>
   </details>
 </div>
-  <div class="concept-grid">
-    <div class="concept-card"><strong>연결 어미 '-고'</strong><span>보조적·나열(㉠)·순차(㉡)·지속(㉢) 세 가지를 [±완결성][±지속성]으로 구분.</span></div>
-    <div class="concept-card"><strong>투명·불투명 매체</strong><span>실러=투명(질료 감추기), 그린버그=불투명(질료 드러내기).</span></div>
-    <div class="concept-card"><strong>기술적 지지체</strong><span>물질적+비물질적 지지체의 복합 구조, 규칙 겹침으로 미적 효과.</span></div>
-    <div class="concept-card"><strong>지상권 vs 지역권</strong><span>지상권=배타적 점유, 지역권=비배타적. 둘 다 등기 필요.</span></div>
-  </div>
-</div>
-
-</div>
-
-</div>

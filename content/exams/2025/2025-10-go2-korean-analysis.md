@@ -1907,14 +1907,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
       </div>
     </div>
   </details>
-</div>
-  <div class="concept-grid">
-    <div class="concept-card"><strong>세 가지 번식 전략</strong><span>아귀=융합 / 해마=수컷 육아낭 임신 / 용치놀래기=성별 변환.</span></div>
-    <div class="concept-card"><strong>자문자답 방식</strong><span>질문을 던지고 스스로 답해 내용을 전달.</span></div>
-    <div class="concept-card"><strong>자료 정확성</strong><span>‘크기’ vs ‘성별’처럼 핵심 단어 바꿔치기를 본다.</span></div>
-    <div class="concept-card"><strong>청중 반응 분류</strong><span>탐색·아쉬움·긍정 평가·배경지식·신뢰 의문을 구분.</span></div>
-  </div>
-</div>
+</div></div>
 
 <div class="self-check">
   <div class="self-check-head">스스로 점검</div>

@@ -1684,12 +1684,3 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
-  <div class="concept-grid">
-    <div class="concept-card"><strong>산패</strong><span>지방질이 공기에 노출돼 변질 → 곰팡이 독(아플라톡신), 열에 강함.</span></div>
-    <div class="concept-card"><strong>의미 외재주의</strong><span>의미는 인식이 아니라 외부 세계 지시체의 ‘실제적 본성’이 결정.</span></div>
-    <div class="concept-card"><strong>스퀴즈 필름</strong><span>진폭↑→스퀴즈 힘↑→마찰 계수↓→부드러운 촉감.</span></div>
-    <div class="concept-card"><strong>적강 화소</strong><span>천상 인물이 죄로 지상에 귀양 → 운명적 사랑·이별.</span></div>
-  </div>
-</div>
-
-</div>
