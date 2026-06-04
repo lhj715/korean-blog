@@ -934,7 +934,146 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set7" class="set-anchor"></div>
 
-## 27~30번 고전소설 · [작성 예정]
+## 27~30번 고전소설 · 작자 미상 「소대성전」 — 혼인담과 절행
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>호걸형 주인공 소대성과 채봉의 혼인 갈등. 승상=소대성 지지, 왕 부인=반대, 채봉=절행 주장.</p>
+  <ul>
+    <li><strong>1부</strong> — 승상이 소대성을 사윗감으로 데려옴. 왕 부인=선비형 아님이라 탐탁지 않음. 채봉=처음엔 거부했다가 소생 보고 인중호걸임을 인정</li>
+    <li><strong>2부</strong> — 소대성이 떠난 후, 채봉이 소생의 행방을 물음(군자라 부름). 왕 부인=외간 남자(㉠). 채봉의 절행 주장(중헌의 예=혼례, 초나라 공주 고사 인용)</li>
+    <li><strong>㉠vs㉡</strong> — 왕 부인=소생을 외간 남자로 봄 / 채봉=군자로 부름 → 같은 인물을 상반된 입장</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 27번 ④ 승상의 아들들은 채봉의 '평소 행동'을 문제 삼지 않음, 28번 ①같은 소생에 대한 상반된 입장, 29번 ① '결심을 되새겨 왔음' 지문에 없음, 30번 ④ 왕 부인의 태도 변화=소생 싫어서(보편적 가치 따르려는 것 아님).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p>승상은 소대성에게 따라오라 하며 곧바로 내당 쪽으로 들어갔다. <span class="ev" id="ev27-1">소생이 마지못해 승상을 따라가다가 중헌에 막 들어섰다. 이때 왕 부인이 중헌에서 배회하다가 문득 승상이 어떤 소년을 데리고 난간에 오르는 것을 보고는 몸을 피하여 내당으로 들어갔다.</span><a class="ev-tag" href="#q27-1">27-①</a></p>
+  <p>왕 부인이 마지못해 나와 소생을 맞이하니, … 얼굴이 웅장하고 풍채와 태도는 화려하지만, 선비의 모양새는 전혀 없었다. <span class="ev" id="ev30-1">이에 왕 부인이 속으로 … '채봉이 섬약하나, 저 같은 아름다운 재주의 뛰어난 선비와 짝을 맺어 … 한데 소생은 나의 이런 뜻과는 부합하지 않으니 탄식하지 않을 수 없구나.'</span><a class="ev-tag" href="#q30-1">30-①</a></p>
+  <p><span class="ev" id="ev27-2">채봉이 … "아버님께서는 평소에는 망령됨이 없으시더니, 오늘은 어찌 이러신단 말이냐? 소생은 남이니, 내가 이전에 아버지의 말씀을 어긴 적이 없었으나 오늘은 결단코 명을 받들지 못하겠다." 하여 채봉은 병이 있다고 거짓으로 둘러대고 중헌에 나오지 않았다.</span><a class="ev-tag" href="#q27-2">27-②</a></p>
+  <p><span class="ev" id="ev27-3">소생은 마음이 편하지 않아 나가려고 하자, 승상이 말했다. "딸아이를 이곳에 오라 한 것은 자네 때문인데, 어찌 나가려 하는가?"</span><a class="ev-tag" href="#q27-3">27-③</a></p>
+  <p>소생이 눈을 들어 채봉을 잠깐 보았다. … 채봉 역시 눈을 들어 소생을 잠깐 보았다. … <span class="ev" id="ev30-3">아닌 게 아니라 인중호걸이라 생각하며, 부친의 명감에 탄복했다.</span><a class="ev-tag" href="#q30-3">30-③⑤</a></p>
+  <p>이튿날 채봉은 왕 부인에게 문안 인사를 올리고 소생의 일을 물었다. … "소녀 듣자오니 군자께서 서당을 떠났다 하온데 …"</p>
+  <p><span class="ev ans" id="ev28-1">"너는 규중처자의 몸인데, ㉠외간 남자의 유무를 알아서 무엇 하겠느냐?" 채봉이 … "소녀가 ㉡군자의 거처를 묻는 것이 여자의 행실로서는 옳지 못하다 하시는데, 어머님께서 지난날에 중헌에서 무엇을 지켜보셨습니까? 여자가 곧은 절개를 지키는 것은 떳떳한 일이온지라, 어머님께 군자의 거처를 묻고자 왔습니다."</span><a class="ev-tag ans" href="#q28-1">28-①</a></p>
+  <p id="p-A27">[A]<span class="ev" id="ev29-2">채봉이 … "어머님! 분명히 중헌에서 두 사람이 예를 이루고 시문을 서로 주고받았습니다. 이는 이미 삼종지의를 이룬 것이옵니다. 그때 어머님께서는 증인이 되신 일이거늘, 이제 와서 소녀의 절개를 지키는 행실이 옳지 않다 하시고 가문에 욕된다고 하십니다.</span><a class="ev-tag ans" href="#q29-2">29-②</a><a class="ev-tag" href="#q29-5">29-⑤</a></p>
+  <p><span class="ev" id="ev29-4">옛날 초나라 왕이 다섯 살 된 공주에게 … 초왕은 자신이 내린 명령을 자책하고는 백성들 중에서 부마를 간택했습니다. 지금까지 오랜 세월 동안 어느 누구도 그 절행이 욕되다고 한 이가 없습니다.</span><a class="ev-tag" href="#q29-3">29-③</a><a class="ev-tag" href="#q29-4">29-④</a></p>
+  <p>승상의 아들들이 … <span class="ev ans" id="ev27-4">"누이가 평소엔 총명하더니, 오늘은 어찌 이리도 고집을 부려 어머님의 마음을 불편하게 하는 것이냐? 옛사람의 고집은 본받을 만한 것이 아닌 게야."</span><a class="ev-tag ans" href="#q27-4">27-④</a></p>
+  <p>채봉이 눈물을 닦고서 말했다. "오라버니의 말씀은 어머님을 위한 것이지, 군자로서의 정직하신 말씀은 아니로소이다. …"</p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 왕 부인은 승상과 소생이 들어오는 모습을 보고 내당으로 들어갔다.<a class="src-tag" href="#ev27-1">지문 근거</a></li>
+    <li id="q27-2">② 채봉은 내키지 않는 일을 피하고자 아프다는 핑계를 댔다.<a class="src-tag" href="#ev27-2">지문 근거</a></li>
+    <li id="q27-3">③ 소생이 불편함을 느껴 중헌에서 나가려고 하자 승상이 이를 만류했다.<a class="src-tag" href="#ev27-3">지문 근거</a></li>
+    <li id="q27-4">④ 승상의 아들들은 채봉의 평소 행동을 문제 삼아 채봉의 변심을 종용했다.<a class="src-tag ans" href="#ev27-4">정답 근거</a></li>
+    <li id="q27-5">⑤ 채봉은 승상의 아들들에게 들은 말이 군자의 도리에 어긋난다고 생각했다.<a class="src-tag" href="#ev27-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>승상의 아들들은 "평소엔 총명하더니 오늘은 고집을 부려 어머님의 마음을 불편하게 한다"고 했다. '평소 행동'을 문제 삼은 게 아니라, 현재의 고집을 꺾으라고 한 것이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>평소 행동 문제 삼은 게 아니라 현재 고집을 꺾으라 함.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ㉠과 ㉡에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① ㉠과 ㉡을 통해 같은 상황을 바라보는 인물들의 상반된 입장을 확인할 수 있다.<a class="src-tag ans" href="#ev28-1">정답 근거</a></li>
+    <li id="q28-2">② ㉠과 ㉡을 통해 서로 다른 두 사건이 연속적으로 전개되고 있음을 확인할 수 있다.<a class="src-tag" href="#ev28-1">지문 근거</a></li>
+    <li id="q28-3">③ ㉠과 ㉡을 통해 갈등 해소의 실마리가 될 수 있는 인물 간의 공통된 견해를 확인할 수 있다.<a class="src-tag" href="#ev28-1">지문 근거</a></li>
+    <li id="q28-4">④ ㉠과 ㉡을 통해 동일한 인물이 겪은 서로 다른 두 사건이 인과적으로 연결되어 있음을 확인할 수 있다.<a class="src-tag" href="#ev28-1">지문 근거</a></li>
+    <li id="q28-5">⑤ ㉠과 ㉡을 통해 서로 다른 원인으로 촉발된 각각의 사건이 동일한 결과로 귀결되었음을 확인할 수 있다.<a class="src-tag" href="#ev28-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>㉠(왕 부인): 소생=외간 남자. ㉡(채봉): 소생=군자. 같은 소생에 대해 상반된 인식을 보여 준다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>같은 인물(소생)에 대한 상반된 입장.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. [A]에 나타난 '채봉'의 말하기 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① 과거에 했던 자신의 결심을 끊임없이 되새겨 왔음을 밝히며 태도를 바꾸지 않을 것임을 부각하고 있다.<a class="src-tag ans" href="#ev29-2">정답 근거</a></li>
+    <li id="q29-2">② 상대방의 발언이 그의 과거 행동에 부합하지 않음을 근거로 들어 발언의 부당함을 지적하고 있다.<a class="src-tag" href="#ev29-2">지문 근거</a></li>
+    <li id="q29-3">③ 특정 가치에 대한 사람들의 인정이 오랫동안 지속되어 왔음을 강조하고 있다.<a class="src-tag" href="#ev29-4">지문 근거</a></li>
+    <li id="q29-4">④ 자신의 주장이 타당함을 뒷받침하는 고사를 인용하고 있다.<a class="src-tag" href="#ev29-4">지문 근거</a></li>
+    <li id="q29-5">⑤ 상대방과 공유하는 경험이 명백한 사실임을 환기하고 있다.<a class="src-tag" href="#ev29-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>채봉이 '자신이 과거에 결심했음을 되새겨 왔다'는 말이 지문에 없다. 채봉은 중헌에서의 예가 이미 혼례라고 주장하고, 어머니가 증인이었음을 환기하며 절행의 정당성을 주장한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'결심을 되새겨 왔음' = 지문에 없는 내용.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 [A]에 있는 말하기 방식.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. &lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>「소대성전」은 우월한 신체와 호방한 기질을 지닌 호걸형 인물을 주인공으로 설정한 대중 소설. 등장인물들은 가부장적 질서나 부자 간 천륜을 내세우거나 선비형 선호를 드러내는 등 보편적 가치를 따르면서도 이에 얽매이지 않는 모습을 보인다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q30-1">① 승상이 '천륜지간'을 내세워 채봉을 나무라는 것과 왕 부인이 '아름다운 재주의 뛰어난 선비'를 사위로 들이길 바라는 것에서, 당대의 보편적 가치를 따르는 인물의 모습이 드러나는군.<a class="src-tag" href="#ev30-1">지문 근거</a></li>
+    <li id="q30-2">② 소생의 '얼굴이 웅장'하고 '풍채와 태도'가 화려하여 '백호의 기상'을 지닌 인물로 묘사된 것에서, 주인공이 지닌 호걸형 인물로서의 면모가 드러나는군.<a class="src-tag" href="#ev30-3">지문 근거</a></li>
+    <li id="q30-3">③ 승상이 독단으로 '선비의 모양새'가 없는 소생을 사윗감으로 정한 것에서, 승상이 가부장의 면모를 보이면서도 선비형 인물에 대한 보편적 가치에는 얽매이지 않았음이 드러나는군.<a class="src-tag" href="#ev30-1">지문 근거</a></li>
+    <li id="q30-4">④ 왕 부인이 '묵묵히 앉아' 승상의 뜻에 따르다가 승상 사후에 태도가 변한 것에서, 보편적 가치를 따르기 위해 소생에 대한 평가를 바꾸는 인물의 모습이 드러나는군.<a class="src-tag ans" href="#ev30-1">정답 근거</a></li>
+    <li id="q30-5">⑤ 채봉이 승상의 '망령됨'을 탓하다가 직접 소생을 본 후에야 승상의 '명감'에 탄복하게 된 것에서, 가부장의 판단에 동의하게 된 것이 주체적 판단의 결과임이 드러나는군.<a class="src-tag" href="#ev30-3">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>왕 부인이 태도를 바꾼 것은 소생을 선비형이 아니어서 싫어했기 때문이지, '보편적 가치를 따르기 위해'가 아니다. 오히려 보편적 가치(천륜)를 어기면서 소생을 해치려 했다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>왕 부인 태도 변화=소생 싫어서. 보편적 가치 따르기 위해서가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set8" class="set-anchor"></div>
 
