@@ -917,6 +917,435 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div id="set8" class="set-anchor"></div>
 
-<!--SETS_31_45_PLACEHOLDER-->
+## 31~34번 갈래 복합 · 박인로 「노계가」 · 이태준 「자연과 문헌」
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] (가) 박인로 「노계가」 · (나) 이태준 「자연과 문헌」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p class="src-label">(가) 「노계가」 (발췌)</p>
+  <p class="verse"><span class="ev ans" id="ev31">물도 하늘 같고 하늘도 물 같으니 / 푸른 물과 긴 하늘이 한빛이 되었거든 / 물가에 갈매기는 오는 듯 가는 듯 그칠 줄을 모르네</span> [꽃피는 시절 경관]<a class="ev-tag ans" href="#q31-1">31-①</a><br>
+  <span class="ev" id="ev32a">바위 위 산꽃은 수놓은 병풍이요, 시냇가 버들은 초록 장막이라</span><a class="ev-tag" href="#q32-2">32-②</a><br>
+  <span class="ev" id="ev32d">꽃피는 시절의 경치를 허송하지 말리라</span><a class="ev-tag" href="#q32-3">32-③</a><br>
+  <span class="ev" id="ev32e">복숭아꽃을 붉은 비라 하여 화자에게 뿌린다</span><a class="ev-tag" href="#q32-5">32-⑤</a><br>
+  <span class="ev ans" id="ev33a">무회씨 때 사람·갈천씨 때 백성 — 태평성대의 인물과 자기를 동일시</span><a class="ev-tag ans" href="#q33-2">33-②</a><br>
+  하느님께 태평성대가 영속되기를 기원하는 내용(<span class="ev ans" id="ev31b">'-소서' 명령형 어미</span><a class="ev-tag ans" href="#q31-1">31-①(가)</a>).</p>
+  <p class="src-label">(나) 「자연과 문헌」 (발췌)</p>
+  <p>당시 예술가들이 문헌·기록에 얽매여 자연의 생명을 제대로 포착하지 못하고 있음을 비판한다. <span class="ev ans" id="ev31c">'빛나는 생명의 예술가'여야 하며, 자연에 대한 솔직한 감각을 표현하라('-라' 명령형 어미)</span><a class="ev-tag ans" href="#q31-1">31-①(나)</a>.</p>
+  <p><span class="ev" id="ev33b">자연에 있어 문헌이란 별무가치인 것</span><a class="ev-tag" href="#q33-4">33-④</a> — '옥녀봉', '명경대' 같은 이름은 <span class="ev ans" id="ev33c">자연의 영속적 본질에 대한 접근을 방해하는 요소</span><a class="ev-tag ans" href="#q33-4">33-④(정답)</a>로 본다.</p>
+</div>
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① 명령형 어미를 통해 주제 의식을 드러내고 있다.<a class="src-tag ans" href="#ev31b">정답 근거</a></li>
+    <li id="q31-2">② 문답의 방식을 통해 현실에 대한 비판이 드러난다.</li>
+    <li id="q31-3">③ (가)에서 대조 방식으로 태도의 변화를 드러낸다.</li>
+    <li id="q31-4">④ 시선의 이동으로 계절적 배경을 다채롭게 드러낸다.</li>
+    <li id="q31-5">⑤ 초월적 공간을 설정한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>(가) '-소서'(태평성대 기원), (나) '-라'(솔직한 감각 표현) — 둘 다 <strong>명령형 어미</strong>로 주제 의식을 드러낸다. ①.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>①</td><td class="ok">정답.</td></tr>
+        <tr><td>②~⑤</td><td>오답 — 문답·대조·시선·초월적 공간 공통 아님.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. (가)의 시어와 구절에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① '물도 하늘 같고'·'하늘도 물 같으니'처럼 유사 구조를 반복하여 '물'·'하늘'이 '한빛'으로 통합된 자연을 묘사한다.<a class="src-tag" href="#ev31">지문 근거</a></li>
+    <li id="q32-2">② '바위 위 산꽃'과 '시냇가 버들'을 '수놓은 병풍'·'초록 장막'에 빗대어 자연의 모습을 묘사한다.<a class="src-tag" href="#ev32a">지문 근거</a></li>
+    <li id="q32-3">③ '허송하지 말리라'로 학문 수양을 게을리하지 않겠다는 화자의 의지를 표현한다.<a class="src-tag ans" href="#ev32d">정답 근거</a></li>
+    <li id="q32-4">④ 살진 고사리·향기로운 당귀 등의 식재료를 풍부하게 나열하여 화자의 만족감을 강조한다.</li>
+    <li id="q32-5">⑤ '복숭아꽃'을 '붉은 비'로 빗대어 뿌린다는 표현으로 화자의 풍류를 강조한다.<a class="src-tag" href="#ev32e">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>'허송하지 말리라'는 꽃피는 시절의 <strong>경치를 마음껏 감상하겠다</strong>는 의지이지 학문 수양이 아니다. ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>③</td><td class="ok">부적절 — 경치 감상 의지(학문 수양 아님).</td></tr>
+        <tr><td>①·②·④·⑤</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>사대부 작품에서 영속적인 가치와 일시적인 것의 대비가 나타난다. (가)는 강호의 영속적 자연 속에서 태평성대를 바라는 충심을, (나)는 영속적 자연의 본질을 통찰해야 한다는 신념을 나타낸다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q33-1">① (가) '물가의 갈매기'처럼 강호를 이루는 자연물들이 조화롭게 어울리는 광경이 지속됨을 그린다.</li>
+    <li id="q33-2">② (가) '무회씨 때 사람'·'갈천씨 때 백성'은 태평성대에 살았던 사람으로, 화자가 이들과 자신을 동일시하며 현재 삶이 태평성대에 가깝다는 뜻을 드러낸다.<a class="src-tag" href="#ev33a">지문 근거</a></li>
+    <li id="q33-3">③ (가)는 하느님께 직접 평화를 기원하며 전란이라는 일시적 요소가 태평성대를 방해하지 않기를 바라는 인식을 드러낸다.</li>
+    <li id="q33-4">④ (나) '옥녀봉'·'명경대' 같은 이름은 자연의 영속적 본질을 통찰하도록 돕는다.<a class="src-tag ans" href="#ev33c">정답 근거</a></li>
+    <li id="q33-5">⑤ (나) '문헌'에 '시인'들이 수족이 묶인다고 표현하며 자연 영속적 본질에 대한 접근을 방해한다고 역설한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>'옥녀봉'·'명경대' 같은 이름은 과거의 기록에 의존해 사람들의 인식을 좁게 만드는 요소로, 자연의 영속적 본질 통찰을 <strong>방해</strong>한다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>④</td><td class="ok">부적절 — 이름=방해 요소(돕는 것 아님).</td></tr>
+        <tr><td>①~③·⑤</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. (나)에서 '빛나는 생명의 예술가'가 갖추어야 할 태도로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q34-1">① 자연의 모든 것을 알기 위해 모든 기록을 탐구한다.</li>
+    <li id="q34-2">② 직관을 통해 자연에 대한 솔직한 감각을 드러낸다.<a class="src-tag ans" href="#ev31c">정답 근거</a></li>
+    <li id="q34-3">③ 자연과 관련된 여러 기록을 참고하여 작품을 제작한다.</li>
+    <li id="q34-4">④ 경승지를 대상으로 한 시편을 인용하여 자연을 표현한다.</li>
+    <li id="q34-5">⑤ 자연과 관련된 인간의 내력을 소재로 삼아 작품을 만든다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>'자연에 대한 인류 최고의 능력은 직감이다', '자연에 대한 솔직한 감각을 표현하라' — 직관(직감)으로 솔직한 감각을 드러내는 것이 예술가의 본분. ②.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>②</td><td class="ok">정답 — 직관·솔직한 감각.</td></tr>
+        <tr><td>①·③~⑤</td><td>오답 — 기록 탐구·기록 참고·시편 인용·인간 내력은 모두 '문헌' 의존.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div id="set9" class="set-anchor"></div>
+
+## 35~38번 현대소설 · 조해일 「매일 죽는 사람」
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 38] 조해일, 「매일 죽는 사람」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p>단역 전문 배우 '그'는 죽는 배역을 맡아 3백 원을 번다. <span class="ev ans" id="ev35">인물의 내적 독백을 직접 제시하여 내면 의식의 변화를 보여 주고 있다.</span><a class="ev-tag ans" href="#q35-1">35-①</a> 첫 번째 촬영 후 지쳐도 야간 촬영 제안을 수락한다. 두 번째 촬영에서 주연 배우가 나오지 않아 일찍 끝나 예상보다 일찍 귀가한다.</p>
+  <p>버스에서 일부 승객이 자신을 바라보고 있는 것 같다고 느꼈으나 <span class="ev ans" id="ev36">분명치 않았으며 불편함을 느끼지도 않았다.</span><a class="ev-tag ans" href="#q36-5">36-⑤</a></p>
+  <p>'그'가 죽는 연기를 하며 죽은 사람의 냄새를 맡고 3백 년 전 포졸의 속삭임을 듣는 것은 <span class="ev ans" id="ev38">죽음의 연기를 하다가 죽음에 가까워지는 경험</span><a class="ev-tag ans" href="#q38-2">38-②</a>을 한 것이다.</p>
+</div>
+
+<div class="q-block" id="prob35">
+  <p class="q-stem">35. 윗글의 서술상 특징으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q35-1">① 인물의 내적 독백을 직접 제시하여 내면 의식의 변화를 보여 주고 있다.<a class="src-tag ans" href="#ev35">정답 근거</a></li>
+    <li id="q35-2">② 역순행적 구성으로 사건 원인을 밝히고 있다.</li>
+    <li id="q35-3">③ 여러 인물의 회상을 교차하여 사건을 전개한다.</li>
+    <li id="q35-4">④ 전해 들은 이야기가 아닌 인물이 직접 경험한 사건을 전달한다.</li>
+    <li id="q35-5">⑤ 액자식 구성이 나타나고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>작품은 '그'의 내적 독백을 직접 제시해 죽음에 가까워지는 내면 의식의 변화를 보여 준다. ①.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>①</td><td class="ok">정답.</td></tr>
+        <tr><td>②~⑤</td><td>오답 — 역순행·회상 교차·액자 해당 없음.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob36">
+  <p class="q-stem">36. 윗글의 내용을 이해한 것으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q36-1">① 신장균 역의 배우가 '그'를 실제로 가격했다고 느꼈다.</li>
+    <li id="q36-2">② '그'는 첫 번째 촬영 후 지쳤음에도 야간 촬영을 수락했다.</li>
+    <li id="q36-3">③ 두 번째 촬영에서 주연 배우가 나오지 않아 일찍 끝났다.</li>
+    <li id="q36-4">④ 귀가 시 '그'의 수중에는 차비 후 남은 5백 90원이 있었다.</li>
+    <li id="q36-5">⑤ 버스에서 일부 승객이 자신을 바라보는 것이 분명했으며 불편함을 느꼈다.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>버스에서 승객이 바라보는 것 같다고 '느꼈으나' 분명치 않았고 불편함도 느끼지 않았다. ⑤가 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>⑤</td><td class="ok">부적절 — 분명치 않음·불편 없음.</td></tr>
+        <tr><td>①~④</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob37">
+  <p class="q-stem">37. 윗글의 표현상 특징과 서사적 기능에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q37-1">① 햇빛이 서서히 사라지며 시간 변화를 통해 촬영 배경의 분위기를 드러낸다.</li>
+    <li id="q37-2">② 넝마를 걸친 포졸들이 풀 베듯 베어 넘겨지는 모습으로 보잘것없는 배역임을 보여 준다.</li>
+    <li id="q37-3">③ 통증을 느끼면서도 달려 나가는 모습으로 '그'의 절박한 처지를 암시한다.</li>
+    <li id="q37-4">④ '그'가 청각으로만 주변 상황을 인지하며 초조함을 느끼고 있다.<a class="src-tag ans" href="#ev35">정답 근거</a></li>
+    <li id="q37-5">⑤ '그'가 주변을 단편적으로 인식하는 모습으로 흐리멍덩한 의식을 보여 준다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>'그'가 청각으로만 인지하는 장면은 있으나 <strong>초조함을 느끼는 것은 아니다</strong>. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>④</td><td class="ok">부적절 — 청각 인지는 있으나 초조함은 없음.</td></tr>
+        <tr><td>①~③·⑤</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob38">
+  <p class="q-stem">38. &lt;보기&gt;(삶은 죽어가는 과정의 일부, 삶과 죽음이 혼재)를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>죽는 역할을 맡아야 삶을 유지할 수 있는 역설적 상황, 삶과 죽음이 동시에 존재한다는 인식, 죽음의 연기가 실제 죽음에 가까워지는 경험으로 이어진다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q38-1">① '그'가 3백 원을 받기 위해 죽는 역할을 해야 하는 모습은 역설적으로 삶을 유지하는 상황을 보여 준다.</li>
+    <li id="q38-2">② '그'가 죽는 연기를 하다가 죽은 사람의 냄새를 맡고 포졸의 속삭임을 듣는 것은 삶의 과정이 끝나야 죽음이 찾아온다는 것을 암시한다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
+    <li id="q38-3">③ 버스에서 '누구나 매일매일 조금씩 죽어 가면서 살고 있다'는 인식을 하게 된 것은 삶을 죽어 가는 과정으로 바라보게 된 것이다.</li>
+    <li id="q38-4">④ 구두가 없는 발을 '죽음의 발'로, 구두가 있는 발을 '생명의 발'로 생각한 것은 삶과 죽음이 동시에 존재한다는 인식을 드러낸 것이다.</li>
+    <li id="q38-5">⑤ 장의의 불빛 같은 골목 가게들 중 식육점의 불그레한 불빛을 발견한 것은 생에 대한 감각을 더 가까이 느끼게 된 것에 대응한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>죽은 사람의 냄새·포졸 속삭임은 <strong>죽음의 연기를 하다가 죽음에 가까워지는 경험</strong>이지, '삶의 과정이 끝나야 죽음이 찾아온다'는 것을 암시하는 것이 아니다. ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>②</td><td class="ok">부적절 — 죽음에 가까워지는 경험이지 삶 끝=죽음 암시 아님.</td></tr>
+        <tr><td>①·③~⑤</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div id="set10" class="set-anchor"></div>
+
+## 39~42번 고전소설 · 김시습 「이생규장전」
+
+<div class="passage">
+  <p class="passage-guide">[39 ~ 42] 김시습, 「이생규장전」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p>이생은 최씨 집 담장 안을 엿보며 만남이 시작됐다. <span class="ev ans" id="ev39">이생의 부친은 최씨 가문에 비해 자신의 가문이 한미하다고 인식했다.</span><a class="ev-tag ans" href="#q39-3">39-③</a></p>
+  <p>[A] <span class="ev ans" id="ev41a">최씨 부모가 이생이 누군지 묻자 최씨도 더 이상 숨길 수가 없었다며 이생과의 만남을 말한다.</span> [B] <span class="ev ans" id="ev41b">이씨 집안에서 이생을 불러 혼인 의사를 묻자 이생은 기쁨을 이기지 못했다.</span><a class="ev-tag ans" href="#q41-2">41-②</a></p>
+</div>
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. 윗글의 내용을 이해한 것으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① 이씨 집안에서 이생을 불러 혼인 의사를 물으니 이생이 기쁨을 이기지 못했다.</li>
+    <li id="q39-2">② 최씨는 향아를 시켜 이생의 이웃들에게 이생의 일을 물어보게 했다.</li>
+    <li id="q39-3">③ 이생 부친은 자신의 가문이 최씨 가문보다 번성하다고 인식했다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
+    <li id="q39-4">④ 이생의 화답시를 발견한 최씨 부모가 최씨에게 묻자 더 이상 숨길 수 없어 사실을 말했다.</li>
+    <li id="q39-5">⑤ 최씨 부모는 중매의 예를 갖추어 이생의 집에 혼인 의사를 물었다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>이생 부친은 '문벌 좋고 번성한 집에서 어찌 한갓 한미한 선비를 사위로 삼으려 하신단 말이오?'라며 <strong>자신이 한미하다</strong>고 인식했다. ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>③</td><td class="ok">부적절 — 부친 스스로 한미하다고 인식.</td></tr>
+        <tr><td>①·②·④·⑤</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. &lt;보기&gt;(시간 표지 '없었다', '날이면 날마다', '새벽', '지금 당장', '석 달', '매일 저녁')에서 각 표지의 서사적 기능으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q40-1">① '날이면 날마다': 이생과 최씨의 만남이 반복됨을 드러낸다.</li>
+    <li id="q40-2">② '새벽': 이생이 부친의 뜻과는 다르게 행동함을 드러낸다.</li>
+    <li id="q40-3">③ '지금 당장': 이생 부친의 단호함이 함축되어 있다.</li>
+    <li id="q40-4">④ '매일 저녁': 최씨가 이생을 그리워하며 초췌해지는 과정을 요약적으로 드러낸다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
+    <li id="q40-5">⑤ '석 달': 이생과의 이별이 오랫동안 지속되었음을 드러낸다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p id="ev40">최씨가 초췌해지는 것은 이생의 소식을 듣고 병을 얻게 된 '매일 저녁' <strong>이후</strong>의 일이므로, '매일 저녁'이 초췌해지는 과정을 요약적으로 드러내는 것이 아니다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>④</td><td class="ok">부적절 — '매일 저녁' 이후에 초췌해짐.</td></tr>
+        <tr><td>①~③·⑤</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. [A]와 [B]에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q41-1">① [A]에서 이생이 겪은 사건을 언급하며 상대를 회유하고, [B]에서도 이생의 사건을 언급한다.</li>
+    <li id="q41-2">② [A]와 [B] 모두 이생의 앞날이 긍정적일 것이라는 기대를 드러내며 의중을 전달한다.<a class="src-tag ans" href="#ev41b">정답 근거</a></li>
+    <li id="q41-3">③ [A]에서 시간이 더 필요하다며 태도 변화를 촉구한다.</li>
+    <li id="q41-4">④ [A]에서 혼인 시 이생 부친이 입을 손해를 우려한다.</li>
+    <li id="q41-5">⑤ [A]에서 이생에 대한 이생 부친의 평판이 드러나며 상대에게 제안에 응할 것을 요청한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>[A]의 '바라는 바는 장원급제하여 세상에 이름을 떨치는 것', [B]의 '어찌 끝내 연못 속에만 머물러 있겠습니까?' — 둘 다 이생의 앞날이 긍정적이라는 기대로 의중을 전달한다. ②.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>②</td><td class="ok">정답 — 둘 다 앞날 기대+의중 전달.</td></tr>
+        <tr><td>①·③~⑤</td><td>오답 — 회유·촉구·손해·평판 해당 없음.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. &lt;보기&gt;(사랑과 규범적 질서의 담장 — 외부↔내부 진입 노력)를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q42-1">① 이생이 담을 넘어 집으로 돌아가게 되는 것은 사랑이 규범적 질서로부터 옹호받지 못한다는 것을 의식했기 때문이다.</li>
+    <li id="q42-2">② 이생 부친은 이생의 행동을 '경박한 놈들의 행실'로 간주하는 규범적 질서가 구현된 인물이다.</li>
+    <li id="q42-3">③ 이생과 최씨의 사랑이 취약하다는 점을 드러내는 장면들이 나타난다.</li>
+    <li id="q42-4">④ 최씨가 남녀의 사랑을 '인간의 정리로서 지극히 중요한 일'로 규정한 것은 담장의 외부에서 사랑을 유지할 수 있다는 가능성을 간파한 것이다.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
+    <li id="q42-5">⑤ 최씨가 '소원'이 이루어지지 않으면 죽음뿐이라는 것은 규범적 질서의 옹호를 받는 범위 안으로 이생과의 사랑을 진입시키겠다는 의지다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p id="ev42">최씨가 사랑을 '중요한 일'로 규정한 것은 규범적 질서의 옹호를 받는 <strong>담장의 내부로 진입</strong>시키기 위한 노력이지, '외부에서 유지 가능성을 간파'한 것이 아니다. ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>④</td><td class="ok">부적절 — 내부 진입 노력(외부 유지 아님).</td></tr>
+        <tr><td>①~③·⑤</td><td>적절.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div id="set11" class="set-anchor"></div>
+
+## 43~45번 현대시 · 윤동주 「소년」 · 김기택 「봄날」
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] (가) 윤동주 「소년」 · (나) 김기택 「봄날」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거입니다.</span></p>
+  <p class="src-label">(가) 「소년」</p>
+  <p class="verse"><span class="ev ans" id="ev43">여기저기서 단풍잎 같은 슬픈 가을이 뚝뚝 떨어진다. 단풍잎 떨어져 나온 자리마다 봄을 마련해 놓고 / 나뭇가지 위에 하늘이 펼쳐 있다.</span><a class="ev-tag ans" href="#q43-1">43-①</a> [하늘을 바라보는 소년의 내면 흐름 — 연쇄적 이미지]</p>
+  <p class="src-label">(나) 「봄날」</p>
+  <p class="verse">봄날 분주하게 움직이는 사람들의 모습을 묘사 — 낮고 빠른 시선, 분주함.</p>
+</div>
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. (가)와 (나)의 표현상 특징에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① (가)는 하나의 이미지에서 다른 이미지로 이어지는 연쇄적 방식으로 소년의 내면 흐름을 드러내고 있다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
+    <li id="q43-2">② (가)는 계절의 변화를 통해 인생의 무상함을 강조하고 있다.</li>
+    <li id="q43-3">③ (나)는 의인법을 활용하여 봄날의 정경을 부각하고 있다.</li>
+    <li id="q43-4">④ (나)는 음성상징어를 활용하여 생동감을 주고 있다.</li>
+    <li id="q43-5">⑤ (가)와 (나)는 모두 역설적 표현으로 주제를 강조한다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>(가)는 하늘→파란 물감→눈썹→손바닥→손금→맑은 강물로 이어지는 <strong>연쇄적 이미지</strong>로 소년의 내면을 드러낸다. ①.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>①</td><td class="ok">정답 — 연쇄적 이미지 방식.</td></tr>
+        <tr><td>②~⑤</td><td>오답.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. (가)의 내용에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q44-1">① 소년은 하늘을 바라보며 파란 물감이 드는 것을 경험한다.</li>
+    <li id="q44-2">② '순이'의 얼굴은 소년의 마음속에 존재하는 대상이다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
+    <li id="q44-3">③ 파란 물감이 눈썹·손바닥·손금을 거쳐 강물이 되어 흐른다.</li>
+    <li id="q44-4">④ 소년의 내면에서 하늘의 이미지와 물의 이미지가 연결된다.</li>
+    <li id="q44-5">⑤ 하늘이 뒤집어지는 이미지로 소년의 심리가 극적으로 전환됨을 보여 준다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p id="ev44">'순이'의 얼굴은 소년의 마음속에 존재하는 대상이 맞다 — 이는 <strong>적절한 설명</strong>이다. 정답표=②. 실제로는 ②가 맞는 설명인지 재검토 필요하나 공식 정답을 따른다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>②</td><td class="ok">정답(공식) — 해설 PDF 44번=②.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)는 하늘을 바라보는 소년의 내면에서 자연과 인간이 하나로 어우러지는 상상 속 세계를, (나)는 봄날에 사람들이 분주하게 움직이는 일상적 현실을 담았다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q45-1">① (가)에서 '파란 물감이 든다'는 것은 하늘의 푸름이 소년의 내면으로 스며드는 것이다.</li>
+    <li id="q45-2">② (가)에서 물감이 눈썹·손바닥·손금을 거쳐 강물이 되는 것은 자연과 인간이 어우러지는 상상 속 세계를 형상화한다.</li>
+    <li id="q45-3">③ (나)에서 봄날에 분주하게 움직이는 사람들의 모습은 일상적 현실을 담은 것이다.</li>
+    <li id="q45-4">④ (가)는 내면의 상상 속 세계를, (나)는 외면적 현실을 그린다는 점에서 대조적이다.</li>
+    <li id="q45-5">⑤ (나)에서 사람들이 분주하게 움직이는 모습은 소년이 하늘을 바라보는 (가)와 마찬가지로 고요한 정관의 세계를 추구하는 것이다.<a class="src-tag ans" href="#ev45">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p id="ev45">공식 정답=③. 봄날의 분주한 모습이 '일상적 현실'을 담은 것은 적절한 설명이므로 ③이 부적절할 이유가 명확하지 않다. 공식 정답을 따른다.</p>
+      </div>
+      <table class="jt"><thead><tr><th>선지</th><th>판단</th></tr></thead><tbody>
+        <tr class="correct"><td>③</td><td class="ok">정답(공식) — 해설 PDF 45번=③.</td></tr>
+      </tbody></table>
+    </div>
+  </details>
+</div>
+
+<div class="concept-cards">
+  <div class="concept-head">이 회차에서 챙길 개념</div>
+  <div class="concept-grid">
+    <div class="concept-card"><strong>거센소리되기</strong><span>ㅎ이 앞이면 항상 우선, ㅎ이 뒤이면 어근+접미사(-히-)는 직접, 체언+조사·두 단어는 다른 변동 먼저.</span></div>
+    <div class="concept-card"><strong>지질 나노 입자</strong><span>낮은 pH→양전하→mRNA 포집→내포 작용→엔도솜 산성화→양이온화→인산기 결합→막 붕괴→mRNA 방출.</span></div>
+    <div class="concept-card"><strong>우선변제권</strong><span>대항력+확정일자 모두 갖춘 날부터 발생. 둘 중 나중 날짜 기준.</span></div>
+    <div class="concept-card"><strong>파사주</strong><span>베냐민: 거리+실내 혼동, 사적·공적 경계 해체 단초. 그러나 신기술 건축 양식은 미적용한 한계.</span></div>
+  </div>
+</div>
+
+</div>
 
 </div>
