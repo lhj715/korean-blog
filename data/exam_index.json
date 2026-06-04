@@ -661,37 +661,37 @@
         "month": "04",
         "type": "학력평가",
         "key": "2024-04-go3",
-        "url": null
+        "url": "/exams/2024/2024-04-go3-korean-analysis/"
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2024-06-go3",
-        "url": null
+        "url": "/exams/2024/2024-06-go3-korean-analysis/"
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2024-07-go3",
-        "url": null
+        "url": "/exams/2024/2024-07-go3-korean-analysis/"
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2024-09-go3",
-        "url": null
+        "url": "/exams/2024/2024-09-go3-korean-analysis/"
       },
       {
         "month": "10",
         "type": "수능",
         "key": "2024-10-go3",
-        "url": null
+        "url": "/exams/2024/2024-10-go3-korean-analysis/"
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2024-11-go3",
-        "url": null
+        "url": "/exams/2024/2024-11-go3-korean-analysis/"
       }
     ],
     "2023": [
