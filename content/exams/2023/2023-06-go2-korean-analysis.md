@@ -1,14 +1,19 @@
 ---
-title: "2023학년도 6월 고2 전국연합학력평가 국어 해설"
-date: "2023-06-01"
-categories: ["기출분석"]
-tags: ["고2", "국어", "2023년", "06월"]
-description: "2023년 06월 고2 전국연합학력평가 국어 문항 분석"
-layout: "exam"
+title: "2023년 6월 고2 국어 기출 분석"
+category: "학력평가"
+date: 2023-06-01
+keywords: ["고2", "2023년 06월", "학력평가", "국어", "기출 분석", "근거 표시"]
+summary: "2023년 06월 고2 전국연합학력평가 국어 기출 분석 — 지문에 선지 판단 근거를 표시한 풀이."
 ---
 
-{{< exam-nav year="2023" month="06" grade="go2" >}}
+<div class="exam-analysis">
 
+<section class="exam-overview">
+  <div class="exam-overview-item"><span>시행</span><strong>2023-06-01</strong></div>
+  <div class="exam-overview-item"><span>대상</span><strong>고2</strong></div>
+  <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
+  <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
+</section>
 <div id="set1" class="set-anchor"></div>
 
 ## 1~3번 화법 · 식물원을 방문한 학생들을 대상으로 한 강연이다.
