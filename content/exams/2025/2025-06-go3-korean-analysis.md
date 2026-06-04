@@ -1188,7 +1188,103 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="setA1" class="set-anchor"></div>
 
-## 35~37번 발표 · [작성 예정]
+## 35~37번 발표 · 사이테스(CITES) 협약 — 멸종 위기 야생동식물 보호
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>발표자가 사이테스를 소개: 사이테스 = 멸종 위기 야생동식물 국제 거래 협약. 부속서 1(원칙적 거래 불가, 예외: 학술 연구) / 부속서 2·3(상업적 거래 가능하나 제한). 자료1~4 활용 방식 확인 중요.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[35 ~ 37] 다음은 학생의 주제 발표이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="evA1-1">발표자: (㉠자료 제시) 동물 키우기 관련 설문 결과. 사이테스란 '멸종 위기에 처한 야생 동식물 종의 국제 거래에 관한 협약'. (㉡자료 제시) 사이테스 회원국 분포. (㉢자료 제시) 부속서 1·2·3에 등재된 종의 수와 비율. 부속서 1: 호랑이·표범 등, 원칙적 국제 거래 불가(예외: 학술 연구). 부속서 2·3: 상업적 거래 가능하나 무분별 거래 시 멸종 위험. (㉣자료 제시) 앞선 설문 결과 다시 제시.</span><a class="ev-tag" href="#qA35-4">35-④</a><a class="ev-tag" href="#qA36-4">36-④</a></p>
+  <p><span class="ev" id="evA1-2">사이테스 종 키우려면: 사이테스 누리집에서 해당 종 확인 → 관련 기관에 신고 → 죽었을 때도 신고. / 학생2: 도롱뇽을 키우는데 죽으면 신고해야 한다는 것을 알게 됨. / 학생3: 부속서 2·3에 어떤 종이 있는지 몰라서 아쉬웠음.</span><a class="ev-tag ans" href="#qA37-1">37-①</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="probA35">
+  <p class="q-stem">35. 위 발표자의 말하기 방식으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="qA35-1">① 준언어적 표현을 활용하여 청중의 주의를 집중시키고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA35-2">② 발표 중간중간에 질문을 던지며 청중의 반응을 확인하고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA35-3">③ 용어의 개념을 설명하여 낯선 용어에 대한 청중의 이해를 돕고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA35-4">④ 청중의 질문을 듣고 그에 답하며 청중의 행동 변화를 촉구하고 있다.<a class="src-tag ans" href="#evA1-1">정답 근거</a></li>
+    <li id="qA35-5">⑤ 청중의 기억을 환기하여 발표 내용과 청중과의 관련성을 드러내고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>발표에서 청중의 질문을 받고 답하는 장면은 없음. 발표자가 청중에게 질문을 던지는 것은 있지만 청중이 질문하지는 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답(적절)</td><td>각각 발표에서 사용된 말하기 방식.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>청중의 질문 없음. 일방적 발표.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA36">
+  <p class="q-stem">36. 다음은 발표자가 제시한 자료이다. 발표자의 자료 활용에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA36-1">① [자료1]은 학생들이 키우고 싶어 하는 동물 중 사이테스 종을 확인할 수 있는 자료로 ㉠에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA36-2">② [자료1]은 사이테스 종에 대한 학생들의 관심도를 보여 주는 자료로 ㉣에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA36-3">③ [자료2]는 사이테스 종이 세계적으로 분포하고 있음을 보여 주는 자료로 ㉡에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA36-4">④ [자료3]은 멸종 위기 위험도에 따라 구분한 사이테스 종의 수를 보여 주는 자료로 ㉢에 제시하였다.<a class="src-tag ans" href="#evA1-1">정답 근거</a></li>
+    <li id="qA36-5">⑤ [자료3]은 사이테스 종 중 2.69%에 해당하는 종만이 학술 연구의 목적으로 거래가 가능하다는 것을 보여 주는 자료로 ㉢에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>[자료3]이 ㉢에 제시되었고 부속서 1·2·3의 종 수와 비율을 보여 줌.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 발표 내용과 불일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>[자료3]→㉢, 부속서별 종 수 및 비율.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="probA37">
+  <p class="q-stem">37. 발표 내용을 바탕으로 할 때, &lt;보기&gt;에 나타난 학생들의 반응에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="qA37-1">① '학생1'은 발표에서 언급된 내용과 관련하여 추가적인 정보를 탐색하려 하고 있다.<a class="src-tag ans" href="#evA1-2">정답 근거</a></li>
+    <li id="qA37-2">② '학생2'는 발표에서 언급되지 않은 정보에 대해 궁금증을 드러내고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
+    <li id="qA37-3">③ '학생3'은 발표를 통해 새롭게 알게 된 정보가 사실과 부합하는지 판단하고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
+    <li id="qA37-4">④ '학생1'과 '학생3'은 모두, 발표 내용을 새로운 상황에 적용하며 발표 내용의 실행 가능성을 점검하고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
+    <li id="qA37-5">⑤ '학생2'와 '학생3'은 모두, 자신이 발표를 듣기 전 알고 있던 지식을 발표를 듣고 수정하고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>학생1: 발표를 통해 사이테스 종에 식물도 있다는 것을 알게 되어, 자신의 선인장이 해당하는지 찾아보겠다고 함 → 발표 내용 관련 추가 정보 탐색.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>학생1: 발표 내용(사이테스 종) 관련 추가 탐색.</td></tr>
+          <tr><td>②</td><td>오답</td><td>학생2는 발표에서 언급된 내용(죽으면 신고)을 새로 알게 됨.</td></tr>
+          <tr><td>③</td><td>오답</td><td>학생3은 부속서 2·3 종 정보의 부재에 대한 아쉬움.</td></tr>
+          <tr><td>④⑤</td><td>오답</td><td>각각 내용과 불일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="setA2" class="set-anchor"></div>
 
