@@ -609,7 +609,145 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set5" class="set-anchor"></div>
 
-## 18~21번 현대소설 · [작성 예정]
+## 18~21번 현대소설 · 이동하 「저당 잡힌 사내」 — 폐쇄 공간과 노동의 굴레
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>전당포 창고에 갇힌 '그'의 내면과 갱 속 기억이 교차. 문이 사라졌다가 다시 나타나는 비현실적 구조.</p>
+  <ul>
+    <li><strong>핵심 구조</strong> — 창고 갇힘(유폐) → 갱 속 기억 회상 → 일을 다시 시작 → 문 다시 나타남 → 나왔더니 전당포 입구(다시 처음 상황)</li>
+    <li><strong>ⓐⓑ</strong> — ⓐ허리를 폈다=일 끝내고 흡족함(요구 충족), ⓑ허리가 펴지지 않음=예상 못 한 문 발견에 대한 충격</li>
+    <li><strong>㉣</strong> — "자신은 언제나 외로웠고, 앞으로도 외로우리라 짐작되었다" = 인물이 스스로 예측(서술자가 추측한 게 아님)</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 18번 ④ ㉣=인물 스스로의 추측(서술자가 '앞으로 처하게 될 상황을 추측' 아님), 19번 ②=갱 속에서는 노동의 양이 시간 척도(측정할 수 없었던 게 아님), 21번 ①=발작적 충동은 탈출 충동이지 순응 표출 아님.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[18 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev18-1">㉠벽은, 그러나 단호한 힘으로 그를 밀어냈다.</span><a class="ev-tag" href="#q18-1">18-①</a> <span class="ev" id="ev18-2">㉡그것도 아니라면 나는 애초부터 이 조그만 공간 속에서 밀폐된 채 살아왔다는 얘긴가…….</span><a class="ev-tag" href="#q18-2">18-②</a></p>
+  <p>몇 가지 고통이 서서히 그의 육신을 저미기 시작했다. 첫째는 시간의 흐름을 측정할 길 없는 괴로움이었다. … 이제 그것들 사이에 갇힌 한 사내의 생애도 먼지처럼 건조하게 부스러져 쌓일 것이라 믿어졌다.</p>
+  <p id="p-A">갱 속에서 지냈던 지난 몇 년 간의 기억을 그는 조금씩 되살려 냈다. … 외계와 단절된 채 모든 것들이 침묵을 지키고 있는 곳, … 지층에 켜켜이 쌓여 있던 그 죽은 시간의 잔해들을 캐냈던 것이다.</p>
+  <p><span class="ev" id="ev19-2">그곳에서도 시간은 정지되어 있었다. 그것의 흐름을 재볼 수 있는 것이라곤 오직, 자신의 노동의 양밖에 없었다. 문득 작업 종료의 신호가 울린다. 그리하여 다시 지상으로 올라오면 하늘은 장기 근속자의 폐처럼 그렇게 음산했다. 그것이 새벽 어스름인지 저녁 땅거민지를 굳이 헤아릴 이유가 없었다.</span><a class="ev-tag ans" href="#q19-2">19-②</a></p>
+  <p id="p-A-end">[A]</p>
+  <p><span class="ev" id="ev18-3">㉢이래 가지고는 저 대머리 주인이 일당 천 원을 아까워하리라.</span><a class="ev-tag" href="#q18-3">18-③</a> 그는 가볍게 두어 번 혀를 차고 난 다음, 버려두었던 작업을 다시 시작했다.</p>
+  <p>창고 안이 어느 정도 정리가 되었을 때 그는 비로소 손을 털며 <span class="ev" id="ev20-5a">ⓐ허리를 폈다. 그리고는 다소 흡족한 마음이 되어 한쪽 구석으로 가 웅크리고 앉았다. "이만하면 주인 사내도 만족해 할 테지……."</span><a class="ev-tag ans" href="#q20-5">20-⑤</a></p>
+  <p><span class="ev ans" id="ev18-4">㉣자신은 언제나 외로웠고, 앞으로도 변함없이 외로우리라 짐작되었다.</span><a class="ev-tag ans" href="#q18-4">18-④</a></p>
+  <p id="p-A2">[A]<span class="ev" id="ev20-5b">그는 눈을 커다랗게 뜨고 그곳을 쳐다보았다. … 그러나 그 희고 견고한 벽의 한가운데에, 그가 그렇게도 불가사의하게 생각했던 바로 그 문이 형체도 분명하게, 반쯤 열린 상태로 거기 있었다. 그는 벽을 의지하고 천천히 일어섰다. 오금이 저리고 무릎이 걷잡을 수 없이 떨렸다. ⓑ뻣뻣하게 굳은 허리가 좀처럼 펴지질 않았다.</span><a class="ev-tag ans" href="#q20-5">20-⑤</a></p>
+  <p><span class="ev" id="ev18-5">㉤그래, 나는 저 계단을 올라왔었지, 하고 그는 생각에 잠겼다.</span><a class="ev-tag" href="#q18-5">18-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob18">
+  <p class="q-stem">18. ㉠~㉤의 서술 방식에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q18-1">① ㉠: 인물이 마주하는 대상을 주체로 서술함으로써 대상이 지닌 속성을 부각한다.<a class="src-tag" href="#ev18-1">지문 근거</a></li>
+    <li id="q18-2">② ㉡: 인용 부호의 사용 없이 인물의 생각을 인물 자신의 목소리를 통해 드러낸다.<a class="src-tag" href="#ev18-2">지문 근거</a></li>
+    <li id="q18-3">③ ㉢: 초점화된 인물의 관점에서 다른 인물이 보일 반응을 예측하여 제시한다.<a class="src-tag" href="#ev18-3">지문 근거</a></li>
+    <li id="q18-4">④ ㉣: 서술자가 인물의 현재 심리 상태와 앞으로 인물이 처하게 될 상황을 추측하여 서술한다.<a class="src-tag ans" href="#ev18-4">정답 근거</a></li>
+    <li id="q18-5">⑤ ㉤: 인물에 대한 서술 속에 해당 인물의 목소리가 포함되면서 인물과 서술자의 목소리가 모두 드러난다.<a class="src-tag" href="#ev18-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>㉣은 서술자가 추측하는 것이 아니라, 인물 '그'가 스스로 '짐작되었다'고 인식하는 것이다. "앞으로 처하게 될 상황"도 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣=인물이 스스로 짐작. 서술자가 추측한 것이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob19">
+  <p class="q-stem">19. [A]를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q19-1">① '그'가 창고 안에서 '시간의 흐름'을 찾아낼 수 없었던 것은, 갱 속에서의 생활을 떠올리는 것으로 이어진다.<a class="src-tag" href="#ev18-4">지문 근거</a></li>
+    <li id="q19-2">② '그'가 지상에서 '새벽'과 '저녁'을 헤아리지 않았던 것은, 갱 속과 마찬가지로 '노동의 양'을 측정할 수 없었기 때문이다.<a class="src-tag ans" href="#ev19-2">정답 근거</a></li>
+    <li id="q19-3">③ '그'가 창고라는 '조그만 공간'에서 '유폐감'을 느끼는 것은, '낮고 좁'은 '오소리 굴' 같은 갱 속에서의 생활에 대응된다.<a class="src-tag" href="#ev18-2">지문 근거</a></li>
+    <li id="q19-4">④ '그'가 '먼지'와 '석탄'을 죽은 '시간의 잔해'로 동일하게 인식하는 것은, 창고 안과 갱 속의 공통적인 속성에서 비롯된다.<a class="src-tag" href="#ev19-2">지문 근거</a></li>
+    <li id="q19-5">⑤ '그'가 지상의 하늘을 '장기 근속자의 폐처럼' 음산하다고 인식한 것은, '암흑'으로 가득한 갱 속에서의 경험과 연관된다.<a class="src-tag" href="#ev19-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>"그곳에서도 시간의 흐름을 재볼 수 있는 것이라곤 오직, 자신의 노동의 양밖에 없었다." → 갱 속에서 노동의 양으로 시간을 잴 수 있었다. '측정할 수 없었기 때문'이 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>갱 속에서 노동의 양이 시간의 척도였다(측정 가능). '측정할 수 없었기 때문'이 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob20">
+  <p class="q-stem">20. ⓐ와 ⓑ에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q20-1">① ⓐ와 ⓑ는 모두, 인물이 품었던 의구심을 해소하는 과정에서 발생하는 반응이다.</li>
+    <li id="q20-2">② ⓐ와 ⓑ는 모두, 인물이 알지 못했던 새로운 사실을 깨달았음을 보여 주는 반응이다.</li>
+    <li id="q20-3">③ ⓐ는 인물이 처한 어려움을 극복하였음을 보여 주는, ⓑ는 인물의 좌절감을 드러낸 반응이다.</li>
+    <li id="q20-4">④ ⓐ는 인물 간 갈등이 해소된 결과로, ⓑ는 해소된 인물 간 갈등이 다시 야기됨으로써 나타나는 반응이다.</li>
+    <li id="q20-5">⑤ ⓐ는 인물에게 주어진 요구를 일정 부분 충족한 결과로, ⓑ는 인물이 예상 못 한 사건의 발생에 대해 나타난 반응이다.<a class="src-tag ans" href="#ev20-5a">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>ⓐ: 창고 정리 완료(요구 충족)→흡족함→허리 폈다. ⓑ: 갑자기 문이 나타난 예상 못 한 사건→오금 저리고 무릎 떨림→허리가 펴지지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ⓐ=요구 충족 결과, ⓑ=예상 못 한 문 발견 반응.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob21">
+  <p class="q-stem">21. &lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>「저당 잡힌 사내」에서 내부와 외부의 경계가 모호한 비현실성은, 입구이자 출구인 '문'의 양면성을 매개로 하여 똑같은 상황이 반복되는 서사 구조에 의해 구현된다. 이러한 서사 구조에 맞물려 반복되는 노동의 굴레에 갇힌 주인공은 이에 순응하게 되어 노동의 수단으로 전락한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q21-1">① '그'가 자신의 삶을 '일의 진행'에 따라 '소모'된다고 인식하면서 보인 '발작적인 충동'은, 폐쇄적 굴레에 순응하려는 현대인의 정체성이 표출된 것이군.<a class="src-tag ans" href="#ev18-3">정답 근거</a></li>
+    <li id="q21-2">② '10년 혹은 20년 이쪽저쪽'을 살펴보며 '그'가 자신의 생애를 '무의미한 노동의 시간들'로 규정하는 것은, 끝없는 노동의 굴레에 삶을 저당 잡힌 채 살아왔음을 자각한 것이군.<a class="src-tag" href="#ev18-4">지문 근거</a></li>
+    <li id="q21-3">③ '그'가 '견고한 벽'으로 둘러싸여 '외계와는 철저히 단절된' 공간을 '낯익고 분명한 생활 공간'이라 여기는 것은, 노동의 수단으로 전락한 현대인의 모습을 나타내는 것이군.<a class="src-tag" href="#ev18-4">지문 근거</a></li>
+    <li id="q21-4">④ '그'가 '문'을 열고 나와 '주위를 둘러보'며 의식한 '야릇한 전도감'은, 창고 밖으로 향하는 출구인 동시에 다시 전당포의 입구가 되는 '문'의 양면성에서 비롯된 것이군.<a class="src-tag" href="#ev20-5b">지문 근거</a></li>
+    <li id="q21-5">⑤ '그'가 '이물스럽'게 여겨지는 공간에서 낯익음을 느끼고 '낯설어 보이는' 얼굴에서 '기억에 남아 있는 무수한 대머리'를 연상하는 것은, 반복적인 서사 구조에 의해 구현되는 비현실성을 드러내는 것이군.<a class="src-tag" href="#ev18-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>'발작적인 충동'은 노동의 지겨움과 무의미성으로 인한 탈출/저항 충동이다. '순응하려는 정체성'이 아니라 순응에 반하는 충동이다. 지문: "일에 대한 지겨움, 그 무의미성이 발작적인 충동을 일으키게 했지만, 그는 지금까지 그래왔듯이 이번에도 잘 참아 내고 있었다" → 충동을 억제하며 결국 순응하지만, 충동 자체는 순응하려는 표출이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'발작적인 충동'=탈출/저항 충동(순응하려는 것이 아님). 그 충동을 참는 것이 순응.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set6" class="set-anchor"></div>
 
