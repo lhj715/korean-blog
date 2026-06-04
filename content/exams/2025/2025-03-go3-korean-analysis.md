@@ -751,7 +751,186 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set6" class="set-anchor"></div>
 
-## 22~26번 갈래복합 · [작성 예정]
+## 22~26번 갈래복합 · 권섭「영삼별곡」/ 김매순「풍서기」— 여행과 바람의 이치
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>(가) 가사: 병든 몸을 이끌어 여행 떠남(중이 독려). 봄 풍경, 바다, 산속 절터 탐방. (나) 한문산문: 바람의 속성을 통해 처세에 대한 깨달음.</p>
+  <ul>
+    <li><strong>(가) 핵심</strong> — 삼십 년 허송 → 병 → 중이 독려(ⓐ) → 삼월 삼질 여행 시작 → 바다 → 산(ⓑ 중이 가마 멤) → 절터에서 아이들에게 물음</li>
+    <li><strong>(나) 핵심</strong> — 어떤 사람: 바람과 집이 서로 따라다님 / 석릉자: 바람은 하나의 기능만이 아닌 다양한 기능 + 만물이 바람과 같음 + 바람에 처하는 법: 막막한 가운데 정신을 모으고 어기지 말고 부딪치지 않으면</li>
+    <li><strong>ⓐ</strong> — 뒷절의 중이 화자에게 여행을 독려(천석고황 병 있으니 가자). <strong>ⓑ</strong> — 험한 벼랑을 바윗길에 익숙한 중에게 가마를 지게 해서 편히 지나침</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 23번 ③ ㉢=촌로·아이들의 모습을 보며 화자도 즐기는 것(아쉬움 아님), 25번 ⑤ 석릉자=바람·집 없는 듯이 하면 '경계 벗어날 수 있다'(벗어날 수 없다 아님), 26번 ① '차고 줆이 있었던가'=자연의 변함없는 이치에 대한 경이(불변성 알 수 없다는 자각 아님).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가)</strong></p>
+  <div class="poem-text">
+    <p><span class="ev" id="ev22-1">㉠이 몸이 천지간에 쓰일 데 전혀 없어 / 삼십 년 세월을 흐지부지 보내었다</span><a class="ev-tag" href="#q23-1">23-①</a></p>
+    <p>풍류 정취 끝이 없어 선계의 인연으로 / 녹수청산에 분수대로 다녔는데</p>
+    <p>잠깐 동안 병이 들어 시골집을 닫았더니</p>
+    <p><span class="ev" id="ev24-1a">ⓐ뒷절의 어떤 중이 시끄럽기도 하구나 / 지팡이 천천히 짚고 와 나에게 하는 말이 / 네 병을 내 모르랴 천석고황이라 / … 어와 이 사람아, 철없이 누워 있으려나 / 지팡이 바삐 짚고 가는 대로 가자꾸나</span><a class="ev-tag ans" href="#q24-4">24-④</a></p>
+    <p>즉시 일어앉아 창을 열고 바라보니</p>
+    <p><span class="ev" id="ev23-2">㉡맑은 바람 건듯 불고 새소리 지저귀는데 / 시냇가 방초 길이 동쪽 골짜기로 이어졌네</span><a class="ev-tag" href="#q23-2">23-②</a></p>
+    <p><span class="ev ans" id="ev22-1a">때마침 삼월 삼질 아름다운 계절이라</span><a class="ev-tag ans" href="#q22-1">22-①</a></p>
+    <p><span class="ev ans" id="ev23-3">㉢아이들과 촌로들이 춘흥을 못 이겨 / 탁주 병 둘러메고 느릿느릿 노래 부르며 / 오락가락 다니는 모습 한가하기도 하구나</span><a class="ev-tag ans" href="#q23-3">23-③</a></p>
+    <p>석양이 비끼는데 말 등에서 잠이 들어</p>
+    <p><span class="ev" id="ev23-4">㉣첩첩 산골짜기를 꿈속에 지나치니 / 주천서 흘러내린 물이 청령포에 닿았구나</span><a class="ev-tag" href="#q23-4">23-④</a></p>
+    <p>…(중략)…</p>
+    <p>만고에 한결같이 차고 줆이 있었던가 / 천지간 장한 경치 반 이상 물이로다</p>
+    <p>언젠가 성인 만나 이 이치 여쭈리라</p>
+    <p><span class="ev ans" id="ev24-4b">ⓑ바윗길에 익숙한 중에게 가마 느슨히 메게 하고 / 깎아지른 험한 벼랑 얼른 지나쳐서</span><a class="ev-tag ans" href="#q24-4">24-④</a></p>
+    <p><span class="ev" id="ev23-5">㉤청옥산 속으로 첩첩이 돌아드니 / 운모 병풍 비단 장막 좌우로 펼쳤구나</span><a class="ev-tag" href="#q23-5">23-⑤</a></p>
+    <p class="poem-source">— 권섭, 「영삼별곡」 —</p>
+  </div>
+  <p><strong>(나)</strong></p>
+  <p>어떤 사람이 말하기를, <span class="ev" id="ev25-1">"바람이란 요동치는 것이요, 집은 편안한 곳이다. 편안히 거처할 곳이 요동치는 것을 면치 못하고, 요동치면서도 편안히 거처함에 방해를 받지 않는다. 이렇듯 바람과 집이 서로를 끝없이 따라다닌다."</span><a class="ev-tag" href="#q25-1">25-①</a></p>
+  <p>석릉자가 한숨을 쉬고 탄식하며 말하기를, "<span class="ev" id="ev25-2">저 해와 달, 추위와 더위, 바람과 비, 뇌성과 벼락은 모두 하늘과 땅의 가르침이다. 그러나 해는 양을 맡고 달은 음을 맡으며, … 저들은 오로지 한 가지의 기능이 있고 그 나머지가 서로 통할 수는 없는 것이다. 그러나 바람은 그렇지가 않다. … 한 곳도 바람 불지 않는 곳이 없으며, 큰 나무를 뽑아 버리는 일이 있지만 굽은 싹을 펴 주기도 하고, 단단한 얼음을 얼리기도 하지만 물결을 일으키기도 하니, 한 가지 일도 바람 때문이 아닌 것이 없다.</span><a class="ev-tag" href="#q25-2">25-②</a><a class="ev-tag" href="#q25-3">25-③</a></p>
+  <p><span class="ev" id="ev25-4">뛰어난 재주와 웅변술, 용맹과 지모, 공적과 훈공, 부유함과 사치스러움 같은 것도 수천 년 안에 높고 얕게 울리고 흔들리며 넓고 크게 돌고 돌아 사라져 버리니, 바람이 허공에서 일어났다 사라져 버리는 것과 무엇이 다른가?</span><a class="ev-tag" href="#q25-4">25-④</a></p>
+  <p><span class="ev ans" id="ev25-5">생각건대, 바람에 처하는 데에 길이 있으니, 막막한 가운데 정신을 모으고 빈 데에 형체를 맡겨서, 가해 오더라도 어기지 말고 거슬러 오더라도 부딪치지 않으면 바람도 또 나를 어떻게 하겠는가? 편안함도 없고 요동도 없고, 바람도 없는 듯 집도 없는 듯이 한다면 무엇을 면했다고 기뻐할 것이며 무엇을 잃는다고 두려워할 것인가? 그대 말이 그럴 듯하기는 하나 그 경계를 벗어나지 못한 것이 아닌가?"</span><a class="ev-tag ans" href="#q25-5">25-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob22">
+  <p class="q-stem">22. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q22-1">① (가)는 (나)와 달리 특정한 계절적 배경에 주목하여 주제 의식을 강조하고 있다.<a class="src-tag ans" href="#ev22-1a">정답 근거</a></li>
+    <li id="q22-2">② (나)는 (가)와 달리 시간의 흐름에 따른 심경의 변화를 구체적으로 드러내고 있다.<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q22-3">③ (가)와 (나)는 모두 원경에서 근경으로 시선을 이동하여 심리 변화를 드러내고 있다.<a class="src-tag" href="#ev23-2">지문 근거</a></li>
+    <li id="q22-4">④ (가)와 (나)는 모두 과거와 현재의 대비를 통해 지난날에 대한 반성을 드러내고 있다.<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q22-5">⑤ (가)와 (나)는 모두 점층적 구조를 통해 내적 갈등이 심화되는 양상을 형상화하고 있다.<a class="src-tag" href="#ev25-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>(가)에서 "때마침 삼월 삼질 아름다운 계절" = 봄이라는 계절적 배경 강조. (나)는 계절 배경이 없다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)=삼월 삼질 봄 배경, (나)=계절 배경 없음.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob23">
+  <p class="q-stem">23. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q23-1">① ㉠: 시간적 표현을 활용하여 헛되이 보낸 자신의 과거를 집약하고 있다.<a class="src-tag" href="#ev22-1">지문 근거</a></li>
+    <li id="q23-2">② ㉡: 풍경에 대한 묘사를 바탕으로 화자가 떠날 길의 방향을 암시하고 있다.<a class="src-tag" href="#ev23-2">지문 근거</a></li>
+    <li id="q23-3">③ ㉢: 인물들의 여유로운 행동을 열거하여 여로에 동참하지 않는 이들에 대한 아쉬움을 드러내고 있다.<a class="src-tag ans" href="#ev23-3">정답 근거</a></li>
+    <li id="q23-4">④ ㉣: 공간의 이동 과정을 생략하여 시상 전개에 속도감을 부여하고 있다.<a class="src-tag" href="#ev23-4">지문 근거</a></li>
+    <li id="q23-5">⑤ ㉤: 깊은 산속에서 마주한 대상을 비유적으로 제시해 풍광의 아름다움을 강조하고 있다.<a class="src-tag" href="#ev23-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>㉢에서 아이들·촌로들이 한가롭게 노는 모습을 "한가하기도 하구나"라고 즐겁게 바라보는 것이지, 여로에 동참하지 않는 이들에 대한 '아쉬움'이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢=한가로운 모습에 대한 즐거운 관찰. 아쉬움이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob24">
+  <p class="q-stem">24. ⓐ와 ⓑ에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q24-1">① ⓐ와 ⓑ는 모두 화자가 여행을 통해 달성해야 할 목적에 대해 조언한다.<a class="src-tag" href="#ev24-1a">지문 근거</a></li>
+    <li id="q24-2">② ⓐ와 ⓑ는 모두 현재 상황을 언급하며, 여행에 나서기를 주저하는 화자의 태도를 나무란다.<a class="src-tag" href="#ev24-1a">지문 근거</a></li>
+    <li id="q24-3">③ ⓐ는 여정의 구체적 경로를 제시하고, ⓑ는 여정의 지속을 도와준다.<a class="src-tag" href="#ev24-1a">지문 근거</a></li>
+    <li id="q24-4">④ ⓐ는 여정을 시작하도록 화자를 독려하고, ⓑ는 여정에서 마주하는 어려움을 덜어 준다.<a class="src-tag ans" href="#ev24-4b">정답 근거</a></li>
+    <li id="q24-5">⑤ ⓐ는 화자에게 여행의 조건이 충족되어 있음을 강조하고, ⓑ는 화자에게 여행의 기간을 단축할 것을 권유한다.<a class="src-tag" href="#ev24-1a">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>ⓐ: 중이 화자(병들어 누운)에게 "가는 대로 가자" → 여정 시작 독려. ⓑ: 험한 벼랑 앞에서 바윗길 익숙한 중에게 가마 메게 → 어려움 해소.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>ⓐ=여정 시작 독려, ⓑ=어려움 해소.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob25">
+  <p class="q-stem">25. (나)의 인물에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q25-1">① '어떤 사람'은 바람과 집이 각각 '요동치는 것'과 '편안한 곳'에 대응된다고 보았다.<a class="src-tag" href="#ev25-1">지문 근거</a></li>
+    <li id="q25-2">② '석릉자'는 바람과 달리 '해와 달', '추위와 더위'가 명확하게 구별되는 '한 가지의 기능'만을 지녔다고 보았다.<a class="src-tag" href="#ev25-2">지문 근거</a></li>
+    <li id="q25-3">③ '석릉자'는 바람이 '큰 나무'와 '굽은 싹', '단단한 얼음'과 '물결'을 아우르는 만물에 영향을 끼친다고 보았다.<a class="src-tag" href="#ev25-2">지문 근거</a></li>
+    <li id="q25-4">④ '석릉자'는 '뛰어난 재주와 웅변술', '용맹과 지모' 등이 결국 모두 사라져 버린다는 점에서 바람과 같다고 보았다.<a class="src-tag" href="#ev25-4">지문 근거</a></li>
+    <li id="q25-5">⑤ '석릉자'는 '바람도 없는 듯 집도 없는 듯'이 여긴다면 '경계'를 벗어날 수 없다고 보았다.<a class="src-tag ans" href="#ev25-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>지문: "바람도 없는 듯 집도 없는 듯이 한다면 무엇을 면했다고 기뻐할 것이며 무엇을 잃는다고 두려워할 것인가?" → 그 경계를 '벗어날 수 있다'는 의미. "그대 말이 그럴 듯하기는 하나 그 경계를 벗어나지 못한 것이 아닌가?"는 어떤 사람의 말이 경계를 벗어나지 못했다는 것. ⑤는 석릉자가 바람·집 없는 듯이 하면 벗어날 수 없다고 봤다고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>석릉자=바람·집 없는 듯이 하면 경계 '벗어날 수 있다'(벗어날 수 없다가 아님).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob26">
+  <p class="q-stem">26. &lt;보기&gt;를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>문학 작품에서 질문의 형식은 인물의 의식을 표출하는 수단이 된다. 그 내용과 대상을 달리하는 질문들은 인물의 생각이나 경험에서 촉발되어 작품 속에서 다양한 반응을 이끌어낸다. 이 과정에서 인물은 알 수 있는 것과 알 수 없는 것의 구분을 인식하고 삶에 대한 깨달음을 얻는다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q26-1">① (가)에서 '만고에 한결같이 차고 줆이 있었던가'는 '한없이 쌓인 물'에 대한 질문으로, 자연의 불변성을 끝내 알 수 없을 것이라는 자각으로 이어지는군.<a class="src-tag ans" href="#ev24-4b">정답 근거</a></li>
+    <li id="q26-2">② (가)에서 '저 기운이 무엇으로 생겼는고'라는 질문은 '망망대양'을 본 경험에 의해 촉발된 것으로, 자연의 이치는 '성인'을 만나서야 논할 수 있으리라는 생각으로 이어지는군.<a class="src-tag" href="#ev24-4b">지문 근거</a></li>
+    <li id="q26-3">③ (가)에서 '나무하는 아이들'에게 던진 '지난 일'에 대한 질문은 '앞절의 상좌'의 답변으로 이어지면서, 알 수 있는 것과 알 수 없는 것의 구분에 대한 인식이 드러나는군.<a class="src-tag" href="#ev23-5">지문 근거</a></li>
+    <li id="q26-4">④ (나)에서 '석릉자의 뜻과 행동'에 대한 '어떤 사람'의 질문은 '바람과 집'의 관계에 대한 인식에서 비롯된 것으로, 이러한 인식의 한계를 지적하는 '석릉자'의 답변으로 이어지는군.<a class="src-tag" href="#ev25-1">지문 근거</a></li>
+    <li id="q26-5">⑤ (나)에서 '바람도 또 나를 어떻게 하겠는가'라는 질문은 직전 질문에서 이어지면서, 삶의 자세에 대한 '석릉자'의 깨달음이 바람의 속성에 대한 이해에 기반한 것임을 보여 주는군.<a class="src-tag" href="#ev25-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>"만고에 한결같이 차고 줆이 있었던가"는 물이 만고불변으로 차고 잦는다는 자연의 항구성에 대한 경이·탄식의 질문이다. '자연의 불변성을 알 수 없다는 자각'이 아니라, 자연의 이치에 대한 경이로움 표현이고, 이어서 "성인 만나 이 이치 여쭈리라"로 연결된다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>질문은 자연 이치에 대한 경이. '알 수 없다는 자각'이 아님.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set7" class="set-anchor"></div>
 
