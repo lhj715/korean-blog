@@ -183,7 +183,7 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p>아렌트는 정치를 권력 쟁취 과정으로만 이해함을 비판. 권력은 의견 나눌 때 자연 발생. 권력 쟁취 선행 아님.</p>
       </div>
       <table class="jt">
@@ -237,7 +237,7 @@ summary: "2025년 7월 10일 시행 2026학년도 고3 전국연합학력평가 
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p>㉠(아렌트)은 해체·재구축이 아닌, 행위 결과로 만들어져 행위를 보장하는 법에서 정당성 확보라고 봄. 해체·재구축은 데리다의 방법론.</p>
       </div>
       <table class="jt">
