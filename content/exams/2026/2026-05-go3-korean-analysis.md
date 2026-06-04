@@ -1134,7 +1134,146 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set8" class="set-anchor"></div>
 
-## 31~34번 고전소설 · [작성 예정]
+## 31~34번 고전소설 · 작자 미상 「방주전」 — 효와 충의 실현
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>방주의 개과천선(불효→효)과 부인의 전쟁 참전(충)이 중심 서사. 초월적 존재(염왕, 선관)가 인물을 유도한다.</p>
+  <ul>
+    <li><strong>1부</strong> — 방주: 염왕에게 불효죄 받다 → 개과천선 약속 → 사면 → 황천강 빠뜨림 → 눈뜨니 꿈처럼 → 부모에 효도</li>
+    <li><strong>2부</strong> — 부인: 선관이 홍포·열여검·홍선 줌 → 백호 타고 전장 → 적병 물리침 → 황제 구함</li>
+    <li><strong>㉠㉡㉢</strong> — ㉠염왕 명령(황건역사에게) / ㉡부인이 방주에게 답례(변화에 만족) / ㉢황제가 부인에게 하례(목숨 구해준 감사)</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 31번 ① 완연한 사람=황천강 이전(뺨 맞은 후), 34번 ② 방주의 효도=개인/가정 윤리이지 국가 질서 회복 아님.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p>… <span class="ev ans" id="ev31-1">황건역사가 명령을 듣고 방주의 뺨을 한 번 치니 다시 완연한 사람의 몰골이 되었다. 그리고 황천강에 이르러 방주를 발로 밀어 차 물에 빠뜨렸다.</span><a class="ev-tag ans" href="#q31-1">31-①</a></p>
+  <p>눈을 떠 보니 동창은 아직 밝지 않았고 <span class="ev" id="ev31-5">부인 정 씨는 등불 아래에서 바느질을 하고 있었다.</span><a class="ev-tag" href="#q31-5">31-⑤</a> 방주가 일어나 부인에게 절하고 말했다. "내가 어리석어 전일 부인의 지극한 말씀을 듣지 아니했는데 이제야 과연 깨달았으니 죄를 용서해 주시오."</p>
+  <p><span class="ev" id="ev33-5">부인이 일어나 기뻐하며 ㉡답례하고 말했다. "군자의 말씀을 들으니 구름을 헤치고 다시 해를 보는 듯해 천첩의 큰 행복인가 합니다."</span><a class="ev-tag ans" href="#q33-5">33-⑤</a></p>
+  <p>방주 부부가 절하고 물러나와 그날부터 갈성진력해 공양하고 … 진사 부부와 인근 사람들이 모두 칭찬했다.</p>
+  <p>[중략] … 선관이 부인에게 홍포와 화관을 주며 말했다. "이는 천상의 보배라. … 속히 큰 공을 이루라." 선관이 또 열여검과 홍선을 주며 말했다. "이 부채는 조화가 무궁무진하니 적진을 향해 부치면 일시에 불이 일어날 것이니…"</p>
+  <p id="p-A31">[A]<span class="ev" id="ev32-4">진사 부부가 방주의 손을 잡고 눈물을 흘리며 말했다. "네가 저렇듯 깨달은 것은 천지신령이 도우심이며 방씨 가문을 빛내게 하고 늙은 우리 부부의 홍복인가 하노라. 네가 매사를 동동촉촉해 부모와 처자를 보전케 하며 우리 방씨 가문을 창성케 하라."</span><a class="ev-tag" href="#q32-4">32-④</a></p>
+  <p><span class="ev" id="ev31-4">문득 난데없는 백호가 단 아래에서 기다리고 있어 부인이 기뻐하며 백호를 어루만지며 말했다. "네가 나를 위해 왔나 보구나." 부인이 백호의 등에 올라타고 집에 돌아와</span><a class="ev-tag" href="#q31-4">31-④</a></p>
+  <p id="p-B31">[B]<span class="ev ans" id="ev32-4b">부인이 눈물을 흘리니 유 부인과 한 낭자가 또한 슬픔을 이기지 못해 말했다. "효열부인의 정성은 하늘이 알 것이나 여자의 약한 몸으로 전장에 나가 어찌 살아오기를 바라리오. 이제 영이별을 면치 못할 것이니 어찌 슬프지 않으리오."</span><a class="ev-tag ans" href="#q32-4">32-④</a></p>
+  <p>부인이 그날로 길을 떠나 서평관에 이르니 … <span class="ev" id="ev31-3">부인은 열여검을 들어 풀 베듯하니 적졸들이 혼비백산해 일시에 흩어지고 말았다.</span><a class="ev-tag" href="#q31-3">31-③</a></p>
+  <p>… <span class="ev" id="ev31-2">황제께서 정신을 차려 바라보시다가 신하를 돌아보며 물었다. "저 장수는 분명 사람이 아니라 형용이 천신이다. … 누가 알 자가 있으리오."</span><a class="ev-tag" href="#q31-2">31-②</a></p>
+  <p>이때 부인이 적병을 물리치고 황제 앞에 엎드리니 황제께서 급히 단에서 내려와 부인에게 <span class="ev ans" id="ev33-5b">㉢하례하며 말하셨다. "과인이 덕이 없어 사직을 보전하지 못하고 적 진중에 싸여 거의 죽게 되었더니 천신이 굽어살피시어 잔명을 보전케하니 어찌 황감하지 아니하리오."</span><a class="ev-tag ans" href="#q33-5">33-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob31">
+  <p class="q-stem">31. 윗글의 인물에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q31-1">① '방주'는 황천강에 이르러 완연한 사람의 몰골이 되었다.<a class="src-tag ans" href="#ev31-1">정답 근거</a></li>
+    <li id="q31-2">② '황제'는 젊은 장수가 나타나자 그의 정체를 궁금해했다.<a class="src-tag" href="#ev31-2">지문 근거</a></li>
+    <li id="q31-3">③ '부인'이 열여검을 들어 풀 베듯하자 적졸들은 혼비백산했다.<a class="src-tag" href="#ev31-3">지문 근거</a></li>
+    <li id="q31-4">④ '부인'은 자신을 기다리고 있던 백호를 타고 집으로 돌아왔다.<a class="src-tag" href="#ev31-4">지문 근거</a></li>
+    <li id="q31-5">⑤ '방주'가 눈을 떴을 때 부인은 등불 아래에서 바느질을 하고 있었다.<a class="src-tag" href="#ev31-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>지문: 황건역사가 방주 뺨을 치자 완연한 사람의 몰골이 되었다(황천강 도착 전). 그 이후 황천강에서 물에 빠뜨렸다. ①은 순서가 반대.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>완연한 사람의 몰골=황건역사 뺨 침 이후. 황천강에서는 물에 빠뜨림.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob32">
+  <p class="q-stem">32. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q32-1">① [A]는 상대의 지위를 언급하며 자신의 부담을 전가하고 있고, [B]는 상대와의 관계를 언급하며 자신의 요구를 관철하고 있다.<a class="src-tag" href="#ev32-4">지문 근거</a></li>
+    <li id="q32-2">② [A]는 구체적인 실익을 제시하여 상대의 논리적 허점을 지적하고 있고, [B]는 구체적인 명분을 들어 상대의 책임을 일깨우고 있다.<a class="src-tag" href="#ev32-4b">지문 근거</a></li>
+    <li id="q32-3">③ [A]는 상대의 선택이 가져온 영향을 언급하며 잘못을 지적하고 있고, [B]는 자신의 결정에 영향을 미친 상대의 행동을 오해하고 있다.<a class="src-tag" href="#ev32-4">지문 근거</a></li>
+    <li id="q32-4">④ [A]는 상대의 변화에 의미를 부여하며 앞으로의 행동을 당부하고 있고, [B]는 자신의 행위로 인해 발생할 수 있는 상반된 상황을 언급하고 있다.<a class="src-tag ans" href="#ev32-4">정답 근거</a></li>
+    <li id="q32-5">⑤ [A]는 상대의 성품에 기대어 자신에게 필요한 기회를 얻고자 하고 있고, [B]는 상대와 공유한 경험을 근거로 자신에 대한 상대의 행동 변화를 요구하고 있다.<a class="src-tag" href="#ev32-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>[A]: 진사 부부가 방주 변화(깨달음)에 의미 부여 + "가문을 창성케 하라" 당부. [B]: 부인 작별 - "살아오기를 바라리오"(생존 가능성 낮음) vs "만나 볼 것"(회생 기대) 상반된 상황 언급.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>[A]=변화에 의미+당부, [B]=생사 상반된 상황 언급.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob33">
+  <p class="q-stem">33. ㉠~㉢에 대해 이해한 것으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q33-1">① 방주는 ㉠을 따르는 황건역사의 꾸지람을 듣고, 부인은 ㉡을 통해 그동안의 희생을 보상받고자 한다.<a class="src-tag" href="#ev31-1">지문 근거</a></li>
+    <li id="q33-2">② 방주는 ㉠을 통해 황건역사와의 관계를 회복하고, 부인은 ㉢으로 인해 자신의 정체가 탄로날 것을 염려한다.<a class="src-tag" href="#ev31-1">지문 근거</a></li>
+    <li id="q33-3">③ 방주는 ㉠을 통해 염왕에 대한 두려움을 해소하고, 황제는 ㉢을 통해 부인의 행적에 대한 감격을 드러낸다.<a class="src-tag" href="#ev33-5b">지문 근거</a></li>
+    <li id="q33-4">④ 부인은 ㉡을 통해 방주의 요청을 수용하고, 황제는 신하들에 대한 반감을 표출하기 위해 ㉢을 행한다.<a class="src-tag" href="#ev33-5">지문 근거</a></li>
+    <li id="q33-5">⑤ 부인은 ㉡을 통해 방주의 변화에 대한 만족을 드러내고, 황제는 ㉢을 통해 목숨을 부지하게 된 상황에 대해 감사를 드러낸다.<a class="src-tag ans" href="#ev33-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>㉡: 부인 답례+"큰 행복" = 방주 변화에 만족. ㉢: 황제 하례+"잔명 보전" = 목숨 구해준 것 감사.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉡=변화 만족, ㉢=생존 감사.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob34">
+  <p class="q-stem">34. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>이 작품은 중심인물들이 시련에 대응하며 유교적 가치를 실현하는 과정을 형상화한다. 시련은 인물이 자신을 성찰하거나 가치 실현을 위해 결심하는 계기로 작용한다. 이 과정에서 초월적 존재는 인물의 성찰과 결심을 유도하고 그 결과 인물은 정당한 가치를 실현하게 된다. 이를 통해 인물의 윤리적 실천은 개인적 차원에 머무르지 않고, 사회적 차원으로까지 확장되며 작품의 주제 의식을 구체화한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q34-1">① '염왕'이 '기름에 삶으라'고 '명령'하자 '불효한 죄'를 뉘우치며 '개과천선'하겠다고 비는 방주의 모습에서, 인물이 초월적 존재가 부여한 시련을 계기로 자신의 잘못을 반성하고 있음을 알 수 있군.<a class="src-tag" href="#ev31-1">지문 근거</a></li>
+    <li id="q34-2">② '그날부터' '진사 부부'를 '공양하고' '지성으로 돌보니' '인근 사람들' '모두'에게 '칭찬'받는 방주 부부의 모습에서, 인물이 국가 질서의 회복을 위해 윤리적 실천을 사회적 차원으로 확장하고 있음을 알 수 있군.<a class="src-tag ans" href="#ev32-4">정답 근거</a></li>
+    <li id="q34-3">③ '부인'에게 '천상의 보배'를 건네며 '큰 공을 이루라'고 당부하는 선관의 모습에서, 인물이 정당한 가치 실현을 위한 행동에 나설 수 있도록 초월적 존재가 유도하고 있음을 알 수 있군.<a class="src-tag" href="#ev31-4">지문 근거</a></li>
+    <li id="q34-4">④ '그날로 길을 떠나' '적병이 명나라 진영을 에워싸'고 있는 '서평관'에 가서 '백호'에게 '나와 함께 큰 공을 이루'라고 말하는 부인의 모습에서, 인물이 국가적 위기를 계기로 가치 실현을 위한 결심을 했음을 알 수 있군.<a class="src-tag" href="#ev31-3">지문 근거</a></li>
+    <li id="q34-5">⑤ '무수한 적병을 물리'쳐 '적 진중에 싸여 거의 죽게' 된 '황제'를 구해내는 부인의 모습에서, 인물이 시련에 직접적으로 대응하며 유교적 가치를 실현하고 있는 모습이 구체화되고 있음을 알 수 있군.<a class="src-tag" href="#ev33-5b">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>방주가 부모를 공양하는 것은 효(가정/개인 윤리)이지 '국가 질서의 회복'을 위한 것이 아니다. 인근 사람들에게 칭찬받는 것이 사회적 차원이라 볼 수 있지만, 이것이 '국가 질서 회복'과는 다르다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>방주의 효=개인/가정 윤리. '국가 질서 회복'을 위한 것이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <hr class="subject-divider">
 <div class="subject-section-header">
