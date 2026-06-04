@@ -629,25 +629,25 @@
         "month": "07",
         "type": "학력평가",
         "key": "2025-07-go3",
-        "url": "/exams/2025/2025-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2025-09-go3",
-        "url": "/exams/2025/2025-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "수능",
         "key": "2025-10-go3",
-        "url": "/exams/2025/2025-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2025-11-go3",
-        "url": "/exams/2025/2025-11-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2024": [
