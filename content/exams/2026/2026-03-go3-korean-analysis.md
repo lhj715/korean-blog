@@ -15,14 +15,6 @@ summary: "2026년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
   <div class="exam-overview-item"><span>분석 범위</span><strong>공통 1~34 · 화법과작문 35~45 · 언어와매체 35~45</strong></div>
 </section>
 
-<nav class="set-nav">
-  <span class="set-nav-label">세트 바로가기</span>
-  <a href="#set1">1~3 독서이론</a><a href="#set2">4~9 사회(통합)</a><a href="#set3">10~13 과학</a><a href="#set4">14~17 인문</a><a href="#set5">18~22 갈래복합</a><a href="#set6">23~26 고전시가</a><a href="#set7">27~30 현대소설</a><a href="#set8">31~34 고전소설</a>
-  <span class="set-nav-label">화법과작문</span>
-  <a href="#setA1">35~37 발표</a><a href="#setA2">38~42 화법</a><a href="#setA3">43~45 작문</a>
-  <span class="set-nav-label">언어와매체</span>
-  <a href="#setB1">35~36 언어</a><a href="#setB2">37~39 언어</a><a href="#setB3">40~42 언어·매체</a><a href="#setB4">43~45 매체</a>
-</nav>
 
 <div id="set1" class="set-anchor"></div>
 
