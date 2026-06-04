@@ -40,10 +40,10 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">1. 위 발표에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 질문을 통해 청중과 상호 작용하며 정보를 전달하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li>
-    <li id="q1-2">② 청중의 요청에 따라 발표 내용을 추가하여 설명하고 있다.</li>
-    <li id="q1-3">③ 발표 순서를 안내하여 청중이 내용을 예측하도록 돕고 있다.</li>
-    <li id="q1-4">④ 발표 내용과 관련된 전문가의 견해를 인용하고 있다.</li>
-    <li id="q1-5">⑤ 발표 중간중간 내용을 요약하여 정보를 강조하고 있다.</li>
+    <li id="q1-2">② 청중의 요청에 따라 발표 내용을 추가하여 설명하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-3">③ 발표 순서를 안내하여 청중이 내용을 예측하도록 돕고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-4">④ 발표 내용과 관련된 전문가의 견해를 인용하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-5">⑤ 발표 중간중간 내용을 요약하여 정보를 강조하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
