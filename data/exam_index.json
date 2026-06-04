@@ -655,43 +655,43 @@
         "month": "03",
         "type": "수능",
         "key": "2024-03-go3",
-        "url": "/exams/2024/2024-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2024-04-go3",
-        "url": "/exams/2024/2024-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2024-06-go3",
-        "url": "/exams/2024/2024-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2024-07-go3",
-        "url": "/exams/2024/2024-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2024-09-go3",
-        "url": "/exams/2024/2024-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "수능",
         "key": "2024-10-go3",
-        "url": "/exams/2024/2024-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2024-11-go3",
-        "url": "/exams/2024/2024-11-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2023": [
@@ -699,43 +699,43 @@
         "month": "03",
         "type": "학력평가",
         "key": "2023-03-go3",
-        "url": "/exams/2023/2023-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2023-04-go3",
-        "url": "/exams/2023/2023-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2023-06-go3",
-        "url": "/exams/2023/2023-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2023-07-go3",
-        "url": "/exams/2023/2023-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2023-09-go3",
-        "url": "/exams/2023/2023-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "학력평가",
         "key": "2023-10-go3",
-        "url": "/exams/2023/2023-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2023-11-go3",
-        "url": "/exams/2023/2023-11-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2022": [
@@ -743,43 +743,43 @@
         "month": "03",
         "type": "학력평가",
         "key": "2022-03-go3",
-        "url": "/exams/2022/2022-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2022-04-go3",
-        "url": "/exams/2022/2022-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2022-06-go3",
-        "url": "/exams/2022/2022-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2022-07-go3",
-        "url": "/exams/2022/2022-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2022-09-go3",
-        "url": "/exams/2022/2022-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "수능",
         "key": "2022-10-go3",
-        "url": "/exams/2022/2022-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2022-11-go3",
-        "url": "/exams/2022/2022-11-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2021": [
@@ -787,43 +787,43 @@
         "month": "03",
         "type": "수능",
         "key": "2021-03-go3",
-        "url": "/exams/2021/2021-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2021-04-go3",
-        "url": "/exams/2021/2021-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2021-06-go3",
-        "url": "/exams/2021/2021-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2021-07-go3",
-        "url": "/exams/2021/2021-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2021-09-go3",
-        "url": "/exams/2021/2021-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "수능",
         "key": "2021-10-go3",
-        "url": "/exams/2021/2021-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2021-11-go3",
-        "url": "/exams/2021/2021-11-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2020": [
@@ -831,37 +831,37 @@
         "month": "03",
         "type": "학력평가",
         "key": "2020-03-go3",
-        "url": "/exams/2020/2020-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "05",
         "type": "학력평가",
         "key": "2020-05-go3",
-        "url": "/exams/2020/2020-05-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2020-06-go3",
-        "url": "/exams/2020/2020-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2020-07-go3",
-        "url": "/exams/2020/2020-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2020-09-go3",
-        "url": "/exams/2020/2020-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "수능",
         "key": "2020-10-go3",
-        "url": "/exams/2020/2020-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "12",
@@ -875,43 +875,43 @@
         "month": "03",
         "type": "수능",
         "key": "2019-03-go3",
-        "url": "/exams/2019/2019-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2019-04-go3",
-        "url": "/exams/2019/2019-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2019-06-go3",
-        "url": "/exams/2019/2019-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2019-07-go3",
-        "url": "/exams/2019/2019-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2019-09-go3",
-        "url": "/exams/2019/2019-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "학력평가",
         "key": "2019-10-go3",
-        "url": "/exams/2019/2019-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2019-11-go3",
-        "url": "/exams/2019/2019-11-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2018": [
@@ -919,37 +919,37 @@
         "month": "03",
         "type": "학력평가",
         "key": "2018-03-go3",
-        "url": "/exams/2018/2018-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2018-04-go3",
-        "url": "/exams/2018/2018-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2018-06-go3",
-        "url": "/exams/2018/2018-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2018-07-go3",
-        "url": "/exams/2018/2018-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2018-09-go3",
-        "url": "/exams/2018/2018-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "수능",
         "key": "2018-10-go3",
-        "url": "/exams/2018/2018-10-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2017": [
@@ -957,37 +957,37 @@
         "month": "03",
         "type": "수능",
         "key": "2017-03-go3",
-        "url": "/exams/2017/2017-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2017-04-go3",
-        "url": "/exams/2017/2017-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "수능",
         "key": "2017-06-go3",
-        "url": "/exams/2017/2017-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2017-07-go3",
-        "url": "/exams/2017/2017-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2017-09-go3",
-        "url": "/exams/2017/2017-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "학력평가",
         "key": "2017-10-go3",
-        "url": "/exams/2017/2017-10-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2016": [
@@ -995,43 +995,43 @@
         "month": "03",
         "type": "학력평가",
         "key": "2016-03-go3",
-        "url": "/exams/2016/2016-03-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2016-04-go3",
-        "url": "/exams/2016/2016-04-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "06",
         "type": "학력평가",
         "key": "2016-06-go3",
-        "url": "/exams/2016/2016-06-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2016-07-go3",
-        "url": "/exams/2016/2016-07-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "09",
         "type": "수능",
         "key": "2016-09-go3",
-        "url": "/exams/2016/2016-09-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "10",
         "type": "학력평가",
         "key": "2016-10-go3",
-        "url": "/exams/2016/2016-10-go3-korean-analysis/"
+        "url": null
       },
       {
         "month": "11",
         "type": "학력평가",
         "key": "2016-11-go3",
-        "url": "/exams/2016/2016-11-go3-korean-analysis/"
+        "url": null
       }
     ],
     "2015": [
