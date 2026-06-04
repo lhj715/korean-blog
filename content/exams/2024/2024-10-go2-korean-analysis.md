@@ -28,7 +28,7 @@ draft: false
   <p>최근 연구가 활발합니다. 더 알고 싶으면 화면의 QR 코드로 누리집을 방문해 보세요. 식물을 새로운 관점에서 볼 계기가 되길 바랍니다. 감사합니다.</p>
 </div>
 
-<div class="q-block" id="prob1">1
+<div class="q-block" id="prob1">
   <p class="q-stem">1. 학생의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표하게 된 소감을 밝히며 시작하고 있다.</li>
@@ -56,7 +56,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob2">2
+<div class="q-block" id="prob2">
   <p class="q-stem">2. 발표 전략으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q2-1">① ㉠: 가시광선 학습 내용을 떠올리도록 스펙트럼을 그림으로 제시.</li>
@@ -84,7 +84,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob3">3
+<div class="q-block" id="prob3">
   <p class="q-stem">3. &lt;보기&gt;는 발표를 들은 학생들의 반응이다. 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -145,7 +145,7 @@ draft: false
   <p>고려할 원리는 ① <span class="ev ans" id="ev6">자립성(스스로 순환 — 물길·부레옥잠 같은 자정 식물)</span><a class="ev-tag ans" href="#q6-3">6-③</a> ② 연결성(갈대숲과 유사 환경으로 서식 범위 확대) ③ <span class="ev" id="ev6d">다양성(수심·바닥 토양 두께를 달리해 다양한 동식물 서식)</span><a class="ev-tag" href="#q6-4">6-④</a>이다. <span class="ev" id="ev6e">생태 교육 등을 실시해 학생들의 관심과 실천을 유도해야 한다.</span><a class="ev-tag" href="#q6-5">6-⑤</a></p>
 </div>
 
-<div class="q-block" id="prob4">4
+<div class="q-block" id="prob4">
   <p class="q-stem">4. (가)의 ‘학생1’에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q4-1">① 화제를 제시하며 대화를 시작하고 있다.<a class="src-tag" href="#ev4a">지문 근거</a></li>
@@ -173,7 +173,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob5">5
+<div class="q-block" id="prob5">
   <p class="q-stem">5. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q5-1">① [A]의 ‘학생2’와 달리 [B]의 ‘학생3’은 의견을 반박하며 이해가 적절한지 확인한다.</li>
@@ -202,7 +202,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob6">6
+<div class="q-block" id="prob6">
   <p class="q-stem">6. (가)를 반영하여 (나)를 작성하기 위한 글쓰기 계획 중 (나)에 반영된 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
     <li id="q6-1">① 학교 연못의 문제점을 인간 중심적 관점과 관련지어 제시.<a class="src-tag" href="#ev6a">지문 근거</a></li>
@@ -230,7 +230,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob7">7
+<div class="q-block" id="prob7">
   <p class="q-stem">7. &lt;보기&gt;의 조언에 따라 (나)의 제목을 작성한 것으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -275,7 +275,7 @@ draft: false
   <p class="muted">[A] (마무리 — 10번에서 고쳐 씀)</p>
 </div>
 
-<div class="q-block" id="prob8">8
+<div class="q-block" id="prob8">
   <p class="q-stem">8. ‘학생의 초고’에 활용된 글쓰기 전략으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q8-1">① 중심 제재와 관련된 이론을 제시하고 있다.</li>
@@ -303,7 +303,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob9">9
+<div class="q-block" id="prob9">
   <p class="q-stem">9. &lt;보기&gt;(추가 수집 자료)의 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -335,7 +335,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob10">10
+<div class="q-block" id="prob10">
   <p class="q-stem">10. &lt;보기&gt;는 [A]를 고쳐 쓴 글이다. 친구들의 조언 중 반영되지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 — 고쳐 쓴 [A] &gt;</p>
@@ -377,7 +377,7 @@ draft: false
   <p>종속적인 경우(주어 동일·시제 선어말 어미 불가·순서 못 바꿈)에는 ㉡<span class="ev" id="ev12c">앞 절 사건이 끝난 뒤 뒤 절이 연달아 일어남(앞 절 동사 [+완결성])</span><a class="ev-tag" href="#q12-4">12-④</a>, ㉢<span class="ev ans" id="ev12b">앞 절 동작의 결과가 지속되는 가운데 뒤 절 동작이 일어남(앞 절 동사 [+완결성][+지속성])</span><a class="ev-tag ans" href="#q12-3">12-③</a>이 있다. (예: ‘찍고’=[+완결][-지속]→순차, ‘쥐고’=[+완결][+지속]→지속)</p>
 </div>
 
-<div class="q-block" id="prob11">11
+<div class="q-block" id="prob11">
   <p class="q-stem">11. 윗글의 ㉮(보조적 연결 어미)가 쓰인 예문으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q11-1">① 그가 떠나고 말았다.</li>
@@ -405,7 +405,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob12">12
+<div class="q-block" id="prob12">
   <p class="q-stem">12. 윗글을 바탕으로 &lt;보기&gt;를 탐구한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -440,7 +440,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob13">13
+<div class="q-block" id="prob13">
   <p class="q-stem">13. &lt;보기&gt;의 음운 변동을 이해한 것으로 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -475,7 +475,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob14">14
+<div class="q-block" id="prob14">
   <p class="q-stem">14. &lt;보기&gt;의 [A]에 들어갈 예(동일 형태가 <strong>체언과 수식언</strong>으로 쓰인 사례)로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q14-1">① 노력한 만큼 대가를 얻다. / 나도 너만큼은 할 수 있다.</li>
@@ -506,7 +506,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob15">15
+<div class="q-block" id="prob15">
   <p class="q-stem">15. &lt;보기&gt;를 바탕으로 탐구 자료를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -562,7 +562,7 @@ draft: false
   <p><span class="ev ans" id="ev18">크라우스는 물질적·비물질적 지지체가 결합된 복합 구조를 <strong>기술적 지지체</strong>라 부른다. 지지체를 사용하는 관습이나 기법을 '규칙'이라 하며, 기술적 지지체 내 지지체들과 규칙들이 서로 맞물려 새로운 규칙을 만들어 미적 효과를 발생시키는 현상이 <strong>규칙 겹침</strong>이다.</span><a class="ev-tag ans" href="#q18-4">18-④</a></p>
 </div>
 
-<div class="q-block" id="prob16">16
+<div class="q-block" id="prob16">
   <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q16-1">① (나)와 달리 (가)는 화제에 대한 여러 학자의 관점을 사례를 들어 설명하고 있다.</li>
@@ -590,7 +590,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob17">17
+<div class="q-block" id="prob17">
   <p class="q-stem">17. (가)의 ⓐ와 ⓑ에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q17-1">① ⓐ=현실 반영, ⓑ=교육적 가치가 담겨 있다.</li>
@@ -618,7 +618,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob18">18
+<div class="q-block" id="prob18">
   <p class="q-stem">18. (나)의 지지체에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q18-1">① 포스트매체 조건에서는 사물의 소리도 지지체가 될 수 있다.<a class="src-tag" href="#ev18b">지문 근거</a></li>
@@ -646,7 +646,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob19">19
+<div class="q-block" id="prob19">
   <p class="q-stem">19. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -678,7 +678,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob20">20
+<div class="q-block" id="prob20">
   <p class="q-stem">20. 윗글을 읽은 학생이 학자들의 입장에서 &lt;보기&gt;에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
     <li id="q20-1">① 아리스토텔레스는 [자료1]의 '초상화'와 [자료2]의 '작품 B'는 모두 형상·질료로 구성된 실체라고 보겠군.</li>
@@ -706,7 +706,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob21">21
+<div class="q-block" id="prob21">
   <p class="q-stem">21. ㉠~㉤의 사전적 의미로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q21-1">① ㉠(규정하고): 내용이나 성격, 의미 따위를 밝혀 정함.</li>
@@ -751,7 +751,7 @@ draft: false
   <p><span class="ev ans" id="ev25">회사에서는 기사를 채용하지 않고 기사장에게 전기실 책임도 맡겼는데, '전기에 대해서는 기계과 출신으로서의 상식밖에 없다'는 것은 회사의 무리한 요구를 보여 줄 뿐, 획일화된 도시 부적응의 모습이 아니다.</span><a class="ev-tag ans" href="#q25-2">25-②</a></p>
 </div>
 
-<div class="q-block" id="prob22">22
+<div class="q-block" id="prob22">
   <p class="q-stem">22. 윗글의 서술상의 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q22-1">① 역순행적 구성을 활용하여 사건이 일어난 이유를 밝히고 있다.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
@@ -779,7 +779,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob23">23
+<div class="q-block" id="prob23">
   <p class="q-stem">23. 윗글의 내용을 이해한 것으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q23-1">① 아내는 벽돌을 나르는 김명학의 모습을 보고 무슨 영문인지 몰랐다.</li>
@@ -807,7 +807,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob24">24
+<div class="q-block" id="prob24">
   <p class="q-stem">24. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q24-1">① ㉠은 동정하는, ㉡은 동정받는 공간이다.</li>
@@ -835,7 +835,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob25">25
+<div class="q-block" id="prob25">
   <p class="q-stem">25. &lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -885,7 +885,7 @@ draft: false
   <p>탈착 → <span class="ev ans" id="ev29">박막 소재(음전하)·물 분자 산소 원자(음전하) 사이 전기적 반발력이 인력보다 크게 작용해 빠르게 탈착됨.</span><a class="ev-tag ans" href="#q29-5">29-⑤</a> 탈착 후 정전용량 원래 크기 회복.</p>
 </div>
 
-<div class="q-block" id="prob26">26
+<div class="q-block" id="prob26">
   <p class="q-stem">26. '정전용량형 근접 습도 센서'에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q26-1">① 축전기를 구성하는 두 전극 중 하나만 외부에 노출되어 있다.</li>
@@ -913,7 +913,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob27">27
+<div class="q-block" id="prob27">
   <p class="q-stem">27. &lt;보기&gt;(ⓐ=상부 전극, ⓑ=수분 유지 기판, ⓒ=하부 전극)를 이해한 것으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q27-1">① 공기 중 물 분자는 ⓐ를 통해 축전기 내부로 유입된다.</li>
@@ -941,7 +941,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob28">28
+<div class="q-block" id="prob28">
   <p class="q-stem">28. &lt;보기&gt;(t1=전원 공급, t2=흡착 시작, t3=정전용량 최대, t4=탈착 완료)를 이해한 학생의 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
     <li id="q28-1">① t1·t3의 유전율은 다르겠군.<a class="src-tag" href="#ev28a">지문 근거</a></li>
@@ -969,7 +969,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob29">29
+<div class="q-block" id="prob29">
   <p class="q-stem">29. ㉮(빠르게 탈착)의 이유를 추론한 것으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q29-1">① 투습성 소재로 제작된 상부 전극을 통해 탈착되기 쉽기 때문이다.</li>
@@ -1008,7 +1008,7 @@ draft: false
   <p>지역권 비교 — <span class="ev" id="ev33">㉡상린권</span><a class="ev-tag" href="#q33-5">33-⑤</a>: 경계 인접 토지 소유권자들이 토지를 원만히 이용하도록 상호 조절하는 권리. 별도 등기 불필요. ㉠지역권은 별도 계약·등기가 필요하다.</p>
 </div>
 
-<div class="q-block" id="prob30">30
+<div class="q-block" id="prob30">
   <p class="q-stem">30. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q30-1">① 요역지의 소유권자는 승역지를 배타적으로 이용할 수 있다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
@@ -1036,7 +1036,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob31">31
+<div class="q-block" id="prob31">
   <p class="q-stem">31. 토지 소유권자에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q31-1">① 토지 소유권자의 권리는 자신이 소유한 토지의 지면에 한정된다.</li>
@@ -1064,7 +1064,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob32">32
+<div class="q-block" id="prob32">
   <p class="q-stem">32. &lt;보기&gt;(A 씨=토지X 소유 / 지역권자(토지Y) / 지상권설정자, B 씨=토지Y 소유 / 지역권설정자 / 지상권자(토지X), C 씨=토지X 소유권 인수)를 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
     <li id="q32-1">① A 씨는 지상권 설정 후 토지 전부를 이용할 수 없겠군.</li>
@@ -1092,7 +1092,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob33">33
+<div class="q-block" id="prob33">
   <p class="q-stem">33. 윗글의 ㉠(지역권)과 &lt;보기&gt;의 ㉡(상린권)을 비교한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q33-1">① ㉠은 ㉡과 달리 토지 소유권자 간의 원만한 토지 이용을 목적으로 한다.</li>
@@ -1120,7 +1120,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob34">34
+<div class="q-block" id="prob34">
   <p class="q-stem">34. ⓐ(높이는)와 문맥적 의미가 가장 유사한 것은?</p>
   <ul class="q-opts">
     <li id="q34-1">① 예술에 대한 안목을 높였다.<a class="src-tag ans" href="#ev34">정답 근거</a></li>
@@ -1177,7 +1177,7 @@ draft: false
   <p>㉤<span class="ev" id="ev37e">'청'이라고만 말하지 않고 굳이 그 글자를 중복한 이유는 스스로 재삼 다짐하는 깊은 뜻을 나타낸 것일 것이다.</span><a class="ev-tag" href="#q37-5">37-㉤</a></p>
 </div>
 
-<div class="q-block" id="prob35">35
+<div class="q-block" id="prob35">
   <p class="q-stem">35. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q35-1">① 색채의 대비를 통해 주제 의식을 강조하고 있다.</li>
@@ -1205,7 +1205,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob36">36
+<div class="q-block" id="prob36">
   <p class="q-stem">36. &lt;보기&gt;(ⓐ입몽·ⓑ개암정 방문·ⓒ경관 감상·ⓓ개암정 모임·ⓔ각몽)의 ⓐ~ⓔ에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q36-1">① ⓐ: 꿈속에서 호랑나비의 날개를 빌려 개암정을 찾아가는 과정을 드러낸다.</li>
@@ -1233,7 +1233,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob37">37
+<div class="q-block" id="prob37">
   <p class="q-stem">37. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q37-1">① ㉠: '나'가 청청각을 방문한 사람들의 반응을 제시하고 있다.<a class="src-tag" href="#ev37a">지문 근거</a></li>
@@ -1261,7 +1261,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob38">38
+<div class="q-block" id="prob38">
   <p class="q-stem">38. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1307,7 +1307,7 @@ draft: false
   <p>태종이 [B]에서 귀졸들에게 금을 나눠 주며 '십전 명부에서 원한이 가득 찼음을 알면 다시 세상으로 인도해 가게 하리라'고 설득해 귀졸들이 물러선다.</p>
 </div>
 
-<div class="q-block" id="prob39">39
+<div class="q-block" id="prob39">
   <p class="q-stem">39. 윗글의 최 판관에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q39-1">① 태종을 위해 자신이 맡은 직책의 권위를 이용하여 계략을 행하고 있다.</li>
@@ -1335,7 +1335,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob40">40
+<div class="q-block" id="prob40">
   <p class="q-stem">40. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q40-1">① [A]는 과거 사실로 상대를 조종, [B]는 미래 상황 가정으로 상대를 조롱한다.</li>
@@ -1363,7 +1363,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob41">41
+<div class="q-block" id="prob41">
   <p class="q-stem">41. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q41-1">① ㉠은 인물 간 오해 발생, ㉡은 오해 해소 장소이다.</li>
@@ -1391,7 +1391,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob42">42
+<div class="q-block" id="prob42">
   <p class="q-stem">42. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1443,7 +1443,7 @@ draft: false
   그리운 곳에는 우리를 부르는 소리가 있네 [수미상관]<a class="ev-tag ans" href="#q43-2">43-②</a></p>
 </div>
 
-<div class="q-block" id="prob43">43
+<div class="q-block" id="prob43">
   <p class="q-stem">43. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q43-1">① (가)와 달리 (나)는 감탄사를 사용하여 고조된 감정을 표현하고 있다.</li>
@@ -1472,7 +1472,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob44">44
+<div class="q-block" id="prob44">
   <p class="q-stem">44. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q44-1">① ㉠: 목련이 가지에 낱낱이 피어 있는 형상을 부각하고 있다.<a class="src-tag" href="#ev44a">지문 근거</a></li>
@@ -1500,7 +1500,7 @@ draft: false
   </details>
 </div>
 
-<div class="q-block" id="prob45">45
+<div class="q-block" id="prob45">
   <p class="q-stem">45. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
