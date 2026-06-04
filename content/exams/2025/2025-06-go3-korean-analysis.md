@@ -475,7 +475,141 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 
 <div id="set4" class="set-anchor"></div>
 
-## 14~17번 인문(정보철학) · [작성 예정]
+## 14~17번 인문(정보철학) · 플로리디의 정보 철학 / 인포그·인포스피어
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>플로리디의 핵심 개념 3가지를 순서대로 이해: 인포그 → 인포스피어 → 추상화 층위.</p>
+  <ul>
+    <li><strong>인포그</strong> — 속성·행위가 정보로 환원되는 존재. 상호 연결의 주체이자 대상</li>
+    <li><strong>인포스피어</strong> — 인포그와 상호 연결을 망라하는 공간 = 현대 생활 환경 전체</li>
+    <li><strong>추상화 층위</strong> — 주체의 목적·관심을 반영해 대상을 인식하는 경로. 목적에 맞는 속성만 인식, 나머지는 생략</li>
+    <li><strong>윤리</strong> — 인공물까지 내재적 가치 인정(인포스피어 확장)</li>
+  </ul>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[14 ~ 17] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev1417-1">인간을 정보와 독립적으로 존재하며 정보는 인간의 도구에 불과하다는 인간중심주의와 달리, 플로리디의 정보 철학은 인간을 정보적 존재의 하나로 간주한다. 인간을 포함한 세계 내 모든 존재는 속성과 행위가 정보로 환원된다는 것이다. 이렇듯 속성과 행위가 정보로 환원되는 정보적 존재를 플로리디는 '인포그'라고 부른다.</span><a class="ev-tag ans" href="#q14-3">14-③</a></p>
+  <p><span class="ev" id="ev1417-2">인포그는 정보적으로 상호 연결되어 영향을 주고받는 존재이다. 상호 연결되었다는 것의 의미는, 다른 정보를 변화시키는 행위자 즉 주체인 동시에 다른 정보에 의해 변화되는 대상이라는 것이다.</span><a class="ev-tag" href="#q14-5">14-⑤</a></p>
+  <p><span class="ev" id="ev1417-ethics">인포그의 '있음'은 '상호 연결의 주체와 대상이 될 수 있다'는 뜻으로 정의된다. 모든 인포그들은 각자의 본성에 적합한 방식으로 '있을' 나름의 권리를 가진다고 플로리디는 주장한다. 플로리디는 존재하는 것의 내재적 가치를 '있음'에서 찾음으로써 인공물로까지 도덕적 대상의 범위를 확장한다.</span><a class="ev-tag" href="#q16-1">16-①</a><a class="ev-tag" href="#q16-5">16-⑤</a></p>
+  <p><span class="ev" id="ev1417-abs">플로리디는 인포그와 그 상호 연결을 망라하는 공간을 '인포스피어'라 칭한다. 추상화 층위란 주체의 목적이나 관심을 반영함으로써 주체와 대상 사이의 인식적 관계를 매개하는 경로이다. 추상화 층위에서는 그 층위를 선택한 주체의 목적에 부합하는 속성만 정보로 인식되고 나머지 정보는 생략된다.</span><a class="ev-tag" href="#q14-4">14-④</a><a class="ev-tag ans" href="#q15-5">15-⑤</a></p>
+  <p><span class="ev" id="ev1417-const">㉠추상화 층위를 통해 인식되는 정보는 '구성'된 것이다. 여기서 구성이란, 주어진 세계를 주체가 택한 경로에 따라 해석하여 이해하는 것을 말한다. 즉, 플로리디에 따르면 인포스피어라는 공간은 주체가 발견한 것도 주체가 만들어 낸 허구도 아니다.</span><a class="ev-tag ans" href="#q15-5">15-⑤</a><a class="ev-tag" href="#q15-4">15-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 플로리디의 정보 철학에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q14-1">① '있음'의 개념은 경험주의에서 정의하는 것과 같은 뜻을 지닌다.<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
+    <li id="q14-2">② 인간과 영향을 주고받는 정보는 모두 음성 정보의 형태로 전달된다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+    <li id="q14-3">③ 사물이 지닌 속성과 마찬가지로 인간이 지닌 속성 또한 정보로 환원될 수 있다.<a class="src-tag ans" href="#ev1417-1">정답 근거</a></li>
+    <li id="q14-4">④ 추상화 층위에서 생략되는 정보는 층위를 선택한 주체의 목적에 부합하는 정보이다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
+    <li id="q14-5">⑤ 하나의 정보적 존재는 다른 정보적 존재들과의 상호 연결 관계를 둘 이상 맺을 수 없다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>"인간을 포함한 세계 내 모든 존재는 속성과 행위가 정보로 환원된다" → 인간의 속성도 정보로 환원.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>플로리디의 '있음' ≠ 경험주의의 '있음'(경험될 수 있다).</td></tr>
+          <tr><td>②</td><td>오답</td><td>음성 정보 외에도 다양한 형태.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>세계 내 모든 존재(인간 포함)는 속성이 정보로 환원.</td></tr>
+          <tr><td>④</td><td>오답</td><td>목적에 부합하는 속성은 인식, 나머지가 생략됨.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>상호 연결 관계가 하나로 제한되지 않음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. ㉠의 의미로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q15-1">① 인포그가 속한 공간은, 오프라인 공간이 아닌 온라인 공간이다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
+    <li id="q15-2">② 주체가 어떤 추상화 층위를 택하는가에 따라, 인포그는 행위자와 대상 중 어느 하나에만 해당한다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+    <li id="q15-3">③ 추상화 층위에 의한 주체와 대상 사이의 매개는, 인포그가 가지는 속성에 대한 인식이 객관적임을 보장한다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
+    <li id="q15-4">④ 인포그들이 서로 의존함으로써 존재하는 공간은, 추상화 층위를 통해 주체가 전적으로 만들어 낸 허구이다.<a class="src-tag" href="#ev1417-const">지문 근거</a></li>
+    <li id="q15-5">⑤ 인포그가 지닌 속성이라는 정보는, 주체가 자신을 둘러싼 세계를 어떤 관점을 통해서 인식하는가에 의존한다.<a class="src-tag ans" href="#ev1417-abs">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>추상화 층위를 통해 인식되는 정보는 '구성'된 것 → 주체가 어떤 층위(관점)를 택하느냐에 따라 인식되는 속성이 달라짐.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③</td><td>오답</td><td>각각 지문과 불일치.</td></tr>
+          <tr><td>④</td><td>오답</td><td>인포스피어는 허구가 아님.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>추상화 층위(주체의 관점)에 따라 인식되는 속성 달라짐.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. 윗글을 바탕으로 ㄱ〜ㅁ에 대해 판단한 것으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① ㄱ은 플로리디의 입장과 상충하지 않는다.<a class="src-tag ans" href="#ev1417-ethics">정답 근거</a></li>
+    <li id="q16-2">② ㄴ은 플로리디의 입장과 상충한다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+    <li id="q16-3">③ ㄷ은 인간중심주의의 입장과 상충하지 않는다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
+    <li id="q16-4">④ ㄹ은 뉴턴의 입장과 상충하지만, 플로리디의 입장과는 상충하지 않는다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
+    <li id="q16-5">⑤ ㅁ은 생명 중심 윤리학의 입장과 상충하지 않지만, 플로리디의 입장과는 상충한다.<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>ㄱ: "인간은 다른 인공물들과 동일한 권리를 가진다" → 플로리디는 "각자의 본성에 적합한 방식으로 권리를 가진다"고 했으므로 동일한 권리가 아님 → ①이 틀림(플로리디 입장과 상충함).</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>플로리디는 동일한 권리가 아닌 각자의 본성에 적합한 권리라 함 → ㄱ은 플로리디와 상충.</td></tr>
+          <tr><td>②③④⑤</td><td>오답(적절)</td><td>각각 올바른 판단.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. &lt;보기&gt;는 플로리디와 학생이 나눈 가상의 대화이다. 윗글을 참고할 때, ㉮에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
+  <ul class="q-opts">
+    <li id="q17-1">① AI-TCS는 호모포이에티쿠스에 속하지 않으며, 칸트 윤리학에서 도덕 행위자로서의 지위가 인정될 자격을 갖지 않는다고<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
+    <li id="q17-2">② 칸트와는 대조적으로, 자유 의지를 지니지 않은 비인간 행위자인 AI-TCS에는 교통 혼란에 대한 책임을 지울 수 없다고<a class="src-tag ans" href="#ev1417-ethics">정답 근거</a></li>
+    <li id="q17-3">③ AI-TCS와 같은 인공물이 바람직하지 않은 결과를 초래하지 않게끔 예방적으로 관리할 책임이 호모포이에티쿠스에게 있다고<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
+    <li id="q17-4">④ 도로의 교통 통제에 대한 규칙을 변경한 AI-TCS에 대해 도덕적 옳고 그름을 평가하는 것이 칸트와 달리 가능하다고<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
+    <li id="q17-5">⑤ AI-TCS와 같은 인포그들이 상호 의존함으로써 존재하는 생활 환경으로서의 인포스피어를 더 나은 공간으로 가꿔 나가는 데 호모포이에티쿠스가 책임을 다해야 한다고<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>플로리디는 "자유 의지가 없어도 도덕 행위자에 포함되고 도덕적 옳고 그름까지 평가될 수 있다"고 하면서도, "책임을 질 수 없다"고 인정함. ②는 "칸트와는 대조적으로 책임을 지울 수 없다"고 했는데, 책임을 질 수 없다는 것은 칸트와 플로리디 모두 동의하는 사항. 즉 ②는 칸트와의 대조가 잘못됨.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답(부적절)</td><td>칸트도 자유의지 없으면 책임 불가. 플로리디도 동일. 대조 포인트가 아님.</td></tr>
+          <tr><td>①③④⑤</td><td>오답(적절)</td><td>각각 <보기>의 플로리디 발언 내용과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set5" class="set-anchor"></div>
 
