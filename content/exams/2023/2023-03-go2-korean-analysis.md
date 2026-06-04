@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2023" month="03" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 안녕하세요.　저는 동양의 전통 문방구인 ‘먹’에 대해 
 
 <div class="passage">
@@ -114,6 +116,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · (가)는 수업 중 학생 대화이고, (나)는 (가)의 활동 이후 
 
@@ -248,6 +252,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 교지 편집부의 요청에 따라 학생이 쓴 글의 초고
 
 <div class="passage">
@@ -354,6 +360,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · ‘ㅎ’을 포함하고 있는 음운 변동의 양상은 음운 환경에
 
@@ -531,6 +539,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~20번 독서(과학·기술) · 세포핵 속 DNA에 저장된 생물체의 유전 정보는 mRN
 
 <div class="passage">
@@ -692,6 +702,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 21~25번 독서(사회) · 주택 임대차는 임차인이 주택의 소유자인 임대인에게 보증
 
 <div class="passage">
@@ -851,6 +863,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 현대시 · 출퇴근에 대한 관념은 근대 이후에 형성되었다. 집과 일
 
@@ -1014,6 +1028,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~34번 고전시가 · 지팡이 짚고 바람　쐬며 좌우를 돌아보니누대의 맑은 경치
 
 <div class="passage">
@@ -1144,6 +1160,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 35~38번 현대시 · [앞부분의 내용] 단역 전문 배우인 ‘그’는 일요일에도
 
@@ -1277,6 +1295,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 39~42번 현대시 · 어느 날 이생이 최씨에게 말했다
 
 <div class="passage">
@@ -1406,6 +1426,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학 · 여기저기서 단풍잎 같은 슬픈 가을이 뚝뚝 떨어진다. 단
 

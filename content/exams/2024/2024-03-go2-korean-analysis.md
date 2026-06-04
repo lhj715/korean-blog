@@ -14,6 +14,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 밥의 호화와 노화 발표
 
 <div class="read-guide">
@@ -137,6 +139,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 아르바이트 프로그램 건의 (대화 → 건의문)
 
@@ -299,6 +303,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 유니버설 디자인 소개 글
 
 <div class="read-guide">
@@ -427,6 +433,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 관형사절·파생어·음운 변동·중세 주격 조사
 
@@ -615,6 +623,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~20번 독서(과학) · 소리의 높낮이를 지각하는 달팽이관
 
 <div class="read-guide">
@@ -795,6 +805,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 21~25번 독서(인문) · 신고전주의와 낭만주의 미술
 
@@ -979,6 +991,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~30번 독서(사회) · 행정 행위의 부관
 
 <div class="read-guide">
@@ -1162,6 +1176,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~33번 문학(고전 시가) · 이휘일 〈전가팔곡〉
 
 <div class="read-guide">
@@ -1292,6 +1308,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 34~38번 문학(갈래 복합) · 박두진 〈청산도〉 · 기형도 〈숲으로 된 성벽〉 · 이규보 〈지지헌기〉
 
@@ -1483,6 +1501,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 39~42번 문학(현대 소설) · 이태준 〈점경〉
 
 <div class="read-guide">
@@ -1634,6 +1654,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학(고전 소설) · 작자 미상 〈옥란전〉
 

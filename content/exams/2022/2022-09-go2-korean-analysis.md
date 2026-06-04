@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2022" month="09" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 안녕하세요? 오늘 발표를 맡은 ○○○입니다. 저는 얼마
 
 <div class="passage">
@@ -120,6 +122,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 독서(과학·기술) · (가)는 반대 신문식 토론의 일부이고, (나)는 토론에 청중으로
 
@@ -252,6 +256,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 교지 편집부의 요청에 따라 학생이 쓴 글의 초고
 
 <div class="passage">
@@ -357,6 +363,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 주어가 스스로 동작이나 행위를 하는 것을 능동이라 하고
 
@@ -540,6 +548,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~20번 화법 · 그중 합리적 행위자 모델은 포괄적 합리성을 바탕으로 정
 
 <div class="passage">
@@ -701,6 +711,8 @@ A국과 B국은 군사적으로 대립 관계에 있는 인접 국가이다. A�
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 21~24번 독서(과학·기술) · 나는 아주 단순한 세상을 그렸다. 아버지가 꿈꾼 세상보
 
 <div class="passage">
@@ -832,6 +844,8 @@ A국과 B국은 군사적으로 대립 관계에 있는 인접 국가이다. A�
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 25~27번 고전시가 · 저녁 한동안 가난한 시민들의살과 피를 데워 주고 밥상머
 
 <div class="passage">
@@ -934,6 +948,8 @@ A국과 B국은 군사적으로 대립 관계에 있는 인접 국가이다. A�
     </div>
   </details>
 </div>
+
+<div id="set8" class="set-anchor"></div>
 
 ## 28~32번 현대시 · 데이터를 주고받을 때, 송신 측은 데이터별로 고유하게 
 
@@ -1112,6 +1128,8 @@ A국과 B국은 군사적으로 대립 관계에 있는 인접 국가이다. A�
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 33~37번 현대시 · 우리는 친구들과 같은 사진을 보고도 서로 다르게 인식하
 
 <div class="passage">
@@ -1282,6 +1300,8 @@ A국과 B국은 군사적으로 대립 관계에 있는 인접 국가이다. A�
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 38~41번 현대시 · ㉠관서(關西) 명승지(名勝地)에 왕명(王命)으로 보내시
 
 <div class="passage">
@@ -1412,6 +1432,8 @@ A국과 B국은 군사적으로 대립 관계에 있는 인접 국가이다. A�
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 42~45번 현대시 · [앞부분의 줄거리] 왕경룡은 아버지가 상인에게 빌려준 
 

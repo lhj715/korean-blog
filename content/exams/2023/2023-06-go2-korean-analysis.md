@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2023" month="06" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 식물원을 방문한 학생들을 대상으로 한 강연
 
 <div class="passage">
@@ -117,6 +119,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법 · (가)는 교내 신문의 학생 기사문이고, (나)는 (가)의 보도 
 
@@ -257,6 +261,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 작문 상황과 이를 바탕으로 작성한 학생의 초고
 
 <div class="passage">
@@ -361,6 +367,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 작문 · ‘품사’는 공통된 성질이 있는 단어끼리 묶어서 분류해 
 
@@ -554,6 +562,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~20번 현대시 · 헌 누더기 입은 무리가 남자인지 여자인지어린 자식 등에
 
 <div class="passage">
@@ -715,6 +725,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 21~25번 현대시 · 소크라테스 이후의 전통 형이상학에서는 현실 세계를 불완
 
@@ -886,6 +898,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~28번 화법 · [앞부분의 줄거리] 어머니는 마름집 하인들에게 억울한 
 
 <div class="passage">
@@ -986,6 +1000,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set8" class="set-anchor"></div>
 
 ## 29~32번 현대시 · 과학수사에서 ‘DNA 분석’은 범인을 ⓐ추정하거나 피해
 
@@ -1138,6 +1154,8 @@ GATA
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 33~38번 화법 · ㉠‘완전경쟁시장’은 많은 수의 수요자와 공급자 사이에 
 
@@ -1346,6 +1364,8 @@ P2
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 39~42번 현대시 · [앞부분의 줄거리] 중국 명나라 소 승상의 아들 소 학
 
 <div class="passage">
@@ -1477,6 +1497,8 @@ P2
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학 · 세 끼 밥벌이 고단할 때면 이봐수시로 늘어나는 현 조율
 

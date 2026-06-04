@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2021" month="03" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 여러분, ‘노리개’가 무엇인지 아시나요? (청중의 대답
 
 <div class="passage">
@@ -111,6 +113,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 유휴 교실 활용 방안 논의
 
@@ -240,6 +244,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 탐방 동아리 블로그에 올릴 학생 글의 ‘초고’
 
 <div class="passage">
@@ -330,6 +336,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 명사는 자립성의 유무에 따라 자립 명사와 의존 명사로 
 
@@ -523,6 +531,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~18번 현대시 · 숙주: 저 선생님! 제가 신숙주라는 인물과 비유되는 것
 
 <div class="passage">
@@ -622,6 +632,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 19~23번 갈래 복합 · 운명론적 세계관과 화자의 태도
 
@@ -784,6 +796,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 24~27번 독서(과학·기술) · 타워 크레인의 구조와 작동 원리
 
 <div class="passage">
@@ -918,6 +932,8 @@ A, B를 이용해 같은 무게의 중량물을 각각 들어 올릴 때, 권상
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 28~31번 현대시 · 천자 가만히 북문을 열고 도망하실새, 길은 없고 다만 
 
 <div class="passage">
@@ -1047,6 +1063,8 @@ A, B를 이용해 같은 무게의 중량물을 각각 들어 올릴 때, 권상
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 32~36번 현대시 · 미의 본질에 대한 최초의 연구는 고대 그리스 피타고라스
 
@@ -1224,6 +1242,8 @@ A, B를 이용해 같은 무게의 중량물을 각각 들어 올릴 때, 권상
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 37~42번 독서(과학·기술) · 이타적 행동의 진화론적 설명
 
@@ -1425,6 +1445,8 @@ B
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · “아파트에 이사 오더니 대접이 달라지네. 웬 밤참이야.
 

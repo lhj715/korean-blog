@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2023" month="12" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 안녕하세요? 오늘 발표를 맡은 역사 탐구 동아리 회장 
 
 <div class="passage">
@@ -120,6 +122,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · (가)는 학교 누리집에 실을 글을 작성하기 위한 학생회 학생들의
 
@@ -255,6 +259,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 작문 상황과 이를 바탕으로 학생이 작성한 초고
 
 <div class="passage">
@@ -359,6 +365,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 음절이란 발음할 수 있는 최소의 언어 단위로 초성, 중
 
@@ -543,6 +551,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 화법 · 고전적 기술철학은 개별적인 기술 하나하나에 관심을 두기
 
@@ -737,6 +747,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 22~25번 독서(사회) · 건축물을 짓고자 하는 사람은 건축 허가를 받을 수 있는
 
 <div class="passage">
@@ -869,6 +881,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set7" class="set-anchor"></div>
 
 ## 26~30번 현대시 · 로켓의 안정적인 비행을 위해 연소 불안정은 반드시 해결
 
@@ -1051,6 +1065,8 @@ C
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~33번 독서(사회) · 갈밭 속을 간다
 
 <div class="passage">
@@ -1151,6 +1167,8 @@ C
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 34~37번 독서(인문) · 한편, 명훈은 여전히 걸핏하면 국장에게 불리어 갔다. 
 
@@ -1284,6 +1302,8 @@ C
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 38~41번 현대시 · 연희각 잠깐 쉬어 순력 길 바삐 나서해방(海方)도 둘러
 
 <div class="passage">
@@ -1413,6 +1433,8 @@ C
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 42~45번 작문 · 유씨 대로하여 꾸짖어 왈
 

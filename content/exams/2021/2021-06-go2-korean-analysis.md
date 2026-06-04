@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2021" month="06" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 수업 중 학생의 발표
 
 <div class="passage">
@@ -107,6 +109,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 멸종 위기종 보호와 인간·자연 공존
 
@@ -253,6 +257,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 현대시 · 작문 상황에 따라 학생이 쓴 글
 
 <div class="passage">
@@ -357,6 +363,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 의문문은 일반적으로 화자가 청자에게 질문하여 대답을 요
 
@@ -537,6 +545,8 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~20번 독서(인문) · 데카르트로 대표되는 서양의 근대 철학은 주체 중심의 철
 
 <div class="passage">
@@ -702,6 +712,8 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 21~25번 독서(사회) · 내용증명 우편 제도의 활용
 
 <div class="passage">
@@ -858,6 +870,8 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~29번 현대시 · 공명(功名)도 잊었노라 부귀(富貴)도 잊었노라세상(世上
 
 <div class="passage">
@@ -987,6 +1001,8 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     </div>
   </details>
 </div>
+
+<div id="set8" class="set-anchor"></div>
 
 ## 30~33번 화법 · 업체에서 보낸 유의사항에는 싸이보그와 함께 있는 모습을
 
@@ -1120,6 +1136,8 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 34~37번 현대시 · [앞부분의 줄거리] 평양 감사가 된 김진희는 집안 형편
 
 <div class="passage">
@@ -1249,6 +1267,8 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 38~42번 현대시 · 라고 말할 때, 미터(m)는 거리를 나타내는 ‘단위’이
 
@@ -1438,6 +1458,8 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학 · 세상의 열매들은 왜 모두 둥글어야 하는가. 가시나무도 
 

@@ -14,6 +14,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · ‘홍차, 알고 마셔 보자!’ 발표
 
 <div class="read-guide">
@@ -138,6 +140,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · ‘인공지능 판사 도입’ 토론 → 비평 초고
 
@@ -298,6 +302,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · ‘소셜 기부’ 참여 권유 초고
 
 <div class="read-guide">
@@ -423,6 +429,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 어근·접사 / 음운 변동 / 부사어 / 중세 국어
 
@@ -616,6 +624,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set5" class="set-anchor"></div>
 
 ## 16~20번 문학(갈래 복합) · 나위소 〈강호구가〉 · 이현 〈백상루별곡〉 · 김유정 〈오월의 산골짜기〉
 
@@ -813,6 +823,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 21~25번 독서(사회) · 납세 의무의 성립·확정·소멸
 
 <div class="read-guide">
@@ -998,6 +1010,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~28번 문학(현대 소설) · 문순태 〈늙으신 어머니의 향기〉
 
 <div class="read-guide">
@@ -1119,6 +1133,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set8" class="set-anchor"></div>
 
 ## 29~33번 독서(인문) · 리쾨르의 자기 해석학과 미메시스 삼중 구조
 
@@ -1300,6 +1316,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 34~37번 문학(고전 소설) · 작자 미상 〈황운전〉
 
 <div class="read-guide">
@@ -1451,6 +1469,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 38~42번 독서(기술) · 페로브스카이트 태양전지
 
@@ -1637,6 +1657,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학(현대시) · 이성복 〈꽃피는 시절〉 · 권정우 〈저수지〉
 

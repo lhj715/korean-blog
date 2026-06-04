@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2021" month="11" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · (사진 제시) 이 사진은 실제 한양도성 성벽의 한 구간
 
 <div class="passage">
@@ -130,6 +132,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 작문 · (가)는 토론의 일부이고, (나)는 청중으로 참여한 학생이 ‘토
 
@@ -268,6 +272,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · (가)는 작문 상황이고, (나)는 (가)에 따라 쓴 학생의 초고
 
 <div class="passage">
@@ -371,6 +377,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 부사어는 문장 구성에 부속적인 성분으로 주로 용언을 꾸
 
@@ -565,6 +573,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~19번 독서 · 터치스크린 패널은 스크린의 특정 지점을 직접 접촉하면 
 
 <div class="passage">
@@ -698,6 +708,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 20~22번 현대시 · 태양이 돌아온 기념으로집집마다카렌다아를 한 장씩 뜯는 
 
 <div class="passage">
@@ -796,6 +808,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set7" class="set-anchor"></div>
 
 ## 23~27번 독서(사회) · 유엔해양법협약은 해양의 이용을 둘러싸고 ⓐ발생하는 국가
 
@@ -955,6 +969,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set8" class="set-anchor"></div>
 
 ## 28~33번 현대시 · 소쉬르의 언어학은 언어에 대한 전통적인 견해에 대해서 
 
@@ -1155,6 +1171,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 34~37번 현대시 · 하며, 애연(哀然)히 울면서 가니 산천초목이 다 슬퍼하
 
 <div class="passage">
@@ -1282,6 +1300,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 38~41번 화법 · [앞부분의 줄거리] 나는 방송국 기자였던 남편의 갑작스
 
@@ -1414,6 +1434,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 42~45번 현대시 · 늙고 병들고 게으른 이 성품이세정(世情)도 모르고 인사
 

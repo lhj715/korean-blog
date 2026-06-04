@@ -15,6 +15,8 @@ summary: "2018년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 발표
 
 <div class="q-block" id="prob1">
@@ -165,6 +167,8 @@ A시 ○○동을 지나는 고속화 도로 인근 아파트 고층에서
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 화작
 
@@ -317,6 +321,8 @@ A시 ○○동을 지나는 고속화 도로 인근 아파트 고층에서
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 작문
 
 <div class="q-block" id="prob8">
@@ -426,6 +432,8 @@ A시 ○○동을 지나는 고속화 도로 인근 아파트 고층에서
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 문법
 
@@ -672,6 +680,8 @@ A시 ○○동을 지나는 고속화 도로 인근 아파트 고층에서
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~19번 현대소설 · 현대소설
 
 <div class="q-block" id="prob16">
@@ -848,6 +858,8 @@ A는 미술관 안에서 동일한 크기의
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 20~25번 독서(인문) · 독서(인문)
 
@@ -1099,6 +1111,8 @@ A는 미술관 안에서 동일한 크기의
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~30번 독서(과학) · 독서(과학)
 
 <div class="q-block" id="prob26">
@@ -1286,6 +1300,8 @@ A는 미술관 안에서 동일한 크기의
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~34번 고전소설 · 고전소설
 
 <div class="q-block" id="prob31">
@@ -1451,6 +1467,8 @@ A는 미술관 안에서 동일한 크기의
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 35~38번 독서(사회) · 독서(사회)
 
 <div class="q-block" id="prob35">
@@ -1598,6 +1616,8 @@ C가 한계지가 되면 A의 지대는 3만 원, B의 지대는 2만 원이 된
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 39~42번 갈래 복합 · 갈래 복합
 
 <div class="q-block" id="prob39">
@@ -1744,6 +1764,8 @@ C가 한계지가 되면 A의 지대는 3만 원, B의 지대는 2만 원이 된
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · 현대시
 

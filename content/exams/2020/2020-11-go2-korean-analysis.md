@@ -15,6 +15,8 @@ summary: "2020년 11월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 발표
 
 <div class="q-block" id="prob1">
@@ -147,6 +149,8 @@ summary: "2020년 11월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 화작
 
@@ -320,6 +324,8 @@ summary: "2020년 11월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 작문
 
 <div class="q-block" id="prob8">
@@ -463,6 +469,8 @@ summary: "2020년 11월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 문법
 
@@ -744,6 +752,8 @@ A가 C의 영향을 받아 C 뒤에서 B로 바뀌는
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~19번 현대소설 · 현대소설
 
 <div class="q-block" id="prob16">
@@ -921,6 +931,8 @@ c의 교점’의 지시체는 ㉰o이다. 따라서 ㉱ ‘o는 a와 b의 교�
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 20~25번 독서(인문) · 독서(인문)
 
@@ -1189,6 +1201,8 @@ c의 교점’의 지시체는 ㉰o이다. 따라서 ㉱ ‘o는 a와 b의 교�
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~30번 독서(과학) · 독서(과학)
 
 <div class="q-block" id="prob26">
@@ -1405,6 +1419,8 @@ c의 교점’의 지시체는 ㉰o이다. 따라서 ㉱ ‘o는 a와 b의 교�
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~34번 고전소설 · 고전소설
 
 <div class="q-block" id="prob31">
@@ -1586,6 +1602,8 @@ c의 교점’의 지시체는 ㉰o이다. 따라서 ㉱ ‘o는 a와 b의 교�
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 35~38번 독서(사회) · 독서(사회)
 
 <div class="q-block" id="prob35">
@@ -1764,6 +1782,8 @@ c의 교점’의 지시체는 ㉰o이다. 따라서 ㉱ ‘o는 a와 b의 교�
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 39~42번 갈래 복합 · 갈래 복합
 
@@ -1976,6 +1996,8 @@ S#95에서는 판돌이 정체를 밝히지 않은 이유를 묻는 질문
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · 현대시
 

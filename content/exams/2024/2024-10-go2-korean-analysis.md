@@ -16,6 +16,8 @@ draft: false
   <div class="exam-overview-item"><span>분석 범위</span><strong>전체 45문항</strong></div>
 </section>
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 식물의 인지 행동 발표
 
 <div class="passage">
@@ -116,6 +118,8 @@ draft: false
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 생태 연못 대화 → 교지 글
 
@@ -258,6 +262,8 @@ draft: false
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 자전거 주차장 방치 자전거 문제
 
 <div class="passage">
@@ -360,6 +366,8 @@ draft: false
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 연결 어미 ‘-고’·음운 변동·품사 통용·중세 격조사
 
@@ -532,6 +540,8 @@ draft: false
     </div>
   </details>
 </div>
+
+<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 독서(인문) · 아리스토텔레스·실러·그린버그·크라우스 — 예술 매체론
 
@@ -724,6 +734,8 @@ draft: false
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 22~25번 현대소설 · 김광식 「213호 주택」 — 기계에 예속된 노동자
 
 <div class="read-guide">
@@ -855,6 +867,8 @@ draft: false
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~29번 독서(과학) · 정전용량형 근접 습도 센서
 
 <div class="read-guide">
@@ -982,6 +996,8 @@ draft: false
     </div>
   </details>
 </div>
+
+<div id="set8" class="set-anchor"></div>
 
 ## 30~34번 독서(사회) · 지상권과 지역권
 
@@ -1135,6 +1151,8 @@ draft: false
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 35~38번 갈래 복합 · 조성신 「개암정가」 · 김창협 「청청각기」
 
 <div class="read-guide">
@@ -1275,6 +1293,8 @@ draft: false
   </details>
 </div>
 
+<div id="set10" class="set-anchor"></div>
+
 ## 39~42번 고전소설 · 작자 미상 「당태종전」
 
 <div class="passage">
@@ -1402,6 +1422,8 @@ draft: false
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · 김광균 「목련나무 옆에서」 · 정일근 「그리운 곳으로 돌아보라」
 

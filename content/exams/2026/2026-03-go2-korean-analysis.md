@@ -14,6 +14,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <div class="exam-overview-item"><span>시험</span><strong>전국연합학력평가</strong></div>
   <div class="exam-overview-item"><span>분석 범위</span><strong>전 문항 (1~45)</strong></div>
 </section>
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 발표 속 의문문의 기능
 
 <div class="read-guide">
@@ -157,6 +159,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~6번 화법 · 폐전지 분리배출 토의
 
@@ -318,6 +322,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
+
+<div id="set3" class="set-anchor"></div>
 
 ## 7~10번 문법 · 띄어쓰기·중세국어·피동·음운 변동
 
@@ -484,6 +490,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
+<div id="set4" class="set-anchor"></div>
+
 ## 11~13번 독서 · 국제 물품 매매와 위험 부담(CISG)
 
 <div class="read-guide">
@@ -612,6 +620,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
+
+<div id="set5" class="set-anchor"></div>
 
 ## 14~17번 독서 · 마찰 전기 나노 발전기
 
@@ -777,6 +787,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 18~23번 독서 · 생명 중심 윤리 vs 생태 중심 윤리
 
@@ -1009,6 +1021,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 24~27번 독서·작문 · 주민 참여 예산과 공유지의 비극
 
 <div class="passage">
@@ -1165,6 +1179,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 28~30번 작문 · 자전거 도로 안전 실태 보고서
 
 <div class="passage">
@@ -1286,6 +1302,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 31~33번 문학 · 「김학공전」
 
@@ -1410,6 +1428,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 34~38번 문학 · 화전가·시조·고전수필
 
@@ -1616,6 +1636,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </details>
 </div>
 
+<div id="set11" class="set-anchor"></div>
+
 ## 39~42번 문학 · 「도깨비 잔치」
 
 <div class="read-guide">
@@ -1776,6 +1798,8 @@ summary: "2026년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     </div>
   </details>
 </div>
+
+<div id="set12" class="set-anchor"></div>
 
 ## 43~45번 문학 · 필라멘트·산책(현대시)
 

@@ -16,6 +16,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </section>
 
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 조선 시대 화장 문화 발표
 
 <div class="read-guide">
@@ -138,6 +140,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · 동아리 체험 활동 기사문 (초고 → 고쳐쓰기)
 
@@ -313,6 +317,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 버스 정류장 안전사고 예방 건의문
 
 <div class="read-guide">
@@ -447,6 +453,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 문장 구조·표준 발음·합성어·중세 국어
 
@@ -644,6 +652,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 독서(인문) · 푸코의 권력론과 그 너머의 신유물론
 
@@ -861,6 +871,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 22~26번 독서(과학·기술) · 의류 건조기는 어떻게 옷을 말리나
 
 <div class="read-guide">
@@ -1044,6 +1056,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 27~30번 현대소설 · 오정희 「겨울 뜸부기」 — 일상을 벗어나려던 오빠
 
 <div class="read-guide">
@@ -1199,6 +1213,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~33번 고전소설 · 「영이록」 — 두 번의 뱃놀이, 뒤집히는 우열
 
 <div class="read-guide">
@@ -1322,6 +1338,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set9" class="set-anchor"></div>
 
 ## 34~37번 독서(사회) · 과징금은 어떤 제재이고 어떻게 부과되나
 
@@ -1474,6 +1492,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 38~42번 고전시가·수필 · 「금강별곡」과 「회룡사관폭기」 — 산수를 보고 무엇을 얻나
 
@@ -1687,6 +1707,8 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 현대시 · 조지훈 「향문」과 박성우 「두꺼비」 — 부재하는 대상에 대한 그리움
 

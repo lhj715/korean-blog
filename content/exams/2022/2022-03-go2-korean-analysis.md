@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2022" month="03" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 온라인 수업에서 이루어진 학생의 발표
 
 <div class="passage">
@@ -115,6 +117,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법 · (가)는 교지 편집부 학생들의 회의이고, (나)는 회의에 참가한
 
@@ -261,6 +265,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 화법 · 작문 상황과 이를 바탕으로 학생이 작성한 초고
 
 <div class="passage">
@@ -375,6 +381,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 화법 · 높임 표현은 높임의 대상에 따라 주체 높임, 객체 높임
 
@@ -569,6 +577,8 @@ b. [중세 국어] 이 도가져가 어마니供養(공양)고[현�
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~19번 작문 · 한 손에 막대 잡고 또 한 손에 가시 쥐고늙는 길 가시
 
 <div class="passage">
@@ -698,6 +708,8 @@ b. [중세 국어] 이 도가져가 어마니供養(공양)고[현�
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 20~25번 화법 · 16 ~ 18세기 유럽의 계몽주의는 구시대의 권위에 반
 
@@ -896,6 +908,8 @@ b. [중세 국어] 이 도가져가 어마니供養(공양)고[현�
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~29번 현대시 · 적어도 그 다락 속에는 어머니의 은밀한 움직임에 명분을
 
 <div class="passage">
@@ -1027,6 +1041,8 @@ b. [중세 국어] 이 도가져가 어마니供養(공양)고[현�
     </div>
   </details>
 </div>
+
+<div id="set8" class="set-anchor"></div>
 
 ## 30~34번 현대시 · 정보 통신 기술의 발달로 개인에 대한 정보가 데이터베이
 
@@ -1189,6 +1205,8 @@ b. [중세 국어] 이 도가져가 어마니供養(공양)고[현�
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 35~37번 문학 · 너무도 여러 겹의 마음을 가진그 복숭아나무 곁으로나는 
 
 <div class="passage">
@@ -1298,6 +1316,8 @@ b. [중세 국어] 이 도가져가 어마니供養(공양)고[현�
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 38~41번 현대시 · 최근 스마트폰이나 자동차 등에서 인공지능 음성 언어 비
 
@@ -1439,6 +1459,8 @@ b. [중세 국어] 이 도가져가 어마니供養(공양)고[현�
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 42~45번 현대시 · [앞 부분 줄거리] 선녀였던 월영은 호원의 딸로 태어나
 

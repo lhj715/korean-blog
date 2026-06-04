@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2022" month="06" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 수업 중 학생의 발표
 
 <div class="passage">
@@ -110,6 +112,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 작문 · (가)는 모둠 학생들과 전문가의 면담이고, (나)는 이를 바탕으
 
@@ -250,6 +254,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 현대시 · 작문 상황과 이를 바탕으로 작성한 학생의 글
 
 <div class="passage">
@@ -360,6 +366,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 조사는 일반적으로 체언 뒤에 붙어서 문법적인 관계를 나
 
@@ -537,6 +545,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~20번 현대시 · 식물의 품종이란 같은 종류의 식물을 고유한 특징에 따라
 
 <div class="passage">
@@ -710,6 +720,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 21~25번 고전시가 · 昨過永明寺       어제 영명사를 지나다가暫登浮碧樓 
 
 <div class="passage">
@@ -874,6 +886,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~30번 독서(사회) · 심리치료는 심리학적 지식을 바탕으로 심리적 고통과 부적
 
 <div class="passage">
@@ -1036,6 +1050,8 @@ A는 형과 비교당하며 어린 시절을 보냈다. 형은 건강하고 활�
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~34번 현대시 · [앞부분의 줄거리] 명나라의 진성운은 순경, 호원, 학
 
 <div class="passage">
@@ -1169,6 +1185,8 @@ A는 형과 비교당하며 어린 시절을 보냈다. 형은 건강하고 활�
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 35~37번 현대시 · 하루 또 하루가 갔다. 인간 시계로 이 년, 개들 시력
 
 <div class="passage">
@@ -1268,6 +1286,8 @@ A는 형과 비교당하며 어린 시절을 보냈다. 형은 건강하고 활�
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 38~42번 현대시 · 시각기관인 눈은 시각을 감지하는 데에 관여하는 안구, 
 
@@ -1431,6 +1451,8 @@ A는 형과 비교당하며 어린 시절을 보냈다. 형은 건강하고 활�
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학 · 거울속에는소리가없소저렇게까지조용한세상은참없을것이오거울속
 

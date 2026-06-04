@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2023" month="09" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 수업 중 학생의 발표
 
 <div class="passage">
@@ -113,6 +115,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법·작문 · (가)는 교지 편집부 학생들이 나눈 대화이고, (나)는 이를 바
 
@@ -253,6 +257,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 학교 신문에 싣기 위해 학생이 작성한 초고
 
 <div class="passage">
@@ -359,6 +365,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 선어말 어미는 어말 어미 앞에 오는 어미이다. 단어의 
 
@@ -547,6 +555,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set5" class="set-anchor"></div>
+
 ## 16~19번 현대시 · ‘부산 부두에 발을 올려 딛는 때부터 내 고향이다. 내
 
 <div class="passage">
@@ -676,6 +686,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set6" class="set-anchor"></div>
 
 ## 20~25번 화법 · 미국의 헌법학자 제롬 배런은 1967년 언론 매체 접근
 
@@ -874,6 +886,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set7" class="set-anchor"></div>
+
 ## 26~30번 현대시 · 우리는 냄새를 어떻게 인식할까?　냄새의 원인이 되는 기
 
 <div class="passage">
@@ -1034,6 +1048,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 31~34번 현대시 · 동방이 차차 밝아 오매 마침 영릉골 관비 한 사람이 외
 
 <div class="passage">
@@ -1166,6 +1182,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 35~38번 현대시 · 다산 정약용이 생각하기에 당대 사람들이 인정했던 최고의
 
 <div class="passage">
@@ -1295,6 +1313,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 39~42번 현대시 · 잊기를 자주 하여 어지러이 뽑아 놓은 책들散漫還復整 흩
 
@@ -1426,6 +1446,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set11" class="set-anchor"></div>
 
 ## 43~45번 문학 · 해바라기 씨를 ㉠심자
 

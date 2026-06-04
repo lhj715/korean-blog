@@ -9,6 +9,8 @@ layout: "exam"
 
 {{< exam-nav year="2022" month="11" grade="go2" >}}
 
+<div id="set1" class="set-anchor"></div>
+
 ## 1~3번 화법 · 안녕하세요. 오늘 발표를 맡은 ○○○입니다. 요즘 스마
 
 <div class="passage">
@@ -114,6 +116,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set2" class="set-anchor"></div>
 
 ## 4~7번 화법 · (가)는 자원봉사 동아리 학생들의 토의이고, (나)는 토의에 참
 
@@ -248,6 +252,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set3" class="set-anchor"></div>
+
 ## 8~10번 작문 · 작문 상황과 이를 바탕으로 작성한 학생의 초고
 
 <div class="passage">
@@ -348,6 +354,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set4" class="set-anchor"></div>
 
 ## 11~15번 문법 · 문장이 문법적으로 올바른지를 판단할 때 확인해야 할 기
 
@@ -544,6 +552,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set5" class="set-anchor"></div>
 
 ## 16~21번 화법 · ‘예술은 재현의 기술이기 때문에 무가치한 것이다.’ 이
 
@@ -748,6 +758,8 @@ layout: "exam"
   </details>
 </div>
 
+<div id="set6" class="set-anchor"></div>
+
 ## 22~25번 현대시 · 오염된 물을 사용 목적에 맞게 정화하는 정수 처리 기술
 
 <div class="passage">
@@ -883,6 +895,8 @@ layout: "exam"
     </div>
   </details>
 </div>
+
+<div id="set7" class="set-anchor"></div>
 
 ## 26~34번 독서(사회) · 경제학에서는 개별 경제 주체들이 주어진 조건하에서 자신
 
@@ -1209,6 +1223,8 @@ D
   </details>
 </div>
 
+<div id="set8" class="set-anchor"></div>
+
 ## 35~38번 독서 · “그럼 어쩝니까? 모리*를 압니까? 글을 팔아 호구가 
 
 <div class="passage">
@@ -1339,6 +1355,8 @@ D
   </details>
 </div>
 
+<div id="set9" class="set-anchor"></div>
+
 ## 39~41번 문학 · ㉠어쩌다 바람이라도 와 흔들면울타리는 슬픈 소리로 울었
 
 <div class="passage">
@@ -1438,6 +1456,8 @@ D
     </div>
   </details>
 </div>
+
+<div id="set10" class="set-anchor"></div>
 
 ## 42~45번 현대시 · [앞부분 줄거리] 천상의 선관이 두꺼비의 모습으로 지상
 
