@@ -38,7 +38,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>지금까지 조선 시대 피부 화장과 눈썹 화장을 알아봤습니다. 백옥 같은 피부에 초승달 같은 눈썹을 한 당대 여성의 모습이 떠오르지 않나요? <span class="ev" id="ev-q1-5">이상으로 발표를 마치겠습니다.</span><a class="ev-tag" href="#q1-5">1-⑤</a></p>
 </div>
 
-<div class="q-block" id="prob1">1
+<div class="q-block" id="prob1">
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표 내용에 관한 질문을 하여 청중의 반응을 확인하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li>
@@ -69,7 +69,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob2">2
+<div class="q-block" id="prob2">
   <p class="q-stem">2. 발표자의 자료 활용에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 자료 &gt;</p>
@@ -104,7 +104,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob3">3
+<div class="q-block" id="prob3">
   <p class="q-stem">3. 〈보기〉 학생들의 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -181,7 +181,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>학생1: 그러네. 그 내용은 생략할게. 도와줘서 고마워.</p>
 </div>
 
-<div class="q-block" id="prob4">4
+<div class="q-block" id="prob4">
   <p class="q-stem">4. (가)에 활용된 글쓰기 방법으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q4-1">① 동아리 체험 활동의 장단점을 나열의 방식으로 제시한다.</li>
@@ -212,7 +212,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob5">5
+<div class="q-block" id="prob5">
   <p class="q-stem">5. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q5-1">① ㉠: 기사문 작성 경험이 없다는 점을 언급하며 도움을 요청하는 발화.</li>
@@ -243,7 +243,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob6">6
+<div class="q-block" id="prob6">
   <p class="q-stem">6. [A], [B]의 발화에 대한 설명으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A]</a> <a class="src-tag" href="#segB">[B]</a></p>
   <ul class="q-opts">
     <li id="q6-1">① [A]에서 학생2는 견해 차이를 확인한 후 상대의 발화 내용을 수용한다.</li>
@@ -274,7 +274,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob7">7
+<div class="q-block" id="prob7">
   <p class="q-stem">7. (나)의 논의를 반영해 (가)를 고쳐 쓰기 위한 계획으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 고쳐쓰기 계획 &gt;</p>
@@ -337,7 +337,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <div class="seg" id="segA"><p class="seg-label">[A] (마무리)</p><p class="muted">10번에서 작성 — 건의가 수용되면 구민에게 도움이 된다는 기대 효과.</p></div>
 </div>
 
-<div class="q-block" id="prob8">8
+<div class="q-block" id="prob8">
   <p class="q-stem">8. 초고를 작성하기 전에 떠올린 생각 ㉠~㉤ 중, 초고에 반영되지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 떠올린 생각 &gt;</p>
@@ -372,7 +372,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob9">9
+<div class="q-block" id="prob9">
   <p class="q-stem">9. 〈보기〉 추가 수집 자료의 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -413,7 +413,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob10">10
+<div class="q-block" id="prob10">
   <p class="q-stem">10. 선생님의 조언을 반영해 [A]를 작성한 내용으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 선생님의 조언 &gt;</p>
@@ -461,7 +461,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 13번은 ‘맑다=제11항 [막따]’(학생은 [말따]로 틀림), 15번은 ‘ㄴ의 선어말 어미가 부인이 아니라 태자를 높임’이 함정이다.</p>
 </div>
 
-<div class="q-block" id="prob11">11
+<div class="q-block" id="prob11">
   <p class="q-stem">11. 〈보기〉의 ⓐ~ⓒ에 들어갈 문장을 바르게 분류한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 분류 기준 &gt;</p>
@@ -508,7 +508,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
 </div>
 
-<div class="q-block" id="prob12">12
+<div class="q-block" id="prob12">
   <p class="q-stem">12. 윗글을 바탕으로 ⓐ~ⓔ의 비표준 발음 이유를 탐구한 내용으로 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -543,7 +543,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob13">13
+<div class="q-block" id="prob13">
   <p class="q-stem">13. [A]를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
   <ul class="q-opts">
     <li id="q13-1">① ‘넓다’는 제10항에 따라 [널따]로 발음해야겠군.</li>
@@ -574,7 +574,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob14">14
+<div class="q-block" id="prob14">
   <p class="q-stem">14. 〈보기〉의 ㉠(합성 동사), ㉡(본용언+본용언) 예끼리 묶인 것으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 판단 기준 &gt;</p>
@@ -606,7 +606,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob15">15
+<div class="q-block" id="prob15">
   <p class="q-stem">15. 〈보기〉를 참고하여 〈자료〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -671,7 +671,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>해러웨이는 인간·비인간 모두를 ‘반려종’이라 부르며 공생 관계를 강조했다. <span class="ev" id="ev-q17-5">인간이 다른 존재를 통제하려는 태도에서 벗어나 인간 이외의 존재를 반려종으로 존중하면, 책임 있는 관계 맺기로 인류세 극복 가능성을 모색할 수 있다.</span><a class="ev-tag" href="#q17-5">17-⑤</a> <span class="ev" id="ev17">이는 통제·조절 논의를 인간 이외의 생명으로 확장해 비인간과의 공존을 모색한 ㉡<u>인간 너머의 생명 권력</u>으로 평가된다.</span><a class="ev-tag" href="#q19-2">19-㉡</a></p>
 </div>
 
-<div class="q-block" id="prob16">16
+<div class="q-block" id="prob16">
   <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q16-1">① (가)는 (나)와 달리 특정 학자의 권력 개념을 다른 학자의 개념과 비교해 본질을 분석한다.<a class="src-tag" href="#ev16">지문 근거</a></li>
@@ -702,7 +702,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob17">17
+<div class="q-block" id="prob17">
   <p class="q-stem">17. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q17-1">① 푸코는 주권 권력이 효과를 잃고 점차 규율 권력으로 대체됐다고 보았다.<a class="src-tag" href="#ev13">지문 근거</a></li>
@@ -733,7 +733,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob18">18
+<div class="q-block" id="prob18">
   <p class="q-stem">18. ㉮(주체성에 대한 이런 생각이 허구)의 이유를 추론한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q18-1">① 개인의 삶이 권력에 의해 최대한 통제되고 있다고 생각했기 때문.<a class="src-tag" href="#ev15">지문 근거</a></li>
@@ -764,7 +764,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob19">19
+<div class="q-block" id="prob19">
   <p class="q-stem">19. ㉠(생명 권력)과 ㉡(인간 너머의 생명 권력)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q19-1">① ㉠은 인간의 생명 문제가 국가의 중요 요소로 부각되며 등장했고, ㉡은 비인간과의 공존을 모색하려 등장했다.<a class="src-tag ans" href="#ev14">㉠ 근거</a><a class="src-tag ans" href="#ev17">㉡ 근거</a></li>
@@ -795,7 +795,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob20">20
+<div class="q-block" id="prob20">
   <p class="q-stem">20. (가)·(나)를 바탕으로 〈보기〉에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -830,7 +830,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob21">21
+<div class="q-block" id="prob21">
   <p class="q-stem">21. ⓐ(빠졌다)와 문맥상 의미가 가장 가까운 것은?</p>
   <ul class="q-opts">
     <li id="q21-1">① 그 결정으로 회사가 혼란에 <u>빠졌다</u>.<a class="src-tag ans" href="#ev-q21-a">정답 근거</a></li>
@@ -876,16 +876,16 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="passage">
   <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
-  <p>열에너지는 고온에서 저온으로 이동하며, 온도 차가 클수록 열전달이 활발하다. 수분을 포함한 물체로 열전달이 일어나면 물 분자의 운동 에너지가 커져 결합력이 약해지므로 기체로의 상변화가 활발해진다. 이렇게 수분을 제거하는 것이 건조이고, 단위 시간당 증발 수분량이 건조 속도다. <span class="ev ans" id="ev21">㉮<u>다른 조건이 같을 때 건조 속도는 공기 온도가 높을수록 빨라진다.</u></span><a class="ev-tag ans" href="#q24-5">24-㉮</a></p>
+  <p><span class="ev" id="ev-q24-mech">열에너지는 고온에서 저온으로 이동하며, 온도 차가 클수록 열전달이 활발하다. 수분을 포함한 물체로 열전달이 일어나면 물 분자의 운동 에너지가 커져 결합력이 약해지므로 기체로의 상변화가 활발해진다.</span><a class="ev-tag" href="#q24-1">24-①~④</a> 이렇게 수분을 제거하는 것이 건조이고, 단위 시간당 증발 수분량이 건조 속도다. <span class="ev ans" id="ev21">㉮<u>다른 조건이 같을 때 건조 속도는 공기 온도가 높을수록 빨라진다.</u></span><a class="ev-tag ans" href="#q24-5">24-㉮</a></p>
   <p><span class="ev ans" id="ev19">의류 건조기는 가열 장치로 공기를 일정 온도까지 가열한 뒤, 이를 세탁물이 있는 드럼으로 이동시킨다.</span><a class="ev-tag ans" href="#q22-1">22-①</a> <span class="ev ans" id="ev20">세탁물 온도가 공기보다 낮아 세탁물로 열전달이 일어나고, 공기 온도가 높아지면 포화 수증기량(공기 1㎥ 속 최대 수증기량)이 증가해 수분 증발이 촉진된다.</span><a class="ev-tag ans" href="#q23-2">23-②</a></p>
   <p>드럼 내부 건조는 함수율·건조 속도에 따라 세 구간으로 나뉜다. <span class="ev ans" id="ev22">먼저 예열 구간은 고온의 공기로 세탁물 온도가 오르며 건조 속도가 빨라지는 구간으로, 함수율이 가장 높다.</span><a class="ev-tag ans" href="#q25-4">25-④</a></p>
-  <p>항률 건조 구간에서는 전달된 열에너지가 수분 증발에 집중돼 세탁물 온도가 일정하게 유지되고, 증발량·배출 공기 습도도 일정하다. 다만 열에너지 소모로 빠져나오는 공기 온도는 더 낮아진다. 함수율이 점차 줄어 건조 속도가 느려지기 시작하면 감률 건조 구간으로 ⓐ<u>넘어간다</u>.</p>
-  <p>감률 건조 구간에서는 증발할 수분이 줄어 속도가 점점 느려지다 최대 증발량에 도달하면 건조 속도가 0이 되고, 세탁물 온도만 오른다. 종료 직전엔 유입·배출 공기의 온도 차가 줄어드는데, 이를 이용해 종료 시점을 설정한다.</p>
+  <p><span class="ev" id="ev-q25-23">항률 건조 구간에서는 전달된 열에너지가 수분 증발에 집중돼 세탁물 온도가 일정하게 유지되고, 증발량·배출 공기 습도도 일정하다.</span><a class="ev-tag" href="#q25-2">25-②③</a> 다만 열에너지 소모로 빠져나오는 공기 온도는 더 낮아진다. 함수율이 점차 줄어 건조 속도가 느려지기 시작하면 감률 건조 구간으로 ⓐ<u>넘어간다</u>.</p>
+  <p><span class="ev" id="ev-q25-15">감률 건조 구간에서는 증발할 수분이 줄어 속도가 점점 느려지다 최대 증발량에 도달하면 건조 속도가 0이 되고, 세탁물 온도만 오른다. 종료 직전엔 유입·배출 공기의 온도 차가 줄어드는데, 이를 이용해 종료 시점을 설정한다.</span><a class="ev-tag" href="#q25-1">25-①⑤</a></p>
   <p>증발한 수분은 ⓑ<u>사라지지</u> 않고 수증기로 존재하며, 배출 방식에 따라 ㉠<u>배기식</u>과 ㉡<u>응축식</u>으로 나뉜다. 배기식은 수증기가 실외로 ⓒ<u>이어지는</u> 배기 장치로 배출된다. 응축식은 습한 공기가 열 교환기에서 냉각돼 이슬점에서 물로 응축·배출되고, 습도 낮아진 공기는 다시 가열돼 드럼으로 순환한다.</p>
-  <p>의류 건조기는 자연 건조보다 시간을 줄이지만, 고온 공기와 ⓓ<u>맞닿으며</u> 수축될 수 있고 특히 천연 섬유는 합성 섬유보다 수축이 더 ⓔ<u>생기는</u> 편이다.</p>
+  <p><span class="ev" id="ev-q22-23">의류 건조기는 자연 건조보다 시간을 줄이지만, 고온 공기와 ⓓ<u>맞닿으며</u> 수축될 수 있고 특히 천연 섬유는 합성 섬유보다 수축이 더 ⓔ<u>생기는</u> 편이다.</span><a class="ev-tag" href="#q22-2">22-②③</a></p>
 </div>
 
-<div class="q-block" id="prob22">22
+<div class="q-block" id="prob22">
   <p class="q-stem">22. 의류 건조기에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q22-1">① 건조 속도를 조절하려 드럼 내에서 공기를 가열해 세탁물을 건조시키겠군.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
@@ -916,7 +916,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob23">23
+<div class="q-block" id="prob23">
   <p class="q-stem">23. ㉠(배기식)과 ㉡(응축식)에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q23-1">① ㉠은 ㉡과 달리 수증기를 실외로 배출하는 별도 배기 장치가 필요하다.<a class="src-tag" href="#ev20">지문 근거</a></li>
@@ -947,13 +947,13 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob24">24
+<div class="q-block" id="prob24">
   <p class="q-stem">24. ㉮(공기 온도가 높을수록 건조 속도가 빨라짐)의 이유를 추론한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q24-1">① 물→수증기 상변화가 촉진돼 물체와 공기 사이 열전달이 활발해지기 때문.</li>
-    <li id="q24-2">② 물 분자 운동 에너지가 커져 물체에 존재할 수 있는 수분량이 늘기 때문.</li>
-    <li id="q24-3">③ 포화 수증기량이 늘어 물체→공기 열전달 속도가 빨라지고 상변화가 가속되기 때문.</li>
-    <li id="q24-4">④ 공기 부피가 일정해 증발이 활발해지고 같은 부피에서 더 많은 수분이 증발되기 때문.</li>
+    <li id="q24-1">① 물→수증기 상변화가 촉진돼 물체와 공기 사이 열전달이 활발해지기 때문.<a class="src-tag" href="#ev-q24-mech">지문 근거</a></li>
+    <li id="q24-2">② 물 분자 운동 에너지가 커져 물체에 존재할 수 있는 수분량이 늘기 때문.<a class="src-tag" href="#ev-q24-mech">지문 근거</a></li>
+    <li id="q24-3">③ 포화 수증기량이 늘어 물체→공기 열전달 속도가 빨라지고 상변화가 가속되기 때문.<a class="src-tag" href="#ev-q24-mech">지문 근거</a></li>
+    <li id="q24-4">④ 공기 부피가 일정해 증발이 활발해지고 같은 부피에서 더 많은 수분이 증발되기 때문.<a class="src-tag" href="#ev-q24-mech">지문 근거</a></li>
     <li id="q24-5">⑤ 물 분자 결합력이 약해지고 공기가 품을 수 있는 수증기량이 늘어 증발이 촉진되기 때문.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -978,18 +978,18 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob25">25
+<div class="q-block" id="prob25">
   <p class="q-stem">25. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>함수율·건조 속도 그래프. 함수율은 <b>C 구간이 가장 높고 A로 갈수록 낮아짐</b> → <b>C=예열, B=항률, A=감률</b>. (유입 공기 온도·습도·내부 압력은 일정.)</p>
   </div>
   <ul class="q-opts">
-    <li id="q25-1">① A 구간에서 그래프가 가로축과 만나는 지점의 함수율은 건조가 끝나는 시점의 함수율이겠군.</li>
-    <li id="q25-2">② B 구간에서 세탁물 온도와 배출 공기 습도는 각각 일정한 값으로 유지되겠군.</li>
-    <li id="q25-3">③ B 구간에서 함수율은 계속 감소하지만 단위 시간당 증발 수분량은 일정하겠군.</li>
+    <li id="q25-1">① A 구간에서 그래프가 가로축과 만나는 지점의 함수율은 건조가 끝나는 시점의 함수율이겠군.<a class="src-tag" href="#ev-q25-15">지문 근거</a></li>
+    <li id="q25-2">② B 구간에서 세탁물 온도와 배출 공기 습도는 각각 일정한 값으로 유지되겠군.<a class="src-tag" href="#ev-q25-23">지문 근거</a></li>
+    <li id="q25-3">③ B 구간에서 함수율은 계속 감소하지만 단위 시간당 증발 수분량은 일정하겠군.<a class="src-tag" href="#ev-q25-23">지문 근거</a></li>
     <li id="q25-4">④ C 구간에서는 수분 증발에 쓰이는 열에너지가 점차 감소하여 세탁물 온도가 상승하겠군.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
-    <li id="q25-5">⑤ 각 구간의 평균 온도는 A가 가장 높고 C가 가장 낮겠군.</li>
+    <li id="q25-5">⑤ 각 구간의 평균 온도는 A가 가장 높고 C가 가장 낮겠군.<a class="src-tag" href="#ev-q25-15">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1013,13 +1013,13 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob26">26
+<div class="q-block" id="prob26">
   <p class="q-stem">26. 문맥상 ⓐ~ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q26-1">① ⓐ(넘어가게): 이전(移轉)하게</li>
-    <li id="q26-2">② ⓑ(사라지는): 소거(消去)되는</li>
-    <li id="q26-3">③ ⓒ(이어지는): 연동(聯動)되는</li>
-    <li id="q26-4">④ ⓓ(맞닿으며): 대면(對面)하며</li>
+    <li id="q26-1">① ⓐ(넘어가게): 이전(移轉)하게<a class="src-tag" href="#ev-q25-23">지문 근거</a></li>
+    <li id="q26-2">② ⓑ(사라지는): 소거(消去)되는<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q26-3">③ ⓒ(이어지는): 연동(聯動)되는<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q26-4">④ ⓓ(맞닿으며): 대면(對面)하며<a class="src-tag" href="#ev-q22-23">지문 근거</a></li>
     <li id="q26-5">⑤ ⓔ(생기는): 발생(發生)하는<a class="src-tag ans" href="#ev26">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1071,7 +1071,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 오정희, 「겨울 뜸부기」</p>
 </div>
 
-<div class="q-block" id="prob27">27
+<div class="q-block" id="prob27">
   <p class="q-stem">27. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q27-1">① 오빠는 야채 시장에서 하루 종일 일해 돈을 벌겠다고 말했다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
@@ -1102,7 +1102,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob28">28
+<div class="q-block" id="prob28">
   <p class="q-stem">28. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q28-1">① ㉠: 경험한 사실과 짐작한 내용을 언급하며 인물 판단의 근거를 제시한다.<a class="src-tag" href="#ev-q28-1">지문 근거</a></li>
@@ -1133,14 +1133,14 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob29">29
+<div class="q-block" id="prob29">
   <p class="q-stem">29. 금반지에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q29-1">① 가족을 위해 희생한 오빠에게 주는 심리적 보상이다.</li>
-    <li id="q29-2">② 오빠의 꿈을 이루게 하려 남겨 둔 마지막 자산이다.</li>
+    <li id="q29-1">① 가족을 위해 희생한 오빠에게 주는 심리적 보상이다.<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q29-2">② 오빠의 꿈을 이루게 하려 남겨 둔 마지막 자산이다.<a class="src-tag" href="#ev25">지문 근거</a></li>
     <li id="q29-3">③ 오빠가 원하는 도움을 줄 수 없는 상황임을 드러내는 어머니의 경제적 한계이다.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
-    <li id="q29-4">④ 오빠가 이상을 버리고 현실에 만족하게 만드는 모성의 결실이다.</li>
-    <li id="q29-5">⑤ 오빠가 가족의 안정을 지키려 어머니에게 요구하는 물질적 조력이다.</li>
+    <li id="q29-4">④ 오빠가 이상을 버리고 현실에 만족하게 만드는 모성의 결실이다.<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q29-5">⑤ 오빠가 가족의 안정을 지키려 어머니에게 요구하는 물질적 조력이다.<a class="src-tag" href="#ev25">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1164,17 +1164,17 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob30">30
+<div class="q-block" id="prob30">
   <p class="q-stem">30. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>이 소설은 일상으로부터 탈출을 꾀하던 오빠의 삶을 서술자 ‘나’의 시선으로 그린다. 오빠와 가족들은 각자의 가치관·태도를 드러내는데, 상황 변화에 따라 그것이 달라지기도 하고 유지되기도 한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q30-1">① 입시 실패 이유를 ‘과거 운’으로 보는 어머니와 ‘일류 학교만 겨냥해서’로 보는 ‘나’에서, 같은 사건에 다른 생각을 지님을 알 수 있다.</li>
-    <li id="q30-2">② ‘선장’의 꿈을 지녔던 오빠가 ‘오징어잡이 배’ 엽서를 보낸 데서, 예전 가치관과 다른 삶을 삶을 알 수 있다.</li>
-    <li id="q30-3">③ ‘약대 갈 실력’이라 믿던 어머니가 ‘입만 가지고 하는 장사는 사기’라 하는 데서, 오빠에 대한 불신을 보여 준다.</li>
-    <li id="q30-4">④ ‘안정된 생활’을 바라는 어머니와 ‘허전해서 못 산다’는 오빠에서, 서로 다른 가치관의 가족을 본다.</li>
+    <li id="q30-1">① 입시 실패 이유를 ‘과거 운’으로 보는 어머니와 ‘일류 학교만 겨냥해서’로 보는 ‘나’에서, 같은 사건에 다른 생각을 지님을 알 수 있다.<a class="src-tag" href="#ev-q27-5">지문 근거</a></li>
+    <li id="q30-2">② ‘선장’의 꿈을 지녔던 오빠가 ‘오징어잡이 배’ 엽서를 보낸 데서, 예전 가치관과 다른 삶을 삶을 알 수 있다.<a class="src-tag" href="#ev-q27-5">지문 근거</a></li>
+    <li id="q30-3">③ ‘약대 갈 실력’이라 믿던 어머니가 ‘입만 가지고 하는 장사는 사기’라 하는 데서, 오빠에 대한 불신을 보여 준다.<a class="src-tag" href="#ev-q27-3">지문 근거</a></li>
+    <li id="q30-4">④ ‘안정된 생활’을 바라는 어머니와 ‘허전해서 못 산다’는 오빠에서, 서로 다른 가치관의 가족을 본다.<a class="src-tag" href="#ev-q27-3">지문 근거</a></li>
     <li id="q30-5">⑤ ‘다른 삶’을 기대했던 ‘나’가 ‘왕창 망해 호기·허언으로’ 나타날 오빠를 예상하며 기대가 사라졌음을 드러낸다.<a class="src-tag ans" href="#ev26">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1226,7 +1226,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 작자 미상, 「영이록(靈異錄)」</p>
 </div>
 
-<div class="q-block" id="prob31">31
+<div class="q-block" id="prob31">
   <p class="q-stem">31. 윗글의 내용에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q31-1">① 소운성은 손기에게 기녀들을 벌할 것을 강요한다.<a class="src-tag" href="#ev-q31-1">지문 근거</a></li>
@@ -1257,14 +1257,14 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob32">32
+<div class="q-block" id="prob32">
   <p class="q-stem">32. ㉠~㉤에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q32-1">① ㉠은 사회적 관습을 내세워 상대를 안심시킨다.</li>
-    <li id="q32-2">② ㉡은 우월한 지위를 언급해 자신의 능력을 과시한다.</li>
-    <li id="q32-3">③ ㉢은 상황에 대한 추측을 나열해 자신에 대한 비난을 반박한다.</li>
+    <li id="q32-1">① ㉠은 사회적 관습을 내세워 상대를 안심시킨다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q32-2">② ㉡은 우월한 지위를 언급해 자신의 능력을 과시한다.<a class="src-tag" href="#ev-q31-4">지문 근거</a></li>
+    <li id="q32-3">③ ㉢은 상황에 대한 추측을 나열해 자신에 대한 비난을 반박한다.<a class="src-tag" href="#ev27">지문 근거</a></li>
     <li id="q32-4">④ ㉣은 물음의 형식을 활용해 자신의 요구를 우회적으로 전달한다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
-    <li id="q32-5">⑤ ㉤은 고사를 인용해 상대가 고사 속 인물의 행적을 되풀이하지 않도록 조언한다.</li>
+    <li id="q32-5">⑤ ㉤은 고사를 인용해 상대가 고사 속 인물의 행적을 되풀이하지 않도록 조언한다.<a class="src-tag" href="#ev28">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1288,17 +1288,17 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob33">33
+<div class="q-block" id="prob33">
   <p class="q-stem">33. 〈보기〉 선생님의 질문에 대한 학생의 대답으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>「영이록」의 갈등은 ‘배’ 사건을 중심으로 변주된다. [가] 첫 뱃놀이 → [나] 둘째 뱃놀이를 ⓐ갈등 원인·ⓑ우열 관계·ⓒ능력 제시 방법·ⓓ주변 인물 평가·ⓔ방관자/중재자 측면에서 비교해 보자.</p>
   </div>
   <ul class="q-opts">
-    <li id="q33-1">① ⓐ: 소운성이 시 짓기·피리 불기를 강요하는 데서, 대립 인물이 주인공을 곤경에 빠뜨리려는 것이 갈등 원인이다.</li>
-    <li id="q33-2">② ⓑ: 눈물 흘리던 손기가 [나]에서 소운성을 놀리는 데서, 우열 관계가 역전된다.</li>
-    <li id="q33-3">③ ⓒ: 소운성은 문장으로, [나]의 손기는 신기한 조화로 능력을 드러내는 데서, 주인공의 능력이 비현실적 요소로 부각된다.</li>
-    <li id="q33-4">④ ⓓ: 무시당하던 손기가 두려움·감탄의 대상이 되는 데서, 주변 인물의 평가가 달라진다.</li>
+    <li id="q33-1">① ⓐ: 소운성이 시 짓기·피리 불기를 강요하는 데서, 대립 인물이 주인공을 곤경에 빠뜨리려는 것이 갈등 원인이다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q33-2">② ⓑ: 눈물 흘리던 손기가 [나]에서 소운성을 놀리는 데서, 우열 관계가 역전된다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q33-3">③ ⓒ: 소운성은 문장으로, [나]의 손기는 신기한 조화로 능력을 드러내는 데서, 주인공의 능력이 비현실적 요소로 부각된다.<a class="src-tag" href="#ev29">지문 근거</a></li>
+    <li id="q33-4">④ ⓓ: 무시당하던 손기가 두려움·감탄의 대상이 되는 데서, 주변 인물의 평가가 달라진다.<a class="src-tag" href="#ev29">지문 근거</a></li>
     <li id="q33-5">⑤ ⓔ: 형 한림이 [나]에서 소운성을 만류하는 데서, 방관자가 주인공의 요청으로 갈등을 중재한다.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1347,7 +1347,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><span class="ev" id="ev-q35-5">과징금은 침익적 행정 행위라 법률 유보의 원칙(법적 근거 필요)을 따른다. 개별 법률에서 부과 주체·사유·상한액·분할 납부 등을 명확히 규정해 남용을 방지한다.</span><a class="ev-tag" href="#q35-5">35-⑤</a> 일괄 납부가 원칙이나 자금 사정에 현저한 어려움이 예상되면 분할 납부가 허용되며, 이때 납부 기한 10일 전까지 문서로 신청해야 한다.</p>
 </div>
 
-<div class="q-block" id="prob34">34
+<div class="q-block" id="prob34">
   <p class="q-stem">34. [A]에서 알 수 있는 내용으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
   <ul class="q-opts">
     <li id="q34-1">① 행정청은 동일 위반 행위에 벌금과 과징금 모두를 부과할 수 있다.<a class="src-tag" href="#ev-q34-1">지문 근거</a></li>
@@ -1378,7 +1378,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob35">35
+<div class="q-block" id="prob35">
   <p class="q-stem">35. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q35-1">① 변형된 과징금은 수익적 행정 행위에 대한 사후 관리 수단으로 볼 수 있다.<a class="src-tag" href="#ev-q35-1">지문 근거</a></li>
@@ -1409,7 +1409,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob36">36
+<div class="q-block" id="prob36">
   <p class="q-stem">36. ⓐ(선택권 부여), ⓑ(공익성 적은 영업에도 과징금)에 대한 추론으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q36-1">① 영업 정지와 과징금이 대등한 제재라 위반자가 처분을 선택할 수 있다는 견해는 ⓐ 찬성.</li>
@@ -1440,7 +1440,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob37">37
+<div class="q-block" id="prob37">
   <p class="q-stem">37. 윗글을 바탕으로 〈보기〉를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1528,7 +1528,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 채제공, 「회룡사관폭기」</p>
 </div>
 
-<div class="q-block" id="prob38">38
+<div class="q-block" id="prob38">
   <p class="q-stem">38. ㉠~㉤에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q38-1">① ㉠: 영탄으로 원하는 장소를 찾지 못하는 초조함을 드러낸다.<a class="src-tag" href="#ev34">지문 근거</a></li>
@@ -1559,7 +1559,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob39">39
+<div class="q-block" id="prob39">
   <p class="q-stem">39. (나)의 글쓴이에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q39-1">① 폭포 경관 소문을 듣고 홍 씨의 장원에서 임시로 지냈다.</li>
@@ -1590,7 +1590,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob40">40
+<div class="q-block" id="prob40">
   <p class="q-stem">40. (가)의 [A]와 〈보기〉의 [B]를 비교한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 — 「동행산수기」 [B] &gt;</p>
@@ -1625,7 +1625,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob41">41
+<div class="q-block" id="prob41">
   <p class="q-stem">41. ⓐ(저다지도 영특한가)와 ⓑ(어찌 그리도 미혹한가)에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q41-1">① ⓐ는 탈속적 세계 지향, ⓑ는 세속적 세계 회피의 태도가 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
@@ -1653,7 +1653,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob42">42
+<div class="q-block" id="prob42">
   <p class="q-stem">42. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1726,7 +1726,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted" style="text-align:right">— 박성우, 「두꺼비」</p>
 </div>
 
-<div class="q-block" id="prob43">43
+<div class="q-block" id="prob43">
   <p class="q-stem">43. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q43-1">① 특정 시어를 반복하여 의미를 강조하고 있다.<a class="src-tag ans" href="#ev-q44-a">정답 근거 — (가) '옛날' 반복</a></li>
@@ -1757,7 +1757,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob44">44
+<div class="q-block" id="prob44">
   <p class="q-stem">44. ㉠(두볼에 대어 보다)과 ㉡(살짝 만져 보았다)에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q44-1">① ㉠·㉡ 모두 대상에 대한 연민을 드러내는 행위이다.</li>
@@ -1785,7 +1785,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="q-block" id="prob45">45
+<div class="q-block" id="prob45">
   <p class="q-stem">45. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
@@ -1820,13 +1820,5 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   </details>
 </div>
 
-<div class="concept-cards">
-  <div class="concept-head">이 회차에서 챙길 개념</div>
-  <div class="concept-grid">
-    <div class="concept-card"><strong>피부 화장 2단계</strong><span>기초(미안수=로션·면약=크림) → 색조(백분).</span></div>
-    <div class="concept-card"><strong>백분의 약점</strong><span>곡식 원료라 접착력↓ → 분접시·분첩으로 보완.</span></div>
-    <div class="concept-card"><strong>십미요</strong><span>『규합총서』의 열 눈썹 모양, 가늘고 동그란 형태 선호.</span></div>
-  </div>
-</div>
 
 </div>
