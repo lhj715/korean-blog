@@ -932,7 +932,140 @@ summary: "2025년 4월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set7" class="set-anchor"></div>
 
-## 27~30번 현대소설 · [작성 예정]
+## 27~30번 현대소설 · 최서해 「무명초」 — 빈궁한 지식인의 자괴감
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>극심한 빈궁 속 지식인 춘수의 하루. 돈을 구하러 다니는 과정에서 자괴감과 일시적 위안이 교차한다.</p>
+  <ul>
+    <li><strong>㉠</strong> — 주인에게 "돈 원 변통해주게"라고 요청해서 받은 것=춘수가 요청한 것</li>
+    <li><strong>㉡</strong> — 의사가 춘수의 건강을 걱정해서 준 것=직접 요청 없이 받은 것</li>
+    <li><strong>주인의 "또 만납시다"</strong> — 춘수가 "다시는 오지 말아주오"로 해석(주인이 직접 한 말이 아님)</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 29번 ③: 주인이 직접 "다시 오지 말아"라고 하지 않음(춘수의 해석), 30번 ④: 각자 자신 처지 언급(상대 빈궁 언급 아님).</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p>[지문 생략 - 최서해 「무명초」: 춘수가 돈을 구하러 김·주인·의사 등을 찾아다니며 빈궁과 자괴감을 겪는 내용]</p>
+  <p><span class="ev" id="ev27-5">작품 밖 서술자가 특정 인물인 춘수가 겪는 사건을 중심으로 이야기를 전개하고 있다.</span><a class="ev-tag ans" href="#q27-5">27-⑤</a></p>
+  <p><span class="ev" id="ev28-2">'자네 돈 원 변통해주게'라는 춘수의 요청에 따라 받은 ㉠. 의사가 '박은 왜 그리 빠졌소?'를 묻고 춘수가 아프다는 말을 듣고 준 ㉡(직접 요청 없이 받음).</span><a class="ev-tag ans" href="#q28-2">28-②</a></p>
+  <p><span class="ev ans" id="ev29-3">'또 만납시다'라는 주인의 소리를 춘수가 '다시는 오지 말아주오'라는 소리 같다고 여긴 것.</span><a class="ev-tag ans" href="#q29-3">29-③</a></p>
+  <p><span class="ev ans" id="ev30-4">'병 없으면 나부터 못 견딜걸'이라는 의사의 말에 '나 같은 병자야 있으나 마나'라고 춘수가 답하고 마주 웃음=각자 자신의 처지 언급.</span><a class="ev-tag ans" href="#q30-4">30-④</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. 윗글에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① 역순행적 구성을 통해 사건 해결의 실마리를 드러내고 있다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q27-2">② 액자 구조를 통해 상이한 이야기가 갖는 유사한 의미를 강조하고 있다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q27-3">③ 동시에 진행되는 사건을 병렬적으로 구성해 입체적으로 제시하고 있다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q27-4">④ 시대적 배경에 대한 서술을 통해 인물 간의 갈등의 원인을 제시하고 있다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q27-5">⑤ 작품 밖 서술자가 특정 인물이 겪는 사건을 중심으로 이야기를 전개하고 있다.<a class="src-tag ans" href="#ev27-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>3인칭 서술자가 춘수의 행동과 내면을 중심으로 서술.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>각각 없는 특징.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>작품 밖 서술자+춘수 중심.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. '춘수'의 입장에서 ㉠과 ㉡을 이해한 내용으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① ㉠은 상대방이 자신을 설득하기 위한 수단으로 이용한 것이고, ㉡은 자신이 상대방을 설득하기 위한 수단으로 이용한 것이다.<a class="src-tag" href="#ev28-2">지문 근거</a></li>
+    <li id="q28-2">② ㉠은 자신의 요청에 따라 상대방에게 받은 것이고, ㉡은 자신이 직접 요청하지 않았음에도 상대방에게 받은 것이다.<a class="src-tag ans" href="#ev28-2">정답 근거</a></li>
+    <li id="q28-3">③ ㉠은 자신의 권위를 상대에게 보여 주기 위한 것이고, ㉡은 상대방의 권위를 확인하게 해 주는 것이다.<a class="src-tag" href="#ev28-2">지문 근거</a></li>
+    <li id="q28-4">④ ㉠은 상대방이 자신을 찾아오게 된 이유이고, ㉡은 자신이 상대방을 찾아가게 된 이유이다.<a class="src-tag" href="#ev28-2">지문 근거</a></li>
+    <li id="q28-5">⑤ ㉠은 상대방의 신뢰를 얻게 된 계기이고, ㉡은 상대방에 대한 신뢰를 잃게 된 계기이다.<a class="src-tag" href="#ev28-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>㉠=춘수가 요청해서 받음. ㉡=의사가 자발적으로 줌(요청 없이).</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉠=요청→받음, ㉡=요청 없이→받음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① 김은 춘수가 원고를 쓰기 전에 미리 원고료를 주는 것은 어렵다고 말했다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q29-2">② 춘수는 중학동 어떤 친구의 집에서 다른 사람이 가기를 기다렸다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q29-3">③ 주인은 자신의 집을 나서는 춘수에게 다시 오지 말아 달라고 했다.<a class="src-tag ans" href="#ev29-3">정답 근거</a></li>
+    <li id="q29-4">④ 의사는 처방을 쓰기 전에 춘수의 딸이 언제부터 아팠는지를 물었다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q29-5">⑤ 춘수는 자신의 증세가 심해지는 것 같아 마늘즙을 먹었다고 의사에게 말했다.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p>주인이 "또 만납시다"라고 했는데 춘수가 이를 "다시는 오지 말아주오"로 해석한 것. 주인이 직접 그렇게 말한 것이 아니다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>주인이 직접 한 말이 아니라 춘수의 해석.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>「무명초」에는 극심한 빈궁 속에서 자괴감을 느끼는 지식인의 내면세계가 드러나 있다. 자괴감은 현실적 문제를 타개해야 하는 상황에서 자신의 어려운 처지를 인식하는 것으로부터 비롯되는데, 이는 자신에 대한 모멸감 등으로 변주되며 지속된다. 하지만 작중 인물은 자신의 처지에 공감하는 타인으로부터 일시적으로나마 위안을 얻기도 한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q30-1">① '김을 찾아'가 '원고를 써주기로 하고 돈 교섭'을 하려는 것에서, 작중 인물이 지식인으로서 활용할 수 있는 방법을 통해 현재의 상황을 벗어나려고 함을 짐작할 수 있군.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q30-2">② '목전의 현실'이 '그의 발을 문 안으로 끌어들였다'는 것에서, 현실적인 문제를 해결하기 위해 원하지 않는 상황을 감내하고 있음을 짐작할 수 있군.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q30-3">③ '같은 제배'인 '그 사람'에게 돈을 빌리던 '자기의 그림자가 눈앞에 떠'올랐다는 것에서, 자신의 어려운 처지를 인식하는 것으로부터 비롯된 모멸감을 느꼈음을 짐작할 수 있군.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+    <li id="q30-4">④ '병 없으면' '못 견딜' 것이라는 말에 '나 같은 병자야 있으나 마나'라고 답하며 '마주 웃'는 것에서, 상대의 빈궁한 처지에 대해 언급하며 서로에 대해 공감하고 있는 인물들의 모습을 짐작할 수 있군.<a class="src-tag ans" href="#ev30-4">정답 근거</a></li>
+    <li id="q30-5">⑤ '가는 때마다 거절 없'던 것에 '감사히 생각'하면서도 '남의 기분'에 영향을 받는 자신이 '비열'하다고 여기는 것에서, 일시적으로 위안을 얻는 중에도 자괴감이 지속되고 있음을 짐작할 수 있군.<a class="src-tag" href="#ev27-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p>"병 없으면 나부터 못 견딜걸" = 의사 자신의 처지. "나 같은 병자야 있으나 마나" = 춘수 자신의 처지. 각자 자신의 처지를 언급한 것이지 '상대의 빈궁한 처지를 언급'한 것이 아님.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③⑤</td><td>오답</td><td>보기와 지문 적절히 연결.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>각자 자신 처지 언급. '상대 빈궁 처지 언급'이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set8" class="set-anchor"></div>
 
