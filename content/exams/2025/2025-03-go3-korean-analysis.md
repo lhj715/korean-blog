@@ -472,7 +472,140 @@ summary: "2025년 3월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set4" class="set-anchor"></div>
 
-## 14~17번 과학 · [작성 예정]
+## 14~17번 과학 · 혈압 조절 기전 — 항상성과 RAAS·신경 반사
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>혈압 하강 시 인체가 다시 높이는 과정 3가지를 따라간다: ① 사구체 여과액 감소→소변↓→체액↑, ② RAAS 호르몬 체계, ③ 교감 신경 반사.</p>
+  <ul>
+    <li><strong>혈압 공식</strong> — 혈압=심장박출량×말초혈관저항 / 심장박출량=일회박출량×심박수</li>
+    <li><strong>RAAS</strong> — 혈압↓ → 레닌↑ → 안지오텐신Ⅰ → 변환효소(ACE) → 안지오텐신Ⅱ → 알도스테론↑ → Na 재흡수↑ → 수분 재흡수↑ → 체액↑ → 혈압↑ / 동시에 ACE=브라디키닌(혈관 확장) 분해, AnⅡ=평활근 수축</li>
+    <li><strong>신경 반사</strong> — 혈압↓ → 압력 수용기 → 혈관 운동 중추 흥분 → 교감 신경 흥분 → 카테콜아민 → 혈관 수축+심박수·수축력↑ / 혈압↑ → 중추 억제 → 부교감 → 아세틸콜린 → 심장박출량↓</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 14번 ②: AnⅡ↑→알도스테론↑→나트륨 재흡수↑(세뇨관→모세혈관, 감소가 아님), 15번 ①: 혈압↓→사구체 압력↓→여과액↓, 16번 ①: 부교감 흥분=혈관 운동 중추 '억제' 후.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[14 ~ 17] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><span class="ev" id="ev14-1">혈압은 심장이 혈액을 밀어낼 때 혈관 내에 생기는 압력으로, 심장박출량과 말초 혈관 저항의 곱에 비례한다. 심장박출량은 심장이 1분 동안 혈관으로 밀어내는 혈액의 양이며 말초 혈관 저항은 말초 혈관을 순환하는 혈액의 흐름이 방해받는 정도이다. 이때 심장박출량은 일회당 심장박출량과 분당 심박수의 곱으로 구해지며 일회당 심장박출량은 혈액량과 심장 근육 수축력 등에 의해 결정된다.</span><a class="ev-tag" href="#q14-1">14-①</a></p>
+  <p><span class="ev ans" id="ev15-1">체내 액체의 총량인 체액량이 콩팥에 의해 조절되면 혈압이 변화한다. 콩팥으로 들어온 혈액은 사구체의 모세 혈관 압력에 의해 여과된다. … 혈압이 하강하면 세뇨관으로 이동한 ㉠사구체 여과액의 양이 감소하여 소변 배설량이 줄어든다.</span><a class="ev-tag ans" href="#q15-1">15-①</a><a class="ev-tag" href="#q15-2">15-②③</a></p>
+  <p><span class="ev ans" id="ev14-2">체액량은 콩팥에서 일어나는 재흡수 과정에 의해서도 조절된다. 재흡수란 사구체 여과액에서 세뇨관 주위의 모세 혈관을 흐르는 혈액으로 물질이 이동하는 것을 말한다. 혈압이 하강하면 나트륨 재흡수가 증가한다. 이러한 기전에는 레닌-안지오텐신-알도스테론 시스템(RAAS)이라는 호르몬 체계가 중요한 역할을 한다. … 알도스테론은 나트륨 재흡수를 증가시키고, 이에 따라 상승한 체내 염분 농도를 조정하기 위해 수분 재흡수도 증가한다.</span><a class="ev-tag ans" href="#q14-2">14-②</a><a class="ev-tag" href="#q14-3">14-③④</a> … 이 과정에서 안지오텐신 변환 효소는 혈관 확장 물질인 브라디키닌을 분해함으로써, 안지오텐신Ⅱ는 혈관 근육인 평활근을 수축하게 하여 혈관의 저항을 증가시킴으로써 혈압 상승에 관여한다.</p>
+  <p><span class="ev" id="ev16-1">교감 신경계와 부교감 신경계에 의한 신경 반사 역시 혈압 조절에 관여한다. 혈압이 하강하면 동맥벽에 위치하는 압력 수용기가 이를 감지하여 뇌로 신호를 보내고 혈관 운동 중추가 흥분하게 된다. 이에 따라 교감 신경이 흥분하게 되고 교감 신경계의 말단에서 신경 전달 물질인 카테콜아민이 분비된다.</span><a class="ev-tag" href="#q16-4">16-④⑤</a> 신경 전달 물질은 인체 각 기관의 수용체에 결합하여 해당 기관에 작용한다.<a class="ev-tag" href="#q16-3">16-③</a> 카테콜아민은 혈관에 작용하여 혈관을 수축시키고 심장에 작용하여 심박수와 심장 근육 수축력을 증가시킨다. <span class="ev ans" id="ev16-1b">반면 혈압이 상승하면 압력 수용기에서 전달된 신호에 따라 혈관 운동 중추가 억제되고 부교감 신경이 흥분하게 된다. 이에 따라 부교감 신경계의 말단에서 분비된 아세틸콜린이라는 신경 전달 물질이 심장에 작용하여 혈압이 하강한다.</span><a class="ev-tag ans" href="#q16-1">16-①</a><a class="ev-tag" href="#q16-2">16-②</a></p>
+  <p><span class="ev" id="ev14-5">교감 신경계와 콩팥의 작용은 상호 작용을 일으키기도 한다. 카테콜아민이 콩팥에 작용하면 레닌의 분비가 촉진된다. 또한 안지오텐신Ⅱ는 카테콜아민 분비를 촉진한다.</span><a class="ev-tag" href="#q14-5">14-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q14-1">① 체액량만 증가할 때보다 같은 양의 체액량 증가에 심박수 증가가 동반될 때 혈압의 상승 폭이 더 크다.<a class="src-tag" href="#ev14-1">지문 근거</a></li>
+    <li id="q14-2">② 안지오텐신Ⅱ가 증가하면 세뇨관 주위의 모세 혈관을 흐르는 혈액에서의 나트륨 양이 감소한다.<a class="src-tag ans" href="#ev14-2">정답 근거</a></li>
+    <li id="q14-3">③ 혈압이 하강하면 알도스테론의 합성이 증가함에 따라 소변 배설량이 감소한다.<a class="src-tag" href="#ev14-2">지문 근거</a></li>
+    <li id="q14-4">④ 콩팥의 압력 수용기가 혈압 하강을 감지하면 안지오텐신Ⅰ의 형성이 증가한다.<a class="src-tag" href="#ev14-2">지문 근거</a></li>
+    <li id="q14-5">⑤ 안지오텐신Ⅱ는 교감 신경계 말단에서의 신경 전달 물질 분비를 촉진한다.<a class="src-tag" href="#ev14-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>AnⅡ↑→알도스테론↑→나트륨 재흡수↑ = 세뇨관→모세 혈관으로 나트륨 이동 증가 → 모세 혈관의 나트륨 '증가'. ②는 '감소'라고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>AnⅡ↑→나트륨 재흡수↑→모세혈관 나트륨 '증가'. '감소'가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. ㉠의 이유로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q15-1">① 혈압이 하강하면 사구체의 모세 혈관 압력도 낮아지기 때문이다.<a class="src-tag ans" href="#ev15-1">정답 근거</a></li>
+    <li id="q15-2">② 혈구나 단백질은 분자의 크기가 커서 사구체의 막을 통과할 수 없기 때문이다.<a class="src-tag" href="#ev15-1">지문 근거</a></li>
+    <li id="q15-3">③ 사구체에서 세뇨관으로 밀려 들어가는 물의 양이 감소할수록 혈압은 증가하기 때문이다.<a class="src-tag" href="#ev15-1">지문 근거</a></li>
+    <li id="q15-4">④ 카테콜아민이 콩팥에 작용하면 사구체 여과액이 증가하여 소변 배설량이 감소하기 때문이다.<a class="src-tag" href="#ev14-5">지문 근거</a></li>
+    <li id="q15-5">⑤ 사구체 여과액의 양이 증가할 때 나트륨 재흡수도 증가하여 체내의 환경이 일정하게 유지되기 때문이다.<a class="src-tag" href="#ev14-2">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>혈압↓→사구체의 모세 혈관 압력↓→여과 압력↓→사구체 여과액 감소. ①이 정확히 이유를 설명한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>사구체 모세 혈관 압력↓→여과액↓.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>각각 ㉠의 직접 이유가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob16">
+  <p class="q-stem">16. 신경 반사에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q16-1">① 부교감 신경의 흥분을 통한 혈압 조절 기전이 작동하기 위해서는 혈관 운동 중추가 흥분해야 한다.<a class="src-tag ans" href="#ev16-1b">정답 근거</a></li>
+    <li id="q16-2">② 부교감 신경계의 말단에서 분비된 신경 전달 물질은 심장박출량을 감소시켜 혈압을 하강시킨다.<a class="src-tag" href="#ev16-1b">지문 근거</a></li>
+    <li id="q16-3">③ 신경 전달 물질이 어떤 기관에 작용하려면 그 기관에 있는 수용체와 결합하여야 한다.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q16-4">④ 혈압 하강에 반응하여 교감 신경이 흥분하면 말초 혈관 저항이 증가한다.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q16-5">⑤ 동맥벽에 있는 압력 수용기는 혈압 변화에 대한 신호를 뇌로 보낸다.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p>부교감 신경 흥분=혈압 상승 시→혈관 운동 중추가 '억제'된 후. 흥분이 아니라 억제되어야 부교감 신경이 흥분한다. ①은 '흥분해야' 라고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>부교감 흥분=혈관 운동 중추 '억제' 후. '흥분'이 틀림.</td></tr>
+          <tr><td>②③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob17">
+  <p class="q-stem">17. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>RAAS 과활성화→나트륨 축적→고혈압→말초 혈관 재형성(좁아짐). / 약제: 베타 차단제(심장·콩팥의 카테콜아민 작용 억제), 안지오텐신 변환 효소 억제제(ACE 억제), 칼슘 차단제(근육 칼슘 유입 차단, 칼슘=근육 수축).</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q17-1">① 고혈압에 의해 발생한 말초 혈관 재형성은 고혈압 상태를 지속시키는 원인이 되기도 하겠군.<a class="src-tag" href="#ev14-1">지문 근거</a></li>
+    <li id="q17-2">② 베타 차단제와 칼슘 차단제는 모두 심장 근육 수축력에 영향을 주어 심장박출량을 감소시키는 작용을 하겠군.<a class="src-tag" href="#ev16-1">지문 근거</a></li>
+    <li id="q17-3">③ RAAS가 과도하게 활성화된 사람의 몸에서는 체내의 염분 농도를 조정하려는 작용으로 수분 재흡수가 증가하여 소변 배설량이 감소하겠군.<a class="src-tag" href="#ev14-2">지문 근거</a></li>
+    <li id="q17-4">④ 안지오텐신 변환 효소 억제제는 안지오텐신Ⅱ의 생성을 억제하는 방식으로, 칼슘 차단제는 근육에 칼슘의 유입을 막는 방식으로 평활근의 수축을 억제하겠군.<a class="src-tag" href="#ev14-2">지문 근거</a></li>
+    <li id="q17-5">⑤ 베타 차단제는 레닌의 양을 감소시키는 방식으로, 안지오텐신 변환 효소 억제제는 브라디키닌의 양을 증가시키는 방식으로 안지오텐신Ⅰ의 양을 감소시키겠군.<a class="src-tag ans" href="#ev14-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>안지오텐신 변환 효소 억제제는 ACE를 억제→안지오텐신Ⅱ 생성 안 됨+브라디키닌 분해 안 됨(브라디키닌↑). 그런데 안지오텐신Ⅰ은 ACE에 의해 Ⅱ로 변환되는데, ACE 억제→안지오텐신Ⅰ이 Ⅱ로 변환 안 됨→안지오텐신Ⅰ은 감소하지 않고 오히려 쌓임. ⑤는 안지오텐신Ⅰ의 양이 감소한다고 했으므로 틀렸다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ACE 억제→안지오텐신Ⅰ이 Ⅱ로 변환 안 됨→안지오텐신Ⅰ 증가. '감소'가 틀림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set5" class="set-anchor"></div>
 
