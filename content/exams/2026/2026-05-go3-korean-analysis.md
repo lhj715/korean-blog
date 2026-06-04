@@ -977,7 +977,160 @@ summary: "2026년 5월 고3 전국연합학력평가 국어 공통(1~34번) + �
 
 <div id="set7" class="set-anchor"></div>
 
-## 27~30번 고전시가 · [작성 예정]
+## 27~30번 고전시가 · 「노인가」/「초로인생」/김득연「영회잡곡」 — 노년의 삶과 성찰
+
+<div class="read-guide">
+  <div class="read-guide-head">이 지문, 이렇게 읽는다</div>
+  <p>세 작품 모두 노년·백발을 소재로 하되 각기 다른 태도를 보인다. (가)=백발에 저항하다 결국 체념 / (나)=역사적 영웅도 죽는다, 그러니 즐기자 / (다)=자연 속 은거, 늙는 줄 모름.</p>
+  <ul>
+    <li><strong>(가) 핵심</strong> — 백발 의인화. 창·칼·위풍·음식 등으로 막으려다 실패 → "할 수 없다 사람마다 겪는고나" 체념. ⓐ긴 창=백발 막는 수단</li>
+    <li><strong>(나) 핵심</strong> — 공도=공평한 백발과 죽음. 성왕·진시황·한무제도 못 피함. "초로인생 아니 놀고 무엇 하리" 긍정적 수용</li>
+    <li><strong>(다) 핵심</strong> — 은거하며 벗 기다림. 벗 없어 ⓑ동문이 잠김. 소박한 삶(일단사 일표음) 만족</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 27번 ⑤ (다)에 의인화 없음, 28번 ② ㉡은 '시간이 필요함'이 아니라 불가능한 소망, 30번 ⑤ (다)는 유한성 인정 못하는 것이 아니라 긍정적 수용.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p><strong>(가)</strong></p>
+  <div class="poem-text">
+    <p><span class="ev" id="ev28-1">㉠어와 청춘 소년들아 백발(白髮)보고 웃지마라 / 덧없이 가는 세월 넨들 매양 젊을소냐</span><a class="ev-tag" href="#q28-1">28-①</a></p>
+    <p>소문없이 오는 백발 귀밑이 반백(半白)이라 / 청좌없이 오는 백발 <span class="ev ans" id="ev30-1">털끝마다 점점 흰다</span><a class="ev-tag ans" href="#q30-1">30-①</a></p>
+    <p><span class="ev" id="ev30-4">ⓐ긴 창으로 찔러보면 무서워 아니올까 / 드는 칼로 내쳐 치면 혼이 나서 아니올까</span><a class="ev-tag" href="#q29-2">29-②</a> / 할 수 없다 저 백발은 사람마다 겪는고나</p>
+    <p class="poem-note">(중략)</p>
+    <p>늙을사록 분한 마음 정할 수 바이 없다</p>
+    <p><span class="ev ans" id="ev28-2">㉡불사약 얻어다가 쇠하지 않게 하야볼까 / 주사야도(晝思夜度) 생각하나 늙을 밧 할 수 없다</span><a class="ev-tag ans" href="#q28-2">28-②</a></p>
+    <p><span class="ev" id="ev28-3">㉢옥식(玉食)도 쉬어지면 수채 구멍 찾아 가네 / 세상일 생각하니 만사가 허사로다</span><a class="ev-tag" href="#q28-3">28-③</a></p>
+    <p class="poem-source">— 작자 미상, 「노인가」 —</p>
+  </div>
+  <p><strong>(나)</strong></p>
+  <div class="poem-text">
+    <p>공도(公道)라는 백발이요 못 면할손 죽음이라</p>
+    <p><span class="ev" id="ev28-4">㉣어리석다 진시황은 만리장성 굳이 쌓고 / 장수불사 하려다 여산의 고혼되고</span><a class="ev-tag" href="#q28-4">28-④</a></p>
+    <p>그러한 도덕 영웅들은 유적이나 있거니와 / <span class="ev" id="ev30-2">우리 같은 초로인생(草露人生) 공수래공수거라 아니 놀고 무엇 하리</span><a class="ev-tag" href="#q30-2">30-②</a></p>
+    <p class="poem-source">— 작자 미상 —</p>
+  </div>
+  <p><strong>(다)</strong></p>
+  <div class="poem-text">
+    <p>늙어 병든 몸이 이 산정(山亭)에 누워 있어 / 세간 만사를 다 잊어 버렸노라 / 다만당 바라는 일은 벗 오과다 하노라 &lt;제2수&gt;</p>
+    <p><span class="ev" id="ev29-2">벗이 올 이 없으니 ⓑ동문(洞門)이 잠겨 있다</span><a class="ev-tag" href="#q29-2">29-②</a> / <span class="ev" id="ev30-3">삼경(三逕) 송국죽(松菊竹)을 내 호온자 즐기노라 / 매일에 이를 즐기어니 늙는 줄을 어이 알리 &lt;제6수&gt;</span><a class="ev-tag" href="#q30-3">30-③</a></p>
+    <p>늙는 줄을 내 모르니 이내 몸이 한가하다 / 시비인들 내 알며 영욕(榮辱)인들 내 알더냐 / <span class="ev" id="ev28-5">㉤아마도 일단사 일표음이야 내 분인가 하노라 &lt;제7수&gt;</span><a class="ev-tag" href="#q28-5">28-⑤</a></p>
+    <p class="poem-source">— 김득연, 「영회잡곡」 —</p>
+  </div>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob27">
+  <p class="q-stem">27. (가)~(다)에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q27-1">① (가)는 대구의 방식을 통해 시적 상황을 부각하고 있다.<a class="src-tag" href="#ev30-4">지문 근거</a></li>
+    <li id="q27-2">② (나)는 나열의 방식을 통해 운율감을 형성하고 있다.<a class="src-tag" href="#ev28-4">지문 근거</a></li>
+    <li id="q27-3">③ (다)는 유사한 문장 구조를 반복하여 시적 의미를 강조하고 있다.<a class="src-tag" href="#ev28-5">지문 근거</a></li>
+    <li id="q27-4">④ (가)와 (나)는 모두, 색채어를 활용하여 대상의 속성을 드러내고 있다.<a class="src-tag" href="#ev30-1">지문 근거</a></li>
+    <li id="q27-5">⑤ (가)와 (다)는 모두, 의인화된 대상을 활용하여 화자의 정서를 드러내고 있다.<a class="src-tag ans" href="#ev29-2">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>(가)는 백발을 의인화(창·칼로 막으려 함). (다)는 의인화된 대상이 없다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(다)에 의인화 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob28">
+  <p class="q-stem">28. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q28-1">① ㉠: 세월에 대한 경험을 바탕으로 상대에게 행동에 대한 경계를 드러내고 있다.<a class="src-tag" href="#ev28-1">지문 근거</a></li>
+    <li id="q28-2">② ㉡: 불가능한 상황을 설정하여 원하는 것을 얻기 위해서는 시간이 필요함을 드러내고 있다.<a class="src-tag ans" href="#ev28-2">정답 근거</a></li>
+    <li id="q28-3">③ ㉢: 대상의 상황에 대한 가정을 바탕으로 세상일에 대한 깨달음을 드러내고 있다.<a class="src-tag" href="#ev28-3">지문 근거</a></li>
+    <li id="q28-4">④ ㉣: 역사적 인물의 행적을 서술하며 인물에 대한 평가를 드러내고 있다.<a class="src-tag" href="#ev28-4">지문 근거</a></li>
+    <li id="q28-5">⑤ ㉤: 분수에 맞는 삶을 영위하고자 하는 자세를 드러내고 있다.<a class="src-tag" href="#ev28-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>㉡: 불사약으로 늙지 않게 하고 싶다 → 하루종일 생각해도 늙을 수밖에 없다. 이는 '시간이 필요함'이 아니라 불가능한 소망을 포기하는 내용이다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>지문과 일치.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉡은 불사약 소망이 불가능함을 토로한 것. 시간 필요가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob29">
+  <p class="q-stem">29. ⓐ와 ⓑ에 대한 설명으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q29-1">① ⓐ는 화자가 바라는 것을 이루기 위해 준비한 대상이고, ⓑ는 화자가 바라는 것을 미루게 하는 대상이다.<a class="src-tag" href="#ev30-4">지문 근거</a></li>
+    <li id="q29-2">② ⓐ는 화자가 꺼리는 것을 차단하기 위한 대상이고, ⓑ는 화자가 외부와 단절된 상태임을 알 수 있는 대상이다.<a class="src-tag ans" href="#ev29-2">정답 근거</a></li>
+    <li id="q29-3">③ ⓐ는 화자가 심리적으로 가깝게 여기고 있는 대상이고, ⓑ는 화자가 위축된 상황에 처해 있음을 알 수 있는 대상이다.<a class="src-tag" href="#ev30-4">지문 근거</a></li>
+    <li id="q29-4">④ ⓐ와 ⓑ는 모두, 화자가 자신의 과거를 후회하게 만드는 대상이다.<a class="src-tag" href="#ev30-4">지문 근거</a></li>
+    <li id="q29-5">⑤ ⓐ와 ⓑ는 모두, 화자가 자신의 상황이 변할 것이라는 믿음을 갖게 하는 대상이다.<a class="src-tag" href="#ev30-4">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p>ⓐ: 백발을 찔러 막으려는 수단(꺼리는 백발을 차단). ⓑ: 벗이 없어 문이 잠김(외부 단절 상태).</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①③④⑤</td><td>오답</td><td>각각 틀린 설명.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>ⓐ=백발 차단 수단, ⓑ=단절 상태 표지.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob30">
+  <p class="q-stem">30. &lt;보기&gt;를 참고하여 (가)~(다)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p>고전 시가에서 노년의 삶은 화자가 늙음에 대해 성찰하고 현재 삶의 의미를 재정립하는 계기로 작용하기도 한다. 화자는 노년에 겪는 신체적 변화나 다른 대상과의 비교를 통해 늙음을 거스를 수 없는 자연의 섭리로 인식하며 인간 존재의 유한성과 한계를 자각한다. 이때 화자는 자신의 노년을 부정하기도 하지만 현재의 삶에 가치를 두고 남은 인생에 대해 긍정적 태도를 보이기도 한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q30-1">① (가)에서 '털끝마다 점점 흰' 머리를 '이리저리 혜여 보'아도 '오는 백발 검을소냐'는 것에서, 노년에 겪는 외면적 모습의 변화로 인해 늙음을 인식하는 화자의 모습을 엿볼 수 있군.<a class="src-tag" href="#ev30-1">지문 근거</a></li>
+    <li id="q30-2">② (나)에서 '도덕 영웅들은 유적이나 있거니와' '우리 같은 초로인생' '아니 놀고 무엇 하'냐는 것에서, 다른 인물과의 비교를 통해 현재의 삶을 수용하는 화자의 태도를 엿볼 수 있군.<a class="src-tag" href="#ev30-2">지문 근거</a></li>
+    <li id="q30-3">③ (다)에서 '송국죽'을 '매일' '즐기어니 늙는 줄을 어이' 아냐고 하는 것에서, 자연을 향유하며 노년의 삶을 긍정하는 화자의 태도를 엿볼 수 있군.<a class="src-tag" href="#ev30-3">지문 근거</a></li>
+    <li id="q30-4">④ (가)에서 '할 수 없다'며 '백발은 사람마다 겪는'다고 하는 것과 (나)에서 '백발'이 '공도'라고 하는 것에서, 늙음을 자연의 섭리로 이해하는 화자의 모습을 엿볼 수 있군.<a class="src-tag" href="#ev30-4">지문 근거</a></li>
+    <li id="q30-5">⑤ (가)에서 '늙을사록 분한 마음 정할 수 바이 없다'고 하는 것과 (다)에서 '늙는 줄을 내 모르니' '영욕인들 내 알더냐'는 것에서, 인간의 유한성을 인정하지 못하는 화자의 태도를 엿볼 수 있군.<a class="src-tag ans" href="#ev28-5">정답 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p>(가)의 '분한 마음'은 늙음에 저항하는 태도이나, (다)의 '늙는 줄 모르니'는 자연 속에서 만족하며 늙음을 의식하지 않는 긍정적 수용이다. (다)는 '유한성을 인정하지 못함'이 아니라 초연하게 받아들임.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①②③④</td><td>오답</td><td>지문과 보기 적절히 연결.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(다)는 유한성 부정이 아니라 긍정적 수용·초연함. (가)와 (다)를 같은 태도로 묶을 수 없다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
 
 <div id="set8" class="set-anchor"></div>
 
