@@ -957,37 +957,37 @@
         "month": "03",
         "type": "수능",
         "key": "2017-03-go3",
-        "url": null
+        "url": "/exams/2017/2017-03-go3-korean-analysis/"
       },
       {
         "month": "04",
         "type": "학력평가",
         "key": "2017-04-go3",
-        "url": null
+        "url": "/exams/2017/2017-04-go3-korean-analysis/"
       },
       {
         "month": "06",
         "type": "수능",
         "key": "2017-06-go3",
-        "url": null
+        "url": "/exams/2017/2017-06-go3-korean-analysis/"
       },
       {
         "month": "07",
         "type": "학력평가",
         "key": "2017-07-go3",
-        "url": null
+        "url": "/exams/2017/2017-07-go3-korean-analysis/"
       },
       {
         "month": "09",
         "type": "학력평가",
         "key": "2017-09-go3",
-        "url": null
+        "url": "/exams/2017/2017-09-go3-korean-analysis/"
       },
       {
         "month": "10",
         "type": "학력평가",
         "key": "2017-10-go3",
-        "url": null
+        "url": "/exams/2017/2017-10-go3-korean-analysis/"
       }
     ],
     "2016": [
