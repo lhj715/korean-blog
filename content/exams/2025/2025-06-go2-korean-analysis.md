@@ -313,8 +313,8 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 학생의 초고이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="src-label">[작문 상황] 관심 분야를 소개하고, 그에 대한 자신의 생각 드러내기.</p>
-  <p>당신은 반려동물을 키워 본 적이 있는가? 국내 반려동물 양육 인구는 2010년 약 17.4%에서 2023년 약 30%로 늘었다. 이 증가가 관련 산업의 활성화로 이어진 것이 ‘펫코노미’다. <span class="ev ans" id="ev5">‘펫코노미(petconomy)’는 ‘펫(pet)’과 ‘이코노미(economy)’가 결합한 신조어로, 반려동물 관련 시장·산업을 일컫는다.</span><a class="ev-tag ans" href="#q8-1">8-㉠</a><a class="ev-tag ans" href="#q8-3">8-③</a><a class="ev-tag ans" href="#q8-4">8-④</a><a class="ev-tag" href="#q8-6">8-⑥</a> 반려동물을 가족으로 여기는 ‘펫팸족’이 늘며 사료·간식·용품도 다양화·고급화되고 있다.</p>
-  <p>실제로 고가의 기능성 사료·수제 간식이 인기다. <span class="ev ans" id="ev6">또 펫코노미는 서비스업으로 확장돼 미용실·동물 병원은 물론 반려동물 유치원·행동 교정 센터, 카페·숙박업소, 전용 장례식장까지 생겨났다.</span><a class="ev-tag ans" href="#q8-1">8-㉡</a><a class="ev-tag ans" href="#q6-1">6-①</a><a class="ev-tag ans" href="#q8-5">8-⑤</a> 이런 추세로 펫코노미는 앞으로도 꾸준한 성장이 예상된다.</p>
+  <p>당신은 반려동물을 키워 본 적이 있는가? 국내 반려동물 양육 인구는 2010년 약 17.4%에서 2023년 약 30%로 늘었다. 이 증가가 관련 산업의 활성화로 이어진 것이 ‘펫코노미’다. <span class="ev ans" id="ev5">‘펫코노미(petconomy)’는 ‘펫(pet)’과 ‘이코노미(economy)’가 결합한 신조어로, 반려동물 관련 시장·산업을 일컫는다.</span><a class="ev-tag ans" href="#q8-1">8-㉠</a><a class="ev-tag" href="#q8-3">8-③</a><a class="ev-tag" href="#q8-4">8-④</a><a class="ev-tag" href="#q8-6">8-⑥</a> 반려동물을 가족으로 여기는 ‘펫팸족’이 늘며 사료·간식·용품도 다양화·고급화되고 있다.</p>
+  <p>실제로 고가의 기능성 사료·수제 간식이 인기다. <span class="ev ans" id="ev6">또 펫코노미는 서비스업으로 확장돼 미용실·동물 병원은 물론 반려동물 유치원·행동 교정 센터, 카페·숙박업소, 전용 장례식장까지 생겨났다.</span><a class="ev-tag ans" href="#q8-1">8-㉡</a><a class="ev-tag ans" href="#q6-1">6-①</a><a class="ev-tag" href="#q8-5">8-⑤</a> 이런 추세로 펫코노미는 앞으로도 꾸준한 성장이 예상된다.</p>
   <p>펫코노미 성장으로 반려동물을 더 잘 돌볼 환경이 됐지만, 고급화로 양육 비용이 늘고 있다. 특히 의료비는 제도가 미비해 한 번에 큰 비용이 들기도 한다. 비용 부담은 양육 포기로 이어지기도 해 대책이 필요하다.</p>
   <div class="seg" id="segA"><p class="seg-label">[A] (마지막 문단, 고쳐쓰기 대상)</p>
   <p>펫코노미의 성장은 사람과 동물이 주인과 소유물의 관계에서 더불어 살아가는 관계로 변화하고 있다. 펫코노미의 성장이 단순히 경제 지표의 변화에 그치지 않으려면 비싼 사료나 간식만 사주면 안 될 것이다.</p></div>
@@ -328,9 +328,9 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q8-1">① ㉠, ㉡<a class="src-tag ans" href="#ev5">정답 근거(㉠)</a><a class="src-tag ans" href="#ev6">정답 근거(㉡)</a></li>
-    <li id="q8-3">② ㉠, ㉢<a class="src-tag ans" href="#ev5">㉠ 근거</a></li>
-    <li id="q8-4">③ ㉠, ㉣<a class="src-tag ans" href="#ev5">㉠ 근거</a></li>
-    <li id="q8-5">④ ㉡, ㉢<a class="src-tag ans" href="#ev6">㉡ 근거</a></li>
+    <li id="q8-3">② ㉠, ㉢<a class="src-tag" href="#ev5">오답 근거㉠ 근거</a></li>
+    <li id="q8-4">③ ㉠, ㉣<a class="src-tag" href="#ev5">오답 근거㉠ 근거</a></li>
+    <li id="q8-5">④ ㉡, ㉢<a class="src-tag" href="#ev6">오답 근거㉡ 근거</a></li>
     <li id="q8-6">⑤ ㉢, ㉣<a class="src-tag" href="#ev5">오답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1472,7 +1472,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q37-2">② (가)의 ‘세상 같은 건 밖에’ 두어도 ‘좋을 것 같다’는 세상의 이해관계에서 벗어난 삶을 추구한다.<a class="src-tag" href="#ev28">오답 근거</a></li>
     <li id="q37-3">③ (나)의 ‘누군가’가 ‘그런 커다란 꿈’을 부정함은 화자가 희망에 대한 불신을 마주함을 보여 준다.<a class="src-tag" href="#ev-q36-5">오답 근거</a></li>
     <li id="q37-4">④ (나)의 ‘깨진 파도의 유리창’을 ‘갈아 끼’우겠다는 것은 꿈을 향해 전진하려는 다짐이다.<a class="src-tag" href="#ev-q36-5">오답 근거</a></li>
-    <li id="q37-5">⑤ (가)의 ‘외따른 산골’은 화자가 궁핍하게 사는 공간을, (나)의 ‘진주의 계곡’·’새 뻘집’은 화자의 꿈이 실현된 공간을 보여 준다.<a class="src-tag ans" href="#ev-q37-5a">(가) 근거</a><a class="src-tag ans" href="#ev-q37-5b">(나) 근거</a></li>
+    <li id="q37-5">⑤ (가)의 ‘외따른 산골’은 화자가 궁핍하게 사는 공간을, (나)의 ‘진주의 계곡’·’새 뻘집’은 화자의 꿈이 실현된 공간을 보여 준다.<a class="src-tag ans" href="#ev-q37-5a">정답 근거(가) 근거</a><a class="src-tag ans" href="#ev-q37-5b">정답 근거(나) 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>

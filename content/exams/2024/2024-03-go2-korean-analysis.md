@@ -35,7 +35,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><span class="ev ans" id="ev1">쌀의 약 70%는 전분으로 이루어져 있다는 것을 아시나요? (청중의 반응을 확인하고) 전분이 무엇인지 잘 모르시는 것 같으니 그것부터 설명해야겠군요.</span><a class="ev-tag ans" href="#q1-2">1-②</a> <span class="ev" id="ev-q2-1">(그림 1) 전분은 탄수화물의 일종으로, 생쌀 전분 입자는 아밀로오스(용수철 모양)·아밀로펙틴(갈퀴 모양)이 밀집돼 있습니다.</span><a class="ev-tag" href="#q2-1">2-①</a></p>
   <p><span class="ev" id="ev-q2-2">(그림 2) 생쌀과 물을 끓이면 분자 사이로 수분이 침투해 간격이 커지고 모양이 흐트러집니다 — 이 변화가 <strong>호화</strong>입니다.</span><a class="ev-tag" href="#q2-2">2-②</a> 호화된 쌀은 부드럽고 촉촉해 보통 갓 지은 밥을 선호합니다.</p>
   <p>(그림 3) 갓 지은 밥을 오래 두면 <strong>노화</strong>로 수분이 빠져 일부 분자가 원래 상태로 돌아가고 간격이 좁아집니다. 노화는 0~60도이거나 수분 30~60%일 때 잘 일어나, 온도·수분을 조절해 방지하기도 합니다.</p>
-  <p>찬밥의 노화된 전분은 국물을 흡수해 수분을 회복(호화)하고 간도 잘 뱁니다. <span class="ev" id="ev2">반면 (그림 2와 그림 3을 나란히 보여 주며) 호화된 갓 지은 밥은 노화된 전분보다 수분이 많아, 수분이 국물로 이동하는 삼투압으로 간이 싱거워져 맛이 떨어집니다.</span><a class="ev-tag" href="#q2-4">2-④</a></p>
+  <p>찬밥의 노화된 전분은 국물을 흡수해 수분을 회복(호화)하고 간도 잘 뱁니다. <span class="ev ans" id="ev2">반면 (그림 2와 그림 3을 나란히 보여 주며) 호화된 갓 지은 밥은 노화된 전분보다 수분이 많아, 수분이 국물로 이동하는 삼투압으로 간이 싱거워져 맛이 떨어집니다.</span><a class="ev-tag ans" href="#q2-4">2-④</a></p>
   <p><span class="ev" id="ev-q2-5">정리하면, (그림 1·2·3을 차례로 보여 주며) 온도·수분 변화에 따른 전분 상태 변화 때문입니다.</span><a class="ev-tag" href="#q2-5">2-⑤</a> 일상 속 궁금증을 지나치지 않으면 과학 원리를 찾을 수 있습니다.</p>
 </div>
 
@@ -164,7 +164,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>학생3: <span class="ev ans" id="ev5a">나도 그 영상이 유익했어. 사례 일부는 대부분 학생이 겪는 문제라고 신문에서 보도된 적 있어.</span><a class="ev-tag ans" href="#q5-4">5-④</a> <span class="ev" id="ev-q6-2">영상 시청에만 그치고 추가 프로그램이 없어 아쉬웠어.</span><a class="ev-tag" href="#q6-2">6-②</a></p></div>
   <p>학생1: <span class="ev" id="ev-q4-4">내용 측면(대처 방안 부족)·활동 측면(후속 프로그램 없음)으로 정리되겠어.</span><a class="ev-tag" href="#q4-4">4-④</a> 자율활동 프로그램을 건의하자. 어떤 게 있을까?</p>
   <p>학생3: 퀴즈 프로그램은 어때? 영상 사례로 질문, 대처 방안을 답으로.</p>
-  <p>학생1: <span class="ev" id="ev6">퀴즈는 학생들의 참여율을 높이고 대처 방안도 알려 줄 수 있겠어.</span><a class="ev-tag" href="#q6-3">6-③</a> 다른 건?</p>
+  <p>학생1: <span class="ev ans" id="ev6">퀴즈는 학생들의 참여율을 높이고 대처 방안도 알려 줄 수 있겠어.</span><a class="ev-tag ans" href="#q6-3">6-③</a> 다른 건?</p>
   <p>학생2: 모의 근로 계약서 쓰기는? 영상에도 계약서 미작성 사례가 있었잖아. <span class="ev" id="ev-q6-4">아르바이트 하거나 관심 있는 친구에게 도움이 될 거야.</span><a class="ev-tag" href="#q6-4">6-④</a></p>
   <div class="seg" id="segB"><p class="seg-label">[B]</p>
   <p>학생3: <span class="ev ans" id="ev5b">그래. 근로 계약서는 직업 가질 때 의무적으로 쓰는 것으로 근무 주요 사항을 명시한다고 들었어.</span><a class="ev-tag ans" href="#q5-4b">5-④</a> 아르바이트 때도 어려움을 예방할 수 있대.</p></div>
@@ -321,10 +321,10 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 학생의 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p class="src-label">[작문 상황] 유니버설 디자인을 학생들에게 알리는 교지 글.</p>
-  <p><span class="ev ans" id="ev8a">바닥을 낮춰 계단을 없앤 저상 버스, 여러 언어로 콘텐츠를 제공하는 누리집의 공통점은 무엇일까? 더 많은 사람이 이용하도록 설계됐다는 점이다.</span><a class="ev-tag ans" href="#q8-1">8-ㄱ</a> ‘유니버설 디자인’은 시설·제품·서비스를 모든 사용자가 이용하도록 설계하는 것이다.</p>
-  <p><span class="ev ans" id="ev8b">도입 이전엔 장애인 접근성을 위해 전용 시설(휠체어 리프트)을 따로 뒀는데, 이것이 장애 유무로 사람을 구분 짓는다는 문제가 제기됐다. 1980년대에 이를 해결하려 장애와 무관하게 모두 접근 가능하도록 설계하는 유니버설 디자인이 도입됐다.</span><a class="ev-tag ans" href="#q8-4">8-ㄹ</a><a class="ev-tag" href="#q10-1">10-①</a></p>
+  <p><span class="ev ans" id="ev8a">바닥을 낮춰 계단을 없앤 저상 버스, 여러 언어로 콘텐츠를 제공하는 누리집의 공통점은 무엇일까? 더 많은 사람이 이용하도록 설계됐다는 점이다.</span><a class="ev-tag" href="#q8-1">8-ㄱ</a> ‘유니버설 디자인’은 시설·제품·서비스를 모든 사용자가 이용하도록 설계하는 것이다.</p>
+  <p><span class="ev ans" id="ev8b">도입 이전엔 장애인 접근성을 위해 전용 시설(휠체어 리프트)을 따로 뒀는데, 이것이 장애 유무로 사람을 구분 짓는다는 문제가 제기됐다. 1980년대에 이를 해결하려 장애와 무관하게 모두 접근 가능하도록 설계하는 유니버설 디자인이 도입됐다.</span><a class="ev-tag" href="#q8-4">8-ㄹ</a><a class="ev-tag" href="#q10-1">10-①</a></p>
   <p>현재는 취지가 확대돼 <span class="ev" id="ev-q10-3">연령·질병·언어 등 신체적·인지적 차이와 무관하게 모두 접근하도록 설계한다.</span><a class="ev-tag" href="#q10-3">10-③</a> 구현 방법도 다양해 — <span class="ev" id="ev-q10-4">힘이 약해도 쓸 수 있는 조작, 다치지 않게 한 안전 설계</span><a class="ev-tag" href="#q10-4">10-④</a>, 언어 능력이 부족해도 이해하도록 그림을 넣은 표지판 등.</p>
-  <p><span class="ev" id="ev9">고령화로 필요성이 강조되지만, 사회 구성원의 관심은 저조하고 비용 때문에 경제적 손해라는 인식도 있다. 그러나 장기적으로는 유니버설 디자인으로 사회적 비용이 줄 수도 있다.</span><a class="ev-tag" href="#q9-1">9-[A]</a><a class="ev-tag" href="#q10-5">10-⑤</a></p>
+  <p><span class="ev ans" id="ev9">고령화로 필요성이 강조되지만, 사회 구성원의 관심은 저조하고 비용 때문에 경제적 손해라는 인식도 있다. 그러나 장기적으로는 유니버설 디자인으로 사회적 비용이 줄 수도 있다.</span><a class="ev-tag ans" href="#q9-1">9-[A]</a><a class="ev-tag" href="#q10-5">10-⑤</a></p>
   <div class="seg" id="segA"><p class="seg-label">[A] (마무리)</p><p class="muted">9번에서 작성 — 우리 사회 의식 개선 + 학생들이 지녀야 할 자세.</p></div>
 </div>
 
@@ -453,7 +453,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p><span class="ev" id="ev11s">‘이것은 내가 읽은 책이다’의 ‘내가 읽은’은 주어·서술어를 갖춘 채 체언을 수식하는 <strong>관형사절</strong>이다.</span><a class="ev-tag" href="#q11-1">11-①</a> 관형사절은 생략된 성분이 있는지에 따라 두 유형으로 나뉜다.</p>
   <p>(1) ‘그는 우리가 학교로 돌아온 사실을 안다’ — 관형사절 ‘우리가 학교로 돌아온’은 <span class="ev" id="ev11b">서술어 형태만 변했을 뿐 필요한 성분을 다 갖췄다. 이 유형은 ‘사실·소문’처럼 내용을 보충할 필요가 있는 체언 앞에서만 나타난다.</span><a class="ev-tag" href="#q11-2">11-②</a><a class="ev-tag" href="#q11-3">11-③</a></p>
-  <p>(2) ‘그는 이마에 흐르는 땀을 닦았다’ — 관형사절 ‘이마에 흐르는’은 수식 체언을 포함한 성분 ‘땀이’가 <span class="ev ans" id="ev11c">생략된 것으로, 이 유형은 모든 체언 앞에서 나타날 수 있다.</span><a class="ev-tag ans" href="#q11-4">11-④</a><a class="ev-tag" href="#q11-5">11-⑤</a> <span class="ev" id="ev12">다만 특정 성분이 생략되면 원래 문장과 관형사절의 의미가 달라지거나 문법적으로 부적절해지는 경우가 있다.</span><a class="ev-tag" href="#q12-2">12-②</a></p>
+  <p>(2) ‘그는 이마에 흐르는 땀을 닦았다’ — 관형사절 ‘이마에 흐르는’은 수식 체언을 포함한 성분 ‘땀이’가 <span class="ev ans" id="ev11c">생략된 것으로, 이 유형은 모든 체언 앞에서 나타날 수 있다.</span><a class="ev-tag ans" href="#q11-4">11-④</a><a class="ev-tag" href="#q11-5">11-⑤</a> <span class="ev ans" id="ev12">다만 특정 성분이 생략되면 원래 문장과 관형사절의 의미가 달라지거나 문법적으로 부적절해지는 경우가 있다.</span><a class="ev-tag" href="#q12-2">12-②</a></p>
 </div>
 
 <div class="q-block" id="prob11">
@@ -642,7 +642,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p>귀 안쪽의 달팽이관은 림프액이 차 있는 달팽이 모양의 청각 기관이다. 관의 모양을 ⓐ<span class="ev" id="ev20a">따라</span> 기저막이라는 긴 막이 있고, 그 위로 털 세포가 배열돼 있다. 기저막과 털 세포는 소리의 높낮이를 지각하는 데 중요한 역할을 한다.</p>
   <p>귀 바깥의 파동이 림프액으로 전달되면 <span class="ev" id="ev16-1">기저막은 달팽이관 모양을 따라 바깥쪽부터 진동</span><a class="ev-tag" href="#q16-1">16-①</a>한다. 최대로 진동하는 부위는 파동의 주파수에 따라 다른데, <span class="ev" id="ev16-2">기저막은 바깥쪽일수록 단단해 단단한 부위일수록 높은 주파수의 파동에 크게 떨린다.</span><a class="ev-tag" href="#q16-2">16-②</a> 즉 주파수가 높을수록 최대 진동 부위는 바깥쪽에 있고, <span class="ev" id="ev16-3">주파수가 높을수록 최대 진동 부위의 길이는 짧다.</span><a class="ev-tag" href="#q16-3">16-③</a> 진동 정도는 바깥쪽부터 완만히 커지다 최대 부위를 지나면 급격히 감소한다.</p>
-  <p><span class="ev" id="ev17-1">기저막이 진동하면 털 세포가 반응해 털이 휘어지면서 전기 신호가 발생한다.</span><a class="ev-tag" href="#q17-1">17-①·③</a> 최대 진동 부위에 가까운 털 세포일수록 털이 많이 휘고, 그 부위의 털 세포는 진동할 때마다 반응해 가장 많이 휜다. <span class="ev" id="ev18">㉠결국 최대로 진동하는 부위에 있는 털 세포가 초당 전기 신호를 내는 횟수는 그 파동의 주파수와 일치한다.</span><a class="ev-tag" href="#q18-1">18</a> 비슷한 주파수의 여러 파동이 동시에 오면 반응하는 영역이 겹칠 수 있다.</p>
+  <p><span class="ev" id="ev17-1">기저막이 진동하면 털 세포가 반응해 털이 휘어지면서 전기 신호가 발생한다.</span><a class="ev-tag" href="#q17-1">17-①·③</a> 최대 진동 부위에 가까운 털 세포일수록 털이 많이 휘고, 그 부위의 털 세포는 진동할 때마다 반응해 가장 많이 휜다. <span class="ev ans" id="ev18">㉠결국 최대로 진동하는 부위에 있는 털 세포가 초당 전기 신호를 내는 횟수는 그 파동의 주파수와 일치한다.</span><a class="ev-tag ans" href="#q18-1">18</a> 비슷한 주파수의 여러 파동이 동시에 오면 반응하는 영역이 겹칠 수 있다.</p>
   <p><span class="ev ans" id="ev17-4">전기 신호는 신경 전달 물질이 털 세포에서 방출되도록 ⓓ만들어, 연접한 신경 섬유를 흥분시킨다.</span><a class="ev-tag ans" href="#q17-4">17-④</a> <span class="ev" id="ev-q18-2">개별 신경 섬유가 초당 흥분하는 횟수는 일정 수준까지만 주파수에 대응한다</span><a class="ev-tag" href="#q18-2">18-②</a>(흥분 최대치가 제한됨).</p>
   <p>신경 신호는 중뇌를 ⓔ<span class="ev ans" id="ev20e">거쳐</span> 대뇌의 1차 청각 피질로 전달된다. <span class="ev ans" id="ev16-5">1차 청각 피질은 얼굴 쪽 부위일수록 기저막의 안쪽 부위와, 뒤통수 쪽일수록 바깥쪽과 연결</span><a class="ev-tag ans" href="#q16-5">16-⑤</a>된다. <span class="ev" id="ev16-4">대뇌에 이르는 모든 개별 신경 섬유는 민감하게 반응하는 주파수가 정해져 있다.</span><a class="ev-tag" href="#q16-4">16-④</a><a class="ev-tag" href="#q17-5">17-⑤</a> <span class="ev" id="ev-q18-4">대뇌는 ‘어느 위치 털 세포와 연접하는지 + 어떤 주기로 흥분하는지’를 활용</span><a class="ev-tag" href="#q18-4">18-④</a>해, 주파수가 높을수록 높은 소리로 지각한다.</p>
 </div>
@@ -682,7 +682,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">17. 털 세포에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 59.3%</span></p>
   <ul class="q-opts">
     <li id="q17-1">① 전기 신호를 발생시켜 털을 휘게 만든다.<a class="src-tag" href="#ev17-1">오답 근거</a></li>
-    <li id="q17-2">② 연접한 신경 섬유를 신경 신호를 통해 흥분시킨다.<a class="src-tag ans" href="#ev17-4">오답 근거</a></li>
+    <li id="q17-2">② 연접한 신경 섬유를 신경 신호를 통해 흥분시킨다.<a class="src-tag" href="#ev17-4">오답 근거</a></li>
     <li id="q17-3">③ 털이 빠르게 휘어질수록 기저막을 많이 진동시킨다.<a class="src-tag" href="#ev17-1">오답 근거</a></li>
     <li id="q17-4">④ 신경 신호를 발생시키는 신경 전달 물질을 방출한다.<a class="src-tag ans" href="#ev17-4">정답 근거</a></li>
     <li id="q17-5">⑤ 민감하게 반응하는 주파수가 파동이 전달될 때마다 변한다.<a class="src-tag" href="#ev16-4">오답 근거</a></li>
@@ -823,10 +823,10 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p>18세기 중반 등장한 신고전주의는 고대 그리스 고전주의로 회귀한 복고주의 사조다. <span class="ev" id="ev22-1">계몽주의자들은 로코코 미술을 경박·부도덕하다 비판하고, 근대 시민 사회에 걸맞은 정제된 형식미·엄숙함의 고전주의 미술에 주목했다.</span><a class="ev-tag" href="#q22-1">22-①</a></p>
-  <p>고전주의는 <span class="ev ans" id="ev23">㉠아름다움은 사물이 본래 가진 어떤 특질(수학적 비례·조화·질서 같은 객관적 형식)이라고 보는 관점</span><a class="ev-tag ans" href="#q23-1">23-①</a><a class="ev-tag" href="#q23-4">23-④</a>을 바탕으로 한다(플라톤). 엄격한 비례, 곧 기하학적 조형성을 갖춘 사물은 그 자체로 감각적 즐거움을 준다고 보았다. ⓐ<span class="ev" id="ev25">가졌는데</span></p>
-  <p><span class="ev" id="ev-q24-bk">빈켈만은 고대 그리스 미술의 ‘고귀한 단순성(완벽한 비례의 형태)과 고요한 위대함(감정의 절제)’을 모방해야 한다 했고,</span><a class="ev-tag" href="#q24-3">24-③</a><a class="ev-tag" href="#q24-4">24-④</a> <span class="ev ans" id="ev24">육체적 아름다움과 정신적 숭고함, 곧 형식과 내용이 ‘완벽히 일치’하는 그리스 미술에 절대미가 구현됐다</span><a class="ev-tag" href="#q24-5">24-⑤</a>고 보았다.</p>
+  <p>고전주의는 <span class="ev ans" id="ev23">㉠아름다움은 사물이 본래 가진 어떤 특질(수학적 비례·조화·질서 같은 객관적 형식)이라고 보는 관점</span><a class="ev-tag ans" href="#q23-1">23-①</a><a class="ev-tag" href="#q23-4">23-④</a>을 바탕으로 한다(플라톤). 엄격한 비례, 곧 기하학적 조형성을 갖춘 사물은 그 자체로 감각적 즐거움을 준다고 보았다. ⓐ<span class="ev ans" id="ev25">가졌는데</span></p>
+  <p><span class="ev" id="ev-q24-bk">빈켈만은 고대 그리스 미술의 ‘고귀한 단순성(완벽한 비례의 형태)과 고요한 위대함(감정의 절제)’을 모방해야 한다 했고,</span><a class="ev-tag" href="#q24-3">24-③</a><a class="ev-tag" href="#q24-4">24-④</a> <span class="ev ans" id="ev24">육체적 아름다움과 정신적 숭고함, 곧 형식과 내용이 ‘완벽히 일치’하는 그리스 미술에 절대미가 구현됐다</span><a class="ev-tag ans" href="#q24-5">24-⑤</a>고 보았다.</p>
   <p>신고전주의 미술은 <span class="ev" id="ev22-2">붓 자국 없이 매끈한 표면, 뚜렷한 윤곽선, 균형 잡힌 구도로 색채보다 형태를 강조</span><a class="ev-tag" href="#q22-2">22-②</a>했다. 또 사회적 교훈을 담아 그리스 신화·역사 속 영웅의 애국적 희생을 주제로 삼되, <span class="ev ans" id="ev22-3">영웅의 표정은 한결같이 침착하게 표현됐다 — 감정을 절제해 정신적 숭고함(도덕성)을 드러내기 위해서다.</span><a class="ev-tag ans" href="#q22-3">22-③</a></p>
-  <p>19세기 전반 낭만주의는 신고전주의를 거부하고 개인의 상상력·감정의 자유로운 표현을 중시했다. <span class="ev" id="ev21">헤르더는 상대주의 관점에서 빈켈만의 그리스 편향을 비판하며 낭만주의를 열었다.</span><a class="ev-tag" href="#q21-4">21-④</a><a class="ev-tag" href="#q24-1">24-①</a><a class="ev-tag" href="#q24-2">24-②</a></p>
+  <p>19세기 전반 낭만주의는 신고전주의를 거부하고 개인의 상상력·감정의 자유로운 표현을 중시했다. <span class="ev ans" id="ev21">헤르더는 상대주의 관점에서 빈켈만의 그리스 편향을 비판하며 낭만주의를 열었다.</span><a class="ev-tag ans" href="#q21-4">21-④</a><a class="ev-tag" href="#q24-1">24-①</a><a class="ev-tag" href="#q24-2">24-②</a></p>
   <p>낭만주의는 <span class="ev" id="ev23b">㉡아름다움은 사물에 대해 느끼는 감각적 즐거움에서 기인한다는 관점</span><a class="ev-tag" href="#q23-2">23-②</a><a class="ev-tag" href="#q23-3">23-③</a><a class="ev-tag" href="#q23-5">23-⑤</a>(흄)을 토대로, <span class="ev" id="ev22-5">불안·공포의 감정이나 악마·유령 같은 비현실적·환상적 존재 등 신고전주의가 외면한 영역으로 주제를 확장</span><a class="ev-tag" href="#q22-5">22-⑤</a>했다. 또 <span class="ev" id="ev22-4">강렬한 채색, 거친 붓 자국, 역동적인 구도로 형태보다 색채를 강조</span><a class="ev-tag" href="#q22-4">22-④</a>했다.</p>
 </div>
 
@@ -1012,7 +1012,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>행정 행위는 행정청이 법령에 따라 행하는 일방적 의사 표시로, 개인의 권리·의무를 변동시킨다. 행정청은 행정 목적을 위해 행정 행위에 부수적 사항을 붙일 수 있는데, 이 종속적 규율이 <strong>부관</strong>이다.</p>
   <p>조건은 발생 여부가 <span class="ev" id="ev27-3">불확실한 사실</span>에 따라 효력 발생·소멸이 결정되는 부관으로, <span class="ev" id="ev27-1">성취 시 효력이 발생하는 ㉠정지 조건</span><a class="ev-tag" href="#q27-1">27-①</a>과 효력이 소멸하는 ㉡해제 조건으로 나뉜다. 기한은 발생 여부가 <span class="ev" id="ev27-3b">확실한 사실(‘○월 ○일’)</span><a class="ev-tag" href="#q27-3">27-③</a>에 따르며, <span class="ev ans" id="ev27-5">효력이 발생하는 ㉢시기와 소멸하는 ㉣종기로 나뉜다.</span><a class="ev-tag ans" href="#q27-5">27-⑤</a> <span class="ev" id="ev26-5">즉 행정청은 정지 조건·시기로 효력 발생 시점을 정할 수 있다.</span><a class="ev-tag" href="#q26-5">26-⑤</a></p>
   <p>㉤<span class="ev" id="ev26-4">부담은 주된 행정 행위의 효력과 더불어 개인에게 별도의 의무를 부과하는 부관</span><a class="ev-tag" href="#q26-4">26-④</a>으로, 그 자체가 행정 행위의 성격을 갖는다. <span class="ev" id="ev27-2">부담은 주된 효력을 ‘제한’하지 않으며,</span><a class="ev-tag" href="#q27-2">27-②</a> <span class="ev" id="ev27-4">이행되지 않아도 주된 행정 행위의 효력이 존속</span><a class="ev-tag" href="#q27-4">27-④</a>한다(그래서 부담으로 보는 것이 개인에게 유리).</p>
-  <p>부관이 위법할 때 부관만 취소할 수 있는지 견해가 갈린다. <span class="ev ans" id="ev29">ⓐ첫째 견해 — 기속 행위와 달리 재량 행위에 붙은 부관은 취소할 수 없다</span><a class="ev-tag ans" href="#q29-5">29-⑤</a><a class="ev-tag" href="#q29-1">29-①</a>고 본다. <span class="ev" id="ev26-1">기속 행위는 요건이 충족되면 행정청이 규정된 내용대로 ‘하여야 하는’ 행정 행위, 재량 행위는 그 내용을 ‘선택할 수 있는’ 행정 행위다.</span><a class="ev-tag" href="#q26-1">26-①</a> <span class="ev ans" id="ev28">㉮법원이 재량 행위 부관만 취소하면 행정청의 재량권이 침해된다</span><a class="ev-tag ans" href="#q28-1">28-①</a>고 본다.</p>
+  <p>부관이 위법할 때 부관만 취소할 수 있는지 견해가 갈린다. <span class="ev ans" id="ev29">ⓐ첫째 견해 — 기속 행위와 달리 재량 행위에 붙은 부관은 취소할 수 없다</span><a class="ev-tag ans" href="#q29-5">29-⑤</a><a class="ev-tag" href="#q29-1">29-①</a>고 본다. <span class="ev ans" id="ev26-1">기속 행위는 요건이 충족되면 행정청이 규정된 내용대로 ‘하여야 하는’ 행정 행위, 재량 행위는 그 내용을 ‘선택할 수 있는’ 행정 행위다.</span><a class="ev-tag ans" href="#q26-1">26-①</a> <span class="ev ans" id="ev28">㉮법원이 재량 행위 부관만 취소하면 행정청의 재량권이 침해된다</span><a class="ev-tag ans" href="#q28-1">28-①</a>고 본다.</p>
   <p><span class="ev" id="ev-q29-b">ⓑ둘째 견해 — 부관이 본질적 요소가 아니면 부관만 취소 가능, 본질적 요소면 주된 행위 자체를 취소해야 한다.</span><a class="ev-tag" href="#q29-2">29-②</a><a class="ev-tag" href="#q29-4">29-④</a> <span class="ev" id="ev-q29-c">ⓒ셋째 견해 — 부관은 종속적 규율일 뿐이므로 어느 경우든 부관만 취소 가능하다</span><a class="ev-tag" href="#q29-3">29-③</a>(행정청이 새 부관을 붙이거나 효력을 스스로 소멸시킬 수 있으므로).</p>
   <p>부관은 탄력적 법령 집행으로 <span class="ev" id="ev26-2">행정의 효율을 높이지만, 남용 시 개인의 권리를 함부로 제한할 위험</span><a class="ev-tag" href="#q26-2">26-②</a>도 있어, 사법적 통제로 균형을 맞춰야 한다. <span class="ev" id="ev26-3">부관만 취소하면 주된 행위는 존속하고 부관의 효력만 소멸한다.</span><a class="ev-tag" href="#q26-3">26-③</a></p>
 </div>
@@ -1201,15 +1201,15 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><b>〈제6수 — 신(晨)·새벽〉</b><br>
   새벽 밝아 오자 <span class="ev" id="ev33-1a">지빠귀가 소리 한다</span><a class="ev-tag" href="#q33-1">33-①</a><br>
   일어나거라 아이들아 ㉠<span class="ev ans" id="ev32a">밭 보러 가자꾸나</span><a class="ev-tag ans" href="#q32-3">32·㉠</a><br>
-  <span class="ev ans" id="ev33-4a">밤사이 이슬 기운</span>에 (곡식이) 얼마나 자랐는고 하노라</p>
+  <span class="ev" id="ev33-4a">밤사이 이슬 기운</span>에 (곡식이) 얼마나 자랐는고 하노라</p>
   <p><b>〈제7수 — 오(午)·낮〉</b><br>
   보리밥 지어 담고 풀로 끓인 국을 하여<br>
   고생하는 ㉡<span class="ev ans" id="ev32b">농부들을 제때에 먹이자꾸나</span><a class="ev-tag ans" href="#q32-3">32·㉡</a><br>
   아이야 그릇 올려라 <span class="ev" id="ev33-2a">친히 맛보아 보내리라</span><a class="ev-tag" href="#q33-2">33-②</a></p>
   <p><b>〈제8수 — 석(夕)·저녁〉</b><br>
-  서산에 <span class="ev ans" id="ev33-1b">해 지고</span> 풀 끝에 <span class="ev" id="ev33-4b">이슬 난다</span><br>
+  서산에 <span class="ev" id="ev33-1b">해 지고</span> 풀 끝에 <span class="ev" id="ev33-4b">이슬 난다</span><br>
   <span class="ev ans" id="ev33-3">호미를 둘러 메고 등에 지고 가자꾸나</span><a class="ev-tag ans" href="#q33-3">33-③</a><br>
-  이 중의 <span class="ev ans" id="ev33-5b">즐거운 뜻을 일러 무엇 하리오</span></p>
+  이 중의 <span class="ev" id="ev33-5b">즐거운 뜻을 일러 무엇 하리오</span></p>
 </div>
 
 <div class="q-block" id="prob31">
@@ -1327,19 +1327,19 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[34 ~ 38] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p><b>(가) 박두진, 〈청산도〉</b></p>
-  <p><span class="ev ans" id="ev34">산아.</span><a class="ev-tag ans" href="#q34-2">34-②</a> 우뚝 솟은 푸른 산아. <span class="ev" id="ev-q35-1">철철철 흐르듯 짙푸른 산아.</span><a class="ev-tag" href="#q35-1">35-①</a> 숱한 나무들, 무성히 무성히 우거진 산마루에, 금빛 기름진 햇살은 내려오고, <span class="ev" id="ev35">둥둥 산을 넘어, 흰 구름 건넌 자리 씻기는 하늘.</span><a class="ev-tag" href="#q35-2">35-②</a> 사슴도 안 오고 바람도 안 불고, 넘엇 골 골짜기서 울어 오는 뻐꾸기…….</p>
+  <p><span class="ev ans" id="ev34">산아.</span><a class="ev-tag ans" href="#q34-2">34-②</a> 우뚝 솟은 푸른 산아. <span class="ev" id="ev-q35-1">철철철 흐르듯 짙푸른 산아.</span><a class="ev-tag" href="#q35-1">35-①</a> 숱한 나무들, 무성히 무성히 우거진 산마루에, 금빛 기름진 햇살은 내려오고, <span class="ev ans" id="ev35">둥둥 산을 넘어, 흰 구름 건넌 자리 씻기는 하늘.</span><a class="ev-tag ans" href="#q35-2">35-②</a> 사슴도 안 오고 바람도 안 불고, 넘엇 골 골짜기서 울어 오는 뻐꾸기…….</p>
   <p>산아. 푸른 산아. 네 가슴 향기로운 풀밭에 엎드리면, 나는 가슴이 울어라. <span class="ev" id="ev-q35-3">흐르는 골짜기 스며드는 물소리에, 내사 줄줄줄 가슴이 울어라.</span><a class="ev-tag" href="#q35-3">35-③</a> (…) 어찌면 만나도질 <span class="ev" id="ev37-1">볼이 고운 사람이, 난 혼자 그리워라.</span><a class="ev-tag" href="#q37-1">37-①</a></p>
   <p>티끌 부는 세상에도 벌레 같은 세상에도 눈 맑은, 가슴 맑은, 보고지운 나의 사람. (…) 향기로운 이슬밭 푸른 언덕을, <span class="ev" id="ev37-1b">총총총 달려도 와 줄 볼이 고운 나의 사람.</span><a class="ev-tag" href="#q35-5">35-⑤</a></p>
   <p><b>(나) 기형도, 〈숲으로 된 성벽〉</b></p>
   <p>저녁 노을이 지면 / 신들의 상점엔 하나둘 불이 켜지고 / <span class="ev" id="ev37-2">농부들은 작은 당나귀들과 함께 / 성 안으로 사라지는 것이었다</span><a class="ev-tag" href="#q37-2">37-②</a><br>
-  성벽은 울창한 숲으로 된 것이어서 / <span class="ev ans" id="ev37-2b">누구나 사원을 통과하는 구름 혹은 / 조용한 공기들이 되지 않으면 / 한걸음도 들어갈 수 없는</span> 아름답고 / 신비로운 그 성<br>
+  성벽은 울창한 숲으로 된 것이어서 / <span class="ev" id="ev37-2b">누구나 사원을 통과하는 구름 혹은 / 조용한 공기들이 되지 않으면 / 한걸음도 들어갈 수 없는</span> 아름답고 / 신비로운 그 성<br>
   어느 골동품 상인이 그 숲을 찾아와 / ㉠<span class="ev ans" id="ev36a">몇 개 큰 나무들을 잘라내고 들어갔다</span><a class="ev-tag ans" href="#q36-1">36-㉠</a> / <span class="ev" id="ev37-3">그곳에는…… 아무것도 없었다, 그가 본 것은 / 쓰러진 나무들뿐</span><a class="ev-tag" href="#q37-3">37-③</a>, 잠시 후 / 그는 그 공터를 떠났다<br>
   농부들은 아직도 그 평화로운 성에 살고 있다 / 물론 그 작은 당나귀들 역시</p>
   <p><b>(다) 이규보, 〈지지헌기〉</b></p>
   <p>“이른바 지지(止止)란 능히 그 그칠 곳을 알아서 그치는 것이니, 그칠 곳이 아닌 데에 그치면 그것은 그칠 곳에 그친 것이 아니다. <span class="ev" id="ev-q38-5">호랑이·표범, 고라니·사슴, 교룡은 늪·못이나 굴에 있어야 그칠 곳에 그치는 것인데</span><a class="ev-tag" href="#q38-5">38-⑤</a>, 본고장을 떠나 성시(城市)에 그친다면 사람들이 재앙으로 여겨 해칠 것이다.”</p>
   <p>“나는 <span class="ev" id="ev-q38-4">세상에서 거만스러워 남과 합하는 일이 적으니</span><a class="ev-tag" href="#q38-4">38-④</a> 길들여진 물건이 아니다. 만일 남들과 함께 나아가 <span class="ev" id="ev37-4">명리(名利)의 지경에 그친다면, 이는 짐승이 성시에 그친 것과 무엇이 다르랴.</span><a class="ev-tag" href="#q37-4">37-④</a> 이것이 내가 그칠 곳을 구하여 그치는 것이다. <span class="ev" id="ev-q38-3">그렇지 않으면 사람들이 재앙으로 여겨 해치는 자가 이를 것이다.</span><a class="ev-tag" href="#q38-3">38-③</a>”</p>
   <p>어떤 이가 “자네 말대로면 <span class="ev ans" id="ev37-5">산림·궁곡에 처하여 남들과 섞이지 않은 연후에야 그칠 곳에 그쳤다 할 것인데, 지금 자네가 그친 곳은 성시의 가운데인데도 그칠 곳에 그쳤다 하니 어찌된 것인가?”</span><a class="ev-tag ans" href="#q37-5">37-⑤</a> 하기에, 이렇게 답했다.</p>
-  <p>“진실로 사람들과 다투지 아니하여, 비록 대낮에 ㉡<span class="ev" id="ev36b">내 상자를 훔쳐가는 자가 있더라도 피하고 보지 않는다면,</span><a class="ev-tag" href="#q36-1">36-㉡</a> 사람이 성시에 처하는 것이 또한 짐승이 늪·못이나 굴에 처하는 것과 같은데, <span class="ev" id="ev-q38-1">어찌 해칠 자가 있겠는가?</span><a class="ev-tag" href="#q38-1">38-①</a> <span class="ev ans" id="ev38">내가 거처를 이렇게 이름한 것은 대개 이러한 뜻이다.</span><a class="ev-tag ans" href="#q38-2">38-②</a>”</p>
+  <p>“진실로 사람들과 다투지 아니하여, 비록 대낮에 ㉡<span class="ev ans" id="ev36b">내 상자를 훔쳐가는 자가 있더라도 피하고 보지 않는다면,</span><a class="ev-tag ans" href="#q36-1">36-㉡</a> 사람이 성시에 처하는 것이 또한 짐승이 늪·못이나 굴에 처하는 것과 같은데, <span class="ev" id="ev-q38-1">어찌 해칠 자가 있겠는가?</span><a class="ev-tag" href="#q38-1">38-①</a> <span class="ev ans" id="ev38">내가 거처를 이렇게 이름한 것은 대개 이러한 뜻이다.</span><a class="ev-tag ans" href="#q38-2">38-②</a>”</p>
 </div>
 
 <div class="q-block" id="prob34">
@@ -1523,7 +1523,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>아이는 향방 없이 걷다 탑동 공원까지 갔다. <span class="ev" id="ev40-2">팔각정이 조선어 독본에서 본 기억이 났고, 공원은 아무나 들어가 쉬는 데라는 생각이 나서 기웃거리지도 않고 들어갔다.</span><a class="ev-tag" href="#q40-2">40-②</a></p>
   <p>실과 광주리들 앞 — 양복 한 사람이 사과 껍질을 늘어뜨리며 깎고, 그 밑에서 <span class="ev" id="ev40-3">자기보다 더 헐벗은 아이가 손을 벌려 껍질을 받으려 섰는 것</span><a class="ev-tag" href="#q40-3">40-③</a>을 보고서야 모두가 꿈도 그림도 아닌 줄 깨달았다. 그 입들을 보고서야 바짝 말랐던 입안에 침기가 서리고 목젖이 늘름거렸다. ‘쟤처럼 껍질이라도 먹었으면!’</p>
   <p>배를 깎는 사람(여덟팔자수염) 곁으로 갔으나 <span class="ev" id="ev-q42-1">아이의 손은 저도 모르게 뒷짐이 져졌다.</span><a class="ev-tag" href="#q42-1">42-①</a> ‘껍질이라도 주었으면!’ 하는데 그 수염이 찡긋하더니 — 두껍게 벗긴 배 껍질은 흙에 떨어졌고, <span class="ev" id="ev42-2">그 사람은 넓적한 구둣발로 그것을 짓이기고 ‘요걸 바라구 섰어?’ 하는 멸시를 던졌다.</span><a class="ev-tag" href="#q42-2">42-②</a> ‘자기가 먹지 않고 버리는 건데 남두 못 먹게 할 게 무언가?’</p>
-  <p>키 큰 서양 사람 남녀 — <span class="ev" id="ev40-4">남편인 듯한 사람이 새까만 가죽갑의 유리알을 아이에게 향하고 손잡이를 돌리는 소리</span><a class="ev-tag" href="#q40-4">40-④</a>였다. <span class="ev ans" id="ev40-5">그 유리알은 자기와 더 헐벗은 아이를 번갈아 향했고, 아이는 그 눈알이 쏠 때마다 왜 그런지 무섭다.</span><a class="ev-tag ans" href="#q40-5">40-⑤</a> <span class="ev" id="ev42-3">아이들은 그게 활동사진 기계인 줄, 서양 사람들이 본국의 행복된 가족에게 보일 것인 줄은 알 리 없다.</span><a class="ev-tag" href="#q42-3">42-③</a></p>
+  <p>키 큰 서양 사람 남녀 — <span class="ev" id="ev40-4">남편인 듯한 사람이 새까만 가죽갑의 유리알을 아이에게 향하고 손잡이를 돌리는 소리</span><a class="ev-tag" href="#q40-4">40-④</a>였다. <span class="ev ans" id="ev40-5">그 유리알은 자기와 더 헐벗은 아이를 번갈아 향했고, 아이는 그 눈알이 쏠 때마다 왜 그런지 무섭다.</span><a class="ev-tag ans" href="#q40-5">40-⑤</a> <span class="ev ans" id="ev42-3">아이들은 그게 활동사진 기계인 줄, 서양 사람들이 본국의 행복된 가족에게 보일 것인 줄은 알 리 없다.</span><a class="ev-tag ans" href="#q42-3">42-③</a></p>
   <p>서양 여자가 은전 한 닢을 던지자 ‘돈!’ — <span class="ev" id="ev42-4">아이는 비수 같은 의식이 머릿속을 스치자 나는 듯 달려들었다.</span><a class="ev-tag" href="#q42-4">42-④</a> 그러나 지까다비 신은 어른이 먼저 백동전을 발로 덮쳤다. 그는 돈은 얼른 안 집고 서양 사람을 멱살 잡을 듯 노렸고, 부부가 떠나자 <span class="ev" id="ev42-5">돈을 집어 무어라 중얼거리며 한길 쪽으로 보이지도 않게 팔매를 쳐 버렸다.</span><a class="ev-tag" href="#q42-5">42-⑤</a> ‘웬일일까? 웬 사람인데 심사가 그 지경일까?’ 아이는 이것도 모를 일이었다.</p>
 </div>
 
@@ -1677,12 +1677,12 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><span class="ev ans" id="ev43-2">학사가 명백한 상소를 지어 궐문에 들어가니, 강환이 그 사연을 알고 금오랑에게 명해 북지옥에 가두었다.</span><a class="ev-tag ans" href="#q43-2">43-②</a> 학사가 탄식하기를 “<span class="ev" id="ev-q45-2">원수 놈 강환이 나를 천한 출생이라 깔보아</span><a class="ev-tag" href="#q45-2">45-②</a> 이 지경이 되니, 내 앞으로 옥귀신이 될지언정 <span class="ev" id="ev45-1">옥같은 옥란을 환관놈에게 보내리오.</span><a class="ev-tag" href="#q45-1">45-①</a> <span class="ev" id="ev43-3">저 애들에게 편지도 통할 수 없으니 이 변란을 어떻게 전하겠는가.”</span><a class="ev-tag" href="#q43-3">43-③</a></p>
   <p>이때 강환이 학사의 뜻이 변치 않을 줄 알고, ‘가짜 편지를 만들어 옥란을 데려다 늑혼하리라.’ 하여, <span class="ev ans" id="ev43-2b">사운의 편지를 만들어 황문 위졸 수십을 명해 옥교자를 가지고 장사운 집으로 보냈다.</span><a class="ev-tag ans" href="#q43-2">(43-② 순서)</a></p>
   <p class="passage-note">[A] (강환이 꾸민 가짜 편지)</p>
-  <blockquote>‘옥란아, 옥계야, 너희 잘 있느냐? 아비는 천행으로 한림학사가 되었다. <span class="ev" id="ev44a">너의 현숙함이 경성에 자자하여 명문거족이 다투어 구혼하니, 그 중 높은 가세와 출중한 사람을 구하여 정혼하였으니 사촌 영진과 함께 올라오라.’</span><a class="ev-tag" href="#q44-3">44-[A]</a></blockquote>
+  <blockquote>‘옥란아, 옥계야, 너희 잘 있느냐? 아비는 천행으로 한림학사가 되었다. <span class="ev ans" id="ev44a">너의 현숙함이 경성에 자자하여 명문거족이 다투어 구혼하니, 그 중 높은 가세와 출중한 사람을 구하여 정혼하였으니 사촌 영진과 함께 올라오라.’</span><a class="ev-tag ans" href="#q44-3">44-[A]</a></blockquote>
   <p>옥란 형제가 편지를 보고 길을 떠나, 하간부에서 잠드니 비몽사몽간에 학사가 목에 칼을 쓰고 들어와 옥란의 손을 잡고 통곡하며,</p>
   <p class="passage-note">[B] (꿈속 장 학사의 말)</p>
   <blockquote>“나는 북지옥에 갇혀 죽을 날이 머지않다. <span class="ev ans" id="ev44b">소인의 흉계로 너를 데려오니, 올라오면 헤아릴 수 없는 욕을 볼 것이니 어떻게 하더라도 도피하여 강포지옥을 면하라.</span><a class="ev-tag ans" href="#q44-3">44-[B]</a> 하남 땅 송 시랑의 집에 가서 의탁하라.”</blockquote>
-  <p>옥란이 놀라 깨어 옥계·영진과 의논하니, <span class="ev" id="ev43-4">옥계가 “각각 헤어져 가다가 경성에서 만나면 대인의 신원을 알 것이고, 함께 도주하다 하인에게 잡히면 다 죽음을 면치 못하리라.” 하였다.</span><a class="ev-tag" href="#q43-4">43-④</a> <span class="ev" id="ev45-4">세 사람이 옷을 바꿔 입고 밤에 성의 담을 넘는데,</span><a class="ev-tag" href="#q45-4">45-④</a> 옥란·옥계가 넘고 영진이 나중에 넘다 수문졸에게 붙들렸다.</p>
-  <p>황문 위졸이 와서 <span class="ev" id="ev43-5">“우리가 장 학사의 명을 받아 왔는데 이렇게 가면 우린 죽는다. 옥계 낭자는 어디 있는가?”</span><a class="ev-tag" href="#q43-5">43-⑤</a> 하니, <span class="ev ans" id="ev45-5">영진이 옥란의 종적이 탄로 날까 하여 ‘옥란인 척’ 말소리를 유순하게 하여 둘러댔다.</span><a class="ev-tag ans" href="#q45-5">45-⑤</a> 영진의 모양이 옥란과 똑같은지라.</p>
+  <p>옥란이 놀라 깨어 옥계·영진과 의논하니, <span class="ev" id="ev43-4">옥계가 “각각 헤어져 가다가 경성에서 만나면 대인의 신원을 알 것이고, 함께 도주하다 하인에게 잡히면 다 죽음을 면치 못하리라.” 하였다.</span><a class="ev-tag" href="#q43-4">43-④</a> <span class="ev ans" id="ev45-4">세 사람이 옷을 바꿔 입고 밤에 성의 담을 넘는데,</span><a class="ev-tag ans" href="#q45-4">45-④</a> 옥란·옥계가 넘고 영진이 나중에 넘다 수문졸에게 붙들렸다.</p>
+  <p>황문 위졸이 와서 <span class="ev" id="ev43-5">“우리가 장 학사의 명을 받아 왔는데 이렇게 가면 우린 죽는다. 옥계 낭자는 어디 있는가?”</span><a class="ev-tag" href="#q43-5">43-⑤</a> 하니, <span class="ev" id="ev45-5">영진이 옥란의 종적이 탄로 날까 하여 ‘옥란인 척’ 말소리를 유순하게 하여 둘러댔다.</span><a class="ev-tag" href="#q45-5">45-⑤</a> 영진의 모양이 옥란과 똑같은지라.</p>
 </div>
 
 <div class="q-block" id="prob43">

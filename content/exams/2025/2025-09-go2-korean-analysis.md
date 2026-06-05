@@ -178,7 +178,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>학생3: 맞아. 그리고 중간에 기사문 흐름과 상관없는 내용도 있어.</p>
   <p>학생1: 그럼 생태원 안 활동을 구체적으로 쓰고, 흐름에서 벗어난 내용을 삭제할게.</p>
   <p>학생2: 그런데 ‘초록누리’ 캠페인 활동 홍보 내용이 부족해. <span class="ev ans" id="ev-q7-5">활동의 취지와 구체적 내용도 함께 소개하면 좋겠어.</span><a class="ev-tag ans" href="#q7-5">7-㉲</a></p>
-  <div class="seg" id="segB"><p class="seg-label">[B]</p><p>학생3: <span class="ev" id="ev7">맞아. 그렇게 수정하면 관심 있는 학생들이 더 많이 참여할 수 있을 것 같아.</span><a class="ev-tag" href="#q6-4b">6-④</a><a class="ev-tag" href="#q6-4">6-④</a></p></div>
+  <div class="seg" id="segB"><p class="seg-label">[B]</p><p>학생3: <span class="ev ans" id="ev7">맞아. 그렇게 수정하면 관심 있는 학생들이 더 많이 참여할 수 있을 것 같아.</span><a class="ev-tag ans" href="#q6-4b">6-④</a><a class="ev-tag ans" href="#q6-4">6-④</a></p></div>
   <p>학생1: 고마워. 그 내용도 추가할게.</p>
   <p>학생2: 참, 마지막에 ○○늪 습지가 람사르 협약 사무국 지정 생태 습지로 보전 가치가 높다는 내용을 넣기로 했잖아?</p>
   <p>학생3: ㉤<u>그런데 지면이 한정돼 분량도 고려해야 해. 그 내용까지 추가하는 건 어렵지 않을까?</u></p>
@@ -253,7 +253,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q6-1">① [A]에서 학생2는 견해 차이를 확인한 후 상대의 발화 내용을 수용한다.</li>
     <li id="q6-2">② [A]에서 학생2는 학생3이 제안한 방안에 객관적 자료를 추가로 요청한다.</li>
     <li id="q6-3">③ [B]에서 학생3은 상대 의견의 한계를 지적한 후 절충안을 제시한다.</li>
-    <li id="q6-4">④ [A]의 학생2와 [B]의 학생3은 모두, 상대 제안을 받아들일 때의 기대 효과를 제시한다.<a class="src-tag" href="#ev6">[A] 근거</a><a class="src-tag" href="#ev7" id="q6-4b">[B] 근거</a><a class="src-tag ans" href="#ev6">정답 근거</a></li>
+    <li id="q6-4">④ [A]의 학생2와 [B]의 학생3은 모두, 상대 제안을 받아들일 때의 기대 효과를 제시한다.<a class="src-tag ans" href="#ev6">정답 근거[A] 근거</a><a class="src-tag ans" href="#ev7" id="q6-4b">정답 근거[B] 근거</a><a class="src-tag ans" href="#ev6">정답 근거</a></li>
     <li id="q6-5">⑤ [A]의 학생3과 [B]의 학생2는 모두, 질문 방식으로 정보의 정확성에 의문을 제기한다.</li>
   </ul>
   <details class="solution">
@@ -673,12 +673,12 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="src-label">(가) 푸코</p>
   <p>푸코는 권력의 본질이 ‘소유할 수 있는 특권’이 아니라 ‘지배를 위한 기술’이라 보았다. 그는 주권 권력·규율 권력·생명 권력으로 권력 양상의 변화를 설명했다.</p>
   <p>고대부터의 <span class="ev" id="ev-q17-2">주권 권력은 군주의 법에 기반해 명령을 따르지 않는 자의 생사를 결정했고,</span><a class="ev-tag" href="#q17-2">17-②</a> 공개적 신체 형벌로 군중의 공포·복종을 끌어냈다. <span class="ev" id="ev13">그러나 강압적 성격이 오히려 반발을 일으켜, 형벌은 비공개가 되고 주권 권력은 점차 규율 권력으로 대체되었다.</span><a class="ev-tag" href="#q17-1">17-①</a> 16세기 이후 규율 권력은 외부 통제를 내면화하게 해, 감시가 없어도 스스로를 통제하는 유순·생산적 개인을 만들었다(감옥·학교·군대).</p>
-  <p>17세기 이후 근대 국가·산업 혁명으로 인구가 국가 역량의 핵심이 되자, <span class="ev ans" id="ev14">국가가 출생률·사망률·수명·건강·질병을 직접 관리하게 되었는데, 푸코는 이를 ㉠<u>생명 권력</u>이라 불렀다.</span><a class="ev-tag" href="#q19-1">19-㉠</a><a class="ev-tag ans" href="#q14-1">14-①</a><a class="ev-tag" href="#q19-2">19-②</a><a class="ev-tag" href="#q19-3">19-③</a><a class="ev-tag" href="#q19-4">19-④</a><a class="ev-tag" href="#q19-5">19-⑤</a><a class="ev-tag" href="#q20-1">20-①</a><a class="ev-tag" href="#q20-2">20-②</a> 생물학·의학의 발전이 인구 조절을 가능케 했고, 규율·생명 권력은 순종적·생산적 노동력 확보로 자본주의 발전에 기여했다.</p>
+  <p>17세기 이후 근대 국가·산업 혁명으로 인구가 국가 역량의 핵심이 되자, <span class="ev ans" id="ev14">국가가 출생률·사망률·수명·건강·질병을 직접 관리하게 되었는데, 푸코는 이를 ㉠<u>생명 권력</u>이라 불렀다.</span><a class="ev-tag ans" href="#q19-1">19-㉠</a><a class="ev-tag ans" href="#q14-1">14-①</a><a class="ev-tag" href="#q19-2">19-②</a><a class="ev-tag" href="#q19-3">19-③</a><a class="ev-tag" href="#q19-4">19-④</a><a class="ev-tag" href="#q19-5">19-⑤</a><a class="ev-tag" href="#q20-1">20-①</a><a class="ev-tag" href="#q20-2">20-②</a> 생물학·의학의 발전이 인구 조절을 가능케 했고, 규율·생명 권력은 순종적·생산적 노동력 확보로 자본주의 발전에 기여했다.</p>
   <p>또 푸코는 사람들이 생각하는 주체성이 권력의 작동으로 구성된 결과물이라 보았다. <span class="ev ans" id="ev15">권력이 최대 통제에서 ‘욕망·방임 허용’ 방향으로 나아가자 개인은 스스로를 자율적 존재로 여기게 됐는데, 푸코는 ㉮<u>이런 주체성 생각이 허구</u>라 보았다.</span><a class="ev-tag ans" href="#q18-2">18-㉮</a><a class="ev-tag ans" href="#q15-4">15-④</a><a class="ev-tag" href="#q18-1">18-①</a><a class="ev-tag" href="#q18-3">18-③</a><a class="ev-tag" href="#q18-4">18-④</a><a class="ev-tag" href="#q18-5">18-⑤</a> 진정한 주체성은 권력에 ‘저항’(새롭게 사유하고 모순을 찾아 예속되지 않음)함으로써 얻는다.</p>
   <p class="src-label">(나) 신유물론</p>
   <p>신유물론은 근대 서구 철학이 인간 인식을 우선시해 포착 못 한 물질을 ‘없는 것’으로 여기는 <span class="ev ans" id="ev-q21-a">오류에 ⓐ<u>빠졌다</u></span><a class="ev-tag ans" href="#q21-1">21-①</a>고 비판하며, 배제된 물질의 가치를 재고하자고 출발했다. 이들은 인간 중심 이분법이 생태 위기를 낳았다고 보고, 푸코의 생명 권력을 인간 이외의 생명으로 확장하려 했다.</p>
   <p>라투르는 동식물·미생물 등을 ‘비인간’이라 부르며 이들도 과학 기술 발전에 역동적 역할을 했다고 강조했다. <span class="ev ans" id="ev16">그는 비인간도 행위성을 지닌 행위자인데 인간이 이들을 수동적 객체로 보고 역할을 인정하지 않아 인류세(인간 활동이 기후 변화·생물종 다양성 상실을 초래한 시기)를 불렀다고 보았다.</span><a class="ev-tag ans" href="#q17-3">17-③</a><a class="ev-tag ans" href="#q20-4">20-④</a><a class="ev-tag" href="#q17-4">17-④</a><a class="ev-tag" href="#q16-1">16-①</a><a class="ev-tag" href="#q16-3">16-③</a><a class="ev-tag" href="#q16-4">16-④</a><a class="ev-tag ans" href="#q16-5">16-⑤</a><a class="ev-tag" href="#q19-3">19-③</a><a class="ev-tag" href="#q20-3">20-③</a> 인류세 극복을 위해선 세계가 인간·비인간이 만든 ‘수평적 연결망’이며 인간은 수많은 행위자 중 하나임을 인정해야 한다.</p>
-  <p>해러웨이는 인간·비인간 모두를 ‘반려종’이라 부르며 공생 관계를 강조했다. <span class="ev" id="ev-q17-5">인간이 다른 존재를 통제하려는 태도에서 벗어나 인간 이외의 존재를 반려종으로 존중하면, 책임 있는 관계 맺기로 인류세 극복 가능성을 모색할 수 있다.</span><a class="ev-tag" href="#q17-5">17-⑤</a><a class="ev-tag" href="#q20-5">20-⑤</a> <span class="ev" id="ev17">이는 통제·조절 논의를 인간 이외의 생명으로 확장해 비인간과의 공존을 모색한 ㉡<u>인간 너머의 생명 권력</u>으로 평가된다.</span><a class="ev-tag" href="#q19-2">19-㉡</a><a class="ev-tag" href="#q16-2">16-②</a><a class="ev-tag" href="#q19-1">19-①</a><a class="ev-tag" href="#q19-4">19-④</a><a class="ev-tag" href="#q19-5">19-⑤</a></p>
+  <p>해러웨이는 인간·비인간 모두를 ‘반려종’이라 부르며 공생 관계를 강조했다. <span class="ev" id="ev-q17-5">인간이 다른 존재를 통제하려는 태도에서 벗어나 인간 이외의 존재를 반려종으로 존중하면, 책임 있는 관계 맺기로 인류세 극복 가능성을 모색할 수 있다.</span><a class="ev-tag" href="#q17-5">17-⑤</a><a class="ev-tag" href="#q20-5">20-⑤</a> <span class="ev ans" id="ev17">이는 통제·조절 논의를 인간 이외의 생명으로 확장해 비인간과의 공존을 모색한 ㉡<u>인간 너머의 생명 권력</u>으로 평가된다.</span><a class="ev-tag" href="#q19-2">19-㉡</a><a class="ev-tag" href="#q16-2">16-②</a><a class="ev-tag ans" href="#q19-1">19-①</a><a class="ev-tag" href="#q19-4">19-④</a><a class="ev-tag" href="#q19-5">19-⑤</a></p>
 </div>
 
 <div class="q-block" id="prob16">
@@ -777,11 +777,11 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob19">
   <p class="q-stem">19. ㉠(생명 권력)과 ㉡(인간 너머의 생명 권력)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q19-1">① ㉠은 인간의 생명 문제가 국가의 중요 요소로 부각되며 등장했고, ㉡은 비인간과의 공존을 모색하려 등장했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
-    <li id="q19-2">② ㉠은 인간·비인간 통제를 반성하게 했고, ㉡은 인간 이외 생명의 통제에 저항하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
-    <li id="q19-3">③ ㉠은 인간종 특성·질병에 대비하게 했고, ㉡은 동물 실험 기반 생물학으로 인류세를 극복하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev16">㉡ 근거</a></li>
-    <li id="q19-4">④ ㉠은 정치·경제 변화를 유도해 산업 혁명을 초래했고, ㉡은 비인간과의 공생을 도모하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
-    <li id="q19-5">⑤ ㉠은 순종적 노동력을 확보하게 했고, ㉡은 인간 생명을 통제해 반려종과 관계 맺기를 가능하게 했다.<a class="src-tag" href="#ev14">㉠ 근거</a><a class="src-tag" href="#ev17">㉡ 근거</a></li>
+    <li id="q19-1">① ㉠은 인간의 생명 문제가 국가의 중요 요소로 부각되며 등장했고, ㉡은 비인간과의 공존을 모색하려 등장했다.<a class="src-tag ans" href="#ev14">정답 근거㉠ 근거</a><a class="src-tag ans" href="#ev17">정답 근거㉡ 근거</a></li>
+    <li id="q19-2">② ㉠은 인간·비인간 통제를 반성하게 했고, ㉡은 인간 이외 생명의 통제에 저항하게 했다.<a class="src-tag" href="#ev14">오답 근거㉠ 근거</a><a class="src-tag" href="#ev17">오답 근거㉡ 근거</a></li>
+    <li id="q19-3">③ ㉠은 인간종 특성·질병에 대비하게 했고, ㉡은 동물 실험 기반 생물학으로 인류세를 극복하게 했다.<a class="src-tag" href="#ev14">오답 근거㉠ 근거</a><a class="src-tag" href="#ev16">오답 근거㉡ 근거</a></li>
+    <li id="q19-4">④ ㉠은 정치·경제 변화를 유도해 산업 혁명을 초래했고, ㉡은 비인간과의 공생을 도모하게 했다.<a class="src-tag" href="#ev14">오답 근거㉠ 근거</a><a class="src-tag" href="#ev17">오답 근거㉡ 근거</a></li>
+    <li id="q19-5">⑤ ㉠은 순종적 노동력을 확보하게 했고, ㉡은 인간 생명을 통제해 반려종과 관계 맺기를 가능하게 했다.<a class="src-tag" href="#ev14">오답 근거㉠ 근거</a><a class="src-tag" href="#ev17">오답 근거㉡ 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1539,12 +1539,12 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   (…) ㉤<u>생각하니 우습도다 구경(求景)이 고경(苦景)일세</u><br>
   (…) 미륵봉 장한 거동 놀라움이 끝이 없다<br>
   하늘 땅 생길 때에 어느 풀무 뉘 솜씨로<br>
-  돌 하나를 조작하되 <span class="ev" id="ev-q41-a">ⓐ<u>저다지도 영특한가</u></span><a class="ev-tag" href="#q41-3">41-ⓐ</a><a class="ev-tag" href="#q41-1">41-①</a><a class="ev-tag" href="#q41-2">41-②</a><a class="ev-tag" href="#q41-4">41-④</a><a class="ev-tag" href="#q41-5">41-⑤</a></p>
+  돌 하나를 조작하되 <span class="ev ans" id="ev-q41-a">ⓐ<u>저다지도 영특한가</u></span><a class="ev-tag ans" href="#q41-3">41-ⓐ</a><a class="ev-tag" href="#q41-1">41-①</a><a class="ev-tag" href="#q41-2">41-②</a><a class="ev-tag" href="#q41-4">41-④</a><a class="ev-tag" href="#q41-5">41-⑤</a></p>
   <p class="muted" style="text-align:right">— 이상수, 「금강별곡」</p>
 
   <p class="src-label">(나) 채제공, 「회룡사관폭기」</p>
   <p>을사년 여름, 양주 홍 씨의 장원에 임시로 살 때 회룡사 앞 폭포가 장관이라는 말을 듣고 찾아갔다. 폭포의 물방울이 쏘아 대는 기세 때문에 가까이 갈 수 없어 곁눈질로 멀리 바라보며 올라갔다. <span class="ev ans" id="ev35">거세지 않은 원류를 건넌 뒤, 암석 위에 앉아 아래를 굽어보았다.</span><a class="ev-tag ans" href="#q39-5">39-⑤</a><a class="ev-tag ans" href="#q42-5">42-⑤</a> 물이 바위를 맞닥뜨려 솟구치고 부서지니, 많기로는 천 섬의 구슬, 시끄럽기로는 만 개의 우레 같았다. 일행 모두 탄성을 질렀고 나도 놀랐다.</p>
-  <p>한참 뒤 가만히 생각했다. 물의 성질은 아래로 흐를 뿐이다. 자연의 이치에 따라 흐르는 것이 물의 법칙인데, 지금은 바위에 막혀 미친 듯 날뛴다. 사람들은 물이 본성을 잃은 것이 탄식할 일임을 모른 채 박수를 치며 탄성을 지르니, <span class="ev" id="ev-q41-b">ⓑ<u>어찌 그리도 미혹한가</u></span><a class="ev-tag" href="#q41-3">41-ⓑ</a><a class="ev-tag" href="#q41-1">41-①</a><a class="ev-tag" href="#q41-2">41-②</a><a class="ev-tag" href="#q41-4">41-④</a><a class="ev-tag" href="#q41-5">41-⑤</a>. 나는 오늘날 사람이 하늘이 부여한 본성을 보존하지 못하는 경우가 많음을 본다. 폭포여, 내가 너에게 무엇을 허물하랴.</p>
+  <p>한참 뒤 가만히 생각했다. 물의 성질은 아래로 흐를 뿐이다. 자연의 이치에 따라 흐르는 것이 물의 법칙인데, 지금은 바위에 막혀 미친 듯 날뛴다. 사람들은 물이 본성을 잃은 것이 탄식할 일임을 모른 채 박수를 치며 탄성을 지르니, <span class="ev ans" id="ev-q41-b">ⓑ<u>어찌 그리도 미혹한가</u></span><a class="ev-tag ans" href="#q41-3">41-ⓑ</a><a class="ev-tag" href="#q41-1">41-①</a><a class="ev-tag" href="#q41-2">41-②</a><a class="ev-tag" href="#q41-4">41-④</a><a class="ev-tag" href="#q41-5">41-⑤</a>. 나는 오늘날 사람이 하늘이 부여한 본성을 보존하지 못하는 경우가 많음을 본다. 폭포여, 내가 너에게 무엇을 허물하랴.</p>
   <p class="muted" style="text-align:right">— 채제공, 「회룡사관폭기」</p>
 </div>
 
@@ -1620,7 +1620,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q40-1">① [A]·[B] 모두 ‘백탑’을 찾아가는 과정을 시간 흐름에 따라 보여 준다.</li>
     <li id="q40-2">② [A]·[B] 모두 계절적 배경 소재(눈·얼음)로 관찰한 자연을 제시한다.</li>
     <li id="q40-3">③ [B]는 [A]와 달리 청각 어휘(‘콸콸’)로 물소리를 생동감 있게 표현한다.</li>
-    <li id="q40-4">④ [A]는 일행에게 특정 행위를 지시한 이유를, [B]는 일행이 동참을 원하지 않는 이유를 밝힌다.<a class="src-tag" href="#segA">[A] 보기</a><a class="src-tag ans" href="#ev-q40-4">정답 근거</a></li>
+    <li id="q40-4">④ [A]는 일행에게 특정 행위를 지시한 이유를, [B]는 일행이 동참을 원하지 않는 이유를 밝힌다.<a class="src-tag ans" href="#segA">정답 근거[A] 보기</a><a class="src-tag ans" href="#ev-q40-4">정답 근거</a></li>
     <li id="q40-5">⑤ [A]는 비유 나열로 ‘백탑’을 보고 싶은 간절함을, [B]는 섬세한 작업에 비유해 길의 위험함을 드러낸다.</li>
   </ul>
   <details class="solution">
@@ -1648,11 +1648,11 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob41">
   <p class="q-stem">41. ⓐ(저다지도 영특한가)와 ⓑ(어찌 그리도 미혹한가)에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q41-1">① ⓐ는 탈속적 세계 지향, ⓑ는 세속적 세계 회피의 태도가 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
-    <li id="q41-2">② ⓐ는 본질을 파악한 자부심, ⓑ는 본질 모르는 이들에 대한 우월감이 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
-    <li id="q41-3">③ ⓐ는 현재 바라보는 대상에서 느끼는 경이감, ⓑ는 대상의 현재 모습에만 주목하는 이들에 대한 안타까움이 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
-    <li id="q41-4">④ ⓐ는 자연물과 조화 이룬 대상에 대한 찬탄, ⓑ는 어울리지 않는 대상에 대한 아쉬움이 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
-    <li id="q41-5">⑤ ⓐ는 변함없는 대상에 대한 놀라움, ⓑ는 상황에 따라 달리 보는 사람들에 대한 부정적 태도가 담겨 있다.<a class="src-tag" href="#ev-q41-a">ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">ⓑ 근거</a></li>
+    <li id="q41-1">① ⓐ는 탈속적 세계 지향, ⓑ는 세속적 세계 회피의 태도가 담겨 있다.<a class="src-tag" href="#ev-q41-a">오답 근거ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">오답 근거ⓑ 근거</a></li>
+    <li id="q41-2">② ⓐ는 본질을 파악한 자부심, ⓑ는 본질 모르는 이들에 대한 우월감이 담겨 있다.<a class="src-tag" href="#ev-q41-a">오답 근거ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">오답 근거ⓑ 근거</a></li>
+    <li id="q41-3">③ ⓐ는 현재 바라보는 대상에서 느끼는 경이감, ⓑ는 대상의 현재 모습에만 주목하는 이들에 대한 안타까움이 담겨 있다.<a class="src-tag ans" href="#ev-q41-a">정답 근거ⓐ 근거</a><a class="src-tag ans" href="#ev-q41-b">정답 근거ⓑ 근거</a></li>
+    <li id="q41-4">④ ⓐ는 자연물과 조화 이룬 대상에 대한 찬탄, ⓑ는 어울리지 않는 대상에 대한 아쉬움이 담겨 있다.<a class="src-tag" href="#ev-q41-a">오답 근거ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">오답 근거ⓑ 근거</a></li>
+    <li id="q41-5">⑤ ⓐ는 변함없는 대상에 대한 놀라움, ⓑ는 상황에 따라 달리 보는 사람들에 대한 부정적 태도가 담겨 있다.<a class="src-tag" href="#ev-q41-a">오답 근거ⓐ 근거</a><a class="src-tag" href="#ev-q41-b">오답 근거ⓑ 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1726,7 +1726,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.</p>
   <p class="src-label">(가) 조지훈, 「향문」</p>
   <p class="verse">성터 거닐다 줏어온 깨진 질그릇 하나<br>
-  닦고 고이 닦아 열오른 ㉠<span class="ev ans" id="ev-q44-a"><u>두볼에 대어 보다.</u></span><a class="ev-tag" href="#q44-3">44-㉠</a><a class="ev-tag ans" href="#q43-1">43-①</a><a class="ev-tag" href="#q43-3">43-③</a><a class="ev-tag" href="#q43-4">43-④</a><a class="ev-tag" href="#q45-1">45-①</a><a class="ev-tag" href="#q45-2">45-②</a><br>
+  닦고 고이 닦아 열오른 ㉠<span class="ev ans" id="ev-q44-a"><u>두볼에 대어 보다.</u></span><a class="ev-tag ans" href="#q44-3">44-㉠</a><a class="ev-tag ans" href="#q43-1">43-①</a><a class="ev-tag" href="#q43-3">43-③</a><a class="ev-tag" href="#q43-4">43-④</a><a class="ev-tag" href="#q45-1">45-①</a><a class="ev-tag" href="#q45-2">45-②</a><br>
   아무렇지도 않은 곳에 무르녹는 옛향기라<br><br>
   질항아리에 곱게 그린 구름무늬가<br>
   금시라도 하늘로 피어날듯 아른하다.<br>
@@ -1740,7 +1740,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 
   <p class="src-label">(나) 박성우, 「두꺼비」</p>
   <p class="verse">아버지는 두 마리의 두꺼비를 키우셨다<br><br>
-  해가 말끔하게 떨어진 후에야 퇴근하셨던 아버지는 두꺼비부터 씻겨주고 늦은 식사를 했다 (…) 한번은 아버지가 녀석을 껴안고 주무시는 모습을 보았는데 기회는 이때다 싶어 ㉡<span class="ev" id="ev-q44-b"><u>살짝 만져 보았다</u></span><a class="ev-tag" href="#q44-3">44-㉡</a> <span class="ev ans" id="ev40">그런데 녀석이 독을 뿜어대는 통에 내 양 눈이 한동안 충혈되어야 했다</span><a class="ev-tag ans" href="#q45-4">45-④</a><a class="ev-tag" href="#q43-2">43-②</a><a class="ev-tag" href="#q43-5">43-⑤</a><a class="ev-tag" href="#q45-3">45-③</a><a class="ev-tag" href="#q45-5">45-⑤</a> 아버지, 저는 두꺼비가 싫어요<br><br>
+  해가 말끔하게 떨어진 후에야 퇴근하셨던 아버지는 두꺼비부터 씻겨주고 늦은 식사를 했다 (…) 한번은 아버지가 녀석을 껴안고 주무시는 모습을 보았는데 기회는 이때다 싶어 ㉡<span class="ev ans" id="ev-q44-b"><u>살짝 만져 보았다</u></span><a class="ev-tag ans" href="#q44-3">44-㉡</a> <span class="ev ans" id="ev40">그런데 녀석이 독을 뿜어대는 통에 내 양 눈이 한동안 충혈되어야 했다</span><a class="ev-tag ans" href="#q45-4">45-④</a><a class="ev-tag" href="#q43-2">43-②</a><a class="ev-tag" href="#q43-5">43-⑤</a><a class="ev-tag" href="#q45-3">45-③</a><a class="ev-tag" href="#q45-5">45-⑤</a> 아버지, 저는 두꺼비가 싫어요<br><br>
   (…) 칠순을 바라보던 아버지는 날이 새기 전에 막일판으로 나가셨는데 그때마다 잠들어 있던 녀석을 깨워 자전거 손잡이에 올려놓고 페달을 밟았다<br><br>
   두껍아 두껍아 헌집 줄게 새집 다오<br><br>
   아버지는 지난 겨울, 두꺼비집을 지으셨다 두꺼비와 아버지는 그 집에서 긴 겨울잠에 들어갔다 봄이 지났으나 잔디만 깨어났다<br><br>
@@ -1784,7 +1784,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q44-1">① ㉠·㉡ 모두 대상에 대한 연민을 드러내는 행위이다.</li>
     <li id="q44-2">② ㉠·㉡ 모두 내면 성찰 중 느끼는 부끄러움이 드러나는 행위이다.</li>
-    <li id="q44-3">③ ㉠은 주워 온 대상을 소중히 여기는, ㉡은 지켜보던 대상을 더 알고 싶어 하는 행위이다.<a class="src-tag" href="#ev-q44-a">㉠ 근거</a><a class="src-tag" href="#ev-q44-b">㉡ 근거</a></li>
+    <li id="q44-3">③ ㉠은 주워 온 대상을 소중히 여기는, ㉡은 지켜보던 대상을 더 알고 싶어 하는 행위이다.<a class="src-tag ans" href="#ev-q44-a">정답 근거㉠ 근거</a><a class="src-tag ans" href="#ev-q44-b">정답 근거㉡ 근거</a></li>
     <li id="q44-4">④ ㉠은 과거를 되돌아보는 계기, ㉡은 맞닥뜨릴 현실을 떠올리는 계기가 되는 행위이다.</li>
     <li id="q44-5">⑤ ㉠은 관조적 태도, ㉡은 관찰 대상에 대한 냉소적 태도를 드러내는 행위이다.</li>
   </ul>

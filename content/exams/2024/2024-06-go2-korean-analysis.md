@@ -171,7 +171,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>1문단: <span class="ev" id="ev6-1">판사도 인공지능으로 대체하자는 요구 — 국민 법 감정과 동떨어진 재판에 대한 불신이 반영된 것이다.</span><a class="ev-tag" href="#q6-1">6-①</a></p>
   <p>2문단: <span class="ev" id="ev6-3">자료 조사 시간·비용을 줄여 ‘신속한 재판을 받을 권리’가 보장된다(에스토니아 사례).</span><a class="ev-tag" href="#q6-3">6-②·③</a></p>
   <p>3문단: <span class="ev ans" id="ev6-4">기존 판례 학습이라 시대 변화를 못 따라가고, 재량·도덕적 가치 판단 업무엔 한계를 지닌다.</span><a class="ev-tag ans" href="#q6-4">6-④</a></p>
-  <p>4문단: <span class="ev" id="ev6-5">시대적 흐름일 수 있으나, 우려를 고려해 우선은 판사 업무의 ‘보조적 수단’으로 받아들이는 것이 바람직하다.</span><a class="ev-tag" href="#q6-5">6-⑤</a></p>
+  <p>4문단: <span class="ev ans" id="ev6-5">시대적 흐름일 수 있으나, 우려를 고려해 우선은 판사 업무의 ‘보조적 수단’으로 받아들이는 것이 바람직하다.</span><a class="ev-tag" href="#q6-5">6-⑤</a></p>
 </div>
 
 <div class="q-block" id="prob4">
@@ -323,7 +323,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-note">[작문 상황] 학교 신문 기고란에 손쉽게 기부할 방법을 소개하고 참여를 유도함.</p>
   <p>우리 사회엔 도움이 필요한 사람이 많다. 기부의 필요성에 공감하는 사람은 많지만 실제 기부로 이어지는 경우는 적다. <span class="ev" id="ev9-1">기부 참여가 적은 이유로 방법의 어려움, 금액에 대한 부담감 등이 있다.</span><a class="ev-tag" href="#q9-1">9-①</a></p>
   <p>디지털 발전으로 손쉬운 기부 방법이 등장했는데, <span class="ev ans" id="ev8">누리소통망(SNS)을 활용한 기부를 ‘소셜 기부’라 한다. 콘텐츠 공감형(‘좋아요’), 릴레이형(다음 기부자 지목), 온라인 소액·포인트 기부가 있다.</span><a class="ev-tag ans" href="#q8-1">8-①</a></p>
-  <p>물론 <span class="ev" id="ev9-2">소셜 기부가 선한 의도와 달리 악용될 가능성도 있다.</span><a class="ev-tag" href="#q9-2">9-②</a> 하지만 휴대전화로 언제 어디서나 기부할 수 있고, 방법이 어렵다고 여기던 사람도 쉽게 참여할 수 있다. 또 <span class="ev" id="ev9-4">함께 즐기고, 소액 또는 포인트로 기부할 수 있어 부담이 적다.</span><a class="ev-tag" href="#q9-4">9-④·⑤</a></p>
+  <p>물론 <span class="ev" id="ev9-2">소셜 기부가 선한 의도와 달리 악용될 가능성도 있다.</span><a class="ev-tag" href="#q9-2">9-②</a> 하지만 휴대전화로 언제 어디서나 기부할 수 있고, 방법이 어렵다고 여기던 사람도 쉽게 참여할 수 있다. 또 <span class="ev ans" id="ev9-4">함께 즐기고, 소액 또는 포인트로 기부할 수 있어 부담이 적다.</span><a class="ev-tag ans" href="#q9-4">9-④·⑤</a></p>
   <p><span class="ev ans" id="ev10">나 한 사람의 기부 참여는 또 다른 사람의 기부로 이어져 우리 사회에 긍정적 영향을 미칠 수 있다.</span><a class="ev-tag ans" href="#q10-1">10</a><a class="ev-tag" href="#q9-3">9-③</a> <b>[A]</b></p>
 </div>
 
@@ -449,7 +449,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p>어근은 단어에서 실질적 의미를 나타내는 중심 부분, <span class="ev ans" id="ev11-2">접사는 의미를 더하거나 제한하는 주변 부분(파생 접사)이다. ‘헛수고·일꾼’의 ‘수고·일’은 어근, ‘헛-·-꾼’은 접사다.</span><a class="ev-tag ans" href="#q11-2">11-②</a> 구성 요소가 2개면 단어는 ‘어근+어근/어근+접사/접사+어근’ 중 하나다.</p>
   <p>어근은 <span class="ev" id="ev11-4">규칙 어근(품사가 분명하고 다른 말과 자유롭게 결합)</span><a class="ev-tag" href="#q11-4">11-④</a>과 <span class="ev" id="ev11-5">불규칙 어근(품사가 불분명하고 결합에 제약: ‘아름답다’의 ‘아름-’, ‘깨끗하다’의 ‘깨끗-’)</span><a class="ev-tag" href="#q11-5">11-⑤</a>으로 나뉜다.</p>
-  <p>접사는 위치에 따라 <span class="ev" id="ev11-3">접두사(앞: ‘풋사과’의 ‘풋-’)와 접미사(뒤: ‘덮개’의 ‘-개’)</span><a class="ev-tag" href="#q11-3">11-③</a>로 나뉜다. <span class="ev" id="ev11-1">접두사는 품사에 영향을 주지 않고(‘헛-’+명사=명사, +동사=동사), 접미사는 품사를 바꾸기도 한다(‘-이’가 동사 ‘먹다·벌다’에 붙어 명사).</span><a class="ev-tag" href="#q11-1">11-①</a></p>
+  <p>접사는 위치에 따라 <span class="ev ans" id="ev11-3">접두사(앞: ‘풋사과’의 ‘풋-’)와 접미사(뒤: ‘덮개’의 ‘-개’)</span><a class="ev-tag" href="#q11-3">11-③</a>로 나뉜다. <span class="ev" id="ev11-1">접두사는 품사에 영향을 주지 않고(‘헛-’+명사=명사, +동사=동사), 접미사는 품사를 바꾸기도 한다(‘-이’가 동사 ‘먹다·벌다’에 붙어 명사).</span><a class="ev-tag" href="#q11-1">11-①</a></p>
 </div>
 
 <div class="q-block" id="prob11">
@@ -841,7 +841,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p><span class="ev" id="ev21-5">세금은 국가 등이 행정 서비스 경비를 위해 ‘어떤 대가도 지급하지 않고’ 납세 의무자로부터 강제 징수하는 금전·재물</span><a class="ev-tag" href="#q21-5">21-⑤</a>이다. 조세 채권 이행은 납세 의무의 성립·확정·소멸로 이해한다.</p>
-  <p>납세 의무는 과세 요건(<span class="ev" id="ev21-2">납세 의무자·과세 물건·과세 표준(과세 물건의 수량·금액)·세율(과세 표준에 대한 법정 비율)</span><a class="ev-tag" href="#q21-2">21-②</a>)을 만족하면 자동 성립한다. 소득세는 과세 기간이 끝나는 때, 상속세는 상속이 개시되는 때 성립한다. <span class="ev" id="ev24-5">세법이 개정·시행되며 경과 규정이 없으면 ‘성립 당시’의 법령이 적용된다.</span><a class="ev-tag" href="#q24-5">24-⑤</a> ㉮<span class="ev ans" id="ev22">성립 단계에선 납세 의무가 아직 추상적이라 과세 관청이 과세권을 행사할 수 없다.</span><a class="ev-tag ans" href="#q22-4">22-㉮</a></p>
+  <p>납세 의무는 과세 요건(<span class="ev" id="ev21-2">납세 의무자·과세 물건·과세 표준(과세 물건의 수량·금액)·세율(과세 표준에 대한 법정 비율)</span><a class="ev-tag" href="#q21-2">21-②</a>)을 만족하면 자동 성립한다. 소득세는 과세 기간이 끝나는 때, 상속세는 상속이 개시되는 때 성립한다. <span class="ev ans" id="ev24-5">세법이 개정·시행되며 경과 규정이 없으면 ‘성립 당시’의 법령이 적용된다.</span><a class="ev-tag ans" href="#q24-5">24-⑤</a> ㉮<span class="ev ans" id="ev22">성립 단계에선 납세 의무가 아직 추상적이라 과세 관청이 과세권을 행사할 수 없다.</span><a class="ev-tag ans" href="#q22-4">22-㉮</a></p>
   <p>납세 의무를 <span class="ev ans" id="ev25">확정해야(납부할 세액·납부 기한 등이 정해지는 것을 확정이라 ⓐ한다)</span><a class="ev-tag ans" href="#q25-1">25-ⓐ</a> 징수할 수 있다. 예외로 ㉠<span class="ev ans" id="ev23a">자동 확정 방식은 성립과 동시에 세액이 정해진다(수입 조기 확보).</span><a class="ev-tag ans" href="#q23-5">23-㉠</a><a class="ev-tag" href="#q23-1">23-①</a><a class="ev-tag" href="#q23-4">23-④</a></p>
   <p>절차에 따른 확정엔 ㉡신고 납세·㉢부과 과세가 있다. <span class="ev" id="ev23b">㉡신고 납세 방식은 납세자가 스스로 세액을 계산·신고해 확정(더 민주적), 1차 확정권은 납세자에게.</span><a class="ev-tag" href="#q23-2">23-㉡</a><a class="ev-tag" href="#q23-3">23-③</a> 미신고·위반 시 세무조사로 과세 관청이 2차 확정한다.</p>
   <p><span class="ev ans" id="ev23c">㉢부과 과세 방식은 확정권이 과세 관청에만 있고, 납세자의 신고는 협력 의무일 뿐. 과세 관청이 세액을 결정·통지해 ‘납세 고지서가 도달했을 때’ 확정 효력이 생긴다(증여세·상속세).</span><a class="ev-tag ans" href="#q23-5">23-㉢</a><a class="ev-tag" href="#q24-4">24-④</a></p>
@@ -1151,10 +1151,10 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="passage">
   <p class="passage-guide">[29 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
-  <p>리쾨르는 이야기를 해석하며 자기를 이해할 수 있다는 자기 해석학을 주장하고, <span class="ev" id="ev29-3">아리스토텔레스의 미메시스 개념을 확장해 ‘미메시스의 삼중 구조’를 제시</span><a class="ev-tag" href="#q29-3">29-③</a>했다. 미메시스란 예술에서 현실을 모방·재현하는 것을 ⓐ<span class="ev ans" id="ev33a">가리키는</span> 용어다.</p>
+  <p>리쾨르는 이야기를 해석하며 자기를 이해할 수 있다는 자기 해석학을 주장하고, <span class="ev" id="ev29-3">아리스토텔레스의 미메시스 개념을 확장해 ‘미메시스의 삼중 구조’를 제시</span><a class="ev-tag" href="#q29-3">29-③</a>했다. 미메시스란 예술에서 현실을 모방·재현하는 것을 ⓐ<span class="ev" id="ev33a">가리키는</span> 용어다.</p>
   <p><span class="ev ans" id="ev30-2">플라톤은 세계를 이상(이데아)·현실의 이원 구조로 보았고, 예술은 ‘이데아를 모방한 현실’을 다시 모방한 것으로 보았다.</span><a class="ev-tag ans" href="#q30-2">30-②</a> 그는 <span class="ev" id="ev30-3">예술이 인간을 이데아로부터 멀어지게 하는 부정적 대상</span><a class="ev-tag" href="#q30-3">30-③</a>이라 했다. 또 <span class="ev" id="ev30-1">갈래마다 모방 양태가 달라 연극은 직접, 서사시는 서술자를 통해 간접 모방</span><a class="ev-tag" href="#q30-1">30-①</a><a class="ev-tag" href="#q31-1">31-①</a>한다 했다. <span class="ev" id="ev30-5">아리스토텔레스는 예술이 개연성 있는 일을 필연성에 따라 조직한 ‘창조적 모방’이며 감정을 정화하고 쾌감을 준다</span><a class="ev-tag" href="#q30-5">30-④·⑤</a>고 보았다. 리쾨르는 이를 ⓑ<span class="ev" id="ev33b">받아들여</span> 미메시스를 행동을 줄거리로 구성해 언어로 표현한 것으로 보았다.</p>
-  <p>미메시스Ⅰ(전형상화)은 작가가 이야기화 전 행동의 의미를 이해하는 단계로, <span class="ev" id="ev29-5">작가는 그 의미를 독자도 이해할 수 있다고 전제</span><a class="ev-tag" href="#q29-5">29-⑤</a><a class="ev-tag" href="#q32-1">32-①</a>한다. 미메시스Ⅱ는 행동이 ㉠<span class="ev ans" id="ev31a">줄거리로 구성되는 단계로, 작가가 의미 있다고 판단한 행동만 ⓒ골라 인과 관계에 따라 배치(현실 바탕 허구 세계)</span><a class="ev-tag ans" href="#q31-2">㉠ 31·32</a><a class="ev-tag" href="#q31-2b">31-③</a><a class="ev-tag" href="#q31-4">31-④</a>한다. 미메시스Ⅲ은 문학과 현실을 ⓓ<span class="ev" id="ev33d">잇고자</span> 한 핵심 단계로, <span class="ev" id="ev31b">독자가 읽고 현실에 비추어 ㉡자기 삶의 줄거리를 만들며 반성</span><a class="ev-tag" href="#q31-2b">㉡</a><a class="ev-tag" href="#q32-4">32-④</a>한다.</p>
-  <p><span class="ev ans" id="ev29-2">미메시스Ⅲ에서 독자의 자기 이해가 이루어지는데(‘이야기 정체성’), 이는 ‘독자의 해석 과정’에서 형성된다.</span><a class="ev-tag ans" href="#q29-2">29-②</a><a class="ev-tag" href="#q32-5">32-⑤</a> 독자는 인물의 이야기 정체성을 자신의 삶에 ⓔ<span class="ev ans" id="ev33e">비추어</span> 자신의 고유한 이야기 정체성을 형성한다.</p>
+  <p>미메시스Ⅰ(전형상화)은 작가가 이야기화 전 행동의 의미를 이해하는 단계로, <span class="ev" id="ev29-5">작가는 그 의미를 독자도 이해할 수 있다고 전제</span><a class="ev-tag" href="#q29-5">29-⑤</a><a class="ev-tag" href="#q32-1">32-①</a>한다. 미메시스Ⅱ는 행동이 ㉠<span class="ev ans" id="ev31a">줄거리로 구성되는 단계로, 작가가 의미 있다고 판단한 행동만 ⓒ골라 인과 관계에 따라 배치(현실 바탕 허구 세계)</span><a class="ev-tag ans" href="#q31-2">㉠ 31·32</a><a class="ev-tag" href="#q31-2b">31-③</a><a class="ev-tag" href="#q31-4">31-④</a>한다. 미메시스Ⅲ은 문학과 현실을 ⓓ<span class="ev ans" id="ev33d">잇고자</span> 한 핵심 단계로, <span class="ev ans" id="ev31b">독자가 읽고 현실에 비추어 ㉡자기 삶의 줄거리를 만들며 반성</span><a class="ev-tag" href="#q31-2b">㉡</a><a class="ev-tag" href="#q32-4">32-④</a>한다.</p>
+  <p><span class="ev ans" id="ev29-2">미메시스Ⅲ에서 독자의 자기 이해가 이루어지는데(‘이야기 정체성’), 이는 ‘독자의 해석 과정’에서 형성된다.</span><a class="ev-tag ans" href="#q29-2">29-②</a><a class="ev-tag" href="#q32-5">32-⑤</a> 독자는 인물의 이야기 정체성을 자신의 삶에 ⓔ<span class="ev" id="ev33e">비추어</span> 자신의 고유한 이야기 정체성을 형성한다.</p>
 </div>
 
 <div class="q-block" id="prob29">
