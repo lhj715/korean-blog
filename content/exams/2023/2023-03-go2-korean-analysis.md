@@ -814,7 +814,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="q-block" id="prob18">
   <p class="q-stem">18. ⓐ~ⓓ에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
-  <p class="q-note">ⓐ mRNA · ⓑ 인산기 · ⓒ 혈장 단백질 · ⓓ 이온화 지질</p>
+  <p class="seg-label">ⓐ mRNA · ⓑ 인산기 · ⓒ 혈장 단백질 · ⓓ 이온화 지질</p>
   <ul class="q-opts">
     <li id="q18-1">① ⓓ는 ⓐ가 체내 효소에 의해 분해되는 것을 방지하는 인공 외막으로 기능한다.<a class="src-tag" href="#ev-q18-1">지문 근거</a></li>
     <li id="q18-2">② ⓐ와 ⓑ는 모두 음전하를 띠기 때문에 둘 사이에 서로를 밀어내는 힘이 작용한다.<a class="src-tag" href="#ev-q18-2">지문 근거</a></li>
@@ -969,7 +969,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="q-block" id="prob22">
   <p class="q-stem">22. ㉠, ㉡을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
-  <p class="q-note">㉠ 임차권(채권) · ㉡ 전세권(물권)</p>
+  <p class="seg-label">㉠ 임차권(채권) · ㉡ 전세권(물권)</p>
   <ul class="q-opts">
     <li id="q22-1">① ㉠을 가진 사람은 원칙적으로는 임대인에게만 계약 내용에 따른 행위를 요구할 수 있다.<a class="src-tag" href="#ev-q22-1">지문 근거</a></li>
     <li id="q22-2">② ㉡을 설정하기 위해서는 임대인의 동의가 필요하다.<a class="src-tag" href="#ev-q22-2">지문 근거</a></li>
@@ -1263,7 +1263,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="q-block" id="prob30">
   <p class="q-stem">30. ⓐ와 문맥상 의미가 가장 가까운 것은?</p>
-  <p class="q-note">ⓐ 신경과민에 <u>빠지게</u> 되는데</p>
+  <p class="seg-label">ⓐ 신경과민에 <u>빠지게</u> 되는데</p>
   <ul class="q-opts">
     <li id="q30-1">① 나는 물에 빠진 생쥐 꼴이 되고 말았다.</li>
     <li id="q30-2">② 어디서 묻었는지 얼룩이 잘 빠지지 않았다.</li>
@@ -1705,7 +1705,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="q-block" id="prob41">
   <p class="q-stem">41. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
-  <p class="q-note">[A] 이생 부친의 말 · [B] 최씨 집안이 전한 말</p>
+  <p class="seg-label">[A] 이생 부친의 말 · [B] 최씨 집안이 전한 말</p>
   <ul class="q-opts">
     <li id="q41-1">① [A]와 [B]는 모두 이생이 겪은 구체적인 사건을 언급하며 상대를 회유하고 있다.</li>
     <li id="q41-2">② [A]와 [B]는 모두 이생의 앞날에 대한 긍정적 기대를 드러내며 자신의 의중을 전달하고 있다.<a class="src-tag ans" href="#evA">정답 근거</a></li>
@@ -1768,4 +1768,128 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
       </table>
     </div>
   </details>
+</div>
+
+<div id="set14" class="set-anchor"></div>
+
+## 43~45번 문학(현대시 갈래복합) · 윤동주 「소년」 + 김기택 「봄날」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>두 편의 현대시 묶음. 자연물과 주체가 어떻게 연결되는지를 중심으로 읽는다.</p>
+  <ul>
+    <li><strong>(가) 윤동주 「소년」</strong> — 산문시. 가을 하늘 → 눈썹·손바닥의 '파란 물감' → 손금의 '맑은 강물' → 그 속의 '순이의 얼굴'. 자연물이 <strong>유사성을 따라 연결·변용</strong>되며 소년의 그리움(순이)을 표면화한다.</li>
+    <li><strong>(나) 김기택 「봄날」</strong> — 아파트 앞에서 봄볕을 쬐는 할머니들. 햇볕을 '채워넣고'·'양껏 받는' 능동적 모습, 봄의 생명력에 환해지는 노년을 정감 있게 그린다.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 44번 ②는 '볼을 만지는 행동 = 자연과의 합일·황홀'로 과잉 해석한 함정('황홀'은 순이 얼굴을 본 뒤). 45번 ③은 '눈부심'을 '빛을 담으려는 의지'로 과잉 해석한 함정.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="seg-label">(가) 윤동주, 「소년」</p>
+  <p><span class="ev" id="ev-q43-1">여기저기서 단풍잎 같은 슬픈 가을이 뚝뚝 떨어진다. 단풍잎 떨어져 나온 자리마다 봄을 마련해 놓고 나뭇가지 위에 하늘이 펼쳐 있다.</span><a class="ev-tag" href="#q43-1">43-①</a> <span class="ev" id="ev-q44-1">가만히 하늘을 들여다 보려면 눈썹에 파란 물감이 든다.</span><a class="ev-tag" href="#q44-1">44-①</a> <span class="ev ans" id="ev44">두 손으로 따뜻한 볼을 씃어 보면 손바닥에도 파란 물감이 묻어 난다.</span><a class="ev-tag ans" href="#q44-2">44-②③</a> 다시 손바닥을 들여다 본다. <span class="ev" id="ev-q44-4">손금에는 맑은 강물이 흐르고, 맑은 강물이 흐르고, 강물 속에는 사랑처럼 슬픈 얼굴― 아름다운 순이의 얼굴이 어린다.</span><a class="ev-tag" href="#q44-4">44-④</a> <span class="ev" id="ev-q44-5">소년은 황홀히 눈을 감아 본다. 그래도 맑은 강물은 흘러 사랑처럼 슬픈 얼굴― 아름다운 순이의 얼굴은 어린다.</span><a class="ev-tag" href="#q44-5">44-⑤</a></p>
+  <p class="seg-label">＊씃어: 씻어.</p>
+  <p class="seg-label">(나) 김기택, 「봄날」</p>
+  <p><span class="ev ans" id="ev45a">할머니들이 아파트 앞에 모여 햇볕을 쪼이고 있다. / 굵은 주름 잔주름 하나도 놓치지 않고 / 꼼꼼하게 햇볕을 채워넣고 있다.</span><a class="ev-tag ans" href="#q45-1">[A]·45-①</a><br>겨우내 얼었던 뼈와 관절들 다 녹도록 / 온몸을 노곤노곤하게 지지고 있다.<br><span class="ev" id="ev-q45-2">마른버짐 사이로 아지랑이 피어오를 것 같고 / 잘만 하면 한순간 뽀얀 젖살도 오를 것 같다.</span><a class="ev-tag" href="#q45-2">[B]·45-②</a><br><span class="ev ans" id="ev45c">할머니들은 마음을 저수지마냥 넓게 벌려 / 한철 폭우처럼 쏟아지는 빛을 양껏 받는다. / 미처 몸에 스며들지 못한 빛이 흘러넘쳐 / 할머니들 모두 눈부시다.</span><a class="ev-tag ans" href="#q45-3">[C]·45-③</a><br>아침부터 끈질기게 추근거리던 봄볕에 못 이겨 / <span class="ev" id="ev-q45-4">나무마다 푸른 망울들이 터지고 / 할머니들은 사방으로 바삐 눈을 흘긴다. / 할머니 주름살들이 일제히 웃는다.</span><a class="ev-tag" href="#q45-4">[D]·45-④</a><br>오오, 얼마 만에 환해져보는가. / 일생에 이렇게 환한 날이 며칠이나 되겠는가.<br>눈앞에는 햇빛이 종일 반짝거리며 떠다니고 / <span class="ev" id="ev-q45-5">환한 빛에 한나절 한눈을 팔다가 / 깜빡 졸았던가? 한평생이 그새 또 지나갔던가? / 할머니들은 가끔 눈을 비빈다.</span><a class="ev-tag" href="#q45-5">[E]·45-⑤</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob43">
+  <p class="q-stem">43. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
+  <ul class="q-opts">
+    <li id="q43-1">① 현재 시제를 활용하여 시적 상황을 제시하고 있다.<a class="src-tag ans" href="#ev-q43-1">정답 근거</a></li>
+    <li id="q43-2">② 연쇄법을 활용하여 역동적인 분위기를 형성하고 있다.</li>
+    <li id="q43-3">③ 다양한 음성 상징어를 사용하여 대상을 묘사하고 있다.</li>
+    <li id="q43-4">④ 말을 건네는 방식을 통해 대상과의 친밀감을 높이고 있다.</li>
+    <li id="q43-5">⑤ 지시어의 연속적 배치로 대상에 대한 주목을 유도하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — '공통점'은 (가)·(나) <strong>양쪽 모두</strong>에 해당해야 한다. 한쪽에만 있으면 탈락.</p>
+        <p>(가)는 '떨어진다·든다·묻어 난다·어린다', (나)는 '쪼이고 있다·받는다·터지고·웃는다' 등 <strong>현재 시제</strong>로 상황을 제시한다. ①이 공통점으로 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)·(나) 모두 현재 시제('~다')로 시적 상황 제시.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'맑은 강물이 흐르고' 반복은 있으나 연쇄법(끝말잇기식)은 아님. (나)도 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(나)에 '노곤노곤'이 있으나 (가)엔 다양한 음성 상징어가 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>두 시 모두 말을 건네는(청자 호명) 방식이 핵심이 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>지시어를 연속 배치해 주목을 유도하는 부분이 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob44">
+  <p class="q-stem">44. &lt;보기&gt;를 바탕으로 (가)에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>(가)에 제시된 자연물들은 서로 간의 유사성을 바탕으로 연결되고 변용된다. 또한 이 과정을 거쳐 맞닿은 주체의 신체적 변화를 유발하고 내면의 정서를 표면화하는 것으로 제시된다. 이때 주체의 변화는 자연물의 속성에 조응하는 것으로 그려진다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q44-1">① '하늘'을 '들여다 보'려는 소년의 '눈썹'에 든 '파란 물감'은 자연물의 속성이 주체에 영향을 주었음을 드러낸다.<a class="src-tag" href="#ev-q44-1">지문 근거</a></li>
+    <li id="q44-2">② '따뜻한 볼'을 만지는 소년의 행동은 '하늘'과 연결되어 자연과의 합일을 이룬 소년의 '황홀'함을 환기한다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
+    <li id="q44-3">③ '손바닥'에 묻어난 '파란 물감'은 '손금'으로 스며들면서 '맑은 강물'로 변용되어 제시된다.<a class="src-tag" href="#ev44">지문 근거</a></li>
+    <li id="q44-4">④ '강물'에 '순이의 얼굴이 어리'는 것은 소년이 '강물'의 '맑은' 속성에 조응해 '아름다운 순이'를 떠올린 것임을 드러낸다.<a class="src-tag" href="#ev-q44-4">지문 근거</a></li>
+    <li id="q44-5">⑤ 소년이 '황홀히 눈을 감'아도 '순이의 얼굴은 어린다'는 것은 '순이'가 소년의 내면에 자리 잡은 대상임을 드러낸다.<a class="src-tag" href="#ev-q44-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — &lt;보기&gt;의 틀(자연물 연결·변용 → 신체 변화 → 정서 표면화)에 시구를 대입. 시에 없는 의미를 덧붙인 선지를 잡는다.</p>
+        <p>'따뜻한 볼'을 씻어 보면 손바닥에 파란 물감이 묻어난다는 것은 자연물(파란 물감)이 주체에게로 <strong>옮겨가는 변용</strong>을 보여 줄 뿐이다. 이를 '자연과의 합일'이나 '황홀함 환기'로 보는 것은 과잉 해석이다('황홀'은 순이 얼굴을 본 뒤의 반응). ②가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>하늘을 보니 눈썹에 파란 물감 → 자연물 속성이 주체에 영향.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>볼을 만지는 행동은 물감의 변용일 뿐. '자연 합일·황홀 환기'는 과잉.</td></tr>
+          <tr><td>③</td><td>적절</td><td>손바닥 파란 물감 → 손금 → '맑은 강물'로 변용.</td></tr>
+          <tr><td>④</td><td>적절</td><td>강물의 '맑은' 속성에 조응해 '아름다운 순이' 떠올림.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>눈 감아도 순이 얼굴 어림 → 내면에 자리 잡은 대상.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob45">
+  <p class="q-stem">45. [A]~[E]에 대한 감상으로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q45-1">① [A]에서 화자는 '햇볕을 쪼이'고 있는 할머니들의 행동을 '꼼꼼하게 햇볕을 채워넣'는 것으로 구체화하면서 할머니들의 모습에 능동성을 부여하고 있군.<a class="src-tag" href="#ev45a">지문 근거</a></li>
+    <li id="q45-2">② [B]의 '잘만 하면'이라는 시구는 '아지랑이'뿐만 아니라 '뽀얀 젖살'까지 상상하게 되었음을 부각하여 할머니들의 변화에 대한 화자의 기대를 드러내고 있군.<a class="src-tag" href="#ev-q45-2">지문 근거</a></li>
+    <li id="q45-3">③ [C]에서 화자는 '쏟아지는 빛'이 할머니들을 '모두 눈부신' 존재로 만들고 있다고 표현하여 '미처 몸에 스며들지 못한 빛'마저 담고자 하는 할머니들의 의지를 부각하고 있군.<a class="src-tag ans" href="#ev45c">정답 근거</a></li>
+    <li id="q45-4">④ [D]의 화자는 '푸른 망울들'이 터지는 것을 보고 '주름살들이 일제히 웃'는 할머니들에 주목하여 봄의 생명력에 기뻐하는 할머니들에 대한 정감 어린 시선을 드러내고 있군.<a class="src-tag" href="#ev-q45-4">지문 근거</a></li>
+    <li id="q45-5">⑤ [E]에서 할머니들이 '가끔 눈을 비비'는 것을 보고 화자는 이를 '한나절 한눈을 팔'던 '환한 빛'으로 인해 '환한 날'을 떠올렸기 때문이라고 여기고 있군.<a class="src-tag" href="#ev-q45-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 각 부분의 시구를 그 해석과 맞춰 본다. 시구가 뒷받침하지 않는 의미(특히 '의지')를 덧붙인 선지를 잡는다.</p>
+        <p>[C]에서 '미처 몸에 스며들지 못한 빛이 흘러넘쳐 모두 눈부시다'는 것은 할머니들이 빛을 그만큼 <strong>충만하게 받았음</strong>을 보여 주는 표현이다. 이를 '빛마저 담고자 하는 <strong>의지</strong>'로 보는 것은 시구가 뒷받침하지 않는 과잉 해석이다. ③이 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>'꼼꼼하게 햇볕을 채워넣' → 햇볕 쬐는 행동에 능동성 부여.</td></tr>
+          <tr><td>②</td><td>적절</td><td>'잘만 하면' → 아지랑이·뽀얀 젖살까지 상상 → 변화에 대한 기대.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>'눈부시다'는 빛의 충만함. '담고자 하는 의지'는 시구가 뒷받침 않는 과잉 해석.</td></tr>
+          <tr><td>④</td><td>적절</td><td>푸른 망울·일제히 웃는 주름살 → 봄 생명력에 기뻐하는 정감 어린 시선.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>'눈을 비비'는 모습을 환한 빛에 한눈팔다 환한 날 떠올린 것으로 해석.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
 </div>
