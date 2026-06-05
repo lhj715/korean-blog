@@ -282,14 +282,14 @@ layout: "exam"
   <p class="q-stem">15.&lt;보기&gt;를 바탕으로 중세 국어의 특징을 탐구한 내용으로 적절하지 않은 것은? <span class="q-rate">오답률 61.5%</span></p>
   <div class="q-bogi">
  <p class="bogi-label">&lt; 보 기 &gt;</p>
- <p>王이 드르시고 즉자히 南남堀애 가샤 뎌 仙션人표 보샤 禮롕數시고 니샤 탈 두겨시다 듣고 婚혼姻표 求<br>노다 仙션人이  내  탈 뒤쇼 져머 어리오 아 브터 深심山산애 이셔 사 이리 설우르고 플옷 닙고 나못 여름 먹니 王이 므슴 호려 져주시니고</p>
+ <img src="/images/exams/2023-12-go2/q15-bogi.png" alt="중세 국어 원문(석보상절): 王이 드르시고 즉자히 南堀애 가샤…" class="bogi-img">
  <p class="bogi-label">[현대어 풀이]</p>
  <p>왕이 들으시고 즉시 남굴에 가시어 저 선인을 보시어, 예수하시고 이르시되 “딸을 두고 계시다 듣고 혼인을 구합니다.” 선인이 사뢰되 “내가 한 딸을 두고 있되, 어려서 어리석고, 아이 때부터 심산에 있어서 사람의 일이 서투르고, 풀을 입고 나무의 열매를 먹나니, 왕이 무엇을 하려고 따져 물으십니까?”</p>
   </div>
   <ul class="q-opts"><li id="q15-1">① ‘보샤’를 보니, 현대 국어와 달리 객체를 높이기 위해 선어말 어미 ‘-샤-’가 사용되었음을 알 수 있군.</li>
- <li id="q15-2">② ‘’를 보니, 현대 국어와 달리 ‘ㆍ’, ‘ㅸ’이 표기에 사용되었음을 알 수 있군.</li>
+ <li id="q15-2">② ‘ᄉᆞᆯᄫᅩᄃᆡ’를 보니, 현대 국어와 달리 ‘ㆍ’, ‘ㅸ’이 표기에 사용되었음을 알 수 있군.</li>
  <li id="q15-3">③ ‘어리오’를 보니, ‘어리다’가 현대 국어와 다른 의미로 쓰였음을 알 수 있군.</li>
- <li id="q15-4">④ ‘사’를 보니, 현대 국어의 관형격 조사 ‘의’가 양성 모음 뒤에서 ‘’의 형태로 쓰였음을 알 수 있군.</li>
+ <li id="q15-4">④ ‘사ᄅᆞᄆᆡ’를 보니, 현대 국어의 관형격 조사 ‘의’가 양성 모음 뒤에서 ‘ᄋᆡ’의 형태로 쓰였음을 알 수 있군.</li>
  <li id="q15-5">⑤ ‘닙고’를 보니, 현대 국어와 달리 단어의 첫머리에서 두음법칙이 적용되지 않았음을 알 수 있군.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 중세 국어 자료의 표기·문법 특징을 현대 국어와 비교한다.</p><p>‘보샤’의 ‘-샤-’는 <strong>주체 높임</strong> 선어말 어미다. ‘객체를 높이기 위해’ 썼다는 ①이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">부적절</td><td>‘-샤-’=주체 높임(객체 아님).</td></tr><tr><td>②</td><td>적절</td><td>‘ㆍ’·‘ㅸ’ 표기 사용.</td></tr><tr><td>③</td><td>적절</td><td>‘어리다’=어리석다(의미 변화).</td></tr><tr><td>④</td><td>적절</td><td>양성 모음 뒤 관형격 ‘ᄋᆡ’.</td></tr><tr><td>⑤</td><td>적절</td><td>두음법칙 미적용(‘닙고’).</td></tr></tbody></table></div></details>
 </div>
