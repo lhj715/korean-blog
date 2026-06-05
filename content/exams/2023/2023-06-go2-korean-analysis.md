@@ -25,25 +25,7 @@ layout: "exam"
     <li id="q1-3">③ 청중의 요청에 따라 강연 내용의 수준을 조정하고 있다.</li>
     <li id="q1-4">④ 청중의 질문에 답을 하며 청중의 궁금증을 해소하고 있다.</li>
     <li id="q1-5">⑤ 청중에게 바라는 바를 언급하며 강연을 마무리하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 강연자의 말하기 방식을 본다.</p><p>강연자는 청중에게 바라는 바(‘관람하면 좋겠습니다’)를 언급하며 강연을 마무리한다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>소감 밝히며 시작하지 않음.</td></tr><tr><td>②</td><td>오답</td><td>전문가 견해 인용 없음.</td></tr><tr><td>③</td><td>오답</td><td>수준 조정 요청 없음.</td></tr><tr><td>④</td><td>오답</td><td>질문에 답하는 부분 없음.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>청중에게 바라는 바로 마무리.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob2">
@@ -67,25 +49,7 @@ layout: "exam"
     <li id="q2-5">⑤ 라틴어 발음에 익숙하지 않을 것임.
 →
 라틴어로 표기된 학명에 우리말 발음을 덧붙여 시각 자료로 제시해야지.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 청중 분석에 따른 강연 전략을 본다.</p><p>학명과 명명자의 관계를 모를 것이라 보아 명명자 이름 붙이는 방식을 설명한다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>관심 적음 전제 아님.</td></tr><tr><td>②</td><td>오답</td><td>목적 설명 전략 아님.</td></tr><tr><td>③</td><td>오답</td><td>이명법 배경지식 보충 아님.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>학명·명명자 관계 설명.</td></tr><tr><td>⑤</td><td>오답</td><td>라틴어 발음 안내 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob3">
@@ -95,25 +59,7 @@ layout: "exam"
     <li id="q3-3">③ ⓒ: 강연 내용의 일부를 공통점과 차이점으로 나누어 정리한 것으로 보아, 세부 정보들의 관계를 확인하며 들었겠군.</li>
     <li id="q3-4">④ ⓓ: 히비스커스차와 무궁화의 연관성을 추측한 것으로 보아, 강연 내용을 자기 경험과 관련지으며 들었겠군.</li>
     <li id="q3-5">⑤ ⓔ: 강연 자료의 준비 부족을 언급한 것으로 보아, 강연 내용의 신뢰성 여부를 따지며 들었겠군.16</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 학생 반응(ⓐ~ⓔ) 분석의 적절성을 본다.</p><p>ⓔ는 학생 자신이 더 알아보지 못한 아쉬움일 뿐, 강연 자료의 준비 부족을 지적한 것으로 보기 어렵다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>ⓐ 학명 필요성 인지.</td></tr><tr><td>②</td><td>오답</td><td>ⓑ 이후 조사 내용 작성.</td></tr><tr><td>③</td><td>오답</td><td>ⓒ 공통점·차이점 정리.</td></tr><tr><td>④</td><td>오답</td><td>ⓓ 연관성 추론.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ⓔ=강연 준비 부족 지적 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set2" class="set-anchor"></div>
@@ -136,25 +82,7 @@ layout: "exam"
     <li id="q4-3">③ ㄴ, ㄷ</li>
     <li id="q4-4">④ ㄴ, ㄹ</li>
     <li id="q4-5">⑤ ㄷ, ㄹ</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 기사문에 반영된 글쓰기 계획을 본다.</p><p>ㄱ(1문단 ‘활성화를 위해’)·ㄴ(3문단 ‘회의를 개최’)이 확인된다. ㄷ·ㄹ은 미반영. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>ㄱ·ㄴ 확인됨.</td></tr><tr><td>②</td><td>오답</td><td>ㄷ 미반영.</td></tr><tr><td>③</td><td>오답</td><td>ㄷ 미반영.</td></tr><tr><td>④</td><td>오답</td><td>ㄹ 미반영.</td></tr><tr><td>⑤</td><td>오답</td><td>ㄷ·ㄹ 미반영.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob5">
@@ -167,25 +95,7 @@ layout: "exam"
 [A]
 [B]
 고2                                 3</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — [A]·[B]의 말하기 방식을 비교한다.</p><p>[B]에서 학생회장은 ‘구체적으로 어떤’, ‘어떻게’라며 추가 설명을 요구하지만 [A]에는 없다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[A] 추가 요구 없음.</td></tr><tr><td>②</td><td>오답</td><td>[A] 해당 양상 없음.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>[B]만 추가 설명 요구.</td></tr><tr><td>④</td><td>오답</td><td>[B] 비판 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>양쪽 공통 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob6">
@@ -195,25 +105,7 @@ layout: "exam"
     <li id="q6-3">③ ㉢을 들으니, 학생자치실 사용을 예약제로 운영하자는 것은 학생자치실의 위치를 고려한 의견이겠군.</li>
     <li id="q6-4">④ ㉣을 들으니, 학생자치실의 공간 구성 방안은 회의 전에는 계획되지 않은 내용이겠군.</li>
     <li id="q6-5">⑤ ㉤을 들으니, 학생자치실 공간 구성에 동아리 학생들의 도움을 받자는 것은 학생 참여를 지향하는 사업 방향에 맞는 제안이겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠~㉤에 대한 학생 반응의 적절성을 본다.</p><p>㉢의 예약제 방안은 사용 대상을 확대하기로 한 결정과 어긋나므로 적절하지 않다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 조사 결과 반영.</td></tr><tr><td>②</td><td>오답</td><td>㉡ 임원 사용 관련.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢ 예약제=대상 확대와 상충.</td></tr><tr><td>④</td><td>오답</td><td>㉣ 공간 구성 관련.</td></tr><tr><td>⑤</td><td>오답</td><td>㉤ 공간 구성 동의.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob7">
@@ -227,25 +119,7 @@ layout: "exam"
     <li id="q7-3">③ 동아리 학생들이 제안한 내용을 확인할 수 있도록 한다.</li>
     <li id="q7-4">④ 필자의 의견을 통해 학생 참여가 중요하다는 것을 알 수 있도록 한다.<a class="src-tag ans" href="#ev7">정답 근거</a></li>
     <li id="q7-5">⑤ 기사문에 인용된 발언을 통해 지난 회의의 분위기를 짐작할 수 있도록 한다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 기사문의 쓰기 맥락을 본다.</p><p>기사문에서 필자의 의견으로 학생 참여 중요성을 파악할 수 있는 내용은 확인되지 않는다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>다음 회의 정보 인지 가능.</td></tr><tr><td>②</td><td>오답</td><td>지난 회의 내용 파악 가능.</td></tr><tr><td>③</td><td>오답</td><td>동아리 제안 확인 가능.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>필자 의견=학생 참여 강조 근거 없음.</td></tr><tr><td>⑤</td><td>오답</td><td>인용 발언으로 회의 파악 가능.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set3" class="set-anchor"></div>
@@ -266,25 +140,7 @@ layout: "exam"
     <li id="q8-5">⑤ 가치 소비의 의의를 언급하여 독자가 가치 소비에 지속적으로 관심을 가지도록 해야겠어.
 [A]
 16</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 초고에 반영된 작문 계획을 본다.</p><p>(나)에서 가치 소비를 접한 경험은 언급되지 않았다. ②가 반영되지 않았다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>용어 분석으로 의미 전달.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>경험 언급 없음.</td></tr><tr><td>③</td><td>오답</td><td>미닝 아웃 형태 제시.</td></tr><tr><td>④</td><td>오답</td><td>다룰 내용 제시.</td></tr><tr><td>⑤</td><td>오답</td><td>가치 소비 의의 언급.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob9">
@@ -298,25 +154,7 @@ layout: "exam"
     <li id="q9-3">③ [자료3]을 활용하여, 미닝 아웃으로 불매 의사를 표현할 때 발생할 수 있는 부작용도 다루어야겠군.</li>
     <li id="q9-4">④ [자료1]과 [자료2]를 활용하여, 가치 소비에 대한 관심이 높아지는 현상을 소비자와 기업의 상호 의존적인 관계로 설명해야겠군.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
     <li id="q9-5">⑤ [자료2]와 [자료3]을 활용하여, 가치 소비가 바람직하게 전개되었을 때 얻을 수 있는 효과를 언급해야겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 자료 활용의 적절성을 본다.</p><p>[자료2]로 소비자와 기업이 상호 의존적 관계라고 설명할 수는 없다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[자료1] 관심 증가 활용.</td></tr><tr><td>②</td><td>오답</td><td>[자료2] 지향 태도 활용.</td></tr><tr><td>③</td><td>오답</td><td>[자료3] 사례 활용.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>[자료1·2]로 상호 의존 설명 불가.</td></tr><tr><td>⑤</td><td>오답</td><td>[자료2·3] 활용 적절.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob10">
@@ -330,25 +168,7 @@ layout: "exam"
     <li id="q10-3">③ 물방울이 바위를 뚫듯이 소비자들의 착한 가치 소비가 계속되면 더 나은 사회를 만들 수 있을 것이다.</li>
     <li id="q10-4">④ 내가 소비한 물건을 마음의 거울에 비춰보면 내가 어디에 가치를 두는지 알 수 있지 않을까?</li>
     <li id="q10-5">⑤ 나의 소비가 부메랑처럼 돌아올 것을 생각하며, 우리 함께 바람직한 가치 소비를 하자.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 조건(비유·설의)에 맞는 표현을 찾는다.</p><p>‘시냇물이 모여 강물이 되듯이’(비유), ‘큰 흐름’ 등으로 가치 소비의 영향력을 비유·설의로 표현한 ①이 조건을 충족한다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>비유+설의로 영향력 표현.</td></tr><tr><td>②</td><td>오답</td><td>조건 미충족.</td></tr><tr><td>③</td><td>오답</td><td>비유만, 흐름과 무관.</td></tr><tr><td>④</td><td>오답</td><td>조건 미충족.</td></tr><tr><td>⑤</td><td>오답</td><td>조건 미충족.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set4" class="set-anchor"></div>
@@ -367,25 +187,7 @@ layout: "exam"
     <li id="q11-3">③ 관형어가 항상 관형사를 통해 실현되는 것은 아니군.</li>
     <li id="q11-4">④ 두 명사가 나란히 올 때 앞 명사는 관형사가 될 수 있군.<a class="src-tag ans" href="#ev11">정답 근거</a></li>
     <li id="q11-5">⑤ 형용사는 관형사형 어미가 결합하더라도 관형사가 될 수 없군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 관형사와 관형어를 구별한다.</p><p>두 명사가 나란히 올 때 앞 명사는 관형어로 쓰일 뿐, 관형사로 품사가 바뀌는 것은 아니다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>관형사는 형태 불변.</td></tr><tr><td>②</td><td>오답</td><td>둘 다 체언 수식.</td></tr><tr><td>③</td><td>오답</td><td>관형어가 늘 관형사로 실현되진 않음.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>앞 명사는 품사가 안 바뀜.</td></tr><tr><td>⑤</td><td>오답</td><td>형용사 관형사형≠관형사.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob12">
@@ -409,25 +211,7 @@ layout: "exam"
     <li id="q12-5">⑤ ㅁ
 2
 여름명사간절하게형용사</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 문장별 관형어와 품사를 본다.</p><p>ㄴ의 관형어는 ‘모든’(관형사)·‘달리는’(동사)로 2개이다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>ㄱ 분석 불일치.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>ㄴ=모든(관형사)·달리는(동사).</td></tr><tr><td>③</td><td>오답</td><td>ㄷ 개수 불일치.</td></tr><tr><td>④</td><td>오답</td><td>ㄹ 분석 불일치.</td></tr><tr><td>⑤</td><td>오답</td><td>ㅁ 분석 불일치.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob13">
@@ -446,25 +230,7 @@ layout: "exam"
 첨가하나가 늘어남.</li>
     <li id="q13-5">⑤ 밟힌[발핀]
 축약변화 없음.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 음운 변동의 유형과 개수를 본다.</p><p>‘뚫는→[뚤른]’은 ‘ㅎ’ 탈락과 ‘ㄴ→ㄹ’ 교체가 일어나 음운 수가 하나 줄어든다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>국밥=된소리되기(교체).</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>뚫는=교체+탈락, 하나 줆.</td></tr><tr><td>③</td><td>오답</td><td>막내=교체.</td></tr><tr><td>④</td><td>오답</td><td>물약=첨가.</td></tr><tr><td>⑤</td><td>오답</td><td>밟힌=축약.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob14">
@@ -479,25 +245,7 @@ layout: "exam"
     <li id="q14-3">③ ‘두껍다’의 용례로 ‘그 책은 수요층이 두껍다.’를 들 수 있다.</li>
     <li id="q14-4">④ ‘굵다’의 용례에서 ‘굵다’를 ‘가늘다’로 바꾸면 ‘가늘다’의 용례가 될 수 있다.</li>
     <li id="q14-5">⑤ ‘굵다’과 ‘두껍다’의 의미에 의하면 ‘굵은 손가락’은 ‘두꺼운 손가락’으로 쓰는 것이 적절하다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 다의어의 의미와 용례를 본다.</p><p>‘굵다’와 ‘두껍다’의 사전적 의미에 비추어 ⑤의 진술이 적절하다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>세 단어 모두 동일 의미 아님.</td></tr><tr><td>②</td><td>오답</td><td>‘가늘다’ 용례 부적절.</td></tr><tr><td>③</td><td>오답</td><td>‘두껍다’ 용례 부적절.</td></tr><tr><td>④</td><td>오답</td><td>바꿔 쓰기 부적절.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>굵다·두껍다 의미 적절.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob15">
@@ -512,25 +260,7 @@ layout: "exam"
     <li id="q15-4">④ ㉣에서 두음법칙이 적용되지 않았음을 알 수 있군.</li>
     <li id="q15-5">⑤ ㉤에서 구개음화가 일어나지 않았음을 알 수 있군.
 16</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 중세 국어의 특징을 본다.</p><p>㉡의 ‘내가’는 ‘나’의 이형태 ‘내’에 주격조사 ‘가’가 결합한 것으로, 주격조사가 생략된 것이 아니다. ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 안 쓰이는 모음 사용.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>㉡ 주격조사 생략 아님.</td></tr><tr><td>③</td><td>오답</td><td>㉢ 이어적기.</td></tr><tr><td>④</td><td>오답</td><td>㉣ 두음법칙 미적용.</td></tr><tr><td>⑤</td><td>오답</td><td>㉤ 구개음화 미발생.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set5" class="set-anchor"></div>
@@ -549,25 +279,7 @@ layout: "exam"
     <li id="q16-3">③ (나)는 (가)와 달리 유사한 통사 구조를 반복하여 운율을 형성하고 있다.</li>
     <li id="q16-4">④ (나)는 (가)와 달리 구체적인 수치를 활용하여 상황의 변화를 드러내고 있다.</li>
     <li id="q16-5">⑤ (가)와 (나)는 모두 계절감이 드러나는 시어를 사용하여 시간의 경과를 보여 주고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)의 표현상 특징을 본다.</p><p>(가)는 암행어사 화자와 백성의 문답 구조를 통해 내용을 전개한다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)=문답 구조.</td></tr><tr><td>②</td><td>오답</td><td>공간 대비 아님.</td></tr><tr><td>③</td><td>오답</td><td>(나)만 통사 구조 반복 아님.</td></tr><tr><td>④</td><td>오답</td><td>수치 제시 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>계절감 공통 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob17">
@@ -581,25 +293,7 @@ layout: "exam"
     <li id="q17-3">③ ‘도망한 자 신구환을 있는 자에 물리니’에서 불합리하게 부과된 세금으로 고통받는 백성들의 현실을 짐작할 수 있어.</li>
     <li id="q17-4">④ ‘급히 급히 넘어가자 이 백성들 살려보세’에서 암행어사로서 임무에 최선을 다하려는 마음가짐을 엿볼 수 있어.</li>
     <li id="q17-5">⑤ ‘백성 없는 곡식 바다 그 무엇에 쓰려하노’에서 백성들을 수탈하는 지방 관리들에 대한 부정적 인식을 확인할 수 있어.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉로 (가)를 감상한다.</p><p>‘안접하게 하여줌세’는 백성을 정착시켜 주려는 암행어사의 의지이지, 화자가 고향으로 돌아간다는 뜻이 아니다. ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>차마 보지 못함=참담함.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>안접하게=백성 정착 의지(귀향 아님).</td></tr><tr><td>③</td><td>오답</td><td>신구환 물림=수탈 고발.</td></tr><tr><td>④</td><td>오답</td><td>급히 넘어가자=임무 최선.</td></tr><tr><td>⑤</td><td>오답</td><td>곡식 수탈 비판.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob18">
@@ -609,25 +303,7 @@ layout: "exam"
     <li id="q18-3">③ <4수> : 세속의 어지러운 소식을 모른 체하며 살고 싶은 심정을 표현하고 있다.</li>
     <li id="q18-4">④ <5수> : 자연과 어우러지는 모습을 통해 자연에 대한 친근감을 드러내고 있다.</li>
     <li id="q18-5">⑤ <8수> : 인생이 덧없다고 느끼기에 산수(山水)와 노래를 즐기며 살기를 희망하고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 작품의 내용을 이해한다.</p><p><2수>에서 귀향이 지체된 이유는 임금의 은혜 때문이다. 강산을 즐기느라 못 갔다는 ②는 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>변해 버린 인사 한탄.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>귀향 지체=임금 은혜(강산 아님).</td></tr><tr><td>③</td><td>오답</td><td>세속 소식 외면.</td></tr><tr><td>④</td><td>오답</td><td>자연과 어우러짐.</td></tr><tr><td>⑤</td><td>오답</td><td>산수를 즐김.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob19">
@@ -641,25 +317,7 @@ layout: "exam"
     <li id="q19-3">③ 아이들이 엿으로 바꿔 먹기 위해 들고 갔던 다양한 물건을 언급하고 있다.</li>
     <li id="q19-4">④ 엿장수가 사라진 이후 변화를 받아들이지 못하는 기존 세대에 대한 안타까운 심정을 토로하고 있다.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
     <li id="q19-5">⑤ 엿장수가 했던 일에 가치를 부여하여 그 의미를 독자들이 생각해 보도록 하고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉로 (나)를 감상한다.</p><p>글쓴이는 엿장수가 사라진 데 대한 안타까움을 드러낼 뿐, 변화를 받아들이지 못하는 모습은 드러나지 않는다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>엿장수 기다리던 모습.</td></tr><tr><td>②</td><td>오답</td><td>뛰어가던 아이들.</td></tr><tr><td>③</td><td>오답</td><td>엿 바꿔 먹던 추억.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>변화 거부=드러나지 않음.</td></tr><tr><td>⑤</td><td>오답</td><td>엿장수에 가치 부여.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob20">
@@ -670,25 +328,7 @@ layout: "exam"
     <li id="q20-4">④ ㉠과 ㉡은 모두 화자의 과거 경험을 떠올리게 하는 소리이다.</li>
     <li id="q20-5">⑤ ㉡과 ㉢은 모두 긍정적인 상황에서 부정적인 상황으로의 반전을 유발하는 소리이다.
 16</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠·㉡·㉢의 기능을 본다.</p><p>㉡은 자연을 즐기며 거문고 곡조에 맞춰 부르는, 경관을 감상하며 즐기는 소리이다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 슬픔만은 아님.</td></tr><tr><td>②</td><td>오답</td><td>㉠ 울분만은 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>㉡=경관 즐기는 소리.</td></tr><tr><td>④</td><td>오답</td><td>과거 경험 환기 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>부정적 전환 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set6" class="set-anchor"></div>
@@ -716,25 +356,7 @@ layout: "exam"
 ✔</li>
     <li id="q21-5">⑤ 니체 철학이 지닌 의의를 밝히며 마무리하였는가?
 ✔</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 글의 내용 전개 방식을 본다.</p><p>‘힘에의 의지’·‘아곤’ 등 핵심 개념을 설명하지만 사례를 들지는 않았다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>전통 형이상학과 대비로 배경 제시.</td></tr><tr><td>②</td><td>오답</td><td>공통점·차이점 비교.</td></tr><tr><td>③</td><td>오답</td><td>통시적 변천 아님—그러나 설명은 함.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>핵심 개념을 사례로 설명하지 않음.</td></tr><tr><td>⑤</td><td>오답</td><td>의의 밝히며 마무리.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob22">
@@ -744,25 +366,7 @@ layout: "exam"
     <li id="q22-3">③ 니체는 무가치한 현실적 욕구를 충족하려는 태도도 삶을 개선하는 데 기여한다고 보았다.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
     <li id="q22-4">④ 니체는 사람들이 자신보다 우월한 사람을 넘어서고자 하는 의지를 긍정적으로 평가하였다.</li>
     <li id="q22-5">⑤ 니체는 삶에서 오는 어려움을 극복하고 성장하고자 하는 것이 삶을 긍정하는 태도라고 여겼다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 파악한다.</p><p>현실적 욕구를 무가치하게 보는 것은 전통 형이상학의 입장이다. 이를 니체의 입장으로 본 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>전통=현실 너머 보편 진리.</td></tr><tr><td>②</td><td>오답</td><td>전통=절대 가치 발견.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>무가치한 욕구관=전통 입장(니체 아님).</td></tr><tr><td>④</td><td>오답</td><td>니체=우월한 자 극복 지향.</td></tr><tr><td>⑤</td><td>오답</td><td>니체=어려움 극복·성장.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob23">
@@ -773,25 +377,7 @@ layout: "exam"
     <li id="q23-4">④ 절대적 가치를 추구하는 것만으로는 삶을 더욱 완전하게 만들 수 없다고 보았다.</li>
     <li id="q23-5">⑤ 가치 평가의 기준이어야 할 삶을 삶 외부의 절대적 가치를 기준으로 평가하였다.
 고2                                 9<a class="src-tag ans" href="#ev23">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 추론한다.</p><p>니체는 가치 평가의 기준이어야 할 삶을, 삶 외부의 절대적 가치로 재단하는 것을 비판한다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>절대 가치 의의 평가 아님.</td></tr><tr><td>②</td><td>오답</td><td>절대 가치 실현 아님.</td></tr><tr><td>③</td><td>오답</td><td>욕구 충족 아님.</td></tr><tr><td>④</td><td>오답</td><td>추구만으로 부족 아님.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>삶을 외부 기준으로 재단 비판.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob24">
@@ -805,25 +391,7 @@ layout: "exam"
     <li id="q24-3">③ 니체는 Ⓐ를 타인의 존재와 무관한 욕망으로, 쇼펜하우어는 Ⓑ를 타인과의 비교를 전제로 한 욕망으로 보았다.</li>
     <li id="q24-4">④ 니체는 Ⓐ를 자연스럽게 받아들이는 것이, 쇼펜하우어는 Ⓑ를 포기하는 것이 더 나은 삶을 만들 수 있다고 보았다.</li>
     <li id="q24-5">⑤ 니체는 Ⓐ를 최소한으로 가짐으로써, 쇼펜하우어는 Ⓑ를 최대한으로 추구함으로써 삶의 고통에서 벗어날 수 있다고 보았다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 핵심 개념 Ⓐ(힘에의 의지)를 비교한다.</p><p>니체는 Ⓐ를 자연스럽게 받아들이는 것이 창조적 삶으로 이어진다고 본다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>창조적 삶의 힘.</td></tr><tr><td>②</td><td>오답</td><td>내적 동력.</td></tr><tr><td>③</td><td>오답</td><td>타인과 무관한 욕망 아님.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>자연스러운 수용이 창조적 삶.</td></tr><tr><td>⑤</td><td>오답</td><td>최소화 주장 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob25">
@@ -837,25 +405,7 @@ layout: "exam"
     <li id="q25-3">③ ‘신기록’을 세운 뒤 ‘갑’의 경기를 배려하는 ‘을’의 모습은 동등한 조건에서 힘의 크기를 비교하여 상대의 능력을 확인하려는 것으로 볼 수 있군.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
     <li id="q25-4">④ 경기 종료 후 ‘갑’에게 ‘은메달’이, ‘을’에게 ‘금메달’이 주어진 것은 힘의 차이에 따른 위계를 반영한 것으로 볼 수 있군.</li>
     <li id="q25-5">⑤ ‘갑’과 ‘을’이 ‘서로에게 박수를 보’낸 모습은 강자와 상대적 약자 간에 상호 존중의 형태로 힘의 위계가 드러난 것으로 볼 수 있군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(올림픽)에 적용한다.</p><p>‘아곤’은 비교를 통해 힘을 평가하고 향상하는 것이다. ‘신기록’ 후 ‘갑’의 경기를 배척한다는 ③은 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>갑·을=서로 뛰어넘으려는 존재.</td></tr><tr><td>②</td><td>오답</td><td>올림픽=삶 상승 지향.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>경기 배척=아곤과 어긋남.</td></tr><tr><td>④</td><td>오답</td><td>메달=결과로서의 평가.</td></tr><tr><td>⑤</td><td>오답</td><td>박수=상호 존중.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set7" class="set-anchor"></div>
@@ -874,25 +424,7 @@ layout: "exam"
     <li id="q26-3">③ 시간의 흐름에 따라 서술자를 달리하여 사건을 입체적으로 조명하고 있다.</li>
     <li id="q26-4">④ 다른 공간에서 동시에 일어난 사건을 병치하여 이야기의 흐름을 지연시키고 있다.</li>
     <li id="q26-5">⑤ 외부의 서술자가 특정 인물에 초점을 두고 사건을 서술하여 인물의 내면을 드러내고 있다.<a class="src-tag ans" href="#ev26">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 서술상 특징을 찾는다.</p><p>이야기 외부의 서술자가 ‘어머니’에 초점을 두고 사건과 생각을 서술한다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>공간 묘사로 미래 암시 아님.</td></tr><tr><td>②</td><td>오답</td><td>성격 대비 반전 아님.</td></tr><tr><td>③</td><td>오답</td><td>서술자 교체 없음.</td></tr><tr><td>④</td><td>오답</td><td>동시 사건 병치 아님.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>외부 서술자가 어머니에 초점.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob27">
@@ -906,25 +438,7 @@ layout: "exam"
     <li id="q27-3">③ ‘삼천오백 원’을 마련해 주지 않은 ‘큰아들들의 소행’을 ‘노여워’하는 장면을 통해 어머니가 경제적 어려움을 자식들 탓으로 여기고 있음을 짐작할 수 있겠군.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
     <li id="q27-4">④ ‘쇠고깃국 냄비’의 뜨거움도 ‘의식하지 못한 채’ 들고 가는 장면을 통해 아들을 향한 어머니의 사랑을 짐작할 수 있겠군.</li>
     <li id="q27-5">⑤ ‘어머니의 품’에 있던 ‘우유병’이 깨지는 장면을 통해 비극적 상황에 처한 어머니의 절망감을 짐작할 수 있겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉로 작품을 감상한다.</p><p>어머니의 원망은 여비(‘삼천오백 원’)를 마련해 주지 않은 큰아들들을 향한 것이다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>막동이 사정에 대한 안타까움.</td></tr><tr><td>②</td><td>오답</td><td>죄를 벗길 길 없음.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>여비 안 마련=큰아들 원망.</td></tr><tr><td>④</td><td>오답</td><td>쇠고깃국=어머니의 정성.</td></tr><tr><td>⑤</td><td>오답</td><td>우유병=가난·고단함.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob28">
@@ -935,25 +449,7 @@ layout: "exam"
     <li id="q28-4">④ ‘교도관’들은 ㉠을 ‘어머니’에게 보여 주며 ‘아들’과 아는 사이임을 드러내었다.</li>
     <li id="q28-5">⑤ ‘교도관’들은 ㉠과 관련하여 알고 있는 사실을 ‘어머니’에게 전달하기를 불편해 하였다.
 고2                                 11<a class="src-tag ans" href="#ev28">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠을 중심으로 세부 내용을 본다.</p><p>교도관들은 ㉠과 관련해 알고 있는 사실을 어머니에게 알려 주지 않는다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠으로 마음 표현.</td></tr><tr><td>②</td><td>오답</td><td>㉠으로 면회 지연.</td></tr><tr><td>③</td><td>오답</td><td>㉠으로 어머니·아들 대화.</td></tr><tr><td>④</td><td>오답</td><td>㉠을 보여 줌.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>알면서 알려 주지 않음(부적절).</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set8" class="set-anchor"></div>
@@ -972,25 +468,7 @@ layout: "exam"
     <li id="q29-3">③ STR 분석을 위해서는 먼저 염색체의 개수를 파악해야 한다.</li>
     <li id="q29-4">④ 20개의 표준 좌위에서는 염기 서열의 STR이 나타나지 않는다.</li>
     <li id="q29-5">⑤ STR 분석법은 DNA에 있는 30억 개 염기 중 일부를 대상으로 한다.<a class="src-tag ans" href="#ev29">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 이해한다.</p><p>STR 분석법은 DNA 30억 개 염기 전체가 아니라 짧은 염기 서열이 반복되는 구간을 이용한다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>사람마다 염기 종류 동일.</td></tr><tr><td>②</td><td>오답</td><td>상동 염색체=쌍.</td></tr><tr><td>③</td><td>오답</td><td>분석 시 염색체 확인.</td></tr><tr><td>④</td><td>오답</td><td>표준 좌위 STR 활용.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>30억 개 전체 비교 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob30">
@@ -1000,25 +478,7 @@ layout: "exam"
     <li id="q30-3">③ 동일인에서 채취한 서로 다른 샘플에서는 같은 좌위라도 염기 서열의 반복 횟수가 다르겠군.</li>
     <li id="q30-4">④ STR 분석법은 네 종류의 염기가 모두 반복되는 특정 구간을 분석 대상으로 하겠군.</li>
     <li id="q30-5">⑤ 국가 간에 공통적으로 사용하는 좌위가 없어 분석 결과를 공유하기 힘들겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 추론한다.</p><p>DNA에는 짧은 염기 서열이 연쇄적으로 반복되는 구간이 있다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>짧은 서열 연쇄 반복 존재.</td></tr><tr><td>②</td><td>오답</td><td>부계·모계 동일 단정 불가.</td></tr><tr><td>③</td><td>오답</td><td>동일인 샘플 결과 동일.</td></tr><tr><td>④</td><td>오답</td><td>네 염기 모두 필요는 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>국가 간 공통 좌위 있음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob31">
@@ -1033,25 +493,7 @@ layout: "exam"
     <li id="q31-4">④ ‘을’이 범인이라면 과 에서 모계에서 받은 염색체의 ‘AGAT’ 반복 횟수의 합이 12보다 클 수 없겠군.</li>
     <li id="q31-5">⑤ ‘을’의 분석 결과가 에서 ‘4-8’, 에서 ‘8-4’로 나온다면 의 결괏값만으로도 ‘을’을 범인으로 확정할 수 있겠군.
 16<a class="src-tag ans" href="#ev31">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(범인 식별)에 적용한다.</p><p>모든 좌위 결과가 일치해야 하는데 ‘을’의 결과가 일부 다르므로 ‘을’을 범인으로 확정할 수 없다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>특정 염색대 분석.</td></tr><tr><td>②</td><td>오답</td><td>부·모계 STR 조합.</td></tr><tr><td>③</td><td>오답</td><td>DNA 프로필 작성.</td></tr><tr><td>④</td><td>오답</td><td>모계 유래 STR 비교.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>일부 불일치—범인 확정 불가.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob32">
@@ -1061,25 +503,7 @@ layout: "exam"
     <li id="q32-3">③ ⓒ: 어떤 문제를 해결하기 위한 실마리를 잡음.</li>
     <li id="q32-4">④ ⓓ: 특별히 지정함.</li>
     <li id="q32-5">⑤ ⓔ: 아주 정교하고 치밀하여 빈틈이 없고 자세함.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 단어의 사전적 의미를 본다.</p><p>ⓐ는 ‘추정’으로 그 뜻은 ‘추측하여 판정함’이다. ‘의견이나 느낌’으로 푼 ①이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ=추측하여 판정함(‘의견·느낌’ 아님).</td></tr><tr><td>②</td><td>오답</td><td>ⓑ 의미 적절.</td></tr><tr><td>③</td><td>오답</td><td>ⓒ 의미 적절.</td></tr><tr><td>④</td><td>오답</td><td>ⓓ 의미 적절.</td></tr><tr><td>⑤</td><td>오답</td><td>ⓔ 의미 적절.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set9" class="set-anchor"></div>
@@ -1100,25 +524,7 @@ layout: "exam"
     <li id="q33-5">⑤ (가)는 독점이 시장에 끼치는 부정적 영향을 언급하고 있고, (나)는 독점 행위를 규제하는 제도의 문제점을 서술하고 있다.
 [A]
 고2                                 13</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)의 전개 방식을 본다.</p><p>(가)는 독점기업의 이윤 추구 방법과 가격·생산량 결정 과정을 설명한다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>다양한 관점 비교 아님.</td></tr><tr><td>②</td><td>오답</td><td>독점 필요 이유 아님.</td></tr><tr><td>③</td><td>오답</td><td>소득 분배 아님.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>독점기업 이윤 추구 방법 설명.</td></tr><tr><td>⑤</td><td>오답</td><td>부정적 영향만은 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob34">
@@ -1128,25 +534,7 @@ layout: "exam"
     <li id="q34-3">③ ㉡에서 독점기업은 시장의 유일한 공급자로서 독점기업이 판매량을 늘리려면 가격을 낮춰야 한다.</li>
     <li id="q34-4">④ ㉠에는 진입장벽이 존재하지 않으므로, ㉡에 비해 개별 기업들의 시장 진입이 자유롭다.</li>
     <li id="q34-5">⑤ ㉠에는 많은 수의 공급자와 수요자가 존재하므로, ㉡보다 기업이 시장을 지배하는 힘이 크다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 완전경쟁(㉠)·독점(㉡)을 비교한다.</p><p>㉠ 완전경쟁시장에는 많은 수의 공급자와 수요자가 존재해 개별 주체가 가격에 영향을 주기 어렵다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 개별 기업=가격수용자(맞음).</td></tr><tr><td>②</td><td>오답</td><td>㉡ 생산량 조절 가능.</td></tr><tr><td>③</td><td>오답</td><td>㉡ 유일 공급자.</td></tr><tr><td>④</td><td>오답</td><td>㉠ 진입장벽 없음.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉠=다수 공급·수요자 존재.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob35">
@@ -1160,25 +548,7 @@ layout: "exam"
     <li id="q35-3">③ ‘갑’의 생산량이 Q1보다 적으면 한계수입이 한계비용보다 높으므로, 이윤을 높이려면 생산량을 Q1 수준까지 증가시켜야 할 것이다.</li>
     <li id="q35-4">④ ‘갑’의 생산량이 Q1이고 공급할 제품의 가격이 P2라면, 해당 기업이 제품을 판매할 때 얻게 되는 단위당 이윤은 P2-P1이 될 것이다.</li>
     <li id="q35-5">⑤ ‘갑’은 이윤 극대화를 위해 수요자의 최대 지불 용의 수준을 고려하여 공급할 제품의 최종 시장가격을 P1이 아닌 P2로 결정할 것이다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 그래프(Q1·Q2)에 적용한다.</p><p>‘갑’이 생산량을 Q1에서 Q2로 늘리면 제품 가격은 하락한다. 가격이 P로 유지된다는 ②는 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>이윤 최대 최적 생산량.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>Q1→Q2 증산 시 가격 하락(부적절).</td></tr><tr><td>③</td><td>오답</td><td>Q1 미만이면 한계수입 관련.</td></tr><tr><td>④</td><td>오답</td><td>Q1·가격 관련 적절.</td></tr><tr><td>⑤</td><td>오답</td><td>이윤 극대화 설정.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob36">
@@ -1192,25 +562,7 @@ layout: "exam"
     <li id="q36-3">③ 높게소비 증가억제</li>
     <li id="q36-4">④ 낮게소비 감소억제</li>
     <li id="q36-5">⑤ 낮게소비 증가촉진</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 빈칸에 들어갈 말을 추론한다.</p><p>독점기업은 시장가격을 한계비용보다 ‘높게’ 설정하고, 가격 상승으로 소비는 ‘감소’하며, 이를 ‘촉진’한다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>높게·소비 감소·촉진.</td></tr><tr><td>②</td><td>오답</td><td>억제 부적절.</td></tr><tr><td>③</td><td>오답</td><td>증가 부적절.</td></tr><tr><td>④</td><td>오답</td><td>낮게 부적절.</td></tr><tr><td>⑤</td><td>오답</td><td>낮게·증가 부적절.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob37">
@@ -1226,25 +578,7 @@ layout: "exam"
     <li id="q37-5">⑤ 사업자의 독과점 추구 자체는 금지되어 있지 않지만, [사례1]
 과 [사례2]에서 확인되는 A사와 C사의 행위는 경쟁 제한의 폐해를 초래했기 때문에 규제 대상이 되었겠군.
 16</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈사례〉(공정거래법)에 적용한다.</p><p>부당한 공동행위는 사업자 간 합의만 있으면 성립한다. [사례2]의 C사에 대한 ④의 적용이 적절하다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[사례1] 시장지배 남용 관련.</td></tr><tr><td>②</td><td>오답</td><td>국가 관련 부정확.</td></tr><tr><td>③</td><td>오답</td><td>명시 합의 관련 부정확.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>합의만으로 부당 공동행위 성립.</td></tr><tr><td>⑤</td><td>오답</td><td>독과점 추구 자체는 금지 아님(서술).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob38">
@@ -1254,25 +588,7 @@ layout: "exam"
     <li id="q38-3">③ ⓒ: 그를 나쁘게 말하는 사람은 별로 없다.</li>
     <li id="q38-4">④ ⓓ: 반 아이들의 이름이 하나하나 불렸다.</li>
     <li id="q38-5">⑤ ⓔ: 교향악단은 최정상급의 연주자들로 이루어졌다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 문맥적 의미가 같은 것을 찾는다.</p><p>ⓐ ‘취하다’는 ‘방책을 쓰다’의 뜻으로, ① ‘강경한 태도를 취했다’와 같다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ=방책을 쓰다(①과 동일).</td></tr><tr><td>②</td><td>오답</td><td>ⓑ 나누다 의미 다름.</td></tr><tr><td>③</td><td>오답</td><td>ⓒ 의미 다름.</td></tr><tr><td>④</td><td>오답</td><td>ⓓ 의미 다름.</td></tr><tr><td>⑤</td><td>오답</td><td>ⓔ 의미 다름.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set10" class="set-anchor"></div>
@@ -1291,25 +607,7 @@ layout: "exam"
     <li id="q39-3">③ 부인은 비자의 말을 들은 후에 몰래 계도의 생김새를 살펴보았다.</li>
     <li id="q39-4">④ 소 학사의 동생이 형을 찾기 위해 집을 떠난 후 여러 해가 지났다.</li>
     <li id="q39-5">⑤ 계도는 반가운 일을 볼 것이라고 한 월봉산 노인의 말을 부인 집 후원에서 떠올렸다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 내용을 이해한다.</p><p>거문고에 새겨진 글자를 확인하자고 제안한 사람은 계도가 아니라 부인이다. ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>아버지가 신선에게 얻은 나무.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>글자 확인 제안=부인(계도 아님).</td></tr><tr><td>③</td><td>오답</td><td>부인이 비자의 말 들음.</td></tr><tr><td>④</td><td>오답</td><td>동생이 형을 찾아 나섬.</td></tr><tr><td>⑤</td><td>오답</td><td>월봉산 노인의 예언.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob40">
@@ -1319,25 +617,7 @@ layout: "exam"
     <li id="q40-3">③ ㉢: 부인이 예고한 일이 실제로 일어나지 않을 것이라는 계도의 생각이 드러난다.</li>
     <li id="q40-4">④ ㉣: 학사의 물건을 가지고 있는 계도에 대한 부인의 반감이 드러난다.</li>
     <li id="q40-5">⑤ ㉤: 자기 가문의 기물을 아들의 것이라 주장하는 부인에 대한 계도의 분노가 드러난다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠~㉤에 담긴 인물의 심리를 본다.</p><p>㉠에서 부인은 남녀가 유별하다는 규범을 인정하면서도 계도를 만나 보고자 한다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>남녀 규범 인정+만남 의지.</td></tr><tr><td>②</td><td>오답</td><td>㉡ 실망만은 아님.</td></tr><tr><td>③</td><td>오답</td><td>㉢ 예고 빗나감 아님.</td></tr><tr><td>④</td><td>오답</td><td>㉣ 의심만은 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>㉤ 단정 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob41">
@@ -1347,25 +627,7 @@ layout: "exam"
     <li id="q41-3">③ [B]는 [A]와 달리 사물의 내력을 근거로 들어 상대의 말을 반박하고 있다.<a class="src-tag ans" href="#ev41">정답 근거</a></li>
     <li id="q41-4">④ [B]는 [A]와 달리 자신에 대한 정보를 제공하며 상대의 협조를 요청하고 있다.</li>
     <li id="q41-5">⑤ [A]와 [B]는 모두 상대의 특정한 행동을 언급하며 상대의 입장을 이해하고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — [A]·[B]의 발화 의도를 비교한다.</p><p>[B]는 거문고의 내력을 근거로 들어, 그것이 자기 가문 기물이라는 계도의 주장을 반박한다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[A]만 심정 직접 토로 아님.</td></tr><tr><td>②</td><td>오답</td><td>[A]만 과거사 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>[B]=내력 근거로 반박.</td></tr><tr><td>④</td><td>오답</td><td>[B]만 자기 정보 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>공통 행동 언급 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob42">
@@ -1382,25 +644,7 @@ layout: "exam"
     <li id="q42-5">⑤ 계도가 친아버지의 적대자인 ‘서준에게 길러’졌다는 데서 서사적 긴장감이 유발된다고 볼 수 있겠군.
 [B]
 16</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(천상계·인연)로 감상한다.</p><p>승상이 부인의 꿈에 나타나 ‘손자가 올 것’이라 말하는 것은 천상계의 개입을 보여 준다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>꿈속 승상의 예언=천상계 개입.</td></tr><tr><td>②</td><td>오답</td><td>큰아들 소식 두절.</td></tr><tr><td>③</td><td>오답</td><td>위로의 말.</td></tr><tr><td>④</td><td>오답</td><td>천도화=상서로운 징조.</td></tr><tr><td>⑤</td><td>오답</td><td>적대자 길 안내.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set11" class="set-anchor"></div>
@@ -1419,25 +663,7 @@ layout: "exam"
     <li id="q43-3">③ 명사로 시를 마무리하여 시적 상황을 부각하고 있다.</li>
     <li id="q43-4">④ 청유형 종결 어미를 활용하여 화자의 태도를 나타내고 있다.</li>
     <li id="q43-5">⑤ 색채어를 통해 대상이 지닌 속성을 감각적으로 드러내고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)의 표현상 공통점을 본다.</p><p>(가)는 ‘소리’, (나)는 ‘뿌리’라는 시어를 반복하여 주제 의식을 강조한다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>공간 이동 없음.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>동일 시어 반복으로 주제 강조.</td></tr><tr><td>③</td><td>오답</td><td>명사 종결 아님.</td></tr><tr><td>④</td><td>오답</td><td>청유형 어미 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>색채어 공통 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob44">
@@ -1447,25 +673,7 @@ layout: "exam"
     <li id="q44-3">③ 화자는 청자의 ‘속삭임’을 통해 ‘비명을 노래’하는 자신의 삶을 반성하겠군.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
     <li id="q44-4">④ 화자가 ‘내공에 힘쓰’려고 하는 이유는 ‘아름다운 소리’를 내기 위해서겠군.</li>
     <li id="q44-5">⑤ 화자는 ‘구멍 속’이 ‘마음 놓고’ 소리를 낼 수 있는 공간이라고 생각하겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 시구의 의미를 추론한다.</p><p>화자는 ‘비명을 노래’하면 청자에게 ‘속삭임’으로 받아 달라고 할 뿐, 자신을 반성하는 부분은 없다. ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘현’ 조율=고단함 다스림.</td></tr><tr><td>②</td><td>오답</td><td>한 악기에서 함께 소리.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>속삭임으로 비명 수용 요청(반성 아님).</td></tr><tr><td>④</td><td>오답</td><td>내공=성장 지향.</td></tr><tr><td>⑤</td><td>오답</td><td>구멍 속=자유로운 소리.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob45">
@@ -1480,23 +688,5 @@ layout: "exam"
     <li id="q45-4">④ ‘어딘가를 향해’ 간다는 것에서 화자는 불안정함을 감수하면서도 스스로 존재하려 함을 확인할 수 있군.</li>
     <li id="q45-5">⑤ ‘뿌리로부터 온 존재’라고 인정하는 것에서 화자가 새로운 길을 찾는 과정을 통해 한 단계 성장하였음을 확인할 수 있군.
 ＊확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.<a class="src-tag ans" href="#ev45">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(성장)로 감상한다.</p><p>화자는 뿌리로부터 멀어지며 성장하는 것이지, ‘뿌리로부터 온 존재’임을 인정하며 성장하는 것은 아니다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>믿음의 대상 변화.</td></tr><tr><td>②</td><td>오답</td><td>흩날릴 준비=예비된 비상.</td></tr><tr><td>③</td><td>오답</td><td>멀어질수록 길이 늘어남.</td></tr><tr><td>④</td><td>오답</td><td>어딘가를 향한 지향.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘뿌리로부터 온 존재’ 인정=성장 계기 아님.</td></tr></tbody></table></div></details>
 </div>
