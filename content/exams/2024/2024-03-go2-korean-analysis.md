@@ -160,7 +160,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="src-label">(가) 대화</p>
   <p>학생1: <span class="ev" id="ev-q4-5">과제가 ‘공동체 문제 해결 건의문 쓰기’지? 학교생활 대상으로 하자.</span><a class="ev-tag" href="#q4-5">4-⑤</a></p>
   <p>학생2: <span class="ev" id="ev-q6-1">아르바이트 영상 기억나? 사례 위주여서 구체적 대처 방안은 알기 힘들었어.</span><a class="ev-tag" href="#q6-1">6-①</a></p>
-  <div class="seg" id="segA"><p class="seg-label">[A]</p>
+  <div class="seg" id="segA-s1"><p class="seg-label">[A]</p>
   <p>학생3: <span class="ev ans" id="ev5a">나도 그 영상이 유익했어. 사례 일부는 대부분 학생이 겪는 문제라고 신문에서 보도된 적 있어.</span><a class="ev-tag ans" href="#q5-4">5-④</a> <span class="ev" id="ev-q6-2">영상 시청에만 그치고 추가 프로그램이 없어 아쉬웠어.</span><a class="ev-tag" href="#q6-2">6-②</a></p></div>
   <p>학생1: <span class="ev" id="ev-q4-4">내용 측면(대처 방안 부족)·활동 측면(후속 프로그램 없음)으로 정리되겠어.</span><a class="ev-tag" href="#q4-4">4-④</a> 자율활동 프로그램을 건의하자. 어떤 게 있을까?</p>
   <p>학생3: 퀴즈 프로그램은 어때? 영상 사례로 질문, 대처 방안을 답으로.</p>
@@ -325,7 +325,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><span class="ev ans" id="ev8b">도입 이전엔 장애인 접근성을 위해 전용 시설(휠체어 리프트)을 따로 뒀는데, 이것이 장애 유무로 사람을 구분 짓는다는 문제가 제기됐다. 1980년대에 이를 해결하려 장애와 무관하게 모두 접근 가능하도록 설계하는 유니버설 디자인이 도입됐다.</span><a class="ev-tag" href="#q8-4">8-ㄹ</a><a class="ev-tag" href="#q10-1">10-①</a></p>
   <p>현재는 취지가 확대돼 <span class="ev" id="ev-q10-3">연령·질병·언어 등 신체적·인지적 차이와 무관하게 모두 접근하도록 설계한다.</span><a class="ev-tag" href="#q10-3">10-③</a> 구현 방법도 다양해 — <span class="ev" id="ev-q10-4">힘이 약해도 쓸 수 있는 조작, 다치지 않게 한 안전 설계</span><a class="ev-tag" href="#q10-4">10-④</a>, 언어 능력이 부족해도 이해하도록 그림을 넣은 표지판 등.</p>
   <p><span class="ev ans" id="ev9">고령화로 필요성이 강조되지만, 사회 구성원의 관심은 저조하고 비용 때문에 경제적 손해라는 인식도 있다. 그러나 장기적으로는 유니버설 디자인으로 사회적 비용이 줄 수도 있다.</span><a class="ev-tag ans" href="#q9-1">9-[A]</a><a class="ev-tag" href="#q10-5">10-⑤</a></p>
-  <div class="seg" id="segA"><p class="seg-label">[A] (마무리)</p><p class="muted">9번에서 작성 — 우리 사회 의식 개선 + 학생들이 지녀야 할 자세.</p></div>
+  <div class="seg" id="segA-s2"><p class="seg-label">[A] (마무리)</p><p class="muted">9번에서 작성 — 우리 사회 의식 개선 + 학생들이 지녀야 할 자세.</p></div>
 </div>
 
 <div class="q-block" id="prob8">

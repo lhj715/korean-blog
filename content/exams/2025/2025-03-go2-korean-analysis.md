@@ -158,10 +158,10 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[4 ~ 7] (가)는 ‘정보 보안 동아리’ 대화, (나)는 이를 바탕으로 ‘학생1’이 작성한 글이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="src-label">(가) 대화</p>
   <p><span class="ev" id="ev4a">학생1: ‘생체 인식 정보’ 글을 교지에 싣기로 한 거 기억하지? 어떤 내용이 좋을지 이야기해 보자.</span><a class="ev-tag" href="#q4-5">4-⑤</a></p>
-  <div class="seg" id="segA"><p class="seg-label">[A] 개념 논의</p>
+  <div class="seg" id="segA-s1"><p class="seg-label">[A] 개념 논의</p>
   <p>학생2: 생체 정보 중 특정 개인을 인증·식별하려 처리하는 정보가 생체 인식 정보야. / 학생3: <span class="ev" id="ev5a">지문·음성이 그렇지. 근데 일반 생체 정보로 보는 자료도 있어</span><a class="ev-tag" href="#q5-1">5-①</a> — 구분이 모르겠어. / 학생2: <span class="ev" id="ev5b">‘둘이 어떻게 구분되는지 알고 싶다는 거지?’ 인증·식별에 쓰면 생체 인식 정보, 성별 등 확인에 쓰면 일반 생체 정보야.</span><a class="ev-tag" href="#q5-2">5-②</a> / 학생3: <span class="ev ans" id="ev5">친구들과 얘기해 보니 친구들도 이 둘을 잘 구분 못하더라고.</span><a class="ev-tag ans" href="#q5-5">5-[A]</a> 차이점을 설명하면 도움이 될 거야.</p></div>
   <p>학생2: 지문 같은 정보는 사람마다 달라 그 자체로 개인을 확인하고, 변경이 어려워. / 학생3: 그럼 타인이 쉽게 못 써 안전하겠네. / 학생2: 외울 필요 없어 편리하지만, 유출되면 피해가 커. / 학생2: 신원 도용에 악용되고, 비밀번호와 달리 변경이 어렵거든.</p>
-  <div class="seg" id="segB"><p class="seg-label">[B] 보호 방안 논의</p>
+  <div class="seg" id="segB-s1"><p class="seg-label">[B] 보호 방안 논의</p>
   <p>학생3: 처리자는 이용자에게 수집·이용 목적을 알리고 동의를 받아야 하고, 목적 외로 쓰지 말아야 해. / 학생2: <span class="ev" id="ev5d">유출돼도 알아볼 수 없게 암호화해 저장해야 해.</span><a class="ev-tag" href="#q5-3">5-③</a> / 학생3: <span class="ev" id="ev5c">동의해. 암호화하면 유출돼도 위·변조 피해를 막을 수 있어.</span><a class="ev-tag" href="#q5-4">5-④</a> / 학생2: 이용자도 과도 수집·목적 외 사용을 점검해야 해.</p></div>
   <p class="src-label">(나) 글</p>
   <p>생체 인식 정보는 인증·식별 목적으로 처리되는 정보로 일반 생체 정보와 구분된다. <span class="ev" id="ev6a">휴대 전화 잠금 해제·은행 거래 등에 활용된다.</span><a class="ev-tag" href="#q6-1">6-①</a> 그 자체로 개인을 식별하고 변경이 어려워 안전·편리하나, 유출 시 신원 도용에 악용돼 피해가 크고 오래간다.</p>
@@ -316,7 +316,7 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>높은 조명탑의 빛이 너무 밝아 암막 커튼·안대를 써 봐도 편히 쉴 수 없어 스트레스가 큽니다. 또 호루라기·공 튕기는 소리·고함이 들려 놀랍니다. <span class="ev" id="ev8-1">휴대폰으로 소음을 재니 72dB이 나왔고, 특히 밤에 더 크게 들립니다.</span><a class="ev-tag" href="#q8-1">8-①</a></p>
   <p><span class="ev ans" id="ev8">불편 해소를 위해 우선 조명탑 등에 차광판을 달고, 조명탑을 21시에 소등하기를 건의합니다(가로등이 있어 산책은 가능).</span><a class="ev-tag ans" href="#q8-5">8-⑤</a></p>
   <p>또 소음 자제 현수막을 부착해 주십시오(현재 현수막은 안전 주의만 안내). 야간 소음이 휴식을 방해한다는 문구를 넣어 주세요. 그리고 실시간 소음 알림판을 운영해 이용자가 경각심을 갖게 해 주세요.</p>
-  <div class="seg" id="segA"><p class="seg-label">[A] (마무리, 고쳐쓰기 대상)</p>
+  <div class="seg" id="segA-s2"><p class="seg-label">[A] (마무리, 고쳐쓰기 대상)</p>
   <p>제가 건의한 내용이 수용되기 어려울 수도 있습니다. 하지만 저의 건의를 수용해 주신다면 제가 저녁에 잘 쉴 수 있을 것입니다. <span class="ev" id="ev10-1"><span class="muted">다목적 운동장의 시설을 현대화시켜 주세요.</span></span><a class="ev-tag" href="#q10-1">10-①</a> 감사합니다.</p></div>
 </div>
 
@@ -1180,10 +1180,10 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>석주호 검사가 다시 북호정에 와 활을 골랐다. 노인은 새 활만 내왔다. “㉠<u>전에 쓰던 것은 없습니까?</u>” 주호는 <span class="ev" id="ev33a">‘물건이라도 그럴듯한 것을 지니는 게 나을 법했다’</span><a class="ev-tag" href="#q33-1">33-①</a>며 내력 있는 활을 원했다. 노인이 2단 활을 쏘던 노인의 활을 지목했으나, <span class="ev" id="ev33-2">㉡<u>주호는 눈으로 다른 것을 찾고 있었다.</u></span><a class="ev-tag" href="#q33-2">33-②</a> 결국 그 활로 정하고, 노인은 ‘궁대’(활 멜 때 매는 띠)를 주며 <span class="ev" id="ev34a">“법도도 법도지만 마음이 다르오”</span><a class="ev-tag" href="#q34-1">34-①</a>라 했다.</p>
   <p class="muted">[중략] 석주호가 부른 지역 유지들이 노인의 딸에게 관심을 보이며 활 솜씨 시범을 강청한다.</p>
   <p>유지들은 <span class="ev" id="ev34b">물러서지 않고 굳이 시범을 강청했다.</span><a class="ev-tag" href="#q34-3">34-③</a> 노인은 화가 나 거절했으나 그들은 물러서지 않았다.</p>
-  <div class="seg" id="segA"><p class="seg-label">[A]</p>
+  <div class="seg" id="segA-s7"><p class="seg-label">[A]</p>
   <p>석주호는 그 요구에서 묘한 희롱기를 느끼면서도, <span class="ev ans" id="ev32a">‘아름다운 것은 충분히 자랑되고 칭찬받아야 한다. 궁도에 바른 이해를 가지려는 이 석주호는 그럴 권리가 있다’고 생각했다.</span><a class="ev-tag ans" href="#q32-4">32-④</a> 그는 ㉢<span class="ev ans" id="ev-q33-3"><u>노인보다 더 엄숙하고 법정처럼 고압적인 목소리</u></span><a class="ev-tag ans" href="#q33-3">33-㉢</a>로 시범을 강조했다.</p></div>
   <p>노인은 힘이 빠져 딸을 불렀고, 여인은 석양에 활을 쏘았다. 모두 “아름답습니다”라며 만족해 내려갔다. 그러나 노인은 그날 저녁을 들지 않고 ‘상처받은 짐승처럼’ 신음했고, 여인은 어두운 부엌에 말없이 앉았다. <span class="ev ans" id="ev31s">다만 소년만이 여느 때처럼 열심히 숟갈질을 했다.</span><a class="ev-tag ans" href="#q31-2">31-②</a></p>
-  <div class="seg" id="segB"><p class="seg-label">[B]</p>
+  <div class="seg" id="segB-s7"><p class="seg-label">[B]</p>
   <p>다음 새벽에도 노인은 같은 태도로 활쏘기를 살펴 주었다. <span class="ev" id="ev33-4">㉣<u>주호는 그들에게 무슨 욕이라도 보인 것 같은 생각</u>이 들었다.</span><a class="ev-tag" href="#q33-4">33-④</a> 노인은 다시 의연했다. <span class="ev ans" id="ev32b">㉤주호는 어딘지 서운한 느낌이었다. 그러나 그 편이 더 좋았다. <span class="ev ans" id="ev34c">두려운 마음으로 노인과 활에 순종하려고 했다.</span></span><a class="ev-tag ans" href="#q32-4b">32-④</a><a class="ev-tag ans" href="#q34-5">34-⑤</a></p></div>
   <p class="muted" style="text-align:right">— 이청준, 「과녁」</p>
 </div>
@@ -1331,11 +1331,11 @@ summary: "2025년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[35 ~ 38] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p>두 글(김희경·장수정)의 우열을 못 가리자 <span class="ev" id="ev35c">좌승상 최후가 ‘둘을 임금 앞에서 비교하자’고 아뢰었다.</span><a class="ev-tag" href="#q35-5">35-⑤</a> 호명하니 김희경(아버지 김정)과 장수정(아버지 장자영)이었다. 장수정은 곧 남복한 <strong>장선빙</strong>이다.</p>
-  <div class="seg" id="segA"><p class="seg-label">[A]</p>
+  <div class="seg" id="segA-s8"><p class="seg-label">[A]</p>
   <p>김희경은 장자영의 아들이라는 말에 <span class="ev ans" id="ev37a">‘장 소저는 왜 나에게 혼자라고 했는가? 혹시 나를 속인 것인가?’ 의심하다 ‘동명이인인가?’ 생각했다.</span><a class="ev-tag ans" href="#q37-4">37-[A]</a> 임금은 ‘옥을 위해 진주를 버릴 수 없다’며 둘 다 등용했다.</p></div>
   <p class="muted">[중략] 반란을 진압한 장선빙을 임금이 사위 삼으려 하자, 장선빙은 정체를 밝히는 표를 올린다.</p>
   <p>임금이 답했다 — ‘무슨 죄를 청하느냐. … <span class="ev" id="ev35f">군신의 의와 부자의 정을 겸하였다.</span><a class="ev-tag" href="#q35-1">35-①</a> … 병부 상서는 여자에게 맞지 않아 거두지만, 태학사는 그대로 두어 공에 감사한다.’ <span class="ev ans" id="ev35">장선빙이 답을 받아 황공해 사양했으나, 임금이 듣지 않아 태학사 관을 받았다. 그 뒤 집으로 돌아와 사당에서 ‘여자로 돌아가겠다’ 고하고 의복을 바꿔 입으니 요조숙녀가 되었다.</span><a class="ev-tag ans" href="#q35-4">35-④</a></p>
-  <div class="seg" id="segB"><p class="seg-label">[B]</p>
+  <div class="seg" id="segB-s8"><p class="seg-label">[B]</p>
   <p>임금이 표를 신하들에게 보이자, <span class="ev ans" id="ev37b">김희경도 이 표를 보고 가슴이 철렁해 넋이 나간 채 멍하니 있다가, 날이 저물어서야 진정해 표를 소매에 넣고 집으로 돌아왔다.</span><a class="ev-tag ans" href="#q37-4b">37-[B]</a></p></div>
   <p>김정이 표를 보고 ‘여자가 칼로 적장을 베다니 기특하다’ 감탄했다. <span class="ev ans" id="ev36">김정이 김희경에게 ‘장 소저가 혼약을 적고 수절하려 하니 너의 골칫거리가 될 듯하다. 옥란·명월 공주와도 연을 맺었으니 어찌하려느냐?’</span><a class="ev-tag ans" href="#q36-3">36-③</a>고 했다. 김희경은 <span class="ev" id="ev35b">‘임금이 어질고 밝으시니 신하의 정을 헤아릴 것’</span><a class="ev-tag" href="#q35-3">35-③</a>이라 답했다.</p>
   <p class="muted" style="text-align:right">— 작자 미상, 「금환기봉」</p>

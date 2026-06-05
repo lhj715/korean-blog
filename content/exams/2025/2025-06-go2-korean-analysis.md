@@ -316,7 +316,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>당신은 반려동물을 키워 본 적이 있는가? 국내 반려동물 양육 인구는 2010년 약 17.4%에서 2023년 약 30%로 늘었다. 이 증가가 관련 산업의 활성화로 이어진 것이 ‘펫코노미’다. <span class="ev ans" id="ev5">‘펫코노미(petconomy)’는 ‘펫(pet)’과 ‘이코노미(economy)’가 결합한 신조어로, 반려동물 관련 시장·산업을 일컫는다.</span><a class="ev-tag ans" href="#q8-1">8-㉠</a><a class="ev-tag" href="#q8-3">8-③</a><a class="ev-tag" href="#q8-4">8-④</a><a class="ev-tag" href="#q8-6">8-⑥</a> 반려동물을 가족으로 여기는 ‘펫팸족’이 늘며 사료·간식·용품도 다양화·고급화되고 있다.</p>
   <p>실제로 고가의 기능성 사료·수제 간식이 인기다. <span class="ev ans" id="ev6">또 펫코노미는 서비스업으로 확장돼 미용실·동물 병원은 물론 반려동물 유치원·행동 교정 센터, 카페·숙박업소, 전용 장례식장까지 생겨났다.</span><a class="ev-tag ans" href="#q8-1">8-㉡</a><a class="ev-tag ans" href="#q6-1">6-①</a><a class="ev-tag" href="#q8-5">8-⑤</a> 이런 추세로 펫코노미는 앞으로도 꾸준한 성장이 예상된다.</p>
   <p>펫코노미 성장으로 반려동물을 더 잘 돌볼 환경이 됐지만, 고급화로 양육 비용이 늘고 있다. 특히 의료비는 제도가 미비해 한 번에 큰 비용이 들기도 한다. 비용 부담은 양육 포기로 이어지기도 해 대책이 필요하다.</p>
-  <div class="seg" id="segA"><p class="seg-label">[A] (마지막 문단, 고쳐쓰기 대상)</p>
+  <div class="seg" id="segA-s2"><p class="seg-label">[A] (마지막 문단, 고쳐쓰기 대상)</p>
   <p>펫코노미의 성장은 사람과 동물이 주인과 소유물의 관계에서 더불어 살아가는 관계로 변화하고 있다. 펫코노미의 성장이 단순히 경제 지표의 변화에 그치지 않으려면 비싼 사료나 간식만 사주면 안 될 것이다.</p></div>
 </div>
 
@@ -1227,7 +1227,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>사람들은 하산 아저씨를 두려워했다. 겁을 준 적도 없는데, 그 이유는 ‘자신들과 다르다는 사실 하나뿐’이었다 — 콧수염을 길러서, 눈이 더 깊어서. 두려워하지 않는 건 ‘자신과 다르다는 이유로 경멸해도 좋다는 교육을 받은 적 없는’ 갓난아이들뿐이었다.</p>
   <p class="muted">(중략)</p>
   <p>나는 스크랩한 얼굴들을 재배열해 얼굴로 이루어진 세계지도를 만들었다. 옆 얼굴과 아주 작은 차이만 두며 배치하니, 기준이던 ‘전형적 한국인 얼굴’과 점점 딴판이 되어 갔다.</p>
-  <div class="seg" id="segA"><p class="seg-label">[A]</p>
+  <div class="seg" id="segA-s7"><p class="seg-label">[A]</p>
   <p><span class="ev ans" id="ev24">내 지도에서 한국인은 중국인이 되기도, 아랍인이 되기도 했다. 대륙을 넘어 아프리카인·유럽인이 되었고, 스칸디나비아 통나무집·북극 이글루·파타고니아 목장에 살았다. 반얀 나무 해먹과 정글 오두막에서 잠들었고, 남십자성과 북십자성을 동시에 보며 낙타와 야크를 타고 돌아다녔다.</span><a class="ev-tag ans" href="#q31-2">31-②</a><a class="ev-tag" href="#q31-1">31-①</a><a class="ev-tag" href="#q31-3">31-③</a><a class="ev-tag" href="#q31-4">31-④</a><a class="ev-tag" href="#q31-5">31-⑤</a><a class="ev-tag" href="#q32-5">32-⑤</a><a class="ev-tag" href="#q34-1">34-①</a><a class="ev-tag" href="#q34-2">34-②</a></p></div>
   <p>나는 완성된 지도를 하산 아저씨에게 보여 주었다. <span class="ev ans" id="ev25">그는 아침에 정육점에 갔다가 문을 열지 못하고 오래도록 바라만 보다 돌아와, 안절부절못하다 지쳐 잠들었다.</span><a class="ev-tag ans" href="#q32-2">32-②</a><a class="ev-tag" href="#q32-1">32-①</a> 금식 기간이라 물조차 마시지 않아 입술이 갈라졌다. 기도하러 깨어난 그가 지도를 보았다.</p>
   <p>“너는 <span class="ev ans" id="ev26">사람과 사람을 연결해주는 보이지 않는 끈</span><a class="ev-tag ans" href="#q33-5">33-⑤</a><a class="ev-tag" href="#q33-1">33-①</a><a class="ev-tag" href="#q33-2">33-②</a><a class="ev-tag" href="#q33-3">33-③</a><a class="ev-tag" href="#q33-4">33-④</a>을 발견한 것 같구나.” “그걸 가르쳐준 사람은 아저씨예요. 아저씨는 어떤 한국인보다 한국인답고 어떤 터키인보다 터키인다워요.” “분간이 되지 않는다는 말이겠지.” “현실에서는 불가능한 꿈같은 거죠.”</p>
@@ -1236,7 +1236,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob31">
-  <p class="q-stem">31. [A]의 서술상 특징으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
+  <p class="q-stem">31. [A]의 서술상 특징으로 가장 적절한 것은? <a class="src-tag" href="#segA-s7">[A] 보기</a></p>
   <ul class="q-opts">
     <li id="q31-1">① 인물의 외양을 구체적으로 묘사한다.<a class="src-tag" href="#ev24">오답 근거</a></li>
     <li id="q31-2">② 특정 소재를 바탕으로 상상한 장면을 나열한다.<a class="src-tag ans" href="#ev24">정답 근거</a></li>
@@ -1705,7 +1705,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted">(중략)</p>
   <p>봉과 선이 호왕에게 외쳤다. <span class="ev ans" id="ev37">“개 같은 호왕은 들으라. 네가 강포만 믿고 범람한 뜻을 두매 우리 황제가 진노하사 네 죄를 물으라 하시니, 나의 부친을 모시고 내게 와 항복하라. 그러지 않으면 너의 나라를 소멸하리라.”</span><a class="ev-tag" href="#q44-1">44-①</a><a class="ev-tag" href="#q44-2">44-②</a><a class="ev-tag" href="#q44-3">44-③</a><a class="ev-tag ans" href="#q44-4">44-④</a><a class="ev-tag" href="#q44-5">44-⑤</a></p>
   <p>호왕이 십여 합을 싸우다 본진으로 달아나자, <span class="ev ans" id="ev38">백봉은 ‘적진에 흉계가 있도다’ 생각해 쫓지 않고 본진으로 돌아왔다.</span><a class="ev-tag" href="#q43-1">43-①</a><a class="ev-tag" href="#q45-4">45-④</a><a class="ev-tag ans" href="#q45-5">45-⑤</a> 호왕은 진문을 닫고 활수를 잡아내 협박했다. “네가 항복 안 하면 네 자식과 함께 죽이리라.”</p>
-  <div class="seg" id="segA"><p class="seg-label">[A]</p><p>활수가 분노했다. “우리 삼부자가 다 죽을지언정 어찌 네게 항복하랴.”</p></div>
+  <div class="seg" id="segA-s10"><p class="seg-label">[A]</p><p>활수가 분노했다. “우리 삼부자가 다 죽을지언정 어찌 네게 항복하랴.”</p></div>
   <p>형제는 ‘한칼로 적진을 소멸코자 하되 진중에 들어가 어찌 옥석을 분별하리오’ 하며 통곡했다.</p>
   <p class="muted" style="text-align:right">— 작자 미상, 「백봉선전」</p>
 </div>

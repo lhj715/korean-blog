@@ -171,7 +171,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>학생3: 전문에 누락된 내용이 있어. 육하원칙에 따라 추가하면 좋겠어.</p>
   <p>학생2: ㉢<u>육하원칙을 고려하면 전문에 활동 목적을 추가하면 되지 않을까?</u></p>
   <p>학생3: 그리고 전문만 보면 ○○생태원만 가고 ○○늪 습지는 안 간 것처럼 전달돼. 체험 장소를 추가해야 하지 않을까?</p>
-  <div class="seg" id="segA"><p class="seg-label">[A]</p><p>학생2: 좋은 생각이야. <span class="ev ans" id="ev6">○○늪 습지도 언급해 주면 활동 장소에 관한 정보를 정확하게 전달할 수 있겠다.</span><a class="ev-tag ans" href="#q6-4">6-④</a></p></div>
+  <div class="seg" id="segA-s1"><p class="seg-label">[A]</p><p>학생2: 좋은 생각이야. <span class="ev ans" id="ev6">○○늪 습지도 언급해 주면 활동 장소에 관한 정보를 정확하게 전달할 수 있겠다.</span><a class="ev-tag ans" href="#q6-4">6-④</a></p></div>
   <p>학생1: 그럼 활동 목적과 장소를 추가해서 전문을 수정할게.</p>
   <p>학생1: 본문은 주요 활동과 참가 학생 소감을 소개했는데 괜찮아?</p>
   <p>학생2: ㉣<span class="ev ans" id="ev-q5-4"><u>○○생태원 외부 활동은 구체적인데, 생태원 안에서 진행한 활동은 방문한 장소만 언급한 점이 아쉬워.</u></span><a class="ev-tag ans" href="#q5-4">5-㉣</a></p>
@@ -248,7 +248,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob6">
-  <p class="q-stem">6. [A], [B]의 발화에 대한 설명으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A]</a> <a class="src-tag" href="#segB">[B]</a></p>
+  <p class="q-stem">6. [A], [B]의 발화에 대한 설명으로 가장 적절한 것은? <a class="src-tag" href="#segA-s1">[A]</a> <a class="src-tag" href="#segB">[B]</a></p>
   <ul class="q-opts">
     <li id="q6-1">① [A]에서 학생2는 견해 차이를 확인한 후 상대의 발화 내용을 수용한다.</li>
     <li id="q6-2">② [A]에서 학생2는 학생3이 제안한 방안에 객관적 자료를 추가로 요청한다.</li>
@@ -340,7 +340,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>우선, 정류장의 지속적인 유지 보수가 필요합니다. 바닥이 고르지 않고 파손된 벤치가 많아 사고가 잦습니다. 시설을 주기적으로 점검·수리하면 안전을 확보할 수 있습니다.</p>
   <p>다음으로, 미끄러짐 사고 방지 대책이 필요합니다. 비·눈 오는 날 경계석이 미끄러워 넘어지는 사고가 빈번합니다. 경계석을 수시로 점검하는 등 대책을 마련하면 안전하게 이용할 수 있습니다.</p>
   <p>마지막으로, 주변 불법 주정차 단속 강화를 건의합니다. 불법 주정차로 버스가 정차 공간이 부족해 도로 중간에 서고, 승객이 도로에서 승하차하는 위험에 놓입니다. 단속을 강화하면 차량 충돌 사고를 예방할 수 있습니다.</p>
-  <div class="seg" id="segA"><p class="seg-label">[A] (마무리)</p><p class="muted">10번에서 작성 — 건의가 수용되면 구민에게 도움이 된다는 기대 효과.</p></div>
+  <div class="seg" id="segA-s2"><p class="seg-label">[A] (마무리)</p><p class="muted">10번에서 작성 — 건의가 수용되면 구민에게 도움이 된다는 기대 효과.</p></div>
 </div>
 
 <div class="q-block" id="prob8">
@@ -510,7 +510,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[12 ~ 13] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>표준 발음법은 표준어의 실제 발음을 따르되 전통성·합리성을 고려해 정한 원칙이다. 그러나 표준 발음과 일치하지 않는 발음을 하는 경우가 있다.</p>
   <p>㉠<u>제13항</u>에 따르면 홑받침·쌍받침이 모음으로 시작된 형식 형태소와 결합하면 받침을 그대로 뒤 음절 첫소리로 발음한다(연음). 이때 음절의 끝소리 규칙을 적용하지 않고 연음해야 하는데, <span class="ev ans" id="ev11">㉡<u>음절의 끝소리 규칙을 적용하고 연음</u>하여 표준 발음과 일치하지 않는 경우가 있다.</span><a class="ev-tag ans" href="#q12-2">12-ⓑ</a><a class="ev-tag ans" href="#q11-1">11-①</a> 예: ‘무릎이’는 [무르피]인데 [무르비]로 잘못 발음. 또 ㉢<u>구개음화를 잘못 적용</u>하기도 한다(‘솥을’ [소틀]을 [소츨]로).</p>
-  <div class="seg" id="segA">
+  <div class="seg" id="segA-s3">
     <p class="seg-label">[A] 겹받침의 발음</p>
     <p><span class="ev ans" id="ev12">제10항: 겹받침 ‘ㄳ·ㄵ·ㄼㄽㄾ·ㅄ’은 어말·자음 앞에서 [ㄱ·ㄴ·ㄹ·ㅂ](단 ‘밟-’은 [밥], ‘넓죽/넓둥글’은 [넙]). 제11항: 겹받침 ‘ㄺ·ㄻ·ㄿ’은 어말·자음 앞에서 [ㄱ·ㅁ·ㅂ]이지만, 용언 어간 말음 ‘ㄺ’은 ‘ㄱ’ 앞에서 [ㄹ]. 제14항: 겹받침이 모음으로 시작된 형식 형태소와 결합하면 뒤엣것만 뒤 음절 첫소리로 옮기고, 이때 ‘ㅅ’은 된소리.</span><a class="ev-tag ans" href="#q13-2">13-②</a></p>
   </div>
@@ -552,7 +552,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob13">
-  <p class="q-stem">13. [A]를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <a class="src-tag" href="#segA">[A] 보기</a></p>
+  <p class="q-stem">13. [A]를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <a class="src-tag" href="#segA-s3">[A] 보기</a></p>
   <ul class="q-opts">
     <li id="q13-1">① ‘넓다’는 제10항에 따라 [널따]로 발음해야겠군.</li>
     <li id="q13-2">② ‘맑다’는 제11항에 따라 [말따]로 발음해야겠군.<a class="src-tag ans" href="#ev12">정답 근거</a></li>
@@ -1356,7 +1356,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="passage">
   <p class="passage-guide">[34 ~ 37] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
-  <div class="seg" id="segA">
+  <div class="seg" id="segA-s8">
     <p class="seg-label">[A]</p>
     <p>과징금은 의무를 위반한 자에 대한 금전적 제재다. <span class="ev" id="ev-q34-1">벌금과 유사하나, 벌금은 사법 기관, 과징금은 행정청이 부과한다.</span><a class="ev-tag" href="#q34-1">34-①</a><a class="ev-tag" href="#q35-2">35-②</a> <span class="ev ans" id="ev30">과태료는 경미한 행정 법규 위반에 부과하거나 경미한 형사 사범을 범죄자로 만들지 않기 위해 부과하며, 형벌을 대신하는 측면이 있어 그 부과 대상을 형벌의 부과 대상으로 하지 않는 것을 원칙으로 한다.</span><a class="ev-tag ans" href="#q34-2">34-②</a><a class="ev-tag" href="#q34-4">34-④</a> 반면 <span class="ev" id="ev-q34-3">과징금은 불법적 이익을 환수하기 위해 부과하고,</span><a class="ev-tag" href="#q34-3">34-③</a><a class="ev-tag" href="#q37-4">37-④</a> <span class="ev" id="ev-q34-5">형벌과 목적·성격이 달라 동일 위반에 형벌과 별도로 부과할 수 있으며,</span><a class="ev-tag" href="#q34-5">34-⑤</a> <span class="ev ans" id="ev31">위반 행위자가 행정 처분에 불복하면 행정 소송을 제기할 수 있다.</span><a class="ev-tag ans" href="#q35-4">35-④</a></p>
   </div>
@@ -1366,7 +1366,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob34">
-  <p class="q-stem">34. [A]에서 알 수 있는 내용으로 가장 적절한 것은? <a class="src-tag" href="#segA">[A] 보기</a> <span class="q-rate">오답률 48.2%</span></p>
+  <p class="q-stem">34. [A]에서 알 수 있는 내용으로 가장 적절한 것은? <a class="src-tag" href="#segA-s8">[A] 보기</a> <span class="q-rate">오답률 48.2%</span></p>
   <ul class="q-opts">
     <li id="q34-1">① 행정청은 동일 위반 행위에 벌금과 과징금 모두를 부과할 수 있다.<a class="src-tag" href="#ev-q34-1">오답 근거</a></li>
     <li id="q34-2">② 행정청은 경미한 형사 사범이 형벌의 부과 대상이 되지 않도록 과태료를 부과할 수 있다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
@@ -1522,7 +1522,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   입으로 말을 한즉 입 하나로 어이하리</u></span><a class="ev-tag ans" href="#q38-3">38-③</a><a class="ev-tag" href="#q38-1">38-①</a><a class="ev-tag" href="#q38-2">38-②</a><a class="ev-tag" href="#q38-4">38-④</a><a class="ev-tag" href="#q38-5">38-⑤</a><br>
   (…) 금강산 좋은 소문 보태었다 하였더니<br>
   이제야 직접 보니 말 모자라 걱정일세</p>
-  <div class="seg" id="segA"><p class="seg-label">[A] 백탑을 찾는 험로</p>
+  <div class="seg" id="segA-s9"><p class="seg-label">[A] 백탑을 찾는 험로</p>
   <p class="verse">폭포수 떨어지는데 겨울 눈 그쳐 있다<br>
   얼음을 건너가니 동지 섣달 경(景)이로다<br>
   길은 끊어져 있고 갈 곳이 전혀 없다<br>
@@ -1620,7 +1620,7 @@ summary: "2025년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q40-1">① [A]·[B] 모두 ‘백탑’을 찾아가는 과정을 시간 흐름에 따라 보여 준다.</li>
     <li id="q40-2">② [A]·[B] 모두 계절적 배경 소재(눈·얼음)로 관찰한 자연을 제시한다.</li>
     <li id="q40-3">③ [B]는 [A]와 달리 청각 어휘(‘콸콸’)로 물소리를 생동감 있게 표현한다.</li>
-    <li id="q40-4">④ [A]는 일행에게 특정 행위를 지시한 이유를, [B]는 일행이 동참을 원하지 않는 이유를 밝힌다.<a class="src-tag ans" href="#segA">정답 근거[A] 보기</a><a class="src-tag ans" href="#ev-q40-4">정답 근거</a></li>
+    <li id="q40-4">④ [A]는 일행에게 특정 행위를 지시한 이유를, [B]는 일행이 동참을 원하지 않는 이유를 밝힌다.<a class="src-tag ans" href="#segA-s9">정답 근거[A] 보기</a><a class="src-tag ans" href="#ev-q40-4">정답 근거</a></li>
     <li id="q40-5">⑤ [A]는 비유 나열로 ‘백탑’을 보고 싶은 간절함을, [B]는 섬세한 작업에 비유해 길의 위험함을 드러낸다.</li>
   </ul>
   <details class="solution">
