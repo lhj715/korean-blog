@@ -461,7 +461,7 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[31 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>(가) 갈밭 속을 간다. 젊은 시인과 함께가노라면나는 혼자였다. 누구나갈밭 속에서는 일쑤동행을 잃기 마련이었다. 성형(成兄) 성형(成兄) ㉠아무리 그를 불러도나의 음성은내면으로 되돌아오고, 이미 나는갈대 안에 있었다. 바람이 부는 것도 아닌데갈밭은어석어석 흔들린다. 갈잎에는 갈잎의 바람백발에는 백발의 바람. 젊은 시인은저편 강기슭에서 나를 부른다. ㉡하지만 이미나는 응답할 수 없다. 나의 음성은내면으로 되돌아오고어쩔 수 없이 나도흔들리고 있었다. - 박목월, ｢하단에서｣ - (나) 참 늙어 보인다하늘 길을 가면서도 무슨 생각 그리 많았던지함부로 곧게 뻗어 올린 가지 하나 없다㉢멈칫멈칫 구불구불태양에 대한 치열한 사유에 온몸이 부르터늙수그레하나 열매는 ㉣애초부터 단단하다떫다풋생각을 남에게 건네지 않으려는 마음 다짐독하게, 꽃을, 땡감을, 떨구며지나는 바람에 허튼 말 내지 않고아니다 싶은 가지는 툭 분질러 버린다단호한 결단으로 가지를 다스려<span class="ev ans" id="ev32">영혼이 가벼운 ㉤새들마저 둥지를 틀지 못하고</span><a class="ev-tag ans" href="#q32-5">32-⑤</a>앉아 깃을 쪼며 미련 떨치는 법을 배운다보라가을 머리에 인 밝은 열매들늙은 몸뚱이로 어찌 그리 예쁜 열매를 매다는지그뿐눈바람 치면 다시 알몸으로죽어 버린 듯 묵묵부답 동안거에 드는- 함민복, ｢감나무｣ -</p>
+  <p>(가) 갈밭 속을 간다. 젊은 시인과 함께가노라면나는 혼자였다. 누구나갈밭 속에서는 일쑤동행을 잃기 마련이었다. 성형(成兄) 성형(成兄) ㉠<span class="ev" id="ev-q32-1">아무리 그를 불러도</span><a class="ev-tag" href="#q32-1">32-①</a>나의 음성은내면으로 되돌아오고, 이미 나는갈대 안에 있었다. 바람이 부는 것도 아닌데갈밭은어석어석 흔들린다. 갈잎에는 갈잎의 바람백발에는 백발의 바람. 젊은 시인은저편 강기슭에서 나를 부른다. ㉡<span class="ev" id="ev-q32-2">하지만 이미나는 응답할 수 없다.</span><a class="ev-tag" href="#q32-2">32-②</a> 나의 음성은내면으로 되돌아오고어쩔 수 없이 나도흔들리고 있었다. - 박목월, ｢하단에서｣ - (나) 참 늙어 보인다하늘 길을 가면서도 무슨 생각 그리 많았던지함부로 곧게 뻗어 올린 가지 하나 없다㉢<span class="ev" id="ev-q32-3">멈칫멈칫 구불구불</span><a class="ev-tag" href="#q32-3">32-③</a>태양에 대한 치열한 사유에 온몸이 부르터늙수그레하나 열매는 ㉣<span class="ev" id="ev-q32-4">애초부터 단단하다</span><a class="ev-tag" href="#q32-4">32-④</a>떫다풋생각을 남에게 건네지 않으려는 마음 다짐독하게, 꽃을, 땡감을, 떨구며지나는 바람에 허튼 말 내지 않고아니다 싶은 가지는 툭 분질러 버린다단호한 결단으로 가지를 다스려<span class="ev ans" id="ev32">영혼이 가벼운 ㉤새들마저 둥지를 틀지 못하고</span><a class="ev-tag ans" href="#q32-5">32-⑤</a>앉아 깃을 쪼며 미련 떨치는 법을 배운다보라가을 머리에 인 밝은 열매들늙은 몸뚱이로 어찌 그리 예쁜 열매를 매다는지그뿐눈바람 치면 다시 알몸으로죽어 버린 듯 묵묵부답 동안거에 드는- 함민복, ｢감나무｣ -</p>
 </div>
 
 <div class="q-block" id="prob31">
@@ -471,53 +471,17 @@ layout: "exam"
     <li id="q31-3">③ (나)는 감탄사를 활용하여 화자의 고조된 감정을 드러내고 있다.</li>
     <li id="q31-4">④ (가)와 (나)는 모두 명령형 어조를 사용하여 시적 긴장감을 높이고 있다.</li>
     <li id="q31-5">⑤ (가)와 (나)는 모두 동일한 종결 어미를 반복하여 리듬감을 형성하고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)에 ‘모두’ 나타나는 표현을 찾는다.</p><p>(가)·(나) 모두 ‘-다’로 끝나는 <strong>동일한 종결 어미를 반복</strong>해 리듬감을 형성한다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>(가) 직유법으로 대상 선명화 아님.</td></tr><tr><td>②</td><td>오답</td><td>(가) 수미상관 없음.</td></tr><tr><td>③</td><td>오답</td><td>(나) 감탄사로 고조된 감정 표출 아님.</td></tr><tr><td>④</td><td>오답</td><td>명령형 어조 공통 아님.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘-다’ 종결 어미 반복(공통).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob32">
   <p class="q-stem">32. ㉠∼㉤에 대한 이해로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q32-1">① ㉠: 간절함에서 비롯된 화자의 행동을 부각한다.</li>
-    <li id="q32-2">② ㉡: 원하는 행동을 할 수 없는 화자의 처지를 부각한다.</li>
-    <li id="q32-3">③ ㉢: 곧게 뻗은 것 하나 없이 이리저리 구부러진 채 자란 가지의 모습을 부각한다.</li>
-    <li id="q32-4">④ ㉣: 겉모습과 다르게 감나무가 굳은 열매를 가지고 있다는 특성을 부각한다.</li>
+  <ul class="q-opts"><li id="q32-1">① ㉠: 간절함에서 비롯된 화자의 행동을 부각한다.<a class="src-tag" href="#ev-q32-1">오답 근거</a></li>
+    <li id="q32-2">② ㉡: 원하는 행동을 할 수 없는 화자의 처지를 부각한다.<a class="src-tag" href="#ev-q32-2">오답 근거</a></li>
+    <li id="q32-3">③ ㉢: 곧게 뻗은 것 하나 없이 이리저리 구부러진 채 자란 가지의 모습을 부각한다.<a class="src-tag" href="#ev-q32-3">오답 근거</a></li>
+    <li id="q32-4">④ ㉣: 겉모습과 다르게 감나무가 굳은 열매를 가지고 있다는 특성을 부각한다.<a class="src-tag" href="#ev-q32-4">오답 근거</a></li>
     <li id="q32-5">⑤ ㉤: 방황하는 존재에게 자신을 내어 주는 감나무의 특성을 부각한다.<a class="src-tag ans" href="#ev32">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉤ ‘새들마저 둥지를 틀지 못하고’가 무엇을 부각하는지 본다.</p><p>㉤은 단호한 감나무에 <strong>새조차 둥지를 틀지 못한다</strong>는 것으로, 미련을 떨치는 단호함을 부각한다. ‘방황하는 존재에게 자신을 내어 주는’ 모습이 아니므로 ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉠ ‘아무리 불러도’=간절한 행동.</td></tr><tr><td>②</td><td>적절</td><td>㉡ ‘응답할 수 없다’=처지.</td></tr><tr><td>③</td><td>적절</td><td>㉢ ‘멈칫멈칫 구불구불’=구부러진 가지.</td></tr><tr><td>④</td><td>적절</td><td>㉣ ‘단단하다’=굳은 열매.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>새조차 깃들지 못함(내어 줌 아님).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob33">
@@ -532,25 +496,7 @@ layout: "exam"
     <li id="q33-4">④ (가)에서는 ‘갈대 안’에 있으면서 ‘바람이 부는 것도 아닌데’ ‘갈밭’이 ‘흔들린다’고 느끼는 것에서 화자가 자연물의 움직임을 통해 불안한 내면을 드러내고 있음을, (나)에서는 ‘무슨 생각’이 ‘많았던지’ ‘참 늙어 보인다’고 한 것에서 화자가 자연물을 통해 인간의 모습을 떠올리고 있음을 알 수 있군.</li>
     <li id="q33-5">⑤ (가)에서는 ‘음성’이 ‘내면으로 되돌아오고’ ‘어쩔 수 없이’ ‘흔들’
 린다는 것에서 화자가 고독감을 인간의 근원적 정서로 받아들이고 있음을, (나)에서는 ‘땡감을, 떨구’게 하는 시련을 겪지 않기 위해 ‘아니다 싶은 가지’를 ‘분질러 버린다’는 것에서 화자가 자연물을 통해 자신을 엄격히 다스리는 삶의 태도를 인식하고 있음을 알 수 있군. 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(고독·소통/자연 관조)로 두 시를 감상한다.</p><p>(나)에서 ‘땡감을 떨구’고 ‘가지를 분질러 버린’ 것은 감나무의 <strong>단호한 태도</strong>를 나타낸다. 이를 다른 의미로 본 ⑤가 적절하지 않다(공식 정답).</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>‘누구나 동행을 잃기 마련’=상황의 보편화.</td></tr><tr><td>②</td><td>적절</td><td>열매→동안거=자연의 순환 인식.</td></tr><tr><td>③</td><td>적절</td><td>‘치열한 사유’=이상 도달 자세.</td></tr><tr><td>④</td><td>적절</td><td>갈밭 흔들림=불안한 내면 / 늙어 보임=인간 투영.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>땡감 떨굼·가지 분지름=단호함(공식 정답).</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set9" class="set-anchor"></div>
