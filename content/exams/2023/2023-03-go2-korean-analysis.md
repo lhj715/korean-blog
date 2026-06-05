@@ -387,7 +387,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob9">
-  <p class="q-stem">9. 다음은 초고를 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">9. 다음은 초고를 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 51.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 자료 &gt;</p>
     <p><b>(가) 전문가 인터뷰</b> — "패스트 패션 브랜드들이 1~2주 간격으로 새 제품을 출시하면서 유행 주기는 더욱 짧아지고 있습니다. 이로 인한 의류의 과잉 생산으로 많은 자원이 소모됩니다."</p>
@@ -573,7 +573,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 
 <div class="q-block" id="prob13">
-  <p class="q-stem">13. &lt;보기&gt;의 ㉠에 해당하는 예로 적절한 것은?</p>
+  <p class="q-stem">13. &lt;보기&gt;의 ㉠에 해당하는 예로 적절한 것은? <span class="q-rate">오답률 65.1%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>셋 이상의 형태소로 이루어진 단어의 구조를 파악하기 위해서는 먼저 그 단어를 직접 이루고 있는 두 요소를 파악해야 한다. 예컨대 '볶음밥'은 의미상 '볶음'과 '밥'으로 먼저 나뉜다. '볶음'은 다시 '볶-'과 '-음'으로 나뉜다. 따라서 '볶음밥'은 ㉠<strong>'(어근+접미사)+어근'의 구조로 된 합성어</strong>이다.</p>
@@ -743,7 +743,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 
 <div class="q-block" id="prob16">
-  <p class="q-stem">16. mRNA 백신에 대해 이해한 내용으로 적절한 것은?</p>
+  <p class="q-stem">16. mRNA 백신에 대해 이해한 내용으로 적절한 것은? <span class="q-rate">오답률 69.5%</span></p>
   <ul class="q-opts">
     <li id="q16-1">① 바이러스 대신 인체 내에서 합성된 바이러스 단백질을 항체로 이용하여 면역 반응을 유도한다.</li>
     <li id="q16-2">② 바이러스에 감염되는 경우와 마찬가지로 유전 물질을 통한 세포의 단백질 합성 과정이 수반된다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
@@ -774,7 +774,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob17">
-  <p class="q-stem">17. ㉠을 설명한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">17. ㉠을 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 61.8%</span></p>
   <ul class="q-opts">
     <li id="q17-1">① 인산기가 세포 바깥쪽에, 지방산이 세포질에 접하는 형태로 구성된다.<a class="src-tag ans" href="#ev-q17-1">정답 근거</a></li>
     <li id="q17-2">② 수용체를 통해 특정의 세포 외부 물질을 세포 내부로 진입시킬 수 있다.</li>
@@ -805,7 +805,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob18">
-  <p class="q-stem">18. ⓐ~ⓓ에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">18. ⓐ~ⓓ에 대한 설명으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 77.2%</span></p>
   <p class="seg-label">ⓐ mRNA · ⓑ 인산기 · ⓒ 혈장 단백질 · ⓓ 이온화 지질</p>
   <ul class="q-opts">
     <li id="q18-1">① ⓓ는 ⓐ가 체내 효소에 의해 분해되는 것을 방지하는 인공 외막으로 기능한다.<a class="src-tag" href="#ev-q18-1">오답 근거</a></li>
@@ -837,7 +837,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob19">
-  <p class="q-stem">19. &lt;보기&gt;는 'mRNA - 지질 나노 입자 복합체'의 형성 과정을 나타낸 것이다. 윗글을 참고하여 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">19. &lt;보기&gt;는 'mRNA - 지질 나노 입자 복합체'의 형성 과정을 나타낸 것이다. 윗글을 참고하여 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 67.3%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>산성 용액에 녹인 mRNA와 에탄올에 녹인 이온화 지질을 Y자 형태의 미세관에 일정한 속도로 흘려보낸다. 이렇게 혼합된 용액을 수용성 완충 용액으로 투석 처리하여 pH를 높인다. 그리고 에탄올을 제거하여 균일한 상태의 mRNA - 지질 나노 입자 복합체를 얻어낸다. (단, 이때 에탄올의 pH는 7임.)</p>
@@ -872,7 +872,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob20">
-  <p class="q-stem">20. ㉡의 이유를 추론한 내용으로 가장 적절한 것은?</p>
+  <p class="q-stem">20. ㉡의 이유를 추론한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 79.7%</span></p>
   <ul class="q-opts">
     <li id="q20-1">① 엔도솜 내부의 pH가 낮아짐에 따라 mRNA와 지질 나노 입자 사이에 전기적인 반발력이 발생하기 때문이다.</li>
     <li id="q20-2">② 엔도솜 막의 인산기와 양이온화된 지질이 서로 결합함으로써 mRNA를 둘러싼 엔도솜 막이 붕괴하기 때문이다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
@@ -928,7 +928,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 
 <div class="q-block" id="prob21">
-  <p class="q-stem">21. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
+  <p class="q-stem">21. 윗글의 내용과 일치하지 <strong>않는</strong> 것은? <span class="q-rate">오답률 60.6%</span></p>
   <ul class="q-opts">
     <li id="q21-1">① 주택임대차보호법은 일정한 요건을 갖춘 임차인의 지위를 강화한다.<a class="src-tag" href="#ev21">오답 근거</a></li>
     <li id="q21-2">② 주택 임대차가 체결되면 관할 법원은 임대차 내용을 등기부에 기재해야 한다.<a class="src-tag ans" href="#ev-q24-5">정답 근거</a></li>
@@ -959,7 +959,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob22">
-  <p class="q-stem">22. ㉠, ㉡을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">22. ㉠, ㉡을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 66.5%</span></p>
   <p class="seg-label">㉠ 임차권(채권) · ㉡ 전세권(물권)</p>
   <ul class="q-opts">
     <li id="q22-1">① ㉠을 가진 사람은 원칙적으로는 임대인에게만 계약 내용에 따른 행위를 요구할 수 있다.<a class="src-tag" href="#ev-q22-1">오답 근거</a></li>
@@ -991,7 +991,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob23">
-  <p class="q-stem">23. 주택임대차보호법을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">23. 주택임대차보호법을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 65.2%</span></p>
   <ul class="q-opts">
     <li id="q23-1">① 임차인이 대항력을 갖추면 임차한 주택이 경매되더라도 임차권이 유지될 수 있도록 한다.<a class="src-tag" href="#ev-q23-1">오답 근거</a></li>
     <li id="q23-2">② 임차인이 전입 신고를 하지 않으면 확정일자를 받더라도 계약 기간 동안 우선변제권이 생기지 않는다.<a class="src-tag" href="#ev23">오답 근거</a></li>
@@ -1026,7 +1026,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob24">
-  <p class="q-stem">24. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절한 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">24. 윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절한 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 59.7%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>을이 갑에게 2억 원의 보증금을 지급하고 갑 소유의 A 주택을 2021년 2월 5일부터 2년간 임대하기로 하는 임대차가 갑과 을 사이에 체결되었다. 을은 2021년 2월 5일에 A 주택으로 이사하고 전입 신고를 하였지만 <strong>계약 기간 내내 확정일자는 받지 않았다.</strong> A 주택에 거주해 오던 을은 임대차 만료를 앞두고 이사 갈 집을 구하여 새로운 임대차를 체결하였고, 2022년 12월 4일에 갑에게 기존의 임대차를 연장하지 않겠다는 의사를 밝혔다. 갑은 사정이 생겨 보증금을 제때 돌려주지 못한다고 통보하였다. 갑은 임대차가 만료된 현재까지 보증금을 돌려주지 않고 있다.</p>
@@ -1061,7 +1061,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob25">
-  <p class="q-stem">25. ㉢의 이유를 추론한 것으로 가장 적절한 것은?</p>
+  <p class="q-stem">25. ㉢의 이유를 추론한 것으로 가장 적절한 것은? <span class="q-rate">오답률 62.8%</span></p>
   <ul class="q-opts">
     <li id="q25-1">① 최우선변제권은 사회적 약자를 보호하는 취지에서 인정되는 것이기 때문에</li>
     <li id="q25-2">② 소액임차인이 임대차를 체결할 때 등기부에 기재된 임차권을 알 수 없기 때문에</li>
@@ -1150,7 +1150,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob27">
-  <p class="q-stem">27. ㉠을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">27. ㉠을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 52.7%</span></p>
   <ul class="q-opts">
     <li id="q27-1">① 주거와 여가를 구분하면 일상의 심미화가 가능하다고 보았다.<a class="src-tag ans" href="#ev-q27-1">정답 근거</a></li>
     <li id="q27-2">② 신경과민 상태의 개인이 내면을 보호하려는 자구책이라고 보았다.<a class="src-tag" href="#ev-q27-5">오답 근거</a></li>
@@ -1312,7 +1312,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 
 
 <div class="q-block" id="prob31">
-  <p class="q-stem">31. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">31. (가)와 (나)에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 81.0%</span></p>
   <ul class="q-opts">
     <li id="q31-1">① (가)와 (나)는 모두 명령형 어미를 통해 주제 의식을 드러내고 있다.<a class="src-tag ans" href="#ev31">정답 근거</a></li>
     <li id="q31-2">② (가)와 (나)는 모두 문답의 방식을 통해 현실에 대한 비판을 드러내고 있다.<a class="src-tag" href="#ev-q31-2">오답 근거</a></li>
@@ -1691,7 +1691,7 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob41">
-  <p class="q-stem">41. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">41. [A]와 [B]에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 65.4%</span></p>
   <p class="seg-label">[A] 이생 부친의 말 · [B] 최씨 집안이 전한 말</p>
   <ul class="q-opts">
     <li id="q41-1">① [A]와 [B]는 모두 이생이 겪은 구체적인 사건을 언급하며 상대를 회유하고 있다.</li>
