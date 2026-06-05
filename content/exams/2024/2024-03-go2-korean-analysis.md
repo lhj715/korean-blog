@@ -173,7 +173,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>학생1: 좋아. 도우미로 선생님 부담을 줄이면 수용 가능성이 높겠어. 내가 초고를 써 볼게.</p>
   <p class="src-label">(나) 건의문</p>
   <p>선생님, 지난 영상은 아르바이트 어려움을 다뤄 유익했지만 대처 방안이 부족하고 후속 활동이 없어 아쉬웠습니다. 그래서 두 프로그램을 건의합니다.</p>
-  <p>첫째 <strong>퀴즈 프로그램</strong> — 영상 내용으로 만든 퀴즈로 어려움·대처 방안을 확인합니다. <span class="ev ans" id="ev6b">우리 반 친구들은 퀴즈를 좋아하기에 적극 참여할 것입니다.</span><a class="ev-tag ans" href="#q6-3b">6-③</a> 둘째 <strong>모의 근로 계약서 쓰기</strong> — 계약서 미작성 시 어려움을 예방해 실질적 도움이 됩니다.</p>
+  <p>첫째 <strong>퀴즈 프로그램</strong> — 영상 내용으로 만든 퀴즈로 어려움·대처 방안을 확인합니다. <span class="ev ans" id="ev6b">우리 반 친구들은 퀴즈를 좋아하기에 적극 참여할 것입니다.</span><a class="ev-tag ans" href="#q6-3">6-③</a> 둘째 <strong>모의 근로 계약서 쓰기</strong> — 계약서 미작성 시 어려움을 예방해 실질적 도움이 됩니다.</p>
   <p><span class="ev ans" id="ev7c">선생님께서 프로그램을 준비·운영하시기 힘드실 테니 저희가 도우미를 맡겠습니다</span><a class="ev-tag ans" href="#q7-3">7-③</a> — 퀴즈는 질문 준비·진행, 계약서는 작성 예시 제공으로 부담을 줄이겠습니다.</p>
   <p>건의가 받아들여지면 우리 반 모두가 어려움 대처법을 확인하고 미래를 진지하게 생각하며 서로 가까워질 수 있습니다. 긍정적으로 검토해 주세요.</p>
 </div>
@@ -398,7 +398,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob10">
-  <p class="q-stem">10. 〈보기〉 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">10. 〈보기〉 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 61.1%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p><b>(가) 장애인 인터뷰</b> — 리프트는 소외감을 줌. 엘리베이터는 휠체어·짐 든 사람도 편리.<br>
@@ -488,7 +488,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob12">
-  <p class="q-stem">12. 〈보기〉의 ㉠~㉤에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">12. 〈보기〉의 ㉠~㉤에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 57.0%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>[학습 과제] 세 문장 — ‘철수가 학급 회장이 되었다’ / ‘영희가 철수를 불렀다’ / ‘영희가 학급 회장을 불렀다’.<br>
@@ -524,7 +524,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob13">
-  <p class="q-stem">13. 〈보기〉의 ㉠(어근의 품사를 바꾸는 접사가 붙은 파생어)에 해당하는 예로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">13. 〈보기〉의 ㉠(어근의 품사를 바꾸는 접사가 붙은 파생어)에 해당하는 예로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 74.9%</span></p>
   <ul class="q-opts">
     <li id="q13-1">① 일찍이</li>
     <li id="q13-2">② 마음껏</li>
@@ -679,7 +679,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob17">
-  <p class="q-stem">17. 털 세포에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">17. 털 세포에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 59.3%</span></p>
   <ul class="q-opts">
     <li id="q17-1">① 전기 신호를 발생시켜 털을 휘게 만든다.<a class="src-tag" href="#ev17-1">지문 근거</a></li>
     <li id="q17-2">② 연접한 신경 섬유를 신경 신호를 통해 흥분시킨다.<a class="src-tag ans" href="#ev17-4">지문 근거</a></li>
@@ -741,7 +741,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob19">
-  <p class="q-stem">19. 윗글을 바탕으로 〈보기〉에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">19. 윗글을 바탕으로 〈보기〉에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 78.7%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>이미 반응 중인 털 세포를 새 파동이 또 자극해 영역이 겹치면, 나중 파동을 못 듣는 <b>차폐 현상</b>이 생긴다. A 주파수 파동이 전달된 상태에서 각 주파수가 ‘지각되기 위한 최소 수준(dB)’이 <b>얼마나 증가했는지</b>를 그래프로 나타냈다(정점은 400 Hz 부근).</p>
@@ -924,7 +924,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob24">
-  <p class="q-stem">24. 윗글을 읽은 학생이 〈보기〉에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">24. 윗글을 읽은 학생이 〈보기〉에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 59.5%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>㉮ <b>에피카르모스</b>: 개는 개를, 소는 소를 가장 아름답게 여긴다 — 아름다움의 척도는 그 ‘종(種)’.<br>
@@ -1018,7 +1018,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob26">
-  <p class="q-stem">26. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">26. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 79.4%</span></p>
   <ul class="q-opts">
     <li id="q26-1">① 재량 행위와 달리 기속 행위는 법령상 요건이 충족되면 그 즉시 행정 행위의 효력이 발생한다.<a class="src-tag ans" href="#ev26-1">정답 근거</a></li>
     <li id="q26-2">② 부관은 행정의 효율을 높이는 장점이 있지만 남용될 경우 개인의 권리를 제한할 위험성도 있다.<a class="src-tag" href="#ev26-2">지문 근거</a></li>
@@ -1049,7 +1049,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob27">
-  <p class="q-stem">27. ㉠~㉤에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">27. ㉠~㉤에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 63.1%</span></p>
   <ul class="q-opts">
     <li id="q27-1">① ㉠(정지 조건)이 성취되거나 ㉣(종기)이 도래하면, 주된 행정 행위의 효력이 소멸한다.<a class="src-tag" href="#ev27-1">지문 근거</a></li>
     <li id="q27-2">② ㉠과 ㉤(부담)은 모두 주된 행정 행위의 효력을 제한하는 종속적 규율이다.<a class="src-tag" href="#ev27-2">지문 근거</a></li>
@@ -1080,7 +1080,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob28">
-  <p class="q-stem">28. ㉮의 전제로 가장 적절한 것은?</p>
+  <p class="q-stem">28. ㉮의 전제로 가장 적절한 것은? <span class="q-rate">오답률 72.8%</span></p>
   <ul class="q-opts">
     <li id="q28-1">① 재량 행위에 부관을 붙일지 여부는 행정청의 재량에 따라 결정된다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
     <li id="q28-2">② 부관의 효력이 소멸되면 기속 행위와 재량 행위의 구분이 사라진다.</li>
@@ -1111,7 +1111,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob29">
-  <p class="q-stem">29. ⓐ~ⓒ에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">29. ⓐ~ⓒ에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 78.1%</span></p>
   <ul class="q-opts">
     <li id="q29-1">① 재량 행위에 위법한 부관이 붙은 경우, ⓐ는 그 재량 행위 자체를 취소해야 한다고 본다.</li>
     <li id="q29-2">② 부관만 위법하고 주된 행위는 적법한 경우, ⓑ는 그 부관이 본질적 요소가 아니므로 취소될 수 있다고 본다.</li>
@@ -1142,7 +1142,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob30">
-  <p class="q-stem">30. 윗글을 바탕으로 〈보기〉의 상황을 판단한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">30. 윗글을 바탕으로 〈보기〉의 상황을 판단한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 70.0%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>갑은 재량 행위인 숙박 시설 건축 허가를 신청. 행정청은 허가하며 ‘사용 승인 신청 시까지 담장 설치’ 부관을 붙임. 갑은 위법하다 보아 담장을 안 설치하고, 완공 후 사용 승인을 신청. 갑이 ‘부관만 취소’ 소송을 냈고 법원이 받아들임. (건축 허가 없이 건축은 위법)</p>
@@ -1405,7 +1405,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob36">
-  <p class="q-stem">36. ㉠과 ㉡에 대한 이해로 가장 적절한 것은?</p>
+  <p class="q-stem">36. ㉠과 ㉡에 대한 이해로 가장 적절한 것은? <span class="q-rate">오답률 68.8%</span></p>
   <ul class="q-opts">
     <li id="q36-1">① ‘그’는 ㉠을 목적 추구에 방해가 되는 대상으로, ‘나’는 ㉡을 추구하는 뜻에 방해가 되지 않는 대상으로 인식한다.<a class="src-tag ans" href="#ev36a">정답 근거(㉠)</a><a class="src-tag ans" href="#ev36b">정답 근거(㉡)</a></li>
     <li id="q36-2">② ‘그’는 ㉠으로 인해 자신의 행동에 의구심을 갖게 되고, ‘나’는 ㉡으로 인해 자신의 선택에 만족감을 갖게 된다.</li>
@@ -1471,7 +1471,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob38">
-  <p class="q-stem">38. (다)의 구절과 관련지어 ‘지지(止止)’에 대해 설명한 내용으로 가장 적절한 것은?</p>
+  <p class="q-stem">38. (다)의 구절과 관련지어 ‘지지(止止)’에 대해 설명한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 57.7%</span></p>
   <ul class="q-opts">
     <li id="q38-1">① ‘어찌 해칠 자가 있겠는가?’를 통해 위험을 감수하는 삶의 태도가 중요하다는 믿음을 강조한다.</li>
     <li id="q38-2">② ‘거처를 이렇게 이름한 것’과 관련되어 자신의 본성에 맞는 삶을 실천하려는 글쓴이의 지향을 반영한다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
@@ -1686,7 +1686,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob43">
-  <p class="q-stem">43. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">43. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 64.0%</span></p>
   <ul class="q-opts">
     <li id="q43-1">① 강환이 참소한 후에도 송 시랑은 장 학사에게 정혼을 유지할 뜻을 밝혔다.<a class="src-tag" href="#ev43-1">지문 근거</a></li>
     <li id="q43-2">② 장 학사가 상소를 짓기 전에 강환은 장 학사의 집으로 옥교자와 하인들을 보냈다.<a class="src-tag ans" href="#ev43-2">정답 근거</a></li>
@@ -1748,7 +1748,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob45">
-  <p class="q-stem">45. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">45. 〈보기〉를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 75.4%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>〈옥란전〉에서 혼사는 가문 간 결합으로 가문의 명망을 높이는 수단이다. 주인공 가문은 명망이 떨어질 가능성 때문에 늑혼을 거부하고, 이때 드러난 가문의 취약성은 심각한 위기를 부른다. 주인공과 주변 인물들은 가문 공동체의 일원으로서 위기에 적극 저항한다.</p>
