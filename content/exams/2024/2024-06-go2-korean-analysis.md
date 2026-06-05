@@ -108,16 +108,16 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">3. 발표 내용을 바탕으로 할 때, 〈보기〉의 청중 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p><b>청중1:</b> 밀크티가 홍차 주재료란 걸 알게 돼 좋았어. 알려준 대로 홍차를 우려 마셔 보려 해.<br>
-    <b>청중2:</b> 홍차 이름이 찻물 색 때문이라니 흥미로워. 서양에선 블랙티라 부르던데, 찻잎이 암갈색으로 변한다 했으니 그 때문 아닐까?<br>
-    <b>청중3:</b> 면역력·집중력 효능을 알게 돼 유익했어. 그런데 차의 카페인 부작용은 안 알려줘 아쉬워.</p>
+    <p><b>청중1:</b> <span class="ev" id="ev-q3-4a">밀크티가 홍차 주재료란 걸 알게 돼 좋았어.</span><a class="ev-tag" href="#q3-4">3-④</a> <span class="ev" id="ev-q3-1">알려준 대로 홍차를 우려 마셔 보려 해.</span><a class="ev-tag" href="#q3-1">3-①</a><br>
+    <b>청중2:</b> 홍차 이름이 찻물 색 때문이라니 흥미로워. <span class="ev ans" id="ev-q3-5">서양에선 블랙티라 부르던데, 찻잎이 암갈색으로 변한다 했으니 그 때문 아닐까?</span><a class="ev-tag ans" href="#q3-5">3-⑤</a><br>
+    <b>청중3:</b> <span class="ev" id="ev-q3-4b">면역력·집중력 효능을 알게 돼 유익했어.</span><a class="ev-tag" href="#q3-4">3-④</a> 그런데 <span class="ev" id="ev-q3-3">차의 카페인 부작용은 안 알려줘 아쉬워.</span><a class="ev-tag" href="#q3-3">3-③</a></p>
   </div>
   <ul class="q-opts">
-    <li id="q3-1">① 청중1은 발표를 통해 얻은 정보를 직접 이용해 보려 하는군.</li>
+    <li id="q3-1">① 청중1은 발표를 통해 얻은 정보를 직접 이용해 보려 하는군.<a class="src-tag" href="#ev-q3-1">오답 근거</a></li>
     <li id="q3-2">② 청중2는 발표 내용을 바탕으로 새로운 내용을 추론하고 있군.<a class="src-tag" href="#ev3-2">오답 근거</a></li>
-    <li id="q3-3">③ 청중3은 발표 내용과 관련하여 자신의 배경지식을 떠올리고 있군.</li>
-    <li id="q3-4">④ 청중1과 청중3은 새롭게 알게 된 정보에 대해 긍정적으로 생각하고 있군.</li>
-    <li id="q3-5">⑤ 청중2와 청중3은 발표자가 다루지 않은 내용을 지적하며 아쉬워하고 있군.</li>
+    <li id="q3-3">③ 청중3은 발표 내용과 관련하여 자신의 배경지식을 떠올리고 있군.<a class="src-tag" href="#ev-q3-3">오답 근거</a></li>
+    <li id="q3-4">④ 청중1과 청중3은 새롭게 알게 된 정보에 대해 긍정적으로 생각하고 있군.<a class="src-tag" href="#ev-q3-4a">오답 근거(청중1)</a><a class="src-tag" href="#ev-q3-4b">오답 근거(청중3)</a></li>
+    <li id="q3-5">⑤ 청중2와 청중3은 발표자가 다루지 않은 내용을 지적하며 아쉬워하고 있군.<a class="src-tag ans" href="#ev-q3-5">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -161,12 +161,12 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><b>(가) 토론</b> — 논제 ‘인공지능 판사를 도입해야 한다.’</p>
   <p><b>찬성1(입론):</b> 도입해야 합니다. ① 판사 수는 제한, 분쟁은 증가 — <span class="ev" id="ev6-2">인공지능 판사는 자료를 신속히 조사해 시간·비용을 절약합니다.</span><a class="ev-tag" href="#q6-2">6-②</a> ② <span class="ev" id="ev4-2">특정 이해관계에 얽히지 않아 뇌물 등 비윤리 문제가 없습니다.</span><a class="ev-tag" href="#q4-2">4-②</a> ③ <span class="ev" id="ev4-4">방대한 법전·판례로 판결, 감정에 흔들릴 여지가 없어 ‘고무줄 판결’을 방지합니다.</span><a class="ev-tag" href="#q4-4">4-④</a></p>
   <p class="passage-note">[A] (찬성 입론 직후 반대 신문)</p>
-  <p><b>반대2:</b> 시대적 흐름이라 하셨는데, 그 <span class="ev" id="ev5-1">근거를 제시해 주시겠습니까?</span><a class="ev-tag" href="#q5-1">5-①</a> <b>찬성1:</b> 미국·중국·호주가 이미 도입·활용하고, 에스토니아는 2019년부터 소액 사건을 전담해 효율이 올랐습니다.</p>
+  <p><b>반대2:</b> 시대적 흐름이라 하셨는데, 그 <span class="ev" id="ev5-1">근거를 제시해 주시겠습니까?</span><a class="ev-tag" href="#q5-1">5-①</a><a class="ev-tag" href="#q5-3">5-③</a> <b>찬성1:</b> <span class="ev" id="ev-q5-2">미국·중국·호주가 이미 도입·활용하고, 에스토니아는 2019년부터 소액 사건을 전담해 효율이 올랐습니다.</span><a class="ev-tag" href="#q5-2">5-②</a></p>
   <p class="passage-note">[B] (보고서를 든 반대 신문)</p>
   <p><b>반대2:</b> <span class="ev ans" id="ev5-5b">○○연구소 보고서에 따르면 자율주행차 도입이 어려운 건 윤리적 딜레마 때문입니다. 인공지능 판사도 그 딜레마를 벗어나지 못하는 것 아닐까요?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a> <b>찬성1:</b> <span class="ev" id="ev5-4">반대 측 의견은 충분히 수긍합니다.</span><a class="ev-tag" href="#q5-4">5-④</a> 하지만 사람 판사도 딜레마에 빠집니다. 누가 더 합리적 판결을 하는지를 물어야 합니다.</p>
   <p><b>반대1(입론):</b> 반대합니다. <span class="ev ans" id="ev4-1">기존 법전·판례 학습에 기대므로 과거에 없거나 복잡한 사건엔 불완전한 판단을 하고, 이때 사람 판사가 다시 확인·보완해야 해 처음부터 사람이 한 재판보다 효율이 떨어집니다.</span><a class="ev-tag ans" href="#q4-1">4-①</a> 또 <span class="ev" id="ev4-3">알고리즘 설계자가 인간이라 인간의 문제(인종차별 발언 등)에서 자유롭지 못합니다.</span><a class="ev-tag" href="#q4-3">4-③</a> 끝으로 <span class="ev" id="ev4-5">기존 판결의 불공정(음주 감경 등)을 답습합니다.</span><a class="ev-tag" href="#q4-5">4-⑤</a></p>
   <p class="passage-note">[C] (반대 입론 직후 찬성 신문)</p>
-  <p><b>찬성2:</b> <span class="ev ans" id="ev5-5c">□□대 판결문 분석 보고서에 따르면 대형 범죄·고위 피고일수록 쉽게 집행유예를 받았습니다. 판사가 사람이라 법 감정에 어긋난 판결로 사법 불신을 부른다고 보지 않으십니까?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a> <b>반대1:</b> 그런 경우도 있으나, 더 큰 이유는 양형 기준의 제한이며 책임은 입법부에 있습니다.</p>
+  <p><b>찬성2:</b> <span class="ev ans" id="ev5-5c">□□대 판결문 분석 보고서에 따르면 대형 범죄·고위 피고일수록 쉽게 집행유예를 받았습니다. 판사가 사람이라 법 감정에 어긋난 판결로 사법 불신을 부른다고 보지 않으십니까?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a><a class="ev-tag" href="#q5-3">5-③</a> <b>반대1:</b> 그런 경우도 있으나, 더 큰 이유는 양형 기준의 제한이며 책임은 입법부에 있습니다.</p>
   <p><b>(나) 비평 초고</b> (토론 후 과제)</p>
   <p>1문단: <span class="ev" id="ev6-1">판사도 인공지능으로 대체하자는 요구 — 국민 법 감정과 동떨어진 재판에 대한 불신이 반영된 것이다.</span><a class="ev-tag" href="#q6-1">6-①</a></p>
   <p>2문단: <span class="ev" id="ev6-3">자료 조사 시간·비용을 줄여 ‘신속한 재판을 받을 권리’가 보장된다(에스토니아 사례).</span><a class="ev-tag" href="#q6-3">6-②·③</a></p>
@@ -175,7 +175,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob4">
-  <p class="q-stem">4. (가)의 입론을 쟁점별로 정리한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">4. (가)의 입론을 쟁점별로 정리한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 45.7%</span></p>
   <ul class="q-opts">
     <li id="q4-1">① [효율] 반대: 인공지능 판사의 판결에는 사람 판사의 검토가 항상 요구되므로 절차가 비효율적이다.<a class="src-tag ans" href="#ev4-1">정답 근거</a></li>
     <li id="q4-2">② [윤리] 찬성: 특정 이해관계에 얽히지 않아 비윤리적 문제를 일으키지 않는다.<a class="src-tag" href="#ev4-2">오답 근거</a></li>
@@ -206,11 +206,11 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob5">
-  <p class="q-stem">5. [A]~[C]에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">5. [A]~[C]에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 60.2%</span></p>
   <ul class="q-opts">
     <li id="q5-1">① [A]의 ‘반대2’는 [B]의 ‘반대2’와 달리, 상대측 발언 일부를 재진술한 후 그 내용의 공정성을 검증한다.<a class="src-tag" href="#ev5-1">오답 근거</a></li>
-    <li id="q5-2">② [A]의 ‘찬성1’은 [B]의 ‘찬성1’과 달리, 통계 자료로 상대측 발언의 논리적 오류를 지적한다.</li>
-    <li id="q5-3">③ [A]의 ‘반대2’와 [C]의 ‘찬성2’는 모두, 상대측 발언에 의문을 제기하며 추가 자료를 요청한다.</li>
+    <li id="q5-2">② [A]의 ‘찬성1’은 [B]의 ‘찬성1’과 달리, 통계 자료로 상대측 발언의 논리적 오류를 지적한다.<a class="src-tag" href="#ev-q5-2">오답 근거</a></li>
+    <li id="q5-3">③ [A]의 ‘반대2’와 [C]의 ‘찬성2’는 모두, 상대측 발언에 의문을 제기하며 추가 자료를 요청한다.<a class="src-tag" href="#ev5-1">오답 근거([A])</a><a class="src-tag" href="#ev5-5c">오답 근거([C])</a></li>
     <li id="q5-4">④ [B]의 ‘찬성1’과 [C]의 ‘반대1’은 모두, 상대측 문제 제기를 일부 인정하며 자신의 의견과 절충한다.<a class="src-tag" href="#ev5-4">오답 근거</a></li>
     <li id="q5-5">⑤ [B]의 ‘반대2’와 [C]의 ‘찬성2’는 모두, 연구 결과를 활용하여 질문함으로써 상대측을 압박한다.<a class="src-tag ans" href="#ev5-5b">정답 근거([B])</a><a class="src-tag ans" href="#ev5-5c">정답 근거([C])</a></li>
   </ul>
@@ -237,7 +237,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob6">
-  <p class="q-stem">6. (가)의 토론 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">6. (가)의 토론 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 64.1%</span></p>
   <ul class="q-opts">
     <li id="q6-1">① ‘찬성2’의 반대 신문을 반영해, 1문단에서 인공지능 판사 도입의 사회적 배경을 제시했다.<a class="src-tag" href="#ev6-1">오답 근거</a></li>
     <li id="q6-2">② ‘찬성1’의 입론을 반영해, 2문단에서 도입의 긍정적 측면을 제시했다.<a class="src-tag" href="#ev6-3">오답 근거</a></li>
@@ -324,7 +324,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>우리 사회엔 도움이 필요한 사람이 많다. 기부의 필요성에 공감하는 사람은 많지만 실제 기부로 이어지는 경우는 적다. <span class="ev" id="ev9-1">기부 참여가 적은 이유로 방법의 어려움, 금액에 대한 부담감 등이 있다.</span><a class="ev-tag" href="#q9-1">9-①</a></p>
   <p>디지털 발전으로 손쉬운 기부 방법이 등장했는데, <span class="ev ans" id="ev8">누리소통망(SNS)을 활용한 기부를 ‘소셜 기부’라 한다. 콘텐츠 공감형(‘좋아요’), 릴레이형(다음 기부자 지목), 온라인 소액·포인트 기부가 있다.</span><a class="ev-tag ans" href="#q8-1">8-①</a></p>
   <p>물론 <span class="ev" id="ev9-2">소셜 기부가 선한 의도와 달리 악용될 가능성도 있다.</span><a class="ev-tag" href="#q9-2">9-②</a> 하지만 휴대전화로 언제 어디서나 기부할 수 있고, 방법이 어렵다고 여기던 사람도 쉽게 참여할 수 있다. 또 <span class="ev" id="ev9-4">함께 즐기고, 소액 또는 포인트로 기부할 수 있어 부담이 적다.</span><a class="ev-tag" href="#q9-4">9-④·⑤</a></p>
-  <p><span class="ev ans" id="ev10">나 한 사람의 기부 참여는 또 다른 사람의 기부로 이어져 우리 사회에 긍정적 영향을 미칠 수 있다.</span><a class="ev-tag ans" href="#q10-1">10</a> <b>[A]</b></p>
+  <p><span class="ev ans" id="ev10">나 한 사람의 기부 참여는 또 다른 사람의 기부로 이어져 우리 사회에 긍정적 영향을 미칠 수 있다.</span><a class="ev-tag ans" href="#q10-1">10</a><a class="ev-tag" href="#q9-3">9-③</a> <b>[A]</b></p>
 </div>
 
 <div class="q-block" id="prob8">
@@ -369,7 +369,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q9-1">① ㄱ-1로, 우리 사회의 기부 참여가 저조함을 뒷받침한다.<a class="src-tag" href="#ev9-1">오답 근거</a></li>
     <li id="q9-2">② ㄴ으로, 기부금이 사적 용도로 유용될 수 있다는 ‘악용 가능성’을 구체화한다.<a class="src-tag" href="#ev9-2">오답 근거</a></li>
-    <li id="q9-3">③ ㄷ으로, 소셜 기부가 사회 문제 해결에 기여한다는 ‘긍정적 영향’을 추가한다.</li>
+    <li id="q9-3">③ ㄷ으로, 소셜 기부가 사회 문제 해결에 기여한다는 ‘긍정적 영향’을 추가한다.<a class="src-tag" href="#ev10">오답 근거</a></li>
     <li id="q9-4">④ ㄱ-2와 ㄴ으로, 소액·포인트 기부를 ‘부담 느끼는 사람이 손쉽게 참여할 방법’으로 추가한다.<a class="src-tag ans" href="#ev9-4">정답 근거</a></li>
     <li id="q9-5">⑤ ㄱ-2와 ㄷ으로, 방법이 어려워 못 하던 사람도 소셜 기부로 쉽게 참여할 수 있음을 보여 주는 예로 제시한다.<a class="src-tag" href="#ev9-4">오답 근거</a></li>
   </ul>
@@ -484,7 +484,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob12">
-  <p class="q-stem">12. 윗글을 바탕으로 〈학습 활동〉의 ⓐ·ⓑ에 들어갈 자료를 바르게 짝지은 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">12. 윗글을 바탕으로 〈학습 활동〉의 ⓐ·ⓑ에 들어갈 자료를 바르게 짝지은 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 54.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 학습 활동 &gt;</p>
     <p>분류 흐름 — ① 둘 이상의 어근? → 아니요 ② 접사가 어근 ‘앞’에 붙는가? → 예면 <b>ⓐ</b> / 아니요 ③ 접사가 품사를 ‘형용사’로 바꾸는가? → 아니요면 <b>ⓑ</b>.<br>
@@ -519,7 +519,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob13">
-  <p class="q-stem">13. 〈보기〉의 ㉠에 들어갈 내용으로 적절한 것은?</p>
+  <p class="q-stem">13. 〈보기〉의 ㉠에 들어갈 내용으로 적절한 것은? <span class="q-rate">오답률 57.1%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>단어들: 맏형[마텽], 짧다[짤따], 색연필[생년필] / 불나방[불라방], 붙이다[부치다].<br>
@@ -555,7 +555,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob14">
-  <p class="q-stem">14. 〈보기〉를 참고할 때, ㉠을 분석한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">14. 〈보기〉를 참고할 때, ㉠을 분석한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 52.4%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>부사어는 서술어·관형어·다른 부사어, 절·문장 전체를 수식하거나 문장을 연결한다. 형태는 ‘부사 단독 / 체언+조사 / 용언의 활용형’.<br>
@@ -591,7 +591,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob15">
-  <p class="q-stem">15. 〈보기〉의 ㉠~㉤에서 알 수 있는 중세 국어의 특징으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">15. 〈보기〉의 ㉠~㉤에서 알 수 있는 중세 국어의 특징으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 49.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt; (석보상절)</p>
     <p>㉠ ᄢᅢ(때) · ㉡ 世尊ㅅ(세존의) · ㉢ 사ᄅᆞ미라(사람이다) · ㉣ 니ᄅᆞ샤ᄃᆡ(이르시되) · ㉤ 모ᄅᆞᄂᆞᆫ다(모르느냐)</p>
@@ -643,8 +643,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p><b>(가) 나위소, 〈강호구가〉</b></p>
-  <p>어버이 낳으시고 임금이 먹이시니 / 낳은 덕 먹인 은을 다 갚고자 하였더니 / <span class="ev" id="ev18-1">숙연히 칠십이 넘으니 할 일 없어 하노라 〈제1수〉</span><a class="ev-tag" href="#q18-1">18-①·②</a></p>
-  <p>연하에 깊이 곤 병 약이 효험 없어 / 강호에 버리언져 십 년 밖이 되었어라 / 그러나 이제 다 못 죽음도 긔 성은인가 하노라 〈제3수〉</p>
+  <p>어버이 낳으시고 임금이 먹이시니 / 낳은 덕 먹인 은을 다 갚고자 하였더니 / <span class="ev" id="ev18-1">숙연히 칠십이 넘으니 할 일 없어 하노라 〈제1수〉</span><a class="ev-tag" href="#q18-2">18-②</a></p>
+  <p>연하에 깊이 곤 병 약이 효험 없어 / 강호에 버리언져 십 년 밖이 되었어라 / 그러나 <span class="ev" id="ev-q18-1">이제 다 못 죽음도 긔 성은인가 하노라</span><a class="ev-tag" href="#q18-1">18-①</a> 〈제3수〉</p>
   <p><span class="ev ans" id="ev16a">달 밝고 바람 자니 물결이 비단일다</span><a class="ev-tag ans" href="#q16-4">16-④</a> / 단정을 비껴 놓아 오락가락 하는 흥을 / ⓐ<span class="ev ans" id="ev19a">백구야 하 즐겨 말고려 세상 알까 하노라 〈제5수〉</span><a class="ev-tag ans" href="#q19-1">19-ⓐ</a></p>
   <p>피 소주 무우저리 우습다 어른 대접 / 남은셔 이른 말이 초초타 하건마는 / <span class="ev" id="ev18-3">두어라 이도 내 분이니 분내사인가 하노라 〈제8수〉</span><a class="ev-tag" href="#q18-3">18-③</a></p>
   <p><b>(나) 이현, 〈백상루별곡〉</b></p>
@@ -652,7 +652,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>높은 난간 비겨 앉아 … 좌우 현판의 옛사람들 지은 시는 / <span class="ev" id="ev17b">풍경이 보채어 조화를 얻었으니 / 생각이 막혀 보탤 것이 전혀 없다</span><a class="ev-tag" href="#q17-2">[B] 17-②</a></p>
   <p><span class="ev" id="ev17c">수많은 푸른 산 흰 구름 사이에 솟아나 … 묘향산이 마주보여 푸른 병풍을 둘렀도다</span><a class="ev-tag" href="#q17-3">[C] 17-③</a></p>
   <p><span class="ev" id="ev17d">높다란 성곽이 산허리를 에둘러 … 변방의 방비는 철옹성에 가깝도다</span><a class="ev-tag" href="#q17-4">[D] 17-④</a></p>
-  <p>약산동대에 늦은 구름 다 걷히고 / <span class="ev" id="ev18-4">향로봉 어깨에 자줏빛 노을 비꼈을 때 창문을 열어젖히고 베개에 기대니 / 번잡한 마음에 눈까지도 겨를 없다</span><a class="ev-tag" href="#q18-4">18-④</a> (중략)</p>
+  <p>약산동대에 늦은 구름 다 걷히고 / <span class="ev ans" id="ev18-4">향로봉 어깨에 자줏빛 노을 비꼈을 때 창문을 열어젖히고 베개에 기대니 / 번잡한 마음에 눈까지도 겨를 없다</span><a class="ev-tag ans" href="#q18-4">18-④</a> (중략)</p>
   <p>여울에 썰물 되어 물가가 옅어졌으니 / <span class="ev" id="ev18-5">마름 캐는 동자와 빨래하는 아녀자는 갯벌을 만나서 웃으며 가는가</span><a class="ev-tag" href="#q18-5">18-⑤</a> … 아침 물결 잔잔하여 수면이 맑으니 / <span class="ev" id="ev17e">눈앞이 어른어른 정신이 표연하니 / 열자가 바람을 타고 공중에 떠 있는 듯</span><a class="ev-tag" href="#q17-5">[E] 17-⑤</a></p>
   <p><b>(다) 김유정, 〈오월의 산골짜기〉</b></p>
   <p>나의 고향은 강원도 산골이다. … <span class="ev ans" id="ev16c">그 묻힌 모양이 마치 움푹한 떡시루 같다고 해서 동명을 ‘실레’라 부른다.</span><a class="ev-tag ans" href="#q16-4">16-④</a> 집이라야 <span class="ev" id="ev20-1">대부분 쓰러질 듯한 헌 초가요, 50여 호밖에 안 되는 빈약한 촌락</span><a class="ev-tag" href="#q20-1">20-①</a>이다. 그러나 <span class="ev" id="ev20-2">산천의 풍경으로 따지면 하나 흠잡을 데 없는 귀여운 전원이다.</span><a class="ev-tag" href="#q20-2">20-②</a></p>
@@ -729,11 +729,11 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>(가)에서 자연은 만년에 관직에서 물러난 화자의 노후 안식처·자족의 공간이자 임금에 대한 충성심이 유지되는 공간이다. (나)에서 자연은 화자가 백상루에서 바라보며 감흥을 느끼는 대상으로, 아름다운 풍광과 사람들의 소박한 생활이 드러나는 공간이다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q18-1">① (가) ‘이제 다 못 죽음’을 ‘성은’으로 여기는 데서, 자연에서도 임금에 대한 충성심을 지님을 볼 수 있군.</li>
-    <li id="q18-2">② (가) ‘칠십이 넘’은 화자가 ‘강호’에서 ‘십 년’ 넘게 산 데서, 자연을 노후의 안식처로 여김을 볼 수 있군.</li>
-    <li id="q18-3">③ (가) 남이 ‘초초타 하’는 것을 ‘내 분’으로 여기는 데서, 은퇴 후 삶에 만족함을 볼 수 있군.</li>
-    <li id="q18-4">④ (나) ‘향로봉’에 노을이 질 때 ‘창문을 열’고 ‘베개에 기대’는 데서, 번잡한 마음이 자연 풍광으로 해소되었다고 볼 수 있군.</li>
-    <li id="q18-5">⑤ (나) ‘동자’가 ‘마름 캐’고 ‘아녀자’가 ‘빨래하는’ 데서, 소박한 생활이 이루어지는 공간임을 볼 수 있군.</li>
+    <li id="q18-1">① (가) ‘이제 다 못 죽음’을 ‘성은’으로 여기는 데서, 자연에서도 임금에 대한 충성심을 지님을 볼 수 있군.<a class="src-tag" href="#ev-q18-1">오답 근거</a></li>
+    <li id="q18-2">② (가) ‘칠십이 넘’은 화자가 ‘강호’에서 ‘십 년’ 넘게 산 데서, 자연을 노후의 안식처로 여김을 볼 수 있군.<a class="src-tag" href="#ev18-1">오답 근거</a></li>
+    <li id="q18-3">③ (가) 남이 ‘초초타 하’는 것을 ‘내 분’으로 여기는 데서, 은퇴 후 삶에 만족함을 볼 수 있군.<a class="src-tag" href="#ev18-3">오답 근거</a></li>
+    <li id="q18-4">④ (나) ‘향로봉’에 노을이 질 때 ‘창문을 열’고 ‘베개에 기대’는 데서, 번잡한 마음이 자연 풍광으로 해소되었다고 볼 수 있군.<a class="src-tag ans" href="#ev18-4">정답 근거</a></li>
+    <li id="q18-5">⑤ (나) ‘동자’가 ‘마름 캐’고 ‘아녀자’가 ‘빨래하는’ 데서, 소박한 생활이 이루어지는 공간임을 볼 수 있군.<a class="src-tag" href="#ev18-5">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -842,9 +842,9 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p><span class="ev" id="ev21-5">세금은 국가 등이 행정 서비스 경비를 위해 ‘어떤 대가도 지급하지 않고’ 납세 의무자로부터 강제 징수하는 금전·재물</span><a class="ev-tag" href="#q21-5">21-⑤</a>이다. 조세 채권 이행은 납세 의무의 성립·확정·소멸로 이해한다.</p>
   <p>납세 의무는 과세 요건(<span class="ev" id="ev21-2">납세 의무자·과세 물건·과세 표준(과세 물건의 수량·금액)·세율(과세 표준에 대한 법정 비율)</span><a class="ev-tag" href="#q21-2">21-②</a>)을 만족하면 자동 성립한다. 소득세는 과세 기간이 끝나는 때, 상속세는 상속이 개시되는 때 성립한다. <span class="ev" id="ev24-5">세법이 개정·시행되며 경과 규정이 없으면 ‘성립 당시’의 법령이 적용된다.</span><a class="ev-tag" href="#q24-5">24-⑤</a> ㉮<span class="ev ans" id="ev22">성립 단계에선 납세 의무가 아직 추상적이라 과세 관청이 과세권을 행사할 수 없다.</span><a class="ev-tag ans" href="#q22-4">22-㉮</a></p>
-  <p>납세 의무를 <span class="ev ans" id="ev25">확정해야(납부할 세액·납부 기한 등이 정해지는 것을 확정이라 ⓐ한다)</span><a class="ev-tag ans" href="#q25-1">25-ⓐ</a> 징수할 수 있다. 예외로 ㉠<span class="ev ans" id="ev23a">자동 확정 방식은 성립과 동시에 세액이 정해진다(수입 조기 확보).</span><a class="ev-tag ans" href="#q23-5">23-㉠</a></p>
-  <p>절차에 따른 확정엔 ㉡신고 납세·㉢부과 과세가 있다. <span class="ev" id="ev23b">㉡신고 납세 방식은 납세자가 스스로 세액을 계산·신고해 확정(더 민주적), 1차 확정권은 납세자에게.</span><a class="ev-tag" href="#q23-2">23-㉡</a> 미신고·위반 시 세무조사로 과세 관청이 2차 확정한다.</p>
-  <p><span class="ev ans" id="ev23c">㉢부과 과세 방식은 확정권이 과세 관청에만 있고, 납세자의 신고는 협력 의무일 뿐. 과세 관청이 세액을 결정·통지해 ‘납세 고지서가 도달했을 때’ 확정 효력이 생긴다(증여세·상속세).</span><a class="ev-tag ans" href="#q23-5">23-㉢</a></p>
+  <p>납세 의무를 <span class="ev ans" id="ev25">확정해야(납부할 세액·납부 기한 등이 정해지는 것을 확정이라 ⓐ한다)</span><a class="ev-tag ans" href="#q25-1">25-ⓐ</a> 징수할 수 있다. 예외로 ㉠<span class="ev ans" id="ev23a">자동 확정 방식은 성립과 동시에 세액이 정해진다(수입 조기 확보).</span><a class="ev-tag ans" href="#q23-5">23-㉠</a><a class="ev-tag" href="#q23-1">23-①</a><a class="ev-tag" href="#q23-4">23-④</a></p>
+  <p>절차에 따른 확정엔 ㉡신고 납세·㉢부과 과세가 있다. <span class="ev" id="ev23b">㉡신고 납세 방식은 납세자가 스스로 세액을 계산·신고해 확정(더 민주적), 1차 확정권은 납세자에게.</span><a class="ev-tag" href="#q23-2">23-㉡</a><a class="ev-tag" href="#q23-3">23-③</a> 미신고·위반 시 세무조사로 과세 관청이 2차 확정한다.</p>
+  <p><span class="ev ans" id="ev23c">㉢부과 과세 방식은 확정권이 과세 관청에만 있고, 납세자의 신고는 협력 의무일 뿐. 과세 관청이 세액을 결정·통지해 ‘납세 고지서가 도달했을 때’ 확정 효력이 생긴다(증여세·상속세).</span><a class="ev-tag ans" href="#q23-5">23-㉢</a><a class="ev-tag" href="#q24-4">24-④</a></p>
   <p>적게 신고하면 <span class="ev" id="ev24-1">수정 신고(법정 신고 기한까지 제출한 경우에 한해, 기한으로부터 2년 전 하면 과소 신고 가산세 감면)</span><a class="ev-tag" href="#q24-1">24-①·②</a>, 많이 신고하면 <span class="ev" id="ev24-3">경정 청구(법정 신고 기한으로부터 5년 전, 경정 통지 전까지)</span><a class="ev-tag" href="#q24-3">24-③</a>를 한다.</p>
   <p><span class="ev ans" id="ev21-3">확정된 세금은 누구든 납부하면 소멸하고, 납부 못 해도 다른 세금의 환급금이 있으면 과세 관청 직권으로 미납 세금에 충당해 소멸하기도 한다.</span><a class="ev-tag ans" href="#q21-3">21-③·④</a></p>
 </div>
@@ -914,10 +914,10 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob23">
   <p class="q-stem">23. ㉠~㉢에 대해 이해한 것으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q23-1">① ㉠은 ㉡과 달리 납세 의무자가 직접 재정권을 행사할 수 있다.</li>
+    <li id="q23-1">① ㉠은 ㉡과 달리 납세 의무자가 직접 재정권을 행사할 수 있다.<a class="src-tag" href="#ev23a">오답 근거</a></li>
     <li id="q23-2">② ㉢은 ㉡과 달리 절차에 따라 확정되기 때문에 더 민주적인 방식이다.<a class="src-tag" href="#ev23b">오답 근거</a></li>
-    <li id="q23-3">③ ㉡과 ㉢ 모두 납세 의무자의 신고는 협력 의무로서 강제성이 없다.</li>
-    <li id="q23-4">④ ㉠에 따라 신고했으나 미달 신고한 경우, 미달 신고액은 ㉡으로 확정된다.</li>
+    <li id="q23-3">③ ㉡과 ㉢ 모두 납세 의무자의 신고는 협력 의무로서 강제성이 없다.<a class="src-tag" href="#ev23b">오답 근거</a></li>
+    <li id="q23-4">④ ㉠에 따라 신고했으나 미달 신고한 경우, 미달 신고액은 ㉡으로 확정된다.<a class="src-tag" href="#ev23a">오답 근거</a></li>
     <li id="q23-5">⑤ ㉠은 납세 의무가 성립할 때, ㉢은 납세 고지서가 도달할 때 확정 효력이 생긴다.<a class="src-tag ans" href="#ev23a">정답 근거(㉠)</a><a class="src-tag ans" href="#ev23c">정답 근거(㉢)</a></li>
   </ul>
   <details class="solution">
@@ -943,7 +943,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob24">
-  <p class="q-stem">24. 윗글을 참고하여 〈보기〉를 이해한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">24. 윗글을 참고하여 〈보기〉를 이해한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 57.2%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p><b>갑</b>: 프리랜서. 2023.1.1~12.31 소득을 계산해 과세 표준 신고서 제출(소득세=신고 납세). 다음 날 소득 일부 누락을 알게 됨.<br>
@@ -954,7 +954,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q24-1">① 갑이 법정 신고 기한을 넘겨 신고했다면, 누락을 알았더라도 원칙적으로 수정 신고를 할 수 없겠군.<a class="src-tag" href="#ev24-1">오답 근거</a></li>
     <li id="q24-2">② 을이 적게 기재해 제출하고 수정 신고를 안 했다면 과소 신고 가산세가 부과될 수 있겠군.<a class="src-tag" href="#ev24-1">오답 근거</a></li>
     <li id="q24-3">③ 을이 많이 신고하고 고지서를 받았다면, 법정 신고 기한으로부터 5년 전 경정 청구를 할 수 있겠군.<a class="src-tag" href="#ev24-3">오답 근거</a></li>
-    <li id="q24-4">④ 법정 기한 내 제출 시점에서, 갑과 달리 을은 납세 의무가 확정되지 않았겠군.</li>
+    <li id="q24-4">④ 법정 기한 내 제출 시점에서, 갑과 달리 을은 납세 의무가 확정되지 않았겠군.<a class="src-tag" href="#ev23c">오답 근거</a></li>
     <li id="q24-5">⑤ 개정 세법이 2024.5.1 시행(경과 규정 없음)되면 갑과 을은 모두 개정 이후 세법으로 신고·납부해야겠군.<a class="src-tag ans" href="#ev24-5">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1152,13 +1152,13 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[29 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거입니다.</span></p>
   <p>리쾨르는 이야기를 해석하며 자기를 이해할 수 있다는 자기 해석학을 주장하고, <span class="ev" id="ev29-3">아리스토텔레스의 미메시스 개념을 확장해 ‘미메시스의 삼중 구조’를 제시</span><a class="ev-tag" href="#q29-3">29-③</a>했다. 미메시스란 예술에서 현실을 모방·재현하는 것을 ⓐ<span class="ev ans" id="ev33a">가리키는</span> 용어다.</p>
-  <p><span class="ev ans" id="ev30-2">플라톤은 세계를 이상(이데아)·현실의 이원 구조로 보았고, 예술은 ‘이데아를 모방한 현실’을 다시 모방한 것으로 보았다.</span><a class="ev-tag ans" href="#q30-2">30-②</a> 그는 <span class="ev" id="ev30-3">예술이 인간을 이데아로부터 멀어지게 하는 부정적 대상</span><a class="ev-tag" href="#q30-3">30-③</a>이라 했다. 또 <span class="ev" id="ev30-1">갈래마다 모방 양태가 달라 연극은 직접, 서사시는 서술자를 통해 간접 모방</span><a class="ev-tag" href="#q30-1">30-①</a>한다 했다. <span class="ev" id="ev30-5">아리스토텔레스는 예술이 개연성 있는 일을 필연성에 따라 조직한 ‘창조적 모방’이며 감정을 정화하고 쾌감을 준다</span><a class="ev-tag" href="#q30-5">30-④·⑤</a>고 보았다. 리쾨르는 이를 ⓑ<span class="ev" id="ev33b">받아들여</span> 미메시스를 행동을 줄거리로 구성해 언어로 표현한 것으로 보았다.</p>
-  <p>미메시스Ⅰ(전형상화)은 작가가 이야기화 전 행동의 의미를 이해하는 단계로, <span class="ev" id="ev29-5">작가는 그 의미를 독자도 이해할 수 있다고 전제</span><a class="ev-tag" href="#q29-5">29-⑤</a>한다. 미메시스Ⅱ는 행동이 ㉠<span class="ev ans" id="ev31a">줄거리로 구성되는 단계로, 작가가 의미 있다고 판단한 행동만 ⓒ골라 인과 관계에 따라 배치(현실 바탕 허구 세계)</span><a class="ev-tag ans" href="#q31-2">㉠ 31·32</a>한다. 미메시스Ⅲ은 문학과 현실을 ⓓ<span class="ev" id="ev33d">잇고자</span> 한 핵심 단계로, <span class="ev" id="ev31b">독자가 읽고 현실에 비추어 ㉡자기 삶의 줄거리를 만들며 반성</span><a class="ev-tag" href="#q31-2b">㉡</a>한다.</p>
-  <p><span class="ev ans" id="ev29-2">미메시스Ⅲ에서 독자의 자기 이해가 이루어지는데(‘이야기 정체성’), 이는 ‘독자의 해석 과정’에서 형성된다.</span><a class="ev-tag ans" href="#q29-2">29-②</a> 독자는 인물의 이야기 정체성을 자신의 삶에 ⓔ<span class="ev ans" id="ev33e">비추어</span> 자신의 고유한 이야기 정체성을 형성한다.</p>
+  <p><span class="ev ans" id="ev30-2">플라톤은 세계를 이상(이데아)·현실의 이원 구조로 보았고, 예술은 ‘이데아를 모방한 현실’을 다시 모방한 것으로 보았다.</span><a class="ev-tag ans" href="#q30-2">30-②</a> 그는 <span class="ev" id="ev30-3">예술이 인간을 이데아로부터 멀어지게 하는 부정적 대상</span><a class="ev-tag" href="#q30-3">30-③</a>이라 했다. 또 <span class="ev" id="ev30-1">갈래마다 모방 양태가 달라 연극은 직접, 서사시는 서술자를 통해 간접 모방</span><a class="ev-tag" href="#q30-1">30-①</a><a class="ev-tag" href="#q31-1">31-①</a>한다 했다. <span class="ev" id="ev30-5">아리스토텔레스는 예술이 개연성 있는 일을 필연성에 따라 조직한 ‘창조적 모방’이며 감정을 정화하고 쾌감을 준다</span><a class="ev-tag" href="#q30-5">30-④·⑤</a>고 보았다. 리쾨르는 이를 ⓑ<span class="ev" id="ev33b">받아들여</span> 미메시스를 행동을 줄거리로 구성해 언어로 표현한 것으로 보았다.</p>
+  <p>미메시스Ⅰ(전형상화)은 작가가 이야기화 전 행동의 의미를 이해하는 단계로, <span class="ev" id="ev29-5">작가는 그 의미를 독자도 이해할 수 있다고 전제</span><a class="ev-tag" href="#q29-5">29-⑤</a><a class="ev-tag" href="#q32-1">32-①</a>한다. 미메시스Ⅱ는 행동이 ㉠<span class="ev ans" id="ev31a">줄거리로 구성되는 단계로, 작가가 의미 있다고 판단한 행동만 ⓒ골라 인과 관계에 따라 배치(현실 바탕 허구 세계)</span><a class="ev-tag ans" href="#q31-2">㉠ 31·32</a><a class="ev-tag" href="#q31-2b">31-③</a><a class="ev-tag" href="#q31-4">31-④</a>한다. 미메시스Ⅲ은 문학과 현실을 ⓓ<span class="ev" id="ev33d">잇고자</span> 한 핵심 단계로, <span class="ev" id="ev31b">독자가 읽고 현실에 비추어 ㉡자기 삶의 줄거리를 만들며 반성</span><a class="ev-tag" href="#q31-2b">㉡</a><a class="ev-tag" href="#q32-4">32-④</a>한다.</p>
+  <p><span class="ev ans" id="ev29-2">미메시스Ⅲ에서 독자의 자기 이해가 이루어지는데(‘이야기 정체성’), 이는 ‘독자의 해석 과정’에서 형성된다.</span><a class="ev-tag ans" href="#q29-2">29-②</a><a class="ev-tag" href="#q32-5">32-⑤</a> 독자는 인물의 이야기 정체성을 자신의 삶에 ⓔ<span class="ev ans" id="ev33e">비추어</span> 자신의 고유한 이야기 정체성을 형성한다.</p>
 </div>
 
 <div class="q-block" id="prob29">
-  <p class="q-stem">29. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">29. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 45.3%</span></p>
   <ul class="q-opts">
     <li id="q29-1">① 미메시스Ⅰ과 미메시스Ⅲ은 미메시스Ⅱ를 매개로 연결된다.</li>
     <li id="q29-2">② 인물의 이야기 정체성은 미메시스Ⅲ에서 작가에 의해 형상화된다.<a class="src-tag ans" href="#ev29-2">정답 근거</a></li>
@@ -1222,10 +1222,10 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob31">
   <p class="q-stem">31. ㉠과 ㉡에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q31-1">① ㉠은 현실을 직접 모방한 것이고, ㉡은 현실을 간접 모방한 것이다.</li>
+    <li id="q31-1">① ㉠은 현실을 직접 모방한 것이고, ㉡은 현실을 간접 모방한 것이다.<a class="src-tag" href="#ev30-1">오답 근거</a></li>
     <li id="q31-2">② ㉠은 작가가 구성한 인물의 이야기를, ㉡은 독자가 구성한 자신의 이야기를 의미한다.<a class="src-tag ans" href="#ev31a">정답 근거(㉠)</a><a class="src-tag ans" href="#ev31b">정답 근거(㉡)</a></li>
-    <li id="q31-2b">③ ㉠은 미메시스의 전형상화 단계, ㉡은 재형상화 단계에 해당한다.</li>
-    <li id="q31-4">④ ㉠은 ㉡과 달리 언어로 표현되기 전의 이야기이다.</li>
+    <li id="q31-2b">③ ㉠은 미메시스의 전형상화 단계, ㉡은 재형상화 단계에 해당한다.<a class="src-tag" href="#ev31a">오답 근거</a></li>
+    <li id="q31-4">④ ㉠은 ㉡과 달리 언어로 표현되기 전의 이야기이다.<a class="src-tag" href="#ev31a">오답 근거</a></li>
     <li id="q31-5">⑤ ㉡은 ㉠과 달리 인물의 행동에 의해 의미가 결정된다.</li>
   </ul>
   <details class="solution">
@@ -1257,11 +1257,11 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>타인을 대하는 태도에 관심 많은 A는 의사 B의 삶을 다룬 소설을 읽었다. 어린 환자가 성인이 되어 바쁜 B를 찾아와, 환자 한 명 한 명을 진심으로 대하는 B에게 고마움을 전하는 에피소드를 A는 감명 깊게 읽었다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q32-1">① 작가는 소설을 쓰기 전에 의사의 행동이 어떤 의미인지 이해하고자 했겠군.</li>
+    <li id="q32-1">① 작가는 소설을 쓰기 전에 의사의 행동이 어떤 의미인지 이해하고자 했겠군.<a class="src-tag" href="#ev29-5">오답 근거</a></li>
     <li id="q32-2">② B가 어린 환자를 돌보는 행동은 작가가 의미 있다고 판단해 고른 것이겠군.<a class="src-tag" href="#ev31a">오답 근거</a></li>
     <li id="q32-3">③ 소설 속 에피소드는 인간에게 공통적으로 나타나는 행동을 인과 관계에 따라 배치한 것이겠군.<a class="src-tag ans" href="#ev31a">정답 근거</a></li>
-    <li id="q32-4">④ A는 B의 에피소드를 읽으며 사람들을 대하는 자신의 태도를 돌아보았겠군.</li>
-    <li id="q32-5">⑤ A는 B의 이야기 정체성을 따뜻한 내면을 지닌 인물로 파악할 수 있겠군.</li>
+    <li id="q32-4">④ A는 B의 에피소드를 읽으며 사람들을 대하는 자신의 태도를 돌아보았겠군.<a class="src-tag" href="#ev31b">오답 근거</a></li>
+    <li id="q32-5">⑤ A는 B의 이야기 정체성을 따뜻한 내면을 지닌 인물로 파악할 수 있겠군.<a class="src-tag" href="#ev29-2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1337,17 +1337,17 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>사명산에서 <span class="ev" id="ev34-5">높은 벼랑 위 백수 노인을 만나니, 노인이 동자에게 명해 산령(큰 사자)을 불렀다.</span><a class="ev-tag" href="#q34-5">34-⑤</a> 노인이 ㉠<span class="ev" id="ev35-1">“네 이미 이 산을 지킬진대, 미천한 인간을 이같이 출입하게 함이 옳을쏘냐?” 하고 사자를 꾸짖었다.</span><a class="ev-tag" href="#q35-1">㉠ 35-①</a> 사자가 달려들자 황운이 ㉡<span class="ev" id="ev35-2">“속인이라 해도 어찌 명산에 출입 못 하리오. 너 같은 짐승을 곤충으로 아노라.” 하며 사자를 꾸짖고</span><a class="ev-tag" href="#q35-2">㉡ 35-②</a> 머리를 치니 사자가 사라졌다.</p>
   <p>황운이 도사의 술법인 줄 알고 ㉢<span class="ev ans" id="ev35-3">“소자는 가긍한 사람으로 사명산 도인을 찾다 길을 잘못 들었사오니 인도하소서.” 하고 도움을 청했다.</span><a class="ev-tag ans" href="#q35-3">㉢ 35-③</a> 노인이 ㉣<span class="ev" id="ev35-4">“그대 재주면 세상이 용납할 것이요, 시절이 태평하거늘 술법을 배워 무엇 하려느뇨?” 물으니,</span><a class="ev-tag" href="#q35-4">㉣ 35-④</a> 황운이 ㉤<span class="ev" id="ev35-5">“헌원씨도 치우의 난을, 주 문왕도 훈족 침입을 당했으니, 태평시절이라도 위태함을 잊지 않음이 옳으니이다.” 하였다.</span><a class="ev-tag" href="#q35-5">㉤ 35-⑤</a> 노인을 따라가 팔문둔갑·진법·검술을 배웠다.</p>
   <p class="passage-note">[중략] 진권 형제가 반역하자, 황제가 설연을 원수, 황운을 부원수로 삼아 토벌케 한다.</p>
-  <p>원수가 진권을 잡을 계교를 생각하다 ⓑ<span class="ev" id="ev36b">천서 옥갑경을 보다 문득 한 계책을 떠올려, “오월 이십이일 술시에 웅주를 파하리라.” 명하고 팔십만 병에게 모래 부대를 대령케 했다.</span><a class="ev-tag" href="#q36-2">36-ⓑ</a> 술시에 큰비로 평야가 물에 넘치자, 모래 부대로 수도를 막으니 물이 성을 넘었다.</p>
+  <p>원수가 진권을 잡을 계교를 생각하다 ⓑ<span class="ev" id="ev36b">천서 옥갑경을 보다 문득 한 계책을 떠올려, “오월 이십이일 술시에 웅주를 파하리라.” 명하고 팔십만 병에게 모래 부대를 대령케 했다.</span><a class="ev-tag" href="#q36-2">36-ⓑ</a><a class="ev-tag" href="#q34-3">34-③</a> 술시에 큰비로 평야가 물에 넘치자, 모래 부대로 수도를 막으니 물이 성을 넘었다.</p>
   <p><span class="ev ans" id="ev34-2">진권이 대경하여 성곽에 올라 물을 피하다, 전선장 양달이 전선으로 구하매 진걸과 겨우 달아났다.</span><a class="ev-tag ans" href="#q34-2">34-②·④</a> 원수가 정병 십만으로 쫓으니, 진권은 동오 청홍성에 웅거했다.</p>
-  <p>원수가 <span class="ev" id="ev37-3">동오 지도를 보고 “십 면에 매복하라” 지시</span><a class="ev-tag" href="#q37-3">37-③</a>하고, 식량이 떨어진 진권이 배수일전으로 싸움을 청하자 <span class="ev" id="ev37-4">“궁구막추라 하니 길을 열어 주고 뒤를 쫓으라.”</span><a class="ev-tag" href="#q37-4">37-④</a> 했다. 진권이 의심해 오주로 달아나자 <span class="ev ans" id="ev37-2">원수가 기고를 세워 급습</span><a class="ev-tag ans" href="#q37-2">37-②</a>, 진걸·진권·양철을 산 채로 잡았다.</p>
+  <p>원수가 <span class="ev" id="ev37-3">동오 지도를 보고 “십 면에 매복하라” 지시</span><a class="ev-tag" href="#q37-3">37-③</a>하고, 식량이 떨어진 진권이 배수일전으로 싸움을 청하자 <span class="ev" id="ev37-4">“궁구막추라 하니 길을 열어 주고 뒤를 쫓으라.”</span><a class="ev-tag" href="#q37-4">37-④</a> 했다. 진권이 의심해 오주로 달아나자 <span class="ev ans" id="ev37-2">원수가 기고를 세워 급습</span><a class="ev-tag ans" href="#q37-2">37-②</a><a class="ev-tag" href="#q34-1">34-①</a>, 진걸·진권·양철을 산 채로 잡았다.</p>
 </div>
 
 <div class="q-block" id="prob34">
   <p class="q-stem">34. 윗글에 대한 설명으로 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q34-1">① 진걸은 웅주에 머무르다 원수에게 사로잡힌다.</li>
+    <li id="q34-1">① 진걸은 웅주에 머무르다 원수에게 사로잡힌다.<a class="src-tag" href="#ev37-2">오답 근거</a></li>
     <li id="q34-2">② 진권은 성이 물에 잠겨 성을 버리고 달아난다.<a class="src-tag ans" href="#ev34-2">정답 근거</a></li>
-    <li id="q34-3">③ 원수는 큰비가 올 것을 예측하고 백성들과 함께 대피한다.</li>
+    <li id="q34-3">③ 원수는 큰비가 올 것을 예측하고 백성들과 함께 대피한다.<a class="src-tag" href="#ev36b">오답 근거</a></li>
     <li id="q34-4">④ 양달은 자신의 안위를 위해 진권에게 닥친 어려움을 외면한다.<a class="src-tag" href="#ev34-2">오답 근거</a></li>
     <li id="q34-5">⑤ 황운은 청의 동자의 도움으로 벼랑에서 사명산 도인을 만난다.<a class="src-tag" href="#ev34-5">오답 근거</a></li>
   </ul>
@@ -1374,7 +1374,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob35">
-  <p class="q-stem">35. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">35. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 46.0%</span></p>
   <ul class="q-opts">
     <li id="q35-1">① ㉠: 노인은 자신의 역할을 다하지 못한 사자를 책망하고 있다.<a class="src-tag" href="#ev35-1">오답 근거</a></li>
     <li id="q35-2">② ㉡: 황운은 사자를 꾸짖음으로써 앞선 노인의 말에 반감을 드러내고 있다.<a class="src-tag" href="#ev35-2">오답 근거</a></li>
@@ -1405,7 +1405,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob36">
-  <p class="q-stem">36. ⓐ(절구 십여 수), ⓑ(천서 옥갑경)에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-stem">36. ⓐ(절구 십여 수), ⓑ(천서 옥갑경)에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 54.0%</span></p>
   <ul class="q-opts">
     <li id="q36-1">① ⓐ는 황운이 설연에게 자신의 안부를 알리기 위한 수단이다.<a class="src-tag ans" href="#ev36a">정답 근거</a></li>
     <li id="q36-2">② ⓑ는 원수가 진권에게 자신의 의도를 숨기는 역할을 한다.<a class="src-tag" href="#ev36b">오답 근거</a></li>
@@ -1436,7 +1436,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob37">
-  <p class="q-stem">37. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">37. 〈보기〉를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 54.0%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>영웅소설에서 주인공은 조력자의 도움이나 초월적 능력으로 영웅성을 부각한다. 이 작품은 그 일반적 특징에 더해, 병법·날씨·지형 같은 지리적 요소로 문제를 해결하는 모습이 부각돼 흥미가 고조되고, 적대자를 궁지로 모는 과정에서 서사적 긴장감도 드러난다.</p>
@@ -1490,7 +1490,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><span class="ev ans" id="ev39-3">태양전지는 태양광 에너지를 전기 에너지로 변환하는 반도체 소자(또는 그 집합체)다.</span><a class="ev-tag ans" href="#q39-3">39-③</a> <span class="ev" id="ev39-5">실리콘 태양전지는 무기 반도체 소재로, 효율 높고 수명 길지만 고가·가공성 낮다.</span><a class="ev-tag" href="#q39-5">39-⑤</a> 유기 태양전지는 저가·가공성 좋으나 효율 낮고 수명 짧다. 그래서 유·무기 하이브리드인 페로브스카이트 태양전지가 주목받는다.</p>
   <p>페로브스카이트는 큐빅 결정(꼭짓점 A·중앙 B 양이온, 면 중앙 X 음이온) 물질로, <span class="ev ans" id="ev40-2">이온 간 결합 에너지가 작아 약한 자극에도 반응이 활발하고</span><a class="ev-tag ans" href="#q40-2">40-②</a> <span class="ev" id="ev40-1">빛에 의해 전자·정공을 생성하는 성능이 뛰어나다.</span><a class="ev-tag" href="#q40-1">40-①</a> ㉠태양전지용 페로브스카이트는 <span class="ev" id="ev40-4">A에 유기 양이온, B에 무기 금속 양이온, X에 음이온이 온다.</span><a class="ev-tag" href="#q40-4">40-④</a> <span class="ev" id="ev40-3">이온 종류에 따라 결정 구조가 달라지면 전하 생성량에 영향을 주고,</span><a class="ev-tag" href="#q40-3">40-③</a> <span class="ev" id="ev40-5">A·B·X에 두 원자 이상 결합 이온이 오면 효율이 높아질 수 있다.</span><a class="ev-tag" href="#q40-5">40-⑤</a></p>
   <p class="passage-note">[A] 층 구조</p>
-  <p><span class="ev ans" id="ev38">① TCO층(전면 전극): 전류 잘 흐르고 빛 잘 투과하는 산화물 유리 기판.</span><a class="ev-tag ans" href="#q38-1">38·39-②</a> ② <span class="ev ans" id="ev41-3a">전자 수송층: 페로브스카이트층의 전자를 TCO층에 전달(직접 접촉 차단→효율↑). 무기 반도체 ‘이산화 타이타늄’(다공질).</span><a class="ev-tag ans" href="#q41-3">41-ⓑ</a> ③ 페로브스카이트층: 빛 흡수→전자·정공 생성(반대 방향 이동). ④ <span class="ev ans" id="ev41-3b">정공 수송층: 정공을 후면 전극으로 수송. 열에 안정적·합성 간단한 ‘유기’ 반도체 소재.</span><a class="ev-tag ans" href="#q41-3">41-ⓓ</a> ⑤ 후면 전극: 금·알루미늄. → 전자·정공이 양쪽 전극에 도달, 외부 회로·전류 형성.</p>
+  <p><span class="ev ans" id="ev38">① TCO층(전면 전극): 전류 잘 흐르고 빛 잘 투과하는 산화물 유리 기판.</span><a class="ev-tag ans" href="#q38-1">38·39-②</a> ② <span class="ev ans" id="ev41-3a">전자 수송층: 페로브스카이트층의 전자를 TCO층에 전달(직접 접촉 차단→효율↑). 무기 반도체 ‘이산화 타이타늄’(다공질).</span><a class="ev-tag ans" href="#q41-3">41-ⓑ</a> ③ <span class="ev" id="ev-q41-4">페로브스카이트층: 빛 흡수→전자·정공 생성(반대 방향 이동).</span><a class="ev-tag" href="#q41-4">41-④</a> ④ <span class="ev ans" id="ev41-3b">정공 수송층: 정공을 후면 전극으로 수송. 열에 안정적·합성 간단한 ‘유기’ 반도체 소재.</span><a class="ev-tag ans" href="#q41-3">41-ⓓ</a> ⑤ 후면 전극: 금·알루미늄. → <span class="ev" id="ev-q41-5">전자·정공이 양쪽 전극에 도달, 외부 회로·전류 형성.</span><a class="ev-tag" href="#q41-5">41-⑤</a></p>
   <p><span class="ev" id="ev39-1">페로브스카이트 태양전지는 곡면 제작 가능, 빛 투과도·색채 조절 가능</span><a class="ev-tag" href="#q39-1">39-①</a>하나, 상용화엔 <span class="ev" id="ev39-4">낮은 효율·짧은 수명·친환경적이지 않은 소재 문제</span><a class="ev-tag" href="#q39-4">39-④</a>를 해결해야 한다.</p>
 </div>
 
@@ -1588,7 +1588,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob41">
-  <p class="q-stem">41. [A]를 바탕으로 〈보기〉의 ⓐ~ⓔ를 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">41. [A]를 바탕으로 〈보기〉의 ⓐ~ⓔ를 설명한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 49.1%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt; (빛 → ⓐ→ⓑ→ⓒ→ⓓ→ⓔ, (-)/(+))</p>
     <p>ⓐ TCO층 · ⓑ 전자 수송층 · ⓒ 페로브스카이트층 · ⓓ 정공 수송층 · ⓔ 후면 전극</p>
@@ -1597,8 +1597,8 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q41-1">① ⓐ는 전면 전극으로 ⓒ에서 생성된 전자를 전달받는다.<a class="src-tag" href="#ev38">오답 근거</a></li>
     <li id="q41-2">② ⓑ는 ⓐ와 ⓒ의 직접 접촉을 막아 광전 변환 효율을 높인다.<a class="src-tag" href="#ev41-3a">오답 근거</a></li>
     <li id="q41-3">③ ⓑ와 ⓓ는 모두 전도성·안정성이 확보된 무기 반도체 소재를 사용한다.<a class="src-tag ans" href="#ev41-3b">정답 근거</a></li>
-    <li id="q41-4">④ ⓒ가 빛을 흡수해 전자·정공을 생성하면 이들은 각각 반대 방향으로 이동한다.</li>
-    <li id="q41-5">⑤ 전자·정공이 ⓑ와 ⓓ를 통해 ⓐ와 ⓔ에 도달하면 외부 회로가 형성돼 전류가 흐른다.</li>
+    <li id="q41-4">④ ⓒ가 빛을 흡수해 전자·정공을 생성하면 이들은 각각 반대 방향으로 이동한다.<a class="src-tag" href="#ev-q41-4">오답 근거</a></li>
+    <li id="q41-5">⑤ 전자·정공이 ⓑ와 ⓓ를 통해 ⓐ와 ⓔ에 도달하면 외부 회로가 형성돼 전류가 흐른다.<a class="src-tag" href="#ev-q41-5">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1623,18 +1623,18 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob42">
-  <p class="q-stem">42. 〈보기〉를 참고하여 윗글에 대해 보일 수 있는 반응으로 적절하지 <strong>않은</strong> 것은?</p>
+  <p class="q-stem">42. 〈보기〉를 참고하여 윗글에 대해 보일 수 있는 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 56.9%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p><b>가.</b> 유기 태양전지는 흡광 계수가 실리콘의 1,000배 이상이라 얇아도 빛 흡수를 극대화해 다량의 전하를 생성한다. 그런데도 효율이 실리콘의 절반에 못 미치는 이유는, 생성된 전자의 <b>이동 거리가 짧고 속도가 느려</b> 소량만 전극에 도달하고 나머지는 정공과 재결합하기 때문이다.<br>
-    <b>나.</b> 탄소가 주성분인 유기 물질은 공기 중 산소·수분과 반응해 부식·연소되기도 한다.</p>
+    <p><b>가.</b> <span class="ev ans" id="ev-q42-2">유기 태양전지는 흡광 계수가 실리콘의 1,000배 이상이라 얇아도 빛 흡수를 극대화해 다량의 전하를 생성한다.</span><a class="ev-tag ans" href="#q42-2">42-②</a> 그런데도 효율이 실리콘의 절반에 못 미치는 이유는, 생성된 전자의 <b>이동 거리가 짧고 속도가 느려</b> <span class="ev" id="ev-q42-15">소량만 전극에 도달하고 나머지는 정공과 재결합하기 때문이다.</span><a class="ev-tag" href="#q42-1">42-①</a><a class="ev-tag" href="#q42-5">42-⑤</a><br>
+    <b>나.</b> <span class="ev" id="ev-q42-34">탄소가 주성분인 유기 물질은 공기 중 산소·수분과 반응해 부식·연소되기도 한다.</span><a class="ev-tag" href="#q42-3">42-③</a><a class="ev-tag" href="#q42-4">42-④</a></p>
   </div>
   <ul class="q-opts">
-    <li id="q42-1">① 페로브스카이트 효율을 더 높이려면 전자의 이동 속도를 고려할 필요가 있겠군.</li>
-    <li id="q42-2">② 효율 높은 유기 태양전지를 만들려면 흡광 계수 높은 소재를 쓰는 것이 핵심이겠군.</li>
-    <li id="q42-3">③ 유기 태양전지 수명이 짧은 이유는 유기 물질의 특성에 원인이 있다고 볼 수 있겠군.</li>
-    <li id="q42-4">④ 페로브스카이트의 문제 해결엔 내부 물질과 외부 환경의 반응을 고려할 필요가 있겠군.</li>
-    <li id="q42-5">⑤ 유기 태양전지 효율이 낮은 건 생성 전하 대비 전극 도달 전자의 비율이 낮기 때문이겠군.</li>
+    <li id="q42-1">① 페로브스카이트 효율을 더 높이려면 전자의 이동 속도를 고려할 필요가 있겠군.<a class="src-tag" href="#ev-q42-15">오답 근거</a></li>
+    <li id="q42-2">② 효율 높은 유기 태양전지를 만들려면 흡광 계수 높은 소재를 쓰는 것이 핵심이겠군.<a class="src-tag ans" href="#ev-q42-2">정답 근거</a></li>
+    <li id="q42-3">③ 유기 태양전지 수명이 짧은 이유는 유기 물질의 특성에 원인이 있다고 볼 수 있겠군.<a class="src-tag" href="#ev-q42-34">오답 근거</a></li>
+    <li id="q42-4">④ 페로브스카이트의 문제 해결엔 내부 물질과 외부 환경의 반응을 고려할 필요가 있겠군.<a class="src-tag" href="#ev-q42-34">오답 근거</a></li>
+    <li id="q42-5">⑤ 유기 태양전지 효율이 낮은 건 생성 전하 대비 전극 도달 전자의 비율이 낮기 때문이겠군.<a class="src-tag" href="#ev-q42-15">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1750,7 +1750,7 @@ summary: "2024년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 </div>
 
 <div class="q-block" id="prob45">
-  <p class="q-stem">45. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <p class="q-stem">45. 〈보기〉를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 57.1%</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>(가)·(나)는 자연 현상을 관찰해 얻은 삶의 깨달음을 노래한다. (가)는 개화 과정으로 ‘인고와 희생’을, (나)는 상처를 주는 존재마저 품는 저수지로 ‘포용’을 드러낸다.</p>
