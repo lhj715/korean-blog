@@ -397,35 +397,17 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>로켓의 안정적인 비행을 위해 연소 불안정은 반드시 해결해야 하는 문제이다. 연소 불안정은 연소가 원활히 이루어지지 않는 현상으로, 로켓에서는 연소실의 압력 진동이 비정상적으로 증폭되는 연소 불안정이 나타날 수 있다. 액체 추진제 로켓의 연소 과정을 바탕으로 연소 불안정에 대해 알아보자. 액체 추진제 로켓은 산화제와 액체 연료를 추진제로 사용한다. 액체 추진제 로켓의 엔진은 일반적으로 산화제 탱크, 연료 탱크, 분사기, 연소실, 노즐 등으로 구성되어 있다. 로켓 엔진에 시동이 걸리면 산화제 탱크와 연료 탱크에 보관되어 있던 추진제가 이동하여 분사기에 의해 연소실 내부로 분사된다. 연소실 내에서 추진제가 연소될 때, 액체였던 추진제가 연소 가스가 되면서 연소실 내부의 압력이 높아지며, 열, 소리 등 다양한 형태의 에너지가 방출된다. 이러한 연소 과정은 추진제가 분사기에 의해 연속적으로 분사되면서 지속된다. 이때 연소실 내에는 소리의 진동, 열이 주기적으로 방출되며 생기는 열 방출 진동이 존재한다. 연소실 내의 압력 역시 주기적으로 변화하며 진동한다. 그리고<span class="ev ans" id="ev29"> 연소 가스는 노즐을 통과하여 로켓 바깥으로 배출되고, 그 반발력으로 로켓은 추진력을 얻을 수 있다.</span><a class="ev-tag ans" href="#q29-2">29-②</a> 그런데 연소 과정에서 연소실과 추진제 공급 시스템 간의 상호 작용이나, 연소실 내 열 방출 진동과 소리 진동 간의 상호 작용으로 인해 연소 불안정이 발생할 수 있다. 전자의 경우, 연소실 압력 진동으로 추진제 공급량에 급격한 변화가 생김으로써 연소실의 압력 진동이 증폭되는 것이다. 이때 연소실 압력 진동은 일반적으로 10 ∼200Hz 사이의 주파수를 갖는다. 이러한 연소 불안정은 추진력의 크기를 변화시키고 로켓의 구조물에 손상을 줄 수 있다. 후자의 경우는 연소실 내 열 방출의 진동이 갖는 주파수와 소리의 진동이 갖는 주파수가 일치하여 연소실의 압력 진동이 비정상적으로 증폭되는 것으로 이를 열음향 연소 불안정이라 한다. 연소실 내부에서 연소 반응으로 발생하는 열 방출 진동과 소리의 진동은 각각의 주파수를 갖는다. 여기서<span class="ev ans" id="ev27"> 소리는 연소실의 고유 주파수로 진동하는데, 이는 소리의 주파수가 크기나 형상과 같은 연소실의 공간적 특성과 연소 가스의 온도 및 비열에 따라 결정된다는 의미이다.</span><a class="ev-tag ans" href="#q27-3">27-③</a> 각각의 주파수가 일치하면 압력 진동이 급격하게 증폭될 수 있다. 이때 연소실 압력 진동의 주파수는 일반적으로 1,000 ∼2,000㎐ 사이에 있으며 연소실의 고유 주파수와 유사한 값을 갖는다. 열음향 연소 불안정은 연소실 파손이나 폭발을 유발할 수 있다.<span class="ev ans" id="ev26"> 연소 불안정으로 인한 문제에 대비하기 위해 로켓 개발 과정에서는 실제 연소실과 유사한 조건으로 연소 시험을 수행하여 연소 불안정의 발생 여부나 발생 원인을 파악한다.</span><a class="ev-tag ans" href="#q26-5">26-⑤</a> 일반적으로 연소실 압력이 정상 압력을 기준으로 ±5% 범위 내에서 진동할 경우 연소가 안정하다고 판별하고, 그 범위에서 벗어나는 경우 연소 불안정이 ㉠일어난 것으로 판별한다. 연소 불안정이 일어난 것으로 판별되었을 경우, 압력 진동이 증폭되었을 때의 주파수인 주요 진동 주파수를 측정하고 이를 연소실의 고유 주파수와 비교하여 연소 불안정의 원인을 판단한다. 연소 불안정 발생 원인이 연소실과 추진제 공급 시스템 간의 상호 작용에 의한 것이라고 판단될 경우 공급 시스템의 압력 감쇠 장치를 설치하는 방법 등을 이용한다. 또한 열음향 연소 불안정이라고 판단되면 이를 제어하기 위해 연소실에 ⓐ배플이나 ⓑ음향공을 장착하는 방법 등을 사용한다. 배플과 음향공은 모10 국어 영역두 연소실 내의 소리 진동을 변화시키는 기능을 한다. 배플은 연소실과 연결되는 분사기의 면을 여러 구획으로 나누는 장치로서, 연소실의 공간적 특성을 바꾼다. 이를 통해 기존의 연소실 고유 주파수를 변화시켜 열 방출 진동과 소리 진동 간의 상호 작용을 억제할 수 있다. 음향공은 특정 주파수의 소리 진동을 흡수하는 장치로 음향공을 연소실에 연결하면 연소실 내부의 소리가<span class="ev ans" id="ev28"> 음향공 안에서도 진동하게 되어 소리 에너지가 분산된다.</span><a class="ev-tag ans" href="#q28-4">28-④</a> 음향공은 연소실의 특정 주파수를 고려하여 설계하기 때문에 이로 인해 감쇠할 수 있는 주파수의 범위가 좁다.</p>
+  <p><span class="ev" id="ev-q26-3">로켓의 안정적인 비행을 위해 연소 불안정은 반드시 해결해야 하는 문제이다.</span><a class="ev-tag" href="#q26-3">26-③</a> 연소 불안정은 연소가 원활히 이루어지지 않는 현상으로, 로켓에서는 연소실의 압력 진동이 비정상적으로 증폭되는 연소 불안정이 나타날 수 있다. 액체 추진제 로켓의 연소 과정을 바탕으로 연소 불안정에 대해 알아보자. <span class="ev" id="ev-q26-2">액체 추진제 로켓은 산화제와 액체 연료를 추진제로 사용한다.</span><a class="ev-tag" href="#q26-2">26-②</a> 액체 추진제 로켓의 엔진은 일반적으로 산화제 탱크, 연료 탱크, 분사기, 연소실, 노즐 등으로 구성되어 있다. 로켓 엔진에 시동이 걸리면 산화제 탱크와 연료 탱크에 보관되어 있던 추진제가 이동하여 분사기에 의해 연소실 내부로 분사된다. 연소실 내에서 추진제가 연소될 때, 액체였던 추진제가 연소 가스가 되면서 연소실 내부의 압력이 높아지며, 열, 소리 등 다양한 형태의 에너지가 방출된다. 이러한 연소 과정은 추진제가 분사기에 의해 연속적으로 분사되면서 지속된다. 이때 연소실 내에는 소리의 진동, 열이 주기적으로 방출되며 생기는 열 방출 진동이 존재한다. 연소실 내의 압력 역시 주기적으로 변화하며 진동한다. 그리고<span class="ev ans" id="ev29"> 연소 가스는 노즐을 통과하여 로켓 바깥으로 배출되고, 그 반발력으로 로켓은 추진력을 얻을 수 있다.</span><a class="ev-tag ans" href="#q29-2">29-②</a> 그런데 연소 과정에서 연소실과 추진제 공급 시스템 간의 상호 작용이나, 연소실 내 열 방출 진동과 소리 진동 간의 상호 작용으로 인해 연소 불안정이 발생할 수 있다. 전자의 경우, 연소실 압력 진동으로 추진제 공급량에 급격한 변화가 생김으로써 연소실의 압력 진동이 증폭되는 것이다. 이때 연소실 압력 진동은 일반적으로 10 ∼200Hz 사이의 주파수를 갖는다. 이러한 연소 불안정은 <span class="ev" id="ev-q26-4">추진력의 크기를 변화시키고 로켓의 구조물에 손상을 줄 수 있다.</span><a class="ev-tag" href="#q26-4">26-④</a> 후자의 경우는 연소실 내 열 방출의 진동이 갖는 주파수와 소리의 진동이 갖는 주파수가 일치하여 연소실의 압력 진동이 비정상적으로 증폭되는 것으로 이를 열음향 연소 불안정이라 한다. 연소실 내부에서 연소 반응으로 발생하는 열 방출 진동과 소리의 진동은 각각의 주파수를 갖는다. 여기서<span class="ev ans" id="ev27"> 소리는 연소실의 고유 주파수로 진동하는데, 이는 소리의 주파수가 크기나 형상과 같은 연소실의 공간적 특성과 연소 가스의 온도 및 비열에 따라 결정된다는 의미이다.</span><a class="ev-tag" href="#q26-1">26-①</a><a class="ev-tag ans" href="#q27-3">27-③</a> 각각의 주파수가 일치하면 압력 진동이 급격하게 증폭될 수 있다. 이때 연소실 압력 진동의 주파수는 일반적으로 1,000 ∼2,000㎐ 사이에 있으며 연소실의 고유 주파수와 유사한 값을 갖는다. 열음향 연소 불안정은 연소실 파손이나 폭발을 유발할 수 있다.<span class="ev ans" id="ev26"> 연소 불안정으로 인한 문제에 대비하기 위해 로켓 개발 과정에서는 실제 연소실과 유사한 조건으로 연소 시험을 수행하여 연소 불안정의 발생 여부나 발생 원인을 파악한다.</span><a class="ev-tag ans" href="#q26-5">26-⑤</a> 일반적으로 연소실 압력이 정상 압력을 기준으로 ±5% 범위 내에서 진동할 경우 연소가 안정하다고 판별하고, 그 범위에서 벗어나는 경우 연소 불안정이 ㉠일어난 것으로 판별한다. 연소 불안정이 일어난 것으로 판별되었을 경우, 압력 진동이 증폭되었을 때의 주파수인 주요 진동 주파수를 측정하고 이를 연소실의 고유 주파수와 비교하여 연소 불안정의 원인을 판단한다. 연소 불안정 발생 원인이 연소실과 추진제 공급 시스템 간의 상호 작용에 의한 것이라고 판단될 경우 공급 시스템의 압력 감쇠 장치를 설치하는 방법 등을 이용한다. 또한 열음향 연소 불안정이라고 판단되면 이를 제어하기 위해 연소실에 ⓐ배플이나 ⓑ음향공을 장착하는 방법 등을 사용한다. 배플과 음향공은 모10 국어 영역두 연소실 내의 소리 진동을 변화시키는 기능을 한다. 배플은 연소실과 연결되는 분사기의 면을 여러 구획으로 나누는 장치로서, 연소실의 공간적 특성을 바꾼다. 이를 통해 기존의 연소실 고유 주파수를 변화시켜 열 방출 진동과 소리 진동 간의 상호 작용을 억제할 수 있다. 음향공은 특정 주파수의 소리 진동을 흡수하는 장치로 음향공을 연소실에 연결하면 연소실 내부의 소리가<span class="ev ans" id="ev28"> 음향공 안에서도 진동하게 되어 소리 에너지가 분산된다.</span><a class="ev-tag ans" href="#q28-4">28-④</a> 음향공은 연소실의 특정 주파수를 고려하여 설계하기 때문에 이로 인해 감쇠할 수 있는 주파수의 범위가 좁다.</p>
 </div>
 
 <div class="q-block" id="prob26">
   <p class="q-stem">26. 윗글을 이해한 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q26-1">① 연소실 내부의 소리 진동은 연소 가스 온도의 영향을 받는다.</li>
-    <li id="q26-2">② 액체 추진제 로켓의 추진제로는 산화제와 액체 연료가 쓰인다.</li>
-    <li id="q26-3">③ 로켓이 안정적으로 비행하려면 연소가 원활하게 이뤄져야 한다.</li>
-    <li id="q26-4">④ 로켓의 구조물은 연소 불안정으로 인해 손상을 입는 경우도 있다.</li>
+  <ul class="q-opts"><li id="q26-1">① 연소실 내부의 소리 진동은 연소 가스 온도의 영향을 받는다.<a class="src-tag" href="#ev27">오답 근거</a></li>
+    <li id="q26-2">② 액체 추진제 로켓의 추진제로는 산화제와 액체 연료가 쓰인다.<a class="src-tag" href="#ev-q26-2">오답 근거</a></li>
+    <li id="q26-3">③ 로켓이 안정적으로 비행하려면 연소가 원활하게 이뤄져야 한다.<a class="src-tag" href="#ev-q26-3">오답 근거</a></li>
+    <li id="q26-4">④ 로켓의 구조물은 연소 불안정으로 인해 손상을 입는 경우도 있다.<a class="src-tag" href="#ev-q26-4">오답 근거</a></li>
     <li id="q26-5">⑤ 추진제 공급 시스템의 압력 감쇠 장치는 연소 불안정을 일으킨다.<a class="src-tag ans" href="#ev26">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 압력 감쇠 장치가 연소 불안정의 ‘원인’인지 ‘해결책’인지 본다.</p><p>압력 감쇠 장치는 원인을 판단한 뒤 이를 <strong>해결</strong>하려 설치하는 장치다. 연소 불안정을 ‘일으킨다’는 ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>소리 주파수=연소 가스 온도·비열에 따라 결정.</td></tr><tr><td>②</td><td>적절</td><td>산화제+액체 연료를 추진제로 사용.</td></tr><tr><td>③</td><td>적절</td><td>안정 비행 위해 연소 불안정 해결 필요.</td></tr><tr><td>④</td><td>적절</td><td>연소 불안정→구조물 손상.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>감쇠 장치는 해결책(원인 아님).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob27">
@@ -440,25 +422,7 @@ layout: "exam"
     <li id="q27-3">③ B는 C와 달리 소리가 연소실의 고유 주파수로 진동했음을 추론할 수 있겠군.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
     <li id="q27-4">④ C는 A와 달리 연소실 파손이나 폭발을 유발할 수 있겠군.</li>
     <li id="q27-5">⑤ C는 B와 달리 소리가 지닌 주파수와 열 방출 주파수가 일치하는 현상이 나타났겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — A·B·C를 안정 판별·발생 원인으로 분류한다.</p><p>소리가 ‘연소실 고유 주파수’로 진동하는 것은 열음향 연소 불안정의 특성으로 B·C에 공통된다. ‘B는 C와 달리’가 틀려 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>A=±5% 이내(안정).</td></tr><tr><td>②</td><td>적절</td><td>B=압력↔공급량 상호작용.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>소리 고유 주파수 진동은 B·C 공통.</td></tr><tr><td>④</td><td>적절</td><td>C=파손·폭발 유발.</td></tr><tr><td>⑤</td><td>적절</td><td>C=열 방출·소리 주파수 일치.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob28">
@@ -468,25 +432,7 @@ layout: "exam"
     <li id="q28-3">③ ⓑ는 감소시킬 수 있는 주파수의 범위가 좁다.</li>
     <li id="q28-4">④ ⓑ는 소리 에너지를 연소실 내부로 집중시킨다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
     <li id="q28-5">⑤ ⓐ와 ⓑ는 모두 연소실 내의 소리 진동을 변화시킨다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 배플(ⓐ)·음향공(ⓑ)의 기능을 본다.</p><p>음향공은 소리를 흡수해 소리 에너지를 <strong>분산</strong>시킨다. ‘연소실 내부로 집중’이라는 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>배플=고유 주파수 변화.</td></tr><tr><td>②</td><td>적절</td><td>배플=공간적 특성 변화.</td></tr><tr><td>③</td><td>적절</td><td>음향공=감쇠 주파수 범위 좁음.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>음향공=에너지 분산(집중 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>둘 다 소리 진동 변화.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob29">
@@ -496,25 +442,7 @@ layout: "exam"
     <li id="q29-3">③ 연소가 진행되는 동안에는 추진제가 추가로 분사될 수 없다.</li>
     <li id="q29-4">④ 연료 탱크에 보관되어 있던 추진제는 산화제 탱크로 이동한다.</li>
     <li id="q29-5">⑤ 추진제가 연소 반응을 거치면 연소 가스가 발생해 연소실의 압력은 낮아진다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 연소 과정의 순서·방향을 본문과 대조한다.</p><p>연소 가스가 노즐을 통과해 배출되고 그 <strong>반발력</strong>으로 추진력을 얻는다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>분사기는 연소실 ‘내부’로 분사.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>노즐 배출 반발력→추진력.</td></tr><tr><td>③</td><td>오답</td><td>추진제는 연속 분사됨.</td></tr><tr><td>④</td><td>오답</td><td>추진제→연소실 이동(탱크 간 아님).</td></tr><tr><td>⑤</td><td>오답</td><td>연소 가스 발생 시 압력 ‘높아짐’.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob30">
@@ -524,25 +452,7 @@ layout: "exam"
     <li id="q30-3">③ 기쁨으로 환호성이 일어나자 모두 그쪽을 쳐다보았다.</li>
     <li id="q30-4">④ 모두 부지런히 일하여 가난하던 살림살이가 일어났다.</li>
     <li id="q30-5">⑤ 청렴한 사회를 이루기 위한 부패 추방 운동이 일어났다. 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠ ‘일어나다’(현상이 발생하다)와 같은 뜻을 고른다.</p><p>㉠은 ‘현상이 발생하다’의 뜻이다. ‘황사 현상이 일어난다’의 ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>현상이 발생하다(=㉠).</td></tr><tr><td>②</td><td>오답</td><td>잠에서 깨다.</td></tr><tr><td>③</td><td>오답</td><td>감정·소리가 생기다.</td></tr><tr><td>④</td><td>오답</td><td>형편이 나아지다.</td></tr><tr><td>⑤</td><td>오답</td><td>운동·기운이 퍼지다.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set8" class="set-anchor"></div>
