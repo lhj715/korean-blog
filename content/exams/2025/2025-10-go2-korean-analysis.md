@@ -31,7 +31,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>안녕하세요? ○○○입니다. 오늘은 독특한 번식 전략을 지닌 해양 생물들을 소개하겠습니다.</p>
-  <p>첫 번째로 심해 아귀. 개체 수가 적어 암수가 만나기 어렵습니다. (㉠ 자료 제시) 수컷은 짝을 찾으면 암컷을 물고 놓지 않고, <span class="ev ans" id="ev4">수컷의 피부·혈관이 암컷과 융합되어 마치 한 몸처럼 됩니다.</span><a class="ev-tag" href="#q2-1">2-①</a><a class="ev-tag ans" href="#q4-5">4-⑤</a> 수컷은 혈관으로 평생 영양분을 받고 정자를 제공합니다.</p>
+  <p>첫 번째로 심해 아귀. 개체 수가 적어 암수가 만나기 어렵습니다. (㉠ 자료 제시) 수컷은 짝을 찾으면 암컷을 물고 놓지 않고, <span class="ev ans" id="ev4">수컷의 피부·혈관이 암컷과 융합되어 마치 한 몸처럼 됩니다.</span><a class="ev-tag" href="#q2-1">2-①</a> 수컷은 혈관으로 평생 영양분을 받고 정자를 제공합니다.</p>
   <p>다음으로 해마. 수컷이 임신·출산을 담당합니다. <span class="ev ans" id="ev1">이게 어떻게 가능한 일일까요? (㉡ 자료 제시) 배 부분의 ‘육아낭’ 덕분에 수컷이 임신·출산을 할 수 있습니다.</span><a class="ev-tag ans" href="#q1-4">1-④</a><a class="ev-tag" href="#q2-2">2-②</a><a class="ev-tag" href="#q3-1">3-①</a><a class="ev-tag" href="#q3-2">3-②</a><a class="ev-tag" href="#q3-3">3-③</a> 암컷이 육아낭에 산란하면 수정·발달을 거쳐 새끼가 되고, <span class="ev" id="ev5">육아낭 내부의 ‘내층’은 배아를 감싸 외부 충격으로부터 보호합니다.</span><a class="ev-tag" href="#q2-3">2-③</a></p>
   <p>마지막으로 용치놀래기. 한 수컷이 여러 암컷을 이끄는 무리 생활을 하는데, 수컷이 사라지면 (㉢ 자료 제시) <span class="ev ans" id="ev2">무리에서 가장 큰 암컷이 수컷으로 변하고, 몸에 수컷의 특징인 큰 점이 생깁니다.</span><a class="ev-tag ans" href="#q2-4">2-④</a><a class="ev-tag" href="#q2-5">2-⑤</a><a class="ev-tag" href="#q3-4">3-④</a><a class="ev-tag" href="#q3-5">3-⑤</a></p>
   <p>지금까지 해양 생물들의 독특한 번식 전략을 소개했습니다. 발표 마치겠습니다.</p>
@@ -111,14 +111,14 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">3. 〈보기〉 학생들의 반응에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p><b>학생1:</b> (심해 다큐를 본 적 있음) 수컷 아귀가 암컷을 어떤 방법으로 찾아냈을까? 더 찾아봐야겠어.<br><b>학생2:</b> (책의 캥거루 육아낭이 떠오름) 왜 해마는 수컷이 육아낭을 갖는지 설명해 줬으면 좋았을 텐데.<br><b>학생3:</b> 탐구 주제에 도움이 되겠어. 그런데 놀래깃과 상당수가 이렇게 무리 생활을 한다는 게 정확한 걸까?</p>
+    <p><b>학생1:</b> <span class="ev" id="ev3-1bg">(심해 다큐를 본 적 있음)</span><a class="ev-tag" href="#q3-4">3-④</a> <span class="ev" id="ev3-1">수컷 아귀가 암컷을 어떤 방법으로 찾아냈을까? 더 찾아봐야겠어.</span><a class="ev-tag" href="#q3-1">3-①</a><br><b>학생2:</b> <span class="ev" id="ev3-2bg">(책의 캥거루 육아낭이 떠오름)</span><a class="ev-tag" href="#q3-4">3-④</a> <span class="ev" id="ev3-2">왜 해마는 수컷이 육아낭을 갖는지 설명해 줬으면 좋았을 텐데.</span><a class="ev-tag" href="#q3-2">3-②</a><br><b>학생3:</b> <span class="ev" id="ev3-3">탐구 주제에 도움이 되겠어.</span><a class="ev-tag" href="#q3-3">3-③</a> 그런데 놀래깃과 상당수가 이렇게 무리 생활을 한다는 게 <span class="ev ans" id="ev3-5">정확한 걸까?</span><a class="ev-tag ans" href="#q3-5">3-⑤</a></p>
   </div>
   <ul class="q-opts">
-    <li id="q3-1">① 학생1은 발표 내용과 관련해 추가 정보를 탐색하려 한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q3-2">② 학생2는 알고 싶은 정보가 발표에서 다뤄지지 않은 것을 아쉬워한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q3-3">③ 학생3은 발표 정보를 유용성 측면에서 긍정적으로 평가한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q3-4">④ 학생1·2 모두 발표 내용과 관련해 자신의 배경지식을 떠올린다.<a class="src-tag" href="#ev2">지문 근거</a></li>
-    <li id="q3-5">⑤ 학생1·3 모두 발표 내용을 신뢰할 수 있는지 의문을 제기한다.<a class="src-tag" href="#ev2">지문 근거</a></li>
+    <li id="q3-1">① 학생1은 발표 내용과 관련해 추가 정보를 탐색하려 한다.<a class="src-tag" href="#ev3-1">지문 근거</a></li>
+    <li id="q3-2">② 학생2는 알고 싶은 정보가 발표에서 다뤄지지 않은 것을 아쉬워한다.<a class="src-tag" href="#ev3-2">지문 근거</a></li>
+    <li id="q3-3">③ 학생3은 발표 정보를 유용성 측면에서 긍정적으로 평가한다.<a class="src-tag" href="#ev3-3">지문 근거</a></li>
+    <li id="q3-4">④ 학생1·2 모두 발표 내용과 관련해 자신의 배경지식을 떠올린다.<a class="src-tag" href="#ev3-1bg">지문 근거(학생1)</a><a class="src-tag" href="#ev3-2bg">지문 근거(학생2)</a></li>
+    <li id="q3-5">⑤ 학생1·3 모두 발표 내용을 신뢰할 수 있는지 의문을 제기한다.<a class="src-tag ans" href="#ev3-5">정답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -186,7 +186,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q4-2">② 회의 참여자들의 준비 상황을 확인한다.<a class="src-tag" href="#ev10">지문 근거</a></li>
     <li id="q4-3">③ 이어서 논의할 내용을 제시한다.<a class="src-tag" href="#ev11">지문 근거</a></li>
     <li id="q4-4">④ 회의 이후 수행할 일을 안내한다.<a class="src-tag" href="#ev12">지문 근거</a></li>
-    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
+    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -331,18 +331,18 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 휘발성 유기 화합물의 안전성 문제 — 학생의 작문 초고.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>휘발성 유기 화합물은 방향·탈취 용품 등에 널리 쓰이는 성분으로, 일부는 두통·알레르기를 유발할 수 있어 주의가 필요하다. 소비가 꾸준히 증가해 안전한 사용을 위한 노력이 요구된다.</p>
-  <p><span class="ev ans" id="ev15">먼저, 정부는 성분 표시 대상을 늘려야 한다(규제된 화합물 일부가 표시 대상에서 빠져 알권리가 미흡). 다음으로, 기업은 기능성뿐 아니라 성분의 안전성도 고려해야 한다. 마지막으로, 소비자는 성분 표시를 꼼꼼히 살피는 습관을 가져야 한다.</span><a class="ev-tag ans" href="#q8-4">8-④</a><a class="ev-tag" href="#q8-1">8-①</a><a class="ev-tag" href="#q8-2">8-②</a><a class="ev-tag" href="#q8-3">8-③</a><a class="ev-tag" href="#q8-5">8-⑤</a><a class="ev-tag" href="#q9-1">9-①</a><a class="ev-tag" href="#q9-2">9-②</a><a class="ev-tag" href="#q9-3">9-③</a><a class="ev-tag" href="#q9-5">9-⑤</a><a class="ev-tag" href="#q10-1">10-①</a><a class="ev-tag" href="#q10-2">10-②</a><a class="ev-tag" href="#q10-3">10-③</a><a class="ev-tag" href="#q10-5">10-⑤</a><a class="ev-tag ans" href="#q15-3">15-③</a></p>
+  <p><span class="ev ans" id="ev15">먼저, 정부는 성분 표시 대상을 늘려야 한다(규제된 화합물 일부가 표시 대상에서 빠져 알권리가 미흡). 다음으로, 기업은 기능성뿐 아니라 성분의 안전성도 고려해야 한다. 마지막으로, 소비자는 성분 표시를 꼼꼼히 살피는 습관을 가져야 한다.</span><a class="ev-tag ans" href="#q8-4">8-④</a></p>
   <p class="muted">[A] (결론 — 10번에서 작성)</p>
 </div>
 
 <div class="q-block" id="prob8">
   <p class="q-stem">8. 학생의 초고에 활용된 글쓰기 전략으로 가장 적절한 것은? <span class="q-rate">오답률 52.1%</span></p>
   <ul class="q-opts">
-    <li id="q8-1">① 예상되는 반론에 대한 답변을 미리 제시한다.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q8-2">② 속담을 활용하여 제재의 시의성을 드러낸다.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q8-3">③ 생소한 용어의 어원을 밝혀 이해를 돕는다.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q8-1">① 예상되는 반론에 대한 답변을 미리 제시한다.</li>
+    <li id="q8-2">② 속담을 활용하여 제재의 시의성을 드러낸다.</li>
+    <li id="q8-3">③ 생소한 용어의 어원을 밝혀 이해를 돕는다.</li>
     <li id="q8-4">④ 담화 표지를 사용하여 내용을 구조적으로 제시한다.<a class="src-tag ans" href="#ev15">정답 근거</a></li>
-    <li id="q8-5">⑤ 다른 대상과 비교하여 장단점을 밝힌다.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q8-5">⑤ 다른 대상과 비교하여 장단점을 밝힌다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -370,14 +370,14 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">9. 〈자료〉를 활용해 초고를 보완하는 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 자료 &gt;</p>
-    <p><b>ㄱ. 통계</b> ㉮ 시장 규모 증가 · ㉯ 구매 시 고려 요인(향 72.6% / 안전성 3.0%)<br><b>ㄴ. 신문</b> 해외 ○○국, 유해 성분 56종을 표시 대상에 추가(소비자 단체의 공개 요구).<br><b>ㄷ. 인터뷰</b> 성분 안전성을 1~4단계로 등급화하는 표시 제도 시행(직관적 파악에 도움).</p>
+    <p><b>ㄱ. 통계</b> <span class="ev" id="ev9a">㉮ 시장 규모 증가</span><a class="ev-tag" href="#q9-1">9-①</a> · <span class="ev ans" id="ev9d">㉯ 구매 시 고려 요인(향 72.6% / 안전성 3.0%)</span><a class="ev-tag ans" href="#q9-4">9-④·⑤</a><br><b>ㄴ. 신문</b> <span class="ev" id="ev9b">해외 ○○국, 유해 성분 56종을 표시 대상에 추가(소비자 단체의 공개 요구).</span><a class="ev-tag" href="#q9-2">9-②</a><br><b>ㄷ. 인터뷰</b> <span class="ev" id="ev9c">성분 안전성을 1~4단계로 등급화하는 표시 제도 시행(직관적 파악에 도움).</span><a class="ev-tag" href="#q9-3">9-③</a></p>
   </div>
   <ul class="q-opts">
-    <li id="q9-1">① ㄱ-㉮ → ‘소비 증가’의 근거로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q9-2">② ㄴ → ‘표시 대상 확대로 알권리 보장’ 사례로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q9-3">③ ㄷ → ‘직관적으로 안전성을 파악하게 돕는 방안’으로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q9-4">④ ㄱ-㉯+ㄴ → 소비자가 ‘성분보다 향을 중시하는 이유’로 제시.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
-    <li id="q9-5">⑤ ㄱ-㉯+ㄷ → ‘감각적 만족을 우선시한다’는 내용의 근거로 제시.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q9-1">① ㄱ-㉮ → ‘소비 증가’의 근거로 제시.<a class="src-tag" href="#ev9a">지문 근거</a></li>
+    <li id="q9-2">② ㄴ → ‘표시 대상 확대로 알권리 보장’ 사례로 제시.<a class="src-tag" href="#ev9b">지문 근거</a></li>
+    <li id="q9-3">③ ㄷ → ‘직관적으로 안전성을 파악하게 돕는 방안’으로 제시.<a class="src-tag" href="#ev9c">지문 근거</a></li>
+    <li id="q9-4">④ ㄱ-㉯+ㄴ → 소비자가 ‘성분보다 향을 중시하는 이유’로 제시.<a class="src-tag ans" href="#ev9d">정답 근거</a></li>
+    <li id="q9-5">⑤ ㄱ-㉯+ㄷ → ‘감각적 만족을 우선시한다’는 내용의 근거로 제시.<a class="src-tag" href="#ev9d">지문 근거</a><a class="src-tag" href="#ev9c">지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -409,14 +409,14 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">10. 〈보기〉는 선생님의 조언에 따라 [A](결론)를 작성한 것이다. 선생님의 조언으로 가장 적절한 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 — 작성된 결론 &gt;</p>
-    <p>휘발성 유기 화합물은 실내를 향기롭게 만드는 <b>유용한 성분</b>이다. 이를 안전하게 사용하려면 <b>정부·기업·소비자 모두의 노력</b>이 필요하다.</p>
+    <p>휘발성 유기 화합물은 실내를 향기롭게 만드는 <span class="ev ans" id="ev10a"><b>유용한 성분</b>이다.</span><a class="ev-tag ans" href="#q10-4">10-④</a> 이를 안전하게 사용하려면 <span class="ev ans" id="ev10b"><b>정부·기업·소비자 모두의 노력</b>이 필요하다.</span><a class="ev-tag ans" href="#q10-4">10-④</a></p>
   </div>
   <ul class="q-opts">
-    <li id="q10-1">① 활용 분야를 언급한 뒤, ‘연구를 위한 기업의 노력’을 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q10-2">② 사회적 인식을 언급한 뒤, ‘세 주체가 협력해야 하는 이유’를 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q10-3">③ 꼭 필요한 이유를 언급한 뒤, ‘기업의 책임’을 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
-    <li id="q10-4">④ 효용성을 언급한 뒤, 안전한 사용을 위해 ‘여러 주체의 노력’이 필요함을 제시하자.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
-    <li id="q10-5">⑤ 우려되는 점을 언급한 뒤, ‘기업·정부·소비자의 상호작용’이 필요함을 제시하자.<a class="src-tag" href="#ev15">지문 근거</a></li>
+    <li id="q10-1">① 활용 분야를 언급한 뒤, ‘연구를 위한 기업의 노력’을 제시하자.</li>
+    <li id="q10-2">② 사회적 인식을 언급한 뒤, ‘세 주체가 협력해야 하는 이유’를 제시하자.</li>
+    <li id="q10-3">③ 꼭 필요한 이유를 언급한 뒤, ‘기업의 책임’을 제시하자.</li>
+    <li id="q10-4">④ 효용성을 언급한 뒤, 안전한 사용을 위해 ‘여러 주체의 노력’이 필요함을 제시하자.<a class="src-tag ans" href="#ev10a">정답 근거(효용성)</a><a class="src-tag ans" href="#ev10b">정답 근거(노력)</a></li>
+    <li id="q10-5">⑤ 우려되는 점을 언급한 뒤, ‘기업·정부·소비자의 상호작용’이 필요함을 제시하자.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
