@@ -31,7 +31,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다. 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
-  <p>안녕하세요? 오늘 발표를 맡은 ○○○입니다. <span class="ev ans" id="ev1">저는 얼마 전 한글과 관련된 책을 읽었는데, 새롭게 알게 된 정보를 여러분께 알려 드리고 싶어서 (손가락 세 개를 펴며) ‘한글과 관련된 세 가지 오해’를 발표 주제로 정했습니다.</span><a class="ev-tag ans" href="#q1-3">1-③</a></p>
+  <p>안녕하세요? 오늘 발표를 맡은 ○○○입니다. <span class="ev ans" id="ev1">저는 얼마 전 한글과 관련된 책을 읽었는데, 새롭게 알게 된 정보를 여러분께 알려 드리고 싶어서 (손가락 세 개를 펴며) ‘한글과 관련된 세 가지 오해’를 발표 주제로 정했습니다.</span><a class="ev-tag ans" href="#q1-3">1-③</a><a class="ev-tag" href="#q1-1">1-①</a><a class="ev-tag" href="#q1-2">1-②</a><a class="ev-tag" href="#q1-4">1-④</a><a class="ev-tag" href="#q1-5">1-⑤</a></p>
   <p>첫 번째는 ‘세종대왕이 우리말을 창제했다’는 오해입니다. (자료 제시) <span class="ev" id="ev2a">언론조차 ‘말’과 ‘글자’를 구별하지 않기도 합니다.</span><a class="ev-tag" href="#q2-1">2-①</a> ‘말’은 음성 기호, ‘글자’는 말을 적는 부호 체계입니다. 우리말은 한글 창제 이전부터 쓰였으므로, 세종대왕은 우리말이 아니라 우리 글자인 한글을 창제했다고 해야 합니다.</p>
   <p>두 번째는 ‘한글이 세계기록유산’이라는 오해입니다. <span class="ev" id="ev2b">1997년 유네스코가 지정한 세계기록유산에 등록된 것은 ‘기록물’인 훈민정음 해례본이지 한글 자체가 아닙니다.</span><a class="ev-tag" href="#q2-2">2-②</a></p>
   <p>세 번째는 ‘한글로 모든 언어의 발음을 적을 수 있다’는 오해입니다. <span class="ev" id="ev2c">한글이 다양한 소리를 표기할 수 있는 건 맞지만, 국제음성기호 기준으로 한글로 기록할 수 없는 소리도 상당수 있습니다.</span><a class="ev-tag" href="#q2-4">2-④</a></p>
@@ -158,10 +158,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[4 ~ 7] (가)는 반대 신문식 토론, (나)는 청중 학생이 교지에 실을 글이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거입니다. 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="src-label">(가) 토론</p>
   <p><b>사회자:</b> 논제는 ‘제주남방큰돌고래를 생태법인으로 인정해야 한다’입니다.</p>
-  <p><b>찬성1(입론):</b> 생태법인은 생태적 가치가 큰 대상에 법적 권리를 주는 제도입니다. <span class="seg-label">[A]</span> <span class="ev" id="ev4a">제주남방큰돌고래는 해양 쓰레기·선박·혼획·소음으로 멸종 위기이며, 매년 10여 마리(작년 16마리)가 폐사해 100~120마리만 남았습니다.</span><a class="ev-tag" href="#q4-1">4-①</a> <span class="seg-label">[B]</span> <span class="ev" id="ev4b">특별법 개정으로 생태법인이 되면 후견인을 통해 서식지 보호·구제 요청 권리를 가집니다. 뉴질랜드 황가누이강, 스페인 마르 메노르 호수가 이미 법인으로 인정됐습니다.</span><a class="ev-tag" href="#q4-2">4-②</a> <span class="seg-label">[C]</span> <span class="ev" id="ev4c">이는 생존권 보호뿐 아니라 바다 환경 개선·생물 다양성 보존, 경제적 손실 방지, 인간 중심 자연관 성찰의 계기가 됩니다.</span><a class="ev-tag" href="#q4-3">4-③</a></p>
+  <p><b>찬성1(입론):</b> 생태법인은 생태적 가치가 큰 대상에 법적 권리를 주는 제도입니다. <span class="seg-label">[A]</span> <span class="ev" id="ev4a">제주남방큰돌고래는 해양 쓰레기·선박·혼획·소음으로 멸종 위기이며, 매년 10여 마리(작년 16마리)가 폐사해 100~120마리만 남았습니다.</span><a class="ev-tag" href="#q4-1">4-①</a> <span class="seg-label">[B]</span> <span class="ev" id="ev4b">특별법 개정으로 생태법인이 되면 후견인을 통해 서식지 보호·구제 요청 권리를 가집니다. 뉴질랜드 황가누이강, 스페인 마르 메노르 호수가 이미 법인으로 인정됐습니다.</span><a class="ev-tag" href="#q4-2">4-②</a><a class="ev-tag" href="#q6-3">6-③</a> <span class="seg-label">[C]</span> <span class="ev" id="ev4c">이는 생존권 보호뿐 아니라 바다 환경 개선·생물 다양성 보존, 경제적 손실 방지, 인간 중심 자연관 성찰의 계기가 됩니다.</span><a class="ev-tag" href="#q4-3">4-③</a></p>
   <p><b>반대2(신문):</b> ㉠<span class="ev" id="ev5a">폐사 개체 수 자료의 출처는 어디인가요?</span><a class="ev-tag" href="#q5-1">5-①</a> / ㉡<span class="ev" id="ev5b">언급한 사례가 모두 생태법인으로 인정된 것인가요?</span><a class="ev-tag" href="#q5-2">5-②</a> / ㉢<span class="ev" id="ev5c">생태법인이 되면 과다 번식으로 다른 어종이 줄지 않을까요?</span><a class="ev-tag" href="#q5-3">5-③</a></p>
-  <p><b>반대1(입론):</b> <span class="seg-label">[D]</span> <span class="ev ans" id="ev2">법인이란 일정한 목적을 가진 단체에 인격을 부여한 것인데, 제주남방큰돌고래는 일정한 목적을 가졌다고 보기 어렵습니다.</span><a class="ev-tag ans" href="#q4-4">4-④</a> 인정 범위(황새·수달은?)·후견인 자격 문제도 있습니다. <span class="seg-label">[E]</span> <span class="ev" id="ev4e">생태법인이 소송 주체가 되면 국가·기업·어민의 활동이 위축돼 경제적 손실이 생깁니다(어민 반대).</span><a class="ev-tag" href="#q4-5">4-⑤</a></p>
-  <p><b>찬성2(신문):</b> ㉣<span class="ev" id="ev5d">자연환경보전법은 해양 생태계를 제외하고 있어 돌고래 생존권을 보장 못 한다는 점을 아시나요?</span><a class="ev-tag" href="#q5-4">5-④</a> / ㉤<span class="ev ans" id="ev3">자연을 도구로 보는 인간 중심적 사고가 멸종 위기를 초래한 것은 아닐까요?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a></p>
+  <p><b>반대1(입론):</b> <span class="seg-label">[D]</span> <span class="ev ans" id="ev2">법인이란 일정한 목적을 가진 단체에 인격을 부여한 것인데, 제주남방큰돌고래는 일정한 목적을 가졌다고 보기 어렵습니다.</span><a class="ev-tag ans" href="#q4-4">4-④</a><a class="ev-tag ans" href="#q2-3">2-③</a> 인정 범위(황새·수달은?)·후견인 자격 문제도 있습니다. <span class="seg-label">[E]</span> <span class="ev" id="ev4e">생태법인이 소송 주체가 되면 국가·기업·어민의 활동이 위축돼 경제적 손실이 생깁니다(어민 반대).</span><a class="ev-tag" href="#q4-5">4-⑤</a><a class="ev-tag" href="#q6-2">6-②</a></p>
+  <p><b>찬성2(신문):</b> ㉣<span class="ev" id="ev5d">자연환경보전법은 해양 생태계를 제외하고 있어 돌고래 생존권을 보장 못 한다는 점을 아시나요?</span><a class="ev-tag" href="#q5-4">5-④</a> / ㉤<span class="ev ans" id="ev3">자연을 도구로 보는 인간 중심적 사고가 멸종 위기를 초래한 것은 아닐까요?</span><a class="ev-tag ans" href="#q5-5">5-⑤</a><a class="ev-tag ans" href="#q3-4">3-④</a><a class="ev-tag" href="#q6-4">6-④</a><a class="ev-tag" href="#q6-5">6-⑤</a></p>
   <p class="src-label">(나) 교지글</p>
   <p><span class="ev" id="ev7a">이번 토론에서 찬성 측은 환경적 측면(생존권·바다 환경)과 사회적 측면(경제 손실 방지·자연관 성찰)을, 반대 측은 목적 부재, 인정 범위·후견인 문제, 경제 활동 위축을 들었다.</span><a class="ev-tag" href="#q7-1">7-①</a><a class="ev-tag" href="#q7-2">7-②</a></p>
   <p><span class="ev" id="ev7c">토론을 보며 과거 천성산 도롱뇽·설악산 산양이 원고로 참여한 소송이 떠올랐다. 법원은 ‘동물은 소송 당사자가 될 수 없다’며 기각했다.</span><a class="ev-tag" href="#q7-3">7-③</a> <span class="ev ans" id="ev4">토론을 본 A 학생은 동물에게 법인 자격을 주긴 어렵다고, B 학생은 돌고래가 생태법인이 되면 좋겠다고 말했다.</span><a class="ev-tag ans" href="#q7-4">7-④</a></p>
@@ -313,8 +313,8 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 학생의 초고이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="src-label">[작문 상황] 관심 분야를 소개하고, 그에 대한 자신의 생각 드러내기.</p>
-  <p>당신은 반려동물을 키워 본 적이 있는가? 국내 반려동물 양육 인구는 2010년 약 17.4%에서 2023년 약 30%로 늘었다. 이 증가가 관련 산업의 활성화로 이어진 것이 ‘펫코노미’다. <span class="ev ans" id="ev5">‘펫코노미(petconomy)’는 ‘펫(pet)’과 ‘이코노미(economy)’가 결합한 신조어로, 반려동물 관련 시장·산업을 일컫는다.</span><a class="ev-tag ans" href="#q8-1">8-㉠</a> 반려동물을 가족으로 여기는 ‘펫팸족’이 늘며 사료·간식·용품도 다양화·고급화되고 있다.</p>
-  <p>실제로 고가의 기능성 사료·수제 간식이 인기다. <span class="ev ans" id="ev6">또 펫코노미는 서비스업으로 확장돼 미용실·동물 병원은 물론 반려동물 유치원·행동 교정 센터, 카페·숙박업소, 전용 장례식장까지 생겨났다.</span><a class="ev-tag ans" href="#q8-1">8-㉡</a> 이런 추세로 펫코노미는 앞으로도 꾸준한 성장이 예상된다.</p>
+  <p>당신은 반려동물을 키워 본 적이 있는가? 국내 반려동물 양육 인구는 2010년 약 17.4%에서 2023년 약 30%로 늘었다. 이 증가가 관련 산업의 활성화로 이어진 것이 ‘펫코노미’다. <span class="ev ans" id="ev5">‘펫코노미(petconomy)’는 ‘펫(pet)’과 ‘이코노미(economy)’가 결합한 신조어로, 반려동물 관련 시장·산업을 일컫는다.</span><a class="ev-tag ans" href="#q8-1">8-㉠</a><a class="ev-tag ans" href="#q8-3">8-③</a><a class="ev-tag ans" href="#q8-4">8-④</a><a class="ev-tag" href="#q8-6">8-⑥</a> 반려동물을 가족으로 여기는 ‘펫팸족’이 늘며 사료·간식·용품도 다양화·고급화되고 있다.</p>
+  <p>실제로 고가의 기능성 사료·수제 간식이 인기다. <span class="ev ans" id="ev6">또 펫코노미는 서비스업으로 확장돼 미용실·동물 병원은 물론 반려동물 유치원·행동 교정 센터, 카페·숙박업소, 전용 장례식장까지 생겨났다.</span><a class="ev-tag ans" href="#q8-1">8-㉡</a><a class="ev-tag ans" href="#q6-1">6-①</a><a class="ev-tag ans" href="#q8-5">8-⑤</a> 이런 추세로 펫코노미는 앞으로도 꾸준한 성장이 예상된다.</p>
   <p>펫코노미 성장으로 반려동물을 더 잘 돌볼 환경이 됐지만, 고급화로 양육 비용이 늘고 있다. 특히 의료비는 제도가 미비해 한 번에 큰 비용이 들기도 한다. 비용 부담은 양육 포기로 이어지기도 해 대책이 필요하다.</p>
   <div class="seg" id="segA"><p class="seg-label">[A] (마지막 문단, 고쳐쓰기 대상)</p>
   <p>펫코노미의 성장은 사람과 동물이 주인과 소유물의 관계에서 더불어 살아가는 관계로 변화하고 있다. 펫코노미의 성장이 단순히 경제 지표의 변화에 그치지 않으려면 비싼 사료나 간식만 사주면 안 될 것이다.</p></div>
@@ -442,8 +442,8 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>자음군 단순화는 음절 끝의 겹받침 중 한 자음이 탈락하는 현상으로, ‘음절 끝에서 하나의 자음만 발음된다’는 음절 구조 제약 때문에 일어난다. 그러나 겹받침이 있다고 늘 일어나는 건 아니다. (가) 값[갑] (나) 앉는[안는] (다) 여덟아홉[여더라홉]</p>
-  <p>(가)는 뒤에 형태소가 없어, (나)는 자음으로 시작하는 형태소가 결합해(‘흙냄새’는 비음화도 함께) 단순화가 일어난다. <span class="ev ans" id="ev7">(다)는 겹받침 뒤에 모음으로 시작하는 실질 형태소가 결합해 단순화가 일어난다. 반면 (라) 닭을[달글], 값이[갑씨]는 모음으로 시작하는 형식 형태소가 결합해 단순화가 일어나지 않고 뒤 자음이 연음된다.</span><a class="ev-tag ans" href="#q11-5">11-⑤</a></p>
-  <p><span class="ev ans" id="ev8">탈락 위치는 자음군에 따라 다르다. ‘ㄺ·ㄻ·ㄿ’은 일반적으로 앞 자음이 탈락(닭[닥]), 다만 용언 어간 ‘ㄺ’ 뒤에 ‘ㄱ’ 어미가 오면 뒤 자음이 탈락(읽고[일꼬]). 그 외 겹받침은 뒤 자음이 탈락(몫[목]). ‘ㄼ’은 뒤 자음 탈락(얇다[얄따])이 일반적이나 ‘밟다[밥따]’·‘넓죽하다[넙쭈카다]’ 등은 예외적으로 앞 자음이 탈락한다.</span><a class="ev-tag ans" href="#q12-3">12-③</a></p>
+  <p>(가)는 뒤에 형태소가 없어, (나)는 자음으로 시작하는 형태소가 결합해(‘흙냄새’는 비음화도 함께) 단순화가 일어난다. <span class="ev ans" id="ev7">(다)는 겹받침 뒤에 모음으로 시작하는 실질 형태소가 결합해 단순화가 일어난다. 반면 (라) 닭을[달글], 값이[갑씨]는 모음으로 시작하는 형식 형태소가 결합해 단순화가 일어나지 않고 뒤 자음이 연음된다.</span><a class="ev-tag ans" href="#q11-5">11-⑤</a><a class="ev-tag" href="#q11-1">11-①</a><a class="ev-tag" href="#q11-2">11-②</a><a class="ev-tag" href="#q11-3">11-③</a></p>
+  <p><span class="ev ans" id="ev8">탈락 위치는 자음군에 따라 다르다. ‘ㄺ·ㄻ·ㄿ’은 일반적으로 앞 자음이 탈락(닭[닥]), 다만 용언 어간 ‘ㄺ’ 뒤에 ‘ㄱ’ 어미가 오면 뒤 자음이 탈락(읽고[일꼬]). 그 외 겹받침은 뒤 자음이 탈락(몫[목]). ‘ㄼ’은 뒤 자음 탈락(얇다[얄따])이 일반적이나 ‘밟다[밥따]’·‘넓죽하다[넙쭈카다]’ 등은 예외적으로 앞 자음이 탈락한다.</span><a class="ev-tag ans" href="#q12-3">12-③</a><a class="ev-tag" href="#q11-4">11-④</a><a class="ev-tag" href="#q12-1">12-①</a><a class="ev-tag" href="#q12-2">12-②</a><a class="ev-tag" href="#q12-4">12-④</a><a class="ev-tag" href="#q12-5">12-⑤</a></p>
   <p>(마) 많아[마나], 끓이다[끄리다]는 단순화로 착각하기 쉬우나, ‘ㅎ’으로 끝나는 어간 뒤에 모음 어미·접미사가 와 ‘ㅎ’이 탈락한 것이다.</p>
 </div>
 
@@ -639,10 +639,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>약의 재료가 되는 물질을 약물, 투여 가능한 형태로 가공한 것을 약제라 한다. 약제는 약효를 내는 ㉠<u>활성 성분</u>(약물)과 첨가제인 불활성 성분으로 구성된다. 정제제(당류 등), 경구 액체제(정제수·감미료), 주사형 액체제(생리식염수·항균제)가 대표 유형이다.</p>
-  <p><span class="ev ans" id="ev9">약물은 농도 구배를 원동력 삼아 높은 농도에서 낮은 농도로 이동·확산한다. 농도 구배가 크거나 확산 계수가 클수록 빠르다.</span><a class="ev-tag ans" href="#q16-3">16-③</a> 같은 약물이라도 액체제는 이미 용해돼 표면적이 넓어 정제제보다 확산 계수가 크다.</p>
+  <p><span class="ev ans" id="ev9">약물은 농도 구배를 원동력 삼아 높은 농도에서 낮은 농도로 이동·확산한다. 농도 구배가 크거나 확산 계수가 클수록 빠르다.</span><a class="ev-tag ans" href="#q16-3">16-③</a><a class="ev-tag ans" href="#q9-3">9-③</a><a class="ev-tag" href="#q16-2">16-②</a><a class="ev-tag" href="#q16-5">16-⑤</a><a class="ev-tag" href="#q17-1">17-①</a><a class="ev-tag" href="#q17-2">17-②</a><a class="ev-tag" href="#q18-1">18-①</a><a class="ev-tag" href="#q18-2">18-②</a><a class="ev-tag ans" href="#q18-3">18-③</a><a class="ev-tag" href="#q18-4">18-④</a><a class="ev-tag" href="#q18-5">18-⑤</a><a class="ev-tag" href="#q19-2">19-②</a><a class="ev-tag" href="#q19-4">19-④</a><a class="ev-tag" href="#q19-5">19-⑤</a><a class="ev-tag" href="#q20-3">20-③</a><a class="ev-tag" href="#q20-4">20-④</a><a class="ev-tag ans" href="#q20-5">20-⑤</a> 같은 약물이라도 액체제는 이미 용해돼 표면적이 넓어 정제제보다 확산 계수가 크다.</p>
   <p>체내 약물은 흡수→분포→제거 단계를 거친다. 흡수 단계에서 혈액까지 도달하는 비율이 생체이용률이다. 정맥 주사는 항상 1, 경구 투여는 초회통과효과로 항상 1보다 작다(100mg×0.3 → 30mg 도달).</p>
   <p>분포 단계에서 분자량이 적거나 지용성이 높은 약물은 세포막을 통과하기 쉬워 넓게 분포한다. 분포 용적 = 도달 약물량 ÷ 혈장 약물 농도(30mg ÷ 5mg/L = 6L). 제거 단계의 청소율이 높으면 약물이 빨리 제거된다.</p>
-  <p><span class="ev ans" id="ev10">혈액에 도달한 약물 중 일부는 간·장 등에서 대사돼 약효가 더 강한 ㉡<u>활성 형태</u>로 변할 수 있다.</span><a class="ev-tag ans" href="#q17-4">17-④</a> 목표 조직은 시료 채취가 어려워 혈장 약물 농도를 측정한다(혈장 농도↑이면 목표 조직 농도도↑로 가정). 목표 조직 외에 분포하면 목표 조직 농도가 낮아 약효가 기대보다 낮을 수 있다.</p>
+  <p><span class="ev ans" id="ev10">혈액에 도달한 약물 중 일부는 간·장 등에서 대사돼 약효가 더 강한 ㉡<u>활성 형태</u>로 변할 수 있다.</span><a class="ev-tag ans" href="#q17-4">17-④</a><a class="ev-tag ans" href="#q10-4">10-④</a><a class="ev-tag" href="#q16-1">16-①</a><a class="ev-tag" href="#q16-4">16-④</a><a class="ev-tag" href="#q17-3">17-③</a><a class="ev-tag" href="#q17-5">17-⑤</a><a class="ev-tag ans" href="#q19-1">19-①</a><a class="ev-tag" href="#q19-3">19-③</a><a class="ev-tag" href="#q20-1">20-①</a><a class="ev-tag" href="#q20-2">20-②</a> 목표 조직은 시료 채취가 어려워 혈장 약물 농도를 측정한다(혈장 농도↑이면 목표 조직 농도도↑로 가정). 목표 조직 외에 분포하면 목표 조직 농도가 낮아 약효가 기대보다 낮을 수 있다.</p>
 </div>
 
 <div class="q-block" id="prob16">
@@ -839,9 +839,9 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <span class="seg-label">[C]</span> 봉우리에 올라앉아 채미가를 길게 불러<br>
   울려퍼진 소리에 가슴속이 상쾌하니 / 무우대에서 바람 쐰들 이보다 더하겠는가 (…)<br>
   <span class="seg-label">[D]</span> 물가에서 시 짓고 언덕 올라 휘파람 불며<br>
-  하루 또 하루 산수에서 소일하니 / <span class="ev ans" id="ev14">산수의 즐거움을 나밖에 뉘 아는가</span><a class="ev-tag ans" href="#q21-1">21-①</a></p>
+  하루 또 하루 산수에서 소일하니 / <span class="ev ans" id="ev14">산수의 즐거움을 나밖에 뉘 아는가</span><a class="ev-tag ans" href="#q21-1">21-①</a><a class="ev-tag ans" href="#q14-1">14-①</a><a class="ev-tag" href="#q21-2">21-②</a><a class="ev-tag" href="#q21-4">21-④</a><a class="ev-tag" href="#q22-4">22-④</a></p>
   <p class="muted">(중략)</p>
-  <p class="verse"><span class="ev ans" id="ev16">국화를 잔에 띄워 밝은 달 맞으니 / 끝없는 맑은 경치 나 혼자 즐기노라</span><a class="ev-tag ans" href="#q23-1">23-①</a><br>
+  <p class="verse"><span class="ev ans" id="ev16">국화를 잔에 띄워 밝은 달 맞으니 / 끝없는 맑은 경치 나 혼자 즐기노라</span><a class="ev-tag ans" href="#q23-1">23-①</a><a class="ev-tag" href="#q22-1">22-①</a><a class="ev-tag" href="#q22-3">22-③</a><a class="ev-tag" href="#q22-5">22-⑤</a><a class="ev-tag" href="#q23-3">23-③</a><br>
   북풍이 으스스하고 흰 눈이 흩날리니 / 언덕과 골짜기 경요굴이 되었거늘 (…)<br>
   <span class="seg-label">[E]</span> 사계절 경치가 다 제각각 재촉하니 / 게으른 이 몸이 언제나 한가할까<br>
   기쁨이 다하니 근심도 많이 난다<br>
@@ -852,13 +852,13 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="verse">늙고 병든 이 내 몸이 죄명조차 지중하니 / 극중일월(棘中日月)에 일만염려 찬 재 같다 (제3수)<br>
   죽어도 못 잊을 일 군친(君親)의 은혜로다 / 임금이 자식같이 보시던 은덕은 더욱 망극하여라 (제19수)<br>
   새 짐승 중 못된 것은 두루미 네로구나 / 겉풍신 헛소리로 사람을 어리온다 / 닭만 못할까 하노라 (제27수)<br>
-  <span class="ev ans" id="ev17">섬은 조개 등만 하고 바다는 일배수 같아 / 이 내 몸을 용납하였으니 / 세상의 넓은 곳은 예뿐인가 하노라</span><a class="ev-tag ans" href="#q24-4">24-④</a> (제42수)</p>
+  <span class="ev ans" id="ev17">섬은 조개 등만 하고 바다는 일배수 같아 / 이 내 몸을 용납하였으니 / 세상의 넓은 곳은 예뿐인가 하노라</span><a class="ev-tag ans" href="#q24-4">24-④</a><a class="ev-tag" href="#q23-2">23-②</a><a class="ev-tag" href="#q23-5">23-⑤</a> (제42수)</p>
   <p class="muted" style="text-align:right">— 김이익, 「금강영언록」</p>
 
   <p class="src-label">(다) 홍성민, 「촉견폐일설」</p>
   <p>촉나라 남쪽은 비가 많아, 개는 해를 보면 짖는다. 해를 보고 짖는 게 아니라 ‘일상과 다름’을 보고 짖는 것이다. 이 개는 촉나라 하늘만 보아 ‘비가 일상’이고 ‘해는 이상한 것’이라, 이상하니 짖는다.</p>
   <p class="muted">(중략)</p>
-  <p>촉나라에 비가 늘 내리지 않았다면 개는 해가 아니라 비를 짖었을 것이다. 사람도 악이 일상이 아니었다면 선이 아니라 악을 짖었을 것이다. <span class="ev ans" id="ev18">신하가 크게 걱정하는 것은 비가 항상 오는 것, 악을 항상 행하는 것뿐이다.</span><a class="ev-tag ans" href="#q25-2">25-②</a> 악이 일상적이지 않게 한다면 올바름을 보고 짖는 걱정도 끊어질 것이다. 해를 보고 짖는 개는 날씨에 달렸지만, 올바름을 보고 짖는 습성은 군왕이 마음을 바꾸는 데 달렸다.</p>
+  <p>촉나라에 비가 늘 내리지 않았다면 개는 해가 아니라 비를 짖었을 것이다. 사람도 악이 일상이 아니었다면 선이 아니라 악을 짖었을 것이다. <span class="ev ans" id="ev18">신하가 크게 걱정하는 것은 비가 항상 오는 것, 악을 항상 행하는 것뿐이다.</span><a class="ev-tag ans" href="#q25-2">25-②</a><a class="ev-tag" href="#q21-3">21-③</a><a class="ev-tag" href="#q21-5">21-⑤</a><a class="ev-tag" href="#q23-4">23-④</a><a class="ev-tag" href="#q25-1">25-①</a><a class="ev-tag" href="#q25-3">25-③</a><a class="ev-tag" href="#q25-4">25-④</a><a class="ev-tag" href="#q25-5">25-⑤</a> 악이 일상적이지 않게 한다면 올바름을 보고 짖는 걱정도 끊어질 것이다. 해를 보고 짖는 개는 날씨에 달렸지만, 올바름을 보고 짖는 습성은 군왕이 마음을 바꾸는 데 달렸다.</p>
   <p class="muted" style="text-align:right">— 홍성민, 「촉견폐일설」</p>
 </div>
 
@@ -1044,9 +1044,9 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>대리제도는 대리권을 가진 대리인이 본인 대신 법률행위를 하고 그 효과를 본인에게 귀속시키는 제도다. 대리인은 대리권이 있어야 하고, 그 범위 안에서 행위해야 하며, ‘A의 대리인 B’처럼 본인을 밝혀야 한다.</p>
   <p>대리권 없는 자가 대리행위를 하거나 범위를 넘으면 무권대리다. 원칙상 그 효과는 본인에게도, 대리인에게도 발생하지 않아 상대방이 손해를 입는다. 그렇다고 책임을 상대방에게 전부 지우면 <span class="ev ans" id="ev30">대리제도 신뢰도가 ⓐ<u>떨어질</u></span><a class="ev-tag ans" href="#q30-1">30-①</a> 수 있다.</p>
-  <p>그래서 민법은 표현대리를 둔다 — 대리권이 없어도 ‘있는 것 같은 외관’이 있고 본인에게 어느 정도 책임이 있으면, 무권대리 효과를 본인에게 귀속시킨다. <span class="ev ans" id="ev19">㉠<u>표현대리는 상대방이 대리권 없음을 알았거나, 부주의로 알지 못한 경우에는 성립하지 않는다.</u></span><a class="ev-tag ans" href="#q28-5">28-㉠</a> 성립해도 상대방이 주장하지 않으면 본인은 책임지지 않는다.</p>
-  <p>표현대리는 셋이다. ① 대리권 수여의 표시: A가 대리권을 안 줬으면서 줬다고 C에게 통지해 C가 오인한 경우. <span class="ev ans" id="ev20">이때 외관은 만들어지지만 그것이 ‘기본대리권’을 생기게 하는 것은 아니다.</span><a class="ev-tag ans" href="#q27-5">27-⑤</a> ② 권한을 넘은 표현대리: 대리권 범위를 넘어 행위(서류를 다 갖춰 상대방이 믿을 수밖에 없던 이유가 있어야 성립). 인정 안 돼도 ‘기본대리권’ 범위에선 효력 있음. ③ 대리권 소멸 후: 본인 사망 등으로 대리권이 소멸했으나 상대방이 그 전 거래 경험으로 여전히 믿었던 경우.</p>
-  <p><span class="ev ans" id="ev21">무권대리행위는 표현대리가 안 돼도 본인이 추인하면 처음부터 정당한 대리권이 있었던 것과 같은 효과가 생긴다.</span><a class="ev-tag ans" href="#q29-1">29-①</a> 추인도 못 받으면 대리인이 상대방 선택에 따라 이행·배상한다(단 상대방이 무권대리임을 알았거나 부주의로 몰랐으면 책임 못 물음).</p>
+  <p>그래서 민법은 표현대리를 둔다 — 대리권이 없어도 ‘있는 것 같은 외관’이 있고 본인에게 어느 정도 책임이 있으면, 무권대리 효과를 본인에게 귀속시킨다. <span class="ev ans" id="ev19">㉠<u>표현대리는 상대방이 대리권 없음을 알았거나, 부주의로 알지 못한 경우에는 성립하지 않는다.</u></span><a class="ev-tag ans" href="#q28-5">28-㉠</a><a class="ev-tag" href="#q26-1">26-①</a><a class="ev-tag" href="#q26-2">26-②</a><a class="ev-tag" href="#q26-4">26-④</a><a class="ev-tag" href="#q27-1">27-①</a><a class="ev-tag" href="#q27-4">27-④</a><a class="ev-tag" href="#q28-1">28-①</a><a class="ev-tag" href="#q28-2">28-②</a><a class="ev-tag" href="#q28-3">28-③</a><a class="ev-tag" href="#q28-4">28-④</a><a class="ev-tag" href="#q29-2">29-②</a><a class="ev-tag" href="#q29-4">29-④</a><a class="ev-tag" href="#q29-5">29-⑤</a> 성립해도 상대방이 주장하지 않으면 본인은 책임지지 않는다.</p>
+  <p>표현대리는 셋이다. ① 대리권 수여의 표시: A가 대리권을 안 줬으면서 줬다고 C에게 통지해 C가 오인한 경우. <span class="ev ans" id="ev20">이때 외관은 만들어지지만 그것이 ‘기본대리권’을 생기게 하는 것은 아니다.</span><a class="ev-tag ans" href="#q27-5">27-⑤</a><a class="ev-tag" href="#q27-2">27-②</a><a class="ev-tag" href="#q29-3">29-③</a> ② 권한을 넘은 표현대리: 대리권 범위를 넘어 행위(서류를 다 갖춰 상대방이 믿을 수밖에 없던 이유가 있어야 성립). 인정 안 돼도 ‘기본대리권’ 범위에선 효력 있음. ③ 대리권 소멸 후: 본인 사망 등으로 대리권이 소멸했으나 상대방이 그 전 거래 경험으로 여전히 믿었던 경우.</p>
+  <p><span class="ev ans" id="ev21">무권대리행위는 표현대리가 안 돼도 본인이 추인하면 처음부터 정당한 대리권이 있었던 것과 같은 효과가 생긴다.</span><a class="ev-tag ans" href="#q29-1">29-①</a><a class="ev-tag ans" href="#q26-3">26-③</a><a class="ev-tag" href="#q26-5">26-⑤</a><a class="ev-tag" href="#q27-3">27-③</a> 추인도 못 받으면 대리인이 상대방 선택에 따라 이행·배상한다(단 상대방이 무권대리임을 알았거나 부주의로 몰랐으면 책임 못 물음).</p>
 </div>
 
 <div class="q-block" id="prob26">
@@ -1228,10 +1228,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted">(중략)</p>
   <p>나는 스크랩한 얼굴들을 재배열해 얼굴로 이루어진 세계지도를 만들었다. 옆 얼굴과 아주 작은 차이만 두며 배치하니, 기준이던 ‘전형적 한국인 얼굴’과 점점 딴판이 되어 갔다.</p>
   <div class="seg" id="segA"><p class="seg-label">[A]</p>
-  <p><span class="ev ans" id="ev24">내 지도에서 한국인은 중국인이 되기도, 아랍인이 되기도 했다. 대륙을 넘어 아프리카인·유럽인이 되었고, 스칸디나비아 통나무집·북극 이글루·파타고니아 목장에 살았다. 반얀 나무 해먹과 정글 오두막에서 잠들었고, 남십자성과 북십자성을 동시에 보며 낙타와 야크를 타고 돌아다녔다.</span><a class="ev-tag ans" href="#q31-2">31-②</a></p></div>
-  <p>나는 완성된 지도를 하산 아저씨에게 보여 주었다. <span class="ev ans" id="ev25">그는 아침에 정육점에 갔다가 문을 열지 못하고 오래도록 바라만 보다 돌아와, 안절부절못하다 지쳐 잠들었다.</span><a class="ev-tag ans" href="#q32-2">32-②</a> 금식 기간이라 물조차 마시지 않아 입술이 갈라졌다. 기도하러 깨어난 그가 지도를 보았다.</p>
-  <p>“너는 <span class="ev ans" id="ev26">사람과 사람을 연결해주는 보이지 않는 끈</span><a class="ev-tag ans" href="#q33-5">33-⑤</a>을 발견한 것 같구나.” “그걸 가르쳐준 사람은 아저씨예요. 아저씨는 어떤 한국인보다 한국인답고 어떤 터키인보다 터키인다워요.” “분간이 되지 않는다는 말이겠지.” “현실에서는 불가능한 꿈같은 거죠.”</p>
-  <p>“너를 난폭하게 만든 건 다른 누구도 아닌 바로 너 자신이란다.” 하산 아저씨는 나를 끌어당겨 가슴팍에 품었다. “네 흉터는 그냥 흉터가 아니란다. 그 흉터는 역사가 날염된 것이야.” <span class="ev ans" id="ev27">나는 하산 아저씨가 나에 대해 더 많은 이야기를 해주길 기다렸다.</span><a class="ev-tag ans" href="#q34-4">34-④</a> 하지만 그는 더 말하지 않았다.</p>
+  <p><span class="ev ans" id="ev24">내 지도에서 한국인은 중국인이 되기도, 아랍인이 되기도 했다. 대륙을 넘어 아프리카인·유럽인이 되었고, 스칸디나비아 통나무집·북극 이글루·파타고니아 목장에 살았다. 반얀 나무 해먹과 정글 오두막에서 잠들었고, 남십자성과 북십자성을 동시에 보며 낙타와 야크를 타고 돌아다녔다.</span><a class="ev-tag ans" href="#q31-2">31-②</a><a class="ev-tag" href="#q31-1">31-①</a><a class="ev-tag" href="#q31-3">31-③</a><a class="ev-tag" href="#q31-4">31-④</a><a class="ev-tag" href="#q31-5">31-⑤</a><a class="ev-tag" href="#q32-5">32-⑤</a><a class="ev-tag" href="#q34-1">34-①</a><a class="ev-tag" href="#q34-2">34-②</a></p></div>
+  <p>나는 완성된 지도를 하산 아저씨에게 보여 주었다. <span class="ev ans" id="ev25">그는 아침에 정육점에 갔다가 문을 열지 못하고 오래도록 바라만 보다 돌아와, 안절부절못하다 지쳐 잠들었다.</span><a class="ev-tag ans" href="#q32-2">32-②</a><a class="ev-tag" href="#q32-1">32-①</a> 금식 기간이라 물조차 마시지 않아 입술이 갈라졌다. 기도하러 깨어난 그가 지도를 보았다.</p>
+  <p>“너는 <span class="ev ans" id="ev26">사람과 사람을 연결해주는 보이지 않는 끈</span><a class="ev-tag ans" href="#q33-5">33-⑤</a><a class="ev-tag" href="#q33-1">33-①</a><a class="ev-tag" href="#q33-2">33-②</a><a class="ev-tag" href="#q33-3">33-③</a><a class="ev-tag" href="#q33-4">33-④</a>을 발견한 것 같구나.” “그걸 가르쳐준 사람은 아저씨예요. 아저씨는 어떤 한국인보다 한국인답고 어떤 터키인보다 터키인다워요.” “분간이 되지 않는다는 말이겠지.” “현실에서는 불가능한 꿈같은 거죠.”</p>
+  <p>“너를 난폭하게 만든 건 다른 누구도 아닌 바로 너 자신이란다.” 하산 아저씨는 나를 끌어당겨 가슴팍에 품었다. “네 흉터는 그냥 흉터가 아니란다. 그 흉터는 역사가 날염된 것이야.” <span class="ev ans" id="ev27">나는 하산 아저씨가 나에 대해 더 많은 이야기를 해주길 기다렸다.</span><a class="ev-tag ans" href="#q34-4">34-④</a><a class="ev-tag" href="#q32-3">32-③</a><a class="ev-tag" href="#q32-4">32-④</a><a class="ev-tag" href="#q34-3">34-③</a><a class="ev-tag" href="#q34-5">34-⑤</a> 하지만 그는 더 말하지 않았다.</p>
   <p class="muted" style="text-align:right">— 손홍규, 「이슬람 정육점」</p>
 </div>
 
@@ -1377,7 +1377,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[35 ~ 37] 다음 글을 읽고 물음에 답하시오.</p>
   <p class="src-label">(가) 백석, 「선우사(膳友辭)」</p>
-  <p class="verse">낡은 나조반에 <span class="ev ans" id="ev28">흰밥</span><a class="ev-tag ans" href="#q35-4">35-④</a>도 가자미도 나도 나와 앉아서 / 쓸쓸한 저녁을 맞는다<br>
+  <p class="verse">낡은 나조반에 <span class="ev ans" id="ev28">흰밥</span><a class="ev-tag ans" href="#q35-4">35-④</a><a class="ev-tag" href="#q35-1">35-①</a><a class="ev-tag" href="#q35-2">35-②</a><a class="ev-tag" href="#q35-3">35-③</a><a class="ev-tag" href="#q37-1">37-①</a><a class="ev-tag" href="#q37-2">37-②</a>도 가자미도 나도 나와 앉아서 / 쓸쓸한 저녁을 맞는다<br>
   흰밥과 가자미와 나는 / 우리들은 그 무슨 이야기라도 다 할 것 같다<br>
   우리들은 서로 미덥고 정답고 그리고 서로 좋구나 (…)<br>
   <span class="ev ans" id="ev-q37-5a">외따른 산골에서 소리개 소리 배우며 다람쥐 동무하고 자라난 탓이다</span><a class="ev-tag ans" href="#q37-5">37-⑤(가)</a><br>
@@ -1394,7 +1394,7 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   하지만 나는 바다의 목로에 앉아 ㉢<u>여전히</u> 고래의 이야길 듣는다<br>
   <span class="ev ans" id="ev-q37-5b">해마들이 진주의 계곡을 발견했대 / 농게 가족이 새 뻘집으로 이사를 한다더군</span><a class="ev-tag ans" href="#q37-5">37-⑤(나)</a> (…)<br>
   내게는 ㉣<u>아직</u> 많은 날들이 있다 내일은 5마력의 동력을 / 배에 더 얹어야겠다 깨진 파도의 유리창을 갈아 끼워야겠다<br>
-  저 아래 물밑을 흐르는 어뢰의 아이들 손을 잡고 <span class="ev ans" id="ev-q36-5">㉤<u>쏜살같이</u> 해협을 달려봐야겠다</span><a class="ev-tag ans" href="#q36-5">36-⑤</a><br>
+  저 아래 물밑을 흐르는 어뢰의 아이들 손을 잡고 <span class="ev ans" id="ev-q36-5">㉤<u>쏜살같이</u> 해협을 달려봐야겠다</span><a class="ev-tag ans" href="#q36-5">36-⑤</a><a class="ev-tag" href="#q35-5">35-⑤</a><a class="ev-tag" href="#q36-1">36-①</a><a class="ev-tag" href="#q36-2">36-②</a><a class="ev-tag" href="#q36-3">36-③</a><a class="ev-tag" href="#q36-4">36-④</a><a class="ev-tag" href="#q37-3">37-③</a><a class="ev-tag" href="#q37-4">37-④</a><br>
   (…) 하얗게 물을 뿜어 올리는 화분 하나 등에 얹고 / 어린 고래로 돌아오는 꿈</p>
   <p class="muted" style="text-align:right">— 송찬호, 「고래의 꿈」</p>
 </div>
@@ -1514,8 +1514,8 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[38 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="src-label">(가) 카의 역사관</p>
   <p>실증주의(랑케)는 과거를 있는 그대로 복원하려 했으나 주관주의(콜링우드)의 비판을 받았다. 카는 사료 검증을 인정하면서도 역사가의 선택·해석이 필연적으로 주관성을 ⓐ<u>수반</u>한다고 보아, 역사를 ‘현재와 과거의 끊임없는 대화’로 정의했다.</p>
-  <p><span class="ev ans" id="ev31">카는 사실을 ‘과거에 대한 사실’(기록된 과거)·‘역사상의 사실’(역사가가 선택한 사실)·‘역사적 사실’(중요성이 보편 인정된 사실)로 구분했다.</span><a class="ev-tag ans" href="#q38-2">38-②</a> ㉠<u>역사가는 ‘사실에 대한 지배자’가 되어서는 안 된다</u>며, 잘못 해석할 가능성을 줄이려 끊임없이 의심·비판하는 태도를 ⓑ<u>견지</u>해야 한다고 했다. <span class="ev ans" id="ev32">‘역사상의 사실’은 변화·재해석 가능성이 높아 역동적이지만, ‘역사적 사실’은 정태적이다.</span><a class="ev-tag ans" href="#q39-1">39-①</a></p>
-  <p>콜링우드는 역사가 항상 오염돼 과학적 객관성을 얻을 수 없다고 했다. <span class="ev ans" id="ev33">이와 관련해 카는 역사가가 자아를 완전히 소거할 수 없다고 보아 책임감과 상상적 이해(과거 인물의 생각·행동을 맥락 속에서 재구성)를 강조했다.</span><a class="ev-tag ans" href="#q40-3">40-③</a></p>
+  <p><span class="ev ans" id="ev31">카는 사실을 ‘과거에 대한 사실’(기록된 과거)·‘역사상의 사실’(역사가가 선택한 사실)·‘역사적 사실’(중요성이 보편 인정된 사실)로 구분했다.</span><a class="ev-tag ans" href="#q38-2">38-②</a><a class="ev-tag" href="#q38-1">38-①</a><a class="ev-tag" href="#q38-3">38-③</a><a class="ev-tag" href="#q39-2">39-②</a><a class="ev-tag ans" href="#q41-2">41-②</a><a class="ev-tag" href="#q41-4">41-④</a> ㉠<u>역사가는 ‘사실에 대한 지배자’가 되어서는 안 된다</u>며, 잘못 해석할 가능성을 줄이려 끊임없이 의심·비판하는 태도를 ⓑ<u>견지</u>해야 한다고 했다. <span class="ev ans" id="ev32">‘역사상의 사실’은 변화·재해석 가능성이 높아 역동적이지만, ‘역사적 사실’은 정태적이다.</span><a class="ev-tag ans" href="#q39-1">39-①</a><a class="ev-tag" href="#q38-4">38-④</a><a class="ev-tag" href="#q40-1">40-①</a><a class="ev-tag" href="#q41-1">41-①</a><a class="ev-tag" href="#q41-3">41-③</a></p>
+  <p>콜링우드는 역사가 항상 오염돼 과학적 객관성을 얻을 수 없다고 했다. <span class="ev ans" id="ev33">이와 관련해 카는 역사가가 자아를 완전히 소거할 수 없다고 보아 책임감과 상상적 이해(과거 인물의 생각·행동을 맥락 속에서 재구성)를 강조했다.</span><a class="ev-tag ans" href="#q40-3">40-③</a><a class="ev-tag" href="#q38-5">38-⑤</a><a class="ev-tag" href="#q39-3">39-③</a><a class="ev-tag" href="#q39-4">39-④</a><a class="ev-tag" href="#q39-5">39-⑤</a><a class="ev-tag" href="#q40-2">40-②</a><a class="ev-tag" href="#q40-4">40-④</a><a class="ev-tag" href="#q40-5">40-⑤</a><a class="ev-tag" href="#q41-5">41-⑤</a></p>
   <p>카의 역사관은 객관적 진실을 모호하게 한다는 지적도 받지만, 역사학을 현재와의 상호작용 속 역동적 학문으로 재정립했다는 점에서 ⓒ<u>한정</u>하지 않고 높이 평가받는다.</p>
   <p class="src-label">(나) 언어로의 전환</p>
   <p>‘언어로의 전환’은 역사 연구 대상을 ‘과거 사실’에서 ‘과거 사실을 지칭하는 언어’로 옮긴 것으로, 소쉬르의 기호학적 언어관에 영향받았다.</p>
@@ -1700,11 +1700,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[43 ~ 45] 다음 글을 읽고 물음에 답하시오.</p>
   <p class="muted">[앞부분 줄거리] 백봉·백선은 포로가 된 아버지 백활수를 구하려 망월대사 밑에서 수련하고, 화룡은 병법을 익힌다. 호국이 세자를 잡아가자 황제는 백봉을 원수로 삼아 호국과 싸우게 한다. 적장 철남은 신장을 불러 운무를 일으킨다.</p>
   <p>운무 속에서 백봉이 백선을 찾았으나 동생과 신장을 분간할 수 없었다. 형제가 금사진에 싸여 위태롭자 망월대사가 외쳤다. “봉과 선아, 그 말이 정신을 잃게 하지 말라.” 형제가 정신을 차려 말을 채찍질하니 진중을 벗어나 화룡을 데리고 돌아왔다.</p>
-  <p>이튿날 철남을 쫓던 형제는 산곡에서 ‘허인(虛人)’만 보고 흉계임을 알았고, 사방에서 불이 일었다. <span class="ev ans" id="ev36">화룡 일행이 달려들어 목을 친 것은 철남이 아니라 ‘초인(草人)’이었고, 화룡이 부채를 거꾸로 잡아 ‘물 수(水)’ 자를 써 흑운·풍우를 일으켜 불을 껐다.</span><a class="ev-tag ans" href="#q43-2">43-②</a></p>
+  <p>이튿날 철남을 쫓던 형제는 산곡에서 ‘허인(虛人)’만 보고 흉계임을 알았고, 사방에서 불이 일었다. <span class="ev ans" id="ev36">화룡 일행이 달려들어 목을 친 것은 철남이 아니라 ‘초인(草人)’이었고, 화룡이 부채를 거꾸로 잡아 ‘물 수(水)’ 자를 써 흑운·풍우를 일으켜 불을 껐다.</span><a class="ev-tag ans" href="#q43-2">43-②</a><a class="ev-tag" href="#q43-3">43-③</a><a class="ev-tag" href="#q43-4">43-④</a><a class="ev-tag" href="#q43-5">43-⑤</a><a class="ev-tag" href="#q45-1">45-①</a><a class="ev-tag" href="#q45-2">45-②</a><a class="ev-tag" href="#q45-3">45-③</a></p>
   <p>황제는 충천한 불길을 보고 형제가 죽었다 여겨 자결하려 했다. 철남이 황제를 위협하자, 불을 피해 온 형제가 적진에서 세자를 구출하고, 철남의 창 든 팔을 칠성검으로 베어 황제를 구했다.</p>
   <p class="muted">(중략)</p>
-  <p>봉과 선이 호왕에게 외쳤다. <span class="ev ans" id="ev37">“개 같은 호왕은 들으라. 네가 강포만 믿고 범람한 뜻을 두매 우리 황제가 진노하사 네 죄를 물으라 하시니, 나의 부친을 모시고 내게 와 항복하라. 그러지 않으면 너의 나라를 소멸하리라.”</span><a class="ev-tag ans" href="#q44-4">44-[B]</a></p>
-  <p>호왕이 십여 합을 싸우다 본진으로 달아나자, <span class="ev ans" id="ev38">백봉은 ‘적진에 흉계가 있도다’ 생각해 쫓지 않고 본진으로 돌아왔다.</span><a class="ev-tag ans" href="#q45-5">45-⑤</a> 호왕은 진문을 닫고 활수를 잡아내 협박했다. “네가 항복 안 하면 네 자식과 함께 죽이리라.”</p>
+  <p>봉과 선이 호왕에게 외쳤다. <span class="ev ans" id="ev37">“개 같은 호왕은 들으라. 네가 강포만 믿고 범람한 뜻을 두매 우리 황제가 진노하사 네 죄를 물으라 하시니, 나의 부친을 모시고 내게 와 항복하라. 그러지 않으면 너의 나라를 소멸하리라.”</span><a class="ev-tag" href="#q44-1">44-①</a><a class="ev-tag" href="#q44-2">44-②</a><a class="ev-tag" href="#q44-3">44-③</a><a class="ev-tag ans" href="#q44-4">44-④</a><a class="ev-tag" href="#q44-5">44-⑤</a></p>
+  <p>호왕이 십여 합을 싸우다 본진으로 달아나자, <span class="ev ans" id="ev38">백봉은 ‘적진에 흉계가 있도다’ 생각해 쫓지 않고 본진으로 돌아왔다.</span><a class="ev-tag" href="#q43-1">43-①</a><a class="ev-tag" href="#q45-4">45-④</a><a class="ev-tag ans" href="#q45-5">45-⑤</a> 호왕은 진문을 닫고 활수를 잡아내 협박했다. “네가 항복 안 하면 네 자식과 함께 죽이리라.”</p>
   <div class="seg" id="segA"><p class="seg-label">[A]</p><p>활수가 분노했다. “우리 삼부자가 다 죽을지언정 어찌 네게 항복하랴.”</p></div>
   <p>형제는 ‘한칼로 적진을 소멸코자 하되 진중에 들어가 어찌 옥석을 분별하리오’ 하며 통곡했다.</p>
   <p class="muted" style="text-align:right">— 작자 미상, 「백봉선전」</p>
