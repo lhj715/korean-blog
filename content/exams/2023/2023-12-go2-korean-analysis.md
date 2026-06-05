@@ -56,7 +56,7 @@ layout: "exam"
   <p class="q-stem">3. &lt;보기&gt;는 위 발표를 들은 학생들의 반응이다. 발표 내용을 고려하여 학생의 반응을 이해한 것으로 적절하지 않은 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p class="dlg"><b>학생 1:</b> <span class="ev" id="ev-q3-4a">금속 활자는 한 가지뿐인 줄 알았는데 그렇지 않다는 걸 알게 되었어.</span><a class="ev-tag" href="#q3-4">3-④</a> <span class="ev" id="ev-q3-15">하지만 계미자와 갑인자에 대해서만 설명해서 아쉬워. 조선 시대에 주조된 다른 금속 활자에 대해 찾아봐야겠어.</span><a class="ev-tag" href="#q3-1">3-①</a><a class="ev-tag" href="#q3-5">3-⑤</a></p>
+    <p class="dlg"><b>학생 1:</b> <span class="ev ans" id="ev-q3-4a">금속 활자는 한 가지뿐인 줄 알았는데 그렇지 않다는 걸 알게 되었어.</span><a class="ev-tag ans" href="#q3-4">3-④</a> <span class="ev" id="ev-q3-15">하지만 계미자와 갑인자에 대해서만 설명해서 아쉬워. 조선 시대에 주조된 다른 금속 활자에 대해 찾아봐야겠어.</span><a class="ev-tag" href="#q3-1">3-①</a><a class="ev-tag" href="#q3-5">3-⑤</a></p>
     <p class="dlg"><b>학생 2:</b> <span class="ev ans" id="ev-q3-4b">갑인자에 대한 기사를 본 적이 있어서 갑인자가 조선 시대 금속 활자라는 건 알고 있었어.</span><a class="ev-tag ans" href="#q3-4">3-④</a> <span class="ev" id="ev-q3-2">그런데 갑인자가 형태적 완성미를 갖추었다고 하는데 구체적으로 어떤 점이 그럴까?</span><a class="ev-tag" href="#q3-2">3-②</a></p>
     <p class="dlg"><b>학생 3:</b> <span class="ev" id="ev-q3-3">조선 시대 금속 활자의 발달 양상에 대해 알게 되어 유익했어.</span><a class="ev-tag" href="#q3-3">3-③</a> <span class="ev" id="ev-q3-5b">세종 대에 금속 활자가 발전했다고 했는데 그렇게 될 수 있었던 당시의 사회 문화적 배경에 대해 조사해 봐야겠어.</span><a class="ev-tag" href="#q3-5">3-⑤</a></p>
   </div>
@@ -570,25 +570,7 @@ layout: "exam"
     <li id="q38-3">③ 연쇄적 표현을 통해 생동감을 드러내고 있다.</li>
     <li id="q38-4">④ 불가능한 상황의 가정을 통해 주제 의식을 부각하고 있다.</li>
     <li id="q38-5">⑤ 자연물에 감정을 이입하는 방식을 통해 정서를 표현하고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)와 (나)의 표현상 공통점을 찾는다.</p><p>(가) ‘흥미가 있을쏜가’·‘어디에서 꾸어 살아날꼬’, (나) ‘임금 한 사람에게 달려 있지 않겠는가’ 등 <strong>설의적 표현</strong>으로 의미를 강조한다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)(나) 모두 설의적 표현으로 의미 강조.</td></tr><tr><td>②</td><td>오답</td><td>언어유희·희화화 없음.</td></tr><tr><td>③</td><td>오답</td><td>연쇄적 표현 없음.</td></tr><tr><td>④</td><td>오답</td><td>불가능한 상황 가정 없음.</td></tr><tr><td>⑤</td><td>오답</td><td>자연물 감정이입 없음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob39">
@@ -598,25 +580,7 @@ layout: "exam"
     <li id="q39-3">③ ㉢: 외부 세계와 소통하기 위해 노력했던 과거의 행적이 나타난다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
     <li id="q39-4">④ ㉣: 상대가 하는 말의 내용에 대해 의아하게 여기는 마음이 나타난다.</li>
     <li id="q39-5">⑤ ㉤: 같은 대상의 비위를 맞추기 위해 다투어 노력하고 있는 상황이 나타난다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠~㉤의 의미가 적절한지 본다.</p><p>㉢은 순풍의 힘으로 험한 바다를 넘어 민생의 실정을 <strong>알리고 싶다</strong>는 바람일 뿐, 과거에 소통하려 노력했던 행적이 아니다. ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉠=목숨이 나라에 달렸다는 백성의 절박한 호소.</td></tr><tr><td>②</td><td>적절</td><td>㉡=돕기도 외면하기도 어려운 곤혹.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>㉢=소통하려는 바람(과거 행적 아님).</td></tr><tr><td>④</td><td>적절</td><td>㉣=상대 말을 의아해함.</td></tr><tr><td>⑤</td><td>적절</td><td>㉤=같은 대상 비위 맞추려 다툼.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob40">
@@ -626,25 +590,7 @@ layout: "exam"
     <li id="q40-3">③ ⓐ는 대상에 대한 관조적 자세가 드러난 것이고, ⓑ는 대상에 대한 성찰적 자세가 드러난 것이다.</li>
     <li id="q40-4">④ ⓐ는 대상과의 갈등이 해결된 이유가 되는 것이고, ⓑ는 대상에 대한 내적 갈등이 유발된 원인이 되는 것이다.</li>
     <li id="q40-5">⑤ ⓐ는 대상의 상태가 지속되기를 바라는 마음이 담겨 있는 것이고, ⓑ는 대상의 형편이 나아지기를 바라는 마음이 들어 있는 것이다. 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — ⓐ·ⓑ가 가리키는 바를 견준다.</p><p>ⓐ는 작가가 직접 본 백성의 어려운 실정으로 대상을 <strong>이해하는 계기</strong>이고, ⓑ는 관서 풍속을 천박하다 비웃은 것으로 대상에 대한 <strong>오해</strong>가 반영된 것이다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ=이해 계기, ⓑ=오해 반영.</td></tr><tr><td>②</td><td>오답</td><td>기대 부합·예찬 근거 아님.</td></tr><tr><td>③</td><td>오답</td><td>관조·성찰 아님.</td></tr><tr><td>④</td><td>오답</td><td>갈등 해결·유발 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>상태 지속·형편 호전 바람 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob41">
@@ -658,25 +604,7 @@ layout: "exam"
     <li id="q41-3">③ (나)에서 ‘말마다 아첨하며 일마다 좇’는 자들이 ‘나라를 좀먹고 백성을 해’쳐 ‘나라가 그에 따라 멸망’할 수도 있다고 하는 것에서 임금에게 교훈을 주고자 하는 작가의 의도를 확인할 수 있군.</li>
     <li id="q41-4">④ (가)에서 ‘우리 임금’이 ‘추우신’지 염려하는 모습과 (나)에서 ‘임금으로 하여금’ ‘좋아하는 것을 손에서 놓지 못하게’ 해야 한다는 것에서 임금에 대한 작가의 충성심을 확인할 수 있군.<a class="src-tag ans" href="#ev41">정답 근거</a></li>
     <li id="q41-5">⑤ (가)에서 백성의 ‘간고’를 ‘어이 모르’겠느냐며 ‘슬프다’고 하는 것과 (나)에서 ‘억조 백성의 목숨’이 달린 ‘임금’의 역할을 강조하는 것에서 관직자로서 백성을 사랑해야 한다는 작가의 인식을 확인할 수 있군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(관직자의 애민·충간)로 (가)(나)를 본다.</p><p>(나)는 임금이 좋아하는 것을 손에서 놓지 못하게 하는 측근을 <strong>아첨으로 경계</strong>한 것이다. (가)의 충성과 같은 맥락으로 묶는 ④는 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>병든 밭이랑 살핌=어려운 삶을 살핌.</td></tr><tr><td>②</td><td>적절</td><td>유교 도리 권면=이념적 삶 권함.</td></tr><tr><td>③</td><td>적절</td><td>아첨배가 나라 좀먹음 경고=임금에 교훈.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>(나)는 측근의 탐닉을 경계(충성 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>백성 간고 슬퍼함=애민.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set11" class="set-anchor"></div>
@@ -695,25 +623,7 @@ layout: "exam"
     <li id="q42-3">③ 대화와 삽입된 노래를 통해 인물들의 심회를 나타내고 있다.</li>
     <li id="q42-4">④ 인물의 외양을 과장되게 묘사하여 비극적 분위기를 드러내고 있다.</li>
     <li id="q42-5">⑤ 우화적 기법을 활용하여 당대의 현실에 대한 비판을 드러내고 있다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 서술상 특징을 찾는다.</p><p>‘차마 보지 못할러라’ 등 서술자가 개입해 <strong>주관적 감정</strong>을 직접 드러낸다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>서술자 개입·주관적 감정 노출.</td></tr><tr><td>②</td><td>오답</td><td>예화 열거로 성격 제시 아님.</td></tr><tr><td>③</td><td>오답</td><td>삽입 노래 없음.</td></tr><tr><td>④</td><td>오답</td><td>외양 과장 묘사 없음.</td></tr><tr><td>⑤</td><td>오답</td><td>우화적 기법 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob43">
@@ -723,25 +633,7 @@ layout: "exam"
     <li id="q43-3">③ 소낭자는 경태와의 싸움에서 이긴 후 명제의 항복을 요구한다.</li>
     <li id="q43-4">④ 소낭자의 계교에 속아서 원수는 대동부 성하를 떠나게 된다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
     <li id="q43-5">⑤ 소낭자와 엄답은 매총병의 군마가 나타난 뒤 물러나게 된다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 글의 내용과 일치하는지 본다.</p><p>원수(춘매)는 자신이 “소낭자의 계교에 속아 이곳에 왔다”고 말한다. 즉 <strong>속아서 떠난 것이 아니라 속아서 왔다.</strong> ④가 일치하지 않는다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>일치</td><td>부친이 유씨의 본성을 알고 있었음.</td></tr><tr><td>②</td><td>일치</td><td>태화산에서 노파를 만남.</td></tr><tr><td>③</td><td>일치</td><td>경태를 이긴 뒤 명제의 항복을 요구.</td></tr><tr class="correct"><td>④</td><td class="ok">불일치</td><td>계교에 속아 대동부에 ‘왔다’(떠난 것 아님).</td></tr><tr><td>⑤</td><td>일치</td><td>매총병 군마 출현 뒤 물러남.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob44">
@@ -751,25 +643,7 @@ layout: "exam"
     <li id="q44-3">③ ⓐ에는 ⓑ와 달리 청자가 원했던 결과가 포함되어 있다.</li>
     <li id="q44-4">④ ⓑ에는 ⓐ와 달리 청자를 회유하려는 의도가 포함되어 있다.</li>
     <li id="q44-5">⑤ ⓐ와 ⓑ에는 모두 청자가 알지 못했던 정보가 포함되어 있다.<a class="src-tag ans" href="#ev44">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ⓐ·ⓑ 말의 공통점·차이를 본다.</p><p>ⓐ·ⓑ는 모두 청자가 <strong>알지 못했던 정보</strong>(정체·내막)를 알려 준다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>ⓐ에 위협 내용 없음.</td></tr><tr><td>②</td><td>오답</td><td>ⓑ에 청자 염려 없음.</td></tr><tr><td>③</td><td>오답</td><td>ⓐ가 원한 결과 아님.</td></tr><tr><td>④</td><td>오답</td><td>ⓑ에 회유 의도 없음.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ⓐⓑ 모두 청자가 몰랐던 정보 전달.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob45">
@@ -785,23 +659,5 @@ layout: "exam"
     <li id="q45-4">④ 원수가 적장과 적졸을 순식간에 무찌르고 천자를 구한다는 것에서 주인공이 비범한 능력을 바탕으로 영웅적 면모를 발휘함을 확인할 수 있군.</li>
     <li id="q45-5">⑤ 천자가 하늘이 명실을 위하여 낸 사람이라며 원수에게 벼슬을 하사한다는 것에서 국가적 위기를 극복한 주인공이 사회적 성취를 얻게 됨을 확인할 수 있군.
 ※ 확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(여성 영웅의 위기·극복)로 본다.</p><p>소저가 유택을 피하려 <strong>남장</strong>을 떠올린 것은 위기 극복 과정에서 스스로 지혜를 발휘한 장면이다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>계모의 구박=가족 내 갈등 위기.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>남장 방책=주인공의 지혜 발휘.</td></tr><tr><td>③</td><td>적절</td><td>벽하선자=초월적 조력자.</td></tr><tr><td>④</td><td>적절</td><td>적장 격파·천자 구출=영웅적 비범함.</td></tr><tr><td>⑤</td><td>적절</td><td>벼슬 하사=사회적 성취.</td></tr></tbody></table></div></details>
 </div>
