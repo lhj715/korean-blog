@@ -169,7 +169,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <p class="dlg"><b>학생2:</b> 국악 크로스오버가 생소한 만큼, 익숙한 대중가요 편곡이 낫지 않을까?</p>
     <p class="dlg"><b>학생3:</b> 듣고 보니 그렇네.</p>
   </div>
-  <p class="dlg"><b>학생1:</b> <span class="ev ans" id="ev-q4-5">좋아, 편곡 곡으로 정하자.</span><a class="ev-tag ans" href="#q4-5">4-⑤</a> <span class="ev" id="ev11">다음으로 구체적인 곡을 선택하자. … 마지막으로, 공연 중 영상을 보여 줄 수 있는지도 물어왔어.</span><a class="ev-tag" href="#q4-3">4-③</a><a class="ev-tag" href="#q7-3">7-③</a></p>
+  <p class="dlg"><b>학생1:</b> 좋아, 편곡 곡으로 정하자. <span class="ev" id="ev11">다음으로 구체적인 곡을 선택하자. … 마지막으로, 공연 중 영상을 보여 줄 수 있는지도 물어왔어.</span><a class="ev-tag" href="#q4-3">4-③</a><a class="ev-tag" href="#q7-3">7-③</a></p>
   <div class="seg"><span class="seg-label">[ B ]</span>
     <p class="dlg"><b>학생3:</b> 가능하긴 한데, 무대 조명이 밝아 영상이 흐리게 보일 거야.</p>
     <p class="dlg"><b>학생2:</b> <span class="ev ans" id="ev13">그래, 영상이 흐리게 보일 거야. … 합창 동아리도 공연 중 영상을 보여 준다고 했어. 어떻게 할 건지 물어보자.</span><a class="ev-tag ans" href="#q5-4">5-④</a><a class="ev-tag ans" href="#q13-2">13-②</a></p>
@@ -186,7 +186,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q4-2">② 회의 참여자들의 준비 상황을 확인한다.<a class="src-tag" href="#ev10">지문 근거</a></li>
     <li id="q4-3">③ 이어서 논의할 내용을 제시한다.<a class="src-tag" href="#ev11">지문 근거</a></li>
     <li id="q4-4">④ 회의 이후 수행할 일을 안내한다.<a class="src-tag" href="#ev12">지문 근거</a></li>
-    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.<a class="src-tag ans" href="#ev-q4-5">정답 근거</a></li>
+    <li id="q4-5">⑤ 참여자의 발언과 관련해 추가 설명을 요청한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -203,7 +203,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
           <tr><td>②</td><td>적절</td><td>‘정리해 왔지?’ = 준비 확인.</td></tr>
           <tr><td>③</td><td>적절</td><td>‘다음으로·마지막으로’ = 이어 논의.</td></tr>
           <tr><td>④</td><td>적절</td><td>‘설문 결과 내일까지’ = 이후 할 일.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>의견이 갈려도 ‘좋아, 편곡 곡으로 정하자’며 결론만 수용 → 추가 설명을 요청하는 발화가 없다.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>추가 설명을 요청하는 발화가 없다.</td></tr>
         </tbody>
       </table>
     </div>
