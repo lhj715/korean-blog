@@ -1609,3 +1609,163 @@ summary: "2023년 3월 고2 전국연합학력평가 국어 기출 분석 — �
     </div>
   </details>
 </div>
+
+<div id="set13" class="set-anchor"></div>
+
+## 39~42번 고전소설 · 김시습 「이생규장전」
+
+<div class="read-guide">
+  <div class="read-guide-head">이 작품, 이렇게 읽는다</div>
+  <p>담을 넘어 사랑을 이룬 이생과 최씨가 <strong>규범(부모·가문)이라는 또 다른 담장</strong>에 부딪히는 대목. 인물 간 입장과 그 변화를 따라간다.</p>
+  <ul>
+    <li><strong>발단</strong> — 이생이 '자식된 도리'를 들어 집으로 돌아감 → 부친이 밤 행실을 알고 <strong>영남(울주)으로 추방</strong>.</li>
+    <li><strong>위기</strong> — 최씨는 이생을 기다리다 상사병으로 앓아눕고, 끝내 부모에게 사실을 고백 → '죽음'을 무릅쓴 의지로 혼인을 청함.</li>
+    <li><strong>혼담</strong> — 두 집안이 중매를 통해 의사를 주고받음. 이생 부친은 처음엔 사양([A]), 최씨 집안은 이생의 장래를 높이 평가([B]) → 결국 성사.</li>
+  </ul>
+  <p class="read-guide-tip"><strong>출제 포인트 예고</strong> — 39번 ③은 '한미하다'고 한 쪽이 누구인지 헷갈리는 함정(이생 부친이 자기 집안을 한미하다 함). 42번 ④는 &lt;보기&gt;의 '담장 내부로 진입' 의지를 '외부에서 유지'로 뒤집은 함정.</p>
+</div>
+
+<div class="passage">
+  <p class="passage-guide">[39 ~ 42] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p>어느 날 이생이 최씨에게 말했다. "옛 성인의 말씀에 '어버이가 계시면 나가 놀더라도 반드시 가는 곳을 고해야 한다.'라고 했소. … 이 어찌 자식된 도리라 하겠소." 최씨는 서운해하면서도 고개를 끄덕였다. 그러고는 이생이 담을 넘어 돌아가게 해 주었다.</p>
+  <p><span class="ev" id="ev-q40-1">이생은 그 뒤부터 ㉠밤마다 최씨를 찾아가지 않는 날이 없었다.</span><a class="ev-tag" href="#q40-1">40-①</a> 어느 날 저녁에 이생의 아버지가 아들에게 물었다. "네가 아침에 집을 나갔다가 저녁에 돌아오는 것은 옛 성인이 남기신 인의의 가르침을 배우려는 것이다. 그런데 요즘은 황혼녘에 나갔다가 <span class="ev" id="ev-q40-2">㉡새벽에야 돌아오니</span><a class="ev-tag" href="#q40-2">40-②</a> 이게 어찌 된 일이냐? 분명 경박한 놈들의 행실을 배워 남의 집 담장을 넘어가서 누구네 집 규수와 정을 통하고 다니는 것일 테지. … 이 일은 작은 일이 아니로다. 너는 <span class="ev" id="ev-q40-3">㉢지금 당장 영남으로 가서 종들을 거느리고 농사나 감독하여라. 그리고 다시 돌아오지 말아라.</span><a class="ev-tag" href="#q40-3">40-③</a>"</p>
+  <p>이생은 그 이튿날 울주로 보내졌다. 최씨는 <span class="ev" id="ev-q40-4">㉣매일 저녁 화원에서 이생을 기다렸다.</span><a class="ev-tag" href="#q40-4">40-④</a> 그러나 <span class="ev" id="ev-q40-5">㉤몇 달이 지나도록 그는 돌아오지 않았다.</span><a class="ev-tag" href="#q40-5">40-⑤</a> 최씨는 이생이 병에 걸렸나 보다고 생각하여 <span class="ev" id="ev-q39-2">향아를 시켜 이생의 이웃들에게 몰래 물어보게 하였다. 이웃집 사람은 이렇게 말하였다. "이 도령이 그 부친에게 죄를 지어 영남으로 내려간 지 이미 여러 달이 되었다오."</span><a class="ev-tag" href="#q39-2">39-②</a></p>
+  <p>최씨는 그 말을 전해 듣고 병이 나서 자리에 눕게 되었다. … 최씨의 부모가 이상히 여겨 병의 증상을 물어보아도 <span class="ev" id="ev-q42-3">최씨는 입을 다물고 아무 말도 하지 않았다.</span><a class="ev-tag" href="#q42-3">42-③</a> 그러던 중 최씨의 부모가 딸의 글 상자를 들추어 보다가 전에 이생이 최씨에게 화답한 시를 발견하게 되었다. … "이생이 누구냐?" <span class="ev ans" id="ev39">일이 이렇게 되자 최씨도 더 이상 숨길 수가 없었다. 그녀는 목구멍에서 겨우 나오는 작은 목소리로 부모님께 사실을 아뢰었다.</span><a class="ev-tag ans" href="#q39-4">39-④</a></p>
+  <p>"아버님, 어머님. … <span class="ev" id="ev-q42-4">혼자 가만히 생각해 보니 남녀가 서로 사랑을 느끼는 것은 인간의 정리로서 지극히 중요한 일이옵니다. 그러므로 매실이 떨어지는 것을 보고 혼기를 놓치지 말라고 시경의 「주남」편에서 노래하였고, 여자가 정조를 지키지 못하면 흉하다는 말을 주역에서 경계하였습니다.</span><a class="ev-tag" href="#q42-4">42-④</a> … <span class="ev ans" id="ev42">부모님께서 저의 소원을 들어주신다면 제 남은 목숨을 보존하게 될 것이고, 만약 간곡한 청을 거절하신다면 그저 죽음만이 있을 뿐입니다. 이생과 저승에서 함께 노닐지언정 맹세코 다른 가문으로 시집가지는 않겠습니다.</span><a class="ev-tag ans" href="#q42-5">42-⑤</a>"</p>
+  <p>이에 최씨의 부모도 그녀의 뜻을 알게 되었으므로 다시 병의 증세를 묻지 않았다. … <span class="ev ans" id="ev39b">그러고는 중매의 예를 갖추어 이생의 집에 혼인 의사를 물었다.</span><a class="ev-tag ans" href="#q39-5">39-⑤</a></p>
+  <p>이생의 아버지는 최씨 가문의 문벌이 어떤지를 물은 후 말하였다. <span class="ev ans" id="evA">"우리 집 아이가 비록 나이가 어려 잠시 바람이 나긴 했지만 학문에 정통하고 풍모도 남부끄럽지 않으니 바라는 바는 앞으로 장원급제하여 훗날 세상에 이름을 떨치는 것이오. 서둘러 혼처를 구하고 싶지 않소."</span> <span class="seg-label">← [A] 이생 부친</span></p>
+  <p>중매쟁이가 돌아와 최씨 부친에게 이 말을 아뢰니 최씨 집안에서 다시 이씨 집안에 이러한 말을 전했다. <span class="ev ans" id="evB">"한 시대의 벗들이 모두 그 댁 아드님의 재주가 뛰어나다고 칭찬들을 하더이다. 지금은 웅크리고 있지만 어찌 끝내 연못 속에만 머물러 있겠습니까? 속히 좋은 날을 정해 두 가문의 즐거움을 합하는 것이 좋을 듯합니다."</span> <span class="seg-label">← [B] 최씨 집안</span></p>
+  <p>중매쟁이가 또 가서 그 말을 이생의 부친에게 고하니 그 부친이 말하였다. <span class="ev" id="ev-q39-3">"나 역시 젊어서부터 책을 잡고 경전을 공부했지만 늙도록 성공하지 못했소. 노비들은 도망가 흩어지고, 친척들의 도움도 적어 생활이 어렵고 살림도 궁색하다오. 그러니 문벌 좋고 번성한 집에서 어찌 한갓 한미한 선비를 사위로 삼으려 하신단 말이오? 이는 반드시 일 만들기 좋아하는 사람들이 우리 집안을 과도하게 칭찬해서 귀댁을 속인 것일 겁니다."</span><a class="ev-tag" href="#q39-3">39-③</a></p>
+  <p>중매쟁이가 다시 최씨 가문에 고하자 최씨 부친이 말하였다. "납채의 예와 의복에 관한 일은 제가 모두 알아서 하겠습니다. 좋은 날을 가려서 화촉을 밝힐 날짜만 정해 주시면 좋겠습니다." … 이씨 집안에서는 일이 여기에 이르자 마음을 돌려 곧 이생을 불러다 그의 의사를 물었다. <span class="ev ans" id="ev39c">이생은 기쁨을 이기지 못하였다.</span><a class="ev-tag ans" href="#q39-1">39-①</a></p>
+</div>
+
+## 문제 풀이
+
+<div class="q-block" id="prob39">
+  <p class="q-stem">39. 윗글의 내용에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q39-1">① 이생은 집안에서 최씨와의 혼인 의사를 묻자 기뻐한다.<a class="src-tag" href="#ev39c">지문 근거</a></li>
+    <li id="q39-2">② 향아는 이생이 영남으로 떠났다는 사실을 최씨에게 알린다.<a class="src-tag" href="#ev-q39-2">지문 근거</a></li>
+    <li id="q39-3">③ 이생 부친은 자신의 가문에 비해 최씨 가문이 한미하다고 인식한다.<a class="src-tag ans" href="#ev-q39-3">정답 근거</a></li>
+    <li id="q39-4">④ 최씨는 이생과의 만남을 부모에게 숨기다가 끝내 사실대로 고백한다.<a class="src-tag" href="#ev39">지문 근거</a></li>
+    <li id="q39-5">⑤ 최씨 부친은 최씨의 청을 들어주기 위해 중매쟁이를 이생 집에 보낸다.<a class="src-tag" href="#ev39b">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 사건·인물 관계를 지문과 대조. 누가 무엇을 했는지, 누구를 어떻게 평가했는지 주체를 정확히 짚는다.</p>
+        <p>이생 부친은 "문벌 좋고 번성한 집(최씨 가문)에서 어찌 한갓 <strong>한미한 선비</strong>(자기 아들)를 사위로 삼으려 하느냐"고 말한다. 즉 <strong>자기 가문을 한미하다</strong>고 여긴 것이다. '최씨 가문이 한미하다'고 한 ③은 반대로 이해한 것이라 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>혼인 의사를 묻자 '이생은 기쁨을 이기지 못하였다'.</td></tr>
+          <tr><td>②</td><td>적절</td><td>향아가 이웃에게 물어 이생의 영남행을 알아내 최씨에게 전함.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>이생 부친은 '자기 가문'을 한미하다고 인식. 최씨 가문은 문벌 좋음.</td></tr>
+          <tr><td>④</td><td>적절</td><td>입 다물고 숨기다가 결국 부모에게 사실을 아뢲.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>딸의 뜻을 알고 중매의 예를 갖춰 이생 집에 혼인 의사를 물음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob40">
+  <p class="q-stem">40. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
+  <ul class="q-opts">
+    <li id="q40-1">① ㉠은 이생과 최씨의 만남이 반복됨을 드러내는 한편, 이생이 집에서 쫓겨나는 사건에 개연성을 부여한다.<a class="src-tag" href="#ev-q40-1">지문 근거</a></li>
+    <li id="q40-2">② ㉡은 이생이 집에 돌아오는 시점을 특정하면서, 이생이 부친의 뜻과는 다르게 행동하고 있음을 드러낸다.<a class="src-tag" href="#ev-q40-2">지문 근거</a></li>
+    <li id="q40-3">③ ㉢은 이생 부친의 단호함을 함축하는 한편, 이생과 최씨가 새로운 국면을 맞이하게 될 것을 암시한다.<a class="src-tag" href="#ev-q40-3">지문 근거</a></li>
+    <li id="q40-4">④ ㉣은 최씨가 초췌해지는 과정을 요약적으로 드러내면서, 최씨의 심경에 변화가 일어났음을 암시한다.<a class="src-tag ans" href="#ev-q40-4">정답 근거</a></li>
+    <li id="q40-5">⑤ ㉤은 이생과 최씨의 이별이 오랫동안 지속되었음을 드러내면서, 최씨가 느끼는 그리움의 깊이를 함축한다.<a class="src-tag" href="#ev-q40-5">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 밑줄 구절이 '무엇을 드러내는가'를 따진다. 구절의 실제 내용과 선지의 해석이 맞는지 확인.</p>
+        <p>㉣ '매일 저녁 화원에서 이생을 기다렸다'는 최씨의 <strong>기다림이 반복</strong>됨을 보여 줄 뿐, '초췌해지는 과정의 요약'이나 '심경 변화'를 드러내지는 않는다(초췌해지는 것은 이후 병이 난 뒤). ④가 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>'밤마다 찾아가지 않는 날이 없었다' → 만남 반복 → 발각·추방의 개연성.</td></tr>
+          <tr><td>②</td><td>적절</td><td>'새벽에야 돌아오니' → 시점 특정 + 부친 뜻에 어긋난 행동.</td></tr>
+          <tr><td>③</td><td>적절</td><td>'지금 당장 영남으로… 다시 돌아오지 말아라' → 단호함 + 새 국면 암시.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>㉣은 기다림의 반복. 초췌해지는 과정 요약·심경 변화 암시 아님.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>'몇 달이 지나도록' → 이별의 장기 지속 + 그리움의 깊이.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob41">
+  <p class="q-stem">41. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
+  <p class="q-note">[A] 이생 부친의 말 · [B] 최씨 집안이 전한 말</p>
+  <ul class="q-opts">
+    <li id="q41-1">① [A]와 [B]는 모두 이생이 겪은 구체적인 사건을 언급하며 상대를 회유하고 있다.</li>
+    <li id="q41-2">② [A]와 [B]는 모두 이생의 앞날에 대한 긍정적 기대를 드러내며 자신의 의중을 전달하고 있다.<a class="src-tag ans" href="#evA">정답 근거</a></li>
+    <li id="q41-3">③ [A]는 자신에게 시간이 더 필요하다며, [B]는 서두를 것을 요청하며 상대의 태도 변화를 촉구하고 있다.</li>
+    <li id="q41-4">④ [A]는 자신이 입게 될 손해를 우려하며, [B]는 이생이 얻게 될 이익을 강조하며 자신의 입장을 고수하고 있다.</li>
+    <li id="q41-5">⑤ [A]는 이생에 대한 긍정적 평판을 내세우며, [B]는 상대에 대한 신뢰를 드러내며 제안에 응할 것을 요청하고 있다.</li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A]·[B] 각각의 화자와 핵심 의도를 먼저 정리한 뒤, '모두' 형 선지는 양쪽에서 근거를 찾는다.</p>
+        <p>[A](이생 부친)는 "앞으로 <strong>장원급제하여 이름을 떨치는 것</strong>"을 바라며, [B](최씨 집안)는 "지금은 웅크리고 있지만 어찌 끝내 <strong>연못 속에만 머물러 있겠습니까</strong>"라 한다. 둘 다 이생의 앞날에 대한 <strong>긍정적 기대</strong>를 드러내며 자기 의중을 전한다. ②가 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>이생이 겪은 '구체적 사건'을 언급하며 회유하지 않음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>[A] 장원급제 기대 / [B] '연못 속에만 머물지 않을 것' → 둘 다 긍정적 기대.</td></tr>
+          <tr><td>③</td><td>오답</td><td>[A]는 시간 필요가 맞으나, '상대의 태도 변화 촉구'가 핵심은 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>[A]는 손해 우려가 아니라 아들에 대한 자부심·기대.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>긍정적 평판을 내세운 것은 [B](최씨 집안)이지 [A]가 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<div class="q-block" id="prob42">
+  <p class="q-stem">42. &lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
+  <div class="q-bogi">
+    <p class="bogi-label">&lt; 보 기 &gt;</p>
+    <p>이 작품에서 사랑을 이루기 위해 물리적 경계인 담장을 넘어선 주인공들은 규범적 질서가 구축한 또 다른 담장의 존재를 의식하게 된다. 이들의 사랑은 이 담장의 <strong>외부</strong>에 위치하여, 주변 인물이나 옛말 등으로 구현된 규범적 질서로부터 옹호받지 못하는 취약함을 드러낸다. 이들은 담장의 제약에 일차적으로 순응하지만, 최씨는 자신들을 막아선 담장의 <strong>내부로 들어가겠다</strong>는 강력한 의지를 드러냄으로써 상황을 타개한다.</p>
+  </div>
+  <ul class="q-opts">
+    <li id="q42-1">① 이생이 '옛 성인의 말씀'과 '자식된 도리'를 언급하며 다시 '담을 넘어 돌아가'는 것은, 최씨와의 사랑이 규범적 질서의 옹호를 받지 못한다는 점을 의식했기 때문이겠군.</li>
+    <li id="q42-2">② 아들의 행동을 '경박한 놈들의 행실'로 간주하고 '남들'의 '책망'을 걱정하는 이생 부친은, 규범적 질서가 구현된 주변 인물이라고 할 수 있겠군.</li>
+    <li id="q42-3">③ '다시 돌아오지 말'라는 부친의 지시에 저항하지 못하는 이생의 모습과 병의 증상을 묻는 부모에게 '아무 말'도 하지 못하는 최씨의 모습은, 규범적 질서의 제약을 넘어서지 못한 사랑의 취약함을 드러내는 것이겠군.<a class="src-tag" href="#ev-q42-3">지문 근거</a></li>
+    <li id="q42-4">④ 최씨가 남녀의 사랑을 '인간의 정리로서 지극히 중요한 일'로 규정하며 '혼기'와 관련된 옛말을 언급한 것은, 규범적 질서가 구축한 담장의 외부에서 자신의 사랑을 유지할 수 있다는 가능성을 간파했기 때문이겠군.<a class="src-tag ans" href="#ev-q42-4">정답 근거</a></li>
+    <li id="q42-5">⑤ 최씨가 '소원'이 이루어지지 못하면 '죽음만이 있을 뿐'이라며 '다른 가문으로 시집가'는 것을 거부하는 것은, 둘의 사랑을 규범적 질서가 용인하는 범위 내로 진입시키겠다는 강력한 의지의 표현으로 볼 수 있겠군.<a class="src-tag" href="#ev42">지문 근거</a></li>
+  </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — &lt;보기&gt;의 핵심 구도: 사랑은 담장 '외부'(취약) → 최씨는 담장 '내부로 진입'하려는 의지로 타개. 이 방향과 어긋난 감상을 잡는다.</p>
+        <p>최씨가 옛말('주남'·'주역')을 끌어와 사랑을 정당화한 것은 <strong>규범적 질서(담장 내부)를 근거로 삼아</strong> 혼인이라는 제도 안으로 들어가려는 시도다. '담장의 <strong>외부</strong>에서 사랑을 유지할 가능성을 간파'했다고 한 ④는 방향이 반대라 적절하지 않다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>도리를 내세워 담을 넘어 돌아감 = 사랑이 규범의 옹호를 못 받음을 의식.</td></tr>
+          <tr><td>②</td><td>적절</td><td>'경박한 행실'·'책망' 걱정하는 부친 = 규범적 질서가 구현된 주변 인물.</td></tr>
+          <tr><td>③</td><td>적절</td><td>저항 못 하는 이생·말 못 하는 최씨 = 규범을 못 넘은 사랑의 취약함.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>옛말 인용은 규범(담장 내부)을 끌어와 혼인으로 진입하려는 것. '외부 유지'와 반대.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>'죽음'을 무릅쓴 혼인 요구 = 규범이 용인하는 범위(내부) 진입 의지.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
