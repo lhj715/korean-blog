@@ -343,7 +343,7 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[22 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>건축물을 짓고자 하는 사람은 건축 허가를 받을 수 있는지를 행정　기관에 사전에 확인할 것이다. 그리고 허가를 받을 수 있다는 공식적인 답변을 행정　기관으로부터 받으면 그 답변을 믿고 건축을 진행할 것이다. 이처럼 행정　기관의 어떤 조치가 실행될 것이라는 데 대한 국민의 믿음을 신뢰라고 하며 국민에게 신뢰를 주는, 행정　기관의 말이나 행위를 행정　기관의 선행조치라 한다. 그런데 행정　기관의 선행조치가 행해진 이후 선행조치에 법적 하자가 발견되면, 행정　기관은 선행조치에 반하는 다른 조치를 취하게 되고, 이 경우 국민의 권익이 침해당할 수 있다. 따라서 행정 기관의 선행조치에 법적 하자가 있더라도 일정한 요건을 충족한다면 행정에 대한 국민의 정당하고 합리적인 신뢰는 보호받아야 함을 행정법상의 원칙으로 삼고 있는데, 이를 신뢰보호원칙이라 한다. 행정　기관이 신뢰보호원칙에 위배되는 처분을 내릴 경우, 그 처분은 위법한 것이며 취소 또는 무효의 대상이 된다. 신뢰보호원칙이 적용되기 위한 첫 번째 요건은 행정　기관의 선행조치로서 공적 견해 표명이 있어야 한다는 것이다. 공적 견해 표명은 행정　기관이 행정권 행사에 대한 의사를 공적으로 드러내는 것을 의미한다. 공적 견해 표명은 ‘시설의 건축 허가’, ‘사업　계획서에 대한 적정 통보’ 등과 같이 구체적 사안에 관한 것이어야 하므로<span class="ev ans" id="ev23"> 단순히 법령 해석과 같은 추상적인 내용의 질의에 행정　기관이 원론적 차원에서 답변해 준 것은 이에 해당하지 않는다.</span><a class="ev-tag ans" href="#q23-3">23-③</a> 행정　기관이 명시적으로 의사를 드러내는 것뿐 아니라 행정적 권한을 행사하지 않음으로써 묵시적으로 의사를 드러내는 것도 의사를 표명하는 행위로 보아 공적 견해 표명이 될 수 있다. 가령<span class="ev ans" id="ev25"> 행정　기관이 어떤 위법한 상태에 대해 취소권, 영업　정지권 등의 행정적 권한을 행사할 기회가 있었음에도 이를 장기간 행사하지 않았을 경우</span><a class="ev-tag ans" href="#q25-4">25-④</a>, 국민은 행정 기관이 이러한 권한을 이후에도 계속 행사하지 않을 것이라는 신뢰를 갖게 될 것이다. 이 경우 행정 기관이 장기간 행정 권한을 행사하지 않는 것을 행정 기관의 의사 표명 행위로 볼 수 있다. 두 번째 요건은 행정 기관의 선행조치에 대한 신뢰가 보호할 가치가 있어야 한다는 것이다. 이는 행정 기관의 선행조치가 법적 하자를 갖게 된 것에 대해 국민에게 귀책 사유, 즉 책임을 물을 만한 사유가 없어야 함을 의미한다. 예를 들어 행정 기관이 특정 사업에 대해 허가가 가능하다는 견해를 표명했으나 그 허가 조치에 법적 하자가 발견되었을 때, 그 이유가 허가를 신청한 국민이 잘못된 정보를 제공했기 때문이라면 그 국민에게 귀책 사유가 있는 것이다. 세 번째 요건은 행정 기관의 선행조치에 대한 국민의 신뢰와 국민이 행한 행위 사이에 인과　관계가 있어야 하며, 행정 기관이 선행조치에 반하는 다른 조치를 취함으로써 국민의 권익이 침해당한 경우여야 한다는 것이다. 예를 들어, 영업을 허가할 수 있다는 행정 기관의 공적 견해 표명이 있었고, 이 선행조치를 신뢰한 개인이 물품을 구입하고 직원을 채용하는 등 영업 준비를 진행하였으나 이후 행정 기관이 영업을 허가하지 않아 개인이 손해를 입은 경우가 이에 해당한다. 이 요건에 따라 ㉠<span class="ev ans" id="ev24">국민이 행정 기관의 선행조치가 있었음을 인식하지 못했거나, 선행조치와 관련된 사항이 사후에 변경될 수 있는 가능성을 행정 기관이 국민에게 미리 알린 경우에는 신뢰 보호를 주장할 수 없다.</span><a class="ev-tag ans" href="#q24-5">24-⑤</a> 신뢰보호원칙은 이상과 같은 요건이 모두 충족될 때 적용될 수 있다. 그런데 요건을 모두 충족하더라도 신뢰보호원칙이 적용되지 못할 수도 있다. 국민의 신뢰가 침해됨으로써 국민이 입게 되는 불이익을 공익 및 제삼자의 정당한 이익과 비교하여 공익 및 제삼자의 정당한 이익을 보호할 필요성이 더 크다고 판단되는 경우가 대표적이다. 또 신뢰보호원칙은 행정 기관이 공적인 견해를 표명할 당시의 사정이 그대로 유지됨을 전제로 적용되는 것이기 때문에, 행정 기관의 선행조치 이후 사실　관계나 법적 상황이 변경된 경우 적용되지 않을 수 있다. 신뢰보호원칙은 법적 하자가 있는 행정 기관의 선행조치도 적법한 것처럼 효력을 유지하게 한다는 점에서, 행정　작용이 법률에 적합해야 한다는 행정상 법치주의 원리에 어긋나는 것처럼 보일 수 있다. 하지만 국민의 정당하고 합리적인 신뢰를 보호하는 것이 법치주의의 근본정신에 부합한다는 관점에서 보면, 결국은 신뢰보호원칙이 행정상 법치주의에도 어긋나지 않는 것이라고 할 수 있다.</p>
+  <p>건축물을 짓고자 하는 사람은 건축 허가를 받을 수 있는지를 행정　기관에 사전에 확인할 것이다. 그리고 허가를 받을 수 있다는 공식적인 답변을 행정　기관으로부터 받으면 그 답변을 믿고 건축을 진행할 것이다. 이처럼 행정　기관의 어떤 조치가 실행될 것이라는 데 대한 국민의 믿음을 신뢰라고 하며 <span class="ev" id="ev-q23-4">국민에게 신뢰를 주는, 행정　기관의 말이나 행위를 행정　기관의 선행조치라 한다.</span><a class="ev-tag" href="#q23-4">23-④</a> 그런데 행정　기관의 선행조치가 행해진 이후 선행조치에 법적 하자가 발견되면, 행정　기관은 선행조치에 반하는 다른 조치를 취하게 되고, 이 경우 국민의 권익이 침해당할 수 있다. 따라서 행정 기관의 선행조치에 법적 하자가 있더라도 일정한 요건을 충족한다면 행정에 대한 국민의 정당하고 합리적인 신뢰는 보호받아야 함을 행정법상의 원칙으로 삼고 있는데, 이를 신뢰보호원칙이라 한다. 행정　기관이 신뢰보호원칙에 위배되는 처분을 내릴 경우, 그 처분은 위법한 것이며 취소 또는 무효의 대상이 된다. 신뢰보호원칙이 적용되기 위한 첫 번째 요건은 행정　기관의 선행조치로서 공적 견해 표명이 있어야 한다는 것이다. <span class="ev" id="ev-q23-1">공적 견해 표명은 행정　기관이 행정권 행사에 대한 의사를 공적으로 드러내는 것을 의미한다.</span><a class="ev-tag" href="#q23-1">23-①</a> 공적 견해 표명은 ‘시설의 건축 허가’, ‘사업　계획서에 대한 적정 통보’ 등과 같이 구체적 사안에 관한 것이어야 하므로<span class="ev ans" id="ev23"> 단순히 법령 해석과 같은 추상적인 내용의 질의에 행정　기관이 원론적 차원에서 답변해 준 것은 이에 해당하지 않는다.</span><a class="ev-tag ans" href="#q23-3">23-③</a> 행정　기관이 명시적으로 의사를 드러내는 것뿐 아니라 <span class="ev" id="ev-q23-2">행정적 권한을 행사하지 않음으로써 묵시적으로 의사를 드러내는 것도 의사를 표명하는 행위로 보아 공적 견해 표명이 될 수 있다.</span><a class="ev-tag" href="#q23-2">23-②</a> 가령<span class="ev ans" id="ev25"> 행정　기관이 어떤 위법한 상태에 대해 취소권, 영업　정지권 등의 행정적 권한을 행사할 기회가 있었음에도 이를 장기간 행사하지 않았을 경우</span><a class="ev-tag ans" href="#q25-4">25-④</a>, 국민은 행정 기관이 이러한 권한을 이후에도 계속 행사하지 않을 것이라는 신뢰를 갖게 될 것이다. 이 경우 행정 기관이 장기간 행정 권한을 행사하지 않는 것을 행정 기관의 의사 표명 행위로 볼 수 있다. 두 번째 요건은 행정 기관의 선행조치에 대한 신뢰가 보호할 가치가 있어야 한다는 것이다. 이는 행정 기관의 선행조치가 법적 하자를 갖게 된 것에 대해 국민에게 귀책 사유, 즉 책임을 물을 만한 사유가 없어야 함을 의미한다. 예를 들어 행정 기관이 특정 사업에 대해 허가가 가능하다는 견해를 표명했으나 그 허가 조치에 법적 하자가 발견되었을 때, 그 이유가 허가를 신청한 국민이 잘못된 정보를 제공했기 때문이라면 그 국민에게 귀책 사유가 있는 것이다. 세 번째 요건은 행정 기관의 선행조치에 대한 국민의 신뢰와 국민이 행한 행위 사이에 인과　관계가 있어야 하며, 행정 기관이 선행조치에 반하는 다른 조치를 취함으로써 국민의 권익이 침해당한 경우여야 한다는 것이다. 예를 들어, 영업을 허가할 수 있다는 행정 기관의 공적 견해 표명이 있었고, 이 선행조치를 신뢰한 개인이 물품을 구입하고 직원을 채용하는 등 영업 준비를 진행하였으나 이후 행정 기관이 영업을 허가하지 않아 개인이 손해를 입은 경우가 이에 해당한다. 이 요건에 따라 ㉠<span class="ev ans" id="ev24">국민이 행정 기관의 선행조치가 있었음을 인식하지 못했거나, 선행조치와 관련된 사항이 사후에 변경될 수 있는 가능성을 행정 기관이 국민에게 미리 알린 경우에는 신뢰 보호를 주장할 수 없다.</span><a class="ev-tag ans" href="#q24-5">24-⑤</a> 신뢰보호원칙은 이상과 같은 요건이 모두 충족될 때 적용될 수 있다. 그런데 요건을 모두 충족하더라도 신뢰보호원칙이 적용되지 못할 수도 있다. 국민의 신뢰가 침해됨으로써 국민이 입게 되는 불이익을 공익 및 제삼자의 정당한 이익과 비교하여 공익 및 제삼자의 정당한 이익을 보호할 필요성이 더 크다고 판단되는 경우가 대표적이다. 또 신뢰보호원칙은 행정 기관이 공적인 견해를 표명할 당시의 사정이 그대로 유지됨을 전제로 적용되는 것이기 때문에, <span class="ev" id="ev-q23-5">행정 기관의 선행조치 이후 사실　관계나 법적 상황이 변경된 경우 적용되지 않을 수 있다.</span><a class="ev-tag" href="#q23-5">23-⑤</a> 신뢰보호원칙은 법적 하자가 있는 행정 기관의 선행조치도 적법한 것처럼 효력을 유지하게 한다는 점에서, 행정　작용이 법률에 적합해야 한다는 행정상 법치주의 원리에 어긋나는 것처럼 보일 수 있다. 하지만 국민의 정당하고 합리적인 신뢰를 보호하는 것이 법치주의의 근본정신에 부합한다는 관점에서 보면, 결국은 신뢰보호원칙이 행정상 법치주의에도 어긋나지 않는 것이라고 할 수 있다.</p>
 </div>
 
 <div class="q-block" id="prob22">
@@ -353,53 +353,17 @@ layout: "exam"
     <li id="q22-3">③ 신뢰보호원칙이 적용되기 위한 요건은 무엇인가?</li>
     <li id="q22-4">④ 신뢰보호원칙의 적용이 제한되는 경우는 어떤 경우인가?</li>
     <li id="q22-5">⑤ 신뢰보호원칙이 행정상 법치주의 원리에 어긋나지 않는 이유는 무엇인가?</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 글에서 ‘답을 찾을 수 있는’ 질문과 ‘없는’ 질문을 가른다.</p><p>신뢰보호원칙이 성립된 <strong>역사적 배경</strong>은 글에 나오지 않는다. 답을 찾을 수 없는 질문이므로 ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>찾을 수 있음</td><td>신뢰 보호의 필요성(권익 침해) 제시.</td></tr><tr class="correct"><td>②</td><td class="ok">찾을 수 없음</td><td>성립의 역사적 배경은 글에 없음.</td></tr><tr><td>③</td><td>찾을 수 있음</td><td>세 가지 적용 요건 제시.</td></tr><tr><td>④</td><td>찾을 수 있음</td><td>적용이 제한되는 경우 제시.</td></tr><tr><td>⑤</td><td>찾을 수 있음</td><td>법치주의에 어긋나지 않는 이유 제시.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob23">
   <p class="q-stem">23. 공적 견해 표명에 관한 설명 중 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q23-1">① 행정권 행사에 대한 행정 기관의 의사를 공적으로 드러내는 것을 의미한다.</li>
-    <li id="q23-2">② 행정 기관의 명시적 의사 표명뿐 아니라 묵시적인 의사 표명도 해당될 수 있다.</li>
+  <ul class="q-opts"><li id="q23-1">① 행정권 행사에 대한 행정 기관의 의사를 공적으로 드러내는 것을 의미한다.<a class="src-tag" href="#ev-q23-1">오답 근거</a></li>
+    <li id="q23-2">② 행정 기관의 명시적 의사 표명뿐 아니라 묵시적인 의사 표명도 해당될 수 있다.<a class="src-tag" href="#ev-q23-2">오답 근거</a></li>
     <li id="q23-3">③ 구체적 사안과 관계없이 법령의 해석에 대한 질의에 답변해 준 것도 포함될 수 있다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
-    <li id="q23-4">④ 국민이 신뢰를 갖게 되는 대상으로서 행정 기관의 말이나 행위를 통해 드러날 수 있다.</li>
-    <li id="q23-5">⑤ 국민의 신뢰가 형성된 공적 견해이더라도 법적 상황이 변경된 후에는 신뢰의 대상이 되지 못할 수 있다. 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+    <li id="q23-4">④ 국민이 신뢰를 갖게 되는 대상으로서 행정 기관의 말이나 행위를 통해 드러날 수 있다.<a class="src-tag" href="#ev-q23-4">오답 근거</a></li>
+    <li id="q23-5">⑤ 국민의 신뢰가 형성된 공적 견해이더라도 법적 상황이 변경된 후에는 신뢰의 대상이 되지 못할 수 있다. 영역<a class="src-tag" href="#ev-q23-5">오답 근거</a></li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ‘공적 견해 표명’의 범위(구체적 사안 vs 추상적 질의)를 본다.</p><p>공적 견해 표명은 <strong>구체적 사안</strong>에 관한 것이어야 하므로, 추상적인 법령 해석 질의에 원론적으로 답한 것은 해당하지 않는다. ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>행정권 행사 의사를 공적으로 드러냄.</td></tr><tr><td>②</td><td>적절</td><td>묵시적 의사 표명도 해당.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>추상적 법령 해석 질의 답변은 제외.</td></tr><tr><td>④</td><td>적절</td><td>선행조치=행정 기관의 말이나 행위.</td></tr><tr><td>⑤</td><td>적절</td><td>법적 상황 변경 후 신뢰 대상 안 될 수 있음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob24">
@@ -409,25 +373,7 @@ layout: "exam"
     <li id="q24-3">③ 행정 기관의 선행조치가 사실 관계에 바탕을 둔 것이 아니기 때문이다.</li>
     <li id="q24-4">④ 행정 기관의 선행조치가 국민의 잘못된 정보 제공으로 인해 행해진 것이기 때문이다.</li>
     <li id="q24-5">⑤ 행정 기관의 선행조치에 대한 신뢰가 원인이 되어 국민의 행위가 이어진 것으로 볼 수 없기 때문이다.<a class="src-tag ans" href="#ev24">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠(신뢰 보호 주장 불가)이 ‘세 번째 요건’ 중 무엇과 어긋나는지 본다.</p><p>세 번째 요건은 ‘선행조치 신뢰와 국민 행위 사이 인과 관계’다. ㉠(선행조치를 인식 못함/사후 변경 가능성 고지)은 신뢰가 원인이 되어 행위가 이어졌다고 볼 수 없는 경우다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘다른 조치를 취함’은 권익 침해 요건 쪽.</td></tr><tr><td>②</td><td>오답</td><td>법적 하자 자체는 ㉠ 이유 아님.</td></tr><tr><td>③</td><td>오답</td><td>사실 관계 바탕 여부와 무관.</td></tr><tr><td>④</td><td>오답</td><td>국민 귀책 사유는 두 번째 요건.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>신뢰가 원인→행위로 이어졌다고 볼 수 없음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob25">
@@ -442,25 +388,7 @@ layout: "exam"
     <li id="q25-3">③ (가)에서 법원은 행정 기관이 농지를 보전함으로써 얻는 공익이 A의 권익을 침해하면서까지 보호해야 할 만큼 크지는 않다고 판단한 것이겠군.</li>
     <li id="q25-4">④ (나)에서 행정 기관이 B의 공장 설립을 승인한 것은 위법 상태에 대해 행정적 권한을 행사하지 않음으로써 의사를 표명한 것이겠군.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
     <li id="q25-5">⑤ (나)에서 법원은 공장 설립을 허가한 행정 기관의 선행조치가 법적 하자를 갖게 된 것에 대한 귀책 사유가 B에게 있다고 판단한 것이겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉 (가)·(나)의 행정 조치를 요건에 대입한다.</p><p>(나)에서 △△시가 B 공장 설립을 ‘승인’한 것은 <strong>행정 권한을 행사</strong>한 것이다. ‘권한을 행사하지 않음으로써 묵시적으로 표명’한 경우가 아니므로 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>불허가 처분이 위법 판결=신뢰보호 위배 대상.</td></tr><tr><td>②</td><td>적절</td><td>담당 공무원 회신=선행조치로 신뢰.</td></tr><tr><td>③</td><td>적절</td><td>공익<권익→신뢰 보호 우선 판단.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>‘승인’은 권한 행사(묵시적 표명 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>잘못된 정보 제공=B의 귀책 사유.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set7" class="set-anchor"></div>
