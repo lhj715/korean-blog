@@ -74,93 +74,39 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가)는 학교 누리집에 실을 글을 작성하기 위한 학생회 학생들의 대화이고, (나)는 (가)를 바탕으로 작성한 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>(가) 학생 1: 교지 편집부에서 우리가 했던 가치 참여 펀딩 봉사 활동을 소개해 달라는 요청을 했어. 어떤 내용으로 글을 쓸지 정하기 위해 함께 이야기해 보자. 학생 2: 가치 참여 펀딩이라는 말이 생소할 테니까 가치 참여 펀딩의 정의에 대해 제시해 주면 좋을 것 같아. 우리 학생회에서 그 말의 의미를 정의했었잖아. 학생 3: 좋아. 글을 쓸 때 봉사 활동이 끝난 후 작성했던 활동 보고서 내용도 활용해 보는 게 어떨까? 우리가 썼던 활동 보고서에 봉사 활동 진행 과정이 정리되어 있잖아. 학생 1: 봉사 활동 진행 과정 중에 어떤 내용을 중점적으로 쓰면 좋을지 좀 더 이야기해 줄래? 학생 3: 우리가 구체적인 봉사 활동의 주제를 선정한 과정을 제시해 주는 게 좋을 것 같아. 학생 2: 그래. 그리고 봉사 활동 진행 과정을 소개하면서 우리가 SNS로 홍보한 이유도 제시하면 좋겠어. 학생 1: 다들 좋은 의견 고마워. 정리하자면 가치 참여 펀딩 봉사 활동의 개념, 봉사 활동 진행 과정에 대해 소개하자는 거구나. 학생 2: 가치 참여 펀딩이 아닌 형태로 봉사 활동을 한 사례들도 소개하자. 학생 3: 다른 형태로 봉사 활동을 한 사례들도 소개하자는 거구나. 그러면 글 내용이 더 풍부해질 수 있을 것 같아.<span class="ev ans" id="ev4"> 하지만 다른 사례를 소개하면 글의 주제가 불분명해질 거야.</span><a class="ev-tag ans" href="#q4-5">4-⑤</a> 학생 2:<span class="ev ans" id="ev5"> 그렇겠다. 우리의 활동 내용에 대해서만 글에 언급하는 것이 좋겠어.</span><a class="ev-tag ans" href="#q5-1">5-①</a> 학생 1: 그럼 다른 봉사 활동 사례는 글에서 제외하기로 하자. 활동 보고서 외에 우리가 더 참고할 만한 자료는 어떤 게 있을까? 학생 3: 봉사 활동 이후에 있었던 가치 공유회에서 친구들이 소감 발표한 것을 정리한 자료가 있어. 봉사 활동의 좋았던 점과 아쉬웠던 점에 대한 내용을 모두 글에 반영하면 좋을 것 같아. 학생 1: 좋았던 점에 대한 의견으로는 어떤 것이 있었지? 학생 2: 가치 참여 펀딩 자체에 대한 평가와 봉사 활동 후 지역 환경이 개선된 것에 대한 평가가 있었어. 그중에서 가치 참여 펀딩 자체에 대한 긍정적 평가 내용을 넣어 보자. 그래야 우리 활동의 특색을 더 잘 드러낼 수 있을 것 같아. 학생 3: 그리고<span class="ev ans" id="ev6"> 한 가지 주제의 봉사 활동만 있는 것이 아쉬웠다며 환경 보호의 가치를 실현할 수 있는 다양한 주제의 봉사 활동을 운영해 달라고 제안한 참가자도 있었어.</span><a class="ev-tag ans" href="#q6-5">6-⑤</a> 학생 2: 그렇구나. 우리가 다음 봉사 활동을 기획할 때 그런 의견을 반영하겠다는 내용도 글에 추가하면 될 것 같아. 학생 1: 그럼 지금까지 이야기한 내용을 정리해서 나에게 보내 줘. 내가 그 내용을 바탕으로 초고를 작성할게. 학생 2, 3: 알았어. (나) 우리 학교 학생회에서는 지난 10월 ‘환경 보호’라는 가치를 실천하기 위해 지역 하천 쓰레기 줍기 봉사 활동을 진행했다.<span class="ev ans" id="ev7"> 이번 활동의 가장 큰 특색은 그 출발점을 ‘가치 공감을 통한 참여’에 두고 펀딩 방식을 활용한 가치 참여 펀딩을 통해 진행했다는 점이다.</span><a class="ev-tag ans" href="#q7-5">7-⑤</a> 가치 펀딩이란 사회적 가치를 담은 제품을 개발하기 위해 자금을 모으는 크라우드 펀딩의 한 형태를 의미하는데, 학생회에서는 자금을 모으는 대신 학생회가 제시한 가치에 공감하는 학생들의 참여 의사를 모으는 것으로 가치 참여 펀딩을 정의하고, 활동을 기획하였다. 먼저 학생회에서는 ‘환경 보호’를 위한 구체적인 봉사 활동의 주제를 선정하였다. ‘지역 하천 쓰레기 줍기’, ‘골목길 청소’, ‘환경 캠페인’ 중에서 회의를 통해 지역 하천 쓰레기 줍기를 주제로 결정했다. 그리고 가치 참여 펀딩의 의의와 봉사 활동 내용을 담은 홍보문을 작성하고, 많은 학생들이 손쉽게 참여 의사를 밝힐 수 있도록 하기 위해 학생회 SNS에 게시하여 참가자를 모집하였다. 그 결과 우리 지역 환경에 대한 문제의식을 공유하고 ‘환경 보호’라는 가치에 공감한 친구들이 50명 넘게 모여 다 함께 지역 하천 쓰레기 줍기에 참여하였다. 활동 이후에 가치 참여 펀딩을 함께 한 친구들이 모여 가치 공유회를 열어 소감을 나누었다. 활동 이후 진행된 가치 공유회에서는 같은 가치에 공감하는 사람들과 함께 활동하며 가치를 공유하는 경험을 할 수 있어서 의미가 있었다고 가치 참여 펀딩 자체에 대해 만족감을 표하는 반응이 많았다. 다만 ‘환경 보호’라는 가치 외에도 ‘사회적 평등’과 같은 다른 가치를 중심으로 기획된 활동도 있으면 좋겠다는 의견도 있었다. 학생회에서는 이러한 의견을 수렴하여 앞으로의 활동을 진행할 계획이다. 그리고 가치에 대해 공감하고 함께 참여하여 그 가치를 실현한다는 의의를 지닌 가치 참여 펀딩을 이어 나갈 것이다.</p>
+  <p>(가) 학생 1: <span class="ev" id="ev-q4-3">교지 편집부에서 우리가 했던 가치 참여 펀딩 봉사 활동을 소개해 달라는 요청을 했어. 어떤 내용으로 글을 쓸지 정하기 위해 함께 이야기해 보자.</span><a class="ev-tag" href="#q4-3">4-③</a> 학생 2: 가치 참여 펀딩이라는 말이 생소할 테니까 가치 참여 펀딩의 정의에 대해 제시해 주면 좋을 것 같아. 우리 학생회에서 그 말의 의미를 정의했었잖아. 학생 3: 좋아. 글을 쓸 때 봉사 활동이 끝난 후 작성했던 활동 보고서 내용도 활용해 보는 게 어떨까? 우리가 썼던 활동 보고서에 봉사 활동 진행 과정이 정리되어 있잖아. 학생 1: <span class="ev" id="ev-q4-4">봉사 활동 진행 과정 중에 어떤 내용을 중점적으로 쓰면 좋을지 좀 더 이야기해 줄래?</span><a class="ev-tag" href="#q4-4">4-④</a> 학생 3: 우리가 구체적인 봉사 활동의 주제를 선정한 과정을 제시해 주는 게 좋을 것 같아. 학생 2: 그래. 그리고 봉사 활동 진행 과정을 소개하면서 우리가 SNS로 홍보한 이유도 제시하면 좋겠어. 학생 1: 다들 좋은 의견 고마워. <span class="ev" id="ev-q4-2">정리하자면 가치 참여 펀딩 봉사 활동의 개념, 봉사 활동 진행 과정에 대해 소개하자는 거구나.</span><a class="ev-tag" href="#q4-2">4-②</a> 학생 2: 가치 참여 펀딩이 아닌 형태로 봉사 활동을 한 사례들도 소개하자. 학생 3: 다른 형태로 봉사 활동을 한 사례들도 소개하자는 거구나. 그러면 글 내용이 더 풍부해질 수 있을 것 같아.<span class="ev ans" id="ev4"> 하지만 다른 사례를 소개하면 글의 주제가 불분명해질 거야.</span><a class="ev-tag ans" href="#q4-5">4-⑤</a> 학생 2:<span class="ev ans" id="ev5"> 그렇겠다. 우리의 활동 내용에 대해서만 글에 언급하는 것이 좋겠어.</span><a class="ev-tag ans" href="#q5-1">5-①</a> 학생 1: 그럼 다른 봉사 활동 사례는 글에서 제외하기로 하자. 활동 보고서 외에 우리가 더 참고할 만한 자료는 어떤 게 있을까? 학생 3: 봉사 활동 이후에 있었던 가치 공유회에서 친구들이 소감 발표한 것을 정리한 자료가 있어. 봉사 활동의 좋았던 점과 아쉬웠던 점에 대한 내용을 모두 글에 반영하면 좋을 것 같아. 학생 1: 좋았던 점에 대한 의견으로는 어떤 것이 있었지? 학생 2: 가치 참여 펀딩 자체에 대한 평가와 봉사 활동 후 지역 환경이 개선된 것에 대한 평가가 있었어. 그중에서 가치 참여 펀딩 자체에 대한 긍정적 평가 내용을 넣어 보자. 그래야 우리 활동의 특색을 더 잘 드러낼 수 있을 것 같아. 학생 3: 그리고<span class="ev ans" id="ev6"> 한 가지 주제의 봉사 활동만 있는 것이 아쉬웠다며 환경 보호의 가치를 실현할 수 있는 다양한 주제의 봉사 활동을 운영해 달라고 제안한 참가자도 있었어.</span><a class="ev-tag ans" href="#q6-5">6-⑤</a> 학생 2: 그렇구나. 우리가 다음 봉사 활동을 기획할 때 그런 의견을 반영하겠다는 내용도 글에 추가하면 될 것 같아. 학생 1: 그럼 <span class="ev" id="ev-q4-1">지금까지 이야기한 내용을 정리해서 나에게 보내 줘. 내가 그 내용을 바탕으로 초고를 작성할게.</span><a class="ev-tag" href="#q4-1">4-①</a> 학생 2, 3: 알았어. (나) 우리 학교 학생회에서는 지난 10월 ‘환경 보호’라는 가치를 실천하기 위해 지역 하천 쓰레기 줍기 봉사 활동을 진행했다.<span class="ev ans" id="ev7"> 이번 활동의 가장 큰 특색은 그 출발점을 ‘가치 공감을 통한 참여’에 두고 펀딩 방식을 활용한 가치 참여 펀딩을 통해 진행했다는 점이다.</span><a class="ev-tag ans" href="#q7-5">7-⑤</a> <span class="ev" id="ev-q6-2">가치 펀딩이란 사회적 가치를 담은 제품을 개발하기 위해 자금을 모으는 크라우드 펀딩의 한 형태를 의미하는데</span><a class="ev-tag" href="#q6-2">6-②</a>, 학생회에서는 자금을 모으는 대신 학생회가 제시한 가치에 공감하는 학생들의 참여 의사를 모으는 것으로 가치 참여 펀딩을 정의하고, 활동을 기획하였다. 먼저 학생회에서는 ‘환경 보호’를 위한 구체적인 봉사 활동의 주제를 선정하였다. ‘지역 하천 쓰레기 줍기’, ‘골목길 청소’, ‘환경 캠페인’ 중에서 <span class="ev" id="ev-q6-4">회의를 통해 지역 하천 쓰레기 줍기를 주제로 결정했다.</span><a class="ev-tag" href="#q6-4">6-④</a> 그리고 가치 참여 펀딩의 의의와 봉사 활동 내용을 담은 홍보문을 작성하고, <span class="ev" id="ev-q6-1">많은 학생들이 손쉽게 참여 의사를 밝힐 수 있도록 하기 위해 학생회 SNS에 게시하여 참가자를 모집하였다.</span><a class="ev-tag" href="#q6-1">6-①</a> 그 결과 우리 지역 환경에 대한 문제의식을 공유하고 ‘환경 보호’라는 가치에 공감한 친구들이 50명 넘게 모여 다 함께 지역 하천 쓰레기 줍기에 참여하였다. 활동 이후에 가치 참여 펀딩을 함께 한 친구들이 모여 가치 공유회를 열어 소감을 나누었다. 활동 이후 진행된 가치 공유회에서는 같은 가치에 공감하는 사람들과 함께 활동하며 가치를 공유하는 경험을 할 수 있어서 의미가 있었다고 <span class="ev" id="ev-q6-3">가치 참여 펀딩 자체에 대해 만족감을 표하는 반응이 많았다.</span><a class="ev-tag" href="#q6-3">6-③</a> 다만 ‘환경 보호’라는 가치 외에도 ‘사회적 평등’과 같은 다른 가치를 중심으로 기획된 활동도 있으면 좋겠다는 의견도 있었다. 학생회에서는 이러한 의견을 수렴하여 앞으로의 활동을 진행할 계획이다. 그리고 가치에 대해 공감하고 함께 참여하여 그 가치를 실현한다는 의의를 지닌 가치 참여 펀딩을 이어 나갈 것이다.</p>
 </div>
 
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)에서 ‘학생 1’의 역할에 대한 설명으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q4-1">① 대화 이후 수행해야 할 일을 언급하고 있다.</li>
-    <li id="q4-2">② 다른 참여자들의 발언을 정리해서 제시하고 있다.</li>
-    <li id="q4-3">③ 대화의 목적을 밝히며 대화를 이끌어 나가고 있다.</li>
-    <li id="q4-4">④ 다른 참여자의 발언을 듣고 추가적인 설명을 요청하고 있다.</li>
+  <ul class="q-opts"><li id="q4-1">① 대화 이후 수행해야 할 일을 언급하고 있다.<a class="src-tag" href="#ev-q4-1">오답 근거</a></li>
+    <li id="q4-2">② 다른 참여자들의 발언을 정리해서 제시하고 있다.<a class="src-tag" href="#ev-q4-2">오답 근거</a></li>
+    <li id="q4-3">③ 대화의 목적을 밝히며 대화를 이끌어 나가고 있다.<a class="src-tag" href="#ev-q4-3">오답 근거</a></li>
+    <li id="q4-4">④ 다른 참여자의 발언을 듣고 추가적인 설명을 요청하고 있다.<a class="src-tag" href="#ev-q4-4">오답 근거</a></li>
     <li id="q4-5">⑤ 다른 참여자의 발언이 주제에서 벗어난 것을 지적하고 있다.<a class="src-tag ans" href="#ev4">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ‘학생 1’이 실제로 한 발화를 본다.</p><p>주제를 벗어났다고 <strong>지적</strong>한 것은 학생 3(‘다른 사례를 소개하면 글의 주제가 불분명’)이지 학생 1이 아니다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>‘정리해서 보내 줘~초고를 작성할게’=이후 할 일.</td></tr><tr><td>②</td><td>적절</td><td>‘정리하자면~소개하자는 거구나’=발언 정리.</td></tr><tr><td>③</td><td>적절</td><td>‘함께 이야기해 보자’=목적 밝힘·진행.</td></tr><tr><td>④</td><td>적절</td><td>‘좀 더 이야기해 줄래?’=추가 설명 요청.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>주제 벗어남 지적은 학생 3.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob5">
   <p class="q-stem">5. [A]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q5-1">① ‘학생 2’는 ‘학생 3’의 발화 내용을 수용하며 자신의 견해를 수정하고 있다.<a class="src-tag ans" href="#ev5">정답 근거</a></li>
-    <li id="q5-2">② ‘학생 2’는 ‘학생 3’이 제시한 내용을 반박하며 자신이 제시했던 의견을 보완하고 있다.</li>
+    <li id="q5-2">② ‘학생 2’는 ‘학생 3’이 제시한 내용을 반박하며 자신이 제시했던 의견을 보완하고 있다.<a class="src-tag" href="#ev5">오답 근거</a></li>
     <li id="q5-3">③ ‘학생 3’은 자신의 의견을 여러 가지 제시하고 ‘학생 2’에게 선택을 요구하고 있다.</li>
     <li id="q5-4">④ ‘학생 3’은 ‘학생 2’가 제안을 하게 된 이유를 질문한 뒤 그 제안의 한계를 지적하고 있다.</li>
     <li id="q5-5">⑤ ‘학생 2’와 ‘학생 3’은 모두 상대의 발화를 재진술하며 자신이 이해한 내용이 정확한지 확인하고 있다.
 [A] 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — [A](학생3↔학생2 주고받기)에서 누가 무엇을 했는지 본다.</p><p>학생 2는 학생 3의 말(‘다른 사례 소개=주제 불분명’)을 ‘그렇겠다’로 <strong>수용</strong>하고 ‘우리 활동만 언급하자’며 자기 견해를 수정한다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>‘그렇겠다’ 수용+견해 수정.</td></tr><tr><td>②</td><td>오답</td><td>반박이 아니라 수용.</td></tr><tr><td>③</td><td>오답</td><td>학생3 여러 의견·선택 요구 없음.</td></tr><tr><td>④</td><td>오답</td><td>이유 질문·한계 지적 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>재진술 확인은 [A]에 없음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob6">
   <p class="q-stem">6. (가)의 대화 내용이 (나)에 반영된 양상으로 적절하지 않은 것은? <span class="q-rate">오답률 78.0%</span></p>
-  <ul class="q-opts"><li id="q6-1">① (가)에서 ‘학생 2’가 홍보 수단 선택의 이유에 대해 언급한 내용이, (나)에서 학생회 SNS가 학생들이 참여 의사를 밝히기 용이하다는 내용으로 반영되었다.</li>
-    <li id="q6-2">② (가)에서 ‘학생 2’가 가치 참여 펀딩의 정의에 대해 언급한 내용이, (나)에서 가치 펀딩과 가치 참여 펀딩의 의미를 비교하여 제시하는 방식으로 반영되었다.</li>
-    <li id="q6-3">③ (가)에서 ‘학생 2’가 가치 참여 펀딩 자체에 대한 평가에 대해 언급한 내용이, (나)에서 같은 가치를 공유한 경험에 대해 만족감을 표하는 반응이 많았다는 내용으로 반영되었다.</li>
+  <ul class="q-opts"><li id="q6-1">① (가)에서 ‘학생 2’가 홍보 수단 선택의 이유에 대해 언급한 내용이, (나)에서 학생회 SNS가 학생들이 참여 의사를 밝히기 용이하다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-1">오답 근거</a></li>
+    <li id="q6-2">② (가)에서 ‘학생 2’가 가치 참여 펀딩의 정의에 대해 언급한 내용이, (나)에서 가치 펀딩과 가치 참여 펀딩의 의미를 비교하여 제시하는 방식으로 반영되었다.<a class="src-tag" href="#ev-q6-2">오답 근거</a></li>
+    <li id="q6-3">③ (가)에서 ‘학생 2’가 가치 참여 펀딩 자체에 대한 평가에 대해 언급한 내용이, (나)에서 같은 가치를 공유한 경험에 대해 만족감을 표하는 반응이 많았다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-3">오답 근거</a></li>
     <li id="q6-4">④ (가)에서 ‘학생 3’이 주제 선정 과정에 대해 언급한 내용이, (나)
-에서 회의를 통해 ‘지역 하천 쓰레기 줍기’가 주제로 결정되었다는 내용으로 반영되었다.</li>
+에서 회의를 통해 ‘지역 하천 쓰레기 줍기’가 주제로 결정되었다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-4">오답 근거</a></li>
     <li id="q6-5">⑤ (가)에서 ‘학생 3’이 참가자의 제안에 대해 언급한 내용이, (나)에서 ‘환경 보호’ 외의 다른 가치를 중심으로 한 활동에 대한 요구가 있었음을 밝히는 내용으로 반영되었다.<a class="src-tag ans" href="#ev6">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가) 발화가 (나)에 ‘어떻게’ 반영됐는지 짝짓는다.</p><p>학생 3은 ‘다양한 주제의 봉사 활동을 운영해 달라’는 참가자 제안을 언급했는데, (나)는 ‘환경 보호 외 다른 가치’ 활동 요구로 옮겨 적었다. ‘다양한 주제 봉사 활동’ 요구로 반영된 것이 아니므로 ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>SNS 홍보 이유→참여 의사 용이.</td></tr><tr><td>②</td><td>적절</td><td>가치 펀딩↔가치 참여 펀딩 비교.</td></tr><tr><td>③</td><td>적절</td><td>펀딩 자체 만족 평가 반영.</td></tr><tr><td>④</td><td>적절</td><td>주제 선정 과정(회의 결정) 반영.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘다양한 주제’가 아닌 ‘다른 가치’로 반영.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob7">
@@ -174,25 +120,7 @@ layout: "exam"
     <li id="q7-3">③ 내가 주운 쓰레기 하나, 환경을 위한 보물찾기</li>
     <li id="q7-4">④ 함께 하는 참여로 우리 모두의 소중한 가치를 지킨다</li>
     <li id="q7-5">⑤ 푸른 내일을 향한 한 걸음, 공감과 참여로 보호하는 환경<a class="src-tag ans" href="#ev7">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ‘가치+의의 직접 제시’ + ‘비유’ 두 조건을 모두 만족하는지 본다.</p><p>⑤는 ‘푸른 내일을 향한 한 걸음’이라는 <strong>비유</strong>와 ‘공감과 참여로 보호하는 환경’이라는 <strong>가치·의의</strong>를 모두 담았다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>비유 없음.</td></tr><tr><td>②</td><td>오답</td><td>가치 참여 펀딩 의의 직접 제시 부족.</td></tr><tr><td>③</td><td>오답</td><td>의의 직접 제시 부족.</td></tr><tr><td>④</td><td>오답</td><td>비유 없음.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>비유+가치·의의 모두 충족.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set3" class="set-anchor"></div>
@@ -201,7 +129,7 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 이를 바탕으로 학생이 작성한 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>다음은 작문 상황과 이를 바탕으로 학생이 작성한 초고이다. 물음에 답하시오. [작문 상황] 작문 목적: 우리 지역 선사 유적 박물관의 활성화 방안을 건의함. 예상 독자: 선사 유적 박물관 관계자[초고] 안녕하세요. 박물관 운영을 위해 애써 주셔서 감사합니다. 저는 ○○시에 사는 고등학생 □□□입니다.<span class="ev ans" id="ev8"> 얼마 전 ○○시 선사 유적 박물관을 방문했는데, 역사적 가치가 큰 문화재가 많은데도 관람객이 적어서 아쉬웠습니다.</span><a class="ev-tag ans" href="#q8-3">8-③</a> 그래서 박물관 활성화 방안에 대해 건의하고자 합니다. 제가 생각하기에 관람객이 적은 원인은 첫째, 우리 지역에 선사 유적 박물관이 있다는 것이 많이 알려져 있지 않기 때문입니다. 우리 지역의 주민들조차도 가까이에 박물관이 있다는 것을 잘 모르고 있습니다. 둘째, 관람객의 흥미를 끌 만한 프로그램이 부족하기 때문입니다. 현재는 해설사와 함께하는 관람 프로그램만 운영되고 있을 뿐 다른 프로그램은 없는 실정입니다. 셋째, 박물관을 이용할 때 불편한 점이 많기 때문입니다. 박물관의 공간 구조가 복잡하고, 외부 유적 주변에는 편의 시설이 없습니다. 이에 따른 문제를 해결하기 위해, 먼저 효과적인 박물관 홍보 방안을 마련해 주십시오. SNS를 활용하거나 지역 사회 및 학교와 연계해 홍보한다면 박물관을 알리는 기회가 될 것입니다. 다음으로 다양한 박물관 프로그램을 마련해 주십시오.<span class="ev ans" id="ev9"> 디지털 콘텐츠를 활용한 체험 프로그램이나 연령별 맞춤 프로그램이 마련된다면 관람객을 유치하는 데 도움이 될 것입니다.</span><a class="ev-tag ans" href="#q9-5">9-⑤</a> 끝으로 박물관 시설을 개선해 주십시오. 관람객의 이동 경로를 고려하여 전시 공간을 체계적으로 배치하고, 휴게 시설이나 물품 보관소 등 편의 시설을 확충해 주십시오. ○○시 선사 유적 박물관은 옛 인류의 삶의 모습을 엿볼 수 있는 공간입니다.<span class="ev ans" id="ev10"> 그러므로 지역 기관의 다양한 제도적 뒷받침이 필요합니다.</span><a class="ev-tag ans" href="#q10-1">10-①</a> 박물관을 활성화하기 위한 방안을 다양하게 모색해 주시기 바랍니다.</p>
+  <p>다음은 작문 상황과 이를 바탕으로 학생이 작성한 초고이다. 물음에 답하시오. [작문 상황] 작문 목적: 우리 지역 선사 유적 박물관의 활성화 방안을 건의함. 예상 독자: 선사 유적 박물관 관계자[초고] 안녕하세요. 박물관 운영을 위해 애써 주셔서 감사합니다. 저는 ○○시에 사는 고등학생 □□□입니다.<span class="ev ans" id="ev8"> 얼마 전 ○○시 선사 유적 박물관을 방문했는데, 역사적 가치가 큰 문화재가 많은데도 관람객이 적어서 아쉬웠습니다.</span><a class="ev-tag ans" href="#q8-3">8-③</a> 그래서 박물관 활성화 방안에 대해 건의하고자 합니다. 제가 생각하기에 관람객이 적은 원인은 첫째, <span class="ev" id="ev-q9-1">우리 지역에 선사 유적 박물관이 있다는 것이 많이 알려져 있지 않기 때문입니다.</span><a class="ev-tag" href="#q9-1">9-①</a> 우리 지역의 주민들조차도 가까이에 박물관이 있다는 것을 잘 모르고 있습니다. 둘째, <span class="ev" id="ev-q9-3">관람객의 흥미를 끌 만한 프로그램이 부족하기 때문입니다.</span><a class="ev-tag" href="#q9-3">9-③</a> 현재는 해설사와 함께하는 관람 프로그램만 운영되고 있을 뿐 다른 프로그램은 없는 실정입니다. 셋째, 박물관을 이용할 때 불편한 점이 많기 때문입니다. 박물관의 공간 구조가 복잡하고, 외부 유적 주변에는 편의 시설이 없습니다. 이에 따른 문제를 해결하기 위해, 먼저 효과적인 박물관 홍보 방안을 마련해 주십시오. <span class="ev" id="ev-q9-2">SNS를 활용하거나 지역 사회 및 학교와 연계해 홍보한다면 박물관을 알리는 기회가 될 것입니다.</span><a class="ev-tag" href="#q9-2">9-②</a> 다음으로 다양한 박물관 프로그램을 마련해 주십시오.<span class="ev ans" id="ev9"> 디지털 콘텐츠를 활용한 체험 프로그램이나 연령별 맞춤 프로그램이 마련된다면 관람객을 유치하는 데 도움이 될 것입니다.</span><a class="ev-tag ans" href="#q9-5">9-⑤</a> 끝으로 박물관 시설을 개선해 주십시오. <span class="ev" id="ev-q9-4">관람객의 이동 경로를 고려하여 전시 공간을 체계적으로 배치하고</span><a class="ev-tag" href="#q9-4">9-④</a>, 휴게 시설이나 물품 보관소 등 편의 시설을 확충해 주십시오. ○○시 선사 유적 박물관은 옛 인류의 삶의 모습을 엿볼 수 있는 공간입니다.<span class="ev ans" id="ev10"> 그러므로 지역 기관의 다양한 제도적 뒷받침이 필요합니다.</span><a class="ev-tag ans" href="#q10-1">10-①</a> 박물관을 활성화하기 위한 방안을 다양하게 모색해 주시기 바랍니다.</p>
 </div>
 
 <div class="q-block" id="prob8">
@@ -212,25 +140,7 @@ layout: "exam"
     <li id="q8-4">④ 건의 주체가 문제 해결 과정에 기여할 수 있는 바를 제시하고 있다.</li>
     <li id="q8-5">⑤ 건의 사항이 받아들여지지 않을 경우 발생할 수 있는 문제점을 제시하고 있다.
 [A] 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 초고에 실제로 ‘쓰인’ 전략을 고른다.</p><p>1문단에서 ‘얼마 전 박물관을 방문했는데~ 아쉬웠습니다’라며 건의의 배경을 <strong>자신의 경험</strong>과 관련지어 제시한다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>예상 반론 제시 없음.</td></tr><tr><td>②</td><td>오답</td><td>구체적 수치 제시 없음.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>방문 경험으로 건의 배경 제시.</td></tr><tr><td>④</td><td>오답</td><td>건의 주체의 기여 제시 없음.</td></tr><tr><td>⑤</td><td>오답</td><td>미수용 시 문제점 제시 없음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob9">
@@ -241,30 +151,12 @@ layout: "exam"
     <p><strong>[자료 2] ○○시 시민 인터뷰</strong><br>"얼마 전 △△시 박물관에 방문했는데, 모바일 애플리케이션을 통해 연령에 맞게 다양한 체험 프로그램을 선택해 참여할 수 있어서 좋았습니다. 전에 가 보았던 우리 지역 선사 유적 박물관은 아이들을 위한 프로그램이 없고, 전시 해설만 있어서 아쉬웠거든요. 우리 지역에도 다채로운 프로그램이 마련되었으면 좋겠어요."</p>
     <p><strong>[자료 3] 신문 기사</strong><br>최근 ◇◇미술관의 관람객 수가 꾸준히 증가하고 있어 그간의 노력이 주목받고 있다. ◇◇미술관은 지역 내 고등학생을 대상으로 청소년 해설사 제도를 운영하고 지역 주민을 홍보 대사로 위촉하는 등 지역 사회와 연계된 홍보에 심혈을 기울여 왔다. 또한 실감 기술을 활용한 디지털 콘텐츠 프로그램을 통해 모든 연령대의 관람객이 참여할 수 있는 체험 프로그램을 운영하고 있으며, 효율적인 관람이 가능하도록 과학적 분석을 통해 관람 동선을 최적화하여 전시실을 재배치하는 등 디지털 기술을 적극 활용하고 있다.</p>
   </div>
-  <ul class="q-opts"><li id="q9-1">① [자료 1-㉮]를 활용하여, 박물관이 잘 알려져 있지 않다는 것의 근거 자료로 제시해야겠군.</li>
-    <li id="q9-2">② [자료 3]을 활용하여, 청소년 해설사 제도와 지역 주민 홍보 대사를 지역 연계 홍보의 구체적인 방안으로 제시해야겠군.</li>
-    <li id="q9-3">③ [자료 1-㉯]와 [자료 2]를 활용하여, 프로그램 개선에 대한 요구와 프로그램에 대한 평가를 우리 지역 박물관이 관람객의 흥미를 유발할 프로그램이 부족하다는 내용의 근거로 제시해야겠군.</li>
-    <li id="q9-4">④ [자료 1-㉯]와 [자료 3]을 활용하여, 관람객의 이동 경로를 고려하여 전시 공간을 체계적으로 배치해야 한다는 내용을 구체화하는 자료로 제시해야겠군.</li>
+  <ul class="q-opts"><li id="q9-1">① [자료 1-㉮]를 활용하여, 박물관이 잘 알려져 있지 않다는 것의 근거 자료로 제시해야겠군.<a class="src-tag" href="#ev-q9-1">오답 근거</a></li>
+    <li id="q9-2">② [자료 3]을 활용하여, 청소년 해설사 제도와 지역 주민 홍보 대사를 지역 연계 홍보의 구체적인 방안으로 제시해야겠군.<a class="src-tag" href="#ev-q9-2">오답 근거</a></li>
+    <li id="q9-3">③ [자료 1-㉯]와 [자료 2]를 활용하여, 프로그램 개선에 대한 요구와 프로그램에 대한 평가를 우리 지역 박물관이 관람객의 흥미를 유발할 프로그램이 부족하다는 내용의 근거로 제시해야겠군.<a class="src-tag" href="#ev-q9-3">오답 근거</a></li>
+    <li id="q9-4">④ [자료 1-㉯]와 [자료 3]을 활용하여, 관람객의 이동 경로를 고려하여 전시 공간을 체계적으로 배치해야 한다는 내용을 구체화하는 자료로 제시해야겠군.<a class="src-tag" href="#ev-q9-4">오답 근거</a></li>
     <li id="q9-5">⑤ [자료 2]와 [자료 3]을 활용하여, 모바일 애플리케이션을 활용한 프로그램과 디지털 콘텐츠 프로그램을 연령별 맞춤 프로그램의 구체적인 예로 제시해야겠군.<a class="src-tag ans" href="#ev9">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 자료의 ‘내용’과 ‘붙일 목적’이 맞는지 본다.</p><p>[자료 3]은 ‘모든 연령대’가 참여하는 디지털 콘텐츠 프로그램일 뿐 <strong>연령별 맞춤</strong> 프로그램은 아니다. 따라서 ⑤처럼 ‘연령별 맞춤 프로그램의 예’로 쓰는 것은 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉮ 인지도 ‘모름’ 63%→안 알려짐 근거.</td></tr><tr><td>②</td><td>적절</td><td>자료3 청소년 해설사·홍보대사→지역 연계 홍보.</td></tr><tr><td>③</td><td>적절</td><td>㉯ 확충 요구+자료2→프로그램 부족 근거.</td></tr><tr><td>④</td><td>적절</td><td>㉯+자료3 동선 최적화→전시 배치 구체화.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>자료3=모든 연령대(연령별 맞춤 아님).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob10">
@@ -274,29 +166,11 @@ layout: "exam"
     <p>○○시 선사 유적 박물관은 옛 인류의 삶의 모습을 엿볼 수 있는 공간입니다. 박물관을 활성화하기 위한 방안을 다양하게 모색해 주시기 바랍니다. 그러면 박물관은 지역의 명소이자 지역 주민의 자랑이 될 것입니다.</p>
   </div>
   <ul class="q-opts"><li id="q10-1">① 제도적 지원의 필요성은 삭제하고, 박물관이 활성화되었을 때의 기대 효과는 추가해 보자.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
-    <li id="q10-2">② 제도적 지원의 필요성은 삭제하고, 박물관 활성화를 위한 방안의 실현 가능성은 추가해 보자.</li>
+    <li id="q10-2">② 제도적 지원의 필요성은 삭제하고, 박물관 활성화를 위한 방안의 실현 가능성은 추가해 보자.<a class="src-tag" href="#ev10">오답 근거</a></li>
     <li id="q10-3">③ 선사 유적 박물관의 문화적 가치는 삭제하고, 박물관이 활성화되었을 때의 기대 효과는 추가해 보자.</li>
     <li id="q10-4">④ 선사 유적 박물관의 문화적 가치는 삭제하고, 박물관 활성화를 위한 방안의 실현 가능성은 추가해 보자.</li>
     <li id="q10-5">⑤ 선사 유적 박물관의 문화적 가치는 삭제하고, 박물관 활성화를 위한 지역 차원의 지원을 촉구하는 내용은 추가해 보자.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 고친 글에서 무엇이 빠지고 무엇이 더해졌는지 본다.</p><p>[A]의 ‘제도적 뒷받침이 필요하다’는 제도적 지원 필요성이 <strong>삭제</strong>되고, ‘박물관은 지역 명소·자랑이 될 것’이라는 <strong>기대 효과</strong>가 추가됐다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>제도적 지원 삭제+기대 효과 추가.</td></tr><tr><td>②</td><td>오답</td><td>추가된 것은 ‘실현 가능성’이 아닌 기대 효과.</td></tr><tr><td>③</td><td>오답</td><td>문화적 가치는 삭제되지 않음.</td></tr><tr><td>④</td><td>오답</td><td>문화적 가치 삭제·실현 가능성 추가 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>지역 차원 지원 촉구 추가 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set4" class="set-anchor"></div>
