@@ -513,7 +513,8 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[31 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>(가) 갈밭 속을 간다. 젊은 시인과 함께가노라면나는 혼자였다. 누구나갈밭 속에서는 일쑤동행을 잃기 마련이었다. 성형(成兄) 성형(成兄) ㉠<span class="ev" id="ev-q32-1">아무리 그를 불러도</span><a class="ev-tag" href="#q32-1">32-①</a>나의 음성은내면으로 되돌아오고, 이미 나는갈대 안에 있었다. 바람이 부는 것도 아닌데갈밭은어석어석 흔들린다. 갈잎에는 갈잎의 바람백발에는 백발의 바람. 젊은 시인은저편 강기슭에서 나를 부른다. ㉡<span class="ev" id="ev-q32-2">하지만 이미나는 응답할 수 없다.</span><a class="ev-tag" href="#q32-2">32-②</a> 나의 음성은내면으로 되돌아오고어쩔 수 없이 나도흔들리고 있었다. - 박목월, ｢하단에서｣ - (나) 참 늙어 보인다하늘 길을 가면서도 무슨 생각 그리 많았던지함부로 곧게 뻗어 올린 가지 하나 없다㉢<span class="ev" id="ev-q32-3">멈칫멈칫 구불구불</span><a class="ev-tag" href="#q32-3">32-③</a>태양에 대한 치열한 사유에 온몸이 부르터늙수그레하나 열매는 ㉣<span class="ev" id="ev-q32-4">애초부터 단단하다</span><a class="ev-tag" href="#q32-4">32-④</a>떫다풋생각을 남에게 건네지 않으려는 마음 다짐독하게, 꽃을, 땡감을, 떨구며지나는 바람에 허튼 말 내지 않고아니다 싶은 가지는 툭 분질러 버린다단호한 결단으로 가지를 다스려<span class="ev ans" id="ev32">영혼이 가벼운 ㉤새들마저 둥지를 틀지 못하고</span><a class="ev-tag ans" href="#q32-5">32-⑤</a>앉아 깃을 쪼며 미련 떨치는 법을 배운다보라가을 머리에 인 밝은 열매들늙은 몸뚱이로 어찌 그리 예쁜 열매를 매다는지그뿐눈바람 치면 다시 알몸으로죽어 버린 듯 묵묵부답 동안거에 드는- 함민복, ｢감나무｣ -</p>
+  <p>(가) 갈밭 속을 간다. <br>젊은 시인과 함께<br>가노라면<br>나는 혼자였다. <br>누구나<br>갈밭 속에서는 일쑤<br>동행을 잃기 마련이었다. <br>성형(成兄) <br>성형(成兄) ㉠<br><span class="ev" id="ev-q32-1">아무리 그를 불러도</span><a class="ev-tag" href="#q32-1">32-①</a><br>나의 음성은<br>내면으로 되돌아오고, <br>이미 나는<br>갈대 안에 있었다. <br>바람이 부는 것도 아닌데<br>갈밭은<br>어석어석 흔들린다. <br>갈잎에는 갈잎의 바람<br>백발에는 백발의 바람. <br>젊은 시인은<br>저편 강기슭에서 나를 부른다. ㉡<br><br><span class="ev" id="ev-q32-2">하지만 이미나는 응답할 수 없다.</span><a class="ev-tag" href="#q32-2">32-②</a> <br>나의 음성은<br>내면으로 되돌아오고<br>어쩔 수 없이 나도<br>흔들리고 있었다. <br>- 박목월, ｢하단에서｣ - </p>
+  <p>(나) <br>참 늙어 보인다<br>하늘 길을 가면서도 무슨 생각 그리 많았던지<br>함부로 곧게 뻗어 올린 가지 하나 없다㉢<br><span class="ev" id="ev-q32-3">멈칫멈칫 구불구불</span><a class="ev-tag" href="#q32-3">32-③</a><br>태양에 대한 치열한 사유에 온몸이 부르터<br>늙수그레하나 열매는 ㉣<span class="ev" id="ev-q32-4">애초부터 단단하다</span><a class="ev-tag" href="#q32-4">32-④</a><br>떫다<br>풋생각을 남에게 건네지 않으려는 마음 다짐<br>독하게, 꽃을, 땡감을, 떨구며<br>지나는 바람에 허튼 말 내지 않고<br>아니다 싶은 가지는 툭 분질러 버린다<br>단호한 결단으로 가지를 다스려<br><span class="ev ans" id="ev32">영혼이 가벼운 ㉤새들마저 둥지를 틀지 못하고</span><a class="ev-tag ans" href="#q32-5">32-⑤</a><br>앉아 깃을 쪼며 미련 떨치는 법을 배운다<br>보라<br>가을 머리에 인 밝은 열매들<br>늙은 몸뚱이로 어찌 그리 예쁜 열매를 매다는지<br>그뿐<br>눈바람 치면 다시 알몸으로<br>죽어 버린 듯 묵묵부답 동안거에 드는<br>- 함민복, ｢감나무｣ -</p>
 </div>
 
 <div class="q-block" id="prob31">
@@ -693,7 +694,7 @@ layout: "exam"
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(관직자의 애민·충간)로 (가)(나)를 본다.</p><p>(나)는 임금이 좋아하는 것을 손에서 놓지 못하게 하는 측근을 <strong>아첨으로 경계</strong>한 것이다. (가)의 충성과 같은 맥락으로 묶는 ④는 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>병든 밭이랑 살핌=어려운 삶을 살핌.</td></tr><tr><td>②</td><td>적절</td><td>유교 도리 권면=이념적 삶 권함.</td></tr><tr><td>③</td><td>적절</td><td>아첨배가 나라 좀먹음 경고=임금에 교훈.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>(나)는 측근의 탐닉을 경계(충성 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>백성 간고 슬퍼함=애민.</td></tr></tbody></table></div></details>
 </div>
 
-<div id="set11" class="set-anchor"></div>
+<div id="set<br>11" class="set-anchor"></div>
 
 ## 42~45번 고전소설 · 유씨 집안 갈등
 
