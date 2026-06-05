@@ -24,10 +24,11 @@ document.addEventListener('click', function(e){
   var a = e.target.closest('a.ev-tag');
   if(a){
     e.preventDefault();
-    var optId = (a.getAttribute('href') || '').slice(1);   // 예: q3-5
-    var m = optId.match(/^q(\d+)-/);
-    if(!m) return;
-    scrollToEl(document.getElementById('prob' + m[1]));    // 문제 시작 블록
+    var optId = (a.getAttribute('href') || '').slice(1);   // 예: q3-5, qA35-3
+    if(!optId) return;
+    // 선지 id → 문제 블록 id (고2 q3-5→prob3, 고3 선택과목 qA35-3→probA35)
+    var probId = 'prob' + optId.replace(/^q/, '').replace(/-[^-]*$/, '');
+    scrollToEl(document.getElementById(probId));           // 문제 시작 블록
     var opt = document.getElementById(optId);
     if(opt){
       document.querySelectorAll('.opt-hl,.opt-hl-ans').forEach(function(el){ el.classList.remove('opt-hl','opt-hl-ans'); });
