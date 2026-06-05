@@ -21,38 +21,38 @@ layout: "exam"
 <div class="q-block" id="prob1">
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q1-1">① 화제와 관련한 질문을 던지며 청중과 상호 작용하고 있다.</li>
-    <li id="q1-2">② 화제에 대한 청중의 관심을 요청하며 발표를 마무리하고 있다.</li>
-    <li id="q1-3">③ 화제를 친숙한 소재에 빗대어 표현하여 청중의 이해를 돕고 있다.</li>
-    <li id="q1-4">④ 발표 순서를 안내하여 청중이 발표 내용을 예측하며 듣도록 하고 있다.</li>
-    <li id="q1-5">⑤ 청중과 공유하고 있는 경험을 환기하며 화제를 선정한 이유를 밝히고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li></ul>
+ <li id="q1-2">② 화제에 대한 청중의 관심을 요청하며 발표를 마무리하고 있다.</li>
+ <li id="q1-3">③ 화제를 친숙한 소재에 빗대어 표현하여 청중의 이해를 돕고 있다.</li>
+ <li id="q1-4">④ 발표 순서를 안내하여 청중이 발표 내용을 예측하며 듣도록 하고 있다.</li>
+ <li id="q1-5">⑤ 청중과 공유하고 있는 경험을 환기하며 화제를 선정한 이유를 밝히고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 발표자의 말하기 방식을 찾는다.</p><p>발표자는 청중과 공유한 ‘수업’ 경험을 환기하며 흑립을 화제로 선정한 이유를 밝힌다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>화제 관련 질문으로 상호작용 없음.</td></tr><tr><td>②</td><td>오답</td><td>관심 요청하며 마무리하지 않음.</td></tr><tr><td>③</td><td>오답</td><td>친숙한 소재에 빗댄 표현 아님(명칭 언급일 뿐).</td></tr><tr><td>④</td><td>오답</td><td>발표 순서 안내 없음.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>공유 경험 환기+화제 선정 이유 제시.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob2">
   <p class="q-stem">2. 다음은 발표자가 제시한 자료이다. 발표자의 자료 활용에 대한 설명으로 적절하지 않은 것은?</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>[자료1]<br>[자료2]<br>[자료3]</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>[자료1]<br>[자료2]<br>[자료3]</p>
   </div>
   <ul class="q-opts"><li id="q2-1">① 입영에 사용되는 다양한 재료를 설명하기 위해 ㉠에 [자료1]을 활용하였다.</li>
-    <li id="q2-2">② 흑립을 구성하는 각 요소의 명칭과 기능을 설명하기 위해 ㉠에 [자료1]을 활용하였다.</li>
-    <li id="q2-3">③ 회자의 위치를 보여 주기 위해 ㉡에 [자료2]를 활용하였다.</li>
-    <li id="q2-4">④ 양태를 장식한 문양을 보여 주기 위해 ㉡에 [자료2]를 활용하였다.</li>
-    <li id="q2-5">⑤ 갈모를 사용하는 방법을 설명하기 위해 ㉢에 [자료3]을 활용하였다.</li></ul>
+ <li id="q2-2">② 흑립을 구성하는 각 요소의 명칭과 기능을 설명하기 위해 ㉠에 [자료1]을 활용하였다.</li>
+ <li id="q2-3">③ 회자의 위치를 보여 주기 위해 ㉡에 [자료2]를 활용하였다.</li>
+ <li id="q2-4">④ 양태를 장식한 문양을 보여 주기 위해 ㉡에 [자료2]를 활용하였다.</li>
+ <li id="q2-5">⑤ 갈모를 사용하는 방법을 설명하기 위해 ㉢에 [자료3]을 활용하였다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 자료 활용이 적절한지 본다.</p><p>발표자는 입영의 다양한 재료를 설명하지 않는다. ①이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">부적절</td><td>입영 재료를 설명하지 않음.</td></tr><tr><td>②</td><td>적절</td><td>[자료1]=흑립 구성요소 명칭·기능.</td></tr><tr><td>③</td><td>적절</td><td>[자료2]=회자 위치.</td></tr><tr><td>④</td><td>적절</td><td>[자료2]=양태 문양.</td></tr><tr><td>⑤</td><td>적절</td><td>[자료3]=갈모 사용법.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob3">
   <p class="q-stem">3.&lt;보기&gt;는 청자와 발표자가 나눈 질의응답의 일부이다. [A]에 들어갈 청자의 질문으로 적절하지 않은 것은? [3점]</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>청자: 발표 잘 들었습니다. 그런데 듣고 나서 궁금한 점이 생겨서 질문드립니다.<br>발표자: 그 내용은 발표에 없었네요. 추가로 말씀드리겠습니다.<br>[A]</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>청자: 발표 잘 들었습니다. 그런데 듣고 나서 궁금한 점이 생겨서 질문드립니다.<br>발표자: 그 내용은 발표에 없었네요. 추가로 말씀드리겠습니다.<br>[A]</p>
   </div>
   <ul class="q-opts"><li id="q3-1">① 양반들이 갈모를 항상 가지고 다녔다고 말씀하셨는데, 그 이유가 무엇인가요?<a class="src-tag ans" href="#ev3">정답 근거</a></li>
-    <li id="q3-2">② 품계에 따라 회자의 재료가 달랐다고 말씀하셨는데, 품계별로 어떤 재료를 사용했나요?</li>
-    <li id="q3-3">③ 박쥐 문양으로 흑립을 장식한다고 말씀하셨는데, 또 다른 문양에는 어떤 것이 있나요?</li>
-    <li id="q3-4">④ 흑립은 일상복을 입을 때 착용했다고 말씀하셨는데, 일상복이 아닌 복장일 때는 어떤 모자를 착용했나요?</li>
-    <li id="q3-5">⑤ 흑립은 말총이나 대나무로 만든다고 말씀하셨는데, 말총으로 만든 것과 대나무로 만든 것의 장단점은 무엇인가요?</li></ul>
+ <li id="q3-2">② 품계에 따라 회자의 재료가 달랐다고 말씀하셨는데, 품계별로 어떤 재료를 사용했나요?</li>
+ <li id="q3-3">③ 박쥐 문양으로 흑립을 장식한다고 말씀하셨는데, 또 다른 문양에는 어떤 것이 있나요?</li>
+ <li id="q3-4">④ 흑립은 일상복을 입을 때 착용했다고 말씀하셨는데, 일상복이 아닌 복장일 때는 어떤 모자를 착용했나요?</li>
+ <li id="q3-5">⑤ 흑립은 말총이나 대나무로 만든다고 말씀하셨는데, 말총으로 만든 것과 대나무로 만든 것의 장단점은 무엇인가요?</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 적절하지 않은 질문을 찾는다.</p><p>4문단에 비·눈이 오면 갈모를 항상 가지고 다녔다는 이유가 이미 제시되어 있다. ①은 적절하지 않은 질문이다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">부적절</td><td>갈모를 가지고 다닌 이유는 이미 제시됨.</td></tr><tr><td>②</td><td>적절</td><td>품계별 회자 재료는 미제시.</td></tr><tr><td>③</td><td>적절</td><td>다른 문양은 미제시.</td></tr><tr><td>④</td><td>적절</td><td>일상복 종류는 미제시.</td></tr><tr><td>⑤</td><td>적절</td><td>말총 가공법은 미제시.</td></tr></tbody></table></div></details>
 </div>
 
@@ -68,10 +68,10 @@ layout: "exam"
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)의 ‘학생1’에 대한 설명으로 적절하지 않은 것은?</p>
   <ul class="q-opts"><li id="q4-1">① 대화 참여자의 의견에 동의하고 그 이유를 설명하고 있다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
-    <li id="q4-2">② 대화 목적을 제시하고 대화 참여자의 발언을 유도하고 있다.</li>
-    <li id="q4-3">③ 대화 중간에 대화 내용을 정리하고 대화의 흐름을 전환하고 있다.</li>
-    <li id="q4-4">④ 대화 참여자의 발언을 일부 재진술하고 자신의 이해 여부를 점검하고 있다.</li>
-    <li id="q4-5">⑤ 대화 참여자의 발언 중 이해되지 않는 부분을 언급하고 추가 설명을 요청하고 있다.
+ <li id="q4-2">② 대화 목적을 제시하고 대화 참여자의 발언을 유도하고 있다.</li>
+ <li id="q4-3">③ 대화 중간에 대화 내용을 정리하고 대화의 흐름을 전환하고 있다.</li>
+ <li id="q4-4">④ 대화 참여자의 발언을 일부 재진술하고 자신의 이해 여부를 점검하고 있다.</li>
+ <li id="q4-5">⑤ 대화 참여자의 발언 중 이해되지 않는 부분을 언급하고 추가 설명을 요청하고 있다.
 [A]
 [B]
 16</li></ul>
@@ -81,39 +81,39 @@ layout: "exam"
 <div class="q-block" id="prob5">
   <p class="q-stem">5. [A], [B]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q5-1">① [A]에서 ‘학생2’는 ‘학생3’의 발화 내용을 요약한 후 생소한 용어에 대한 설명을 요청하고 있다.</li>
-    <li id="q5-2">② [A]에서 ‘학생3’은 ‘학생2’의 의문을 해결하며 자신의 의견에 대한 ‘학생2’의 의견을 확인하고 있다.</li>
-    <li id="q5-3">③ [B]에서 ‘학생3’은 ‘학생2’의 발화 내용에 동의한 후 추가로 생각해 볼 만한 점을 제시하고 있다.<a class="src-tag ans" href="#ev5">정답 근거</a></li>
-    <li id="q5-4">④ [B]에서 ‘학생2’는 ‘학생3’의 발화 내용을 비판하고 ‘학생 3’
+ <li id="q5-2">② [A]에서 ‘학생3’은 ‘학생2’의 의문을 해결하며 자신의 의견에 대한 ‘학생2’의 의견을 확인하고 있다.</li>
+ <li id="q5-3">③ [B]에서 ‘학생3’은 ‘학생2’의 발화 내용에 동의한 후 추가로 생각해 볼 만한 점을 제시하고 있다.<a class="src-tag ans" href="#ev5">정답 근거</a></li>
+ <li id="q5-4">④ [B]에서 ‘학생2’는 ‘학생3’의 발화 내용을 비판하고 ‘학생 3’
 이 제시한 의견의 한계를 지적하고 있다.</li>
-    <li id="q5-5">⑤ [A]와 [B] 모두에서 ‘학생2’는 ‘학생3’의 발화 내용에 이의를 제기하고 잘못된 점을 바로잡고 있다.</li></ul>
+ <li id="q5-5">⑤ [A]와 [B] 모두에서 ‘학생2’는 ‘학생3’의 발화 내용에 이의를 제기하고 잘못된 점을 바로잡고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 대화 참여자의 말하기 방식을 본다.</p><p>[B]에서 ‘학생3’은 ‘학생2’ 발화에 동의한 뒤, 원작 메시지가 왜곡된 요약 콘텐츠 경험을 근거로 제시한다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[A] 학생2가 요약 후 동의가 아님.</td></tr><tr><td>②</td><td>오답</td><td>[A] 학생3이 의문 해결이 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>[B] 학생3=동의 후 경험 근거 제시.</td></tr><tr><td>④</td><td>오답</td><td>[B] 학생2가 비판이 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>학생2의 일관된 재반박 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob6">
   <p class="q-stem">6.‘학생1’이 (가)를 바탕으로 &lt;보기&gt;의 내용 전개에 따라 (나)를 작성했다고 할 때, 적절하지 않은 것은?</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>㉠현안에 대한 관심 유도→<br>㉡필자가 선택하지 않은 관점의 주장 제시→<br>㉢필자가 선택한 관점의 주장과 뒷받침 근거 제시→<br>㉣필자가 선택하지 않은 관점의 주장 반박→<br>㉤필자가 선택한 관점의 주장 강조</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>㉠현안에 대한 관심 유도→<br>㉡필자가 선택하지 않은 관점의 주장 제시→<br>㉢필자가 선택한 관점의 주장과 뒷받침 근거 제시→<br>㉣필자가 선택하지 않은 관점의 주장 반박→<br>㉤필자가 선택한 관점의 주장 강조</p>
   </div>
   <ul class="q-opts"><li id="q6-1">① ㉠: (가)에서 언급된 요약 콘텐츠의 인기에 대해 구체적인 수치를 제시하여 요약 콘텐츠와 관련된 현안에 대한 관심을 유도하고 있다.</li>
-    <li id="q6-2">② ㉡: (가)에서 언급된 요약 콘텐츠의 댓글 내용을 바탕으로 요약 콘텐츠 시청을 긍정적으로 바라보는 관점의 주장을 제시하고 있다.</li>
-    <li id="q6-3">③ ㉢: (가)에서 언급된 요약 콘텐츠 시청의 문제점을 반영하여 요약 콘텐츠 시청이 바람직한 작품 감상 방법이 아니라는 주장을 뒷받침하고 있다.</li>
-    <li id="q6-4">④ ㉣: (가)에서 언급되지 않은 사례를 추가하여 요약 콘텐츠 시청을 긍정적으로 바라보는 관점의 주장을 반박하고 있다.</li>
-    <li id="q6-5">⑤ ㉤: (가)에서 언급되지 않은 전문가의 견해를 인용하여 지속적으로 요약 콘텐츠만 시청하는 것은 문제가 된다는 주장을 강조하고 있다.</li></ul>
+ <li id="q6-2">② ㉡: (가)에서 언급된 요약 콘텐츠의 댓글 내용을 바탕으로 요약 콘텐츠 시청을 긍정적으로 바라보는 관점의 주장을 제시하고 있다.</li>
+ <li id="q6-3">③ ㉢: (가)에서 언급된 요약 콘텐츠 시청의 문제점을 반영하여 요약 콘텐츠 시청이 바람직한 작품 감상 방법이 아니라는 주장을 뒷받침하고 있다.</li>
+ <li id="q6-4">④ ㉣: (가)에서 언급되지 않은 사례를 추가하여 요약 콘텐츠 시청을 긍정적으로 바라보는 관점의 주장을 반박하고 있다.</li>
+ <li id="q6-5">⑤ ㉤: (가)에서 언급되지 않은 전문가의 견해를 인용하여 지속적으로 요약 콘텐츠만 시청하는 것은 문제가 된다는 주장을 강조하고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 대화 내용이 (나)에 반영된 양상을 본다.</p><p>㉣은 (가)에 언급되지 않은 사례를 추가해 요약 콘텐츠 시청의 문제를 보강한 것이다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 인기 수치 구체화 아님.</td></tr><tr><td>②</td><td>오답</td><td>㉡ 댓글 활용 아님.</td></tr><tr><td>③</td><td>오답</td><td>㉢ 문제점 반영 아님.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣=미언급 사례 추가.</td></tr><tr><td>⑤</td><td>오답</td><td>㉤ 전문가 견해 인용 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob7">
   <p class="q-stem">7. &lt;조건&gt;을 반영하여 (나)의 제목을 작성한 것으로 가장 적절한 것은?</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>&lt;조 건&gt;<br>(나)의 마지막 문단과 관련한 글쓴이의 문제의식을 드러낼 것. 부제에서 대구와 비유적 표현을 모두 활용할 것.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>&lt;조 건&gt;<br>(나)의 마지막 문단과 관련한 글쓴이의 문제의식을 드러낼 것. 부제에서 대구와 비유적 표현을 모두 활용할 것.</p>
   </div>
   <ul class="q-opts"><li id="q7-1">① 요약 콘텐츠, 5분 요약의 허점- 겉으로는 번지르르, 알고 보면 속 빈 강정</li>
-    <li id="q7-2">② 쉽게 얻으려다 본질을 놓치는 요약 콘텐츠 시청- 오늘은 시간 아끼려는 지름길, 내일은 사고력 잃는 고생길<a class="src-tag ans" href="#ev7">정답 근거</a></li>
-    <li id="q7-3">③ 요약 콘텐츠, 제작자의 시선으로 원작을 재해석하다- 해석의 자유인가 원작의 왜곡인가</li>
-    <li id="q7-4">④ 요약 콘텐츠 시청, 떠먹여 주기식 작품 감상의 한계- 쉽고 빠르게 먹으려다 체할 수도 있다면</li>
-    <li id="q7-5">⑤ 대중문화 콘텐츠 시장에 불어온 새바람, 요약 콘텐츠- 요약 콘텐츠의 인기 요인을 분석하다</li></ul>
+ <li id="q7-2">② 쉽게 얻으려다 본질을 놓치는 요약 콘텐츠 시청- 오늘은 시간 아끼려는 지름길, 내일은 사고력 잃는 고생길<a class="src-tag ans" href="#ev7">정답 근거</a></li>
+ <li id="q7-3">③ 요약 콘텐츠, 제작자의 시선으로 원작을 재해석하다- 해석의 자유인가 원작의 왜곡인가</li>
+ <li id="q7-4">④ 요약 콘텐츠 시청, 떠먹여 주기식 작품 감상의 한계- 쉽고 빠르게 먹으려다 체할 수도 있다면</li>
+ <li id="q7-5">⑤ 대중문화 콘텐츠 시장에 불어온 새바람, 요약 콘텐츠- 요약 콘텐츠의 인기 요인을 분석하다</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 제목의 조건(문제의식+비유)을 충족하는지 본다.</p><p>글쓴이의 문제의식은 ‘작은 것을 탐하다 큰 것을 놓침’이다. ②가 이를 비유와 함께 담아 적절하다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>허점만 부각, 문제의식 부족.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>본질을 놓침+비유 충족.</td></tr><tr><td>③</td><td>오답</td><td>재해석=긍정적 측면.</td></tr><tr><td>④</td><td>오답</td><td>감상 한계만, 비유 부족.</td></tr><tr><td>⑤</td><td>오답</td><td>긍정적 관점이라 부적합.</td></tr></tbody></table></div></details>
 </div>
 
@@ -129,42 +129,42 @@ layout: "exam"
 <div class="q-block" id="prob8">
   <p class="q-stem">8. 다음은 초고를 작성하기 전에 학생이 떠올린 생각이다. ㉠∼㉤ 중, 학생의 초고에 반영되지 않은 것은?</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>올리고당이 주목받는 배경을 소개하며 글을 시작해야겠어. ·· ㉠<br>올리고당을 설탕과 비교하며 올리고당이 가지는 장점을 제시해야겠어.   ㉡<br>탄수화물 분자 구조를 언급하며 올리고당의 특성을 설명해야겠어.   ㉢<br>프락토올리고당과 이소말토올리고당이 지닌 문제점을 언급하며 그 원인을 분석해야겠어.   ㉣<br>잘 알려져 있지 않은 사실을 언급하며 올리고당 제품 선택 시 도움이 될 수 있는 정보를 제공해야겠어.   ㉤</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>올리고당이 주목받는 배경을 소개하며 글을 시작해야겠어. ·· ㉠<br>올리고당을 설탕과 비교하며 올리고당이 가지는 장점을 제시해야겠어. ㉡<br>탄수화물 분자 구조를 언급하며 올리고당의 특성을 설명해야겠어. ㉢<br>프락토올리고당과 이소말토올리고당이 지닌 문제점을 언급하며 그 원인을 분석해야겠어. ㉣<br>잘 알려져 있지 않은 사실을 언급하며 올리고당 제품 선택 시 도움이 될 수 있는 정보를 제공해야겠어. ㉤</p>
   </div>
   <ul class="q-opts"><li id="q8-1">① ㉠</li>
-    <li id="q8-2">② ㉡</li>
-    <li id="q8-3">③ ㉢</li>
-    <li id="q8-4">④ ㉣<a class="src-tag ans" href="#ev8">정답 근거</a></li>
-    <li id="q8-5">⑤ ㉤</li></ul>
+ <li id="q8-2">② ㉡</li>
+ <li id="q8-3">③ ㉢</li>
+ <li id="q8-4">④ ㉣<a class="src-tag ans" href="#ev8">정답 근거</a></li>
+ <li id="q8-5">⑤ ㉤</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 초고에 반영된 작문 계획을 본다.</p><p>3문단은 두 올리고당의 특성만 제시할 뿐, 문제점과 그 원인을 분석하지 않는다. ④가 반영되지 않았다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>반영</td><td>1문단 설탕 대체재 화제 제시.</td></tr><tr><td>②</td><td>반영</td><td>각 올리고당 특성 제시.</td></tr><tr><td>③</td><td>반영</td><td>효능 설명.</td></tr><tr class="correct"><td>④</td><td class="ok">미반영</td><td>문제점 원인 분석 없음.</td></tr><tr><td>⑤</td><td>반영</td><td>섭취 시 유의점 안내.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob9">
   <p class="q-stem">9.&lt;보기&gt;는 [A]를 고쳐 쓴 것이다. 그 과정에서 반영된 교사의 조언으로 가장 적절한 것은?</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>올리고당은 잘 사용하면 설탕의 섭취를 줄일 수 있는 유용한 식품이다. 올리고당 제품을 고를 때에는 용도를 고려하고 함량을 확인하여 선택하고, 요리에 활용할 때에는 적정량을 사용하여 건강하게 섭취할 수 있도록 하자.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>올리고당은 잘 사용하면 설탕의 섭취를 줄일 수 있는 유용한 식품이다. 올리고당 제품을 고를 때에는 용도를 고려하고 함량을 확인하여 선택하고, 요리에 활용할 때에는 적정량을 사용하여 건강하게 섭취할 수 있도록 하자.</p>
   </div>
   <ul class="q-opts"><li id="q9-1">① 중의적인 표현을 수정하고, 올리고당을 활용할 수 있는 추가적인 사례를 언급하는 게 어때?</li>
-    <li id="q9-2">② 중의적인 표현을 수정하고, 올리고당과 설탕을 용도에 맞게 선택하는 방법을 부각하는 게 어때?</li>
-    <li id="q9-3">③ 단어 선택이 잘못된 부분을 수정하고, 올리고당을 선택하고 사용할 때의 유의점을 강조하는 게 어때?<a class="src-tag ans" href="#ev9">정답 근거</a></li>
-    <li id="q9-4">④ 단어 선택이 잘못된 부분을 수정하고, 올리고당 과잉 섭취가 유발할 수 있는 위험성을 환기하는 게 어때?</li>
-    <li id="q9-5">⑤ 단어 선택이 잘못된 부분을 수정하고, 올리고당과 유사한 기능을 하는 또 다른 식품을 소개하는 게 어때?</li></ul>
+ <li id="q9-2">② 중의적인 표현을 수정하고, 올리고당과 설탕을 용도에 맞게 선택하는 방법을 부각하는 게 어때?</li>
+ <li id="q9-3">③ 단어 선택이 잘못된 부분을 수정하고, 올리고당을 선택하고 사용할 때의 유의점을 강조하는 게 어때?<a class="src-tag ans" href="#ev9">정답 근거</a></li>
+ <li id="q9-4">④ 단어 선택이 잘못된 부분을 수정하고, 올리고당 과잉 섭취가 유발할 수 있는 위험성을 환기하는 게 어때?</li>
+ <li id="q9-5">⑤ 단어 선택이 잘못된 부분을 수정하고, 올리고당과 유사한 기능을 하는 또 다른 식품을 소개하는 게 어때?</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 고쳐쓰기의 양상을 본다.</p><p>‘유사한→유용한’으로 잘못된 단어를 수정하고, 올리고당 선택·사용 시 유의점을 추가하였다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>중의적 표현 수정 아님.</td></tr><tr><td>②</td><td>오답</td><td>용도 구분 추가 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>단어 수정+선택·사용 유의점 추가.</td></tr><tr><td>④</td><td>오답</td><td>과잉 섭취 위험 추가 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>유사 기능 식품 추가 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob10">
   <p class="q-stem">10.&lt;보기&gt;는 초고를 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 않은 것은? [3점]</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>(가) 전문가 인터뷰“식품의약품안전처는 하루 당류 섭취량을 100g 이하로 권고하고 있습니다. 당류를 과다 섭취할 경우 비만과 고혈압의 발생률이 각각 1.39배, 1.66배 늘어난다는 연구 결과가 있습니다. 식품을 섭취할 때는 ‘표시사항’의 당류 함량을 확인하여 당류를 과다 섭취하고 있지는 않은지 스스로 점검해 보는 습관을 기를 필요가 있습니다.”<br>(나) 연구 자료(다) 신문 기사올리고당 제품을 잘 고르려면 올리고당 제품 뒷면에 쓰인 ‘표시사항’에서 성분명과 함량을 확인해야 한다. 해당 제품이 쓰임새에 맞는 올리고당인지 성분명을 통해 확인하고, 올리고당이 너무 적게 들어 있지 않은지 올리고당 함량을 확인할 필요가 있다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>(가) 전문가 인터뷰“식품의약품안전처는 하루 당류 섭취량을 100g 이하로 권고하고 있습니다. 당류를 과다 섭취할 경우 비만과 고혈압의 발생률이 각각 1.39배, 1.66배 늘어난다는 연구 결과가 있습니다. 식품을 섭취할 때는 ‘표시사항’의 당류 함량을 확인하여 당류를 과다 섭취하고 있지는 않은지 스스로 점검해 보는 습관을 기를 필요가 있습니다.”<br>(나) 연구 자료(다) 신문 기사올리고당 제품을 잘 고르려면 올리고당 제품 뒷면에 쓰인 ‘표시사항’에서 성분명과 함량을 확인해야 한다. 해당 제품이 쓰임새에 맞는 올리고당인지 성분명을 통해 확인하고, 올리고당이 너무 적게 들어 있지 않은지 올리고당 함량을 확인할 필요가 있다.</p>
   </div>
   <ul class="q-opts"><li id="q10-1">① (가) : 당류의 과다 섭취가 유발할 수 있는 문제점으로, 비만과 고혈압의 위험도가 증가한다는 점을 제시하여 1문단을 구체화한다.</li>
-    <li id="q10-2">② (나) : 올리고당이 설탕보다 열량이 낮다는 내용에, 올리고당과 설탕의 열량 수치를 추가하여 2문단을 뒷받침한다.</li>
-    <li id="q10-3">③ (다) : 용도에 맞는 올리고당 제품을 확인하는 방법으로, ‘표시사항’ 중 성분명을 참고할 수 있다는 내용을 추가하여 3문단을 보강한다.</li>
-    <li id="q10-4">④ (가), (다) : 올리고당 제품에 당류가 포함되어 있다는 내용에, ‘표시사항’을 통해 당류의 함량과 올리고당의 함량을 살필 필요가 있다는 내용을 추가하여 4문단을 보강한다.</li>
-    <li id="q10-5">⑤ (나), (다) : 기존의 단맛을 기대하면 올리고당을 많이 사용하게 될 수 있다는 내용에, 덜 달게 먹는 식습관으로 개선할 필요가 있다는 내용을 추가하여 4문단을 보강한다.<a class="src-tag ans" href="#ev10">정답 근거</a></li></ul>
+ <li id="q10-2">② (나) : 올리고당이 설탕보다 열량이 낮다는 내용에, 올리고당과 설탕의 열량 수치를 추가하여 2문단을 뒷받침한다.</li>
+ <li id="q10-3">③ (다) : 용도에 맞는 올리고당 제품을 확인하는 방법으로, ‘표시사항’ 중 성분명을 참고할 수 있다는 내용을 추가하여 3문단을 보강한다.</li>
+ <li id="q10-4">④ (가), (다) : 올리고당 제품에 당류가 포함되어 있다는 내용에, ‘표시사항’을 통해 당류의 함량과 올리고당의 함량을 살필 필요가 있다는 내용을 추가하여 4문단을 보강한다.</li>
+ <li id="q10-5">⑤ (나), (다) : 기존의 단맛을 기대하면 올리고당을 많이 사용하게 될 수 있다는 내용에, 덜 달게 먹는 식습관으로 개선할 필요가 있다는 내용을 추가하여 4문단을 보강한다.<a class="src-tag ans" href="#ev10">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 자료 활용 방안의 적절성을 본다.</p><p>(나)·(다)는 기존 단맛을 기대하면 올리고당을 많이 넣게 된다는 내용을 뒷받침한다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>(가) 당류 과다 문제와 무관 연결.</td></tr><tr><td>②</td><td>오답</td><td>(나) 열량 비교로 오연결.</td></tr><tr><td>③</td><td>오답</td><td>(다) 제품 확인법으로 오연결.</td></tr><tr><td>④</td><td>오답</td><td>(가)(다) 당류 포함으로 오연결.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(나)(다)=과다 사용 유발 근거.</td></tr></tbody></table></div></details>
 </div>
 
@@ -182,52 +182,52 @@ layout: "exam"
 <div class="q-block" id="prob11">
   <p class="q-stem">11. 윗글을 읽고 이해한 내용으로 적절하지 않은 것은? <span class="q-rate">오답률 57.0%</span></p>
   <ul class="q-opts"><li id="q11-1">① ‘그 사건은 아직 끝난 것이 아니다.’에서 ‘끝난’, ‘아니다’를 모두 ㉠의 예로 들 수 있군.</li>
-    <li id="q11-2">② ‘시골에 계시는 할머니께 편지를 드렸다.’에서 ‘계시는’, ‘드렸다’를 모두 ㉡의 예로 들 수 있군.</li>
-    <li id="q11-3">③ ‘그녀는 학교 가는 길을 잘 알았다.’에서 ‘가는’을 ㉠의 예로, ‘알았다’를 ㉡의 예로 들 수 있군.</li>
-    <li id="q11-4">④ ‘여름이 지나고 이제 가을이 왔겠군.’에서 ‘지나고’를 ㉠의 예로, ‘왔겠군’을 ㉢의 예로 들 수 있군.</li>
-    <li id="q11-5">⑤ ‘그분께서 이 글을 쓰셨을 수도 있겠다.’에서 ‘있겠다’를 ㉡의 예로, ‘쓰셨을’을 ㉢의 예로 들 수 있군.</li></ul>
+ <li id="q11-2">② ‘시골에 계시는 할머니께 편지를 드렸다.’에서 ‘계시는’, ‘드렸다’를 모두 ㉡의 예로 들 수 있군.</li>
+ <li id="q11-3">③ ‘그녀는 학교 가는 길을 잘 알았다.’에서 ‘가는’을 ㉠의 예로, ‘알았다’를 ㉡의 예로 들 수 있군.</li>
+ <li id="q11-4">④ ‘여름이 지나고 이제 가을이 왔겠군.’에서 ‘지나고’를 ㉠의 예로, ‘왔겠군’을 ㉢의 예로 들 수 있군.</li>
+ <li id="q11-5">⑤ ‘그분께서 이 글을 쓰셨을 수도 있겠다.’에서 ‘있겠다’를 ㉡의 예로, ‘쓰셨을’을 ㉢의 예로 들 수 있군.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠·㉡의 어미 구성을 본다.</p><p>‘계시는’=어간+어말 어미 ‘-는’(㉠), ‘드렸다’=어간+선어말 어미 ‘-었-’+어말 어미(㉡). ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘끝난·아니다’ 구성 불일치.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>계시는(㉠)·드렸다(㉡) 일치.</td></tr><tr><td>③</td><td>오답</td><td>‘가는’만으로 부족.</td></tr><tr><td>④</td><td>오답</td><td>‘지나고’ 구성 불일치.</td></tr><tr><td>⑤</td><td>오답</td><td>‘있겠다’ 구성 불일치.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob12">
   <p class="q-stem">12.윗글을 바탕으로 &lt;보기&gt;의 ⓐ∼ⓒ를 탐구한 내용으로 적절한 것은? [3점] <span class="q-rate">오답률 50.4%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>그는 쪽지를 ⓐ구겼지만 버리지는 못했다.<br>그 물건은 어제부터 책상에 ⓑ놓여 있었다.<br>우리 가족은 할머니 댁에서 김치를 ⓒ담갔다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>그는 쪽지를 ⓐ구겼지만 버리지는 못했다.<br>그 물건은 어제부터 책상에 ⓑ놓여 있었다.<br>우리 가족은 할머니 댁에서 김치를 ⓒ담갔다.</p>
   </div>
   <ul class="q-opts"><li id="q12-1">① ⓐ: 접사가 결합하여 피동의 의미를 나타낸다.</li>
-    <li id="q12-2">② ⓐ: 선어말 어미가 결합하여 추측의 의미를 드러낸다.</li>
-    <li id="q12-3">③ ⓑ: 선어말 어미가 결합하여 과거 시제를 나타낸다.</li>
-    <li id="q12-4">④ ⓑ: 접사가 결합하여 필요로 하는 문장 성분이 달라졌다.</li>
-    <li id="q12-5">⑤ ⓒ: 접사가 결합하여 사전에 오를 수 있는 단어가 형성되었다.</li></ul>
+ <li id="q12-2">② ⓐ: 선어말 어미가 결합하여 추측의 의미를 드러낸다.</li>
+ <li id="q12-3">③ ⓑ: 선어말 어미가 결합하여 과거 시제를 나타낸다.</li>
+ <li id="q12-4">④ ⓑ: 접사가 결합하여 필요로 하는 문장 성분이 달라졌다.</li>
+ <li id="q12-5">⑤ ⓒ: 접사가 결합하여 사전에 오를 수 있는 단어가 형성되었다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 접사와 선어말 어미를 구별한다.</p><p>‘놓여’의 ‘-이-’가 결합하면 필요한 문장 성분이 달라진다(놓다→놓이다). 접사이므로 ④가 적절하다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>ⓐ 피동 접사 설명 부정확.</td></tr><tr><td>②</td><td>오답</td><td>ⓐ 추측 선어말 어미 아님.</td></tr><tr><td>③</td><td>오답</td><td>ⓑ 과거 시제 아님.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>ⓑ=접사 결합, 성분 변화.</td></tr><tr><td>⑤</td><td>오답</td><td>ⓒ 단어 형성 설명 부정확.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob13">
   <p class="q-stem">13.&lt;보기&gt;의 ㉠∼㉤에 대한 설명으로 적절하지 않은 것은? <span class="q-rate">오답률 67.9%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>㉠예쁜 아이가 활짝 웃는다.<br>㉡나는 어제 새 가방을 샀다.<br>㉢지금 이곳은 동화 속 세상처럼 아름답다.<br>㉣작년에는 날씨가 추웠으나 올해에는 따뜻하다.<br>㉤설령 눈이 올지라도 우리는 어김없이 밖에 나간다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>㉠예쁜 아이가 활짝 웃는다.<br>㉡나는 어제 새 가방을 샀다.<br>㉢지금 이곳은 동화 속 세상처럼 아름답다.<br>㉣작년에는 날씨가 추웠으나 올해에는 따뜻하다.<br>㉤설령 눈이 올지라도 우리는 어김없이 밖에 나간다.</p>
   </div>
   <ul class="q-opts"><li id="q13-1">① ㉠에는 주어가 생략된 안긴문장이 있다.</li>
-    <li id="q13-2">② ㉡은 주어와 서술어의 관계가 한 번 나타나는 문장이다.</li>
-    <li id="q13-3">③ ㉢에는 하나의 문장 성분처럼 쓰이는 안긴문장이 있다.</li>
-    <li id="q13-4">④ ㉣은 두 개의 홑문장이 대등하게 연결된 이어진문장이다.</li>
-    <li id="q13-5">⑤ ㉤은 주어와 서술어의 관계가 두 번 이상 나타나는 문장이다.</li></ul>
+ <li id="q13-2">② ㉡은 주어와 서술어의 관계가 한 번 나타나는 문장이다.</li>
+ <li id="q13-3">③ ㉢에는 하나의 문장 성분처럼 쓰이는 안긴문장이 있다.</li>
+ <li id="q13-4">④ ㉣은 두 개의 홑문장이 대등하게 연결된 이어진문장이다.</li>
+ <li id="q13-5">⑤ ㉤은 주어와 서술어의 관계가 두 번 이상 나타나는 문장이다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 문장의 짜임을 본다.</p><p>㉢은 주어 ‘이곳은’, 서술어 ‘아름답다’의 홑문장으로 안긴문장이 없다. ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉠ 주어 생략 안긴문장 있음.</td></tr><tr><td>②</td><td>적절</td><td>㉡ 홑문장.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>㉢=홑문장, 안긴문장 없음.</td></tr><tr><td>④</td><td>적절</td><td>㉣ 대등 이어진문장.</td></tr><tr><td>⑤</td><td>적절</td><td>㉤ 겹문장.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob14">
   <p class="q-stem">14. 다음은 수업 상황의 일부이다. ㉠에 들어갈 말로 적절하지 않은 것은? <span class="q-rate">오답률 67.6%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>학생: 선생님, ‘회상하건대’를 줄이면 ‘회상컨대’와 ‘회상건대’<br>중 어떻게 적는 게 맞나요?<br>선생님: 그럴 때는 한글 맞춤법 규정을 살펴봐야 해요.<br>제40항 어간의 끝음절 ‘하’의 ‘ㅏ’가 줄고 ‘ㅎ’이 다음 음절의 첫소리와 어울려 거센소리로 될 적에는 거센소리로 적는다.<br>[붙임] 어간의 끝음절 ‘하’가 아주 줄 적에는 준 대로 적는다.<br>‘하’가 줄어드는 기준은 ‘하’ 앞에 오는 받침의 소리인데‘하’ 앞의 받침의 소리가 [ㄱ, ㄷ, ㅂ]이면 ‘하’가 통째로 줄고, 그 외의 경우에는 ‘ㅎ’이 남아요. 그래서 ‘회상하건대’는‘하’의 ‘ㅏ’가 줄고 ‘ㅎ’이 ‘ㄱ’과 어울려 거센소리가 되어 ‘회상컨대’로 적어야 해요.<br>학생: 네, 감사해요. 한글 맞춤법에도 준말 규정이 있었네요.<br>선생님: 그럼 다음 자료를 규정에 맞게 준말로 바꿔 볼까요?<br>깨끗하지 않다연구하도록      간편하게생각하다 못해답답하지 않다학생: [               ㉠               ]<br>선생님: 네, 잘했어요.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>학생: 선생님, ‘회상하건대’를 줄이면 ‘회상컨대’와 ‘회상건대’<br>중 어떻게 적는 게 맞나요?<br>선생님: 그럴 때는 한글 맞춤법 규정을 살펴봐야 해요.<br>제40항 어간의 끝음절 ‘하’의 ‘ㅏ’가 줄고 ‘ㅎ’이 다음 음절의 첫소리와 어울려 거센소리로 될 적에는 거센소리로 적는다.<br>[붙임] 어간의 끝음절 ‘하’가 아주 줄 적에는 준 대로 적는다.<br>‘하’가 줄어드는 기준은 ‘하’ 앞에 오는 받침의 소리인데‘하’ 앞의 받침의 소리가 [ㄱ, ㄷ, ㅂ]이면 ‘하’가 통째로 줄고, 그 외의 경우에는 ‘ㅎ’이 남아요. 그래서 ‘회상하건대’는‘하’의 ‘ㅏ’가 줄고 ‘ㅎ’이 ‘ㄱ’과 어울려 거센소리가 되어 ‘회상컨대’로 적어야 해요.<br>학생: 네, 감사해요. 한글 맞춤법에도 준말 규정이 있었네요.<br>선생님: 그럼 다음 자료를 규정에 맞게 준말로 바꿔 볼까요?<br>깨끗하지 않다연구하도록 간편하게생각하다 못해답답하지 않다학생: [ ㉠ ]<br>선생님: 네, 잘했어요.</p>
   </div>
   <ul class="q-opts"><li id="q14-1">① ‘깨끗하지 않다’는 어간의 끝음절 ‘하’의 ‘ㅏ’가 줄기 때문에 ‘깨끗치 않다’로 써야 합니다.</li>
-    <li id="q14-2">② ‘연구하도록’은 어간의 끝음절 ‘하’의 ‘ㅏ’가 줄기 때문에 ‘연구토록’으로 써야 합니다.</li>
-    <li id="q14-3">③ ‘간편하게’는 어간의 끝음절 ‘하’의 ‘ㅏ’가 줄기 때문에 ‘간편케’로 써야 합니다.</li>
-    <li id="q14-4">④ ‘생각하다 못해’는 ‘하’가 통째로 줄기 때문에 ‘생각다 못해’로 써야 합니다.</li>
-    <li id="q14-5">⑤ ‘답답하지 않다’는 ‘하’가 통째로 줄기 때문에 ‘답답지 않다’로 써야 합니다.
+ <li id="q14-2">② ‘연구하도록’은 어간의 끝음절 ‘하’의 ‘ㅏ’가 줄기 때문에 ‘연구토록’으로 써야 합니다.</li>
+ <li id="q14-3">③ ‘간편하게’는 어간의 끝음절 ‘하’의 ‘ㅏ’가 줄기 때문에 ‘간편케’로 써야 합니다.</li>
+ <li id="q14-4">④ ‘생각하다 못해’는 ‘하’가 통째로 줄기 때문에 ‘생각다 못해’로 써야 합니다.</li>
+ <li id="q14-5">⑤ ‘답답하지 않다’는 ‘하’가 통째로 줄기 때문에 ‘답답지 않다’로 써야 합니다.
 16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 준말 표기의 원리를 본다.</p><p>‘깨끗하지’는 ‘하’ 앞 받침 소리가 [ㄷ]이라 ‘하’가 통째로 줄어 ‘깨끗지’가 된다. ‘ㅏ’만 준다고 한 ①은 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">부적절</td><td>‘하’ 통째로 줆(‘깨끗지’).</td></tr><tr><td>②</td><td>적절</td><td>받침 없어 ‘ㅏ’만 줆.</td></tr><tr><td>③</td><td>적절</td><td>‘ㅏ’만 줆.</td></tr><tr><td>④</td><td>적절</td><td>‘하’ 통째로 줆.</td></tr><tr><td>⑤</td><td>적절</td><td>‘하’ 통째로 줆.</td></tr></tbody></table></div></details>
 </div>
@@ -235,18 +235,18 @@ layout: "exam"
 <div class="q-block" id="prob15">
   <p class="q-stem">15.&lt;보기&gt;를 참고하여 중세 국어를 이해한다고 할 때, ㉠과 ㉡의 사례로 바르게 짝지어진 것은? <span class="q-rate">오답률 53.9%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>모음 조화는 ㉠양성 모음은 양성 모음끼리 어울리고 ㉡음성 모음은 음성 모음끼리 어울리는 현상으로, 중세 국어에서는 현대 국어보다 규칙적으로 적용되었다.<br>㉠<br>㉡</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>모음 조화는 ㉠양성 모음은 양성 모음끼리 어울리고 ㉡음성 모음은 음성 모음끼리 어울리는 현상으로, 중세 국어에서는 현대 국어보다 규칙적으로 적용되었다.<br>㉠<br>㉡</p>
   </div>
   <ul class="q-opts"><li id="q15-1">① 매[바람에]
 ··메[씀에]</li>
-    <li id="q15-2">② ··메[씀에]
+ <li id="q15-2">② ··메[씀에]
 ·들[뜻을]</li>
-    <li id="q15-3">③ ·들[뜻을]
+ <li id="q15-3">③ ·들[뜻을]
 거부븨[거북의]</li>
-    <li id="q15-4">④ [마음을]
+ <li id="q15-4">④ [마음을]
 바[바늘을]</li>
-    <li id="q15-5">⑤ 나[나를]
+ <li id="q15-5">⑤ 나[나를]
 도[도적의]</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 중세 국어 모음 조화를 본다.</p><p>‘매’=양성(ㆍ)+양성(ㅐ), ‘··메’=음성(ㅜ)+음성(ㅔ)로 모음 조화가 지켜진다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>매(양성)·메(음성) 각각 조화 일치.</td></tr><tr><td>②</td><td>오답</td><td>조화 양상 불일치.</td></tr><tr><td>③</td><td>오답</td><td>조화 양상 불일치.</td></tr><tr><td>④</td><td>오답</td><td>조화 양상 불일치.</td></tr><tr><td>⑤</td><td>오답</td><td>조화 양상 불일치.</td></tr></tbody></table></div></details>
 </div>
@@ -263,44 +263,44 @@ layout: "exam"
 <div class="q-block" id="prob16">
   <p class="q-stem">16. 윗글의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q16-1">① 외부 이야기의 서술자가 자신이 겪은 내부 이야기의 의미를 밝히고 있다.</li>
-    <li id="q16-2">② 서술자가 여러 인물의 내면을 서술하여 인물의 다양한 특성을 드러내고 있다.</li>
-    <li id="q16-3">③ 서술자가 공간의 이동에 따라 바뀌면서 인물 간의 갈등을 다각적으로 드러내고 있다.</li>
-    <li id="q16-4">④ 이야기 외부의 서술자가 특정 인물의 관점에서 사건과 인물의 심리를 서술하고 있다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
-    <li id="q16-5">⑤ 이야기 내부의 서술자가 고백적 진술을 통해 자신이 처한 심리적 상황을 제시하고 있다.</li></ul>
+ <li id="q16-2">② 서술자가 여러 인물의 내면을 서술하여 인물의 다양한 특성을 드러내고 있다.</li>
+ <li id="q16-3">③ 서술자가 공간의 이동에 따라 바뀌면서 인물 간의 갈등을 다각적으로 드러내고 있다.</li>
+ <li id="q16-4">④ 이야기 외부의 서술자가 특정 인물의 관점에서 사건과 인물의 심리를 서술하고 있다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
+ <li id="q16-5">⑤ 이야기 내부의 서술자가 고백적 진술을 통해 자신이 처한 심리적 상황을 제시하고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 서술상 특징을 찾는다.</p><p>이야기 외부의 서술자가 특정 인물 ‘윤건’의 관점에서 사건과 내면 심리를 서술하는 전지적 시점이다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>외부 서술자가 겪은 내부 이야기 아님.</td></tr><tr><td>②</td><td>오답</td><td>여러 인물 내면 서술 아님.</td></tr><tr><td>③</td><td>오답</td><td>서술자 교체 없음.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>외부 서술자가 윤건 관점에서 서술.</td></tr><tr><td>⑤</td><td>오답</td><td>내부 서술자 고백 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob17">
   <p class="q-stem">17. ‘윤건’에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q17-1">① 조선의 친구들이 자신을 반겨 줄 것을 기대하고 있다.<a class="src-tag ans" href="#ev17">정답 근거</a></li>
-    <li id="q17-2">② 오사카로 돌아가는 배에서 노동자와 이야기를 나눈다.</li>
-    <li id="q17-3">③ 고베 플랫폼에서 도시락을 사려는 조선 청년을 만류한다.</li>
-    <li id="q17-4">④ 여비가 부족하여 돈을 빌리기 위해 조선 청년을 찾아간다.</li>
-    <li id="q17-5">⑤ 행선지가 불분명하다는 이유로 일본인으로 보이는 형사에게 조사받는다.</li></ul>
+ <li id="q17-2">② 오사카로 돌아가는 배에서 노동자와 이야기를 나눈다.</li>
+ <li id="q17-3">③ 고베 플랫폼에서 도시락을 사려는 조선 청년을 만류한다.</li>
+ <li id="q17-4">④ 여비가 부족하여 돈을 빌리기 위해 조선 청년을 찾아간다.</li>
+ <li id="q17-5">⑤ 행선지가 불분명하다는 이유로 일본인으로 보이는 형사에게 조사받는다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 내용과 일치하는 것을 찾는다.</p><p>‘여러 동무들이 있을 것’, ‘친구들이 나를 맞아 줄 것’에서 조선의 친구들이 반겨 줄 것을 기대함이 드러난다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">일치</td><td>친구들이 맞아 줄 것을 기대.</td></tr><tr><td>②</td><td>불일치</td><td>노동자와 대화 장면 없음.</td></tr><tr><td>③</td><td>불일치</td><td>도시락 만류 장면 없음.</td></tr><tr><td>④</td><td>불일치</td><td>돈 빌리러 가지 않음.</td></tr><tr><td>⑤</td><td>불일치</td><td>형사에게 신고 장면 없음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob18">
   <p class="q-stem">18. 맥락을 고려하여 ㉠과 ㉡을 이해한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q18-1">① ㉠은 상대의 성취를 축하하는 말이고, ㉡은 상대의 의견에 동조하는 말이다.</li>
-    <li id="q18-2">② ㉠은 상대의 우월함을 인정하는 말이고, ㉡은 자신의 열등감을 감추기 위해 한 말이다.</li>
-    <li id="q18-3">③ ㉠은 상대의 의심을 피하기 위해 한 말이고, ㉡은 상대의 관심을 끌기 위해 한 말이다.</li>
-    <li id="q18-4">④ ㉠과 ㉡은 모두 상대에 대한 진심을 드러내지 않은 말이다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
-    <li id="q18-5">⑤ ㉠과 ㉡은 모두 상대의 태도를 변화시키고자 하는 의도로 한 말이다.</li></ul>
+ <li id="q18-2">② ㉠은 상대의 우월함을 인정하는 말이고, ㉡은 자신의 열등감을 감추기 위해 한 말이다.</li>
+ <li id="q18-3">③ ㉠은 상대의 의심을 피하기 위해 한 말이고, ㉡은 상대의 관심을 끌기 위해 한 말이다.</li>
+ <li id="q18-4">④ ㉠과 ㉡은 모두 상대에 대한 진심을 드러내지 않은 말이다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
+ <li id="q18-5">⑤ ㉠과 ㉡은 모두 상대의 태도를 변화시키고자 하는 의도로 한 말이다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠·㉡의 의미를 본다.</p><p>㉠·㉡은 모두 상대에 대한 진심을 드러내지 않은 말이다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>축하·동의가 아님.</td></tr><tr><td>②</td><td>오답</td><td>우월 인정·열등감 아님.</td></tr><tr><td>③</td><td>오답</td><td>의심 회피만은 아님.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>㉠㉡ 모두 진심 감춤.</td></tr><tr><td>⑤</td><td>오답</td><td>태도 변화 의도 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob19">
   <p class="q-stem">19.&lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 않은 것은? [3점] <span class="q-rate">오답률 82.4%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>1931년에 발표된 ｢고향｣은 ‘귀향’ 모티프를 활용해 고향 사람들과 고국산천이라는 물리적 실체로서의 고향과 민족 공동체라는 정신적 의미의 고향을 형상화하였다. 이를 위해 작가는 귀향의 동기가 대립되는 ‘지식인’과 물리적 실체로서의 고향을 그리워하는 ‘노동자’를 등장시킨다. 또한 작가는 ‘지식인’을 ‘지사형’과 ‘속물형’으로 나누고 ‘지사형’은 개인의 안위보다는 조국을 우선시하는 인물로, ‘속물형’은 개인적 실리를 좇는 자신의 행위를 조국을 위한 것으로 포장하는 세속적 인물로 그리고 있다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>1931년에 발표된 ｢고향｣은 ‘귀향’ 모티프를 활용해 고향 사람들과 고국산천이라는 물리적 실체로서의 고향과 민족 공동체라는 정신적 의미의 고향을 형상화하였다. 이를 위해 작가는 귀향의 동기가 대립되는 ‘지식인’과 물리적 실체로서의 고향을 그리워하는 ‘노동자’를 등장시킨다. 또한 작가는 ‘지식인’을 ‘지사형’과 ‘속물형’으로 나누고 ‘지사형’은 개인의 안위보다는 조국을 우선시하는 인물로, ‘속물형’은 개인적 실리를 좇는 자신의 행위를 조국을 위한 것으로 포장하는 세속적 인물로 그리고 있다.</p>
   </div>
   <ul class="q-opts"><li id="q19-1">① ‘그것을 꾀할 나도 아니’라며 ‘오, 어서 달려가다오!’라고 하는 데에서, 지사형 인물의 면모를 확인할 수 있겠군.</li>
-    <li id="q19-2">② ‘한 조선으로 간다는 것’, ‘한 고향 사람들’이라고 하는 데에서, 민족 공동체라는 정신적 의미의 고향을 확인할 수 있겠군.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
-    <li id="q19-3">③ ‘유력자 하나를 만나서 한 1년 졸랐더니 다행히 됐’다는 데에서, 속물형 인물의 귀향 동기를 확인할 수 있겠군.</li>
-    <li id="q19-4">④ ‘조선 사람 하나가 헐벗지 않는 것’이라고 하는 데에서, 자신의 행위를 조국을 위한 것으로 포장하는 속물형 인물의 면모를 확인할 수 있겠군.</li>
-    <li id="q19-5">⑤ ‘처자식이 그리워 허턱대구’ 나온다고 하는 데에서, 물리적 실체로서의 고향을 그리워하는 노동자의 모습을 확인할 수 있겠군.
+ <li id="q19-2">② ‘한 조선으로 간다는 것’, ‘한 고향 사람들’이라고 하는 데에서, 민족 공동체라는 정신적 의미의 고향을 확인할 수 있겠군.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
+ <li id="q19-3">③ ‘유력자 하나를 만나서 한 1년 졸랐더니 다행히 됐’다는 데에서, 속물형 인물의 귀향 동기를 확인할 수 있겠군.</li>
+ <li id="q19-4">④ ‘조선 사람 하나가 헐벗지 않는 것’이라고 하는 데에서, 자신의 행위를 조국을 위한 것으로 포장하는 속물형 인물의 면모를 확인할 수 있겠군.</li>
+ <li id="q19-5">⑤ ‘처자식이 그리워 허턱대구’ 나온다고 하는 데에서, 물리적 실체로서의 고향을 그리워하는 노동자의 모습을 확인할 수 있겠군.
 16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(고향의 의미)로 감상한다.</p><p>‘한 조선’·‘한 고향 사람들’에서 물리적 실체로서의 고향이 드러난다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘달려가다오’=관념적 고향.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>‘한 고향 사람들’=물리적 고향.</td></tr><tr><td>③</td><td>오답</td><td>유력자=물리적 고향 아님.</td></tr><tr><td>④</td><td>오답</td><td>‘헐벗지 않음’=관념적 고향.</td></tr><tr><td>⑤</td><td>오답</td><td>‘처자식 그리움’=관념적 고향.</td></tr></tbody></table></div></details>
 </div>
@@ -317,10 +317,10 @@ layout: "exam"
 <div class="q-block" id="prob20">
   <p class="q-stem">20. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q20-1">① (가)는 권리의 유형을 구분하였고, (나)는 권리의 주체를 법률의 내용에 따라 분류하였다.</li>
-    <li id="q20-2">② (가)는 권리의 발전 과정을 소개하였고, (나)는 권리의 실행 과정에 나타나는 한계를 지적하였다.</li>
-    <li id="q20-3">③ (가)는 권리의 등장 배경과 실현 양상을 설명하였고, (나)는 근거한 법에 따른 권리의 성립 요건 차이를 비교하였다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
-    <li id="q20-4">④ (가)는 시대에 따라 변화하는 권리의 의의를 평가하였고, (나)는 다른 권리와 대비하며 권리의 특성을 분석하였다.</li>
-    <li id="q20-5">⑤ (가)는 권리가 올바르게 실행되기 위한 조건을 제시하였고, (나)는 권리의 실행으로 인해 변화된 양상을 서술하였다.
+ <li id="q20-2">② (가)는 권리의 발전 과정을 소개하였고, (나)는 권리의 실행 과정에 나타나는 한계를 지적하였다.</li>
+ <li id="q20-3">③ (가)는 권리의 등장 배경과 실현 양상을 설명하였고, (나)는 근거한 법에 따른 권리의 성립 요건 차이를 비교하였다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
+ <li id="q20-4">④ (가)는 시대에 따라 변화하는 권리의 의의를 평가하였고, (나)는 다른 권리와 대비하며 권리의 특성을 분석하였다.</li>
+ <li id="q20-5">⑤ (가)는 권리가 올바르게 실행되기 위한 조건을 제시하였고, (나)는 권리의 실행으로 인해 변화된 양상을 서술하였다.
 16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)의 전개 방식을 본다.</p><p>(가)는 권리의 등장 배경과 실현 양상을 설명하고, (나)는 관련 내용을 다룬다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>권리 유형 구분 아님.</td></tr><tr><td>②</td><td>오답</td><td>발전 과정 소개 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>(가)=등장 배경+실현 양상.</td></tr><tr><td>④</td><td>오답</td><td>시대별 의의 평가 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>실행 조건 제시 아님.</td></tr></tbody></table></div></details>
 </div>
@@ -329,58 +329,58 @@ layout: "exam"
   <p class="q-stem">21. (가), (나)의 내용과 일치하지 않는 것은? <span class="q-rate">오답률 63.9%</span></p>
   <ul class="q-opts"><li id="q21-1">① 언론 매체가 재량권을 남용한 경우에 국민의 언론 매체 접근·
 이용권은 보호받을 수 있다.</li>
-    <li id="q21-2">② 공공의 이익을 위한 보도가 타인의 명예를 훼손한 경우 민법상 정정 보도 청구권은 성립하지 않는다.</li>
-    <li id="q21-3">③ 민법상 정정 보도 청구권은 언론중재법상 정정 보도 청구권보다 보도를 청구할 수 있는 기한이 길다.</li>
-    <li id="q21-4">④ 언론중재법상 정정 보도 또는 반론 보도를 청구하려면 언론 보도로 인해 피해를 입은 사실이 있어야 한다.</li>
-    <li id="q21-5">⑤ 배런은 시민에게 매체를 소유할 수 있는 권리가 주어지지 않아 언론의 자유가 소수의 것으로 전락했다고 보았다.<a class="src-tag ans" href="#ev21">정답 근거</a></li></ul>
+ <li id="q21-2">② 공공의 이익을 위한 보도가 타인의 명예를 훼손한 경우 민법상 정정 보도 청구권은 성립하지 않는다.</li>
+ <li id="q21-3">③ 민법상 정정 보도 청구권은 언론중재법상 정정 보도 청구권보다 보도를 청구할 수 있는 기한이 길다.</li>
+ <li id="q21-4">④ 언론중재법상 정정 보도 또는 반론 보도를 청구하려면 언론 보도로 인해 피해를 입은 사실이 있어야 한다.</li>
+ <li id="q21-5">⑤ 배런은 시민에게 매체를 소유할 수 있는 권리가 주어지지 않아 언론의 자유가 소수의 것으로 전락했다고 보았다.<a class="src-tag ans" href="#ev21">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 내용과 일치하는 것을 찾는다.</p><p>배런은 시민에게 매체를 소유할 권리가 주어지지 않아 언론 자유가 소수의 것으로 전락했다고 보았다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>불일치</td><td>재량권 남용 진술 없음.</td></tr><tr><td>②</td><td>불일치</td><td>민법 관련 진술 불일치.</td></tr><tr><td>③</td><td>불일치</td><td>두 청구권 비교 불일치.</td></tr><tr><td>④</td><td>불일치</td><td>청구 절차 불일치.</td></tr><tr class="correct"><td>⑤</td><td class="ok">일치</td><td>배런=매체 소유권 부재 지적.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob22">
   <p class="q-stem">22. ㉠의 이유를 추론한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 53.4%</span></p>
   <ul class="q-opts"><li id="q22-1">① 원 보도와 동일한 효과를 낼 수 있는 대등한 방어 수단을 제공하기 위해서이다.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
-    <li id="q22-2">② 원 보도를 한 언론사의 대표자에게 원 보도를 진실에 맞게 수정해 달라고 요구하기 위해서이다.</li>
-    <li id="q22-3">③ 원 보도에 비해 신속한 전달 수단을 제공하여 언론 매체에 의한 피해를 최소화하기 위해서이다.</li>
-    <li id="q22-4">④ 언론 매체가 대중적인 주장과 사람들이 불편하게 여기는 주장을 차별적으로 보도하지 않도록 하기 위해서이다.</li>
-    <li id="q22-5">⑤ 양측의 주장을 같은 방식으로 제공하여 옳고 그름에 대한 판단을 시청자 또는 독자가 내리도록 하기 위해서이다.</li></ul>
+ <li id="q22-2">② 원 보도를 한 언론사의 대표자에게 원 보도를 진실에 맞게 수정해 달라고 요구하기 위해서이다.</li>
+ <li id="q22-3">③ 원 보도에 비해 신속한 전달 수단을 제공하여 언론 매체에 의한 피해를 최소화하기 위해서이다.</li>
+ <li id="q22-4">④ 언론 매체가 대중적인 주장과 사람들이 불편하게 여기는 주장을 차별적으로 보도하지 않도록 하기 위해서이다.</li>
+ <li id="q22-5">⑤ 양측의 주장을 같은 방식으로 제공하여 옳고 그름에 대한 판단을 시청자 또는 독자가 내리도록 하기 위해서이다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 밑줄의 의미를 추론한다.</p><p>‘대등한 방어 수단’은 원 보도와 동일한 효과를 낼 수 있는 수단을 뜻한다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>원 보도와 동일 효과의 수단.</td></tr><tr><td>②</td><td>오답</td><td>대표자 정정 요구 아님.</td></tr><tr><td>③</td><td>오답</td><td>신속 전달 수단 아님.</td></tr><tr><td>④</td><td>오답</td><td>불편한 주장 보호 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>옳고 그름 판단 제공 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob23">
   <p class="q-stem">23.(가)를 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 않은 것은? [3점] <span class="q-rate">오답률 48.9%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>ㄱ. 방송법 제6조 제9항방송은 정부 또는 특정 집단의 정책 등을 공표하는 경우 의견이 다른 집단에 균등한 기회가 제공되도록 노력하여야 하고, 또한 각 정치적 이해 당사자에 관한 방송 프로그램을 편성하는 경우에도 균형성이 유지되도록 하여야 한다.<br>ㄴ. 방송법 제6조 제2항방송은성별· 연령· 직업· 종교· 신념· 계층· 지역· 인종 등을 이유로 방송편성에 차별을 두어서는 아니 된다.<br>ㄷ. 언론중재법 제17조 제1항언론 등에 의하여 범죄 혐의가 있거나 형사상의 조치를 받았다고 보도 또는 공표된 자는 그에 대한 형사 절차가 무죄 판결 또는 이와 동등한 형태로 종결되었을 때에는 그 사실을 안 날부터 3개월 이내에 언론사 등에 이 사실에 관한 추후 보도의 게재를 청구할 수 있다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>ㄱ. 방송법 제6조 제9항방송은 정부 또는 특정 집단의 정책 등을 공표하는 경우 의견이 다른 집단에 균등한 기회가 제공되도록 노력하여야 하고, 또한 각 정치적 이해 당사자에 관한 방송 프로그램을 편성하는 경우에도 균형성이 유지되도록 하여야 한다.<br>ㄴ. 방송법 제6조 제2항방송은성별· 연령· 직업· 종교· 신념· 계층· 지역· 인종 등을 이유로 방송편성에 차별을 두어서는 아니 된다.<br>ㄷ. 언론중재법 제17조 제1항언론 등에 의하여 범죄 혐의가 있거나 형사상의 조치를 받았다고 보도 또는 공표된 자는 그에 대한 형사 절차가 무죄 판결 또는 이와 동등한 형태로 종결되었을 때에는 그 사실을 안 날부터 3개월 이내에 언론사 등에 이 사실에 관한 추후 보도의 게재를 청구할 수 있다.</p>
   </div>
   <ul class="q-opts"><li id="q23-1">① ㄱ은 언론 매체가 공정한 여론을 형성하는 공론장의 역할을 해야 한다는 인식을 반영하고 있다.</li>
-    <li id="q23-2">② ㄱ은 언론 매체에 의하여 비판을 당한 국민이 반론의 기회를 요구할 수 있는 권리를 보장하고 있다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
-    <li id="q23-3">③ ㄴ은 언론 매체가 사회의 다양성을 해치지 못하도록 하고 있다.</li>
-    <li id="q23-4">④ ㄷ은 매스미디어를 소유하지 않아도 언론의 자유를 보장받을 수 있도록 하고 있다.</li>
-    <li id="q23-5">⑤ ㄷ은 언론 보도로 피해를 입은 사람이 자신의 의사를 표명할 수 있도록 하고 있다.</li></ul>
+ <li id="q23-2">② ㄱ은 언론 매체에 의하여 비판을 당한 국민이 반론의 기회를 요구할 수 있는 권리를 보장하고 있다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
+ <li id="q23-3">③ ㄴ은 언론 매체가 사회의 다양성을 해치지 못하도록 하고 있다.</li>
+ <li id="q23-4">④ ㄷ은 매스미디어를 소유하지 않아도 언론의 자유를 보장받을 수 있도록 하고 있다.</li>
+ <li id="q23-5">⑤ ㄷ은 언론 보도로 피해를 입은 사람이 자신의 의사를 표명할 수 있도록 하고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 사례에 적용한다.</p><p>ㄱ은 언론 매체가 다양성을 해치거나 특정 의견을 차별하지 못하게 하는 조항이다. 반론 기회 요구권(반론권)으로 본 ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>ㄱ=공론장 역할.</td></tr><tr class="correct"><td>②</td><td class="ok">부적절</td><td>ㄱ을 반론권으로 오인.</td></tr><tr><td>③</td><td>적절</td><td>ㄴ=다양성 보호.</td></tr><tr><td>④</td><td>적절</td><td>ㄷ=매체 미소유자 자유 보장.</td></tr><tr><td>⑤</td><td>적절</td><td>ㄷ=피해자 의사 표명.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob24">
   <p class="q-stem">24.(나)를 바탕으로 &lt;보기&gt;를 탐구한 내용으로 적절하지 않은 것은? <span class="q-rate">오답률 65.1%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>○○동물 병원을 운영하는 A는 △△신문의 기자 B가 제보 내용에 대한 별도의 취재 없이 보도한 기사로 인해 매출이 줄어드는 피해를 입었다. A는 다음의 내용으로 △△신문의 대표자 C 또는 기자 B에게 정정 및 반론 보도를 요청하고자 한다.<br>본 신문은 2022년 9월 1일자 10면에 ‘○○시 소재 동물 병원, 입원한 반려견 방치하고 처방전 미발급’이라는 제목으로 ○○시에 소재한 모 동물 병원이 입원한 반려견에게 먹이를 주지 않았으며 처방전을 발급하지 않고 의약품을 투약했다고 보도하였습니다.<br>그러나 해당 동물 병원의 CCTV 영상을 확인한 결과 동물 병원의 직원들이 입원한 반려견에게 적정량의 먹이를 제공한 것으로 밝혀져 이를 바로잡습니다. 또한 해당 동물 병원에서는 처방전을 발급하지 않은 것은 사실이지만, 관련 법에 근거하여 수의사가 직접 처방 대상 동물용 의약품을 투약하는 경우에는 처방전을 발급하지 않을 수 있다고 밝혀왔습니다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>○○동물 병원을 운영하는 A는 △△신문의 기자 B가 제보 내용에 대한 별도의 취재 없이 보도한 기사로 인해 매출이 줄어드는 피해를 입었다. A는 다음의 내용으로 △△신문의 대표자 C 또는 기자 B에게 정정 및 반론 보도를 요청하고자 한다.<br>본 신문은 2022년 9월 1일자 10면에 ‘○○시 소재 동물 병원, 입원한 반려견 방치하고 처방전 미발급’이라는 제목으로 ○○시에 소재한 모 동물 병원이 입원한 반려견에게 먹이를 주지 않았으며 처방전을 발급하지 않고 의약품을 투약했다고 보도하였습니다.<br>그러나 해당 동물 병원의 CCTV 영상을 확인한 결과 동물 병원의 직원들이 입원한 반려견에게 적정량의 먹이를 제공한 것으로 밝혀져 이를 바로잡습니다. 또한 해당 동물 병원에서는 처방전을 발급하지 않은 것은 사실이지만, 관련 법에 근거하여 수의사가 직접 처방 대상 동물용 의약품을 투약하는 경우에는 처방전을 발급하지 않을 수 있다고 밝혀왔습니다.</p>
   </div>
   <ul class="q-opts"><li id="q24-1">① A가 별도의 취재를 하지 않은 B에게 정정 보도를 청구하려면 법원에 소를 제기해야겠군.</li>
-    <li id="q24-2">② A는 먹이 제공과 관련된 내용은 정정 보도를, 처방전 미발급과 관련된 내용은 반론 보도를 청구하려는 것이겠군.</li>
-    <li id="q24-3">③ A가 △△신문의 보도가 있음을 안 날이 2023년 9월 1일이라면 민법 제764조에 의거하여 권리를 행사해야겠군.</li>
-    <li id="q24-4">④ B의 기사 중 입원한 반려견에게 먹이를 주지 않았다는 내용은 사실적 주장에 해당하지 않겠군.</li>
-    <li id="q24-5">⑤ C가 언론중재법에 의거한 A의 청구를 수용한다면, 청구를 받은 날부터 일주일 이내에 A가 요청한 보도문을 △△신문에 싣겠군.</li></ul>
+ <li id="q24-2">② A는 먹이 제공과 관련된 내용은 정정 보도를, 처방전 미발급과 관련된 내용은 반론 보도를 청구하려는 것이겠군.</li>
+ <li id="q24-3">③ A가 △△신문의 보도가 있음을 안 날이 2023년 9월 1일이라면 민법 제764조에 의거하여 권리를 행사해야겠군.</li>
+ <li id="q24-4">④ B의 기사 중 입원한 반려견에게 먹이를 주지 않았다는 내용은 사실적 주장에 해당하지 않겠군.</li>
+ <li id="q24-5">⑤ C가 언론중재법에 의거한 A의 청구를 수용한다면, 청구를 받은 날부터 일주일 이내에 A가 요청한 보도문을 △△신문에 싣겠군.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 사례에 적용한다.</p><p>B의 기사 중 먹이를 주지 않았다는 내용은 사실적 주장에 해당한다. ④의 판단이 적절하다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>별도 취재 여부 조건 오적용.</td></tr><tr><td>②</td><td>오답</td><td>정정·반론 구분 오적용.</td></tr><tr><td>③</td><td>오답</td><td>청구 기간 오적용.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>입원 반려견 먹이=사실적 주장.</td></tr><tr><td>⑤</td><td>오답</td><td>수용 효과 오적용.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob25">
   <p class="q-stem">25. 문맥상 ⓐ∼ⓔ와 바꾸어 쓰기에 적절하지 않은 것은?</p>
   <ul class="q-opts"><li id="q25-1">① ⓐ: 비하면</li>
-    <li id="q25-2">② ⓑ: 기여하는</li>
-    <li id="q25-3">③ ⓒ: 충돌할</li>
-    <li id="q25-4">④ ⓓ: 게재하게</li>
-    <li id="q25-5">⑤ ⓔ: 증진하고16</li></ul>
+ <li id="q25-2">② ⓑ: 기여하는</li>
+ <li id="q25-3">③ ⓒ: 충돌할</li>
+ <li id="q25-4">④ ⓓ: 게재하게</li>
+ <li id="q25-5">⑤ ⓔ: 증진하고16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 문맥상 바꿔 쓰기의 적절성을 본다.</p><p>‘증진하다’는 ‘늘려 나아가게 하다’의 뜻으로, ‘돕다’와 바꿔 쓰기에 적절하지 않다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>ⓐ 비하면.</td></tr><tr><td>②</td><td>적절</td><td>ⓑ 기여하는.</td></tr><tr><td>③</td><td>적절</td><td>ⓒ 충돌할.</td></tr><tr><td>④</td><td>적절</td><td>ⓓ 게재하게.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>ⓔ 증진하고≠돕고.</td></tr></tbody></table></div></details>
 </div>
 
@@ -396,30 +396,30 @@ layout: "exam"
 <div class="q-block" id="prob26">
   <p class="q-stem">26. 윗글을 통해 답을 찾을 수 있는 질문으로 적절한 것은?</p>
   <ul class="q-opts"><li id="q26-1">① 후각 상피에 있는 점액질층의 성분은 무엇인가?</li>
-    <li id="q26-2">② 후각 겉질과 눈확이마 겉질을 나누는 기준은 무엇인가?</li>
-    <li id="q26-3">③ 후각 수용체가 냄새 분자와 결합하는 원리는 무엇인가?</li>
-    <li id="q26-4">④ 냄새 분자가 정방향 경로로 들어올 때의 장점은 무엇인가?</li>
-    <li id="q26-5">⑤ 냄새를 맡으면 순식간에 기억이 떠오르는 이유는 무엇인가?<a class="src-tag ans" href="#ev26">정답 근거</a></li></ul>
+ <li id="q26-2">② 후각 겉질과 눈확이마 겉질을 나누는 기준은 무엇인가?</li>
+ <li id="q26-3">③ 후각 수용체가 냄새 분자와 결합하는 원리는 무엇인가?</li>
+ <li id="q26-4">④ 냄새 분자가 정방향 경로로 들어올 때의 장점은 무엇인가?</li>
+ <li id="q26-5">⑤ 냄새를 맡으면 순식간에 기억이 떠오르는 이유는 무엇인가?<a class="src-tag ans" href="#ev26">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 글로 답할 수 있는 질문을 찾는다.</p><p>5문단에서 후각 정보가 해마에 즉시 연결되어 기억이 떠오른다고 했으므로 ⑤의 답을 찾을 수 있다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>불가</td><td>점액질 성분 미제시.</td></tr><tr><td>②</td><td>불가</td><td>겉질 구분 기준 미제시.</td></tr><tr><td>③</td><td>불가</td><td>결합 원리 미제시.</td></tr><tr><td>④</td><td>불가</td><td>정방향 장점 미제시.</td></tr><tr class="correct"><td>⑤</td><td class="ok">가능</td><td>해마 연결로 기억 환기.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob27">
   <p class="q-stem">27. 윗글을 읽고 추론한 내용으로 적절하지 않은 것은? <span class="q-rate">오답률 49.5%</span></p>
   <ul class="q-opts"><li id="q27-1">① 두 물질의 냄새 분자가 다르다면 토리에서 만들어진 패턴이 다르겠군.</li>
-    <li id="q27-2">② 액설과 벅은 냄새 분자의 구조에 따라 냄새가 인식되는 방법을 발견했겠군.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
-    <li id="q27-3">③ 자극이 전기 신호로 바뀌어 인식될 것이라는 접근은 후각 이외의 감각에 먼저 도입되었겠군.</li>
-    <li id="q27-4">④ 어떤 냄새를 귤 냄새로 판단했다면 과거의 냄새 정보와 새로운 정보를 비교하는 과정이 있었겠군.</li>
-    <li id="q27-5">⑤ 코가 막혔을 때 미각으로 느낀 맛을 더욱 풍부하게 느끼지 못하는 것은 후각 상피로 가는 역방향 경로가 막혔기 때문이겠군.</li></ul>
+ <li id="q27-2">② 액설과 벅은 냄새 분자의 구조에 따라 냄새가 인식되는 방법을 발견했겠군.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
+ <li id="q27-3">③ 자극이 전기 신호로 바뀌어 인식될 것이라는 접근은 후각 이외의 감각에 먼저 도입되었겠군.</li>
+ <li id="q27-4">④ 어떤 냄새를 귤 냄새로 판단했다면 과거의 냄새 정보와 새로운 정보를 비교하는 과정이 있었겠군.</li>
+ <li id="q27-5">⑤ 코가 막혔을 때 미각으로 느낀 맛을 더욱 풍부하게 느끼지 못하는 것은 후각 상피로 가는 역방향 경로가 막혔기 때문이겠군.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 내용을 추론한다.</p><p>액설과 벅은 냄새 분자의 구조에 따라 냄새가 인식되는 방법을 밝혔다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>패턴 동일 여부 단정 불가.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>구조에 따른 인식 방법 규명.</td></tr><tr><td>③</td><td>오답</td><td>전기 신호 접근 한계 진술 불일치.</td></tr><tr><td>④</td><td>오답</td><td>판단 근거 불일치.</td></tr><tr><td>⑤</td><td>오답</td><td>미각 관련 불일치.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob28">
   <p class="q-stem">28. 후각 자극의 신호 전달 과정을 중심으로 ㉠, ㉡을 이해한 내용으로 적절하지 않은 것은?</p>
   <ul class="q-opts"><li id="q28-1">① ㉠에서 냄새 분자가 섬모에 닿으려면 먼저 점액질층을 통과해야 한다.</li>
-    <li id="q28-2">② ㉠에서 냄새 분자와 후각 수용체가 결합하면 후각 신경 세포에서 전기 신호가 발생한다.</li>
-    <li id="q28-3">③ ㉡에서 만들어진 패턴은 승모 세포를 통해 전기 신호가 강해져 대뇌의 후각 겉질로 전달된다.</li>
-    <li id="q28-4">④ ㉠에서 서로 다른 종류의 후각 수용체가 활성화되어 발생한 전기 신호는 한 개의 축삭에 모여 ㉡으로 전달된다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
-    <li id="q28-5">⑤ ㉠으로부터 전달된 전기 신호와 세기를 반영하여 ㉡에서는 패턴이 만들어진다.
+ <li id="q28-2">② ㉠에서 냄새 분자와 후각 수용체가 결합하면 후각 신경 세포에서 전기 신호가 발생한다.</li>
+ <li id="q28-3">③ ㉡에서 만들어진 패턴은 승모 세포를 통해 전기 신호가 강해져 대뇌의 후각 겉질로 전달된다.</li>
+ <li id="q28-4">④ ㉠에서 서로 다른 종류의 후각 수용체가 활성화되어 발생한 전기 신호는 한 개의 축삭에 모여 ㉡으로 전달된다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
+ <li id="q28-5">⑤ ㉠으로부터 전달된 전기 신호와 세기를 반영하여 ㉡에서는 패턴이 만들어진다.
 16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 내용을 본다.</p><p>㉠에서 서로 다른 후각 수용체가 활성화되어 발생한 신호가 ㉡으로 전달된다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>점액질 통과 설명 불일치.</td></tr><tr><td>②</td><td>오답</td><td>결합 후 신호 발생 불일치.</td></tr><tr><td>③</td><td>오답</td><td>승모 세포 신호 강화 불일치.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>다른 수용체 활성화로 신호 발생.</td></tr><tr><td>⑤</td><td>오답</td><td>패턴 형성 설명 불일치.</td></tr></tbody></table></div></details>
 </div>
@@ -427,24 +427,24 @@ layout: "exam"
 <div class="q-block" id="prob29">
   <p class="q-stem">29.윗글과 &lt;보기&gt;를 이해한 내용으로 적절하지 않은 것은? [3점]</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>‘전자 코’는 질병 조기 진단, 식품의 신선도 측정 등에 두루 쓰인다. 최근 사람의 후각과 원리가 비슷한 6가지 나노 금 입자로 구성된 전자 코가 개발돼 질병 진단을 위해 단백질을 분석할 때 쓰이고 있다. 6가지 나노 금 입자에 특정한 단백질과 결합하는 물질들이 코팅되어 있다. 나노 금 입자는 형광물질과 결합한 상태인데 단백질이 결합하면 형광물질이 분리되면서 빛을 낸다. 나노 금 입자와 단백질의 결합 여부 및 결합하는 정도에 따라 빛의 세기가 달라지고, 이러한 빛들이 만드는 빛의 분포는 단백질마다 다른 고유한 특징이다. 이러한 빛의 분포를 컴퓨터로 분석하고 기존의 데이터와 비교하여 단백질의 종류를 파악한다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>‘전자 코’는 질병 조기 진단, 식품의 신선도 측정 등에 두루 쓰인다. 최근 사람의 후각과 원리가 비슷한 6가지 나노 금 입자로 구성된 전자 코가 개발돼 질병 진단을 위해 단백질을 분석할 때 쓰이고 있다. 6가지 나노 금 입자에 특정한 단백질과 결합하는 물질들이 코팅되어 있다. 나노 금 입자는 형광물질과 결합한 상태인데 단백질이 결합하면 형광물질이 분리되면서 빛을 낸다. 나노 금 입자와 단백질의 결합 여부 및 결합하는 정도에 따라 빛의 세기가 달라지고, 이러한 빛들이 만드는 빛의 분포는 단백질마다 다른 고유한 특징이다. 이러한 빛의 분포를 컴퓨터로 분석하고 기존의 데이터와 비교하여 단백질의 종류를 파악한다.</p>
   </div>
   <ul class="q-opts"><li id="q29-1">① ‘토리에서 만들어진 패턴’과 ‘빛의 분포’는 대상마다 다르게 나타나는 고유한 특징이라는 점에서 유사하다고 볼 수 있겠군.</li>
-    <li id="q29-2">② ‘후각 수용체’와 ‘단백질과 결합하는 물질들’은 대상과 선택적으로 결합한다는 점에서 유사하다고 볼 수 있겠군.</li>
-    <li id="q29-3">③ ‘대뇌의 후각 겉질’과 ‘컴퓨터’는 새로운 정보를 기존의 정보와 비교한다는 점에서 유사하다고 볼 수 있겠군.</li>
-    <li id="q29-4">④ ‘승모 세포’와 ‘나노 금 입자’는 대상과의 결합 여부와 정도를 알려 준다는 점에서 유사하다고 볼 수 있겠군.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
-    <li id="q29-5">⑤ ‘전기 신호’와 ‘빛’은 두 대상의 결합으로 인해 발생한다는 점에서 유사하다고 볼 수 있겠군.</li></ul>
+ <li id="q29-2">② ‘후각 수용체’와 ‘단백질과 결합하는 물질들’은 대상과 선택적으로 결합한다는 점에서 유사하다고 볼 수 있겠군.</li>
+ <li id="q29-3">③ ‘대뇌의 후각 겉질’과 ‘컴퓨터’는 새로운 정보를 기존의 정보와 비교한다는 점에서 유사하다고 볼 수 있겠군.</li>
+ <li id="q29-4">④ ‘승모 세포’와 ‘나노 금 입자’는 대상과의 결합 여부와 정도를 알려 준다는 점에서 유사하다고 볼 수 있겠군.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
+ <li id="q29-5">⑤ ‘전기 신호’와 ‘빛’은 두 대상의 결합으로 인해 발생한다는 점에서 유사하다고 볼 수 있겠군.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(전자 코)에 적용한다.</p><p>‘승모 세포’와 ‘나노 금 입자’는 대상과의 결합 여부·정도에 따라 반응한다는 점에서 대응한다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>패턴·빛 분포 대응 부정확.</td></tr><tr><td>②</td><td>오답</td><td>수용체·결합 물질 대응 부정확.</td></tr><tr><td>③</td><td>오답</td><td>후각 겉질·컴퓨터 대응 부정확.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>승모 세포≈나노 금 입자.</td></tr><tr><td>⑤</td><td>오답</td><td>전기 신호·빛 발생 대응 부정확.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob30">
   <p class="q-stem">30. 문맥상 ⓐ의 의미와 가장 가까운 것은?</p>
   <ul class="q-opts"><li id="q30-1">① 바람에 날린 연이 높이 떠올랐다.</li>
-    <li id="q30-2">② 붉은 태양이 바다 위로 떠올랐다.</li>
-    <li id="q30-3">③ 어머니의 얼굴에 미소가 떠올랐다.</li>
-    <li id="q30-4">④ 그 사람의 이름이 이제야 떠올랐다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
-    <li id="q30-5">⑤ 그녀는 배구계의 새 강자로 떠올랐다.</li></ul>
+ <li id="q30-2">② 붉은 태양이 바다 위로 떠올랐다.</li>
+ <li id="q30-3">③ 어머니의 얼굴에 미소가 떠올랐다.</li>
+ <li id="q30-4">④ 그 사람의 이름이 이제야 떠올랐다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
+ <li id="q30-5">⑤ 그녀는 배구계의 새 강자로 떠올랐다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 문맥적 의미가 같은 것을 찾는다.</p><p>ⓐ는 ‘기억이 되살아나다’의 뜻이므로 ④ ‘이름이 떠올랐다’와 같다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>솟아오르다.</td></tr><tr><td>②</td><td>오답</td><td>솟아오르다.</td></tr><tr><td>③</td><td>오답</td><td>감정이 나타나다.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>기억·생각이 나다.</td></tr><tr><td>⑤</td><td>오답</td><td>부상하다.</td></tr></tbody></table></div></details>
 </div>
 
@@ -460,44 +460,44 @@ layout: "exam"
 <div class="q-block" id="prob31">
   <p class="q-stem">31. ㉠, ㉡에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q31-1">① ㉠은 인물이 권위를 내세우는 공간이다.</li>
-    <li id="q31-2">② ㉡은 인물 간의 갈등이 해소되는 공간이다.</li>
-    <li id="q31-3">③ ㉠은 ㉡과 달리 인물이 긍정적으로 생각하는 공간이다.<a class="src-tag ans" href="#ev31">정답 근거</a></li>
-    <li id="q31-4">④ ㉡은 ㉠과 달리 인물 간의 유대감이 형성되는 공간이다.</li>
-    <li id="q31-5">⑤ ㉠과 ㉡은 모두 인물이 고난을 겪는 공간이다.</li></ul>
+ <li id="q31-2">② ㉡은 인물 간의 갈등이 해소되는 공간이다.</li>
+ <li id="q31-3">③ ㉠은 ㉡과 달리 인물이 긍정적으로 생각하는 공간이다.<a class="src-tag ans" href="#ev31">정답 근거</a></li>
+ <li id="q31-4">④ ㉡은 ㉠과 달리 인물 간의 유대감이 형성되는 공간이다.</li>
+ <li id="q31-5">⑤ ㉠과 ㉡은 모두 인물이 고난을 겪는 공간이다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠·㉡ 공간의 의미를 본다.</p><p>㉠(큰 산)은 인물이 긍정적으로 여기는 공간, ㉡(토굴)은 함정으로 부정적 공간이다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 권위 과시 공간 아님.</td></tr><tr><td>②</td><td>오답</td><td>㉡ 갈등 해소 공간 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>㉠ 긍정 vs ㉡ 부정.</td></tr><tr><td>④</td><td>오답</td><td>㉡ 유대감 형성 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>둘 다 고난 공간 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob32">
   <p class="q-stem">32. 윗글의 인물에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts"><li id="q32-1">① ‘황후’는 유충렬의 도움으로 본진에 돌아왔다.</li>
-    <li id="q32-2">② ‘유충렬’은 정한담의 목을 베어 황제 전에 바쳤다.</li>
-    <li id="q32-3">③ ‘정한담’은 유충렬을 자극하여 싸움을 시작하고 있다.</li>
-    <li id="q32-4">④ ‘큰스님’은 백룡사에 찾아온 사람이 유충렬이라는 사실을 알고 있었다.</li>
-    <li id="q32-5">⑤ ‘영릉골 관비’는 강 낭자의 자색과 태도를 알아보고 떠나지 않도록 회유하고 있다.</li></ul>
+ <li id="q32-2">② ‘유충렬’은 정한담의 목을 베어 황제 전에 바쳤다.</li>
+ <li id="q32-3">③ ‘정한담’은 유충렬을 자극하여 싸움을 시작하고 있다.</li>
+ <li id="q32-4">④ ‘큰스님’은 백룡사에 찾아온 사람이 유충렬이라는 사실을 알고 있었다.</li>
+ <li id="q32-5">⑤ ‘영릉골 관비’는 강 낭자의 자색과 태도를 알아보고 떠나지 않도록 회유하고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 내용과 일치하는 것을 찾는다.</p><p>유충렬이 벤 것은 허수아비의 목이어서 정한담의 목을 황제에게 바치지 못했다. ②가 일치하지 않는다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>일치</td><td>황후가 유충렬 도움으로 귀환.</td></tr><tr class="correct"><td>②</td><td class="ok">불일치</td><td>허수아비 목—실제 못 바침.</td></tr><tr><td>③</td><td>일치</td><td>정한담이 싸움을 도발.</td></tr><tr><td>④</td><td>일치</td><td>큰스님이 유충렬을 알아봄.</td></tr><tr><td>⑤</td><td>일치</td><td>관비가 강 낭자를 알아봄.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob33">
   <p class="q-stem">33. [A]와 [B]에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 45.1%</span></p>
   <ul class="q-opts"><li id="q33-1">① [A]는 [B]와 달리 과거 사건을 근거로 들며 문제 해결을 유보하고 있다.</li>
-    <li id="q33-2">② [B]는 [A]와 달리 불가능한 상황을 설정하여 상대를 설득하고 있다.</li>
-    <li id="q33-3">③ [A]와 [B]는 모두 대상에 대한 평가를 제시하며 상대의 행동 변화를 요구하고 있다.</li>
-    <li id="q33-4">④ [A]와 [B]는 모두 자신의 신분을 언급함으로써 자신의 발화에 대한 상대의 의구심을 해소하고 있다.</li>
-    <li id="q33-5">⑤ [A]는 이전 사건에 대한 정보를 전달하고, [B]는 변화된 현재 상황에 대한 심리를 드러내고 있다.<a class="src-tag ans" href="#ev33">정답 근거</a></li></ul>
+ <li id="q33-2">② [B]는 [A]와 달리 불가능한 상황을 설정하여 상대를 설득하고 있다.</li>
+ <li id="q33-3">③ [A]와 [B]는 모두 대상에 대한 평가를 제시하며 상대의 행동 변화를 요구하고 있다.</li>
+ <li id="q33-4">④ [A]와 [B]는 모두 자신의 신분을 언급함으로써 자신의 발화에 대한 상대의 의구심을 해소하고 있다.</li>
+ <li id="q33-5">⑤ [A]는 이전 사건에 대한 정보를 전달하고, [B]는 변화된 현재 상황에 대한 심리를 드러내고 있다.<a class="src-tag ans" href="#ev33">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — [A]·[B]의 말하기 방식을 본다.</p><p>[A]는 과거 사건을 요약해 정보를 전달하고, [B]는 구해 준 데 대한 감사를 표현한다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[A]만 과거 근거가 아님.</td></tr><tr><td>②</td><td>오답</td><td>불가능 상황 설정 아님.</td></tr><tr><td>③</td><td>오답</td><td>평가 제시로 행동 유도 아님.</td></tr><tr><td>④</td><td>오답</td><td>신분 언급으로 정당화 아님.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>[A] 정보 전달, [B] 감사 표현.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob34">
   <p class="q-stem">34.&lt;보기&gt;를 바탕으로 윗글을 감상한 내용으로 적절하지 않은 것은? [3점] <span class="q-rate">오답률 84.5%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>｢유충렬전｣은 독자의 흥미를 유발하기 위해 다양한 문학적 장치를 활용하여 대중 소설로서 큰 인기를 끌었다. 그 예로는 영웅의 잠재 능력을 표출시키는 초월적 조력자, 주인공의 영웅성을 더욱 부각하는 신물(神物), 영웅과의 치열한 군담을 만드는 적대자, 위기에 처한 인물의 이야기를 중단하여 독자의 궁금증을 고조시킨 후 다른 인물의 이야기로 넘어가는 단절기법 등이 있다. 또한 일반 백성이 전란으로 겪는 수난을 소설 속 왕가(王家)를 통해 그대로 재현함으로써 독자들이 공감할 수 있게 하였다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>｢유충렬전｣은 독자의 흥미를 유발하기 위해 다양한 문학적 장치를 활용하여 대중 소설로서 큰 인기를 끌었다. 그 예로는 영웅의 잠재 능력을 표출시키는 초월적 조력자, 주인공의 영웅성을 더욱 부각하는 신물(神物), 영웅과의 치열한 군담을 만드는 적대자, 위기에 처한 인물의 이야기를 중단하여 독자의 궁금증을 고조시킨 후 다른 인물의 이야기로 넘어가는 단절기법 등이 있다. 또한 일반 백성이 전란으로 겪는 수난을 소설 속 왕가(王家)를 통해 그대로 재현함으로써 독자들이 공감할 수 있게 하였다.</p>
   </div>
   <ul class="q-opts"><li id="q34-1">① 강 낭자를 중심으로 하는 서사가 ‘각설’을 통해 유충렬의 서사로 넘어가는 부분에서 단절기법을 확인할 수 있겠군.</li>
-    <li id="q34-2">② 유충렬이 백룡사의 ‘큰스님’을 만나는 부분에서 초월적 조력자가 영웅의 잠재 능력을 표출시키는 모습을 확인할 수 있겠군.</li>
-    <li id="q34-3">③ ‘정한담’이 유충렬을 함정에 들게 한 부분에서 영웅과의 치열한 군담을 만드는 적대자를 확인할 수 있겠군.</li>
-    <li id="q34-4">④ 유충렬이 ‘일광주’와 ‘장성검’을 사용하는 부분에서 주인공의 영웅성을 부각하는 신물을 확인할 수 있겠군.</li>
-    <li id="q34-5">⑤ ‘황후’와 ‘태후’가 토굴에서 살려 달라고 소리치는 부분에서 일반 백성이 전란으로 겪은 수난을 재현한 것을 확인할 수 있겠군.
+ <li id="q34-2">② 유충렬이 백룡사의 ‘큰스님’을 만나는 부분에서 초월적 조력자가 영웅의 잠재 능력을 표출시키는 모습을 확인할 수 있겠군.</li>
+ <li id="q34-3">③ ‘정한담’이 유충렬을 함정에 들게 한 부분에서 영웅과의 치열한 군담을 만드는 적대자를 확인할 수 있겠군.</li>
+ <li id="q34-4">④ 유충렬이 ‘일광주’와 ‘장성검’을 사용하는 부분에서 주인공의 영웅성을 부각하는 신물을 확인할 수 있겠군.</li>
+ <li id="q34-5">⑤ ‘황후’와 ‘태후’가 토굴에서 살려 달라고 소리치는 부분에서 일반 백성이 전란으로 겪은 수난을 재현한 것을 확인할 수 있겠군.
 [A]
 [B]
 16</li></ul>
@@ -516,20 +516,20 @@ layout: "exam"
 <div class="q-block" id="prob35">
   <p class="q-stem">35. ‘다산 윤리학’의 내용으로 적절하지 않은 것은?</p>
   <ul class="q-opts"><li id="q35-1">① 백성들의 삶을 윤택하게 하는 행동을 통해 인을 얻을 수 있다.</li>
-    <li id="q35-2">② 인간이 선과 악을 선택할 수 있는 것은 자유의지가 있기 때문이다.</li>
-    <li id="q35-3">③ 서(恕)로써 다른 사람을 대하는 것이 타인에게 도리를 다하는 것이다.</li>
-    <li id="q35-4">④ 인을 완성할 수 있는 실천 원리는 상호 평등성의 인정과 인격 존중에 기초한다.</li>
-    <li id="q35-5">⑤ 만물개비어아는 인간 감정의 보편성을 통해 자기의 감정을 이해할 수 있다는 것이다.<a class="src-tag ans" href="#ev35">정답 근거</a></li></ul>
+ <li id="q35-2">② 인간이 선과 악을 선택할 수 있는 것은 자유의지가 있기 때문이다.</li>
+ <li id="q35-3">③ 서(恕)로써 다른 사람을 대하는 것이 타인에게 도리를 다하는 것이다.</li>
+ <li id="q35-4">④ 인을 완성할 수 있는 실천 원리는 상호 평등성의 인정과 인격 존중에 기초한다.</li>
+ <li id="q35-5">⑤ 만물개비어아는 인간 감정의 보편성을 통해 자기의 감정을 이해할 수 있다는 것이다.<a class="src-tag ans" href="#ev35">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 내용과 일치하는 것을 찾는다.</p><p>다산은 만물개비어아를, 인간 감정의 보편성을 통해 자기 감정으로 남을 이해할 수 있다는 의미로 보았다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>불일치</td><td>인 획득 방식 불일치.</td></tr><tr><td>②</td><td>불일치</td><td>자유의지 설명 불일치.</td></tr><tr><td>③</td><td>불일치</td><td>서(恕) 설명 불일치.</td></tr><tr><td>④</td><td>불일치</td><td>실천 원리 불일치.</td></tr><tr class="correct"><td>⑤</td><td class="ok">일치</td><td>만물개비어아=감정의 보편성.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob36">
   <p class="q-stem">36. 윗글을 통해 알 수 있는 ㉠의 의미로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q36-1">① 선천적인 품성을 올바르게 바꿔가며 살아가는 사회를 말하는 것이겠군.</li>
-    <li id="q36-2">② 자유의지로 사람들 사이에서 선을 실천하며 사는 사회를 말하는 것이겠군.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
-    <li id="q36-3">③ 생활 속에서 누구나 노력 없이 선의 가치를 실현하며 살 수 있는 정의로운 사회를 말하는 것이겠군.</li>
-    <li id="q36-4">④ 인간이 타자와의 관계를 의식하지 않고 자유의지를 통해 가치를 실현하는 사회를 말하는 것이겠군.</li>
-    <li id="q36-5">⑤ 실천을 하지 않아도 서로의 인격을 존중하고 타인의 마음을 이해하며 사는 사회를 말하는 것이겠군.
+ <li id="q36-2">② 자유의지로 사람들 사이에서 선을 실천하며 사는 사회를 말하는 것이겠군.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
+ <li id="q36-3">③ 생활 속에서 누구나 노력 없이 선의 가치를 실현하며 살 수 있는 정의로운 사회를 말하는 것이겠군.</li>
+ <li id="q36-4">④ 인간이 타자와의 관계를 의식하지 않고 자유의지를 통해 가치를 실현하는 사회를 말하는 것이겠군.</li>
+ <li id="q36-5">⑤ 실천을 하지 않아도 서로의 인격을 존중하고 타인의 마음을 이해하며 사는 사회를 말하는 것이겠군.
 16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — ‘선한 사회’의 의미를 추론한다.</p><p>자유의지로 사람들 사이에서 선을 실천하며 사는 사회를 뜻한다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>품성을 바꾼다는 진술 아님.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>자유의지로 선 실천.</td></tr><tr><td>③</td><td>오답</td><td>노력 없이 실현 아님.</td></tr><tr><td>④</td><td>오답</td><td>관계 의식 안 함 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>실천 없이 존중 아님.</td></tr></tbody></table></div></details>
 </div>
@@ -537,24 +537,24 @@ layout: "exam"
 <div class="q-block" id="prob37">
   <p class="q-stem">37. 신독에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts"><li id="q37-1">① 자신의 행동을 성찰하면서 자신을 통제하게 하는 것이다.</li>
-    <li id="q37-2">② 선과 악의 선택에서 벗어나 내면의 공정성을 유지하는 것이다.<a class="src-tag ans" href="#ev37">정답 근거</a></li>
-    <li id="q37-3">③ 잘못을 꾸짖는 내면의 목소리이며 선을 실현하게 하는 정신적 구심점이다.</li>
-    <li id="q37-4">④ 자신이 혼자 아는 일에도 생각과 행동을 조심하며 내면의 진실성을 유지하는 것이다.</li>
-    <li id="q37-5">⑤ 악을 행할 수 있는 가능성을 지닌 인간에게 하늘의 눈은 피할 수 없음을 강조하는 것이다.</li></ul>
+ <li id="q37-2">② 선과 악의 선택에서 벗어나 내면의 공정성을 유지하는 것이다.<a class="src-tag ans" href="#ev37">정답 근거</a></li>
+ <li id="q37-3">③ 잘못을 꾸짖는 내면의 목소리이며 선을 실현하게 하는 정신적 구심점이다.</li>
+ <li id="q37-4">④ 자신이 혼자 아는 일에도 생각과 행동을 조심하며 내면의 진실성을 유지하는 것이다.</li>
+ <li id="q37-5">⑤ 악을 행할 수 있는 가능성을 지닌 인간에게 하늘의 눈은 피할 수 없음을 강조하는 것이다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 신독의 의미를 본다.</p><p>신독은 선과 악을 선택할 수 있는 상황에서 자기를 통제해 내면의 공정성을 유지하는 것이다. ‘선택에서 벗어난다’는 ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>행동 성찰·자기 통제.</td></tr><tr class="correct"><td>②</td><td class="ok">부적절</td><td>선택에서 ‘벗어남’이 아님.</td></tr><tr><td>③</td><td>적절</td><td>선을 실현하는 내면의 목소리.</td></tr><tr><td>④</td><td>적절</td><td>혼자일 때도 조심.</td></tr><tr><td>⑤</td><td>적절</td><td>하늘의 눈을 의식.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob38">
   <p class="q-stem">38.윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 않은 것은? [3점]</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>요즘 천재지변으로 해마다 흉년이 들어, ⓐ백성들이 굶주림을 면치 못하고 고통을 받으니 안타까울 따름이다. 재정부에 명령하여 나라의 곳간을 열고, 연달아 감사관을 보내 ⓑ백성의 쓰라림을 돌보지 않는 수령들을 징계한 바 있다. 슬프다. 부덕한 ⓒ나로서는 백성들이 굶어 죽는 모습들을 모두 다 알 수 없으니, 수령과 같은 백성과 가까운 관원들은 나의 이 진심 어린 뜻을 새겨, 관할 구역의 백성들이 굶주려 떠돌아다니지 않게끔 유의하라. 나는 장차 다시 ⓓ조정의 관원을 파견하여, 그에 대한 행정 상황을 조사할 것이며, 만약 한 백성이라도 굶어 죽은 자가 있다면, 수령이 교서를 위반한 것으로써 죄를 논할 것이라. - 세종실록, 세종 1년(1419) -</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>요즘 천재지변으로 해마다 흉년이 들어, ⓐ백성들이 굶주림을 면치 못하고 고통을 받으니 안타까울 따름이다. 재정부에 명령하여 나라의 곳간을 열고, 연달아 감사관을 보내 ⓑ백성의 쓰라림을 돌보지 않는 수령들을 징계한 바 있다. 슬프다. 부덕한 ⓒ나로서는 백성들이 굶어 죽는 모습들을 모두 다 알 수 없으니, 수령과 같은 백성과 가까운 관원들은 나의 이 진심 어린 뜻을 새겨, 관할 구역의 백성들이 굶주려 떠돌아다니지 않게끔 유의하라. 나는 장차 다시 ⓓ조정의 관원을 파견하여, 그에 대한 행정 상황을 조사할 것이며, 만약 한 백성이라도 굶어 죽은 자가 있다면, 수령이 교서를 위반한 것으로써 죄를 논할 것이라. - 세종실록, 세종 1년(1419) -</p>
   </div>
   <ul class="q-opts"><li id="q38-1">① ⓐ를 서(恕)로써 대하는 마음이 있어야 ⓓ가 인을 성취할 수 있겠군.</li>
-    <li id="q38-2">② ⓑ는 ⓐ와의 관계에서 인을 성취하지 못하였군.</li>
-    <li id="q38-3">③ ⓒ는 ⓑ에게 한 행위를 통해 ⓐ와의 관계에서 인을 성취하였군.</li>
-    <li id="q38-4">④ ⓒ는 ⓓ가 서(恕)로써 ⓐ를 대하기를 바라겠군.</li>
-    <li id="q38-5">⑤ ⓓ의 자유의지에 따른 행위는 ⓒ에 의한 것이므로 결과에 따른 책임을 지지 않겠군.<a class="src-tag ans" href="#ev38">정답 근거</a></li></ul>
+ <li id="q38-2">② ⓑ는 ⓐ와의 관계에서 인을 성취하지 못하였군.</li>
+ <li id="q38-3">③ ⓒ는 ⓑ에게 한 행위를 통해 ⓐ와의 관계에서 인을 성취하였군.</li>
+ <li id="q38-4">④ ⓒ는 ⓓ가 서(恕)로써 ⓐ를 대하기를 바라겠군.</li>
+ <li id="q38-5">⑤ ⓓ의 자유의지에 따른 행위는 ⓒ에 의한 것이므로 결과에 따른 책임을 지지 않겠군.<a class="src-tag ans" href="#ev38">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(인의 성취)로 적용한다.</p><p>자유의지에 따른 행위는 ⓓ 스스로의 선택이지 ⓒ에 의한 것이 아니다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>서(恕)의 마음이 인 성취 조건.</td></tr><tr><td>②</td><td>적절</td><td>ⓑ가 ⓐ와의 관계에서 미성취.</td></tr><tr><td>③</td><td>적절</td><td>ⓒ가 ⓐ와의 관계에서 성취.</td></tr><tr><td>④</td><td>적절</td><td>ⓒ가 ⓓ의 서(恕)를 바람.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>자유의지는 ⓓ 자신의 선택.</td></tr></tbody></table></div></details>
 </div>
 
@@ -570,44 +570,44 @@ layout: "exam"
 <div class="q-block" id="prob39">
   <p class="q-stem">39. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q39-1">① 공간의 대비를 통해 일상의 공간에 의미를 부여하고 있다.</li>
-    <li id="q39-2">② 대상과의 문답을 통해 삶에 대한 깨달음을 드러내고 있다.</li>
-    <li id="q39-3">③ 시간적 배경의 의미를 활용하여 내적 갈등을 드러내고 있다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
-    <li id="q39-4">④ 반어적 표현을 활용하여 현실에 대한 비관적 태도를 드러내고 있다.</li>
-    <li id="q39-5">⑤ 설의적 표현을 통해 추구하고자 하는 삶의 자세를 제시하고 있다.</li></ul>
+ <li id="q39-2">② 대상과의 문답을 통해 삶에 대한 깨달음을 드러내고 있다.</li>
+ <li id="q39-3">③ 시간적 배경의 의미를 활용하여 내적 갈등을 드러내고 있다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
+ <li id="q39-4">④ 반어적 표현을 활용하여 현실에 대한 비관적 태도를 드러내고 있다.</li>
+ <li id="q39-5">⑤ 설의적 표현을 통해 추구하고자 하는 삶의 자세를 제시하고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)의 공통점을 본다.</p><p>(가)는 저녁(인생 황혼), (나)는 어둠 등 시간적 배경의 의미를 활용해 내적 갈등을 드러낸다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>공간 대비 공통 아님.</td></tr><tr><td>②</td><td>오답</td><td>문답 형식 공통 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>시간 배경 의미+내적 갈등.</td></tr><tr><td>④</td><td>오답</td><td>반어적 표현 공통 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>설의적 표현 공통 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob40">
   <p class="q-stem">40. ㉠～㉤에 대한 이해로 적절하지 않은 것은? <span class="q-rate">오답률 49.1%</span></p>
   <ul class="q-opts"><li id="q40-1">① ㉠: 음성 상징어를 통해 희망이 사라지지 않은 상황을 암시하고 있다.</li>
-    <li id="q40-2">② ㉡: 자신을 객관화하여 지칭하며 암담한 상황에서 자신을 비웃는 모습을 보여 주고 있다.</li>
-    <li id="q40-3">③ ㉢: 자신과 유사한 처지의 대상을 통해 방황하는 모습을 드러내고 있다.</li>
-    <li id="q40-4">④ ㉣: 대상을 의인화하여 자신이 원하는 바를 얻기 위해 노력이 필요함을 드러내고 있다.</li>
-    <li id="q40-5">⑤ ㉤: 가정적 진술을 활용하여 긍정적인 미래에 대한 확신을 드러내고 있다.<a class="src-tag ans" href="#ev40">정답 근거</a></li></ul>
+ <li id="q40-2">② ㉡: 자신을 객관화하여 지칭하며 암담한 상황에서 자신을 비웃는 모습을 보여 주고 있다.</li>
+ <li id="q40-3">③ ㉢: 자신과 유사한 처지의 대상을 통해 방황하는 모습을 드러내고 있다.</li>
+ <li id="q40-4">④ ㉣: 대상을 의인화하여 자신이 원하는 바를 얻기 위해 노력이 필요함을 드러내고 있다.</li>
+ <li id="q40-5">⑤ ㉤: 가정적 진술을 활용하여 긍정적인 미래에 대한 확신을 드러내고 있다.<a class="src-tag ans" href="#ev40">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠~㉤의 표현 효과를 본다.</p><p>㉤은 ‘새벽이 왔다 하더라도 암담하다’고 하여 긍정적 미래에 대한 확신을 드러내지 않는다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉠ 음성 상징어로 희망 암시.</td></tr><tr><td>②</td><td>적절</td><td>㉡ 자기 객관화.</td></tr><tr><td>③</td><td>적절</td><td>㉢ 유사 처지 대상.</td></tr><tr><td>④</td><td>적절</td><td>㉣ 의인화.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>㉤ 확신 아님(여전히 암담).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob41">
   <p class="q-stem">41. [A]와 [B]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q41-1">① [A]는 [B]와 달리 자연물에 감정을 이입하여 심리적 변화를 우회적으로 드러내고 있다.</li>
-    <li id="q41-2">② [B]는 [A]와 달리 자연물에 대한 변화된 인식을 제시하고 있다.<a class="src-tag ans" href="#ev41">정답 근거</a></li>
-    <li id="q41-3">③ [A]와 [B]는 모두 계절감을 드러내는 자연물을 통해 결실에 대한 기쁨을 나타내고 있다.</li>
-    <li id="q41-4">④ [A]의 자연물에는 과거에 대한 상실감이, [B]의 자연물에는 미래에 대한 기대감이 반영되어 있다.</li>
-    <li id="q41-5">⑤ [A]에서는 시선의 이동에 따라, [B]에서는 공간의 이동에 따라 변화하는 자연물의 모습을 보여 주고 있다.</li></ul>
+ <li id="q41-2">② [B]는 [A]와 달리 자연물에 대한 변화된 인식을 제시하고 있다.<a class="src-tag ans" href="#ev41">정답 근거</a></li>
+ <li id="q41-3">③ [A]와 [B]는 모두 계절감을 드러내는 자연물을 통해 결실에 대한 기쁨을 나타내고 있다.</li>
+ <li id="q41-4">④ [A]의 자연물에는 과거에 대한 상실감이, [B]의 자연물에는 미래에 대한 기대감이 반영되어 있다.</li>
+ <li id="q41-5">⑤ [A]에서는 시선의 이동에 따라, [B]에서는 공간의 이동에 따라 변화하는 자연물의 모습을 보여 주고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — [A]·[B]를 비교한다.</p><p>[B]는 ‘나무’에 대한 변화된 인식(불행한 존재→돌이켜 봄)을 제시하지만 [A]에는 없다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>감정 이입 비교 부정확.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>[B]만 변화된 인식 제시.</td></tr><tr><td>③</td><td>오답</td><td>계절감 공통 아님.</td></tr><tr><td>④</td><td>오답</td><td>상실감·기대감 대응 부정확.</td></tr><tr><td>⑤</td><td>오답</td><td>시선·공간 이동 대응 부정확.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob42">
   <p class="q-stem">42.&lt;보기&gt;를 바탕으로 (가), (나)를 감상한 내용으로 적절하지 않은 것은? [3점]</p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>어떤 상황에 문제가 있을 때, 그 이유를 자기에게서 돌이켜 찾는 것이 반구저기(反求諸己)의 태도이다. 이 과정에서 느끼는 감정은 자신이 그 상황에 책임이 있다는 주체적 각성으로, 수동적이고 비관적인 감정이 아니라 문제를 해결하기 위해 성찰하는 능동적이고 긍정적인 감정이다. (가)의 화자는 학자로서 목표한 학문적 경지에 도달하지 못했다고 여기는 개인적 상황에서 생각에 잠기고, (나)의 글쓴이는 식민지 현실이라는 공동체의 상황에서 자신이 추구하는 삶에 대한 방향을 찾지 못하는 데에서 부끄러움을 느끼고 있다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>어떤 상황에 문제가 있을 때, 그 이유를 자기에게서 돌이켜 찾는 것이 반구저기(反求諸己)의 태도이다. 이 과정에서 느끼는 감정은 자신이 그 상황에 책임이 있다는 주체적 각성으로, 수동적이고 비관적인 감정이 아니라 문제를 해결하기 위해 성찰하는 능동적이고 긍정적인 감정이다. (가)의 화자는 학자로서 목표한 학문적 경지에 도달하지 못했다고 여기는 개인적 상황에서 생각에 잠기고, (나)의 글쓴이는 식민지 현실이라는 공동체의 상황에서 자신이 추구하는 삶에 대한 방향을 찾지 못하는 데에서 부끄러움을 느끼고 있다.</p>
   </div>
   <ul class="q-opts"><li id="q42-1">① (가)의 ‘숙원이 오래도록 풀리질 않’은 ‘회포’는 화자가 학문적 경지에 도달하지 못했다고 여기는 것에서 느끼는 심정이겠군.</li>
-    <li id="q42-2">② (가)의 ‘고요한 밤’에 ‘거문고만 둥둥’ 타는 것은 화자가 주체적으로 각성하게 되는 원인이겠군.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
-    <li id="q42-3">③ (나)의 ‘아무런 준비도 배포치 못’해 ‘밝음의 초점’을 ‘휘잡’지 못한다는 것에서 글쓴이의 반구저기의 태도가 드러나는군.</li>
-    <li id="q42-4">④ (나)의 ‘과제를 풀지 못하여 안타까’워하는 것은 식민지 현실이라는 공동체의 상황에서 글쓴이가 느끼는 부끄러움이겠군.</li>
-    <li id="q42-5">⑤ (나)의 ‘별똥’이 ‘꼭 떨어져야 할 곳에 떨어져야 한다’는 것에서 자신이 추구하는 삶에 대한 방향을 찾고 싶은 글쓴이의 소망이 드러나는군.
+ <li id="q42-2">② (가)의 ‘고요한 밤’에 ‘거문고만 둥둥’ 타는 것은 화자가 주체적으로 각성하게 되는 원인이겠군.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
+ <li id="q42-3">③ (나)의 ‘아무런 준비도 배포치 못’해 ‘밝음의 초점’을 ‘휘잡’지 못한다는 것에서 글쓴이의 반구저기의 태도가 드러나는군.</li>
+ <li id="q42-4">④ (나)의 ‘과제를 풀지 못하여 안타까’워하는 것은 식민지 현실이라는 공동체의 상황에서 글쓴이가 느끼는 부끄러움이겠군.</li>
+ <li id="q42-5">⑤ (나)의 ‘별똥’이 ‘꼭 떨어져야 할 곳에 떨어져야 한다’는 것에서 자신이 추구하는 삶에 대한 방향을 찾고 싶은 글쓴이의 소망이 드러나는군.
 [B]
 16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉로 감상한다.</p><p>‘고요한 밤’ ‘거문고만 둥둥’ 타는 것은 학문적 경지에 이르지 못한 심정을 연주로 달래는 모습이다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘회포’ 해석 부정확.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>거문고=미도달의 심정 달램.</td></tr><tr><td>③</td><td>오답</td><td>‘밝음의 초점’ 해석 부정확.</td></tr><tr><td>④</td><td>오답</td><td>‘과제’ 해석 부정확.</td></tr><tr><td>⑤</td><td>오답</td><td>‘별똥’ 해석 부정확.</td></tr></tbody></table></div></details>
@@ -625,34 +625,34 @@ layout: "exam"
 <div class="q-block" id="prob43">
   <p class="q-stem">43. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q43-1">① 도치의 방식을 사용하여 시적 상황을 부각하고 있다.</li>
-    <li id="q43-2">② 공감각적 심상을 활용하여 대상에 입체감을 부여하고 있다.</li>
-    <li id="q43-3">③ 자연물에 상징적 의미를 부여하여 주제 의식을 드러내고 있다.</li>
-    <li id="q43-4">④ 영탄적 표현을 활용하여 시간의 급박한 흐름을 보여 주고 있다.</li>
-    <li id="q43-5">⑤ 대조적인 소재를 사용하여 화자의 달라진 처지를 강조하고 있다.</li></ul>
+ <li id="q43-2">② 공감각적 심상을 활용하여 대상에 입체감을 부여하고 있다.</li>
+ <li id="q43-3">③ 자연물에 상징적 의미를 부여하여 주제 의식을 드러내고 있다.</li>
+ <li id="q43-4">④ 영탄적 표현을 활용하여 시간의 급박한 흐름을 보여 주고 있다.</li>
+ <li id="q43-5">⑤ 대조적인 소재를 사용하여 화자의 달라진 처지를 강조하고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)의 표현상 공통점을 본다.</p><p>(가) ‘해바라기’(생명), (나) ‘낙타’(초연) 등 자연물에 상징적 의미를 부여해 주제 의식을 드러낸다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>도치 공통 아님.</td></tr><tr><td>②</td><td>오답</td><td>공감각 공통 아님.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>자연물의 상징으로 주제 의식.</td></tr><tr><td>④</td><td>오답</td><td>영탄으로 급박함 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>대조적 소재 공통 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob44">
   <p class="q-stem">44. ㉠～㉤의 시적 기능에 대한 설명으로 적절하지 않은 것은?</p>
   <ul class="q-opts"><li id="q44-1">① ㉠의 청유형을 반복하여 ‘해바라기 씨’를 심는 행위를 의미 있게 생각하는 인식을 드러내고 있다.</li>
-    <li id="q44-2">② ㉡의 행위를 반복하여 ‘해바라기’ 꽃을 피우기 위해 여럿의 노력이 필요하다는 인식을 드러내고 있다.</li>
-    <li id="q44-3">③ ㉢에서 시간의 경과를 제시하여 ‘해바라기’가 ‘고개를’ 들기까지 기다리지 못해 단념하는 ‘우리’의 상황을 드러내고 있다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
-    <li id="q44-4">④ ㉣에서 유사한 속성의 시어를 나열하여 ‘저승길’을 ‘낙타’와 동행하고 싶은 이유를 부각하고 있다.</li>
-    <li id="q44-5">⑤ ㉤을 수식어로 반복하여 ‘길동무’로 삼고 싶은 사람의 특징을 강조하려는 의도를 드러내고 있다.</li></ul>
+ <li id="q44-2">② ㉡의 행위를 반복하여 ‘해바라기’ 꽃을 피우기 위해 여럿의 노력이 필요하다는 인식을 드러내고 있다.</li>
+ <li id="q44-3">③ ㉢에서 시간의 경과를 제시하여 ‘해바라기’가 ‘고개를’ 들기까지 기다리지 못해 단념하는 ‘우리’의 상황을 드러내고 있다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
+ <li id="q44-4">④ ㉣에서 유사한 속성의 시어를 나열하여 ‘저승길’을 ‘낙타’와 동행하고 싶은 이유를 부각하고 있다.</li>
+ <li id="q44-5">⑤ ㉤을 수식어로 반복하여 ‘길동무’로 삼고 싶은 사람의 특징을 강조하려는 의도를 드러내고 있다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 시어 ㉠~㉤의 기능을 본다.</p><p>㉢은 ‘사흘이 지났다’는 시간의 경과를 제시해 ‘해바라기’가 고개를 들기까지의 기다림을 드러낸다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 청유형 반복 효과 부정확.</td></tr><tr><td>②</td><td>오답</td><td>㉡ 행위 반복 효과 부정확.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢ 시간 경과=기다림.</td></tr><tr><td>④</td><td>오답</td><td>㉣ 시어 나열 효과 부정확.</td></tr><tr><td>⑤</td><td>오답</td><td>㉤ 수식어 반복 효과 부정확.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob45">
   <p class="q-stem">45.&lt;보기&gt;를 바탕으로 (나)를 감상한 내용으로 적절하지 않은 것은? [3점] <span class="q-rate">오답률 45.5%</span></p>
   <div class="q-bogi">
-    <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p>｢낙타｣의 화자는 자연 현상인 죽음을 부정하지 않고 담담하게 받아들이면서, 죽음과 삶 사이의 경계를 초월하여 회귀의 구조로 삶과 죽음을 바라본다. 이 과정에서 화자는 이승에서의 자기 삶을 돌아보고, 자기 삶의 모습이 자신이 추구하는 모습과 다름을 인식한다. 또한 화자 자신이 닮고자 하는 대상처럼 살아온 사람에 대한 긍정적 인식을 바탕으로 그 사람과 함께하고 싶은 마음을 드러내기도 한다.</p>
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>｢낙타｣의 화자는 자연 현상인 죽음을 부정하지 않고 담담하게 받아들이면서, 죽음과 삶 사이의 경계를 초월하여 회귀의 구조로 삶과 죽음을 바라본다. 이 과정에서 화자는 이승에서의 자기 삶을 돌아보고, 자기 삶의 모습이 자신이 추구하는 모습과 다름을 인식한다. 또한 화자 자신이 닮고자 하는 대상처럼 살아온 사람에 대한 긍정적 인식을 바탕으로 그 사람과 함께하고 싶은 마음을 드러내기도 한다.</p>
   </div>
   <ul class="q-opts"><li id="q45-1">① ‘손 저어 대답’하는 것에는 자연 현상인 죽음을 담담하게 수용하라는 ‘누군가’의 말을 외면하려는 마음이 담겨 있군.<a class="src-tag ans" href="#ev45">정답 근거</a></li>
-    <li id="q45-2">② ‘다시 세상에 나’간다는 것에는 죽음과 삶 사이의 경계를 초월하여 죽음과 삶을 보는 시각이 전제되어 있군.</li>
-    <li id="q45-3">③ ‘낙타가 되어 가겠’다는 것은 삶의 세계로의, ‘돌아’온다는 것은 죽음의 세계로의 회귀를 나타내는군.</li>
-    <li id="q45-4">④ ‘별과 달과 해와/ 모래만 보고 살’겠다는 것에는 ‘슬픔도 아픔도’ 있었던 이승에서의 삶과 다르게 살고 싶은 바람이 드러나 있군.</li>
-    <li id="q45-5">⑤ ‘등에 업고 오겠’다는 것에는 ‘낙타’처럼 살아온 사람에 대한 긍정적 인식이 반영되어 있군.
+ <li id="q45-2">② ‘다시 세상에 나’간다는 것에는 죽음과 삶 사이의 경계를 초월하여 죽음과 삶을 보는 시각이 전제되어 있군.</li>
+ <li id="q45-3">③ ‘낙타가 되어 가겠’다는 것은 삶의 세계로의, ‘돌아’온다는 것은 죽음의 세계로의 회귀를 나타내는군.</li>
+ <li id="q45-4">④ ‘별과 달과 해와/ 모래만 보고 살’겠다는 것에는 ‘슬픔도 아픔도’ 있었던 이승에서의 삶과 다르게 살고 싶은 바람이 드러나 있군.</li>
+ <li id="q45-5">⑤ ‘등에 업고 오겠’다는 것에는 ‘낙타’처럼 살아온 사람에 대한 긍정적 인식이 반영되어 있군.
 * 확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(죽음의 수용)로 감상한다.</p><p>‘손 저어 대답’하는 것에는 자연 현상인 죽음을 담담하게 받아들이는 태도가 담겨 있다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">적절</td><td>손 저어 대답=담담한 수용.</td></tr><tr><td>②</td><td>오답</td><td>경계 해석 부정확.</td></tr><tr><td>③</td><td>오답</td><td>방향 해석 부정확.</td></tr><tr><td>④</td><td>오답</td><td>‘슬픔도’ 해석 부정확.</td></tr><tr><td>⑤</td><td>오답</td><td>‘업고 오겠’ 해석 부정확.</td></tr></tbody></table></div></details>
 </div>
