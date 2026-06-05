@@ -266,7 +266,7 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[16 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>(가)<span class="ev ans" id="ev16"> 고전적 기술철학은 개별적인 기술 하나하나에 관심을 두기보다는 포괄적인 기술 일반에 주목하면서 현대 기술에 대해 비판적으로 고찰하였다.</span><a class="ev-tag ans" href="#q16-5">16-⑤</a> 고전적 기술철학의 대표적인 철학자로 엘륄과 마르쿠제가 있다. 엘륄은 자율적 기술론의 관점에서 현대 기술의 특징에 주목하여 기술이 사회를 어떻게 지배하고 있는가를 보여 주었다. 자율적 기술론은 도구적 기술론과 대비된다. 도구적 기술론에서 기술은 가치 중립적인 것으로, 인간이 정한 목적을 ⓐ달성하기 위한 수단으로 취급된다. 이와 달리 엘륄은 기술이 인간의 통제를 벗어나 자율적인 것이 되어 버렸다고 주장한다. 기술은 오직 효율성이라는 기준에 의해서만 움직이므로, 기술의 발달은 인간의 선택이 아니라 기술 자체의 효율성을 바탕으로 자동적이며 불가역적으로 이루어진다는 것이다. 이는 자율적인 기술 앞에서 인간의 자율성은 존재하지 않게 되며 전통적 의미에서 주체와 객체의 관계였던 인간과 기술의 관계가 역전되었음을 의미한다. 또한 엘륄은 기술에 대한 인간의 근거 없는 신뢰가 일반화되고 인간이 기술의 지배에 대한 비판력을 상실하게 되어 사회가 인간 소외에 직면할 것임을 경고하였다. 엘륄은 이러한 상황에서 인간이 취할 수 있는 태도는 자율성을 상실했다는 사실을 겸허하게 인정하는 것뿐이라고 하였다. 마르쿠제는 일차원적 사회에 대한 비판을 중심으로 기술의 발달로 인해 발생한 인간과 사회의 위기 상황을 분석하였다. 일차원적 사회란 인간의 비판 능력을 ⓑ제거함으로써 자연스럽게 인간을 억압하여 존속되는 사회를 의미한다. 일차원적 사회에서 기술은 구성원을 효율적으로 통제하기 위한 지배 이데올로기가 된다. 즉, 기술이 산업과 권력의 제도적 주도권을 쥐고 있는 주체들에게 이익을 제공하면서 잘못된 현실을 정당화하는 방법이 되었다는 것이다. 마르쿠제에 따르면 산업 혁명 초기에 인간은 기술을 개발하여 고통스러운 노동에서 스스로 해방되었다. 그러나 기술이 고도화되고 산업 사회가 성장하면서 기술은 오히려 개인을 통제하는 방향으로 사용되었고,<span class="ev ans" id="ev17"> 그 결과 개별 주체는 내면의 자유를 박탈당했다.</span><a class="ev-tag ans" href="#q17-4">17-④</a> 기술의 창조자였던 인간이 비판적 사유를 하지 못하는 일차원적 인간으로 전락한 것이다. 따라서 그는 기술이 이미 사회를 지배하는 파괴적인 정치의 도구가 되었기 때문에 새로운 기술을 확립하기 위해서는 정치적 변화가 필요하다고 지적하였다. (나) 기술 일반에 대해 추상적으로 고민할 것이 아니라 실제 기술에 대한 경험적 연구를 수행해야 한다고 믿은 철학자들은 자신들의 시도를 ‘경험으로의 전환’이라고 불렀다.<span class="ev ans" id="ev20"> 이들은 고전적 기술철학자들이 기술이 초래한 문제들에 집착한 채, 기술을 외부에서만 관찰이 가능한 커다란 ㉠‘암흑 상자(black box)’로 취급해 왔다고 비판하였다.</span><a class="ev-tag ans" href="#q20-4">20-④</a> 그리고 개별 기술들의 내용과 발전 과정들을 구체적으로 분석하고 그 토대 위에서 철학적 사유가 진행되어야 한다고 보았다. 경험으로의 전환은 기술에 대한 서술적인 접근 방식과 규범적인 접근 방식으로 나누어 볼 수 있다. 우선,<span class="ev ans" id="ev21"> 서술적 접근 방식은 경험적 근거를 바탕으로 기술을 ⓒ세밀하게 관찰하여 기술이 가지는 특징들을 상세하게 분석하는 데 치중하는 것을 의미한다.</span><a class="ev-tag ans" href="#q21-3">21-③</a> 특히 돈 아이디는 일상에서 생생하게 감지되는 기술 그 자체, 곧 현상적 차원에서 기술의 역할에 주목하였다. 이를 통해 인간이 세계를 인식하는 틀에 미치는 기술의 영향을 분석하고 인간과 기술의 관계에 대해 탐구하였다. 그는 인간과 기술의 관계를 체현 관계, 해석 관계, 배경 관계로 설명한다. 먼저 체현 관계란 기술이 인간의 신체적 기능을 확장하는 역할을 하는 관계이다. 안경처럼 기술이 인간 몸의 일부와 같이 기능하는 것인데, 인간은 이러한 기술을 통해 세계를 경험하게 된다. 해석 관계는 기술이 해석을 필요로 하는 텍스트를 인간에게 제공하는 관계이다.<span class="ev ans" id="ev18"> 전자 현미경으로 미시 입자를 탐구하는 경우, 전자 현미경 속에 보이는 것은 세계에 관한 텍스트인 셈이며, 인간은 이를 해석하여 보이지 않는 세계에 대한 정보를 획득할 수 있다.</span><a class="ev-tag ans" href="#q18-2">18-②</a> 마지막으로 배경 관계는 기술이 인간의 삶이 영위되는 환경을 구성하는 것인데, 보일러와 같이 기술이 인간에게 마치 환경의 일부처럼 여겨지는 관계이다. 규범적 접근 방식은 기술이 야기한 문제에 대한 대안을 ⓓ모색하는 것을 의미한다. 규범적 접근 방식에서는 고전적 기술철학자들이 기술 사회의 문제와 상황의 심각성을 지적하면서도 구체적인 대안을 제시하지 않았다고 보았다. 핀버그는 사회구성주의자들의 이론을 토대로 기술의 민주화를 주장하였다. 사회구성주의자들에 따르면 기술의 발달은 효율성과 같은 일정한 법칙에 의해 이루어지는 것이 아니다. 그들은 특정 기술과 관련된 사회 집단의 상호 작용에 의해 여러 가지 변화 가능한 방향 중 하나가 무의식적이고 우연적으로 선택되어 기술의 발달이 이루어진 것이라고 보았다. 핀버그는 이러한 우연성이 기술의 변화에 인간7 국어 영역이 개입할 여지가 충분하다는 것을 보여 주는 것이며 인간이 기술의 발달 방향을 긍정적으로 바꿀 수 있다고 역설하였다. 사회구성주의자들이 개별 기술의 발달 방식을 파악하는 데 ⓔ주력하여 기술의 발달 과정에 사회적 합의가 있다는 것을 발견하는 데 만족했다면, 핀버그는 기술코드를 민주적으로 바꾸어야 한다고 강조하며 기술 사회의 바람직한 발전 방향을 제안하였다. 여기서 기술코드란 기술이 정의되고 활용되는 방식으로, 디자인이나 그것이 수행하는 역할, 기술이 가지는 사회적 의미 등을 포괄하는 개념이다. 그는 기술에 대한 사회적 선택의 과정을 의식적 차원에서의 공론의 장으로 끌어내고, 보다 광범위한 집단이 선택권을 나누어 가지면서 기술 발달의 민주화를 위해 노력하는 것이 필요하다고 강조하였다.</p>
+  <p>(가)<span class="ev ans" id="ev16"> 고전적 기술철학은 개별적인 기술 하나하나에 관심을 두기보다는 포괄적인 기술 일반에 주목하면서 현대 기술에 대해 비판적으로 고찰하였다.</span><a class="ev-tag ans" href="#q16-5">16-⑤</a> 고전적 기술철학의 대표적인 철학자로 엘륄과 마르쿠제가 있다. 엘륄은 자율적 기술론의 관점에서 현대 기술의 특징에 주목하여 기술이 사회를 어떻게 지배하고 있는가를 보여 주었다. 자율적 기술론은 도구적 기술론과 대비된다. <span class="ev" id="ev-q17-2">도구적 기술론에서 기술은 가치 중립적인 것으로, 인간이 정한 목적을</span><a class="ev-tag" href="#q17-2">17-②</a> ⓐ달성하기 위한 수단으로 취급된다. 이와 달리 엘륄은 기술이 인간의 통제를 벗어나 자율적인 것이 되어 버렸다고 주장한다. 기술은 오직 효율성이라는 기준에 의해서만 움직이므로, 기술의 발달은 인간의 선택이 아니라 기술 자체의 효율성을 바탕으로 자동적이며 불가역적으로 이루어진다는 것이다. 이는 <span class="ev" id="ev-q17-3">자율적인 기술 앞에서 인간의 자율성은 존재하지 않게 되며</span><a class="ev-tag" href="#q17-3">17-③</a> 전통적 의미에서 주체와 객체의 관계였던 인간과 기술의 관계가 역전되었음을 의미한다. 또한 엘륄은 기술에 대한 인간의 근거 없는 신뢰가 일반화되고 <span class="ev" id="ev-q17-5">인간이 기술의 지배에 대한 비판력을 상실하게 되어</span><a class="ev-tag" href="#q17-5">17-⑤</a> 사회가 인간 소외에 직면할 것임을 경고하였다. 엘륄은 이러한 상황에서 인간이 취할 수 있는 태도는 자율성을 상실했다는 사실을 겸허하게 인정하는 것뿐이라고 하였다. 마르쿠제는 일차원적 사회에 대한 비판을 중심으로 기술의 발달로 인해 발생한 인간과 사회의 위기 상황을 분석하였다. 일차원적 사회란 인간의 비판 능력을 ⓑ제거함으로써 자연스럽게 인간을 억압하여 존속되는 사회를 의미한다. 일차원적 사회에서 기술은 구성원을 효율적으로 통제하기 위한 지배 이데올로기가 된다. 즉, 기술이 산업과 권력의 제도적 주도권을 쥐고 있는 주체들에게 이익을 제공하면서 잘못된 현실을 정당화하는 방법이 되었다는 것이다. 마르쿠제에 따르면 산업 혁명 초기에 인간은 기술을 개발하여 고통스러운 노동에서 스스로 해방되었다. 그러나 기술이 고도화되고 산업 사회가 성장하면서 기술은 오히려 개인을 통제하는 방향으로 사용되었고,<span class="ev ans" id="ev17"> 그 결과 개별 주체는 내면의 자유를 박탈당했다.</span><a class="ev-tag ans" href="#q17-4">17-④</a> 기술의 창조자였던 인간이 비판적 사유를 하지 못하는 일차원적 인간으로 전락한 것이다. 따라서 그는 <span class="ev" id="ev-q17-1">기술이 이미 사회를 지배하는 파괴적인 정치의 도구가 되었기 때문에 새로운 기술을 확립하기 위해서는 정치적 변화가 필요하다고 지적하였다.</span><a class="ev-tag" href="#q17-1">17-①</a> (나) 기술 일반에 대해 추상적으로 고민할 것이 아니라 실제 기술에 대한 경험적 연구를 수행해야 한다고 믿은 철학자들은 자신들의 시도를 ‘경험으로의 전환’이라고 불렀다.<span class="ev ans" id="ev20"> 이들은 고전적 기술철학자들이 기술이 초래한 문제들에 집착한 채, 기술을 외부에서만 관찰이 가능한 커다란 ㉠‘암흑 상자(black box)’로 취급해 왔다고 비판하였다.</span><a class="ev-tag ans" href="#q20-4">20-④</a> 그리고 개별 기술들의 내용과 발전 과정들을 구체적으로 분석하고 그 토대 위에서 철학적 사유가 진행되어야 한다고 보았다. 경험으로의 전환은 기술에 대한 서술적인 접근 방식과 규범적인 접근 방식으로 나누어 볼 수 있다. 우선,<span class="ev ans" id="ev21"> 서술적 접근 방식은 경험적 근거를 바탕으로 기술을 ⓒ세밀하게 관찰하여 기술이 가지는 특징들을 상세하게 분석하는 데 치중하는 것을 의미한다.</span><a class="ev-tag ans" href="#q21-3">21-③</a> 특히 돈 아이디는 일상에서 생생하게 감지되는 기술 그 자체, 곧 현상적 차원에서 기술의 역할에 주목하였다. 이를 통해 인간이 세계를 인식하는 틀에 미치는 기술의 영향을 분석하고 인간과 기술의 관계에 대해 탐구하였다. 그는 인간과 기술의 관계를 체현 관계, 해석 관계, 배경 관계로 설명한다. 먼저 <span class="ev" id="ev-q18-1">체현 관계란 기술이 인간의 신체적 기능을 확장하는 역할을 하는 관계이다.</span><a class="ev-tag" href="#q18-1">18-①</a> 안경처럼 기술이 인간 몸의 일부와 같이 기능하는 것인데, 인간은 이러한 기술을 통해 세계를 경험하게 된다. 해석 관계는 기술이 해석을 필요로 하는 텍스트를 인간에게 제공하는 관계이다.<span class="ev ans" id="ev18"> 전자 현미경으로 미시 입자를 탐구하는 경우, 전자 현미경 속에 보이는 것은 세계에 관한 텍스트인 셈이며, 인간은 이를 해석하여 보이지 않는 세계에 대한 정보를 획득할 수 있다.</span><a class="ev-tag ans" href="#q18-2">18-②</a> 마지막으로 배경 관계는 기술이 인간의 삶이 영위되는 환경을 구성하는 것인데, 보일러와 같이 기술이 인간에게 마치 환경의 일부처럼 여겨지는 관계이다. 규범적 접근 방식은 기술이 야기한 문제에 대한 대안을 ⓓ모색하는 것을 의미한다. 규범적 접근 방식에서는 고전적 기술철학자들이 기술 사회의 문제와 상황의 심각성을 지적하면서도 구체적인 대안을 제시하지 않았다고 보았다. 핀버그는 사회구성주의자들의 이론을 토대로 기술의 민주화를 주장하였다. 사회구성주의자들에 따르면 기술의 발달은 효율성과 같은 일정한 법칙에 의해 이루어지는 것이 아니다. 그들은 <span class="ev" id="ev-q18-3">특정 기술과 관련된 사회 집단의 상호 작용에 의해 여러 가지 변화 가능한 방향 중 하나가 무의식적이고 우연적으로 선택되어</span><a class="ev-tag" href="#q18-3">18-③</a> 기술의 발달이 이루어진 것이라고 보았다. 핀버그는 이러한 우연성이 기술의 변화에 인간7 국어 영역이 개입할 여지가 충분하다는 것을 보여 주는 것이며 인간이 기술의 발달 방향을 긍정적으로 바꿀 수 있다고 역설하였다. 사회구성주의자들이 개별 기술의 발달 방식을 파악하는 데 ⓔ주력하여 기술의 발달 과정에 사회적 합의가 있다는 것을 발견하는 데 만족했다면, 핀버그는 기술코드를 민주적으로 바꾸어야 한다고 강조하며 기술 사회의 바람직한 발전 방향을 제안하였다. 여기서 <span class="ev" id="ev-q18-4">기술코드란 기술이 정의되고 활용되는 방식으로, 디자인이나 그것이 수행하는 역할, 기술이 가지는 사회적 의미 등을 포괄하는 개념이다.</span><a class="ev-tag" href="#q18-4">18-④</a> 그는 <span class="ev" id="ev-q18-5">기술에 대한 사회적 선택의 과정을 의식적 차원에서의 공론의 장으로 끌어내고</span><a class="ev-tag" href="#q18-5">18-⑤</a>, 보다 광범위한 집단이 선택권을 나누어 가지면서 기술 발달의 민주화를 위해 노력하는 것이 필요하다고 강조하였다.</p>
 </div>
 
 <div class="q-block" id="prob16">
@@ -276,53 +276,17 @@ layout: "exam"
     <li id="q16-3">③ (나)와 달리 (가)는 특정 기술철학자의 견해가 지닌 한계를 지적하고 있다.</li>
     <li id="q16-4">④ (가)와 (나)는 모두 기술을 바라보는 기술철학자의 논쟁을 소개하며 그 결과를 분석하고 있다.</li>
     <li id="q16-5">⑤ (가)와 (나)는 모두 기술철학이 주목하는 측면을 제시하고 대표적인 학자들의 견해를 소개하고 있다.<a class="src-tag ans" href="#ev16">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)·(나)의 서술 방식을 비교한다.</p><p>(가)는 기술 일반에 주목한 엘륄·마르쿠제, (나)는 개별 기술의 경험적 연구에 주목한 돈 아이디·핀버그의 견해를 소개한다. ‘주목 측면 제시 + 대표 학자 견해 소개’가 공통이므로 ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>(나)는 유형별 장단점 평가 안 함.</td></tr><tr><td>②</td><td>오답</td><td>상반 평가+절충 견해 없음.</td></tr><tr><td>③</td><td>오답</td><td>(가)는 학자 한계 지적 없음.</td></tr><tr><td>④</td><td>오답</td><td>논쟁·결과 분석 아님.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>주목 측면+대표 학자 견해 소개(공통).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob17">
   <p class="q-stem">17. (가)에서 알 수 있는 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q17-1">① 마르쿠제는 정치적 변화에 의해 기술의 변화가 가능하다고 보았다.</li>
-    <li id="q17-2">② 도구적 기술론에서는 인간의 의도와 목적이 기술의 사용 방향을 결정한다.</li>
-    <li id="q17-3">③ 엘륄의 입장에서는 자율적인 기술 앞에서 인간의 자율성은 존재하지 않는다.</li>
+  <ul class="q-opts"><li id="q17-1">① 마르쿠제는 정치적 변화에 의해 기술의 변화가 가능하다고 보았다.<a class="src-tag" href="#ev-q17-1">오답 근거</a></li>
+    <li id="q17-2">② 도구적 기술론에서는 인간의 의도와 목적이 기술의 사용 방향을 결정한다.<a class="src-tag" href="#ev-q17-2">오답 근거</a></li>
+    <li id="q17-3">③ 엘륄의 입장에서는 자율적인 기술 앞에서 인간의 자율성은 존재하지 않는다.<a class="src-tag" href="#ev-q17-3">오답 근거</a></li>
     <li id="q17-4">④ 일차원적 사회에서는 개별 주체가 억압에서 벗어나 내면적 자유를 보장받는다.<a class="src-tag ans" href="#ev17">정답 근거</a></li>
-    <li id="q17-5">⑤ 엘륄과 마르쿠제 모두 기술에 대한 인간의 비판적 사고가 상실되는 것을 우려하였다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+    <li id="q17-5">⑤ 엘륄과 마르쿠제 모두 기술에 대한 인간의 비판적 사고가 상실되는 것을 우려하였다.<a class="src-tag" href="#ev-q17-5">오답 근거</a></li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)에서 ‘일차원적 사회’가 어떤 사회인지 본다.</p><p>일차원적 사회는 인간의 비판 능력을 제거해 인간을 <strong>억압</strong>하여 존속되는 사회다. ‘억압에서 벗어나 내면적 자유를 보장’받는다는 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>마르쿠제: 정치적 변화 필요.</td></tr><tr><td>②</td><td>적절</td><td>도구적 기술론: 목적 위한 수단.</td></tr><tr><td>③</td><td>적절</td><td>엘륄: 자율 기술 앞 인간 자율성 없음.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>일차원적 사회=억압(자유 보장 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>엘륄·마르쿠제 모두 비판력 상실 우려.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob18">
@@ -331,30 +295,12 @@ layout: "exam"
     <p class="bogi-label">&lt; 보 기 &gt;</p>
     <p>자전거가 처음 개발되었을 때, 사용자와 기술자들이 자전거의 용도를 각기 다르게 파악하여 다양한 디자인의 자전거가 만들어졌다. 앞바퀴가 큰 자전거는, 자전거를 스포츠용품으로 파악한 사람들이 선호했다. 앞뒤 바퀴의 크기가 같은 자전거는, 자전거를 장보기용이나 교통수단으로 본 사람들이 원했다. 그런데 시간이 지나면서 자전거를 장보기용이나 교통수단으로 더 선호하게 되었다. 결국 자전거의 디자인은 앞뒤 바퀴가 같은 크기로 고정되는 방식으로 발달하였다.</p>
   </div>
-  <ul class="q-opts"><li id="q18-1">① 돈 아이디는 자전거가 사용자의 신체적 기능을 확장시키는 역할을 한다고 분석하겠군.</li>
+  <ul class="q-opts"><li id="q18-1">① 돈 아이디는 자전거가 사용자의 신체적 기능을 확장시키는 역할을 한다고 분석하겠군.<a class="src-tag" href="#ev-q18-1">오답 근거</a></li>
     <li id="q18-2">② 돈 아이디는 자전거 바퀴의 크기를 보이지 않는 세계를 해석할 수 있는 텍스트라고 보겠군.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
-    <li id="q18-3">③ 사회구성주의자들은 앞뒤 바퀴의 크기가 같은 자전거로 디자인이 고정되어 가는 과정을 설명하는 데 초점을 두겠군.</li>
-    <li id="q18-4">④ 핀버그는 자전거 앞뒤 바퀴의 크기, 자전거의 용도를 기술코드로 보겠군.</li>
-    <li id="q18-5">⑤ 핀버그는 자전거의 디자인을 선택하는 과정이 사회적으로 공론화되어야 한다고 보겠군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+    <li id="q18-3">③ 사회구성주의자들은 앞뒤 바퀴의 크기가 같은 자전거로 디자인이 고정되어 가는 과정을 설명하는 데 초점을 두겠군.<a class="src-tag" href="#ev-q18-3">오답 근거</a></li>
+    <li id="q18-4">④ 핀버그는 자전거 앞뒤 바퀴의 크기, 자전거의 용도를 기술코드로 보겠군.<a class="src-tag" href="#ev-q18-4">오답 근거</a></li>
+    <li id="q18-5">⑤ 핀버그는 자전거의 디자인을 선택하는 과정이 사회적으로 공론화되어야 한다고 보겠군.<a class="src-tag" href="#ev-q18-5">오답 근거</a></li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 돈 아이디의 세 관계(체현·해석·배경)와 핀버그 개념을 자전거에 적용한다.</p><p>‘해석 관계’의 텍스트는 전자 현미경처럼 <strong>보이지 않는 세계</strong>를 해석하게 하는 것이다. 자전거 바퀴 크기는 그런 텍스트가 아니므로 ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>체현 관계(신체 기능 확장).</td></tr><tr class="correct"><td>②</td><td class="ok">부적절</td><td>자전거 바퀴≠해석 텍스트(해석 관계 오적용).</td></tr><tr><td>③</td><td>적절</td><td>사회구성주의=디자인 고정 과정 초점.</td></tr><tr><td>④</td><td>적절</td><td>기술코드(디자인·역할·의미).</td></tr><tr><td>⑤</td><td>적절</td><td>핀버그=사회적 선택의 공론화.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob19">
@@ -368,25 +314,7 @@ layout: "exam"
     <li id="q19-3">③ ㄴ은 엘륄과 달리, 기술이 초래한 결과를 바탕으로 기술의 의미를 파악하고 있다.</li>
     <li id="q19-4">④ ㄷ과 핀버그 모두, 기술이 야기한 문제를 해결해야 할 과제로 인식하고 있다.</li>
     <li id="q19-5">⑤ ㄷ은 엘륄과 달리, 인간이 기술의 발전을 정치적으로 제어할 수 있다고 본다. 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉 ㄱ·ㄴ·ㄷ과 본문 학자들의 관점을 견준다.</p><p>ㄴ은 기술의 의의를 ‘자연으로부터의 해방(자유)’으로 본다. ‘기술이 초래한 <strong>결과</strong>를 바탕으로 의미를 파악’하는 것은 고전적 기술철학 쪽이므로, ㄴ을 그렇게 본 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>ㄱ·돈 아이디: 기술이 의식에 영향.</td></tr><tr><td>②</td><td>적절</td><td>ㄴ·마르쿠제: 기술이 편의 제공.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>ㄴ은 ‘자유’가 의의 — 결과 바탕 의미 파악 아님.</td></tr><tr><td>④</td><td>적절</td><td>ㄷ·핀버그: 문제 해결 과제로 인식.</td></tr><tr><td>⑤</td><td>적절</td><td>ㄷ·(엘륄과 달리) 정치적 제어 가능.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob20">
@@ -396,25 +324,7 @@ layout: "exam"
     <li id="q20-3">③ 기술을 막연한 것으로 인식하지 않고 실체를 가진 것으로 인식한다.</li>
     <li id="q20-4">④ 기술 자체에 대해서 모르는 채 기술로 인해 생기는 상황에만 집착한다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
     <li id="q20-5">⑤ 기술의 변화에 대한 두려움에 연연하여 기술에 대해 분석하기를 꺼린다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠ ‘암흑 상자’가 무엇을 빗댄 말인지 본다.</p><p>경험으로의 전환 철학자들은 고전적 기술철학이 ‘기술 자체는 모른 채 기술이 초래한 문제(상황)에만 집착’했다고 비판하며 그 태도를 ‘암흑 상자’라 했다. ④.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>경험적 연구 수행은 ㉠의 비판 대상이 아님.</td></tr><tr><td>②</td><td>오답</td><td>개별 기술 분석 치중은 다른 내용.</td></tr><tr><td>③</td><td>오답</td><td>실체로 인식함은 ㉠의 반대.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>기술 자체 모른 채 상황에만 집착.</td></tr><tr><td>⑤</td><td>오답</td><td>두려움에 분석을 꺼림은 아님.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob21">
@@ -424,25 +334,7 @@ layout: "exam"
     <li id="q21-3">③ ⓒ: 빠르게<a class="src-tag ans" href="#ev21">정답 근거</a></li>
     <li id="q21-4">④ ⓓ: 찾는</li>
     <li id="q21-5">⑤ ⓔ: 힘써</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 밑줄 어휘를 문맥에 맞는 말로 바꿔 본다.</p><p>ⓒ ‘세밀하게’는 ‘자세하게’의 뜻이다. ‘빠르게’는 속도의 뜻이라 바꿔 쓸 수 없으므로 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>달성하기=이루기.</td></tr><tr><td>②</td><td>적절</td><td>제거함=없앰.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>세밀하게≠빠르게(자세하게).</td></tr><tr><td>④</td><td>적절</td><td>모색하는=찾는.</td></tr><tr><td>⑤</td><td>적절</td><td>주력하여=힘써.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set6" class="set-anchor"></div>
