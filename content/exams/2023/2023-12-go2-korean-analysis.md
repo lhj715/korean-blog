@@ -189,25 +189,7 @@ layout: "exam"
     <li id="q11-3">③ ‘읊다[읍따]’는 ㉠과 ㉡이 모두 적용되며, ⓐ에 해당한다.<a class="src-tag ans" href="#ev11">정답 근거</a></li>
     <li id="q11-4">④ ‘솜이불[솜ː니불]’은 ㉠과 ㉡ 중 어떤 것도 적용되지 않으며, ⓐ에 해당한다.</li>
     <li id="q11-5">⑤ ‘훑어[훌터]’는 ㉠과 ㉡ 중 어떤 것도 적용되지 않으며, ⓑ에 해당한다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠(겹받침 탈락)·㉡(7종성 외 교체)·ⓐ(음운변동→유형 변화)·ⓑ(연음→유형 변화)를 단어에 적용한다.</p><p>‘읊다[읍따]’는 ㉠(ㄿ→탈락)·㉡(교체)이 모두 적용되지만 ‘읊’(자+모+자)→‘읍’(자+모+자)으로 <strong>음절 유형은 그대로</strong>다. ⓐ에 해당한다는 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>흙화덕[흐콰덕]: ㉠ 탈락+축약으로 유형 변화→ⓐ.</td></tr><tr><td>②</td><td>적절</td><td>낱알[나ː달]: ㉡ 교체+연음→ⓑ.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>읊다: ㉠·㉡ 적용되나 음절 유형 불변(ⓐ 아님).</td></tr><tr><td>④</td><td>적절</td><td>솜이불[솜ː니불]: ㄴ첨가로 유형 변화→ⓐ.</td></tr><tr><td>⑤</td><td>적절</td><td>훑어[훌터]: 연음으로 유형 변화→ⓑ.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob12">
@@ -227,25 +209,7 @@ layout: "exam"
 밥물[밤물]</li>
     <li id="q12-5">⑤ 국민[궁민]
 난리[날ː리]</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 앞 음절 종성과 뒤 음절 초성의 공명도 관계로 교체 여부를 본다.</p><p>‘삭막[상막]’은 앞 종성 ‘ㄱ’의 공명도가 뒤 초성 ‘ㅁ’보다 낮아, ‘ㄱ’이 ‘ㅇ’으로 <strong>교체</strong>(비음화)된다. 이 조건에 해당하는 예는 ①이다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>삭막[상막]: 종성 공명도<초성→교체.</td></tr><tr><td>②~⑤</td><td>—</td><td>각 단어의 교체 양상을 [A]의 공명도 규칙으로 대조(해설 기준).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob13">
@@ -264,25 +228,7 @@ layout: "exam"
 ㉡: 그 일이 있고 난 뒤부터 그가 다시 예전처럼 보였다.</li>
     <li id="q13-5">⑤ ㉠: 직원이 일을 잘못 처리해서 회사에 손해만 안겼다.
 ㉡: 막냇동생은 자기가 들고 있던 짐마저 나에게 안겼다.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 같은 형태 ‘잡히다’가 피동인지 사동인지 문장 쓰임으로 가른다.</p><p>②㉠ ‘약점을 잡혔다’의 ‘잡히다’는 <strong>피동</strong>(문제로 삼아지다), ㉡ ‘담보로 잡혔다’는 <strong>사동</strong>(맡기다)이다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘불렸다’ 짝이 피동/사동 구분에 안 맞음.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>㉠ 잡히다=피동 / ㉡ 잡히다=사동.</td></tr><tr><td>③</td><td>오답</td><td>‘들리다’ 짝 구분 어긋남.</td></tr><tr><td>④</td><td>오답</td><td>‘보이다’ 짝 구분 어긋남.</td></tr><tr><td>⑤</td><td>오답</td><td>‘안기다’ 짝 구분 어긋남.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob14">
@@ -297,25 +243,7 @@ layout: "exam"
     <li id="q14-4">④ ‘형은’에는 ㉠, ㉢에 속하는 형태소만 있다.</li>
     <li id="q14-5">⑤ ‘젖어’와 ‘추었다’에는 ㉡, ㉢에 속하는 형태소만 있다.
 [A] 영역</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 각 형태소를 자립/의존·실질/형식으로 분류한다(㉠실질·자립 ㉡실질·의존 ㉢형식·의존).</p><p>‘기쁨’=‘기쁘-’(㉡)+‘-ㅁ’(㉢), ‘춤’=‘추-’(㉡)+‘-ㅁ’(㉢)이다. ㉠(실질·자립) 형태소는 없으므로 ‘㉠만 있다’는 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>‘비로소’·‘것’=실질·자립(㉠).</td></tr><tr><td>②</td><td>적절</td><td>‘바라-’·‘이루-’=실질·의존(㉡).</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>기쁨·춤=㉡+㉢(㉠ 없음).</td></tr><tr><td>④</td><td>적절</td><td>‘형’(㉠)+‘은’(㉢).</td></tr><tr><td>⑤</td><td>적절</td><td>‘젖어’·‘추었다’=㉡+㉢.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob15">
@@ -329,25 +257,7 @@ layout: "exam"
     <li id="q15-3">③ ‘어리오’를 보니, ‘어리다’가 현대 국어와 다른 의미로 쓰였음을 알 수 있군.</li>
     <li id="q15-4">④ ‘사’를 보니, 현대 국어의 관형격 조사 ‘의’가 양성 모음 뒤에서 ‘’의 형태로 쓰였음을 알 수 있군.</li>
     <li id="q15-5">⑤ ‘닙고’를 보니, 현대 국어와 달리 단어의 첫머리에서 두음법칙이 적용되지 않았음을 알 수 있군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 중세 국어 자료의 표기·문법 특징을 현대 국어와 비교한다.</p><p>‘보샤’의 ‘-샤-’는 <strong>주체 높임</strong> 선어말 어미다. ‘객체를 높이기 위해’ 썼다는 ①이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">부적절</td><td>‘-샤-’=주체 높임(객체 아님).</td></tr><tr><td>②</td><td>적절</td><td>‘ㆍ’·‘ㅸ’ 표기 사용.</td></tr><tr><td>③</td><td>적절</td><td>‘어리다’=어리석다(의미 변화).</td></tr><tr><td>④</td><td>적절</td><td>양성 모음 뒤 관형격 ‘ᄋᆡ’.</td></tr><tr><td>⑤</td><td>적절</td><td>두음법칙 미적용(‘닙고’).</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set5" class="set-anchor"></div>
