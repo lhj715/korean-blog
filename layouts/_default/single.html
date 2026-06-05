@@ -30,8 +30,8 @@ document.addEventListener('click', function(e){
     scrollToEl(document.getElementById('prob' + m[1]));    // 문제 시작 블록
     var opt = document.getElementById(optId);
     if(opt){
-      document.querySelectorAll('.opt-hl').forEach(function(el){ el.classList.remove('opt-hl'); });
-      opt.classList.add('opt-hl');
+      document.querySelectorAll('.opt-hl,.opt-hl-ans').forEach(function(el){ el.classList.remove('opt-hl','opt-hl-ans'); });
+      opt.classList.add(a.classList.contains('ans') ? 'opt-hl-ans' : 'opt-hl');
     }
     return;
   }

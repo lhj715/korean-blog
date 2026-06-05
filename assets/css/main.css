@@ -314,6 +314,7 @@ a:hover{text-decoration:underline}
 .q-opts li::before{display:none!important}
 .q-opts li[id],.q-plan p[id]{border-radius:3px;transition:background .35s,box-shadow .35s}
 .q-opts li.opt-hl,.q-plan p.opt-hl{background:#e8f1fb;box-shadow:0 0 0 6px #e8f1fb}
+.q-opts li.opt-hl-ans,.q-plan p.opt-hl-ans{background:#e7f5ec;box-shadow:0 0 0 6px #e7f5ec}
 a.ev-tag{cursor:pointer;text-decoration:none}
 a.ev-tag:hover{background:#16487d}
 .src-tag{display:inline-block;font-size:10.5px;font-weight:700;color:var(--ev);background:#eaf1fb;
