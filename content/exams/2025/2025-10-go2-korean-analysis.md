@@ -31,8 +31,8 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>안녕하세요? ○○○입니다. 오늘은 독특한 번식 전략을 지닌 해양 생물들을 소개하겠습니다.</p>
-  <p>첫 번째로 심해 아귀. 개체 수가 적어 암수가 만나기 어렵습니다. (㉠ 자료 제시) 수컷은 짝을 찾으면 암컷을 물고 놓지 않고, <span class="ev ans" id="ev4">수컷의 피부·혈관이 암컷과 융합되어 마치 한 몸처럼 됩니다.</span><a class="ev-tag" href="#q2-1">2-①</a><a class="ev-tag" href="#q1-1">1-①</a><a class="ev-tag ans" href="#q4-5">4-⑤</a> 수컷은 혈관으로 평생 영양분을 받고 정자를 제공합니다.</p>
-  <p>다음으로 해마. 수컷이 임신·출산을 담당합니다. <span class="ev ans" id="ev1">이게 어떻게 가능한 일일까요? (㉡ 자료 제시) 배 부분의 ‘육아낭’ 덕분에 수컷이 임신·출산을 할 수 있습니다.</span><a class="ev-tag ans" href="#q1-4">1-④</a><a class="ev-tag" href="#q2-2">2-②</a><a class="ev-tag" href="#q1-2">1-②</a><a class="ev-tag" href="#q1-3">1-③</a><a class="ev-tag" href="#q1-5">1-⑤</a><a class="ev-tag" href="#q3-1">3-①</a><a class="ev-tag" href="#q3-2">3-②</a><a class="ev-tag" href="#q3-3">3-③</a> 암컷이 육아낭에 산란하면 수정·발달을 거쳐 새끼가 되고, <span class="ev" id="ev5">육아낭 내부의 ‘내층’은 배아를 감싸 외부 충격으로부터 보호합니다.</span><a class="ev-tag" href="#q2-3">2-③</a></p>
+  <p>첫 번째로 심해 아귀. 개체 수가 적어 암수가 만나기 어렵습니다. (㉠ 자료 제시) 수컷은 짝을 찾으면 암컷을 물고 놓지 않고, <span class="ev ans" id="ev4">수컷의 피부·혈관이 암컷과 융합되어 마치 한 몸처럼 됩니다.</span><a class="ev-tag" href="#q2-1">2-①</a><a class="ev-tag ans" href="#q4-5">4-⑤</a> 수컷은 혈관으로 평생 영양분을 받고 정자를 제공합니다.</p>
+  <p>다음으로 해마. 수컷이 임신·출산을 담당합니다. <span class="ev ans" id="ev1">이게 어떻게 가능한 일일까요? (㉡ 자료 제시) 배 부분의 ‘육아낭’ 덕분에 수컷이 임신·출산을 할 수 있습니다.</span><a class="ev-tag ans" href="#q1-4">1-④</a><a class="ev-tag" href="#q2-2">2-②</a><a class="ev-tag" href="#q3-1">3-①</a><a class="ev-tag" href="#q3-2">3-②</a><a class="ev-tag" href="#q3-3">3-③</a> 암컷이 육아낭에 산란하면 수정·발달을 거쳐 새끼가 되고, <span class="ev" id="ev5">육아낭 내부의 ‘내층’은 배아를 감싸 외부 충격으로부터 보호합니다.</span><a class="ev-tag" href="#q2-3">2-③</a></p>
   <p>마지막으로 용치놀래기. 한 수컷이 여러 암컷을 이끄는 무리 생활을 하는데, 수컷이 사라지면 (㉢ 자료 제시) <span class="ev ans" id="ev2">무리에서 가장 큰 암컷이 수컷으로 변하고, 몸에 수컷의 특징인 큰 점이 생깁니다.</span><a class="ev-tag ans" href="#q2-4">2-④</a><a class="ev-tag" href="#q2-5">2-⑤</a><a class="ev-tag" href="#q3-4">3-④</a><a class="ev-tag" href="#q3-5">3-⑤</a></p>
   <p>지금까지 해양 생물들의 독특한 번식 전략을 소개했습니다. 발표 마치겠습니다.</p>
 </div>
@@ -40,11 +40,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob1">
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q1-1">① 발표 내용과 관련된 청중의 경험을 환기하고 있다.<a class="src-tag" href="#ev4">지문 근거</a></li>
-    <li id="q1-2">② 청중의 이해도를 확인하며 발표를 마무리하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
-    <li id="q1-3">③ 대상에 대한 전문가의 평가를 직접 인용하여 제시하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-1">① 발표 내용과 관련된 청중의 경험을 환기하고 있다.</li>
+    <li id="q1-2">② 청중의 이해도를 확인하며 발표를 마무리하고 있다.</li>
+    <li id="q1-3">③ 대상에 대한 전문가의 평가를 직접 인용하여 제시하고 있다.</li>
     <li id="q1-4">④ 질문하고 답하는 방식을 사용하여 발표 내용을 전달하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li>
-    <li id="q1-5">⑤ 도입부에서 발표를 하게 된 소감을 밝히며 발표를 시작하고 있다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-5">⑤ 도입부에서 발표를 하게 된 소감을 밝히며 발표를 시작하고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -162,7 +162,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가) 학생회 회의 · (나) 공연 팀에 보내는 답장 초고.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="dt2"><b>(가)</b> 회의</p>
-  <p class="dlg"><b>학생1:</b> <span class="ev ans" id="ev9">오늘은 답장에 들어갈 내용을 정하기 위해 회의를 하려고 해.</span><a class="ev-tag" href="#q4-1">4-①</a><a class="ev-tag" href="#q5-1">5-①</a><a class="ev-tag" href="#q7-1">7-①</a><a class="ev-tag ans" href="#q9-4">9-④</a> <span class="ev ans" id="ev10">다들 내가 공유한 내용 보고 의견 정리해 왔지?</span><a class="ev-tag" href="#q4-2">4-②</a><a class="ev-tag" href="#q5-2">5-②</a><a class="ev-tag" href="#q7-2">7-②</a><a class="ev-tag ans" href="#q10-4">10-④</a> 먼저 편곡 곡과 창작곡 중 어떤 게 좋을까?</p>
+  <p class="dlg"><b>학생1:</b> <span class="ev ans" id="ev9">오늘은 답장에 들어갈 내용을 정하기 위해 회의를 하려고 해.</span><a class="ev-tag" href="#q4-1">4-①</a><a class="ev-tag" href="#q7-1">7-①</a><a class="ev-tag ans" href="#q9-4">9-④</a> <span class="ev ans" id="ev10">다들 내가 공유한 내용 보고 의견 정리해 왔지?</span><a class="ev-tag" href="#q4-2">4-②</a><a class="ev-tag" href="#q7-2">7-②</a><a class="ev-tag ans" href="#q10-4">10-④</a> 먼저 편곡 곡과 창작곡 중 어떤 게 좋을까?</p>
   <div class="seg"><span class="seg-label">[ A ]</span>
     <p class="dlg"><b>학생2:</b> 편곡 곡이 좋아. 대중가요에 국악을 가미하면 새롭겠어.</p>
     <p class="dlg"><b>학생3:</b> 난 창작곡이 더 새롭다고 생각해.</p>
@@ -172,7 +172,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="dlg"><b>학생1:</b> 좋아, 편곡 곡으로 정하자. <span class="ev" id="ev11">다음으로 구체적인 곡을 선택하자. … 마지막으로, 공연 중 영상을 보여 줄 수 있는지도 물어왔어.</span><a class="ev-tag" href="#q4-3">4-③</a><a class="ev-tag" href="#q7-3">7-③</a></p>
   <div class="seg"><span class="seg-label">[ B ]</span>
     <p class="dlg"><b>학생3:</b> 가능하긴 한데, 무대 조명이 밝아 영상이 흐리게 보일 거야.</p>
-    <p class="dlg"><b>학생2:</b> <span class="ev ans" id="ev13">그래, 영상이 흐리게 보일 거야. … 합창 동아리도 공연 중 영상을 보여 준다고 했어. 어떻게 할 건지 물어보자.</span><a class="ev-tag ans" href="#q5-4">5-④</a><a class="ev-tag" href="#q5-3">5-③</a><a class="ev-tag" href="#q5-5">5-⑤</a><a class="ev-tag ans" href="#q13-2">13-②</a></p>
+    <p class="dlg"><b>학생2:</b> <span class="ev ans" id="ev13">그래, 영상이 흐리게 보일 거야. … 합창 동아리도 공연 중 영상을 보여 준다고 했어. 어떻게 할 건지 물어보자.</span><a class="ev-tag ans" href="#q5-4">5-④</a><a class="ev-tag ans" href="#q13-2">13-②</a></p>
   </div>
   <p class="dlg"><b>학생1:</b> <span class="ev" id="ev12">설문 조사 결과는 내일까지 보내 줘.</span><a class="ev-tag" href="#q4-4">4-④</a><a class="ev-tag" href="#q7-4">7-④</a> 초고는 내가 써 올게.</p>
   <p class="dt2"><b>(나)</b> 답장 초고</p>
@@ -213,11 +213,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob5">
   <p class="q-stem">5. [A]·[B]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q5-1">① [A]에서 학생3은 학생2를 반박하며 객관적 자료를 제시한다.<a class="src-tag" href="#ev9">지문 근거</a></li>
-    <li id="q5-2">② [A]에서 학생3은 학생2 의견에 동의하며 구체적 근거로 자기 생각을 강조한다.<a class="src-tag" href="#ev10">지문 근거</a></li>
-    <li id="q5-3">③ [B]에서 학생2는 학생3을 긍정하며 자신의 견해를 수정한다.<a class="src-tag" href="#ev13">지문 근거</a></li>
+    <li id="q5-1">① [A]에서 학생3은 학생2를 반박하며 객관적 자료를 제시한다.</li>
+    <li id="q5-2">② [A]에서 학생3은 학생2 의견에 동의하며 구체적 근거로 자기 생각을 강조한다.</li>
+    <li id="q5-3">③ [B]에서 학생2는 학생3을 긍정하며 자신의 견해를 수정한다.</li>
     <li id="q5-4">④ [B]에서 학생2는 학생3의 말을 일부 재진술하며 알고 있는 정보를 덧붙인다.<a class="src-tag ans" href="#ev13">정답 근거</a></li>
-    <li id="q5-5">⑤ [A]·[B]의 학생3은 모두 고민을 언급하며 해결책을 제시한다.<a class="src-tag" href="#ev13">지문 근거</a></li>
+    <li id="q5-5">⑤ [A]·[B]의 학생3은 모두 고민을 언급하며 해결책을 제시한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -684,9 +684,9 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[16 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="src-label">(가) 데카르트</p>
-  <p>데카르트는 『방법서설』에서 이성을 올바로 사용해 학문의 진리를 구하는 방법을 논하며, 이성적 판단을 ⓐ<u>내리기</u> 위해서는 선입견을 초월해야 한다고 보았다. 선입견은 이성이라는 규준으로 타당성이 입증되지 않은 이해의 총체로, 전통·습관·관습·공동의 의견·다른 사람에게서 배운 지식 등 우리가 처한 삶의 환경을 가리킨다. <span class="ev ans" id="ev21">데카르트는 선입견을 배제한 상태여야 외부 권위에 의존하지 않은 판단, 즉 비관여적 판단을 통해 진리를 구할 수 있다고 주장한다.</span><a class="ev-tag" href="#q20-1">20-①</a><a class="ev-tag" href="#q16-3">16-③</a><a class="ev-tag" href="#q19-1">19-①</a><a class="ev-tag" href="#q21-1">21-①</a><a class="ev-tag ans" href="#q21-3">21-③</a></p>
-  <p>데카르트는 <span class="ev" id="ev-q17-1">선입견과 이성이 인간의 앎을 지배하려 끝없이 경쟁한다</span><a class="ev-tag" href="#q17-1">17-㉮</a>고 보았다. <span class="ev ans" id="ev22">우리는 스스로 감각한 것을 그대로 신뢰하는 성향이 있어 감각한 현상을 곧 실재라 여기지만, 데카르트는 이를 선입견으로 비판했다. 하나의 감각으로부터의 판단을 교정하는 것은 다른 감각이 아니라 오직 이성이다.</span><a class="ev-tag ans" href="#q17-3">17-㉰</a><a class="ev-tag" href="#q16-1">16-①</a><a class="ev-tag" href="#q16-4">16-④</a><a class="ev-tag" href="#q18-2">18-②</a><a class="ev-tag" href="#q19-2">19-②</a><a class="ev-tag" href="#q20-2">20-②</a><a class="ev-tag" href="#q21-2">21-②</a></p>
-  <p>데카르트의 관점에서 <span class="ev" id="ev-q17-2">우리의 판단은 이미 형성된 의견에 종속돼 오류가 생기기 쉽다.</span><a class="ev-tag" href="#q17-2">17-㉯</a> 그래서 그는 의심 가능한 모든 것을 의심하는 방법적 회의로 선입견을 제거해 ‘사유하는 자아’만 남겨야 한다고 했다. <span class="ev ans" id="ev24">사유하는 자아가 되면 이성을 규준으로 끊임없이 자신을 성찰하는 자기 인식을 할 수 있는데, 데카르트는 이를 교육의 목적으로 보았다.</span><a class="ev-tag" href="#q19-5">19-⑤</a><a class="ev-tag" href="#q16-5">16-⑤</a><a class="ev-tag" href="#q18-3">18-③</a><a class="ev-tag" href="#q19-3">19-③</a><a class="ev-tag ans" href="#q24-1">24-①</a> 교사의 역할은 지식을 일방적으로 전달하는 것이 아니라 학습자가 자기 인식을 하도록 돕는 데 있다.</p>
+  <p>데카르트는 『방법서설』에서 이성을 올바로 사용해 학문의 진리를 구하는 방법을 논하며, 이성적 판단을 ⓐ<u>내리기</u> 위해서는 선입견을 초월해야 한다고 보았다. 선입견은 이성이라는 규준으로 타당성이 입증되지 않은 이해의 총체로, 전통·습관·관습·공동의 의견·다른 사람에게서 배운 지식 등 우리가 처한 삶의 환경을 가리킨다. <span class="ev ans" id="ev21">데카르트는 선입견을 배제한 상태여야 외부 권위에 의존하지 않은 판단, 즉 비관여적 판단을 통해 진리를 구할 수 있다고 주장한다.</span><a class="ev-tag" href="#q20-1">20-①</a><a class="ev-tag" href="#q19-1">19-①</a><a class="ev-tag" href="#q21-1">21-①</a><a class="ev-tag ans" href="#q21-3">21-③</a></p>
+  <p>데카르트는 <span class="ev" id="ev-q17-1">선입견과 이성이 인간의 앎을 지배하려 끝없이 경쟁한다</span><a class="ev-tag" href="#q17-1">17-㉮</a>고 보았다. <span class="ev ans" id="ev22">우리는 스스로 감각한 것을 그대로 신뢰하는 성향이 있어 감각한 현상을 곧 실재라 여기지만, 데카르트는 이를 선입견으로 비판했다. 하나의 감각으로부터의 판단을 교정하는 것은 다른 감각이 아니라 오직 이성이다.</span><a class="ev-tag ans" href="#q17-3">17-㉰</a><a class="ev-tag" href="#q18-2">18-②</a><a class="ev-tag" href="#q19-2">19-②</a><a class="ev-tag" href="#q20-2">20-②</a><a class="ev-tag" href="#q21-2">21-②</a></p>
+  <p>데카르트의 관점에서 <span class="ev" id="ev-q17-2">우리의 판단은 이미 형성된 의견에 종속돼 오류가 생기기 쉽다.</span><a class="ev-tag" href="#q17-2">17-㉯</a> 그래서 그는 의심 가능한 모든 것을 의심하는 방법적 회의로 선입견을 제거해 ‘사유하는 자아’만 남겨야 한다고 했다. <span class="ev ans" id="ev24">사유하는 자아가 되면 이성을 규준으로 끊임없이 자신을 성찰하는 자기 인식을 할 수 있는데, 데카르트는 이를 교육의 목적으로 보았다.</span><a class="ev-tag" href="#q19-5">19-⑤</a><a class="ev-tag" href="#q18-3">18-③</a><a class="ev-tag" href="#q19-3">19-③</a><a class="ev-tag ans" href="#q24-1">24-①</a> 교사의 역할은 지식을 일방적으로 전달하는 것이 아니라 학습자가 자기 인식을 하도록 돕는 데 있다.</p>
   <p class="src-label">(나) 하이데거</p>
   <p>하이데거는 인간 존재가 선입견에 제약받는 것이 아니라 이를 발판 ⓒ<u>삼아</u> 이해의 작용을 한다고 보았다. 인간 존재는 앞서 형성된 이해인 선이해(선입견)를 이미 ⓓ<u>가지고</u> 있고, 그것을 바탕으로 지속적으로 이해한다.</p>
   <p><span class="ev" id="ev25">선입견은 인간 존재가 선입견을 가진 채 세계와 만남을 보여 주며, 세대와 세대가 필연적으로 연결되고 있음을 증명한다.</span><a class="ev-tag" href="#q17-4">17-㉱</a> 하이데거는 <span class="ev" id="ev-q20-4">세계를 이해한다는 것을 단순한 정신 활동이 아니라 세계에 관여하는 것, 즉 삶의 현장에서 세계와 관련해 무언가를 하는 것이라 보았다.</span><a class="ev-tag" href="#q20-4">20-④</a> 이때 세계는 사회적 맥락만이 아니라 인간의 직접적 활동 영역, 곧 삶의 포괄적 환경이므로 이해는 필연적으로 실천적 차원을 지닌다.</p>
@@ -698,11 +698,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob16">
   <p class="q-stem">16. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q16-1">① (가)와 (나) 모두 선입견에 대한 철학자의 주장을 소개하고 그 한계점을 지적한다.<a class="src-tag" href="#ev22">지문 근거</a></li>
+    <li id="q16-1">① (가)와 (나) 모두 선입견에 대한 철학자의 주장을 소개하고 그 한계점을 지적한다.</li>
     <li id="q16-2">② (가)와 (나) 모두 선입견에 대한 철학자의 견해를 제시하고 이를 특정 분야(교육)에 적용해 설명한다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
-    <li id="q16-3">③ (가)는 (나)와 달리 선입견 이론의 변천 과정을 소개한다.<a class="src-tag" href="#ev21">지문 근거</a></li>
-    <li id="q16-4">④ (가)는 (나)와 달리 철학자가 제시한 사례를 유형화해 비교한다.<a class="src-tag" href="#ev22">지문 근거</a></li>
-    <li id="q16-5">⑤ (나)는 (가)와 달리 개념이 시대에 따라 달리 수용된 양상을 설명한다.<a class="src-tag" href="#ev24">지문 근거</a></li>
+    <li id="q16-3">③ (가)는 (나)와 달리 선입견 이론의 변천 과정을 소개한다.</li>
+    <li id="q16-4">④ (가)는 (나)와 달리 철학자가 제시한 사례를 유형화해 비교한다.</li>
+    <li id="q16-5">⑤ (나)는 (가)와 달리 개념이 시대에 따라 달리 수용된 양상을 설명한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1287,22 +1287,22 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>세 칸 초가집에서 뽕을 심고 보리죽이라도 쑤며 시부모를 봉양하였습니다. ㉡그리고 마침내 친정 재산으로 남편이 천하를 도모하게 하였으니, 천명이 있었다 해도 첩이 내조한 공덕이 적지 않을 것입니다. 이렇듯 어려움을 함께한 신첩을 후에 헌신짝처럼 버리니 억울함과 원통함이 어찌 뼈에 사무치지 않겠습니까? 이번 윤회에는 음양을 바꾸어 신첩은 남자가 되고 저 유수는 여자가 되게 하여 복수하게 하여 주시기를 바랍니다.”</p>
   <p>골수에 박힌 곽후의 원통함을 들은 옥황상제는 복수를 막을 수 없었다. 강목왕 유수와 태음성 음후를 데려오라 명하고 소원을 물으니, 두 사람은 만수무강만 축수할 뿐 말이 없었다. 옥황상제가 남두성과 북두성에게 세 사람의 윤회보응을 분명히 하라 명하자, 남두성과 북두성이 서천여래를 청하였다. 서천여래가 육갑신에게 갈 곳을 점지하게 하고, 곽후와 유수의 음양을 바꾸라는 명에 감로수를 뿌리며 진언을 외우니, 곽후는 팔척장신의 헌헌장부가 되고 강목왕 유수는 꽃다운 여자의 몸이 되었다. 선관들이 웃으니 유수는 부끄러워 고개를 들지 못하고, 태음성 음후는 얼굴이 흙빛이 되었다.</p>
   <p class="muted">[중략 줄거리] 곽후·유수·음후는 각각 강왕·조수아·설여주로, 곽후와 각별했던 시누이 백희 공주는 위옥희로 환생한다. 강왕은 조수아와 혼인하고, 이후 전쟁터에서 돌아온 위옥희와도 혼인한다.</p>
-  <p>조수아가 노발대발하며 베개를 베고 누우니 관은 벗겨지고 비녀는 빠져 있었다. 강왕이 한참 살펴보다 말하였다. “㉢<span class="ev ans" id="ev-q32-3">과인이 죽지 않았는데, 채운루에 박복한 청상 홀어미 모습이 어찌된 일이오? 자세히 곡절을 알고자 하오.</span><a class="ev-tag ans" href="#q32-3">32-③</a><a class="ev-tag" href="#q32-1">32-①</a><a class="ev-tag" href="#q32-2">32-②</a><a class="ev-tag" href="#q34-3">34-③</a>”</p>
+  <p>조수아가 노발대발하며 베개를 베고 누우니 관은 벗겨지고 비녀는 빠져 있었다. 강왕이 한참 살펴보다 말하였다. “㉢<span class="ev ans" id="ev-q32-3">과인이 죽지 않았는데, 채운루에 박복한 청상 홀어미 모습이 어찌된 일이오? 자세히 곡절을 알고자 하오.</span><a class="ev-tag ans" href="#q32-3">32-③</a><a class="ev-tag" href="#q34-3">34-③</a>”</p>
   <p>“이 몸이 홀어미와 무엇이 다르겠습니까? 대왕께서 이미 위씨를 만났으니 첩은 박명한 사람입니다. 깊은 방에 거처하며 이 세상을 마치려 하니 더 이상 묻지 마십시오.” 화난 기색이 드러나니 강왕이 그 교만하고 속 좁음을 즐거워하지 않아 다시 웃으며 말하였다. “위씨는 당초 과인과 혼인을 약속한 옛 정인이오. 남서 땅에서 세운 큰 공과 과인을 병에서 구한 은공이 적지 않소. 위씨가 온 지 겨우 이틀인데 부인이 이처럼 투기하니 곡절을 알 수 없소.” 말을 마치고 남궁으로 향하였다.</p>
   <p>조수아가 강왕의 준절한 기색에 평소의 사랑이 없음을 보고 눈물만 흘리는데, 유모 계파가 위로하니 탄식하였다. “㉣나는 부귀영화를 누리면서도 마음이 편치 않은 것보다 차라리 궁벽한 선비의 아내가 되어 보리밥에 만족하며 살기를 원하였다. 그렇기에 마음이 번잡한 것이다. 이 모든 것이 하늘이 정한 운명이다. 나는 이제 분하고 원통하여 죽을 것 같다.”</p>
-  <p>계파는 조수아를 젖 먹여 키운 정이 깊어 그 신세를 생각하니 <span class="ev ans" id="ev40">우울하였으나 어찌할 계교가 없었다. 계파는 본래 성품이 모가 나지 않았기에 위옥희를 해칠 마음을 내거나 하지는 않았다.</span><a class="ev-tag ans" href="#q33-5">33-ⓔ</a><a class="ev-tag" href="#q31-1">31-①</a><a class="ev-tag ans" href="#q31-2">31-②</a><a class="ev-tag" href="#q31-3">31-③</a><a class="ev-tag" href="#q31-4">31-④</a><a class="ev-tag" href="#q31-5">31-⑤</a><a class="ev-tag" href="#q32-5">32-⑤</a><a class="ev-tag" href="#q33-1">33-①</a><a class="ev-tag" href="#q33-2">33-②</a><a class="ev-tag" href="#q33-3">33-③</a><a class="ev-tag" href="#q33-4">33-④</a><a class="ev-tag" href="#q34-2">34-②</a><a class="ev-tag ans" href="#q40-4">40-④</a></p>
-  <p>이날 밤 강왕이 남궁에서 위옥희를 대하니 자태가 더욱 새로웠다. 왕이 흔연히 웃으며 말하였다. “㉤과인이 과연 처복이 넘치오. 하늘에서 성녀를 점지하였으니 시경의 노래가 조금도 부럽지 않소. 또한 조씨같이 아름다운 여인이 그 뒤를 이었으니, <span class="ev ans" id="ev-q34-5">그대가 태임·태사의 덕을 이어 과인에게 내조를 잘 하시도록 하오.</span><a class="ev-tag ans" href="#q34-5">34-⑤</a><a class="ev-tag" href="#q32-4">32-④</a><a class="ev-tag" href="#q34-1">34-①</a><a class="ev-tag" href="#q34-4">34-④</a>”</p>
+  <p>계파는 조수아를 젖 먹여 키운 정이 깊어 그 신세를 생각하니 <span class="ev ans" id="ev40">우울하였으나 어찌할 계교가 없었다. 계파는 본래 성품이 모가 나지 않았기에 위옥희를 해칠 마음을 내거나 하지는 않았다.</span><a class="ev-tag ans" href="#q33-5">33-ⓔ</a><a class="ev-tag ans" href="#q31-2">31-②</a><a class="ev-tag" href="#q33-1">33-①</a><a class="ev-tag" href="#q33-2">33-②</a><a class="ev-tag" href="#q33-3">33-③</a><a class="ev-tag" href="#q33-4">33-④</a><a class="ev-tag" href="#q34-2">34-②</a><a class="ev-tag ans" href="#q40-4">40-④</a></p>
+  <p>이날 밤 강왕이 남궁에서 위옥희를 대하니 자태가 더욱 새로웠다. 왕이 흔연히 웃으며 말하였다. “㉤과인이 과연 처복이 넘치오. 하늘에서 성녀를 점지하였으니 시경의 노래가 조금도 부럽지 않소. 또한 조씨같이 아름다운 여인이 그 뒤를 이었으니, <span class="ev ans" id="ev-q34-5">그대가 태임·태사의 덕을 이어 과인에게 내조를 잘 하시도록 하오.</span><a class="ev-tag ans" href="#q34-5">34-⑤</a><a class="ev-tag" href="#q34-1">34-①</a><a class="ev-tag" href="#q34-4">34-④</a>”</p>
   <p class="muted" style="text-align:right">— 작자 미상, 「한조삼성기봉(漢朝三姓奇逢)」</p>
 </div>
 
 <div class="q-block" id="prob31">
   <p class="q-stem">31. 윗글에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 43.0%</span></p>
   <ul class="q-opts">
-    <li id="q31-1">① 인물의 행동을 과장되게 표현하여 인물을 희화화하고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q31-1">① 인물의 행동을 과장되게 표현하여 인물을 희화화하고 있다.</li>
     <li id="q31-2">② 편집자적 논평을 활용하여 서술자의 생각을 드러내고 있다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
-    <li id="q31-3">③ 독백을 반복하여 내적 갈등의 해결 과정을 보여 주고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q31-4">④ 꿈과 현실을 교차하여 사건을 입체적으로 구성하고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
-    <li id="q31-5">⑤ 공간적 배경을 묘사하여 긴박한 분위기를 드러내고 있다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q31-3">③ 독백을 반복하여 내적 갈등의 해결 과정을 보여 주고 있다.</li>
+    <li id="q31-4">④ 꿈과 현실을 교차하여 사건을 입체적으로 구성하고 있다.</li>
+    <li id="q31-5">⑤ 공간적 배경을 묘사하여 긴박한 분위기를 드러내고 있다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1329,11 +1329,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob32">
   <p class="q-stem">32. ㉠~㉤에 나타난 말하기 방식에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q32-1">① ㉠: 자신과 다른 인물의 차이점을 언급하며 앞으로의 일을 예견한다.<a class="src-tag" href="#ev-q32-3">지문 근거</a></li>
-    <li id="q32-2">② ㉡: 사건의 인과 관계를 바탕으로 상대의 의도에 의문을 제기한다.<a class="src-tag" href="#ev-q32-3">지문 근거</a></li>
+    <li id="q32-1">① ㉠: 자신과 다른 인물의 차이점을 언급하며 앞으로의 일을 예견한다.</li>
+    <li id="q32-2">② ㉡: 사건의 인과 관계를 바탕으로 상대의 의도에 의문을 제기한다.</li>
     <li id="q32-3">③ ㉢: 상대의 외양에 대한 생각을 드러내며 상대에게 설명을 요구한다.<a class="src-tag ans" href="#ev-q32-3">정답 근거</a></li>
-    <li id="q32-4">④ ㉣: 미래의 상황을 가정하며 상대의 어려움에 공감한다.<a class="src-tag" href="#ev-q34-5">지문 근거</a></li>
-    <li id="q32-5">⑤ ㉤: 다른 사람의 말을 근거로 삼아 자신의 행동 변화를 약속한다.<a class="src-tag" href="#ev40">지문 근거</a></li>
+    <li id="q32-4">④ ㉣: 미래의 상황을 가정하며 상대의 어려움에 공감한다.</li>
+    <li id="q32-5">⑤ ㉤: 다른 사람의 말을 근거로 삼아 자신의 행동 변화를 약속한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1454,10 +1454,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="passage-guide">[35 ~ 38] 다음 글을 읽고 물음에 답하시오.</p>
   <p>홍보실 직원이래야 김 실장, 사진 기자 미스터 윤, 타자수 미스 홍, 그리고 그가 전부였다. 우두머리 김 실장이 <span class="ev" id="ev-q37-a">ⓐ<u>실눈을 뜨기 시작하면 일은 이미 그른 거나 다름없었다.</u></span><a class="ev-tag" href="#q37-1">37-ⓐ</a><a class="ev-tag" href="#q37-2">37-②</a><a class="ev-tag" href="#q37-4">37-④</a> 그의 실눈은 뱀처럼 찬 냉기를 담고 있어 마주 보기가 섬뜩하였다.</p>
   <p>퇴근이 임박할 무렵, 그는 김 실장의 실눈이 자신의 온몸을 훑어오는 것을, 동시에 한 페이지도 못 채운 자신의 무능을 발견했다. ㉠모든 것은, 그래 바로 그 살찐 쥐 탓이야. 얼결에 중얼거렸으나 그 말조차 당혹스러웠다. ㉡‘미스터 정.’ 미스터라니. 그는 호칭에 다시 낯을 붉힌다.</p>
-  <p>“상무님 퇴근 전에 원고 올려봐요.” “네, 그런데…….” “아직 다 못 썼나요?” “㉢몇 장까지 나갔어요?” 모든 것을 알면서도 김 실장은 끈덕지게 캐물었다. <span class="ev ans" id="ev42">그는 틀림없이 동년배이거나 후배일 김 실장의 질책에 전전긍긍하면서 당황하기 시작한다.</span><a class="ev-tag ans" href="#q35-1">35-①</a><a class="ev-tag" href="#q35-2">35-②</a><a class="ev-tag" href="#q35-3">35-③</a><a class="ev-tag" href="#q35-5">35-⑤</a><a class="ev-tag" href="#q36-1">36-①</a><a class="ev-tag" href="#q38-3">38-③</a></p>
+  <p>“상무님 퇴근 전에 원고 올려봐요.” “네, 그런데…….” “아직 다 못 썼나요?” “㉢몇 장까지 나갔어요?” 모든 것을 알면서도 김 실장은 끈덕지게 캐물었다. <span class="ev ans" id="ev42">그는 틀림없이 동년배이거나 후배일 김 실장의 질책에 전전긍긍하면서 당황하기 시작한다.</span><a class="ev-tag ans" href="#q35-1">35-①</a><a class="ev-tag" href="#q36-1">36-①</a><a class="ev-tag" href="#q38-3">38-③</a></p>
   <p>“쯧쯧, 벌써 사흘째나 붙들고 헛공상만 했구료. 미스터 정의 성실성이 의심됩니다.” 김 실장은 기세를 누그러뜨리며 실눈 속에서 교활하게 웃었다. “내일은 끝내도록 해요.” ㉣<u>김 실장이 아랫사람을 다스리는 상전의 따뜻한 태도로 재빨리 복귀하는 것을 바라보며 그는 멍청해졌다.</u> 그는 빈 원고 용지에 37, 36, 35라고 (김 실장의 나이를) 써보았다.</p>
   <p>산비탈 길을 오르며 긴 한숨을 쉬는 시간은 늘 일정했다. 오늘도 무사히 돌아왔다는 것, 그러나 바랐던 생활이 여전히 싹수 노랗게 틀려 있다는 신호였다. 초록색 대문 앞에 이르면 아랫동네의 모든 기척이 그를 우러러봐주는 듯한 묘한 느낌에 사로잡혔다.</p>
-  <p>대문에 들어서며 짓는 미소며 <span class="ev" id="ev-q37-b">ⓑ<u>헛기침</u></span><a class="ev-tag" href="#q37-1">37-ⓑ</a><a class="ev-tag" href="#q37-3">37-③</a><a class="ev-tag" href="#q37-5">37-⑤</a>은 가당찮은 억지였다. 그러나 그는 어떻게 해야 이 소왕국의 평화가 유지되는지 알았다. <span class="ev ans" id="ev45">밖에서야 어쨌든 집 안에서의 그는 칠백만 불의 사나이거나 슈퍼맨이거나 무적의 검객에 세도가여야 했다.</span><a class="ev-tag ans" href="#q38-2">38-②</a><a class="ev-tag" href="#q35-4">35-④</a><a class="ev-tag" href="#q38-1">38-①</a><a class="ev-tag" href="#q38-5">38-⑤</a> 실현은 힘들어도 흉내쯤은 쉬웠으므로 그는 아까의 긴 한숨을 잊기로 한다.</p>
+  <p>대문에 들어서며 짓는 미소며 <span class="ev" id="ev-q37-b">ⓑ<u>헛기침</u></span><a class="ev-tag" href="#q37-1">37-ⓑ</a><a class="ev-tag" href="#q37-3">37-③</a><a class="ev-tag" href="#q37-5">37-⑤</a>은 가당찮은 억지였다. 그러나 그는 어떻게 해야 이 소왕국의 평화가 유지되는지 알았다. <span class="ev ans" id="ev45">밖에서야 어쨌든 집 안에서의 그는 칠백만 불의 사나이거나 슈퍼맨이거나 무적의 검객에 세도가여야 했다.</span><a class="ev-tag ans" href="#q38-2">38-②</a><a class="ev-tag" href="#q38-1">38-①</a><a class="ev-tag" href="#q38-5">38-⑤</a> 실현은 힘들어도 흉내쯤은 쉬웠으므로 그는 아까의 긴 한숨을 잊기로 한다.</p>
   <p class="muted">(중략)</p>
   <p>“문을 열어놨는데도 안 나간 것 같아요. 저게 우리를 골탕 먹이려 작정했나봐요.” 아무도 그에게 휴식을 주려 하지 않았다. 아이들은 복수전을 종용하고, 아내는 쥐의 횡포를 호소하며 그의 전의를 부채질했다. <span class="ev ans" id="ev43">그런데도 그가 없는 낮 동안 탈출을 시도하지 않은 쥐를 생각하면, 솟아오르던 전의가 슬쩍 사라지는 기분이었다.</span><a class="ev-tag ans" href="#q36-5">36-⑤</a><a class="ev-tag" href="#q36-2">36-②</a><a class="ev-tag" href="#q36-3">36-③</a><a class="ev-tag" href="#q36-4">36-④</a><a class="ev-tag" href="#q38-4">38-④</a><a class="ev-tag ans" href="#q43-2">43-②</a></p>
   <p>“㉤왜 도망가지 않았을까?” 그는 망연자실 방문 앞에서 같은 생각을 되풀이했다. 밤이면 목숨을 건 추적극이 벌어질 것을 모르지 않았을 텐데. 그래도 이미 시작된 일, 그는 막대기와 연탄집게를 챙겨 구석을 노려보았다.</p>
@@ -1469,10 +1469,10 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">35. 윗글의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q35-1">① 작품 밖의 서술자가 특정 인물의 시각에서 사건을 서술하고 있다.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
-    <li id="q35-2">② 장면의 빈번한 전환으로 인물 간의 긴장감을 고조시킨다.<a class="src-tag" href="#ev42">지문 근거</a></li>
-    <li id="q35-3">③ 시대적 배경을 제시해 사건의 원인을 구체적으로 보여 준다.<a class="src-tag" href="#ev42">지문 근거</a></li>
-    <li id="q35-4">④ 외부 이야기에 내부 이야기를 삽입해 해결의 실마리를 드러낸다.<a class="src-tag" href="#ev45">지문 근거</a></li>
-    <li id="q35-5">⑤ 다른 장소에서 동시에 일어난 사건을 제시해 상황을 대비한다.<a class="src-tag" href="#ev42">지문 근거</a></li>
+    <li id="q35-2">② 장면의 빈번한 전환으로 인물 간의 긴장감을 고조시킨다.</li>
+    <li id="q35-3">③ 시대적 배경을 제시해 사건의 원인을 구체적으로 보여 준다.</li>
+    <li id="q35-4">④ 외부 이야기에 내부 이야기를 삽입해 해결의 실마리를 드러낸다.</li>
+    <li id="q35-5">⑤ 다른 장소에서 동시에 일어난 사건을 제시해 상황을 대비한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1625,7 +1625,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   옥안(玉顔)을 잠깐 열어 너로구나 웃으실새<br>
   정성을 다 기울여 말씀을 드릴 제 (…)<br>
   하물며 세밑에 근심 더욱 깊어<br>
-  <span class="ev" id="ev47">㉠초목이 시들고 미인도 늙어 가니</span><a class="ev-tag" href="#q40-1">40-㉠</a><a class="ev-tag" href="#q39-4">39-④</a><a class="ev-tag" href="#q40-4">40-④</a><br>
+  <span class="ev" id="ev47">㉠초목이 시들고 미인도 늙어 가니</span><a class="ev-tag" href="#q40-1">40-㉠</a><a class="ev-tag" href="#q40-4">40-④</a><br>
   젊은 날 못 만나고 늙은 후에 서로 본들<br>
   가슴 속 쌓인 정을 어느 결에 다 펼칠까</p>
   <p class="muted">(중략)</p>
@@ -1640,11 +1640,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="muted">* 소의간식: 날 밝기 전에 옷 입고, 해 진 후에 식사함. * 칠실녀: 나랏일을 근심한 칠실 땅의 여인. * 추당에 만부용: 가을 연못의 때늦은 연꽃. * 수홍: 붉은빛(님을 향한 연모)을 지킴.</p>
 
   <p class="src-label">(나) 홍섬, 「한양궁궐도기(漢陽宮闕圖記)」</p>
-  <p>신이 생각해 보니 ㉡<u>산수를 그린 그림은 예부터 있었지만 대궐을 그린 그림은 없었습니다.</u> 산수는 만고의 세월이 흘러도 바뀌지 않지만, 대궐은 사람에 따라 지어졌다 무너집니다. <span class="ev" id="ev48">바뀌지 않는 산수는 사람이 어찌할 수 없지만, 지어졌다 무너지는 궁궐에 대해서는 사람이 느끼는 바가 필시 많을 것입니다.</span><a class="ev-tag" href="#q40-2">40-㉡</a><a class="ev-tag" href="#q40-4">40-④</a><a class="ev-tag" href="#q41-2">41-②</a><a class="ev-tag" href="#q42-2">42-②</a> <span class="ev ans" id="ev46">눈으로 보면 생각이 뒤따르고, 생각이 떠오르면 걱정과 기쁨이 뒤따르는 법입니다.</span><a class="ev-tag ans" href="#q39-3">39-③</a><a class="ev-tag" href="#q39-1">39-①</a><a class="ev-tag" href="#q39-2">39-②</a><a class="ev-tag" href="#q40-3">40-③</a><a class="ev-tag" href="#q41-1">41-①</a><a class="ev-tag" href="#q42-1">42-①</a><a class="ev-tag" href="#q42-4">42-④</a> 군주가 험난한 산하와 화려한 대궐을 보며 ‘이것으로 어찌 나라를 지키고 편안히 지내겠는가’ 걱정한다면 태평성대의 근본이요, ‘누가 침략하고 누가 가져가겠는가’ 기뻐하기만 하면 멸망을 자초하는 길입니다.</p>
+  <p>신이 생각해 보니 ㉡<u>산수를 그린 그림은 예부터 있었지만 대궐을 그린 그림은 없었습니다.</u> 산수는 만고의 세월이 흘러도 바뀌지 않지만, 대궐은 사람에 따라 지어졌다 무너집니다. <span class="ev" id="ev48">바뀌지 않는 산수는 사람이 어찌할 수 없지만, 지어졌다 무너지는 궁궐에 대해서는 사람이 느끼는 바가 필시 많을 것입니다.</span><a class="ev-tag" href="#q40-2">40-㉡</a><a class="ev-tag" href="#q40-4">40-④</a><a class="ev-tag" href="#q41-2">41-②</a><a class="ev-tag" href="#q42-2">42-②</a> <span class="ev ans" id="ev46">눈으로 보면 생각이 뒤따르고, 생각이 떠오르면 걱정과 기쁨이 뒤따르는 법입니다.</span><a class="ev-tag ans" href="#q39-3">39-③</a><a class="ev-tag" href="#q40-3">40-③</a><a class="ev-tag" href="#q41-1">41-①</a><a class="ev-tag" href="#q42-1">42-①</a><a class="ev-tag" href="#q42-4">42-④</a> 군주가 험난한 산하와 화려한 대궐을 보며 ‘이것으로 어찌 나라를 지키고 편안히 지내겠는가’ 걱정한다면 태평성대의 근본이요, ‘누가 침략하고 누가 가져가겠는가’ 기뻐하기만 하면 멸망을 자초하는 길입니다.</p>
   <p>ⓐ<u>지금 우리 전하께서는 평소 그림을 펼쳐 보시며 마음속으로 생각하실 것입니다.</u> ‘성패는 사람에게 달려 있다. ⓑ<u>선대 임금들께서 비바람에 시달리는 고초를 겪으며 부지런히 대궐 터를 살펴보신 일을 잊지 말아야 한다.</u>’ 이와 같다면 그림은 감상하는 물건이 아니라 성상의 안목을 기르고 덕을 닦는 도구입니다.</p>
   <p>옛적 한나라 반고가 「양도부」를, 왕연수가 「노영광전부」를 지었으나 화려한 궁궐을 묘사했을 뿐 경계하고 깨우칠 줄은 몰랐습니다. <span class="ev ans" id="ev-q41-c">ⓒ<u>그 문장은 비록 힘차고 아름답기야 하지만, 당시 군주의 다스림에 무슨 도움이 되었겠습니까.</u></span><a class="ev-tag ans" href="#q41-3">41-ⓒ</a></p>
   <p>지금 전하께서는 참모습을 보기에 부족하다 여겨 그림으로 옮기고자 하셨습니다. ⓓ<u>이는 구중궁궐을 벗어나지 않고도 먼 산수와 드넓은 대궐을 한눈에 보고자 하셨기 때문입니다.</u> 보이면 경계하고, 경계하면 정사에 실천하고, 실천하면 나라가 공고해질 것입니다.</p>
-  <p><span class="ev ans" id="ev50">이루어진 일을 보고서 무너질 일을 염려함은 나라를 소유한 군주가 먼저 힘써야 하는 일이요, 사건을 계기로 경계를 아룀은 임금을 사랑하는 신하의 마음입니다.</span><a class="ev-tag ans" href="#q42-5">42-⑤</a><a class="ev-tag" href="#q39-5">39-⑤</a><a class="ev-tag" href="#q40-5">40-⑤</a><a class="ev-tag" href="#q41-4">41-④</a><a class="ev-tag" href="#q41-5">41-⑤</a><a class="ev-tag" href="#q42-3">42-③</a> 이것이 신이 반고·왕연수처럼 쓸데없는 말을 짓지 않고 송경의 「무일도」와 이덕유의 「단의잠」에 연연하는 이유입니다.</p>
+  <p><span class="ev ans" id="ev50">이루어진 일을 보고서 무너질 일을 염려함은 나라를 소유한 군주가 먼저 힘써야 하는 일이요, 사건을 계기로 경계를 아룀은 임금을 사랑하는 신하의 마음입니다.</span><a class="ev-tag ans" href="#q42-5">42-⑤</a><a class="ev-tag" href="#q40-5">40-⑤</a><a class="ev-tag" href="#q41-4">41-④</a><a class="ev-tag" href="#q41-5">41-⑤</a><a class="ev-tag" href="#q42-3">42-③</a> 이것이 신이 반고·왕연수처럼 쓸데없는 말을 짓지 않고 송경의 「무일도」와 이덕유의 「단의잠」에 연연하는 이유입니다.</p>
   <p>아, ⓔ<u>앞으로 왕위를 계승하는 자손이 이 병풍을 마주 보면 매번 오늘날 전하의 마음을 자기 마음으로 삼을 것입니다.</u> 강토를 보존하는 길이 경계·반성에 달렸음을 안다면, 천부(天府)의 나라가 영원히 후손의 소유가 될 것입니다. 신은 이에 글을 지어 기록합니다.</p>
   <p class="muted" style="text-align:right">— 홍섬, 「한양궁궐도기(漢陽宮闕圖記)」</p>
 </div>
@@ -1652,11 +1652,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob39">
   <p class="q-stem">39. (가)와 (나)에 대한 설명으로 가장 적절한 것은? <span class="q-rate">오답률 41.6%</span></p>
   <ul class="q-opts">
-    <li id="q39-1">① (가)는 (나)와 달리 직유법으로 상황의 심각성을 부각한다.<a class="src-tag" href="#ev46">지문 근거</a></li>
-    <li id="q39-2">② (가)는 (나)와 달리 음성상징어로 대상을 생생하게 묘사한다.<a class="src-tag" href="#ev46">지문 근거</a></li>
+    <li id="q39-1">① (가)는 (나)와 달리 직유법으로 상황의 심각성을 부각한다.</li>
+    <li id="q39-2">② (가)는 (나)와 달리 음성상징어로 대상을 생생하게 묘사한다.</li>
     <li id="q39-3">③ (나)는 (가)와 달리 연쇄적 표현으로 관련 있는 상황들을 연결한다.<a class="src-tag ans" href="#ev46">정답 근거</a></li>
-    <li id="q39-4">④ (나)는 (가)와 달리 동일한 색채어를 반복해 대상의 특성을 드러낸다.<a class="src-tag" href="#ev47">지문 근거</a></li>
-    <li id="q39-5">⑤ (가)와 (나) 모두 계절적 배경으로 대상의 속성을 강조한다.<a class="src-tag" href="#ev50">지문 근거</a></li>
+    <li id="q39-4">④ (나)는 (가)와 달리 동일한 색채어를 반복해 대상의 특성을 드러낸다.</li>
+    <li id="q39-5">⑤ (가)와 (나) 모두 계절적 배경으로 대상의 속성을 강조한다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1803,7 +1803,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 
   <p class="src-label">(나) 허수경, 「스승의 구두」</p>
   <p class="verse">구두는 ㉣<u>쉴 새 없이</u> 낡아가고<br>장대동 중앙시장에는 새 상가가 들어섰다<br>어깨에 묻어오는 오늘의 피곤이<br>이십 년은 ㉤<u>족히</u> 넘은 스승의 서재에서<br>먼지로 앉고<br>스승은 넥타이를 푼다<br>새로 산 책을 넘긴다<br>스승은 새로운 학문을 수용하고 도시를 다스리는 정의론과<br>인권론과 형평론을 안경 너머로 바라본다<br>눈을 부빈다<br>잠자리에 들어서도 스승은 낡아가고<br>구두는 현관에서 낡아가지만<br>내일도 장대동 중앙시장<br>새로 선 상가를 지나<br>하룻밤새 또 건물을 지은<br>도시의 길을 밟을 것이다<br>
-  <span class="ev ans" id="ev53">스승은 낡은 구두처럼<br>새 것으로 바뀌지 않는다<br>그러나 새롭게 등장하는 것들을 어깨에 짊어지고<br>스승이 낡아가는 것인가</span><a class="ev-tag" href="#q43-1">43-①</a><a class="ev-tag" href="#q43-3">43-③</a><a class="ev-tag" href="#q43-4">43-④</a><a class="ev-tag" href="#q43-5">43-⑤</a><a class="ev-tag" href="#q44-3">44-③</a><a class="ev-tag" href="#q44-4">44-④</a><a class="ev-tag" href="#q44-5">44-⑤</a><a class="ev-tag" href="#q45-1">45-①</a><a class="ev-tag" href="#q45-2">45-②</a><a class="ev-tag" href="#q45-3">45-③</a><a class="ev-tag ans" href="#q45-4">45-④</a><a class="ev-tag" href="#q45-5">45-⑤</a><br>
+  <span class="ev ans" id="ev53">스승은 낡은 구두처럼<br>새 것으로 바뀌지 않는다<br>그러나 새롭게 등장하는 것들을 어깨에 짊어지고<br>스승이 낡아가는 것인가</span><a class="ev-tag" href="#q44-3">44-③</a><a class="ev-tag" href="#q44-4">44-④</a><a class="ev-tag" href="#q44-5">44-⑤</a><a class="ev-tag" href="#q45-1">45-①</a><a class="ev-tag" href="#q45-2">45-②</a><a class="ev-tag" href="#q45-3">45-③</a><a class="ev-tag ans" href="#q45-4">45-④</a><a class="ev-tag" href="#q45-5">45-⑤</a><br>
   새로운 모습으로 다가오는 모든 것들이<br>훨씬은 더 먼저 낡아갈 것인가</p>
   <p class="muted" style="text-align:right">— 허수경, 「스승의 구두」</p>
 </div>
@@ -1811,11 +1811,11 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob43">
   <p class="q-stem">43. (가)와 (나)의 표현상의 특징으로 가장 적절한 것은? <span class="q-rate">오답률 31.0%</span></p>
   <ul class="q-opts">
-    <li id="q43-1">① (가)와 (나) 모두 명사로 시행을 마무리해 여운을 남긴다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q43-1">① (가)와 (나) 모두 명사로 시행을 마무리해 여운을 남긴다.</li>
     <li id="q43-2">② (가)와 (나) 모두 특정 시어를 반복적으로 활용해 시적 상황을 부각한다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
-    <li id="q43-3">③ (가)는 (나)와 달리 의문형 어미로 화자의 정서를 강조한다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q43-4">④ (나)는 (가)와 달리 하강의 이미지로 배경을 묘사한다.<a class="src-tag" href="#ev53">지문 근거</a></li>
-    <li id="q43-5">⑤ (나)는 (가)와 달리 청자를 명시적으로 설정해 친근감을 드러낸다.<a class="src-tag" href="#ev53">지문 근거</a></li>
+    <li id="q43-3">③ (가)는 (나)와 달리 의문형 어미로 화자의 정서를 강조한다.</li>
+    <li id="q43-4">④ (나)는 (가)와 달리 하강의 이미지로 배경을 묘사한다.</li>
+    <li id="q43-5">⑤ (나)는 (가)와 달리 청자를 명시적으로 설정해 친근감을 드러낸다.</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
