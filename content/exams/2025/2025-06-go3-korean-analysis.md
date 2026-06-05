@@ -32,7 +32,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[1 ~ 3] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[1 ~ 3] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev" id="ev1-3a">독자가 글에서 읽은 단어의 의미를 확정하지 못하면 글을 제대로 이해하기 어렵다. 별개의 단어들이 서로 표기가 같고 의미가 다르면 동형이의어라고 한다.</span><a class="ev-tag" href="#q1-3">1-③</a><a class="ev-tag" href="#q1-2">1-②</a> <span class="ev" id="ev1-1">따라서 독자가 ㉠동형이의어를 읽고 떠올린 여러 의미 중에서 문장이나 문맥에 어울리는 것으로 의미를 확정하는 것이 중요하다.</span><a class="ev-tag" href="#q1-1">1-①</a></p>
   <p><span class="ev ans" id="ev1-4">단어 중에는 다른 단어들보다 자주 쓰이는 '고빈도 단어'가 있다. 동형이의어도 마찬가지로, 일반적인 언어생활에서 표기가 같은 단어들끼리 사용 빈도를 비교해 보면 그중에 다른 단어들보다 사용 빈도가 높은 고빈도 단어가 있는 경우가 대부분이다. 독자가 동형이의어를 읽으면 고빈도 단어가 지닌 의미를 떠올릴 가능성이 높고, 의미 확정을 위해 그것이 문장이나 문맥에 어울리는지부터 확인하게 된다.</span><a class="ev-tag ans" href="#q1-4">1-④</a></p>
   <p><span class="ev ans" id="ev1-5">동형이의어가 쓰인 문장의 제약성이 강할 때는 동형이의어의 의미를 쉽게 확정할 수 있지만, 제약성이 약할 때는 의미 확정을 유보한 채로 다른 문장들을 읽는다. 이후 여러 문장이 의미적으로 연결되면 문맥이 형성된다.</span><a class="ev-tag" href="#q1-5">1-⑤</a><a class="ev-tag ans" href="#q2-5">2-⑤</a></p>
@@ -42,11 +42,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob1">
   <p class="q-stem">1. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q1-1">① 문장이나 문맥에 어울리는 의미를 확정하는 것이 중요하다.<a class="src-tag" href="#ev1-1">지문 근거</a></li>
-    <li id="q1-2">② 읽은 단어의 의미를 확정하지 못하면 글을 제대로 이해하기 어렵다.<a class="src-tag" href="#ev1-3a">지문 근거</a></li>
-    <li id="q1-3">③ 별개의 단어들이 서로 표기가 같고 의미가 다르면 동형이의어라고 한다.<a class="src-tag" href="#ev1-3a">지문 근거</a></li>
+    <li id="q1-1">① 문장이나 문맥에 어울리는 의미를 확정하는 것이 중요하다.<a class="src-tag" href="#ev1-1">오답 근거</a></li>
+    <li id="q1-2">② 읽은 단어의 의미를 확정하지 못하면 글을 제대로 이해하기 어렵다.<a class="src-tag" href="#ev1-3a">오답 근거</a></li>
+    <li id="q1-3">③ 별개의 단어들이 서로 표기가 같고 의미가 다르면 동형이의어라고 한다.<a class="src-tag" href="#ev1-3a">오답 근거</a></li>
     <li id="q1-4">④ 동형이의어들이 대체로 비슷한 사용 빈도를 보인다.<a class="src-tag ans" href="#ev1-4">정답 근거</a></li>
-    <li id="q1-5">⑤ 제약성이 약한 문장에서는 의미 확정을 유보한 채 다른 문장들을 읽을 수 있다.<a class="src-tag" href="#ev1-5">지문 근거</a></li>
+    <li id="q1-5">⑤ 제약성이 약한 문장에서는 의미 확정을 유보한 채 다른 문장들을 읽을 수 있다.<a class="src-tag" href="#ev1-5">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -69,10 +69,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob2">
   <p class="q-stem">2. 윗글을 바탕으로 ㉠에 대해 이해한 것으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q2-1">① 독자가 고빈도 단어가 지닌 의미를 새로 만드는 과정이다.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
-    <li id="q2-2">② 독자가 문장에서 제약성이 강한 단어를 선택하는 과정이다.<a class="src-tag" href="#ev1-5">지문 근거</a></li>
-    <li id="q2-3">③ 독자가 문맥을 고려하지 않고 단어의 의미를 확정하는 과정이다.<a class="src-tag" href="#ev1-1">지문 근거</a></li>
-    <li id="q2-4">④ 독자가 고빈도 단어의 의미가 문맥에 어울리는지 확인하지 않는 과정이다.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
+    <li id="q2-1">① 독자가 고빈도 단어가 지닌 의미를 새로 만드는 과정이다.<a class="src-tag" href="#ev1-4">오답 근거</a></li>
+    <li id="q2-2">② 독자가 문장에서 제약성이 강한 단어를 선택하는 과정이다.<a class="src-tag" href="#ev1-5">오답 근거</a></li>
+    <li id="q2-3">③ 독자가 문맥을 고려하지 않고 단어의 의미를 확정하는 과정이다.<a class="src-tag" href="#ev1-1">오답 근거</a></li>
+    <li id="q2-4">④ 독자가 고빈도 단어의 의미가 문맥에 어울리는지 확인하지 않는 과정이다.<a class="src-tag" href="#ev1-4">오답 근거</a></li>
     <li id="q2-5">⑤ 독자가 고빈도 단어의 의미가 문장이나 문맥에 어울리지 않을 때 동형이의어 중 적절한 의미를 찾아내는 과정이다.<a class="src-tag ans" href="#ev1-5">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -96,11 +96,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob3">
   <p class="q-stem">3. 윗글을 읽고 &lt;보기&gt;를 이해한 것으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q3-1">① ⓐ를 추가로 검색한 것은, ⓑ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
-    <li id="q3-2">② ⓑ에 의문을 품은 것은, ⓐ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
+    <li id="q3-1">① ⓐ를 추가로 검색한 것은, ⓑ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">오답 근거</a></li>
+    <li id="q3-2">② ⓑ에 의문을 품은 것은, ⓐ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">오답 근거</a></li>
     <li id="q3-3">③ ⓒ에서 동양의 사례만 찾다가 방향을 달리하여 다양한 지역과 시대 사례를 생성한 것은, ⓒ를 점검한 것에 해당하겠군.<a class="src-tag ans" href="#ev1-5">정답 근거</a></li>
-    <li id="q3-4">④ ⓓ에서 인터넷 검색을 해 본 것은, ⓐ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">지문 근거</a></li>
-    <li id="q3-5">⑤ ⓔ에서 도서관에서 책을 찾아 읽으려 한 것은, ⓑ를 점검하는 것에 해당하겠군.<a class="src-tag" href="#ev1-5">지문 근거</a></li>
+    <li id="q3-4">④ ⓓ에서 인터넷 검색을 해 본 것은, ⓐ를 점검한 것에 해당하겠군.<a class="src-tag" href="#ev1-4">오답 근거</a></li>
+    <li id="q3-5">⑤ ⓔ에서 도서관에서 책을 찾아 읽으려 한 것은, ⓑ를 점검하는 것에 해당하겠군.<a class="src-tag" href="#ev1-5">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -136,7 +136,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[4 ~ 9] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[4 ~ 9] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><strong>(가)</strong></p>
   <p><span class="ev ans" id="ev49-ga1">근대 국가는 시민의 생명과 재산을 보호하는 것을 일차적인 존립 이유로 삼았다. 최소한의 금지 행위만을 법으로 정하고 이를 위반하는 경우에만 개입함으로써 시민의 자유를 최대한 보장하고자 했다. 이러한 목적이 반영된 자유주의적 법 모델은 근대법의 근간을 이루었다. 그러나 이 모델은 자유를 실질적으로 누릴 사회·경제적 조건이 모두에게 동등하게 주어지지 않은 상황에서 갈등이나 분쟁에 대처하는 데 한계가 있었다.</span><a class="ev-tag" href="#q4-2">4-①</a><a class="ev-tag ans" href="#q4-2">4-②</a></p>
   <p><span class="ev" id="ev49-ga2">이를 보완할 목적으로 등장한 것이 사회복지국가적 법 모델이다. 이 모델에서는 법이 삶의 세계에 더 깊숙이 개입한다. 개인의 권리 보장뿐 아니라 주거, 노동, 환경 등의 영역에서 평등과 연대의 가치를 구현하기 위한 제도의 구축 및 관리도 법의 역할이 되어, 그 역할 수행에 필요한 의무 규정들이 늘어난다.</span><a class="ev-tag" href="#q6-2">6-②</a></p>
@@ -154,11 +154,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q4-1">① (가)는 특정 개념이 지니는 의의와 가치를, (나)는 특정 개념의 변화에 대한 전망을 제시하고 있다.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
+    <li id="q4-1">① (가)는 특정 개념이 지니는 의의와 가치를, (나)는 특정 개념의 변화에 대한 전망을 제시하고 있다.<a class="src-tag" href="#ev49-ga1">오답 근거</a></li>
     <li id="q4-2">② (가)는 시대의 요구가 반영된 방안들이 출현해 온 과정에 대해, (나)는 특정 과제의 해결을 위한 제도에 대해 서술하고 있다.<a class="src-tag ans" href="#ev49-ga1">정답 근거</a></li>
-    <li id="q4-3">③ (가)는 (나)와 달리, 사회 현상을 분석한 여러 학자의 이론을 다양한 사례를 들어 설명하고 있다.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
-    <li id="q4-4">④ (나)는 (가)와 달리, 문제 해결을 위해 등장한 방안이 과도하게 적용될 경우 발생할 수 있는 문제점을 밝히고 있다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
-    <li id="q4-5">⑤ (가)와 (나)는 모두 문제를 해결하려는 기존의 방안들이 지닌 한계점을 비판한 후, 새로운 방안을 제안하고 있다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+    <li id="q4-3">③ (가)는 (나)와 달리, 사회 현상을 분석한 여러 학자의 이론을 다양한 사례를 들어 설명하고 있다.<a class="src-tag" href="#ev49-ga1">오답 근거</a></li>
+    <li id="q4-4">④ (나)는 (가)와 달리, 문제 해결을 위해 등장한 방안이 과도하게 적용될 경우 발생할 수 있는 문제점을 밝히고 있다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
+    <li id="q4-5">⑤ (가)와 (나)는 모두 문제를 해결하려는 기존의 방안들이 지닌 한계점을 비판한 후, 새로운 방안을 제안하고 있다.<a class="src-tag" href="#ev49-na1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -184,11 +184,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob5">
   <p class="q-stem">5. [A]를 바탕으로 ㉠을 이해한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q5-1">① 법이 사회 각 영역의 자율적 조절 기능에 점점 더 의존한다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
-    <li id="q5-2">② 근대법의 기본 원리를 철저히 고수하는 법 정책으로 인해 문제 해결이 지체된다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q5-1">① 법이 사회 각 영역의 자율적 조절 기능에 점점 더 의존한다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
+    <li id="q5-2">② 근대법의 기본 원리를 철저히 고수하는 법 정책으로 인해 문제 해결이 지체된다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
     <li id="q5-3">③ 이전에는 법적 규제를 통해 해결하지 않던 문제들까지도 법의 해결 과제가 된다.<a class="src-tag ans" href="#ev49-ga3">정답 근거</a></li>
-    <li id="q5-4">④ 갈등 상황에서는 문화적으로 전승되어 온 규범이 법 규범보다 우선적으로 투입된다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
-    <li id="q5-5">⑤ 삶의 세계에 대한 법의 간섭 빈도가 점점 더 줄어들어 법의 기본 원리에 대한 사회적 신뢰가 깨진다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
+    <li id="q5-4">④ 갈등 상황에서는 문화적으로 전승되어 온 규범이 법 규범보다 우선적으로 투입된다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
+    <li id="q5-5">⑤ 삶의 세계에 대한 법의 간섭 빈도가 점점 더 줄어들어 법의 기본 원리에 대한 사회적 신뢰가 깨진다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -214,11 +214,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob6">
   <p class="q-stem">6. (가)와 (나)를 이해한 학생이 보인 반응으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q6-1">① 자유주의적 법 모델은 임대인과 임차인이 합의한 계약을 법이 존중하여 그 내용에 원칙적으로 개입하지 말아야 한다고 판단하겠군.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
-    <li id="q6-2">② 사회복지국가적 법 모델은 임차인의 생업을 보호할 필요가 인정될 때는 임대인의 재산권에 대한 제한이 불가능하지 않다고 여기겠군.<a class="src-tag" href="#ev49-ga2">지문 근거</a></li>
-    <li id="q6-3">③ 절차주의적 법 모델은 임대차 분쟁 조정에서 당사자들의 자유로운 의견 개진의 기회를 법으로 보장해야 한다고 보겠군.<a class="src-tag" href="#ev49-na4">지문 근거</a></li>
+    <li id="q6-1">① 자유주의적 법 모델은 임대인과 임차인이 합의한 계약을 법이 존중하여 그 내용에 원칙적으로 개입하지 말아야 한다고 판단하겠군.<a class="src-tag" href="#ev49-ga1">오답 근거</a></li>
+    <li id="q6-2">② 사회복지국가적 법 모델은 임차인의 생업을 보호할 필요가 인정될 때는 임대인의 재산권에 대한 제한이 불가능하지 않다고 여기겠군.<a class="src-tag" href="#ev49-ga2">오답 근거</a></li>
+    <li id="q6-3">③ 절차주의적 법 모델은 임대차 분쟁 조정에서 당사자들의 자유로운 의견 개진의 기회를 법으로 보장해야 한다고 보겠군.<a class="src-tag" href="#ev49-na4">오답 근거</a></li>
     <li id="q6-4">④ 자유주의적 법 모델은 사회복지국가적 법 모델과 달리, 임차인의 갱신 요구를 임대인이 거절할 수 없어야 한다고 보겠군.<a class="src-tag ans" href="#ev49-ga1">정답 근거</a></li>
-    <li id="q6-5">⑤ 사회복지국가적 법 모델과 절차주의적 법 모델은 모두, 임대차 갈등을 다룰 때 임대인과 임차인이 대등한 관계가 아닐 수 있음을 고려하겠군.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+    <li id="q6-5">⑤ 사회복지국가적 법 모델과 절차주의적 법 모델은 모두, 임대차 갈등을 다룰 때 임대인과 임차인이 대등한 관계가 아닐 수 있음을 고려하겠군.<a class="src-tag" href="#ev49-na1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -241,11 +241,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob7">
   <p class="q-stem">7. (나)를 바탕으로 할 때, ㉮의 이유로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q7-1">① 임차인의 경제력이 충분하면 임대차 기간이 보장될 필요가 없기 때문이다.<a class="src-tag" href="#ev49-na3">지문 근거</a></li>
-    <li id="q7-2">② 임차인과 임대인이 법률에 규정된 내용을 계약으로써 변경할 수 없기 때문이다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
-    <li id="q7-3">③ 임차인의 권리가 법률로 정해져야 개인의 자유가 최대한 보장되기 때문이다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+    <li id="q7-1">① 임차인의 경제력이 충분하면 임대차 기간이 보장될 필요가 없기 때문이다.<a class="src-tag" href="#ev49-na3">오답 근거</a></li>
+    <li id="q7-2">② 임차인과 임대인이 법률에 규정된 내용을 계약으로써 변경할 수 없기 때문이다.<a class="src-tag" href="#ev49-na1">오답 근거</a></li>
+    <li id="q7-3">③ 임차인의 권리가 법률로 정해져야 개인의 자유가 최대한 보장되기 때문이다.<a class="src-tag" href="#ev49-na1">오답 근거</a></li>
     <li id="q7-4">④ 임대차 목적물인 주택이나 상가가 더 이상 임차인의 생활이나 생업의 근거가 아니기 때문이다.<a class="src-tag ans" href="#ev49-na3">정답 근거</a></li>
-    <li id="q7-5">⑤ 임차물이 상가인 경우 임대차의 내용 결정은 임차인의 사회·경제적 조건과 무관하기 때문이다.<a class="src-tag" href="#ev49-na1">지문 근거</a></li>
+    <li id="q7-5">⑤ 임차물이 상가인 경우 임대차의 내용 결정은 임차인의 사회·경제적 조건과 무관하기 때문이다.<a class="src-tag" href="#ev49-na1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -268,10 +268,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob8">
   <p class="q-stem">8. (가), (나)를 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="q8-1">① 갑이 A 주택에 실거주할 계획이 있음을 증명한 경우, 갑과 을 간의 A 주택 임대차는 갱신되지 않겠군.<a class="src-tag" href="#ev49-na2">지문 근거</a></li>
-    <li id="q8-2">② 을이 갱신 요구권을 행사하여 임대차 기간을 연장할 수 있다면, 이것은 평등과 연대의 가치 실현을 위해 마련된 의무 규정이 적용된 것이겠군.<a class="src-tag" href="#ev49-ga2">지문 근거</a></li>
-    <li id="q8-3">③ 을은 갑에게 「상가건물 임대차보호법」에 규정된 최단 존속 기간을 주장할 수 없겠군.<a class="src-tag" href="#ev49-na3">지문 근거</a></li>
-    <li id="q8-4">④ 을의 의사와 무관하게 갑이 B 상가 임대차를 종료시킬 수 있는 것은, 시민 개개인의 자유가 갑에게 보장된 것이겠군.<a class="src-tag" href="#ev49-ga1">지문 근거</a></li>
+    <li id="q8-1">① 갑이 A 주택에 실거주할 계획이 있음을 증명한 경우, 갑과 을 간의 A 주택 임대차는 갱신되지 않겠군.<a class="src-tag" href="#ev49-na2">오답 근거</a></li>
+    <li id="q8-2">② 을이 갱신 요구권을 행사하여 임대차 기간을 연장할 수 있다면, 이것은 평등과 연대의 가치 실현을 위해 마련된 의무 규정이 적용된 것이겠군.<a class="src-tag" href="#ev49-ga2">오답 근거</a></li>
+    <li id="q8-3">③ 을은 갑에게 「상가건물 임대차보호법」에 규정된 최단 존속 기간을 주장할 수 없겠군.<a class="src-tag" href="#ev49-na3">오답 근거</a></li>
+    <li id="q8-4">④ 을의 의사와 무관하게 갑이 B 상가 임대차를 종료시킬 수 있는 것은, 시민 개개인의 자유가 갑에게 보장된 것이겠군.<a class="src-tag" href="#ev49-ga1">오답 근거</a></li>
     <li id="q8-5">⑤ 갑과 을 간의 A 주택 임대차에 관한 분쟁 해결 절차에서는 조정위원회가 을을 위해 자료를 수집할 수 있겠군.<a class="src-tag ans" href="#ev49-na4">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -296,10 +296,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">9. 문맥상 ⓐ〜ⓔ와 가장 가까운 의미로 쓰인 것은?</p>
   <ul class="q-opts">
     <li id="q9-1">① ⓐ: 그는 신문 기사를 주장의 근거로 삼았다.<a class="src-tag ans" href="#ev49-ga1">정답 근거</a></li>
-    <li id="q9-2">② ⓑ: 아이가 한눈을 팔다가 친구와 부딪혔다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
-    <li id="q9-3">③ ⓒ: 그가 사용한 전문 용어들은 너무 어렵다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
-    <li id="q9-4">④ ⓓ: 열심히 장사했더니 이익이 많이 남았다.<a class="src-tag" href="#ev49-ga3">지문 근거</a></li>
-    <li id="q9-5">⑤ ⓔ: 언니가 화분들을 모두 베란다에 내놓았다.<a class="src-tag" href="#ev49-ga4">지문 근거</a></li>
+    <li id="q9-2">② ⓑ: 아이가 한눈을 팔다가 친구와 부딪혔다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
+    <li id="q9-3">③ ⓒ: 그가 사용한 전문 용어들은 너무 어렵다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
+    <li id="q9-4">④ ⓓ: 열심히 장사했더니 이익이 많이 남았다.<a class="src-tag" href="#ev49-ga3">오답 근거</a></li>
+    <li id="q9-5">⑤ ⓔ: 언니가 화분들을 모두 베란다에 내놓았다.<a class="src-tag" href="#ev49-ga4">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -337,7 +337,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[10 ~ 13] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[10 ~ 13] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev ans" id="ev1013-1">청정 에너지원 중 하나인 수소는 생산, 저장, 운송, 추출, 활용 등 전체 과정에서의 친환경성과 관련하여 높은 관심을 받고 있다. 재생 에너지를 통해 생산된 전기로 물을 전기분해하면 탄소 배출 없이 수소 생산이 가능하다.</span><a class="ev-tag ans" href="#q10-1">10-①</a></p>
   <p><span class="ev ans" id="ev1013-mch">㉠메틸사이클로헥세인(MCH): 톨루엔에 수소가 결합해 MCH가 되고 역으로 MCH가 톨루엔과 수소로 변환. MCH는 취급 안전성 및 독성이 휘발유와 유사하므로 석유의 저장과 운송을 위한 기존 인프라를 이용할 수 있다. 또한 MCH가 액체이므로 증발 기체 발생으로 인한 누출 위험이 거의 없다. 하지만 반복되면서 화합물이 불안정해지는 문제가 있다.</span><a class="ev-tag" href="#q10-2">10-②</a><a class="ev-tag ans" href="#q11-4">11-④</a></p>
   <p><span class="ev" id="ev1013-nh3">㉡암모니아: 질소 원자와 수소 원자로 이루어진 화합물. 분자당 세 개의 수소 원자를 포함하고 있어 물보다 분자당 저장된 수소가 많다. 암모니아는 기존 비료 산업에서 사용하는 합성법으로 생산할 수 있고, 대규모의 투자 없이 기존 인프라를 이용하여 저장 및 운송할 수 있다. 하지만 높은 독성으로 인한 위험성은 해결해야 할 과제이다. 암모니아에서의 수소 추출 방식으로는 전기분해, 광분해, 그리고 가장 많이 쓰이는 열분해가 있다. 각 방식에서는 암모니아 분해 반응이 일어나는데, 반응한 암모니아, 질소 기체, 수소 기체의 몰 수의 비는 2 : 1 : 3이다.</span><a class="ev-tag" href="#q10-3">10-③</a><a class="ev-tag" href="#q11-2">11-②③</a></p>
@@ -349,10 +349,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob10">
   <p class="q-stem">10. 윗글의 내용과 일치하지 <strong>않는</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q10-1">① 재생 에너지는 탄소 배출 없이 수소를 생산하기 위한 에너지원으로 사용될 수 있다.<a class="src-tag" href="#ev1013-1">지문 근거</a></li>
-    <li id="q10-2">② MCH는 휘발유와 유사한 취급 안전성을 갖는다.<a class="src-tag" href="#ev1013-mch">지문 근거</a></li>
-    <li id="q10-3">③ 광분해 방식으로 암모니아를 질소 기체와 수소 기체로 분해할 수 있다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
-    <li id="q10-4">④ 수소 연료 전지에 공급되는 물질은 수소와 산소이다.<a class="src-tag" href="#ev1013-fc">지문 근거</a></li>
+    <li id="q10-1">① 재생 에너지는 탄소 배출 없이 수소를 생산하기 위한 에너지원으로 사용될 수 있다.<a class="src-tag" href="#ev1013-1">오답 근거</a></li>
+    <li id="q10-2">② MCH는 휘발유와 유사한 취급 안전성을 갖는다.<a class="src-tag" href="#ev1013-mch">오답 근거</a></li>
+    <li id="q10-3">③ 광분해 방식으로 암모니아를 질소 기체와 수소 기체로 분해할 수 있다.<a class="src-tag" href="#ev1013-nh3">오답 근거</a></li>
+    <li id="q10-4">④ 수소 연료 전지에 공급되는 물질은 수소와 산소이다.<a class="src-tag" href="#ev1013-fc">오답 근거</a></li>
     <li id="q10-5">⑤ 수소 연료 전지에서 수소 이온은 전자와 마찬가지로 도선을 통해 이동한다.<a class="src-tag ans" href="#ev1013-fc">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -376,11 +376,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob11">
   <p class="q-stem">11. ㉠, ㉡에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q11-1">① ㉠은 증발 기체가 많이 발생하므로 누출 위험성이 크다.<a class="src-tag" href="#ev1013-mch">지문 근거</a></li>
-    <li id="q11-2">② ㉡은 독성이 낮아 위험성이 크지 않다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
-    <li id="q11-3">③ ㉡은 운송을 위한 대규모의 투자가 필요하다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+    <li id="q11-1">① ㉠은 증발 기체가 많이 발생하므로 누출 위험성이 크다.<a class="src-tag" href="#ev1013-mch">오답 근거</a></li>
+    <li id="q11-2">② ㉡은 독성이 낮아 위험성이 크지 않다.<a class="src-tag" href="#ev1013-nh3">오답 근거</a></li>
+    <li id="q11-3">③ ㉡은 운송을 위한 대규모의 투자가 필요하다.<a class="src-tag" href="#ev1013-nh3">오답 근거</a></li>
     <li id="q11-4">④ ㉠은 ㉡보다 분자당 저장되어 있는 수소 원자가 많다.<a class="src-tag ans" href="#ev1013-mch">정답 근거</a></li>
-    <li id="q11-5">⑤ ㉠은 ㉡과 달리, 기존 인프라를 이용하여 저장할 수 있다.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+    <li id="q11-5">⑤ ㉠은 ㉡과 달리, 기존 인프라를 이용하여 저장할 수 있다.<a class="src-tag" href="#ev1013-nh3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -405,11 +405,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob12">
   <p class="q-stem">12. 윗글의 Ⓐ와 &lt;보기&gt;의 Ⓑ를 비교하여 탐구한 내용으로 가장 적절한 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="q12-1">① Ⓐ에서 질소 기체를 생성하는 것과 달리, Ⓑ에서는 질소 기체를 생성하지 않겠군.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
-    <li id="q12-2">② Ⓐ에서 생성된 수소 기체는 Ⓑ에서 생성된 수소 기체와 달리, 부반응에 의해서 생겼군.<a class="src-tag" href="#ev1013-thermal">지문 근거</a></li>
-    <li id="q12-3">③ Ⓐ에서 암모니아를 공급했을 때의 전환율은 Ⓑ에서 암모니아를 공급했을 때의 전환율보다 작겠군.<a class="src-tag" href="#ev1013-thermal">지문 근거</a></li>
+    <li id="q12-1">① Ⓐ에서 질소 기체를 생성하는 것과 달리, Ⓑ에서는 질소 기체를 생성하지 않겠군.<a class="src-tag" href="#ev1013-nh3">오답 근거</a></li>
+    <li id="q12-2">② Ⓐ에서 생성된 수소 기체는 Ⓑ에서 생성된 수소 기체와 달리, 부반응에 의해서 생겼군.<a class="src-tag" href="#ev1013-thermal">오답 근거</a></li>
+    <li id="q12-3">③ Ⓐ에서 암모니아를 공급했을 때의 전환율은 Ⓑ에서 암모니아를 공급했을 때의 전환율보다 작겠군.<a class="src-tag" href="#ev1013-thermal">오답 근거</a></li>
     <li id="q12-4">④ Ⓑ는 Ⓐ와 비교할 때, 같은 양의 암모니아를 공급한다면 더 적은 양의 수소 기체를 생성하겠군.<a class="src-tag ans" href="#ev1013-thermal">정답 근거</a></li>
-    <li id="q12-5">⑤ Ⓑ에서는 Ⓐ에서와 달리, 반응한 암모니아의 몰 수보다 많은 몰 수의 수소 기체가 생성된 것이겠군.<a class="src-tag" href="#ev1013-nh3">지문 근거</a></li>
+    <li id="q12-5">⑤ Ⓑ에서는 Ⓐ에서와 달리, 반응한 암모니아의 몰 수보다 많은 몰 수의 수소 기체가 생성된 것이겠군.<a class="src-tag" href="#ev1013-nh3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -435,11 +435,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob13">
   <p class="q-stem">13. 문맥상 ⓐ〜ⓔ와 바꿔 쓰기에 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q13-1">① ⓐ: 단축(短縮)할<a class="src-tag" href="#ev1013-1">지문 근거</a></li>
-    <li id="q13-2">② ⓑ: 제작(製作)하며<a class="src-tag" href="#ev1013-mch">지문 근거</a></li>
+    <li id="q13-1">① ⓐ: 단축(短縮)할<a class="src-tag" href="#ev1013-1">오답 근거</a></li>
+    <li id="q13-2">② ⓑ: 제작(製作)하며<a class="src-tag" href="#ev1013-mch">오답 근거</a></li>
     <li id="q13-3">③ ⓒ: 활용(活用)되는<a class="src-tag ans" href="#ev1013-nh3">정답 근거</a></li>
-    <li id="q13-4">④ ⓓ: 습득(拾得)되는데<a class="src-tag" href="#ev1013-thermal">지문 근거</a></li>
-    <li id="q13-5">⑤ ⓔ: 성행(盛行)하지<a class="src-tag" href="#ev1013-fc">지문 근거</a></li>
+    <li id="q13-4">④ ⓓ: 습득(拾得)되는데<a class="src-tag" href="#ev1013-thermal">오답 근거</a></li>
+    <li id="q13-5">⑤ ⓔ: 성행(盛行)하지<a class="src-tag" href="#ev1013-fc">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -478,7 +478,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[14 ~ 17] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[14 ~ 17] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev ans" id="ev1417-1">인간을 정보와 독립적으로 존재하며 정보는 인간의 도구에 불과하다는 인간중심주의와 달리, 플로리디의 정보 철학은 인간을 정보적 존재의 하나로 간주한다. 인간을 포함한 세계 내 모든 존재는 속성과 행위가 정보로 환원된다는 것이다. 이렇듯 속성과 행위가 정보로 환원되는 정보적 존재를 플로리디는 '인포그'라고 부른다.</span><a class="ev-tag ans" href="#q14-3">14-③</a></p>
   <p><span class="ev" id="ev1417-2">인포그는 정보적으로 상호 연결되어 영향을 주고받는 존재이다. 상호 연결되었다는 것의 의미는, 다른 정보를 변화시키는 행위자 즉 주체인 동시에 다른 정보에 의해 변화되는 대상이라는 것이다.</span><a class="ev-tag" href="#q14-5">14-⑤</a></p>
   <p><span class="ev" id="ev1417-ethics">인포그의 '있음'은 '상호 연결의 주체와 대상이 될 수 있다'는 뜻으로 정의된다. 모든 인포그들은 각자의 본성에 적합한 방식으로 '있을' 나름의 권리를 가진다고 플로리디는 주장한다. 플로리디는 존재하는 것의 내재적 가치를 '있음'에서 찾음으로써 인공물로까지 도덕적 대상의 범위를 확장한다.</span><a class="ev-tag" href="#q16-1">16-①</a><a class="ev-tag" href="#q16-5">16-⑤</a></p>
@@ -490,11 +490,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob14">
   <p class="q-stem">14. 플로리디의 정보 철학에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q14-1">① '있음'의 개념은 경험주의에서 정의하는 것과 같은 뜻을 지닌다.<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
-    <li id="q14-2">② 인간과 영향을 주고받는 정보는 모두 음성 정보의 형태로 전달된다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+    <li id="q14-1">① '있음'의 개념은 경험주의에서 정의하는 것과 같은 뜻을 지닌다.<a class="src-tag" href="#ev1417-ethics">오답 근거</a></li>
+    <li id="q14-2">② 인간과 영향을 주고받는 정보는 모두 음성 정보의 형태로 전달된다.<a class="src-tag" href="#ev1417-2">오답 근거</a></li>
     <li id="q14-3">③ 사물이 지닌 속성과 마찬가지로 인간이 지닌 속성 또한 정보로 환원될 수 있다.<a class="src-tag ans" href="#ev1417-1">정답 근거</a></li>
-    <li id="q14-4">④ 추상화 층위에서 생략되는 정보는 층위를 선택한 주체의 목적에 부합하는 정보이다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
-    <li id="q14-5">⑤ 하나의 정보적 존재는 다른 정보적 존재들과의 상호 연결 관계를 둘 이상 맺을 수 없다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
+    <li id="q14-4">④ 추상화 층위에서 생략되는 정보는 층위를 선택한 주체의 목적에 부합하는 정보이다.<a class="src-tag" href="#ev1417-abs">오답 근거</a></li>
+    <li id="q14-5">⑤ 하나의 정보적 존재는 다른 정보적 존재들과의 상호 연결 관계를 둘 이상 맺을 수 없다.<a class="src-tag" href="#ev1417-2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -520,10 +520,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob15">
   <p class="q-stem">15. ㉠의 의미로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q15-1">① 인포그가 속한 공간은, 오프라인 공간이 아닌 온라인 공간이다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
-    <li id="q15-2">② 주체가 어떤 추상화 층위를 택하는가에 따라, 인포그는 행위자와 대상 중 어느 하나에만 해당한다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
-    <li id="q15-3">③ 추상화 층위에 의한 주체와 대상 사이의 매개는, 인포그가 가지는 속성에 대한 인식이 객관적임을 보장한다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
-    <li id="q15-4">④ 인포그들이 서로 의존함으로써 존재하는 공간은, 추상화 층위를 통해 주체가 전적으로 만들어 낸 허구이다.<a class="src-tag" href="#ev1417-const">지문 근거</a></li>
+    <li id="q15-1">① 인포그가 속한 공간은, 오프라인 공간이 아닌 온라인 공간이다.<a class="src-tag" href="#ev1417-abs">오답 근거</a></li>
+    <li id="q15-2">② 주체가 어떤 추상화 층위를 택하는가에 따라, 인포그는 행위자와 대상 중 어느 하나에만 해당한다.<a class="src-tag" href="#ev1417-2">오답 근거</a></li>
+    <li id="q15-3">③ 추상화 층위에 의한 주체와 대상 사이의 매개는, 인포그가 가지는 속성에 대한 인식이 객관적임을 보장한다.<a class="src-tag" href="#ev1417-abs">오답 근거</a></li>
+    <li id="q15-4">④ 인포그들이 서로 의존함으로써 존재하는 공간은, 추상화 층위를 통해 주체가 전적으로 만들어 낸 허구이다.<a class="src-tag" href="#ev1417-const">오답 근거</a></li>
     <li id="q15-5">⑤ 인포그가 지닌 속성이라는 정보는, 주체가 자신을 둘러싼 세계를 어떤 관점을 통해서 인식하는가에 의존한다.<a class="src-tag ans" href="#ev1417-abs">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -549,10 +549,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">16. 윗글을 바탕으로 ㄱ〜ㅁ에 대해 판단한 것으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q16-1">① ㄱ은 플로리디의 입장과 상충하지 않는다.<a class="src-tag ans" href="#ev1417-ethics">정답 근거</a></li>
-    <li id="q16-2">② ㄴ은 플로리디의 입장과 상충한다.<a class="src-tag" href="#ev1417-2">지문 근거</a></li>
-    <li id="q16-3">③ ㄷ은 인간중심주의의 입장과 상충하지 않는다.<a class="src-tag" href="#ev1417-1">지문 근거</a></li>
-    <li id="q16-4">④ ㄹ은 뉴턴의 입장과 상충하지만, 플로리디의 입장과는 상충하지 않는다.<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
-    <li id="q16-5">⑤ ㅁ은 생명 중심 윤리학의 입장과 상충하지 않지만, 플로리디의 입장과는 상충한다.<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
+    <li id="q16-2">② ㄴ은 플로리디의 입장과 상충한다.<a class="src-tag" href="#ev1417-2">오답 근거</a></li>
+    <li id="q16-3">③ ㄷ은 인간중심주의의 입장과 상충하지 않는다.<a class="src-tag" href="#ev1417-1">오답 근거</a></li>
+    <li id="q16-4">④ ㄹ은 뉴턴의 입장과 상충하지만, 플로리디의 입장과는 상충하지 않는다.<a class="src-tag" href="#ev1417-abs">오답 근거</a></li>
+    <li id="q16-5">⑤ ㅁ은 생명 중심 윤리학의 입장과 상충하지 않지만, 플로리디의 입장과는 상충한다.<a class="src-tag" href="#ev1417-ethics">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -575,11 +575,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob17">
   <p class="q-stem">17. &lt;보기&gt;는 플로리디와 학생이 나눈 가상의 대화이다. 윗글을 참고할 때, ㉮에 들어갈 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="q17-1">① AI-TCS는 호모포이에티쿠스에 속하지 않으며, 칸트 윤리학에서 도덕 행위자로서의 지위가 인정될 자격을 갖지 않는다고<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
+    <li id="q17-1">① AI-TCS는 호모포이에티쿠스에 속하지 않으며, 칸트 윤리학에서 도덕 행위자로서의 지위가 인정될 자격을 갖지 않는다고<a class="src-tag" href="#ev1417-ethics">오답 근거</a></li>
     <li id="q17-2">② 칸트와는 대조적으로, 자유 의지를 지니지 않은 비인간 행위자인 AI-TCS에는 교통 혼란에 대한 책임을 지울 수 없다고<a class="src-tag ans" href="#ev1417-ethics">정답 근거</a></li>
-    <li id="q17-3">③ AI-TCS와 같은 인공물이 바람직하지 않은 결과를 초래하지 않게끔 예방적으로 관리할 책임이 호모포이에티쿠스에게 있다고<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
-    <li id="q17-4">④ 도로의 교통 통제에 대한 규칙을 변경한 AI-TCS에 대해 도덕적 옳고 그름을 평가하는 것이 칸트와 달리 가능하다고<a class="src-tag" href="#ev1417-ethics">지문 근거</a></li>
-    <li id="q17-5">⑤ AI-TCS와 같은 인포그들이 상호 의존함으로써 존재하는 생활 환경으로서의 인포스피어를 더 나은 공간으로 가꿔 나가는 데 호모포이에티쿠스가 책임을 다해야 한다고<a class="src-tag" href="#ev1417-abs">지문 근거</a></li>
+    <li id="q17-3">③ AI-TCS와 같은 인공물이 바람직하지 않은 결과를 초래하지 않게끔 예방적으로 관리할 책임이 호모포이에티쿠스에게 있다고<a class="src-tag" href="#ev1417-ethics">오답 근거</a></li>
+    <li id="q17-4">④ 도로의 교통 통제에 대한 규칙을 변경한 AI-TCS에 대해 도덕적 옳고 그름을 평가하는 것이 칸트와 달리 가능하다고<a class="src-tag" href="#ev1417-ethics">오답 근거</a></li>
+    <li id="q17-5">⑤ AI-TCS와 같은 인포그들이 상호 의존함으로써 존재하는 생활 환경으로서의 인포스피어를 더 나은 공간으로 가꿔 나가는 데 호모포이에티쿠스가 책임을 다해야 한다고<a class="src-tag" href="#ev1417-abs">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -615,7 +615,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[18 ~ 21] 다음 글을 읽고 물음에 답하시오. (이범선, 「표구된 휴지」)<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[18 ~ 21] 다음 글을 읽고 물음에 답하시오. (이범선, 「표구된 휴지」)<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev" id="ev1821-1">은행 창구에 매일 저녁 들르는 지게꾼 청년. 처음엔 안내원이 막았지만, 예금 창구 여직원의 도움으로 통장 개설. 이후 매일 이백~오백 원씩 입금 반복.</span><a class="ev-tag" href="#q19-5">19-⑤</a></p>
   <p><span class="ev" id="ev1821-2">어느 날 청년이 저금통 동전을 종이에 싸 들고 옴. 그 종이가 고향에서 온 편지(창호지). 친구 은행원이 그 편지를 주워 화가에게 표구를 의뢰.</span><a class="ev-tag" href="#q18-1">18-①</a><a class="ev-tag" href="#q18-2">18-②</a></p>
   <p><span class="ev" id="ev1821-letter">편지 내용: 우물집할머니 갔다 / 장손이 장가감 / 구장네 탄실이 시집감 / 앞집 순이 감자 가져옴 / 니는 빨리 장가 안 들어야 건나 / 돈조타. 그러나 너거 엄마는 돈보다도 너가 더조타한다 / 밥 묵고 배 아프면 소금 한줌 무그라 / 콩나물 무거라. 참기름 마니처서 무그라</span><a class="ev-tag" href="#q20-1">20-①②③④⑤</a></p>
@@ -626,10 +626,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob18">
   <p class="q-stem">18. ㉠〜㉤을 중심으로 윗글을 이해한 내용으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q18-1">① '화가'는 대상을 표구할 수 없다는 인식을 바탕으로 눈앞의 종이를 ㉠으로 지칭하였다.<a class="src-tag" href="#ev1821-2">지문 근거</a></li>
-    <li id="q18-2">② '화가'는 눈앞의 종이가 자신에게 필요한 것임에 주목하여 이를 ㉡으로 지칭하였다.<a class="src-tag" href="#ev1821-2">지문 근거</a></li>
-    <li id="q18-3">③ '표구사 주인'은 종이에 담긴 내용에 주목하여 '화가'가 이를 ㉢이라 한 말에 동의하였다.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
-    <li id="q18-4">④ '화가'는 종이가 ㉣의 가치를 갖는다고 생각하여 자신이 주문한 물건을 찾으러 갔다.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
+    <li id="q18-1">① '화가'는 대상을 표구할 수 없다는 인식을 바탕으로 눈앞의 종이를 ㉠으로 지칭하였다.<a class="src-tag" href="#ev1821-2">오답 근거</a></li>
+    <li id="q18-2">② '화가'는 눈앞의 종이가 자신에게 필요한 것임에 주목하여 이를 ㉡으로 지칭하였다.<a class="src-tag" href="#ev1821-2">오답 근거</a></li>
+    <li id="q18-3">③ '표구사 주인'은 종이에 담긴 내용에 주목하여 '화가'가 이를 ㉢이라 한 말에 동의하였다.<a class="src-tag" href="#ev1821-3">오답 근거</a></li>
+    <li id="q18-4">④ '화가'는 종이가 ㉣의 가치를 갖는다고 생각하여 자신이 주문한 물건을 찾으러 갔다.<a class="src-tag" href="#ev1821-3">오답 근거</a></li>
     <li id="q18-5">⑤ '화가'는 표구한 종이의 글에서 그림 같은 느낌도 받으며 ㉤이 점차 화실의 중심점이 되고 있음을 인식하였다.<a class="src-tag ans" href="#ev1821-3">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -656,10 +656,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob19">
   <p class="q-stem">19. [A]의 서술상 특징으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q19-1">① 대화 내용을 간접 인용으로 서술하며 인물을 비판하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
-    <li id="q19-2">② 편집자적 논평을 통해 인물 간의 갈등이 지닌 의미를 부각하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
-    <li id="q19-3">③ 동시에 진행되는 사건을 병렬하여 인물의 상반된 태도를 드러내고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
-    <li id="q19-4">④ 추측하는 진술로 장면 서술을 마무리하여 인물의 빠른 움직임을 부각하고 있다.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q19-1">① 대화 내용을 간접 인용으로 서술하며 인물을 비판하고 있다.<a class="src-tag" href="#ev1821-1">오답 근거</a></li>
+    <li id="q19-2">② 편집자적 논평을 통해 인물 간의 갈등이 지닌 의미를 부각하고 있다.<a class="src-tag" href="#ev1821-1">오답 근거</a></li>
+    <li id="q19-3">③ 동시에 진행되는 사건을 병렬하여 인물의 상반된 태도를 드러내고 있다.<a class="src-tag" href="#ev1821-1">오답 근거</a></li>
+    <li id="q19-4">④ 추측하는 진술로 장면 서술을 마무리하여 인물의 빠른 움직임을 부각하고 있다.<a class="src-tag" href="#ev1821-1">오답 근거</a></li>
     <li id="q19-5">⑤ 거리와 위치를 나타내는 표현을 사용하여 인물의 불안한 심리를 부각하고 있다.<a class="src-tag ans" href="#ev1821-1">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -683,11 +683,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob20">
   <p class="q-stem">20. 편지의 내용에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q20-1">① 수신자도 알 만한 사람들의 소식들을 포함하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
+    <li id="q20-1">① 수신자도 알 만한 사람들의 소식들을 포함하고 있다.<a class="src-tag" href="#ev1821-letter">오답 근거</a></li>
     <li id="q20-2">② 혼사와 관련하여 수신자의 현재 상황을 지지하고 있다.<a class="src-tag ans" href="#ev1821-letter">정답 근거</a></li>
-    <li id="q20-3">③ 아픈 상황이 생겼을 경우의 대처 방법을 전달하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
-    <li id="q20-4">④ 수신자의 먹을거리에 대하여 관심을 보이며 조언하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
-    <li id="q20-5">⑤ 재물보다 수신자를 더 중요하게 여기는 마음을 전달하고 있다.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
+    <li id="q20-3">③ 아픈 상황이 생겼을 경우의 대처 방법을 전달하고 있다.<a class="src-tag" href="#ev1821-letter">오답 근거</a></li>
+    <li id="q20-4">④ 수신자의 먹을거리에 대하여 관심을 보이며 조언하고 있다.<a class="src-tag" href="#ev1821-letter">오답 근거</a></li>
+    <li id="q20-5">⑤ 재물보다 수신자를 더 중요하게 여기는 마음을 전달하고 있다.<a class="src-tag" href="#ev1821-letter">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -710,11 +710,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob21">
   <p class="q-stem">21. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="q21-1">① ⓐ에서 '지게꾼이 있단다'라고 들었음을 서술한 뒤에 ⓑ의 첫 문장을 이어 연결한 것은, ⓐ에서 ⓑ로 서술 시점이 변하는 부분을 한 문단 안에 이어 연결한 것이군.<a class="src-tag" href="#ev1821-1">지문 근거</a></li>
+    <li id="q21-1">① ⓐ에서 '지게꾼이 있단다'라고 들었음을 서술한 뒤에 ⓑ의 첫 문장을 이어 연결한 것은, ⓐ에서 ⓑ로 서술 시점이 변하는 부분을 한 문단 안에 이어 연결한 것이군.<a class="src-tag" href="#ev1821-1">오답 근거</a></li>
     <li id="q21-2">② ⓑ에서 '구석으로 갔다'라고 마무리하고 '이게'로 ⓐ를 다시 이어 간 것은, ⓑ에서 ⓐ로 시간적 선후가 역전되면서 이어지는 부분을 지시 표현을 사용하여 다시 연결한 것이군.<a class="src-tag ans" href="#ev1821-2">정답 근거</a></li>
-    <li id="q21-3">③ ⓐ에서 '재미있다'고 한 '친구'의 말 뒤에 ⓒ의 일부를 삽입한 것은, '화가'가 편지 내용과 친구의 장난기를 흥미롭게 받아들이며 비시시 웃게 되는 이유를 보여 주는군.<a class="src-tag" href="#ev1821-letter">지문 근거</a></li>
-    <li id="q21-4">④ ⓐ에서 '비행기가 떠날 때'의 장면 뒤에 '니떠나고'로 시작되는 ⓒ의 일부를 삽입한 것은, 유사한 의미의 표현을 떠올린 '화가'가 '그길로' 표구사로 가는 행위로 연결되는군.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
-    <li id="q21-5">⑤ ⓐ에서 '친구의 심정'을 생각한 내용 다음에 앞서 제시했던 ⓒ의 일부를 다시 삽입한 것은, '화가'가 편지 내용들을 감상하며 그 의미를 다시 생각하고 있음을 보여 주는군.<a class="src-tag" href="#ev1821-3">지문 근거</a></li>
+    <li id="q21-3">③ ⓐ에서 '재미있다'고 한 '친구'의 말 뒤에 ⓒ의 일부를 삽입한 것은, '화가'가 편지 내용과 친구의 장난기를 흥미롭게 받아들이며 비시시 웃게 되는 이유를 보여 주는군.<a class="src-tag" href="#ev1821-letter">오답 근거</a></li>
+    <li id="q21-4">④ ⓐ에서 '비행기가 떠날 때'의 장면 뒤에 '니떠나고'로 시작되는 ⓒ의 일부를 삽입한 것은, 유사한 의미의 표현을 떠올린 '화가'가 '그길로' 표구사로 가는 행위로 연결되는군.<a class="src-tag" href="#ev1821-3">오답 근거</a></li>
+    <li id="q21-5">⑤ ⓐ에서 '친구의 심정'을 생각한 내용 다음에 앞서 제시했던 ⓒ의 일부를 다시 삽입한 것은, '화가'가 편지 내용들을 감상하며 그 의미를 다시 생각하고 있음을 보여 주는군.<a class="src-tag" href="#ev1821-3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -749,7 +749,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[22 ~ 26] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><strong>(가) 홍정유, 「동유가」</strong></p>
   <p><span class="ev" id="ev2226-ga1">화룡담 깊은 못이 너럭바위 아래 있어 / 뿜으며 들썩이며 변화가 무궁하다 / 사자봉 높은 돌이 용소를 굽어보되 / 바위 중턱 파인 곳에 돌 하나 끼어 있다 / 중의 말이 황당하여 대강 걸러 들으니 / 저 바위의 사자가 화룡더러 말하기를 / 이내 몸 육중하여 무너져 내려가면 / 너의 깊은 못이 터전도 없을 테니 / 네가 재주 많다 하니 내 발 조금 고여 다오 / 화룡이 옳게 여겨 건너편 산에 올라 / 저 돌을 빼다가 이 바위 괴었다 하네</span><a class="ev-tag" href="#q24-1">24-①②③</a></p>
   <p><span class="ev" id="ev2226-ga2">들으니 그럴듯해 건넛산 바라보니 / 과연 산 중턱에 돌 하나 빠진 틈이 / 이 돌 갖다 끼울 만큼 크기가 비슷하다 [A] / 한참을 구경하고 도로 내려 금강문에... / 만물초 가는 길이 온정을 지난다기에... / ⓐ만물초 가는 길이 칠십 리 왕복이요 / 청명한 일기에도 구름 끼면 못 보는데 / 하물며 비 오는 날 지척을 분간하랴 / 들으니 그럴듯하고 일행들도 옳다 하여 / 봉래의 후약을 만물초에 남겨 두고 / 행장을 다시 차려 총석으로 향할 제 / 금강 내외산을 이곳에서 작별하니 / 만 이천 봉 빛이 눈앞에 역력하다</span><a class="ev-tag" href="#q23-3">23-③</a><a class="ev-tag" href="#q26-1">26-①</a></p>
@@ -763,11 +763,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob22">
   <p class="q-stem">22. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q22-1">① 자연물에서 덕성을 발견하여 사회적 차원으로 일반화하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
-    <li id="q22-2">② 계절의 변화를 제시하여 삶에 대한 관조적 태도를 드러내고 있다.<a class="src-tag" href="#ev2226-na1">지문 근거</a></li>
+    <li id="q22-1">① 자연물에서 덕성을 발견하여 사회적 차원으로 일반화하고 있다.<a class="src-tag" href="#ev2226-ga1">오답 근거</a></li>
+    <li id="q22-2">② 계절의 변화를 제시하여 삶에 대한 관조적 태도를 드러내고 있다.<a class="src-tag" href="#ev2226-na1">오답 근거</a></li>
     <li id="q22-3">③ 자연물의 모습에 주목하여 자연에 대한 친화적 태도를 드러내고 있다.<a class="src-tag ans" href="#ev2226-ga1">정답 근거</a></li>
-    <li id="q22-4">④ 자연물 간의 조화로움에 빗대어 현실에서 겪는 삶의 문제를 제기하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
-    <li id="q22-5">⑤ 자연의 극한적 상황을 제시하여 인간의 나약함을 극복하고자 하는 태도를 드러내고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+    <li id="q22-4">④ 자연물 간의 조화로움에 빗대어 현실에서 겪는 삶의 문제를 제기하고 있다.<a class="src-tag" href="#ev2226-ga1">오답 근거</a></li>
+    <li id="q22-5">⑤ 자연의 극한적 상황을 제시하여 인간의 나약함을 극복하고자 하는 태도를 드러내고 있다.<a class="src-tag" href="#ev2226-na3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -790,11 +790,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob23">
   <p class="q-stem">23. ⓐ, ⓑ에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q23-1">① ⓐ는 화자가 날씨의 영향을 받지 않고 갈 수 있는 길이다.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
-    <li id="q23-2">② ⓑ는 글쓴이가 걷는 도중에 많은 사람들을 마주치는 길이다.<a class="src-tag" href="#ev2226-na2">지문 근거</a></li>
+    <li id="q23-1">① ⓐ는 화자가 날씨의 영향을 받지 않고 갈 수 있는 길이다.<a class="src-tag" href="#ev2226-ga2">오답 근거</a></li>
+    <li id="q23-2">② ⓑ는 글쓴이가 걷는 도중에 많은 사람들을 마주치는 길이다.<a class="src-tag" href="#ev2226-na2">오답 근거</a></li>
     <li id="q23-3">③ ⓐ는 화자가 가려던 길이고, ⓑ는 글쓴이가 가고 있는 길이다.<a class="src-tag ans" href="#ev2226-ga2">정답 근거</a></li>
-    <li id="q23-4">④ ⓐ는 화자가 일행을 찾아 떠나는 길이고, ⓑ는 글쓴이가 일행을 마중하러 나가는 길이다.<a class="src-tag" href="#ev2226-na2">지문 근거</a></li>
-    <li id="q23-5">⑤ ⓐ와 ⓑ는 각각 화자와 글쓴이가 걷기에 편한 길이다.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
+    <li id="q23-4">④ ⓐ는 화자가 일행을 찾아 떠나는 길이고, ⓑ는 글쓴이가 일행을 마중하러 나가는 길이다.<a class="src-tag" href="#ev2226-na2">오답 근거</a></li>
+    <li id="q23-5">⑤ ⓐ와 ⓑ는 각각 화자와 글쓴이가 걷기에 편한 길이다.<a class="src-tag" href="#ev2226-ga2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -819,11 +819,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob24">
   <p class="q-stem">24. [A]에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q24-1">① 화자는 '용소' 위에 있는 '사자봉'의 중턱 파인 곳에 '돌 하나'가 끼어 있는 모습을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
-    <li id="q24-2">② 화자는 '중'에게 전해 들은 말을 통해 '사자봉' 중턱 파인 곳의 위치가 사자 형상의 발밑임을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
-    <li id="q24-3">③ 화자는 '중'에게 전해 들은 말을 통해 파인 곳에 끼어 있는 '돌 하나'는 '못'의 용이 재주를 부려 옮긴 것임을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">지문 근거</a></li>
+    <li id="q24-1">① 화자는 '용소' 위에 있는 '사자봉'의 중턱 파인 곳에 '돌 하나'가 끼어 있는 모습을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">오답 근거</a></li>
+    <li id="q24-2">② 화자는 '중'에게 전해 들은 말을 통해 '사자봉' 중턱 파인 곳의 위치가 사자 형상의 발밑임을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">오답 근거</a></li>
+    <li id="q24-3">③ 화자는 '중'에게 전해 들은 말을 통해 파인 곳에 끼어 있는 '돌 하나'는 '못'의 용이 재주를 부려 옮긴 것임을 제시하고 있다.<a class="src-tag" href="#ev2226-ga1">오답 근거</a></li>
     <li id="q24-4">④ 화자는 '중'의 말을 듣고 자신이 '건너편 산'에 올라가 '사자봉'을 바라보는 상황을 제시하고 있다.<a class="src-tag ans" href="#ev2226-ga2">정답 근거</a></li>
-    <li id="q24-5">⑤ 화자는 '중'의 말을 듣고 산 중턱의 '틈'과 '이 돌'을 견주면서 그 크기가 유사함을 제시하고 있다.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
+    <li id="q24-5">⑤ 화자는 '중'의 말을 듣고 산 중턱의 '틈'과 '이 돌'을 견주면서 그 크기가 유사함을 제시하고 있다.<a class="src-tag" href="#ev2226-ga2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -846,11 +846,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob25">
   <p class="q-stem">25. (나)에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q25-1">① '솔'의 생김새에서 '파라솔'을 연상하면서, 쉴 수 있는 공간을 떠올리고 있다.<a class="src-tag" href="#ev2226-na1">지문 근거</a></li>
+    <li id="q25-1">① '솔'의 생김새에서 '파라솔'을 연상하면서, 쉴 수 있는 공간을 떠올리고 있다.<a class="src-tag" href="#ev2226-na1">오답 근거</a></li>
     <li id="q25-2">② '초현실파의 그림' 같은 공간에서 '뛰어가 매달리'는 행동을 하면서, '혼례식장'을 걷는 '신랑 신부'의 모습을 상상하고 있다.<a class="src-tag ans" href="#ev2226-na2">정답 근거</a></li>
-    <li id="q25-3">③ '뽀―얀' 물거품이 '눈보라처럼' 퍼지는 바닷가의 풍경을 바라보면서, 바다를 젊음과 연결하고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
-    <li id="q25-4">④ 밤 풍경 위를 채운 '달빛'을 '달의 물결'로 인식하면서, 세상 곳곳을 비추는 달의 속성을 발견하고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
-    <li id="q25-5">⑤ '끝없는 사막'과 '별의 세계'에 미치는 달빛을 '사람'의 미미함과 대비하면서, 달빛의 무한함에 대해 사색하고 있다.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+    <li id="q25-3">③ '뽀―얀' 물거품이 '눈보라처럼' 퍼지는 바닷가의 풍경을 바라보면서, 바다를 젊음과 연결하고 있다.<a class="src-tag" href="#ev2226-na3">오답 근거</a></li>
+    <li id="q25-4">④ 밤 풍경 위를 채운 '달빛'을 '달의 물결'로 인식하면서, 세상 곳곳을 비추는 달의 속성을 발견하고 있다.<a class="src-tag" href="#ev2226-na3">오답 근거</a></li>
+    <li id="q25-5">⑤ '끝없는 사막'과 '별의 세계'에 미치는 달빛을 '사람'의 미미함과 대비하면서, 달빛의 무한함에 대해 사색하고 있다.<a class="src-tag" href="#ev2226-na3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -873,11 +873,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob26">
   <p class="q-stem">26. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="q26-1">① (가)는 '점심을 먹은 후'에 '극락고개'를 넘어 '오 리 남짓' 가는 것으로 표현한 데서, 시간의 순서에 따른 장소의 이동을 사실적으로 기록하려는 양상이 드러나는군.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
-    <li id="q26-2">② (나)는 '솔'의 모습을 '푸르'고 '윤택하다'고 표현한 데서, 여행 장소에서 관심을 갖게 된 대상에 대한 인상을 감각적으로 묘사하려는 양상이 드러나는군.<a class="src-tag" href="#ev2226-na1">지문 근거</a></li>
+    <li id="q26-1">① (가)는 '점심을 먹은 후'에 '극락고개'를 넘어 '오 리 남짓' 가는 것으로 표현한 데서, 시간의 순서에 따른 장소의 이동을 사실적으로 기록하려는 양상이 드러나는군.<a class="src-tag" href="#ev2226-ga2">오답 근거</a></li>
+    <li id="q26-2">② (나)는 '솔'의 모습을 '푸르'고 '윤택하다'고 표현한 데서, 여행 장소에서 관심을 갖게 된 대상에 대한 인상을 감각적으로 묘사하려는 양상이 드러나는군.<a class="src-tag" href="#ev2226-na1">오답 근거</a></li>
     <li id="q26-3">③ (가)는 '우물집'을 '문 열고 구경하'는 데서, (나)는 '산산'함에도 '여관을 나섰다'는 데서, 동일한 장소를 다시 찾아가 감흥을 새로 얻고자 하는 욕구를 충족하려는 모습이 드러나는군.<a class="src-tag ans" href="#ev2226-na3">정답 근거</a></li>
-    <li id="q26-4">④ (가)는 '조반' 먹은 것을 '이십일 일'로, (나)는 '동해여관'으로 숙소를 정한 것을 '7월 3일(금)'으로 날짜를 밝혀 기록한 데서, 여정의 경험을 일기 형식을 사용하여 표현했음이 드러나는군.<a class="src-tag" href="#ev2226-ga2">지문 근거</a></li>
-    <li id="q26-5">⑤ (가)는 '주막 주인'이 '만류'한 일을, (나)는 '주인'이 '보름달'이라 답한 일을 기록한 데서, 여정 중의 만남에서 정보를 얻은 경험을 기억할 만한 것으로 여기는 모습이 드러나는군.<a class="src-tag" href="#ev2226-na3">지문 근거</a></li>
+    <li id="q26-4">④ (가)는 '조반' 먹은 것을 '이십일 일'로, (나)는 '동해여관'으로 숙소를 정한 것을 '7월 3일(금)'으로 날짜를 밝혀 기록한 데서, 여정의 경험을 일기 형식을 사용하여 표현했음이 드러나는군.<a class="src-tag" href="#ev2226-ga2">오답 근거</a></li>
+    <li id="q26-5">⑤ (가)는 '주막 주인'이 '만류'한 일을, (나)는 '주인'이 '보름달'이라 답한 일을 기록한 데서, 여정 중의 만남에서 정보를 얻은 경험을 기억할 만한 것으로 여기는 모습이 드러나는군.<a class="src-tag" href="#ev2226-na3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -914,7 +914,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오. (작자 미상, 「김진옥전」)<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[27 ~ 30] 다음 글을 읽고 물음에 답하시오. (작자 미상, 「김진옥전」)<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev" id="ev2730-1">노인이 "내 자식의 이름은 김진옥이거니와 화초암에서 공부하다가 이별하였더니..." → 원수(진옥)가 부친인 줄 알고 ㉠대성통곡. 노인이 진옥이란 말을 듣고 ㉡대성통곡하고 기절. / 배를 타고 고국으로 향하더니 옥피리 소리와 청의 동자가 일엽편주로 와 수부 왕이 청한다고 알림.</span><a class="ev-tag" href="#q27-1">27-①②</a><a class="ev-tag" href="#q28-1">28-①</a></p>
   <p><span class="ev" id="ev2730-2">용왕: "원수의 존명을 들은 지 오래더니..." / 동곡 대병이 지경 범함 → 용왕이 진옥에게 소멸 요청. 진옥: "저는 진세 사람이라 어찌 수부 용왕을 당하리오. 그러나 힘을 다하여 보겠나이다." → ㉢용왕 대희, 정병 팔만 조발. 원수가 일자 장사진으로 동곡 격파, ⓔ항서 받음. 용왕이 진옥과 부친에게 보상(동해군·서해군 봉함).</span><a class="ev-tag" href="#q27-3">27-③</a><a class="ev-tag" href="#q30-2">30-②</a><a class="ev-tag" href="#q30-4">30-④</a><a class="ev-tag" href="#q30-5">30-⑤</a></p>
   <p><span class="ev ans" id="ev2730-3">중국 대병이 회환하다가 원수 탄 배가 표풍하여 간 곳 없음 → 황제에게 "대원수 김진옥을 중도에 잃어버렸다"고 보고. / 유 승상 ㉣대경실색, 가족과 주야 근심. / 우양 공주가 병부상서 정동한을 통해 황제에게 "김진옥의 아비가 오랑캐와 내응하다 월국으로 들어갔고 진옥이 월국으로 도망했다"고 모함 → 황제가 유 승상 삭탈관직, 진옥 처 유 씨 잡아 죽이려 함.</span><a class="ev-tag" href="#q27-4">27-④</a><a class="ev-tag" href="#q29-3">29-③</a><a class="ev-tag ans" href="#q29-3">29-③ 정답</a></p>
@@ -925,10 +925,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">27. ㉠〜㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q27-1">① ㉠: '노인'과 함께 전란을 극복했던 과거를 떠올린 '진옥'의 반응이며, '진옥'이 서러움을 토로하는 모습으로 이어지는군.<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
-    <li id="q27-2">② ㉡: 자신이 알지 못했던 의외의 사실을 확인한 '노인'의 반응이며, '노인'이 격한 감정을 못 이기는 모습으로 이어지는군.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
-    <li id="q27-3">③ ㉢: '진옥'의 태도에 만족한 '용왕'의 반응이며, '용왕'이 '진옥'에게 목표 달성을 위한 수단을 제공하는 행위로 이어지는군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
-    <li id="q27-4">④ ㉣: '진옥'의 실종 소식에 대한 '유 승상'의 반응이며, 가족들과 '유 승상'이 '진옥'의 생환을 비는 모습으로 이어지는군.<a class="src-tag" href="#ev2730-3">지문 근거</a></li>
-    <li id="q27-5">⑤ ㉤: 싸움을 걸며 조화를 부리는 '진옥'에 대한 '동곡 용왕'의 반응이며, '동곡 용왕'이 '진옥'을 제압하려는 행위로 이어지는군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q27-2">② ㉡: 자신이 알지 못했던 의외의 사실을 확인한 '노인'의 반응이며, '노인'이 격한 감정을 못 이기는 모습으로 이어지는군.<a class="src-tag" href="#ev2730-1">오답 근거</a></li>
+    <li id="q27-3">③ ㉢: '진옥'의 태도에 만족한 '용왕'의 반응이며, '용왕'이 '진옥'에게 목표 달성을 위한 수단을 제공하는 행위로 이어지는군.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
+    <li id="q27-4">④ ㉣: '진옥'의 실종 소식에 대한 '유 승상'의 반응이며, 가족들과 '유 승상'이 '진옥'의 생환을 비는 모습으로 이어지는군.<a class="src-tag" href="#ev2730-3">오답 근거</a></li>
+    <li id="q27-5">⑤ ㉤: 싸움을 걸며 조화를 부리는 '진옥'에 대한 '동곡 용왕'의 반응이며, '동곡 용왕'이 '진옥'을 제압하려는 행위로 이어지는군.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -952,10 +952,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">28. ⓐ〜ⓔ에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q28-1">① ⓐ는 환상적 분위기를 조성하여, 새롭게 등장하는 존재에 대한 인물의 주의를 환기하는 소재이다.<a class="src-tag ans" href="#ev2730-1">정답 근거</a></li>
-    <li id="q28-2">② ⓑ는 인물들이 계획했던 항해가 무사히 지속될 수 있도록 안내하여, 당초 목적한 곳에 이를 수 있도록 하는 소재이다.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
-    <li id="q28-3">③ ⓒ는 주변 풍광을 보여 주는 앞선 장면과 대비되어, 인물이 당면한 처지에 안절부절못함을 상징적으로 나타내는 소재이다.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
-    <li id="q28-4">④ ⓓ는 인물이 지닌 비범함을 돋보이게 하여, 직면한 공격에 상대가 미처 대응하지 못하게 도움을 주는 소재이다.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
-    <li id="q28-5">⑤ ⓔ는 갈등의 양상을 감추어, 건네받는 인물이 상대의 진의를 파악할 수 없도록 기능하는 소재이다.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q28-2">② ⓑ는 인물들이 계획했던 항해가 무사히 지속될 수 있도록 안내하여, 당초 목적한 곳에 이를 수 있도록 하는 소재이다.<a class="src-tag" href="#ev2730-1">오답 근거</a></li>
+    <li id="q28-3">③ ⓒ는 주변 풍광을 보여 주는 앞선 장면과 대비되어, 인물이 당면한 처지에 안절부절못함을 상징적으로 나타내는 소재이다.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
+    <li id="q28-4">④ ⓓ는 인물이 지닌 비범함을 돋보이게 하여, 직면한 공격에 상대가 미처 대응하지 못하게 도움을 주는 소재이다.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
+    <li id="q28-5">⑤ ⓔ는 갈등의 양상을 감추어, 건네받는 인물이 상대의 진의를 파악할 수 없도록 기능하는 소재이다.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -981,11 +981,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob29">
   <p class="q-stem">29. 다음은 학생이 윗글을 읽고 작성한 감상문의 일부이다. ㉮〜㉲ 중 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q29-1">① ㉮<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
-    <li id="q29-2">② ㉯<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q29-1">① ㉮<a class="src-tag" href="#ev2730-1">오답 근거</a></li>
+    <li id="q29-2">② ㉯<a class="src-tag" href="#ev2730-1">오답 근거</a></li>
     <li id="q29-3">③ ㉰<a class="src-tag ans" href="#ev2730-3">정답 근거</a></li>
-    <li id="q29-4">④ ㉱<a class="src-tag" href="#ev2730-3">지문 근거</a></li>
-    <li id="q29-5">⑤ ㉲<a class="src-tag" href="#ev2730-3">지문 근거</a></li>
+    <li id="q29-4">④ ㉱<a class="src-tag" href="#ev2730-3">오답 근거</a></li>
+    <li id="q29-5">⑤ ㉲<a class="src-tag" href="#ev2730-3">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1008,11 +1008,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob30">
   <p class="q-stem">30. &lt;보기&gt;를 참고하여 윗글을 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="q30-1">① 진옥이 '청의'를 입은 '동자'와 이야기하는 장면에서 '용궁과 인세가 길이 다르'다고 하는 것을 보면, 진옥이 초월적 세계와의 간극을 인식하고 있음을 알 수 있군.<a class="src-tag" href="#ev2730-1">지문 근거</a></li>
+    <li id="q30-1">① 진옥이 '청의'를 입은 '동자'와 이야기하는 장면에서 '용궁과 인세가 길이 다르'다고 하는 것을 보면, 진옥이 초월적 세계와의 간극을 인식하고 있음을 알 수 있군.<a class="src-tag" href="#ev2730-1">오답 근거</a></li>
     <li id="q30-2">② 용왕이 '공을 이루라'고 한 장면에서 '적병'의 처치를 진옥에게 요청한 것을 보면, 진옥으로 하여금 인간 세계와 초월적 세계 사이에서 생긴 문제를 대신 해결하게 하려 함을 알 수 있군.<a class="src-tag ans" href="#ev2730-2">정답 근거</a></li>
-    <li id="q30-3">③ 진옥이 '지경'을 침입한 적과 '대진'하는 장면에서 '남해 용궁'에서도 '중국'처럼 전란이 생기는 것을 보면, 초월적 세계에도 인간 세계에나 있을 법한 갈등이 나타남을 확인할 수 있군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
-    <li id="q30-4">④ 진옥이 '진법'을 펼치는 장면에서 용궁의 '제장'이 '명장'이라고 '칭찬'하는 것을 보면, 진옥이 초월적 세계의 존재에게 뛰어난 능력을 인정받고 있음을 확인할 수 있군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
-    <li id="q30-5">⑤ 용왕이 진옥을 '치사'하는 장면에서 진옥을 '동해군'으로 '봉하'며 '표창'하는 것을 보면, 진옥이 약속된 보상을 받아 영웅으로서의 자격을 증명하고 있음을 알 수 있군.<a class="src-tag" href="#ev2730-2">지문 근거</a></li>
+    <li id="q30-3">③ 진옥이 '지경'을 침입한 적과 '대진'하는 장면에서 '남해 용궁'에서도 '중국'처럼 전란이 생기는 것을 보면, 초월적 세계에도 인간 세계에나 있을 법한 갈등이 나타남을 확인할 수 있군.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
+    <li id="q30-4">④ 진옥이 '진법'을 펼치는 장면에서 용궁의 '제장'이 '명장'이라고 '칭찬'하는 것을 보면, 진옥이 초월적 세계의 존재에게 뛰어난 능력을 인정받고 있음을 확인할 수 있군.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
+    <li id="q30-5">⑤ 용왕이 진옥을 '치사'하는 장면에서 진옥을 '동해군'으로 '봉하'며 '표창'하는 것을 보면, 진옥이 약속된 보상을 받아 영웅으로서의 자격을 증명하고 있음을 알 수 있군.<a class="src-tag" href="#ev2730-2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1046,7 +1046,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[31 ~ 34] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><strong>(가) 황동규, 「살구꽃과 한때」</strong></p>
   <p><span class="ev" id="ev3134-ga">[A] 마을 안에 차 집어넣고 / 이 집, 한 집 건너 저 집, 또 저 집, / 구름처럼 피고 있는 살구꽃과 만난다. / 빈집에는 작지만 분홍빛 더 실린 꽃구름, / 때맞춰 깬 벌들이 이리저리 날고 / 날개맥 덜 여문 나비들이 저속으로 오간다. [B] 소의 순한 얼굴이 너무 좋아 / 소 앞세우고 오는 마을 사람과 눈웃음으로 인사한다. / 하늘 구름이 온통 동네에 내려와 있으니 / 말을 걸지 않아도 말이 되는군. [C] 차에 올라 시동 걸고도 한참 동안 밖을 내다본다. / 꽃들의 생애가 좀 짧으면 어때? / 달포 뒤쯤 이곳을 다시 지날 때 / 이 꽃구름들 낡은 귀신들처럼 그냥 허옇게 매달려 있다면…… / 꽃도 황홀도 때맞춰 피고 지는 거다. [D] 다리를 건너 가속 페달 밟으려다 말고 / 천천히 차를 몬다. / 몸 돌려 보지 않아도 / 차 거울들 속에 꽃구름 피고 있고 [E] 차 거울로는 잘 잡히지 않으나 / 하늘의 연분홍을 땅 위에 내려 받는 검은 둥치들이 / 군소리 없이 구름을 잔뜩 인 채 서 있겠지. / 차를 멈추고 뒤돌아본다. / 아 하늘의 기둥들!</span><a class="ev-tag" href="#q31-3">31-③</a><a class="ev-tag" href="#q32-3">32-③④⑤</a><a class="ev-tag" href="#q34-1">34-①②⑤</a></p>
   <p><strong>(나) 신석정, 「역사」</strong></p>
@@ -1057,11 +1057,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob31">
   <p class="q-stem">31. (가)와 (나)의 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q31-1">① 공감각적 심상을 활용하여 대상의 외양을 묘사하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
-    <li id="q31-2">② 영탄적 어조를 통해 대상에 대한 그리움을 부각하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q31-1">① 공감각적 심상을 활용하여 대상의 외양을 묘사하고 있다.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
+    <li id="q31-2">② 영탄적 어조를 통해 대상에 대한 그리움을 부각하고 있다.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
     <li id="q31-3">③ 중심 소재를 반복적으로 제시하여 주제 의식을 드러내고 있다.<a class="src-tag ans" href="#ev3134-ga">정답 근거</a></li>
-    <li id="q31-4">④ 대립적인 의미의 시어를 통해 현실에 대한 비판 의식을 강조하고 있다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
-    <li id="q31-5">⑤ 말을 주고받는 방식을 사용하여 의인화된 대상과의 교감을 나타내고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q31-4">④ 대립적인 의미의 시어를 통해 현실에 대한 비판 의식을 강조하고 있다.<a class="src-tag" href="#ev3134-na">오답 근거</a></li>
+    <li id="q31-5">⑤ 말을 주고받는 방식을 사용하여 의인화된 대상과의 교감을 나타내고 있다.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1084,10 +1084,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob32">
   <p class="q-stem">32. [A]〜[E]에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q32-1">① [A] : '이 집', '저 집'과 '빈집'으로 시선을 이동하며 대상의 형태와 색채를 인식하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
-    <li id="q32-2">② [B] : '소'와 '마을 사람'에게 호의적 시선을 보내고 '하늘 구름'의 영향을 의식하고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
-    <li id="q32-3">③ [C] : '다리를 건너'며 '꽃구름'과 이별하는 상황에서도 '차 거울들'에 비친 대상을 보고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
-    <li id="q32-4">④ [D] : '차 거울로는' 시야에 온전히 들어오지 않는 '검은 둥치들'이 묵묵히 서 있는 모습을 떠올리고 있다.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
+    <li id="q32-1">① [A] : '이 집', '저 집'과 '빈집'으로 시선을 이동하며 대상의 형태와 색채를 인식하고 있다.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
+    <li id="q32-2">② [B] : '소'와 '마을 사람'에게 호의적 시선을 보내고 '하늘 구름'의 영향을 의식하고 있다.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
+    <li id="q32-3">③ [C] : '다리를 건너'며 '꽃구름'과 이별하는 상황에서도 '차 거울들'에 비친 대상을 보고 있다.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
+    <li id="q32-4">④ [D] : '차 거울로는' 시야에 온전히 들어오지 않는 '검은 둥치들'이 묵묵히 서 있는 모습을 떠올리고 있다.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
     <li id="q32-5">⑤ [E] : 대상과의 정서적 거리가 멀어지는 상황에서 '차를 멈추고 뒤돌아'봄으로써 경외감을 드러내고 있다.<a class="src-tag ans" href="#ev3134-ga">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1113,10 +1113,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob33">
   <p class="q-stem">33. (나)에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q33-1">① 1에서 '저 하잘것없는 한 송이의 달래꽃을 두고' 본다는 것은 사소해 보일 수 있는 대상에 대한 관심을 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
-    <li id="q33-2">② 2에서 '얼어붙었던 대지'라는 부정적 여건을 극복하여 '뚫고 솟아오른'다는 것은 '달래꽃'의 강인한 모습을 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
-    <li id="q33-3">③ 2에서 '이것들이 빚어내는 아름다운 모든 것'을 '찬양'한다는 것은 '역사와 힘'의 위대함을 기리는 태도를 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
-    <li id="q33-4">④ 3에서 '예쁘디예쁜 손'을 '항상 내가 꼬옥 쥘 수 있'다는 것은 함께하는 존재와의 결속에 대한 화자의 인식을 드러낸다.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q33-1">① 1에서 '저 하잘것없는 한 송이의 달래꽃을 두고' 본다는 것은 사소해 보일 수 있는 대상에 대한 관심을 드러낸다.<a class="src-tag" href="#ev3134-na">오답 근거</a></li>
+    <li id="q33-2">② 2에서 '얼어붙었던 대지'라는 부정적 여건을 극복하여 '뚫고 솟아오른'다는 것은 '달래꽃'의 강인한 모습을 드러낸다.<a class="src-tag" href="#ev3134-na">오답 근거</a></li>
+    <li id="q33-3">③ 2에서 '이것들이 빚어내는 아름다운 모든 것'을 '찬양'한다는 것은 '역사와 힘'의 위대함을 기리는 태도를 드러낸다.<a class="src-tag" href="#ev3134-na">오답 근거</a></li>
+    <li id="q33-4">④ 3에서 '예쁘디예쁜 손'을 '항상 내가 꼬옥 쥘 수 있'다는 것은 함께하는 존재와의 결속에 대한 화자의 인식을 드러낸다.<a class="src-tag" href="#ev3134-na">오답 근거</a></li>
     <li id="q33-5">⑤ 3에서 '네 고운 청춘'을 '죽도록 사랑하'겠다는 것은 공동체의 갈등을 해소하기 위한 화자의 희생정신을 드러낸다.<a class="src-tag ans" href="#ev3134-na">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1140,11 +1140,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="prob34">
   <p class="q-stem">34. &lt;보기&gt;를 참고하여 (가), (나)를 감상한 내용으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="q34-1">① (가)에서 꽃을 '구름'으로, 나무둥치를 '하늘의 기둥'으로 비유한 것을 통해, '때맞춰' 꽃을 피워 하늘과 땅을 연결하고 있는 생명에 대한 내적 인식이 드러나는군.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
-    <li id="q34-2">② (가)에서 '분홍빛 더 실린' 꽃의 모습과 '때맞춰 깬 벌'의 움직임을 포착하여 그려 낸 것을 통해, 작은 생명이 선명하게 드러나는 순간에 대한 관심을 엿볼 수 있군.<a class="src-tag" href="#ev3134-ga">지문 근거</a></li>
-    <li id="q34-3">③ (나)에서 온 세상의 역사를 '이끌고 가는' 힘은 '크나큰' '마음'으로 표현되며, '한 송이의 달래꽃'이 '피어나는 것'이라는 구체적인 이미지를 통해 감각적으로 형상화되는군.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q34-1">① (가)에서 꽃을 '구름'으로, 나무둥치를 '하늘의 기둥'으로 비유한 것을 통해, '때맞춰' 꽃을 피워 하늘과 땅을 연결하고 있는 생명에 대한 내적 인식이 드러나는군.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
+    <li id="q34-2">② (가)에서 '분홍빛 더 실린' 꽃의 모습과 '때맞춰 깬 벌'의 움직임을 포착하여 그려 낸 것을 통해, 작은 생명이 선명하게 드러나는 순간에 대한 관심을 엿볼 수 있군.<a class="src-tag" href="#ev3134-ga">오답 근거</a></li>
+    <li id="q34-3">③ (나)에서 온 세상의 역사를 '이끌고 가는' 힘은 '크나큰' '마음'으로 표현되며, '한 송이의 달래꽃'이 '피어나는 것'이라는 구체적인 이미지를 통해 감각적으로 형상화되는군.<a class="src-tag" href="#ev3134-na">오답 근거</a></li>
     <li id="q34-4">④ (가)에서 '살구꽃'이 '허옇게 매달'린 모습에 대한 지향은 '달포 뒤쯤' 회복될 생명에 대한 기대로, (나)에서 '수의'를 '벗고 싶은' 소망은 '환히 트인 길'로 상징된 역사적 전망으로 이어지는군.<a class="src-tag ans" href="#ev3134-ga">정답 근거</a></li>
-    <li id="q34-5">⑤ (가)에서 '꽃들의 생애가 좀 짧'아도 괜찮다는 것은 일시성에 주목하여 자연의 섭리를, (나)에서 '길이 멸하지 않을 것'은 영속성에 주목하여 '긴긴 역사'의 의미를 인식함을 보여 주는군.<a class="src-tag" href="#ev3134-na">지문 근거</a></li>
+    <li id="q34-5">⑤ (가)에서 '꽃들의 생애가 좀 짧'아도 괜찮다는 것은 일시성에 주목하여 자연의 섭리를, (나)에서 '길이 멸하지 않을 것'은 영속성에 주목하여 '긴긴 역사'의 의미를 인식함을 보여 주는군.<a class="src-tag" href="#ev3134-na">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1180,7 +1180,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[35 ~ 37] 다음은 학생의 주제 발표이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[35 ~ 37] 다음은 학생의 주제 발표이다.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev" id="evA1-1">발표자: (㉠자료 제시) 동물 키우기 관련 설문 결과. 사이테스란 '멸종 위기에 처한 야생 동식물 종의 국제 거래에 관한 협약'. (㉡자료 제시) 사이테스 회원국 분포. (㉢자료 제시) 부속서 1·2·3에 등재된 종의 수와 비율. 부속서 1: 호랑이·표범 등, 원칙적 국제 거래 불가(예외: 학술 연구). 부속서 2·3: 상업적 거래 가능하나 무분별 거래 시 멸종 위험. (㉣자료 제시) 앞선 설문 결과 다시 제시.</span><a class="ev-tag" href="#qA35-4">35-④</a><a class="ev-tag" href="#qA36-4">36-④</a></p>
   <p><span class="ev ans" id="evA1-2">사이테스 종 키우려면: 사이테스 누리집에서 해당 종 확인 → 관련 기관에 신고 → 죽었을 때도 신고. / 학생2: 도롱뇽을 키우는데 죽으면 신고해야 한다는 것을 알게 됨. / 학생3: 부속서 2·3에 어떤 종이 있는지 몰라서 아쉬웠음.</span><a class="ev-tag ans" href="#qA37-1">37-①</a></p>
 </div>
@@ -1189,11 +1189,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA35">
   <p class="q-stem">35. 위 발표자의 말하기 방식으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qA35-1">① 준언어적 표현을 활용하여 청중의 주의를 집중시키고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
-    <li id="qA35-2">② 발표 중간중간에 질문을 던지며 청중의 반응을 확인하고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
-    <li id="qA35-3">③ 용어의 개념을 설명하여 낯선 용어에 대한 청중의 이해를 돕고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA35-1">① 준언어적 표현을 활용하여 청중의 주의를 집중시키고 있다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
+    <li id="qA35-2">② 발표 중간중간에 질문을 던지며 청중의 반응을 확인하고 있다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
+    <li id="qA35-3">③ 용어의 개념을 설명하여 낯선 용어에 대한 청중의 이해를 돕고 있다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
     <li id="qA35-4">④ 청중의 질문을 듣고 그에 답하며 청중의 행동 변화를 촉구하고 있다.<a class="src-tag ans" href="#evA1-1">정답 근거</a></li>
-    <li id="qA35-5">⑤ 청중의 기억을 환기하여 발표 내용과 청중과의 관련성을 드러내고 있다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA35-5">⑤ 청중의 기억을 환기하여 발표 내용과 청중과의 관련성을 드러내고 있다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1216,11 +1216,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA36">
   <p class="q-stem">36. 다음은 발표자가 제시한 자료이다. 발표자의 자료 활용에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="qA36-1">① [자료1]은 학생들이 키우고 싶어 하는 동물 중 사이테스 종을 확인할 수 있는 자료로 ㉠에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
-    <li id="qA36-2">② [자료1]은 사이테스 종에 대한 학생들의 관심도를 보여 주는 자료로 ㉣에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
-    <li id="qA36-3">③ [자료2]는 사이테스 종이 세계적으로 분포하고 있음을 보여 주는 자료로 ㉡에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA36-1">① [자료1]은 학생들이 키우고 싶어 하는 동물 중 사이테스 종을 확인할 수 있는 자료로 ㉠에 제시하였다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
+    <li id="qA36-2">② [자료1]은 사이테스 종에 대한 학생들의 관심도를 보여 주는 자료로 ㉣에 제시하였다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
+    <li id="qA36-3">③ [자료2]는 사이테스 종이 세계적으로 분포하고 있음을 보여 주는 자료로 ㉡에 제시하였다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
     <li id="qA36-4">④ [자료3]은 멸종 위기 위험도에 따라 구분한 사이테스 종의 수를 보여 주는 자료로 ㉢에 제시하였다.<a class="src-tag ans" href="#evA1-1">정답 근거</a></li>
-    <li id="qA36-5">⑤ [자료3]은 사이테스 종 중 2.69%에 해당하는 종만이 학술 연구의 목적으로 거래가 가능하다는 것을 보여 주는 자료로 ㉢에 제시하였다.<a class="src-tag" href="#evA1-1">지문 근거</a></li>
+    <li id="qA36-5">⑤ [자료3]은 사이테스 종 중 2.69%에 해당하는 종만이 학술 연구의 목적으로 거래가 가능하다는 것을 보여 주는 자료로 ㉢에 제시하였다.<a class="src-tag" href="#evA1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1244,10 +1244,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">37. 발표 내용을 바탕으로 할 때, &lt;보기&gt;에 나타난 학생들의 반응에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="qA37-1">① '학생1'은 발표에서 언급된 내용과 관련하여 추가적인 정보를 탐색하려 하고 있다.<a class="src-tag ans" href="#evA1-2">정답 근거</a></li>
-    <li id="qA37-2">② '학생2'는 발표에서 언급되지 않은 정보에 대해 궁금증을 드러내고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
-    <li id="qA37-3">③ '학생3'은 발표를 통해 새롭게 알게 된 정보가 사실과 부합하는지 판단하고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
-    <li id="qA37-4">④ '학생1'과 '학생3'은 모두, 발표 내용을 새로운 상황에 적용하며 발표 내용의 실행 가능성을 점검하고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
-    <li id="qA37-5">⑤ '학생2'와 '학생3'은 모두, 자신이 발표를 듣기 전 알고 있던 지식을 발표를 듣고 수정하고 있다.<a class="src-tag" href="#evA1-2">지문 근거</a></li>
+    <li id="qA37-2">② '학생2'는 발표에서 언급되지 않은 정보에 대해 궁금증을 드러내고 있다.<a class="src-tag" href="#evA1-2">오답 근거</a></li>
+    <li id="qA37-3">③ '학생3'은 발표를 통해 새롭게 알게 된 정보가 사실과 부합하는지 판단하고 있다.<a class="src-tag" href="#evA1-2">오답 근거</a></li>
+    <li id="qA37-4">④ '학생1'과 '학생3'은 모두, 발표 내용을 새로운 상황에 적용하며 발표 내용의 실행 가능성을 점검하고 있다.<a class="src-tag" href="#evA1-2">오답 근거</a></li>
+    <li id="qA37-5">⑤ '학생2'와 '학생3'은 모두, 자신이 발표를 듣기 전 알고 있던 지식을 발표를 듣고 수정하고 있다.<a class="src-tag" href="#evA1-2">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1279,7 +1279,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[38 ~ 42] (가) 비평문 + (나) 면접<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[38 ~ 42] (가) 비평문 + (나) 면접<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev" id="evA2-ga">비평문 핵심: ①인증 숏은 사진·영상 공유 현상 ②부정적 시각(자기 과시) ③그러나 긍정적 측면(자기 계발) 있음 ④운동 인증 숏: 운동 습관 형성(정△△ 학생 인터뷰) ⑤독서 인증 숏: 독서 문화 활성화 / 1020세대 도서 구매량 전년 대비 9% 증가 ⑥가치 있는 생활 양식 확산 기회로 삼아야.</span><a class="ev-tag" href="#qA38-1">38-①</a><a class="ev-tag" href="#qA39-3">39-③</a></p>
   <p><span class="ev" id="evA2-na">면접 핵심: 지원자가 글감 선택 이유 설명 / 다양한 관점 검토 여부 / 부정적 지적의 문제점 / 도서 구매량 자료 타당성 부족 인정 / 인터뷰 근거 선택 이유(실제 목소리로 공감 유도).</span><a class="ev-tag" href="#qA40-3">40-③</a><a class="ev-tag" href="#qA41-2">41-②</a><a class="ev-tag" href="#qA42-1">42-①</a></p>
 </div>
@@ -1289,10 +1289,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">38. (가)에 활용된 글쓰기 방식으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="qA38-1">① 인증 숏 현상의 구체적인 사례들을 일관된 관점을 중심으로 해석한다.<a class="src-tag ans" href="#evA2-ga">정답 근거</a></li>
-    <li id="qA38-2">② 인증 숏 현상의 실태와 그에 대한 인식을 세대별로 구분하여 설명한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA38-3">③ 인증 숏 현상에 대한 다양한 관점들을 열거하고 이를 순차적으로 논박한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA38-4">④ 일반적인 원리를 전제로 인증 숏 현상의 문제에 대한 해결 방안을 도출한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA38-5">⑤ 인증 숏 현상을 관찰한 후 그 현상으로 인해 발생한 문제를 쟁점별로 분석한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA38-2">② 인증 숏 현상의 실태와 그에 대한 인식을 세대별로 구분하여 설명한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA38-3">③ 인증 숏 현상에 대한 다양한 관점들을 열거하고 이를 순차적으로 논박한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA38-4">④ 일반적인 원리를 전제로 인증 숏 현상의 문제에 대한 해결 방안을 도출한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA38-5">⑤ 인증 숏 현상을 관찰한 후 그 현상으로 인해 발생한 문제를 쟁점별로 분석한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1315,11 +1315,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA39">
   <p class="q-stem">39. 다음은 (가)의 4문단의 초고이다. 4문단에 반영된 수정 사항으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qA39-1">① 글의 맥락을 고려하여 논점에서 벗어나는 내용을 삭제한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA39-2">② 글에 제시한 자신의 견해를 강조하기 위해 제언을 추가한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA39-1">① 글의 맥락을 고려하여 논점에서 벗어나는 내용을 삭제한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA39-2">② 글에 제시한 자신의 견해를 강조하기 위해 제언을 추가한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
     <li id="qA39-3">③ 글의 의미를 부각하기 위해 예상 독자를 명시하여 수정한다.<a class="src-tag ans" href="#evA2-ga">정답 근거</a></li>
-    <li id="qA39-4">④ 논지와 어울리지 않는 표현을 논지에 맞는 표현으로 수정한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA39-5">⑤ 비교 대상을 추가하여 주장의 범위를 한정하여 수정한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA39-4">④ 논지와 어울리지 않는 표현을 논지에 맞는 표현으로 수정한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA39-5">⑤ 비교 대상을 추가하여 주장의 범위를 한정하여 수정한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1342,11 +1342,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA40">
   <p class="q-stem">40. (나)에 나타난 면접 참여자의 말하기 방식에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="qA40-1">① '학생1'은 동아리에서 하는 활동의 의의를 언급하며 지원자의 관심을 확인하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
-    <li id="qA40-2">② '학생2'는 지원자의 계획에서 문제점을 찾아 구체적인 해결 방안을 제안하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA40-1">① '학생1'은 동아리에서 하는 활동의 의의를 언급하며 지원자의 관심을 확인하고 있다.<a class="src-tag" href="#evA2-na">오답 근거</a></li>
+    <li id="qA40-2">② '학생2'는 지원자의 계획에서 문제점을 찾아 구체적인 해결 방안을 제안하고 있다.<a class="src-tag" href="#evA2-na">오답 근거</a></li>
     <li id="qA40-3">③ '지원자'는 자신의 발언에 오류가 있었음을 인정하고 수정하고 있다.<a class="src-tag ans" href="#evA2-na">정답 근거</a></li>
-    <li id="qA40-4">④ '학생1'과 '학생2'는 면접 진행 방식에 대해 사전에 합의된 역할에 따라 면접을 진행하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
-    <li id="qA40-5">⑤ '지원자'는 자신에게 주어진 공통 질문의 의도를 파악하여 면접관의 기대에 맞는 답변을 준비하고 있다.<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA40-4">④ '학생1'과 '학생2'는 면접 진행 방식에 대해 사전에 합의된 역할에 따라 면접을 진행하고 있다.<a class="src-tag" href="#evA2-na">오답 근거</a></li>
+    <li id="qA40-5">⑤ '지원자'는 자신에게 주어진 공통 질문의 의도를 파악하여 면접관의 기대에 맞는 답변을 준비하고 있다.<a class="src-tag" href="#evA2-na">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1369,11 +1369,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA41">
   <p class="q-stem">41. (나)의 [A]에 들어갈 '지원자'의 발언으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="qA41-1">① 비평문 작성 능력이 뛰어난 다른 지원자들과 달리,<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA41-1">① 비평문 작성 능력이 뛰어난 다른 지원자들과 달리,<a class="src-tag" href="#evA2-na">오답 근거</a></li>
     <li id="qA41-2">② 다양한 사회 현상에 대한 관심과 비판적 시각을 갖추고 있어서<a class="src-tag ans" href="#evA2-na">정답 근거</a></li>
-    <li id="qA41-3">③ 음식 문화 연구 분야로의 진출을 목표로 하고 있어서<a class="src-tag" href="#evA2-na">지문 근거</a></li>
-    <li id="qA41-4">④ 이 동아리에서 비평문을 모아 출판한 경험이 있어서<a class="src-tag" href="#evA2-na">지문 근거</a></li>
-    <li id="qA41-5">⑤ 혼자 비평문을 쓰는 것보다 함께 쓰는 것을 더 선호하여서<a class="src-tag" href="#evA2-na">지문 근거</a></li>
+    <li id="qA41-3">③ 음식 문화 연구 분야로의 진출을 목표로 하고 있어서<a class="src-tag" href="#evA2-na">오답 근거</a></li>
+    <li id="qA41-4">④ 이 동아리에서 비평문을 모아 출판한 경험이 있어서<a class="src-tag" href="#evA2-na">오답 근거</a></li>
+    <li id="qA41-5">⑤ 혼자 비평문을 쓰는 것보다 함께 쓰는 것을 더 선호하여서<a class="src-tag" href="#evA2-na">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1397,10 +1397,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">42. (가)의 ㉠〜㉤을 고쳐 쓴다고 할 때, 그 방안으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="qA42-1">① ㉠: 인증 숏의 개념을 직접 인용하여 명확하게 제시한다.<a class="src-tag ans" href="#evA2-ga">정답 근거</a></li>
-    <li id="qA42-2">② ㉡: 부정적 시각의 근거를 보완하여 설득력을 높인다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA42-3">③ ㉢: 역접 관계를 명확히 하는 접속어를 유지하여 논리적 흐름을 강조한다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA42-4">④ ㉣: 특정 학생의 실제 경험을 구체적으로 담아 내용의 타당성을 높인다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
-    <li id="qA42-5">⑤ ㉤: 자료의 출처를 제시하여 근거의 신뢰성을 높인다.<a class="src-tag" href="#evA2-ga">지문 근거</a></li>
+    <li id="qA42-2">② ㉡: 부정적 시각의 근거를 보완하여 설득력을 높인다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA42-3">③ ㉢: 역접 관계를 명확히 하는 접속어를 유지하여 논리적 흐름을 강조한다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA42-4">④ ㉣: 특정 학생의 실제 경험을 구체적으로 담아 내용의 타당성을 높인다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
+    <li id="qA42-5">⑤ ㉤: 자료의 출처를 제시하여 근거의 신뢰성을 높인다.<a class="src-tag" href="#evA2-ga">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1430,7 +1430,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[43 ~ 45] 작문 상황과 초고<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[43 ~ 45] 작문 상황과 초고<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev ans" id="evA3-1">초고 핵심: 1문단=미식 관광 수요 배경 / 2문단=미식 관광 개념(음식 관광보다 확장, 총체적 경험) / 3문단=효과①: 지역 식문화 보존·발전 / 4문단=효과②: 지역 경제 활성화(농가 직결·미식 식당·관광객 유입) / 5문단=현재 음식 관광에 머문 한계, 관심 필요.</span><a class="ev-tag" href="#qA43-5">43-⑤</a><a class="ev-tag" href="#qA44-4">44-④</a><a class="ev-tag ans" href="#qA45-2">45-②</a></p>
 </div>
 
@@ -1438,10 +1438,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA43">
   <p class="q-stem">43. 다음은 '초고'를 쓰기 위해 학생이 세운 계획의 일부이다. ㉠〜㉤ 중 '초고'에 반영되지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qA43-1">① ㉠<a class="src-tag" href="#evA3-1">지문 근거</a></li>
-    <li id="qA43-2">② ㉡<a class="src-tag" href="#evA3-1">지문 근거</a></li>
-    <li id="qA43-3">③ ㉢<a class="src-tag" href="#evA3-1">지문 근거</a></li>
-    <li id="qA43-4">④ ㉣<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA43-1">① ㉠<a class="src-tag" href="#evA3-1">오답 근거</a></li>
+    <li id="qA43-2">② ㉡<a class="src-tag" href="#evA3-1">오답 근거</a></li>
+    <li id="qA43-3">③ ㉢<a class="src-tag" href="#evA3-1">오답 근거</a></li>
+    <li id="qA43-4">④ ㉣<a class="src-tag" href="#evA3-1">오답 근거</a></li>
     <li id="qA43-5">⑤ ㉤<a class="src-tag ans" href="#evA3-1">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1465,11 +1465,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA44">
   <p class="q-stem">44. &lt;보기&gt;를 반영하여 '초고'의 제목을 작성한다고 할 때, 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="qA44-1">① 미식 관광, 지역의 특색을 음식으로 경험하다<a class="src-tag" href="#evA3-1">지문 근거</a></li>
-    <li id="qA44-2">② 미식 관광이 지역의 문화와 경제에 미치는 영향<a class="src-tag" href="#evA3-1">지문 근거</a></li>
-    <li id="qA44-3">③ 미식 관광, 지역의 식문화를 보존하고 발전시키다<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA44-1">① 미식 관광, 지역의 특색을 음식으로 경험하다<a class="src-tag" href="#evA3-1">오답 근거</a></li>
+    <li id="qA44-2">② 미식 관광이 지역의 문화와 경제에 미치는 영향<a class="src-tag" href="#evA3-1">오답 근거</a></li>
+    <li id="qA44-3">③ 미식 관광, 지역의 식문화를 보존하고 발전시키다<a class="src-tag" href="#evA3-1">오답 근거</a></li>
     <li id="qA44-4">④ 지역의 식문화와 경제에 기여하는 방안, 미식 관광<a class="src-tag ans" href="#evA3-1">정답 근거</a></li>
-    <li id="qA44-5">⑤ 지역 농가의 안정적 이윤을 보장하는 방안, 미식 관광<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA44-5">⑤ 지역 농가의 안정적 이윤을 보장하는 방안, 미식 관광<a class="src-tag" href="#evA3-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1492,11 +1492,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probA45">
   <p class="q-stem">45. &lt;보기&gt;는 학생이 '초고'를 보완하기 위해 추가로 수집한 자료이다. 자료의 활용 방안으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="qA45-1">① ㄱ을 활용하여, 최근의 관광 정책들이 지역 내 맛집 홍보에 집중돼 있다는 것을, 5문단을 보강한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA45-1">① ㄱ을 활용하여, 최근의 관광 정책들이 지역 내 맛집 홍보에 집중돼 있다는 것을, 5문단을 보강한다.<a class="src-tag" href="#evA3-1">오답 근거</a></li>
     <li id="qA45-2">② ㄷ을 활용하여, 지역 대표 미식 식당이 관광객들의 여행 기간 결정에 미치는 영향력을, 지역 식문화를 대표하는 미식 식당이 갖춰야 할 요건으로 3문단에 추가한다.<a class="src-tag ans" href="#evA3-1">정답 근거</a></li>
-    <li id="qA45-3">③ ㄷ을 활용하여, 지역 대표 미식 식당의 매출액과 해당 지역 관광 총소비액이 함께 증가함을, 미식 관광객이 지역 경제 활성화에 미치는 영향에 대한 근거로 4문단을 보강한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
-    <li id="qA45-4">④ ㄱ과 ㄴ을 활용하여, 미식 관광의 취지를 살릴 수 있는 정책으로 제안된 내용과 관련 정책의 성공 사례를, 미식 관광이 관광객에게 총체적 경험을 제공하는 방안으로 2문단에 추가한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
-    <li id="qA45-5">⑤ ㄴ과 ㄷ을 활용하여, 관광객들의 지역 방문 동기의 순위 변화와 여행 중 방문 장소의 순위를, 음식 관련 특별한 경험에 대한 관광객의 수요를 보여 주는 내용으로 1문단을 구체화한다.<a class="src-tag" href="#evA3-1">지문 근거</a></li>
+    <li id="qA45-3">③ ㄷ을 활용하여, 지역 대표 미식 식당의 매출액과 해당 지역 관광 총소비액이 함께 증가함을, 미식 관광객이 지역 경제 활성화에 미치는 영향에 대한 근거로 4문단을 보강한다.<a class="src-tag" href="#evA3-1">오답 근거</a></li>
+    <li id="qA45-4">④ ㄱ과 ㄴ을 활용하여, 미식 관광의 취지를 살릴 수 있는 정책으로 제안된 내용과 관련 정책의 성공 사례를, 미식 관광이 관광객에게 총체적 경험을 제공하는 방안으로 2문단에 추가한다.<a class="src-tag" href="#evA3-1">오답 근거</a></li>
+    <li id="qA45-5">⑤ ㄴ과 ㄷ을 활용하여, 관광객들의 지역 방문 동기의 순위 변화와 여행 중 방문 장소의 순위를, 음식 관련 특별한 경험에 대한 관광객의 수요를 보여 주는 내용으로 1문단을 구체화한다.<a class="src-tag" href="#evA3-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1532,7 +1532,7 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거.</span></p>
+  <p class="passage-guide">[35 ~ 36] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거.</span></p>
   <p><span class="ev" id="evB1-1">용언의 활용형은 원칙적으로 어간과 어미의 원래 형태를 밝혀 적는다. 음운 변동이 일어날 수 있으며, j 반모음 첨가를 제외하고는 음운 변동 결과가 모두 표기에 반영된다. [A]: ①'오/우'→반모음 w 교체(나와, 쏴) ②'이'→반모음 j 교체(견뎌) ③어미 '어'에 j 첨가([견디여]) ④동일 모음 탈락(사+아→사) ⑤'으' 탈락(쓰+어→써). '르' 불규칙('지르다'→질러), '러' 불규칙('이르다'→이르러).</span><a class="ev-tag" href="#qB35-4">35-④</a><a class="ev-tag" href="#qB36-2">36-②</a></p>
 </div>
 
@@ -1540,11 +1540,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB35">
   <p class="q-stem">35. 윗글을 이해한 내용으로 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="qB35-1">① 용언이 불규칙 활용해도 어간, 어미의 원래 형태대로 적는다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB35-2">② 용언의 어간이 여러 어미와 결합할 때 한 가지 음운 변동만 일어난다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB35-3">③ '(문제를) 푸니'는 음운 변동이 일어났지만 표기에 반영되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB35-1">① 용언이 불규칙 활용해도 어간, 어미의 원래 형태대로 적는다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB35-2">② 용언의 어간이 여러 어미와 결합할 때 한 가지 음운 변동만 일어난다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB35-3">③ '(문제를) 푸니'는 음운 변동이 일어났지만 표기에 반영되지 않았다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB35-4">④ '본떠'는 '닳아서'와 달리 음운 변동의 결과가 표기에 반영되었다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB35-5">⑤ '(정상에) 이르다'와 '(주의 사항을) 이르다'의 활용은 어간과 어미가 모두 변한다는 공통점이 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB35-5">⑤ '(정상에) 이르다'와 '(주의 사항을) 이르다'의 활용은 어간과 어미가 모두 변한다는 공통점이 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1570,11 +1570,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB36">
   <p class="q-stem">36. 다음은 학생이 '음운 변동'을 중심으로 [A]를 요약한 것이다. ㉠〜㉤에 대해 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qB36-1">① '(다리를) 꽈서', '(꽃을) 봐서'는 모두 ㉠의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB36-1">① '(다리를) 꽈서', '(꽃을) 봐서'는 모두 ㉠의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB36-2">② '(회사에) 다녀', '(사람들과) 어울리려고'는 모두 ㉡의 사례로 추가할 수 있군.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB36-3">③ '(어려움을) 버티어'는 '(두 점을) 이어'와 달리 ㉢의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB36-4">④ '(잘못을) 나무라서'는 '(유행을) 따라서'와 달리 ㉣의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB36-5">⑤ '(김치를) 담가', '(돈을) 모아'는 모두 ㉤의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB36-3">③ '(어려움을) 버티어'는 '(두 점을) 이어'와 달리 ㉢의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB36-4">④ '(잘못을) 나무라서'는 '(유행을) 따라서'와 달리 ㉣의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB36-5">⑤ '(김치를) 담가', '(돈을) 모아'는 모두 ㉤의 사례로 추가할 수 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1601,10 +1601,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB37">
   <p class="q-stem">37. &lt;학습 활동&gt;을 수행한 결과로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
-    <li id="qB37-1">① 우리나라 선수는 올림픽 대회에서 우승 후보로 손꼽히는 실력자이다. → ㉠은 실현되었지만 ㉡은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB37-2">② 내 짝은 어제 졸업식장에 친구들과의 추억이 담긴 사진들을 모아 왔다. → ㉠은 실현되었지만 ㉢은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB37-3">③ 친구가 마음이 여려서 나는 친구의 부탁을 가볍게 넘기지 못했다. → ㉡은 실현되었지만 ㉠은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB37-4">④ 형이 골동품 가게에서 싸게 산 우표가 올해 들어 값이 올랐다. → ㉡은 실현되었지만 ㉢은 실현되지 않았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB37-1">① 우리나라 선수는 올림픽 대회에서 우승 후보로 손꼽히는 실력자이다. → ㉠은 실현되었지만 ㉡은 실현되지 않았다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB37-2">② 내 짝은 어제 졸업식장에 친구들과의 추억이 담긴 사진들을 모아 왔다. → ㉠은 실현되었지만 ㉢은 실현되지 않았다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB37-3">③ 친구가 마음이 여려서 나는 친구의 부탁을 가볍게 넘기지 못했다. → ㉡은 실현되었지만 ㉠은 실현되지 않았다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB37-4">④ 형이 골동품 가게에서 싸게 산 우표가 올해 들어 값이 올랐다. → ㉡은 실현되었지만 ㉢은 실현되지 않았다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB37-5">⑤ 나는 날씨가 따뜻해질 것처럼 보여 외출했다가 감기에 걸려 버렸다. → ㉢은 실현되었지만 ㉠은 실현되지 않았다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1629,10 +1629,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">38. &lt;보기&gt;의 ㉠, ㉡의 예로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="qB38-1">① ㉠: 그들은 함께 어울렸던 기억을 더듬어 나갔다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB38-2">② ㉠: 어제 박물관에서 일어난 사건으로 모두 놀랐다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB38-3">③ ㉡: 이 손목시계는 방수가 잘되지 않는 단점이 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB38-4">④ ㉡: 언론에서는 전쟁이 끝날 가능성이 크다고 보았다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB38-5">⑤ ㉡: 친구는 새벽마다 운동을 한 경험을 소중히 여겼다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB38-2">② ㉠: 어제 박물관에서 일어난 사건으로 모두 놀랐다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB38-3">③ ㉡: 이 손목시계는 방수가 잘되지 않는 단점이 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB38-4">④ ㉡: 언론에서는 전쟁이 끝날 가능성이 크다고 보았다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB38-5">⑤ ㉡: 친구는 새벽마다 운동을 한 경험을 소중히 여겼다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1655,11 +1655,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB39">
   <p class="q-stem">39. 다음은 중세 국어 목적격 조사에 대한 수업의 일부이다. ㉠〜㉣에 대한 설명으로 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="qB39-1">① ㉠에 들어갈 단어는 '바​(바다)'뿐이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB39-2">② ㉡에 들어갈 단어는 '염규', '벼로'이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB39-1">① ㉠에 들어갈 단어는 '바​(바다)'뿐이다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB39-2">② ㉡에 들어갈 단어는 '염규', '벼로'이다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB39-3">③ ㉢에 들어갈 단어는 '아바님', '​(꿈)'이다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB39-4">④ ㉣에 들어갈 단어는 '둡게(덮개)'뿐이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB39-5">⑤ ㉡과 ㉣에 공통으로 들어갈 단어는 '아바님'이다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB39-4">④ ㉣에 들어갈 단어는 '둡게(덮개)'뿐이다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB39-5">⑤ ㉡과 ㉣에 공통으로 들어갈 단어는 '아바님'이다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1686,10 +1686,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB40">
   <p class="q-stem">40. (가), (나)에 나타난 매체 활용에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qB40-1">① (가)에서는 '제안' 기능을 활용하여 사용자가 공동 문서 내용에 대한 변경 의견을 제시하고 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB40-2">② (가)에서는 체크 표시를 통해 사용자가 공동 문서에 실시간으로 접속 중인 다른 사용자를 확인할 수 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB40-3">③ (나)에서는 이모티콘을 활용하여 사용자가 다른 사용자의 의견에 반응하고 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB40-4">④ (나)에서는 자료 전송 기능을 활용하여 사용자가 대화 주제와 관련된 정보를 제공하고 있군.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB40-1">① (가)에서는 '제안' 기능을 활용하여 사용자가 공동 문서 내용에 대한 변경 의견을 제시하고 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB40-2">② (가)에서는 체크 표시를 통해 사용자가 공동 문서에 실시간으로 접속 중인 다른 사용자를 확인할 수 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB40-3">③ (나)에서는 이모티콘을 활용하여 사용자가 다른 사용자의 의견에 반응하고 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB40-4">④ (나)에서는 자료 전송 기능을 활용하여 사용자가 대화 주제와 관련된 정보를 제공하고 있군.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB40-5">⑤ (나)에서는 자동 저장됨을 알려 주는 표지를 통해 사용자가 정보 저장 위치를 확인할 수 있군.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1714,10 +1714,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">41. (가)의 [A]에 대하여 (나)의 학생들이 보인 소통 양상으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="qB41-1">① 재균과 채현의 공통된 이해에 소민이 동의하였다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB41-2">② 재균이 제기한 의문을 채현과 민정이 해소하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB41-3">③ 재균과 소민의 의견을 채현이 비교하여 분석하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB41-4">④ 재균의 잘못된 이해가 채현과 민정의 반응에 의해 교정되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB41-5">⑤ 채현이 언급한 자신의 최근 경험에 민정과 준모 모두 공감적 태도로 반응하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB41-2">② 재균이 제기한 의문을 채현과 민정이 해소하였다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB41-3">③ 재균과 소민의 의견을 채현이 비교하여 분석하였다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB41-4">④ 재균의 잘못된 이해가 채현과 민정의 반응에 의해 교정되었다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB41-5">⑤ 채현이 언급한 자신의 최근 경험에 민정과 준모 모두 공감적 태도로 반응하였다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1740,11 +1740,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB42">
   <p class="q-stem">42. ㉠〜㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qB42-1">① ㉠: 명사 '진행'으로 끝나는 형식을 통해, 활동이 모둠별로 이루어진다는 사실을 간결하게 표현하고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB42-2">② ㉡: 지시 관형사 '이'를 통해, 수식을 받는 명사가 앞 문장에 제시된 △△변환기 앱임을 가리키고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB42-3">③ ㉢: 보조사 '는'을 통해, 살펴보아야 할 활동 계획서가 문장의 화제임을 나타내고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB42-1">① ㉠: 명사 '진행'으로 끝나는 형식을 통해, 활동이 모둠별로 이루어진다는 사실을 간결하게 표현하고 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB42-2">② ㉡: 지시 관형사 '이'를 통해, 수식을 받는 명사가 앞 문장에 제시된 △△변환기 앱임을 가리키고 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB42-3">③ ㉢: 보조사 '는'을 통해, 살펴보아야 할 활동 계획서가 문장의 화제임을 나타내고 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB42-4">④ ㉣: 형용사 '그렇다'를 통해, 준모가 제시한 모둠 활동 기록 방법을 대신하여 나타내고 있다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB42-5">⑤ ㉤: 보조 동사 '드리다'를 통해, 링크를 받게 되는 담임 선생님을 소민이 높여서 표현하고 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB42-5">⑤ ㉤: 보조 동사 '드리다'를 통해, 링크를 받게 되는 담임 선생님을 소민이 높여서 표현하고 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1768,10 +1768,10 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
   <p class="q-stem">43. (나)를 반영하여 (가)의 내용이 재구성되었을 때, 이에 대한 설명으로 적절하지 <strong>않은</strong> 것은? [3점]</p>
   <ul class="q-opts">
     <li id="qB43-1">① 활동명은 준모와 소민의 대화를 반영하여 '독서하고 토론하고'가 '독서하고 대화하고'로 수정되었다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB43-2">② 2025년 4월 23일의 활동 시간은 소민의 의견을 반영하여 '50분'에서 '100분'으로 수정되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB43-3">③ △△변환기 앱 사용법은 재균과 민정의 대화를 반영하여 비고란에 하이퍼링크로 추가되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB43-4">④ 모둠 구성과 책 선정 간 선후 관계의 결정은 채현의 의견을 반영하여 비고란에 추가되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB43-5">⑤ 책을 단체 대여할지 각자 준비할지에 대한 결정은 민정의 의견을 반영하여 비고란에 추가되었다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB43-2">② 2025년 4월 23일의 활동 시간은 소민의 의견을 반영하여 '50분'에서 '100분'으로 수정되었다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB43-3">③ △△변환기 앱 사용법은 재균과 민정의 대화를 반영하여 비고란에 하이퍼링크로 추가되었다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB43-4">④ 모둠 구성과 책 선정 간 선후 관계의 결정은 채현의 의견을 반영하여 비고란에 추가되었다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB43-5">⑤ 책을 단체 대여할지 각자 준비할지에 대한 결정은 민정의 의견을 반영하여 비고란에 추가되었다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1798,11 +1798,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB44">
   <p class="q-stem">44. ㉠〜㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qB44-1">① 정보의 노출량 조절과 관련 있는 ㉠을 활용하여, '내용' 항목의 보이지 않는 부분을 확인할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB44-2">② 상위 항목으로의 이동과 관련 있는 ㉡을 활용하여, '□□구 보건소'에서 게시하는 공지 사항의 목록을 확인할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB44-3">③ 다른 온라인 공간으로의 연결과 관련 있는 ㉢을 활용하여, 먹거리 이해력 향상 프로그램 정보를 동아리 구성원들에게도 전달할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB44-1">① 정보의 노출량 조절과 관련 있는 ㉠을 활용하여, '내용' 항목의 보이지 않는 부분을 확인할 수 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB44-2">② 상위 항목으로의 이동과 관련 있는 ㉡을 활용하여, '□□구 보건소'에서 게시하는 공지 사항의 목록을 확인할 수 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB44-3">③ 다른 온라인 공간으로의 연결과 관련 있는 ㉢을 활용하여, 먹거리 이해력 향상 프로그램 정보를 동아리 구성원들에게도 전달할 수 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB44-4">④ 작성자와의 온라인 대화와 관련 있는 ㉣을 활용하여, 신입 부원 모집 기준에 대한 의견을 묻고 있는 '지현'과 대화할 수 있다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB44-5">⑤ 수용자의 반응 표시와 관련 있는 ㉤을 활용하여, 화살표를 이용해 장소를 지시하자는 '태영'의 의견에 긍정 의사를 표현할 수 있다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB44-5">⑤ 수용자의 반응 표시와 관련 있는 ㉤을 활용하여, 화살표를 이용해 장소를 지시하자는 '태영'의 의견에 긍정 의사를 표현할 수 있다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1825,11 +1825,11 @@ summary: "2026학년도 대학수학능력시험 6월 모의평가 국어 공통
 <div class="q-block" id="probB45">
   <p class="q-stem">45. 다음은 (나)의 의견을 바탕으로 제작한 결과물이다. 포스터의 정보 제시 및 구성 방식에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="qB45-1">① 재은의 의견을 바탕으로, 신입 부원을 모집한다는 것을 강조하기 위해 왼쪽 상단에 물결 모양으로 배치한 문장을 제시하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB45-1">① 재은의 의견을 바탕으로, 신입 부원을 모집한다는 것을 강조하기 위해 왼쪽 상단에 물결 모양으로 배치한 문장을 제시하였다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
     <li id="qB45-2">② 정민의 의견을 바탕으로, 봉사 활동 장소를 안내하기 위해 봉사할 장소들을 구별하여 시각화한 이미지를 제시하였다.<a class="src-tag ans" href="#evB1-1">정답 근거</a></li>
-    <li id="qB45-3">③ 윤호와 예령의 의견을 바탕으로, 동아리 가입 신청 마감일 및 신청 경로를 안내하기 위해 날짜와 QR 코드를 제시하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB45-4">④ 민영의 의견을 바탕으로, 동아리 활동에서 배움과 나눔을 모두 경험할 수 있다는 긍정적인 측면을 강조하기 위해 가운데에 관련 문구를 배치하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
-    <li id="qB45-5">⑤ 은서와 민주의 의견을 바탕으로, 동아리의 핵심 활동 두 가지를 알려 주기 위해 학생들이 직접 말하는 듯한 말풍선을 배치하였다.<a class="src-tag" href="#evB1-1">지문 근거</a></li>
+    <li id="qB45-3">③ 윤호와 예령의 의견을 바탕으로, 동아리 가입 신청 마감일 및 신청 경로를 안내하기 위해 날짜와 QR 코드를 제시하였다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB45-4">④ 민영의 의견을 바탕으로, 동아리 활동에서 배움과 나눔을 모두 경험할 수 있다는 긍정적인 측면을 강조하기 위해 가운데에 관련 문구를 배치하였다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
+    <li id="qB45-5">⑤ 은서와 민주의 의견을 바탕으로, 동아리의 핵심 활동 두 가지를 알려 주기 위해 학생들이 직접 말하는 듯한 말풍선을 배치하였다.<a class="src-tag" href="#evB1-1">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>

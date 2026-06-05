@@ -31,7 +31,7 @@ draft: true
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 지문 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
+  <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b>파란 밑줄</b>은 각 선지를 판단하는 오답 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p>안녕하세요? 발표자 ○○○입니다. 최근 케이팝을 소재로 한 애니메이션의 호랑이와 까치가 인기를 끌었는데, 이는 조선 시대 민화 ‘호작도’의 전통 이미지를 활용한 것입니다. <span class="ev" id="ev1">호작도는 호랑이와 까치를 한 화면에 그린 그림인데요,</span><a class="ev-tag" href="#q1-1">1-①</a> 오늘은 그 상징적 의미를 살펴보겠습니다.</p>
   <p>(자료를 제시하며) ㉠ <span class="ev" id="ev7">여기 호작도를 볼까요?</span><a class="ev-tag" href="#q3-1">3-①</a> 호랑이는 ‘호환’이라는 말이 있을 만큼 공포의 대상이었지만, 사람들은 그 힘이 액운을 물리친다고 믿어 수호자로 받아들였습니다.</p>
   <p>(호랑이를 가리키며) ㉡ <span class="ev" id="ev2">그런데 이 그림 속 호랑이, 수호자처럼 보이시나요?</span><a class="ev-tag" href="#q3-2">3-②</a> 눈은 과장되게 크고 발도 뭉툭하지요. ㉢ <span class="ev" id="ev3">이는 호랑이를 익살스럽게 그림으로써 친근한 존재로 곁에 두고 싶어 했던 심리가 반영된 것입니다.</span><a class="ev-tag" href="#q2-4">2-④</a><a class="ev-tag" href="#q3-3">3-③</a></p>
@@ -43,11 +43,11 @@ draft: true
 <div class="q-block" id="prob1">
   <p class="q-stem">1. 발표자의 말하기 전략으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q1-1">① 중심 소재의 뜻을 풀이하여 청중의 이해를 돕는다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q1-1">① 중심 소재의 뜻을 풀이하여 청중의 이해를 돕는다.<a class="src-tag" href="#ev1">오답 근거</a></li>
     <li id="q1-2">② 청중이 던진 질문에 답하여 청중의 궁금증을 해소한다.</li>
-    <li id="q1-3">③ 관용적 표현을 통해 설명 대상에 대한 관심을 유도한다.<a class="src-tag" href="#ev4">지문 근거</a></li>
+    <li id="q1-3">③ 관용적 표현을 통해 설명 대상에 대한 관심을 유도한다.<a class="src-tag" href="#ev4">오답 근거</a></li>
     <li id="q1-4">④ 비언어적 표현을 통해 발표 내용의 전달 효과를 높인다.</li>
-    <li id="q1-5">⑤ 주제와 관련된 경험을 해 보기를 권하며 발표를 마무리한다.<a class="src-tag" href="#ev6">지문 근거</a></li>
+    <li id="q1-5">⑤ 주제와 관련된 경험을 해 보기를 권하며 발표를 마무리한다.<a class="src-tag" href="#ev6">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -121,11 +121,11 @@ draft: true
     <p>담화의 <b>응집성</b>을 실현하는 방법: <b>지시 표현</b>(특정 대상 가리킴) · <b>대용 표현</b>(앞 내용을 대신해 반복 회피) · <b>접속 표현</b>(문장·문장 이음).</p>
   </div>
   <ul class="q-opts">
-    <li id="q3-1">① ㉠(여기): 지시 표현 — 호작도를 가리켜 청중의 주의를 집중시킨다.<a class="src-tag" href="#ev7">지문 근거</a></li>
-    <li id="q3-2">② ㉡(그런데): 접속 표현 — 앞의 설명과 관련지어 다른 내용을 언급할 것임을 나타낸다.<a class="src-tag" href="#ev2">지문 근거</a></li>
-    <li id="q3-3">③ ㉢(이): 대용 표현 — 앞의 호랑이 외형 특징을 대신해 간결하게 전달한다.<a class="src-tag" href="#ev3">지문 근거</a></li>
+    <li id="q3-1">① ㉠(여기): 지시 표현 — 호작도를 가리켜 청중의 주의를 집중시킨다.<a class="src-tag" href="#ev7">오답 근거</a></li>
+    <li id="q3-2">② ㉡(그런데): 접속 표현 — 앞의 설명과 관련지어 다른 내용을 언급할 것임을 나타낸다.<a class="src-tag" href="#ev2">오답 근거</a></li>
+    <li id="q3-3">③ ㉢(이): 대용 표현 — 앞의 호랑이 외형 특징을 대신해 간결하게 전달한다.<a class="src-tag" href="#ev3">오답 근거</a></li>
     <li id="q3-4">④ ㉣(한편): 접속 표현 — 앞에서 다룬 호작도의 의미를 다시 강조할 것임을 나타낸다.<a class="src-tag ans" href="#ev5">정답 근거</a></li>
-    <li id="q3-5">⑤ ㉤(그): 대용 표현 — 앞의 절대적 권위자를 대신해 반복을 피한다.<a class="src-tag" href="#ev8">지문 근거</a></li>
+    <li id="q3-5">⑤ ㉤(그): 대용 표현 — 앞의 절대적 권위자를 대신해 반복을 피한다.<a class="src-tag" href="#ev8">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
