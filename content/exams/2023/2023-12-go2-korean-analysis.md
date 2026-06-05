@@ -15,7 +15,7 @@ layout: "exam"
 
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
-  <p>안녕하세요? 오늘 발표를 맡은 역사 탐구 동아리 회장 ○○○ 입니다. 여러분은 조선 시대의 금속 활자에 대해 알고 계신가요? (대답을 듣고) 아는 분이 많지 않네요. 고려 시대에 금속 활자가 만들어진 것에 대해서는 많이들 알고 계시지만 조선 시대에 금속 활자가 발달했다는 것은 잘 모르시는 분들이 많습니다. 그래서 오늘은 조선 시대 금속 활자에 대해 알려　드리려고 합니다. 이 그림을 보시죠. (그림 제시) 책을 인쇄하고 있는 사람들이 보이시죠? 이 그림은 조선 시대의 주자소라는 관청의 모습을 그린 것인데요, 주자소는 활자를 만들어 책을 인쇄하는 일을 전문적으로 맡았습니다. 『태종실록』에 ‘임금이 우리나라에 서적이 매우 적어 유생들이 널리 볼 수 없는 것을 염려하여 주자소를 설치하라 명하였다.’라는 기록이 있습니다. 이를 통해 조선 시대에는 유교 이념을 널리 전파하려는 목적으로 국가 차원에서 금속 활자를 활용한 서적 인쇄를 주도했다는 것을 알 수 있지요. 특히 세종 대에는 금속 활자 인쇄술이 크게 발전하게 됩니다. (사진 제시) 사진에서 왼쪽은 태종 대에 만들어진 조선 최초의 금속 활자인 계미자로 인쇄한 것이고, 오른쪽은 세종 대에 만들어진 금속 활자인 갑인자로 인쇄한 것입니다. 두 활자본의 차이를 분명하게 보여 드리기 위해 사진을 확대해 볼게요. (사진을 확대하며) 갑인자로 인쇄된 것이 글자의 크기와 간격이 훨씬 더 일정하다는 것을 확인할 수 있습니다. 이는 세종 대에 이르러 활자 하나하나를 맞추어 짜는 조판 기술이 발달하였기 때문입니다. 게다가 갑인자는 이전의 금속 활자에 비해 글씨체도 아름다워서 형태적인 완성미를 갖춘 금속 활자로 평가받습니다. 그래서 후대에도 갑인자를 표준으로 삼은 금속 활자들이 꾸준히 제작되었습니다. 조선 왕조 500년 동안 여러 종류의 금속 활자가 30회 이상 주조되었습니다. 조선 시대에 금속 활자가 활발하게 쓰였다는 것은 금속 활자로 인쇄된 책들을 통해서 확인할 수 있는데요,<span class="ev ans" id="ev2"> 『대학연의』, 『효경』과 같은 유교 이념을 담은 책 외에도 『동국정운』, 『농사직설』 등과 같은 다양한 분야의 책이 금속 활자로 인쇄되어 보급되었습니다.</span><a class="ev-tag ans" href="#q2-5">2-⑤</a><span class="ev ans" id="ev1"> □□박물관에 금속 활자로 인쇄된 책들이 다양하게 전시되어 있으니 방문해 보시는 게 어떨까요?</span><a class="ev-tag ans" href="#q1-5">1-⑤</a> 이상으로 발표를 마치겠습니다. 감사합니다.</p>
+  <p>안녕하세요? 오늘 발표를 맡은 역사 탐구 동아리 회장 ○○○ 입니다. 여러분은 조선 시대의 금속 활자에 대해 알고 계신가요? (대답을 듣고) 아는 분이 많지 않네요. 고려 시대에 금속 활자가 만들어진 것에 대해서는 많이들 알고 계시지만 조선 시대에 금속 활자가 발달했다는 것은 잘 모르시는 분들이 많습니다. <span class="ev" id="ev-q2-1">그래서 오늘은 조선 시대 금속 활자에 대해 알려　드리려고 합니다.</span><a class="ev-tag" href="#q2-1">2-①</a> 이 그림을 보시죠. (그림 제시) 책을 인쇄하고 있는 사람들이 보이시죠? <span class="ev" id="ev-q2-2">이 그림은 조선 시대의 주자소라는 관청의 모습을 그린 것인데요, 주자소는 활자를 만들어 책을 인쇄하는 일을 전문적으로 맡았습니다.</span><a class="ev-tag" href="#q2-2">2-②</a> 『태종실록』에 ‘임금이 우리나라에 서적이 매우 적어 유생들이 널리 볼 수 없는 것을 염려하여 주자소를 설치하라 명하였다.’<span class="ev" id="ev-q2-3">라는 기록이 있습니다.</span><a class="ev-tag" href="#q2-3">2-③</a> 이를 통해 조선 시대에는 유교 이념을 널리 전파하려는 목적으로 국가 차원에서 금속 활자를 활용한 서적 인쇄를 주도했다는 것을 알 수 있지요. 특히 세종 대에는 금속 활자 인쇄술이 크게 발전하게 됩니다. (사진 제시) 사진에서 왼쪽은 태종 대에 만들어진 조선 최초의 금속 활자인 계미자로 인쇄한 것이고, 오른쪽은 세종 대에 만들어진 금속 활자인 갑인자로 인쇄한 것입니다. 두 활자본의 차이를 분명하게 보여 드리기 위해 사진을 확대해 볼게요. (사진을 확대하며) <span class="ev" id="ev-q2-4">갑인자로 인쇄된 것이 글자의 크기와 간격이 훨씬 더 일정하다는 것을 확인할 수 있습니다.</span><a class="ev-tag" href="#q2-4">2-④</a> 이는 세종 대에 이르러 활자 하나하나를 맞추어 짜는 조판 기술이 발달하였기 때문입니다. 게다가 갑인자는 이전의 금속 활자에 비해 글씨체도 아름다워서 형태적인 완성미를 갖춘 금속 활자로 평가받습니다. 그래서 후대에도 갑인자를 표준으로 삼은 금속 활자들이 꾸준히 제작되었습니다. 조선 왕조 500년 동안 여러 종류의 금속 활자가 30회 이상 주조되었습니다. 조선 시대에 금속 활자가 활발하게 쓰였다는 것은 금속 활자로 인쇄된 책들을 통해서 확인할 수 있는데요,<span class="ev ans" id="ev2"> 『대학연의』, 『효경』과 같은 유교 이념을 담은 책 외에도 『동국정운』, 『농사직설』 등과 같은 다양한 분야의 책이 금속 활자로 인쇄되어 보급되었습니다.</span><a class="ev-tag ans" href="#q2-5">2-⑤</a><span class="ev ans" id="ev1"> □□박물관에 금속 활자로 인쇄된 책들이 다양하게 전시되어 있으니 방문해 보시는 게 어떨까요?</span><a class="ev-tag ans" href="#q1-5">1-⑤</a> 이상으로 발표를 마치겠습니다. 감사합니다.</p>
 </div>
 
 <div class="q-block" id="prob1">
@@ -25,25 +25,7 @@ layout: "exam"
     <li id="q1-3">③ 발표를 하게 된 소감을 밝히며 발표를 시작하고 있다.</li>
     <li id="q1-4">④ 발표의 진행 순서를 제시하며 이어질 내용을 안내하고 있다.</li>
     <li id="q1-5">⑤ 발표 내용과 관련된 활동을 권유하며 발표를 마무리하고 있다.<a class="src-tag ans" href="#ev1">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 발표자가 실제로 한 말하기 행동을 본다.</p><p>4문단에서 ‘□□박물관에 금속 활자로 인쇄된 책들이~ 방문해 보시는 게 어떨까요?’라며 발표 내용과 관련된 <strong>활동을 권유하며 마무리</strong>한다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>친숙한 소재에 빗댄 설명 없음.</td></tr><tr><td>②</td><td>오답</td><td>중간중간 요약 없음.</td></tr><tr><td>③</td><td>오답</td><td>소감으로 시작하지 않음.</td></tr><tr><td>④</td><td>오답</td><td>진행 순서 안내 없음.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>관련 활동(박물관 방문) 권유로 마무리.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob2">
@@ -54,72 +36,36 @@ layout: "exam"
   </div>
   <ul class="q-opts"><li id="q2-1">① 청중이 조선 시대의 금속 활자에 대해 잘 알지 못할 것임.
 →
-조선 시대의 금속 활자에 대한 정보를 제공하는 것이 발표의 목적임을 밝혀야지.</li>
+조선 시대의 금속 활자에 대한 정보를 제공하는 것이 발표의 목적임을 밝혀야지.<a class="src-tag" href="#ev-q2-1">오답 근거</a></li>
     <li id="q2-2">② 청중이 주자소를 생소하게 여길 것임.
 →
-그림 자료를 보여 주며 주자소의 역할을 이해하기 쉽게 설명해야지.</li>
+그림 자료를 보여 주며 주자소의 역할을 이해하기 쉽게 설명해야지.<a class="src-tag" href="#ev-q2-2">오답 근거</a></li>
     <li id="q2-3">③ 국가 차원에서 서적 인쇄를 주도함.
 →
-국가가 책을 인쇄하는 관청을 만들었음을 알 수 있는 문헌 자료를 인용해야지.</li>
+국가가 책을 인쇄하는 관청을 만들었음을 알 수 있는 문헌 자료를 인용해야지.<a class="src-tag" href="#ev-q2-3">오답 근거</a></li>
     <li id="q2-4">④ 세종 대에 이르러 조판 기술이 발달함.
 →
-사진 자료를 활용해 계미자와 갑인자의 글자 크기와 간격을 비교해야겠어.</li>
+사진 자료를 활용해 계미자와 갑인자의 글자 크기와 간격을 비교해야겠어.<a class="src-tag" href="#ev-q2-4">오답 근거</a></li>
     <li id="q2-5">⑤ 다양한 서적 인쇄에 금속 활자가 활용됨.
 →
 금속 활자로 인쇄된 책들의 사례를 시대에 따라 분류해 제시해야겠어.<a class="src-tag ans" href="#ev2">정답 근거</a></li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 계획(메모→발표 계획)이 실제 발표에 반영됐는지 하나씩 본다.</p><p>4문단은 다양한 분야의 책 <strong>사례를 제시</strong>할 뿐, 책들을 ‘시대에 따라 분류’하지는 않았다. ⑤가 반영되지 않았다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>반영</td><td>1문단 발표 목적(정보 제공) 밝힘.</td></tr><tr><td>②</td><td>반영</td><td>그림으로 주자소 역할 설명.</td></tr><tr><td>③</td><td>반영</td><td>『태종실록』 인용(국가 관청).</td></tr><tr><td>④</td><td>반영</td><td>사진으로 계미자·갑인자 비교.</td></tr><tr class="correct"><td>⑤</td><td class="ok">미반영</td><td>사례 제시일 뿐 ‘시대 분류’ 없음.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob3">
   <p class="q-stem">3. &lt;보기&gt;는 위 발표를 들은 학생들의 반응이다. 발표 내용을 고려하여 학생의 반응을 이해한 것으로 적절하지 않은 것은?</p>
   <div class="q-bogi">
     <p class="bogi-label">&lt; 보 기 &gt;</p>
-    <p class="dlg"><b>학생 1:</b> 금속 활자는 한 가지뿐인 줄 알았는데 그렇지 않다는 걸 알게 되었어. 하지만 계미자와 갑인자에 대해서만 설명해서 아쉬워. 조선 시대에 주조된 다른 금속 활자에 대해 찾아봐야겠어.</p>
-    <p class="dlg"><b>학생 2:</b> 갑인자에 대한 기사를 본 적이 있어서 갑인자가 조선 시대 금속 활자라는 건 알고 있었어. 그런데 갑인자가 형태적 완성미를 갖추었다고 하는데 구체적으로 어떤 점이 그럴까?</p>
-    <p class="dlg"><b>학생 3:</b> 조선 시대 금속 활자의 발달 양상에 대해 알게 되어 유익했어. 세종 대에 금속 활자가 발전했다고 했는데 그렇게 될 수 있었던 당시의 사회 문화적 배경에 대해 조사해 봐야겠어.</p>
+    <p class="dlg"><b>학생 1:</b> <span class="ev" id="ev-q3-4a">금속 활자는 한 가지뿐인 줄 알았는데 그렇지 않다는 걸 알게 되었어.</span><a class="ev-tag" href="#q3-4">3-④</a> <span class="ev" id="ev-q3-15">하지만 계미자와 갑인자에 대해서만 설명해서 아쉬워. 조선 시대에 주조된 다른 금속 활자에 대해 찾아봐야겠어.</span><a class="ev-tag" href="#q3-1">3-①</a><a class="ev-tag" href="#q3-5">3-⑤</a></p>
+    <p class="dlg"><b>학생 2:</b> <span class="ev ans" id="ev-q3-4b">갑인자에 대한 기사를 본 적이 있어서 갑인자가 조선 시대 금속 활자라는 건 알고 있었어.</span><a class="ev-tag ans" href="#q3-4">3-④</a> <span class="ev" id="ev-q3-2">그런데 갑인자가 형태적 완성미를 갖추었다고 하는데 구체적으로 어떤 점이 그럴까?</span><a class="ev-tag" href="#q3-2">3-②</a></p>
+    <p class="dlg"><b>학생 3:</b> <span class="ev" id="ev-q3-3">조선 시대 금속 활자의 발달 양상에 대해 알게 되어 유익했어.</span><a class="ev-tag" href="#q3-3">3-③</a> <span class="ev" id="ev-q3-5b">세종 대에 금속 활자가 발전했다고 했는데 그렇게 될 수 있었던 당시의 사회 문화적 배경에 대해 조사해 봐야겠어.</span><a class="ev-tag" href="#q3-5">3-⑤</a></p>
   </div>
-  <ul class="q-opts"><li id="q3-1">① 학생 1은 발표에서 만족스럽지 않은 부분을 언급하며 아쉬움을 드러내고 있군.</li>
-    <li id="q3-2">② 학생 2는 발표 내용 일부를 언급하며 궁금한 점을 드러내고 있군.</li>
-    <li id="q3-3">③ 학생 3은 발표를 통해 알게 된 사실에 대해 긍정적으로 생각하고 있군.</li>
-    <li id="q3-4">④ 학생 1과 학생 2는 모두 발표 내용을 통해 자신이 알고 있던 지식을 수정하고 있군.</li>
-    <li id="q3-5">⑤ 학생 1과 학생 3은 모두 발표에서 언급된 정보에 대한 추가 정보를 탐색하려 하고 있군.</li></ul>
-  <details class="solution">
-    <summary>해설 보기</summary>
-    <div class="solution-body">
-      <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
-      </div>
-      <table class="jt">
-        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
-        <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </details>
+  <ul class="q-opts"><li id="q3-1">① 학생 1은 발표에서 만족스럽지 않은 부분을 언급하며 아쉬움을 드러내고 있군.<a class="src-tag" href="#ev-q3-15">오답 근거</a></li>
+    <li id="q3-2">② 학생 2는 발표 내용 일부를 언급하며 궁금한 점을 드러내고 있군.<a class="src-tag" href="#ev-q3-2">오답 근거</a></li>
+    <li id="q3-3">③ 학생 3은 발표를 통해 알게 된 사실에 대해 긍정적으로 생각하고 있군.<a class="src-tag" href="#ev-q3-3">오답 근거</a></li>
+    <li id="q3-4">④ 학생 1과 학생 2는 모두 발표 내용을 통해 자신이 알고 있던 지식을 수정하고 있군.<a class="src-tag ans" href="#ev-q3-4b">정답 근거</a></li>
+    <li id="q3-5">⑤ 학생 1과 학생 3은 모두 발표에서 언급된 정보에 대한 추가 정보를 탐색하려 하고 있군.<a class="src-tag" href="#ev-q3-15">오답 근거(학생1)</a><a class="src-tag" href="#ev-q3-5b">오답 근거(학생3)</a></li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 각 학생 반응이 ‘수정·궁금·긍정·탐색’ 중 무엇인지 가른다.</p><p>학생1은 ‘한 가지뿐인 줄 알았는데 아니었다’며 지식을 수정하지만, 학생2는 ‘갑인자가 조선 금속 활자인 건 알고 있었어’라며 <strong>알던 지식을 언급만</strong> 할 뿐 수정하지 않는다. ‘모두 수정’이라는 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>학생1: ‘아쉬워’ 불만족 언급.</td></tr><tr><td>②</td><td>적절</td><td>학생2: ‘어떤 점이 그럴까?’ 궁금.</td></tr><tr><td>③</td><td>적절</td><td>학생3: ‘유익했어’ 긍정.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>학생2는 수정 아닌 ‘언급만’.</td></tr><tr><td>⑤</td><td>적절</td><td>학생1·3 모두 추가 탐색 계획.</td></tr></tbody></table></div></details>
 </div>
 
 <div id="set2" class="set-anchor"></div>
