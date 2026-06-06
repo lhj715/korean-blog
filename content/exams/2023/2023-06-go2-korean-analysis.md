@@ -269,14 +269,14 @@ layout: "exam"
   <p class="q-stem">14. &lt;보기&gt;는 ‘사전 활용하기’ 학습 활동을 위한 자료이다. 이에 대해 탐구한 내용으로 적절하지 않은 것은?</p>
   <div class="q-bogi">
  <p class="bogi-label">&lt; 보 기 &gt;</p>
- <p>&lt; 보기&gt;<br>가늘다 물체의 지름이 보통의 경우에 미치지 못하고 짧다.<br> 소리의 울림이 보통에 미치지 못하고 약하다.<br>굵다  물체의 지름이 보통의 경우를 넘어 길다.<br>¶ 나뭇가지가 굵다.<br> 밤, 대추, 알 따위가 보통의 것보다 부피가 크다.<br>두껍다  두께가 보통의 정도보다 크다.<br>¶ 두꺼운 종이 층을 이루는 사물의 높이나 집단의 규모가 보통의 정도보다 크다.</p>
+ <img src="/images/exams/2023-06-go2/q14-bogi.png" alt="가늘다·굵다·두껍다 사전 뜻풀이(형용사, 뜻 1·2)" class="bogi-img">
   </div>
   <ul class="q-opts"><li id="q14-1">① ‘가늘다’, ‘굵다’, ‘두껍다’는 모두 다의어이다.</li>
- <li id="q14-2">② ‘가늘다’의 용례로 ‘열차의 기적 소리가 가늘게 들려왔다.’
+ <li id="q14-2">② ‘가늘다[2]’의 용례로 ‘열차의 기적 소리가 가늘게 들려왔다.’
 를 추가할 수 있다.</li>
- <li id="q14-3">③ ‘두껍다’의 용례로 ‘그 책은 수요층이 두껍다.’를 들 수 있다.</li>
- <li id="q14-4">④ ‘굵다’의 용례에서 ‘굵다’를 ‘가늘다’로 바꾸면 ‘가늘다’의 용례가 될 수 있다.</li>
- <li id="q14-5">⑤ ‘굵다’과 ‘두껍다’의 의미에 의하면 ‘굵은 손가락’은 ‘두꺼운 손가락’으로 쓰는 것이 적절하다.</li></ul>
+ <li id="q14-3">③ ‘두껍다[2]’의 용례로 ‘그 책은 수요층이 두껍다.’를 들 수 있다.</li>
+ <li id="q14-4">④ ‘굵다[1]’의 용례에서 ‘굵다’를 ‘가늘다’로 바꾸면 ‘가늘다[1]’의 용례가 될 수 있다.</li>
+ <li id="q14-5">⑤ ‘굵다[1]’과 ‘두껍다[1]’의 의미에 의하면 ‘굵은 손가락’은 ‘두꺼운 손가락’으로 쓰는 것이 적절하다.</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 다의어의 의미와 용례를 본다.</p><p>‘굵다’와 ‘두껍다’의 사전적 의미에 비추어 ⑤의 진술이 적절하다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>세 단어 모두 동일 의미 아님.</td></tr><tr><td>②</td><td>오답</td><td>‘가늘다’ 용례 부적절.</td></tr><tr><td>③</td><td>오답</td><td>‘두껍다’ 용례 부적절.</td></tr><tr><td>④</td><td>오답</td><td>바꿔 쓰기 부적절.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>굵다·두껍다 의미 적절.</td></tr></tbody></table></div></details>
 </div>
 
