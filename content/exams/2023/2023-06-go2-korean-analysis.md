@@ -71,7 +71,237 @@ layout: "exam"
 ## 4~7번 화법·작문 · 보도+회의+기사 · 학생자치실
 
 <div class="passage">
-  <p class="passage-guide">[4 ~ 7] (가)는 교내 신문의 학생 기사문이고, (나)<img src="/images/exams/2023-06-go2/q16-sijo.png" alt="(나) 신교 「귀산음」 연시조(중세 국어 원문)" class="bogi-img"> * 세간존몰: 세상의 존속과 멸망. * 자연지체: 저절로 늦어 머뭇거림. * 믈여기: 갈매기. * 금가: 거문고에 맞추어 부르는 노래. * 초로인생: 풀 끝에 달린 이슬처럼 덧없는 인생. (다) </p>
+  <p class="passage-guide">[4 ~ 7] (가)는 교내 신문의 학생 기사문이고, (나)는 (가)의 보도 이후에 열린 회의이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
+  <p>(가) 학생 자치의 꽃, 학생자치실이 달라진다- 학생 회의를 통해 학생자치실 활용 방안 논의 예정- 우리 학교는 학생 자치활동 활성화를 위해 지난 3월부터 교육청 지원으로 학생 참여형 학생자치실 구축 사업을 진행 중이며 학생 회의를 열어 학생자치실 활용 방안에 대해 논의할 예정이다. 그동안 우리 학교는 학생회실이라는 공간이 있었지만, 학생회에서 회의를 할 때만 사용하여 학생회실에 대해 잘 모르는 학생들이 많았다. 또한 공간이 협소하여 전교생을 대상으로 하는 학생회 행사를 진행하기에 어려움이 있었다. 따라서 학교는 기존 학생회실과 그 옆에 비어 있는 교실을 합쳐서 학생자치실을 구축하기로 결정했다. 현재는 위치만 정해진 상태로, 학생자치실의 활용 방안에 대해 학생회에서 회의를 개최하여 논의할 예정이다. 회의는 6월 9일에 학생회실에서 열린다. 6월 2일까지<span class="ev ans" id="ev4"> 학교 누리집과 누리소통망(SNS)을 통해 학생들을 대상으로 학생자치실의 활용 방안에 대한 설문 조사를 실시할 계획이다.</span><a class="ev-tag ans" href="#q4-1">4-①</a> 회의를 참관하려는 학생은 학생회에서 별도 신청을 받는다.<span class="ev ans" id="ev7"> 우리가 만들어 갈 공간, 학생자치실에 대한 학생들의 많은 관심과 적극적인 참여가 필요한 상황이다.</span><a class="ev-tag ans" href="#q7-4">7-④</a> </p>
+  <p>(나) </p>
+  <p>학생회장: 지금부터 회의를 시작하겠습니다. 학생자치실의 활용 방안에 대해 의견을 말씀해 주세요. </p>
+  <p>학생1 : ㉠사전 조사 결과를 살펴보면 사용 대상을 확대하면 좋겠다는 의견이 가장 많습니다. </p>
+  <p>학생2 : 맞습니다. ㉡현재 학생회 임원으로 한정된 사용 대상을 학급, 동아리, 소모임 단위로 확대하면 좋겠습니다. </p>
+  <p>학생1 : 학생회 임원이 아닌 학생들이 회의나 모임을 할 때도 사용하면 좋겠네요. </p>
+  <p>학생3 : 네, 하지만 학생들이 사용하려는 기간이 겹치면, 학생자치실 관리에 어려움이 생길 수도 있습니다. </p>
+  <p>학생회장: 네, 학교 행사나 수행평가 시기에 사용하려는 학생들이 몰릴 수 있을 것 같습니다. 어떻게 하면 이 문제를 해결할 수 있을까요? </p>
+  <p>학생1 : ㉢학생자치실 사용을 사전에 예약할 수 있도록 하면 좋겠습니다. </p>
+  <p>학생3 : 동의합니다. 학생회에서 예약 관리 담당자를 정하여 운영합시다. </p>
+  <p>학생회장: 네, 좋습니다. 학생자치실을 학생들의 모임 공간으로 활용하되 예약제로 운영하도록 하겠습니다. 또 다른 활용 방안은 없을까요? </p>
+  <p>학생2 : 학생자치실에서 학생회 행사를 실시하면 좋겠다는 의견이 많습니다. </p>
+  <p>학생3 : 좋은 의견입니다. 학생회 행사 장소가 자주 바뀌다 보니 행사를 준비하는 데도 어려움이 있었고, 학생들이 장소를 잘못 찾아가는 혼란도 있었습니다. </p>
+  <p>학생2 : 맞습니다. 나눔 마켓, 교복 물려주기, 우산 대여와 같은 학생회 활동을 모두 학생자치실에서 진행하면 좋겠습니다. </p>
+  <p>학생회장: 네, 학생자치실을 학생회 행사를 준비하고 진행하는 장소로 활용하도록 하겠습니다. 또 다른 의견 있으신가요? </p>
+  <p>학생3 : ㉣그런데 학생자치실에서 회의나 모임, 학생회 행사를 하기 위해서는 공간 구성에 대한 고민이 필요하지 않을까요? </p>
+  <p>학생회장: 네, 활용 방안을 제안하기 위해서는 그에 적합한 공간 구성도 함께 논의해야겠네요. </p>
+  <p>학생1 : 학생들이 참여할 수 있는 방안이 있으면 좋겠습니다. </p>
+  <p>학생2 : 그렇다면 우리 학교 동아리의 도움을 받으면 어떨까요? </p>
+  <p>학생회장: 좋은 생각입니다.<span class="ev ans" id="ev5"> 구체적으로 어떤 동아리 학생들에게, 어떻게 도움을 받으면 좋을까요?</span><a class="ev-tag ans" href="#q5-3">5-③</a> </p>
+  <p>학생2 : ㉤우리 학교에는 건축 디자인 동아리가 있습니다. 동아리 학생들에게 활용 방안에 맞는 공간 구성 방향을 제안해 달라고 요청하는 겁니다. </p>
+  <p>학생1 : 해당 동아리 학생들은 공간 디자인 공모전에 참여한 경험이 있으니, 이번 학생자치실 공간 구성에 대해 의견을 받으면 도움이 될 것 같아요. </p>
+  <p>학생회장: 네, 그럼 동아리 학생들에게 해당 내용을 전달하도록 하겠습니다. 다음 회의 때는 건축 디자인 동아리 학생들의 의견을 참고하여 학생자치실 공간 구성에 대해 논의하도록 하겠습니다. 오늘 회의에 참여해 주셔서 감사합니다.</p>
+</div>
+
+<div class="q-block" id="prob4">
+  <p class="q-stem">4. (가)를 쓰기 위해 세운 글쓰기 계획 중, 글에 반영된 것만을 고른 것은?</p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>ㄱ. 학생자치실 구축 사업을 실시하는 목적을 제시해야겠군.<br>ㄴ. 학생자치실 활용과 관련된 회의를 개최하는 주체를 밝혀야겠군.<br>ㄷ. 학생자치실을 구축하며 발생할 수 있는 문제에 대한 해결 방안을 제시해야겠군.<br>ㄹ. 학생자치실 활용과 관련된 회의의 결과를 언급하며 후속 회의의 주제를 알려야겠군.</p>
+  </div>
+  <ul class="q-opts"><li id="q4-1">① ㄱ, ㄴ<a class="src-tag ans" href="#ev4">정답 근거</a></li>
+ <li id="q4-2">② ㄱ, ㄷ</li>
+ <li id="q4-3">③ ㄴ, ㄷ</li>
+ <li id="q4-4">④ ㄴ, ㄹ</li>
+ <li id="q4-5">⑤ ㄷ, ㄹ</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 기사문에 반영된 글쓰기 계획을 본다.</p><p>ㄱ(1문단 ‘활성화를 위해’)·ㄴ(3문단 ‘회의를 개최’)이 확인된다. ㄷ·ㄹ은 미반영. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>ㄱ·ㄴ 확인됨.</td></tr><tr><td>②</td><td>오답</td><td>ㄷ 미반영.</td></tr><tr><td>③</td><td>오답</td><td>ㄷ 미반영.</td></tr><tr><td>④</td><td>오답</td><td>ㄹ 미반영.</td></tr><tr><td>⑤</td><td>오답</td><td>ㄷ·ㄹ 미반영.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob5">
+  <p class="q-stem">5. (나)의 [A], [B]에 드러난 ‘학생회장’의 말하기에 대한 이해로 가장 적절한 것은?</p>
+  <ul class="q-opts"><li id="q5-1">① [A]에서는 [B]와 달리 상대의 발언 내용에 긍정적으로 반응하고 있다.</li>
+ <li id="q5-2">② [A]에서는 [B]와 달리 상대의 발언 내용을 되물으며 발언의 정확한 의도를 확인하고 있다.</li>
+ <li id="q5-3">③ [B]에서는 [A]와 달리 상대의 발언 내용에 대한 추가 설명을 요구하고 있다.<a class="src-tag ans" href="#ev5">정답 근거</a></li>
+ <li id="q5-4">④ [B]에서는 [A]와 달리 상대의 발언 취지를 확인하며 논점을 명확하게 제시하고 있다.</li>
+ <li id="q5-5">⑤ [A]와 [B]에서는 모두 상대의 발언 내용을 요약하여 정리하고 있다.
+[A]
+[B]
+고2 3</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — [A]·[B]의 말하기 방식을 비교한다.</p><p>[B]에서 학생회장은 ‘구체적으로 어떤’, ‘어떻게’라며 추가 설명을 요구하지만 [A]에는 없다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[A] 추가 요구 없음.</td></tr><tr><td>②</td><td>오답</td><td>[A] 해당 양상 없음.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>[B]만 추가 설명 요구.</td></tr><tr><td>④</td><td>오답</td><td>[B] 비판 아님.</td></tr><tr><td>⑤</td><td>오답</td><td>양쪽 공통 아님.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob6">
+  <p class="q-stem">6. (가)와 (나)의 맥락을 고려할 때, (가)를 읽고 (나)를 참관한 학생이 보인 반응으로 적절하지 않은 것은?</p>
+  <ul class="q-opts"><li id="q6-1">① ㉠을 들으니, 회의에서 언급한 조사 결과는 학교 누리집과 누리소통망(SNS)을 통해 취합한 것이겠군.</li>
+ <li id="q6-2">② ㉡을 들으니, 평소 학생회실을 학생회 임원만 이용해서 학생회실에 대해 학생들이 잘 몰랐겠군.</li>
+ <li id="q6-3">③ ㉢을 들으니, 학생자치실 사용을 예약제로 운영하자는 것은 학생자치실의 위치를 고려한 의견이겠군.</li>
+ <li id="q6-4">④ ㉣을 들으니, 학생자치실의 공간 구성 방안은 회의 전에는 계획되지 않은 내용이겠군.</li>
+ <li id="q6-5">⑤ ㉤을 들으니, 학생자치실 공간 구성에 동아리 학생들의 도움을 받자는 것은 학생 참여를 지향하는 사업 방향에 맞는 제안이겠군.</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉠~㉤에 대한 학생 반응의 적절성을 본다.</p><p>㉢의 예약제 방안은 사용 대상을 확대하기로 한 결정과 어긋나므로 적절하지 않다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 조사 결과 반영.</td></tr><tr><td>②</td><td>오답</td><td>㉡ 임원 사용 관련.</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢ 예약제=대상 확대와 상충.</td></tr><tr><td>④</td><td>오답</td><td>㉣ 공간 구성 관련.</td></tr><tr><td>⑤</td><td>오답</td><td>㉤ 공간 구성 동의.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob7">
+  <p class="q-stem">7. 다음은 (나) 이후 작성한 기사문의 일부이다. 기사문을 작성할 때 독자를 고려한 내용으로 적절하지 않은 것은?</p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>학생회 임원들은 지난 회의에서 학생자치실 활용 방안에 대해 논의하였다. 회의 결과, 학생자치실은 학생들의 회의와 모임, 학생회 주최 행사 등에 활용될 예정이다.<br>학생회 측은 활용 방안에 따른 공간 구성에 대해 도움을 얻고자 회의 이후 건축 디자인 동아리 학생들에게 해당 내용을 전달하였고, 동아리 학생들은 공간의 다양한 활용을 위해 접이식 가벽 설치, 이동형 수납장 배치 등을 제안하였다.<br>회의를 참관한 ○○○ 학생은 “학생자치실을 만드는 데 학생들의 의견이 반영되어서 좋았어요. 회의에서 열의도 느껴졌어요.”라고 말했다.<br>6월 20일에 열릴 회의에서는 학생회와 사업 담당 선생님이 함께 공간 구성에 대해 논의할 예정이다.</p>
+  </div>
+  <ul class="q-opts"><li id="q7-1">① 다음 회의에 대한 정보를 인지할 수 있도록 한다.</li>
+ <li id="q7-2">② 지난 회의에서 논의된 내용을 파악할 수 있도록 한다.</li>
+ <li id="q7-3">③ 동아리 학생들이 제안한 내용을 확인할 수 있도록 한다.</li>
+ <li id="q7-4">④ 필자의 의견을 통해 학생 참여가 중요하다는 것을 알 수 있도록 한다.<a class="src-tag ans" href="#ev7">정답 근거</a></li>
+ <li id="q7-5">⑤ 기사문에 인용된 발언을 통해 지난 회의의 분위기를 짐작할 수 있도록 한다.</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 기사문의 쓰기 맥락을 본다.</p><p>기사문에서 필자의 의견으로 학생 참여 중요성을 파악할 수 있는 내용은 확인되지 않는다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>다음 회의 정보 인지 가능.</td></tr><tr><td>②</td><td>오답</td><td>지난 회의 내용 파악 가능.</td></tr><tr><td>③</td><td>오답</td><td>동아리 제안 확인 가능.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>필자 의견=학생 참여 강조 근거 없음.</td></tr><tr><td>⑤</td><td>오답</td><td>인용 발언으로 회의 파악 가능.</td></tr></tbody></table></div></details>
+</div>
+
+<div id="set3" class="set-anchor"></div>
+
+## 8~10번 작문 · 초고 · 가치 소비
+
+<div class="passage">
+  <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 이를 바탕으로 작성한 학생의 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
+  <p>(가) 작문 상황목적: 바람직한 소비 생활을 위한 가치 소비 소개예상 독자: 우리 학교 학생들(나) 학생의 초고최근 ‘가치 소비’가 사회적으로 관심을 받고 있다. 가치 소비에 대한 우리 학교 학생들의 설문 조사 결과를 살펴보면,<span class="ev ans" id="ev8"> 가치 소비라는 말을 들어본 학생이 증가하고 있음을 알 수 있다.</span><a class="ev-tag ans" href="#q8-2">8-②</a> 그러나 가치 소비가 무엇인지 제대로 아는 학생은 많지 않다. 이에 가치 소비의 개념과 실천 사례, 그 의의에 대해 소개하고자 한다. </p>
+  <p>가치 소비란 소비자가 본인의 가치 판단을 우선시하여 소비하는 방식을 말한다. 소비자 본인이 가치를 부여하는 제품에 대해서는 비용이 더 들더라도 과감하게 소비하되, 그렇지 않은 제품에 대해서는 저렴하거나 실속 있는 것을 선호하는 것이다. 가치 소비에는 타인이 부러워할 만한 고가의 제품을 구매함으로써 개인적인 만족감을 얻는 소비도 있지만, 다소 비싸더라도 사회적ㆍ 윤리적 의미를 실현하고자 하는 소비도 있다. 소비가 기부로 연결되는 제품이나 동물 실험을 거치지 않은 제품을 구매하는 것이 후자에 해당한다.<span class="ev ans" id="ev10"> 이처럼 사회적ㆍ윤리적 의미를 추구하는 가치 소비는 사회적으로 긍정적인 영향을 끼칠 수 있다는 점에서 주목받고 있다.</span><a class="ev-tag ans" href="#q10-1">10-①</a> </p>
+  <p>가치 소비를 적극적으로 표현하는 방법으로 ‘미닝 아웃(meaning out)’이 있다. 미닝 아웃은 ‘신념’을 뜻하는 ‘미닝(meaning)’과 ‘벽장 속에서 나오다’라는 뜻을 지닌 ‘커밍 아웃(coming out)’을 결합한 단어로, 소비 행위 등을 통해 개인의 사회적 신념이나 가치관을 표출하는 것을 말한다. 자신이 지향하는 가치를 실현할 수 있는 소비를 한 후 이를 누리소통망(SNS)에 게시함으로써 자신이 어떤 신념을 지니고 있는지를 드러내는 것이 미닝 아웃의 하나이다. 또한 선행을 실천한 가게의 제품 구매를 유도하거나 부도덕한 기업의 제품에 대한 불매 의사를 표현함으로써, 많은 사람의 동참에 영향을 주는 형태도 있다.</p>
+  <p><span class="ev ans" id="ev9"> 사회적ㆍ윤리적 가치를 구매 기준으로 삼는 소비자의 움직임에 발맞추어 기업에서도 사회적 책임이나 윤리적 가치를 추구하는 행보를 보이고 있다.</span><a class="ev-tag ans" href="#q9-4">9-④</a> 따라서 소비자의 바람직한 가치 소비가 장기적으로 계속된다면 사회에 선한 영향력을 미칠 것이라 생각한다.</p>
+</div>
+
+<div class="q-block" id="prob8">
+  <p class="q-stem">8. 초고를 쓰기 위해 떠올린 생각 중 (나)에 반영되지 않은 것은?</p>
+  <ul class="q-opts"><li id="q8-1">① 특정 용어를 분석하여 독자가 그 의미를 쉽게 받아들이도록 해야겠어.</li>
+ <li id="q8-2">② 가치 소비를 접한 경험을 언급하여 독자가 가치 소비에 흥미를 느끼도록 해야겠어.<a class="src-tag ans" href="#ev8">정답 근거</a></li>
+ <li id="q8-3">③ 미닝 아웃의 여러 형태를 제시하여 독자가 글을 이해하는 데 도움이 되도록 해야겠어.</li>
+ <li id="q8-4">④ 가치 소비에 대해 다룰 내용을 제시하여 독자가 뒤에 이어질 내용을 추측하도록 해야겠어.</li>
+ <li id="q8-5">⑤ 가치 소비의 의의를 언급하여 독자가 가치 소비에 지속적으로 관심을 가지도록 해야겠어.
+[A]
+16</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 초고에 반영된 작문 계획을 본다.</p><p>(나)에서 가치 소비를 접한 경험은 언급되지 않았다. ②가 반영되지 않았다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>용어 분석으로 의미 전달.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>경험 언급 없음.</td></tr><tr><td>③</td><td>오답</td><td>미닝 아웃 형태 제시.</td></tr><tr><td>④</td><td>오답</td><td>다룰 내용 제시.</td></tr><tr><td>⑤</td><td>오답</td><td>가치 소비 의의 언급.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob9">
+  <p class="q-stem">9. &lt;보기&gt;를 활용하여 (나)를 보완하고자 한다. 자료 활용 방안으로 적절하지 않은 것은? <span class="q-rate">오답률 61.4%</span></p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>[3점]<br>&lt; 보기&gt;<br>[자료1] 우리 학교 학생들의 설문 조사 결과 [자료2] 신문 기사다른 제품에 비해 비싸더라도 환경보호를 실천하는 기업의 제품에 지갑을 여는 소비자가 늘고 있다. 이에 따라 제품의 생산 과정에서 폐기물을 줄이거나 포장재를 최소화하려고 노력하는 기업 역시 증가하고 있다. 건강한 지구를 미래 세대에게 물려주자는 소비자가 많아질수록 우리의 환경은 더욱 좋아질 것이다.<br>[자료3] 전문가 인터뷰“미닝 아웃으로 판매자에 대한 잘못된 정보가 전파되거나 불매 운동이 권유가 아닌 강요로 변질된다면, 타인의 권리를 침해할 수 있습니다. 그럼에도 불구하고 미닝 아웃은 윤리적 소비와 연결되어 사회, 환경 등에 긍정적인 영향을 끼칠 수 있기 때문에 우리가 지향해야 할 소비 현상이라 할 수 있습니다.”</p>
+  </div>
+  <ul class="q-opts"><li id="q9-1">① [자료1]을 활용하여, 가치 소비에 대한 우리 학교 학생들의 인지도를 구체적 수치로 제시해야겠군.</li>
+ <li id="q9-2">② [자료2]를 활용하여, 가치 소비를 지향하는 사람들을 고려하여 기업이 실천하고 있는 사례를 보충해야겠군.</li>
+ <li id="q9-3">③ [자료3]을 활용하여, 미닝 아웃으로 불매 의사를 표현할 때 발생할 수 있는 부작용도 다루어야겠군.</li>
+ <li id="q9-4">④ [자료1]과 [자료2]를 활용하여, 가치 소비에 대한 관심이 높아지는 현상을 소비자와 기업의 상호 의존적인 관계로 설명해야겠군.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
+ <li id="q9-5">⑤ [자료2]와 [자료3]을 활용하여, 가치 소비가 바람직하게 전개되었을 때 얻을 수 있는 효과를 언급해야겠군.</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 자료 활용의 적절성을 본다.</p><p>[자료2]로 소비자와 기업이 상호 의존적 관계라고 설명할 수는 없다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>[자료1] 관심 증가 활용.</td></tr><tr><td>②</td><td>오답</td><td>[자료2] 지향 태도 활용.</td></tr><tr><td>③</td><td>오답</td><td>[자료3] 사례 활용.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>[자료1·2]로 상호 의존 설명 불가.</td></tr><tr><td>⑤</td><td>오답</td><td>[자료2·3] 활용 적절.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob10">
+  <p class="q-stem">10. &lt;조건&gt;에 따라 [A]에 들어갈 내용으로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>&lt; 조건&gt;<br>글의 흐름을 고려할 것.<br>설의법과 비유법을 모두 사용할 것.</p>
+  </div>
+  <ul class="q-opts"><li id="q10-1">① 시냇물이 모여 강물이 되듯이 내가 실천한 올바른 가치 소비가 사회의 큰 흐름을 만들 수 있지 않을까?<a class="src-tag ans" href="#ev10">정답 근거</a></li>
+ <li id="q10-2">② 당신의 소비가 나를 위한 사치인지 남을 위한 가치인지 생각하며 현명하게 소비해야 하지 않겠는가?</li>
+ <li id="q10-3">③ 물방울이 바위를 뚫듯이 소비자들의 착한 가치 소비가 계속되면 더 나은 사회를 만들 수 있을 것이다.</li>
+ <li id="q10-4">④ 내가 소비한 물건을 마음의 거울에 비춰보면 내가 어디에 가치를 두는지 알 수 있지 않을까?</li>
+ <li id="q10-5">⑤ 나의 소비가 부메랑처럼 돌아올 것을 생각하며, 우리 함께 바람직한 가치 소비를 하자.</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 조건(비유·설의)에 맞는 표현을 찾는다.</p><p>‘시냇물이 모여 강물이 되듯이’(비유), ‘큰 흐름’ 등으로 가치 소비의 영향력을 비유·설의로 표현한 ①이 조건을 충족한다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>비유+설의로 영향력 표현.</td></tr><tr><td>②</td><td>오답</td><td>조건 미충족.</td></tr><tr><td>③</td><td>오답</td><td>비유만, 흐름과 무관.</td></tr><tr><td>④</td><td>오답</td><td>조건 미충족.</td></tr><tr><td>⑤</td><td>오답</td><td>조건 미충족.</td></tr></tbody></table></div></details>
+</div>
+
+<div id="set4" class="set-anchor"></div>
+
+## 11~15번 문법 · 품사와 문장 성분
+
+<div class="passage">
+  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
+  <p>‘품사’는 공통된 성질이 있는 단어끼리 묶어서 분류해 놓은 갈래를 뜻하고, ‘문장 성분’은 문장 안에서 일정한 문법적 기능을 하는 구성 요소를 뜻한다. 관형사는 체언인 명사, 대명사, 수사 앞에서 해당 체언을 꾸며 주는 품사이고, 관형어는 체언을 꾸며 주는 문장 성분이므로, 서로 문법 단위가 다르다. 그런데 관형사나 관형어는 이름과 그 기능이 서로 유사하여, 둘을 구별하기가 쉽지 않다. 관형사는 단어의 성질 자체가 체언의 수식에 있고, 문장 성분으로는 관형어의 기능을 한다. 하지만 관형어는 관형사로만 실현되는 것은 아니다. 관형사 이외에도 체언과 관형격 조사의 결합, 용언의 어간과 관형사형 어미의 결합, 체언 자체로도 관형어로 쓰일 수 있다. (가) 헌 집이지만 나는 고향 집이 정겹다. </p>
+  <p>(나) 할아버지의 집을 고쳐서 예쁜 집으로 만들었다. </p>
+  <p>(가)의 ‘헌’은 ‘집’을 꾸며 주는 관형사이다. 이때 ‘헌’은 조사와 결합하지 않으며, ‘헌’이라는 고정된 형태로만 쓰인다. 즉 ‘헌 책, 헌 구두’와 같이<span class="ev ans" id="ev12"> 관형사는 언제나 체언을 꾸며 주는 관형어로만 쓰인다.</span><a class="ev-tag ans" href="#q12-2">12-②</a> 또한 ‘고향’은 명사이지만, 뒤에 오는 체언 ‘집’을 꾸며 주는 기능을 한다. 이처럼<span class="ev ans" id="ev11"> 체언이 나란히 올 경우 앞의 체언은 뒤의 체언을 꾸며 주는 관형어로 쓰일 수 있다.</span><a class="ev-tag ans" href="#q11-4">11-④</a> </p>
+  <p>(나)의 ‘할아버지’는 관형격 조사 ‘의’와 결합하여 ‘집’을 수식하는 관형어로 쓰인다. 또한 ‘예쁜’은 형용사인데, 어간 ‘예쁘-’ 에 관형사형 어미 ‘-(으)ㄴ’이 결합하여 ‘집’을 꾸미는 관형어로 쓰인다. 마찬가지로 ‘살던 집’, ‘구경하는 집’처럼 동사의 어간에 관형사형 어미가 결합하여 관형어로 쓰일 수 있다. 고2</p>
+</div>
+
+<div class="q-block" id="prob11">
+  <p class="q-stem">11. 윗글을 읽고 보인 반응으로 적절하지 않은 것은? <span class="q-rate">오답률 59.5%</span></p>
+  <ul class="q-opts"><li id="q11-1">① 관형사는 그 형태가 변하지 않는군.</li>
+ <li id="q11-2">② 관형사와 관형어는 모두 체언을 꾸며 주는군.</li>
+ <li id="q11-3">③ 관형어가 항상 관형사를 통해 실현되는 것은 아니군.</li>
+ <li id="q11-4">④ 두 명사가 나란히 올 때 앞 명사는 관형사가 될 수 있군.<a class="src-tag ans" href="#ev11">정답 근거</a></li>
+ <li id="q11-5">⑤ 형용사는 관형사형 어미가 결합하더라도 관형사가 될 수 없군.</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 관형사와 관형어를 구별한다.</p><p>두 명사가 나란히 올 때 앞 명사는 관형어로 쓰일 뿐, 관형사로 품사가 바뀌는 것은 아니다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>관형사는 형태 불변.</td></tr><tr><td>②</td><td>오답</td><td>둘 다 체언 수식.</td></tr><tr><td>③</td><td>오답</td><td>관형어가 늘 관형사로 실현되진 않음.</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>앞 명사는 품사가 안 바뀜.</td></tr><tr><td>⑤</td><td>오답</td><td>형용사 관형사형≠관형사.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob12">
+  <p class="q-stem">12. 윗글을 바탕으로 &lt;보기&gt;의 문장을 탐구하여 정리한 내용으로 적절한 것은? <span class="q-rate">오답률 46.1%</span></p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>[3점]<br>&lt; 보기&gt;<br>ㄱ. 새 가구는 어머니의 자랑거리이다. ㄴ. 모든 아이들이 달리는 사자를 구경했다.<br>ㄷ. 그들은 오랫동안 친한 친구로 지내고 있다.<br>ㄹ. 우리 가족은 가던 걸음을 멈추고 뒤돌아보았다. ㅁ. 대부분의 학생이 여름 바다를 간절하게 그리워했다. 문장탐구 정리 내용관형어 개수관형어품사</p>
+  </div>
+  <ul class="q-opts"><li id="q12-1">① ㄱ
+1
+어머니의명사+ 조사</li>
+ <li id="q12-2">② ㄴ
+2
+모든관형사달리는동사<a class="src-tag ans" href="#ev12">정답 근거</a></li>
+ <li id="q12-3">③ ㄷ
+1
+친한관형사</li>
+ <li id="q12-4">④ ㄹ
+1
+가던동사</li>
+ <li id="q12-5">⑤ ㅁ
+2
+여름명사간절하게형용사</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 문장별 관형어와 품사를 본다.</p><p>ㄴ의 관형어는 ‘모든’(관형사)·‘달리는’(동사)로 2개이다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>ㄱ 분석 불일치.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>ㄴ=모든(관형사)·달리는(동사).</td></tr><tr><td>③</td><td>오답</td><td>ㄷ 개수 불일치.</td></tr><tr><td>④</td><td>오답</td><td>ㄹ 분석 불일치.</td></tr><tr><td>⑤</td><td>오답</td><td>ㅁ 분석 불일치.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob13">
+  <p class="q-stem">13. &lt;보기&gt;는 음운 변동에 대한 수업의 한 장면이다. 학생들의 활동 결과로 적절한 것은? <span class="q-rate">오답률 65.3%</span></p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>&lt; 보기&gt;<br>선생님: 음운 변동은 한 음운이 다른 음운으로 바뀌는 ‘교체’, 원래 있던 음운이 없어지는 ‘탈락’, 새로운 음운이 생기는 ‘첨가’, 두 음운이 하나의 음운으로 합쳐지는 ‘축약’이 있습니다. 음운의 변동이 일어날 때 음운 개수가 변하기도 하는데요. 제시된 단어들에서 일어나는 음운 변동을 있는 대로 모두 찾고 음운 개수의 변화를 정리해 볼까요?<br>단어음운 변동 종류음운 개수의 변화</p>
+  </div>
+  <ul class="q-opts"><li id="q13-1">① 국밥[국빱]
+첨가하나가 늘어남.</li>
+ <li id="q13-2">② 뚫는[뚤른]
+교체, 탈락하나가 줄어듦.</li>
+ <li id="q13-3">③ 막내[망내]
+교체, 축약하나가 줄어듦.</li>
+ <li id="q13-4">④ 물약[물략]
+첨가하나가 늘어남.</li>
+ <li id="q13-5">⑤ 밟힌[발핀]
+축약변화 없음.</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 음운 변동의 유형과 개수를 본다.</p><p>‘뚫는→[뚤른]’은 ‘ㅎ’ 탈락과 ‘ㄴ→ㄹ’ 교체가 일어나 음운 수가 하나 줄어든다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>국밥=된소리되기(교체).</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>뚫는=교체+탈락, 하나 줆.</td></tr><tr><td>③</td><td>오답</td><td>막내=교체.</td></tr><tr><td>④</td><td>오답</td><td>물약=첨가.</td></tr><tr><td>⑤</td><td>오답</td><td>밟힌=축약.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob14">
+  <p class="q-stem">14. &lt;보기&gt;는 ‘사전 활용하기’ 학습 활동을 위한 자료이다. 이에 대해 탐구한 내용으로 적절하지 않은 것은?</p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>&lt; 보기&gt;<br>가늘다 물체의 지름이 보통의 경우에 미치지 못하고 짧다.<br> 소리의 울림이 보통에 미치지 못하고 약하다.<br>굵다  물체의 지름이 보통의 경우를 넘어 길다.<br>¶ 나뭇가지가 굵다.<br> 밤, 대추, 알 따위가 보통의 것보다 부피가 크다.<br>두껍다  두께가 보통의 정도보다 크다.<br>¶ 두꺼운 종이 층을 이루는 사물의 높이나 집단의 규모가 보통의 정도보다 크다.</p>
+  </div>
+  <ul class="q-opts"><li id="q14-1">① ‘가늘다’, ‘굵다’, ‘두껍다’는 모두 다의어이다.</li>
+ <li id="q14-2">② ‘가늘다’의 용례로 ‘열차의 기적 소리가 가늘게 들려왔다.’
+를 추가할 수 있다.</li>
+ <li id="q14-3">③ ‘두껍다’의 용례로 ‘그 책은 수요층이 두껍다.’를 들 수 있다.</li>
+ <li id="q14-4">④ ‘굵다’의 용례에서 ‘굵다’를 ‘가늘다’로 바꾸면 ‘가늘다’의 용례가 될 수 있다.</li>
+ <li id="q14-5">⑤ ‘굵다’과 ‘두껍다’의 의미에 의하면 ‘굵은 손가락’은 ‘두꺼운 손가락’으로 쓰는 것이 적절하다.</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 다의어의 의미와 용례를 본다.</p><p>‘굵다’와 ‘두껍다’의 사전적 의미에 비추어 ⑤의 진술이 적절하다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>세 단어 모두 동일 의미 아님.</td></tr><tr><td>②</td><td>오답</td><td>‘가늘다’ 용례 부적절.</td></tr><tr><td>③</td><td>오답</td><td>‘두껍다’ 용례 부적절.</td></tr><tr><td>④</td><td>오답</td><td>바꿔 쓰기 부적절.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>굵다·두껍다 의미 적절.</td></tr></tbody></table></div></details>
+</div>
+
+<div class="q-block" id="prob15">
+  <p class="q-stem">15. &lt;보기&gt;의 ㉠~ ㉤에 나타나는 중세 국어의 특징을 탐구한 내용으로 적절하지 않은 것은? <span class="q-rate">오답률 57.0%</span></p>
+  <div class="q-bogi">
+ <p class="bogi-label">&lt; 보 기 &gt;</p>
+ <p>&lt; 보기&gt;<br>[중세 국어] 자내 날 ㉠향 믈 엇디 가지며 나자내 향믈 엇디 가지던고 믜양 자내려 ㉡내 닐오<br>듸 누어셔 이 보소 도 우리티 서에엿녀겨 랑리 도 우리 ㉢가 야 자내려 ㉣니더니 엇디 그런 이㉤각디 아녀 나리고 몬져 가시고- 이응태 부인이 쓴 언간에서-<br>[현대어 풀이] 당신이 나를 향하여 마음을 어찌 가지며, 나는 당신을 향하여 마음을 어찌 가지던가? 늘 당신에게 내가 이르되, 함께 누워서, “이 보소, 남도 우리같이 서로 예쁘게 여겨서 사랑하리? 남도 우리 같은가?” 하여 당신에게 이르더니, 어찌 그런 일을 생각지 아니하여 나를 버리고 먼저 가시는가?</p>
+  </div>
+  <ul class="q-opts"><li id="q15-1">① ㉠에서 현대 국어에 쓰이지 않는 모음이 사용되었음을 알 수 있군.</li>
+ <li id="q15-2">② ㉡에서 주격조사가 생략되었음을 알 수 있군.</li>
+ <li id="q15-3">③ ㉢에서 이어적기가 사용되었음을 알 수 있군.</li>
+ <li id="q15-4">④ ㉣에서 두음법칙이 적용되지 않았음을 알 수 있군.</li>
+ <li id="q15-5">⑤ ㉤에서 구개음화가 일어나지 않았음을 알 수 있군.
+16</li></ul>
+  <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 중세 국어의 특징을 본다.</p><p>㉡의 ‘내가’는 ‘나’의 이형태 ‘내’에 주격조사 ‘가’가 결합한 것으로, 주격조사가 생략된 것이 아니다. ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 안 쓰이는 모음 사용.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>㉡ 주격조사 생략 아님.</td></tr><tr><td>③</td><td>오답</td><td>㉢ 이어적기.</td></tr><tr><td>④</td><td>오답</td><td>㉣ 두음법칙 미적용.</td></tr><tr><td>⑤</td><td>오답</td><td>㉤ 구개음화 미발생.</td></tr></tbody></table></div></details>
+</div>
+
+<div id="set5" class="set-anchor"></div>
+
+## 16~20번 독서(문학) · 고전시가 · 전쟁과 민중
+
+<div class="passage">
+  <p class="passage-guide">[16 ~ 20] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
+  <p>(가) 헌 누더기 입은 무리가 남자인지 여자인지<br>어린 자식 등에 업고 자란 자식 손에 끌고<br>울면서 눈물 씻고 엎어지며 오는 모양차마 보지 못할너라<br><span class="ev ans" id="ev16"> 나직이 묻는 말씀어디로서 좇아오며 어디로 가려는고</span><a class="ev-tag ans" href="#q16-1">16-①</a><br>주려들 가는 사람인가 가게 되면 얻어 먹나<br>아무 데도 한가지라 날 따라 도로 가면<br><span class="ev ans" id="ev17">자네 원님 가서 보고 안접(安接)*하게 하여줌</span><a class="ev-tag ans" href="#q17-2">17-②</a>세<br>겨우겨우 대답하되 우리 곳은 당진(唐津)이라<br>여러 해 흉년들어 살길이 없는 중에<br>도망한 자 신구환(新舊還)*을 있는 자에 물리니<br>제 것도 못 바치며 남의 곡식 어찌할꼬<br>못 바치면 매 맞으니 매 맞고 더욱 살까<br>정처 없이 가게 되면 죽을 줄 알건마는<br>아니 가고 어찌하리 굶고 맞고 죽을 지경<br>차라리 구렁*에나 염려 없이 뭇치이면<br>도리어 편할지라 이런 고로 가노메라<br>급히 급히 넘어가자 이 백성들 살려보세<br>둘째 령(嶺)을 올라서서 고을 지경 바라보니<br>열 집에 일곱 집은 휑그러니 비었더라<br>읍중(邑中)으로 들어가니 남은 집의 ㉠곡성(哭聲)이라<br>전년의 이천여 호 금년의 칠백 호라<br>미혹한 유부사(柳府使)*와 답답한 이도호(李都護)*는<br>국곡(國穀)도 중커니와 인명인들 아니 볼까<br>백성 없는 곡식 바다 그 무엇에 쓰려하노<br>출도한 후 전령하여 니징(里徵)* 족징(族徵)* 없이 하고<br>허두(虛頭)잡이 호역들을 태반이나 덜어 주고<br>신구환 칠만 석은 탕감하자 아뢰겠네<br>- 구강, ｢북새곡(北塞曲)｣- <br>* 안접: 편안히 마음을 먹고 머물러 삶. <br>* 신구환: 올해 세금과 지난해 세금. <br>* 구렁: 무덤. <br>* 부사, 도호: 조선시대 관직의 이름. <br>* 니징, 족징: 세금을 내지 못하는 사람이 있을 때 다른 사람이나 일가<br>족에게 대신 물리던 일. (나) <img src="/images/exams/2023-06-go2/q16-sijo.png" alt="(나) 신교 「귀산음」 연시조(중세 국어 원문)" class="bogi-img"> * 세간존몰: 세상의 존속과 멸망. * 자연지체: 저절로 늦어 머뭇거림. * 믈여기: 갈매기. * 금가: 거문고에 맞추어 부르는 노래. * 초로인생: 풀 끝에 달린 이슬처럼 덧없는 인생. (다) </p>
   <p>기다리는 엿장수는 오지 않았다.<span class="ev ans" id="ev19"> 벌써 보름째 나타나지 않는 엿장수의 리어카를 기다리느라 조바심이 난 아이들은 오리처럼 목이 길어졌다.</span><a class="ev-tag ans" href="#q19-4">19-④</a> 마당에서 자치기를 하다가도 담 너머로 슬쩍슬쩍 눈을 돌렸고, 꼴을 베다가도 동구 밖을 자주 힐끔거렸다. 여름날, 대청마루에서 낮잠을 자고 있노라면 꿈속에서도 엿장수의 가위 소리가 귓전을 울리곤 했다. 엿장수의 그 넓적한 가위는 엿을 알맞게 나누는 도구인 동시에 그 소리로 엿장수 자신의 존재를 알리는 훌륭한 홍보 수단이었다. 노련한 엿장수일수록 엿가위에 신명 난 장단을 넣어 아이들의 귀를 길쭉하게 만들었다.</p>
   <p><span class="ev ans" id="ev20"> 고요한 마을에 엿장수의 ㉢가위 소리가 멀리서 찰칵거리기 시작하면 아이들은 너나 할 것 없이 가위 소리가 나는 쪽을 향해 뛰었다</span><a class="ev-tag ans" href="#q20-3">20-③</a>. 한쪽 발에만 신을 꿰어 신고 뛰어가는 아이도 있었다. 신발을 손에 들고 뛰는 아이도 있었다. 아예 맨발로 뛰는 아이도 있었다. 바지가 흘러내리는 줄도 모르고, 가랑이가 찢어지는 줄도 모르고 아이들은 뛰었다. </p>
   <p>엿으로 바꿔 먹을 만한 물건이 없나, 하고 아이들은 이미 마루 밑이며 헛간을 수도 없이 뒤진 터였다. 아이들은 고철이나 함석 조각을 챙겨 들고 달렸다. 칠성사이다를 마시고 남은 빈 병을 쥐고 달렸다. 뒤축이 닳아 구멍이 난 흰 고무신을 품고 달렸다. 1원짜리 동전 하나를 달랑 손에 움켜쥐고 달렸다. 어른들의 서릿발 같은 꾸중을 각오하고 멀쩡한 양은 냄비나 숟가락을 들고 달리는 용감한 아이도 있었다. (중략) </p>
