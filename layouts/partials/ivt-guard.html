@@ -1,0 +1,56 @@
+{{/* 무효 클릭(Invalid Click) 방지 — 같은 방문자가 짧은 시간에 애드센스 광고를 여러 번 클릭하면
+     그 사람에게는 광고를 일정 시간 숨긴다. (워드프레스 AICP 플러그인과 동일한 기능, 우리 사이트 자체 구현)
+     광고 코드가 없으면 아무 일도 안 함. */}}
+<script>
+(function () {
+  "use strict";
+  var LIMIT     = 3;                       // 허용 클릭 수 (이 횟수를 "넘으면" 차단)
+  var WINDOW_MS = 24 * 60 * 60 * 1000;     // 클릭을 세는 기간: 24시간
+  var BLOCK_MS  = 72 * 60 * 60 * 1000;     // 차단(광고 숨김) 유지: 72시간
+  var CK = "_pns_ivt_clicks", BK = "_pns_ivt_block";
+
+  function now() { return new Date().getTime(); }
+  function store(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+  function read(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+
+  function isBlocked() {
+    var until = parseInt(read(BK) || "0", 10);
+    return until > now();
+  }
+  function getClicks() {
+    try { return (JSON.parse(read(CK)) || []).filter(function (t) { return t > now() - WINDOW_MS; }); }
+    catch (e) { return []; }
+  }
+  function hideAds() {
+    var ads = document.querySelectorAll("ins.adsbygoogle, iframe[id^='aswift_'], iframe[id*='google_ads_iframe']");
+    for (var i = 0; i < ads.length; i++) { ads[i].style.display = "none"; }
+  }
+
+  // 이미 차단된 방문자면 광고를 바로 숨기고 계속 감시
+  function enforce() { if (isBlocked()) hideAds(); }
+  if (document.readyState !== "loading") enforce();
+  else document.addEventListener("DOMContentLoaded", enforce);
+  // 광고가 비동기로 늦게 뜨는 경우 대비
+  var t = 0, iv = setInterval(function () { enforce(); if (++t > 10) clearInterval(iv); }, 800);
+
+  // 광고 클릭 감지: 광고를 클릭하면 창이 포커스를 잃고(blur) 활성 요소가 광고 iframe이 된다.
+  window.addEventListener("blur", function () {
+    setTimeout(function () {
+      var el = document.activeElement;
+      if (!el || el.tagName !== "IFRAME") return;
+      var id = el.id || "";
+      var isAd = id.indexOf("aswift_") === 0 || id.indexOf("google_ads_iframe") !== -1;
+      if (!isAd) return;
+
+      if (isBlocked()) { hideAds(); return; }
+      var clicks = getClicks();
+      clicks.push(now());
+      store(CK, JSON.stringify(clicks));
+      if (clicks.length > LIMIT) {        // 허용치 초과 → 이 방문자 광고 차단
+        store(BK, String(now() + BLOCK_MS));
+        hideAds();
+      }
+    }, 0);
+  });
+})();
+</script>
