@@ -68,31 +68,30 @@ def process(path, apply):
         return f'<a class="src-tag" href="#{evid}">{label.replace("오답 근거", "지문 근거", 1)}</a>'
     t = re.sub(r'<a class="src-tag" href="#(ev[\w-]+)">(오답 근거[^<]*)</a>', repl_btn_fb, t)
 
-    # 4) 스팬 + 따라오는 배지 변환
-    badge_re = re.compile(r'<a class="ev-tag" href="#q(\d+)-\d+">[^<]*</a>')
-    span_re = re.compile(
-        r'(<span class="ev" id="ev[\w-]+">.*?</span>)((?:<a class="ev-tag" href="#q\d+-\d+">[^<]*</a>)+)', re.S)
+    # 4) 배지/스팬 색 (전역) — 겹침 우선순위: 정답(녹) > 지문(파랑) > 오답(빨강)
+    # 4a) 비정답 배지(ev-tag)가 '긍정형' 문항을 가리키면 빨강. 초록·파랑 밑줄 위의 배지 모두 처리.
+    #     (ev-tag ans 정답 배지는 건드리지 않음 → 정답 근거 우선)
+    def badge_sub(m):
+        n = int(m.group(1))
+        if pol.get(n) == 'pos':
+            counts['badge_wrong'] += 1
+            return m.group(0).replace('class="ev-tag"', 'class="ev-tag wrong"', 1)
+        return m.group(0)
+    t = re.sub(r'<a class="ev-tag" href="#q(\d+)-\d+">[^<]*</a>', badge_sub, t)
 
-    def repl_span(m):
+    # 4b) 파란 스팬(ev): 가리키는 비정답 선지가 '전부 긍정형'일 때만 빨강.
+    #     하나라도 부정형(지문 근거)이 겹치면 지문 우선 → 파랑 유지.
+    #     초록 스팬(ev ans)은 정답 근거 우선이라 그대로 둠(이 정규식은 class="ev"만 매칭).
+    def span_sub(m):
         span, badges = m.group(1), m.group(2)
-        # 이 스팬을 가리키는 비정답 배지들의 극성
         ns = [int(x) for x in re.findall(r'href="#q(\d+)-\d+"', badges)]
-        pols = [pol.get(n, 'neg') for n in ns]
-        # 배지: 긍정형(odab)이면 wrong
-        def badge_sub(bm):
-            n = int(bm.group(1))
-            if pol.get(n) == 'pos':
-                counts['badge_wrong'] += 1
-                return bm.group(0).replace('class="ev-tag"', 'class="ev-tag wrong"', 1)
-            return bm.group(0)
-        badges = badge_re.sub(badge_sub, badges)
-        # 스팬: 가리키는 모든 비정답 선지가 긍정형이면 빨강
+        pols = [pol[n] for n in ns if n in pol]
         if pols and all(p == 'pos' for p in pols):
-            span = span.replace('class="ev"', 'class="ev wrong"', 1)
             counts['span_wrong'] += 1
-        return span + badges
-
-    t = span_re.sub(repl_span, t)
+            return span.replace('class="ev"', 'class="ev wrong"', 1) + badges
+        return m.group(0)
+    t = re.sub(r'(<span class="ev" id="ev[\w-]+">.*?</span>)((?:<a class="ev-tag[^"]*" href="#q\d+-\d+">[^<]*</a>)+)',
+               span_sub, t, flags=re.S)
 
     # 5) 범례 3색 — 형식 변형 모두 처리(긴 패턴 먼저)
     RED_B = '<b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>'

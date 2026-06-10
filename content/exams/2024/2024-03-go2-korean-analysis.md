@@ -321,8 +321,8 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 학생의 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
   <p class="src-label">[작문 상황] 유니버설 디자인을 학생들에게 알리는 교지 글.</p>
-  <p><span class="ev ans" id="ev8a">바닥을 낮춰 계단을 없앤 저상 버스, 여러 언어로 콘텐츠를 제공하는 누리집의 공통점은 무엇일까? 더 많은 사람이 이용하도록 설계됐다는 점이다.</span><a class="ev-tag" href="#q8-1">8-ㄱ</a> ‘유니버설 디자인’은 시설·제품·서비스를 모든 사용자가 이용하도록 설계하는 것이다.</p>
-  <p><span class="ev ans" id="ev8b">도입 이전엔 장애인 접근성을 위해 전용 시설(휠체어 리프트)을 따로 뒀는데, 이것이 장애 유무로 사람을 구분 짓는다는 문제가 제기됐다. 1980년대에 이를 해결하려 장애와 무관하게 모두 접근 가능하도록 설계하는 유니버설 디자인이 도입됐다.</span><a class="ev-tag" href="#q8-4">8-ㄹ</a><a class="ev-tag" href="#q10-1">10-①</a></p>
+  <p><span class="ev ans" id="ev8a">바닥을 낮춰 계단을 없앤 저상 버스, 여러 언어로 콘텐츠를 제공하는 누리집의 공통점은 무엇일까? 더 많은 사람이 이용하도록 설계됐다는 점이다.</span><a class="ev-tag wrong" href="#q8-1">8-ㄱ</a> ‘유니버설 디자인’은 시설·제품·서비스를 모든 사용자가 이용하도록 설계하는 것이다.</p>
+  <p><span class="ev ans" id="ev8b">도입 이전엔 장애인 접근성을 위해 전용 시설(휠체어 리프트)을 따로 뒀는데, 이것이 장애 유무로 사람을 구분 짓는다는 문제가 제기됐다. 1980년대에 이를 해결하려 장애와 무관하게 모두 접근 가능하도록 설계하는 유니버설 디자인이 도입됐다.</span><a class="ev-tag wrong" href="#q8-4">8-ㄹ</a><a class="ev-tag" href="#q10-1">10-①</a></p>
   <p>현재는 취지가 확대돼 <span class="ev" id="ev-q10-3">연령·질병·언어 등 신체적·인지적 차이와 무관하게 모두 접근하도록 설계한다.</span><a class="ev-tag" href="#q10-3">10-③</a> 구현 방법도 다양해 — <span class="ev" id="ev-q10-4">힘이 약해도 쓸 수 있는 조작, 다치지 않게 한 안전 설계</span><a class="ev-tag" href="#q10-4">10-④</a>, 언어 능력이 부족해도 이해하도록 그림을 넣은 표지판 등.</p>
   <p><span class="ev ans" id="ev9">고령화로 필요성이 강조되지만, 사회 구성원의 관심은 저조하고 비용 때문에 경제적 손해라는 인식도 있다. 그러나 장기적으로는 유니버설 디자인으로 사회적 비용이 줄 수도 있다.</span><a class="ev-tag ans" href="#q9-1">9-[A]</a><a class="ev-tag" href="#q10-5">10-⑤</a></p>
   <div class="seg" id="segA-s2"><p class="seg-label">[A] (마무리)</p><p class="muted">9번에서 작성 — 우리 사회 의식 개선 + 학생들이 지녀야 할 자세.</p></div>
@@ -823,7 +823,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[21 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
   <p>18세기 중반 등장한 신고전주의는 고대 그리스 고전주의로 회귀한 복고주의 사조다. <span class="ev" id="ev22-1">계몽주의자들은 로코코 미술을 경박·부도덕하다 비판하고, 근대 시민 사회에 걸맞은 정제된 형식미·엄숙함의 고전주의 미술에 주목했다.</span><a class="ev-tag" href="#q22-1">22-①</a></p>
-  <p>고전주의는 <span class="ev ans" id="ev23">㉠아름다움은 사물이 본래 가진 어떤 특질(수학적 비례·조화·질서 같은 객관적 형식)이라고 보는 관점</span><a class="ev-tag ans" href="#q23-1">23-①</a><a class="ev-tag" href="#q23-4">23-④</a>을 바탕으로 한다(플라톤). 엄격한 비례, 곧 기하학적 조형성을 갖춘 사물은 그 자체로 감각적 즐거움을 준다고 보았다. ⓐ<span class="ev ans" id="ev25">가졌는데</span></p>
+  <p>고전주의는 <span class="ev ans" id="ev23">㉠아름다움은 사물이 본래 가진 어떤 특질(수학적 비례·조화·질서 같은 객관적 형식)이라고 보는 관점</span><a class="ev-tag ans" href="#q23-1">23-①</a><a class="ev-tag wrong" href="#q23-4">23-④</a>을 바탕으로 한다(플라톤). 엄격한 비례, 곧 기하학적 조형성을 갖춘 사물은 그 자체로 감각적 즐거움을 준다고 보았다. ⓐ<span class="ev ans" id="ev25">가졌는데</span></p>
   <p><span class="ev" id="ev-q24-bk">빈켈만은 고대 그리스 미술의 ‘고귀한 단순성(완벽한 비례의 형태)과 고요한 위대함(감정의 절제)’을 모방해야 한다 했고,</span><a class="ev-tag" href="#q24-3">24-③</a><a class="ev-tag" href="#q24-4">24-④</a> <span class="ev ans" id="ev24">육체적 아름다움과 정신적 숭고함, 곧 형식과 내용이 ‘완벽히 일치’하는 그리스 미술에 절대미가 구현됐다</span><a class="ev-tag ans" href="#q24-5">24-⑤</a>고 보았다.</p>
   <p>신고전주의 미술은 <span class="ev" id="ev22-2">붓 자국 없이 매끈한 표면, 뚜렷한 윤곽선, 균형 잡힌 구도로 색채보다 형태를 강조</span><a class="ev-tag" href="#q22-2">22-②</a>했다. 또 사회적 교훈을 담아 그리스 신화·역사 속 영웅의 애국적 희생을 주제로 삼되, <span class="ev ans" id="ev22-3">영웅의 표정은 한결같이 침착하게 표현됐다 — 감정을 절제해 정신적 숭고함(도덕성)을 드러내기 위해서다.</span><a class="ev-tag ans" href="#q22-3">22-③</a></p>
   <p>19세기 전반 낭만주의는 신고전주의를 거부하고 개인의 상상력·감정의 자유로운 표현을 중시했다. <span class="ev ans" id="ev21">헤르더는 상대주의 관점에서 빈켈만의 그리스 편향을 비판하며 낭만주의를 열었다.</span><a class="ev-tag ans" href="#q21-4">21-④</a><a class="ev-tag" href="#q24-1">24-①</a><a class="ev-tag" href="#q24-2">24-②</a></p>
@@ -1201,7 +1201,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><b>〈제6수 — 신(晨)·새벽〉</b><br>
   새벽 밝아 오자 <span class="ev" id="ev33-1a">지빠귀가 소리 한다</span><a class="ev-tag" href="#q33-1">33-①</a><br>
   일어나거라 아이들아 ㉠<span class="ev ans" id="ev32a">밭 보러 가자꾸나</span><a class="ev-tag ans" href="#q32-3">32·㉠</a><br>
-  <span class="ev" id="ev33-4a">밤사이 이슬 기운</span>에 (곡식이) 얼마나 자랐는고 하노라</p>
+  <span class="ev wrong" id="ev33-4a">밤사이 이슬 기운</span>에 (곡식이) 얼마나 자랐는고 하노라</p>
   <p><b>〈제7수 — 오(午)·낮〉</b><br>
   보리밥 지어 담고 풀로 끓인 국을 하여<br>
   고생하는 ㉡<span class="ev ans" id="ev32b">농부들을 제때에 먹이자꾸나</span><a class="ev-tag ans" href="#q32-3">32·㉡</a><br>
@@ -1209,7 +1209,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p><b>〈제8수 — 석(夕)·저녁〉</b><br>
   서산에 <span class="ev" id="ev33-1b">해 지고</span> 풀 끝에 <span class="ev" id="ev33-4b">이슬 난다</span><br>
   <span class="ev ans" id="ev33-3">호미를 둘러 메고 등에 지고 가자꾸나</span><a class="ev-tag ans" href="#q33-3">33-③</a><br>
-  이 중의 <span class="ev" id="ev33-5b">즐거운 뜻을 일러 무엇 하리오</span></p>
+  이 중의 <span class="ev wrong" id="ev33-5b">즐거운 뜻을 일러 무엇 하리오</span></p>
 </div>
 
 <div class="q-block" id="prob31">
@@ -1332,7 +1332,7 @@ summary: "2024년 3월 고2 전국연합학력평가 국어 기출 분석 — �
   <p>티끌 부는 세상에도 벌레 같은 세상에도 눈 맑은, 가슴 맑은, 보고지운 나의 사람. (…) 향기로운 이슬밭 푸른 언덕을, <span class="ev" id="ev37-1b">총총총 달려도 와 줄 볼이 고운 나의 사람.</span><a class="ev-tag" href="#q35-5">35-⑤</a></p>
   <p><b>(나) 기형도, 〈숲으로 된 성벽〉</b></p>
   <p>저녁 노을이 지면 / 신들의 상점엔 하나둘 불이 켜지고 / <span class="ev" id="ev37-2">농부들은 작은 당나귀들과 함께 / 성 안으로 사라지는 것이었다</span><a class="ev-tag" href="#q37-2">37-②</a><br>
-  성벽은 울창한 숲으로 된 것이어서 / <span class="ev" id="ev37-2b">누구나 사원을 통과하는 구름 혹은 / 조용한 공기들이 되지 않으면 / 한걸음도 들어갈 수 없는</span> 아름답고 / 신비로운 그 성<br>
+  성벽은 울창한 숲으로 된 것이어서 / <span class="ev wrong" id="ev37-2b">누구나 사원을 통과하는 구름 혹은 / 조용한 공기들이 되지 않으면 / 한걸음도 들어갈 수 없는</span> 아름답고 / 신비로운 그 성<br>
   어느 골동품 상인이 그 숲을 찾아와 / ㉠<span class="ev ans" id="ev36a">몇 개 큰 나무들을 잘라내고 들어갔다</span><a class="ev-tag ans" href="#q36-1">36-㉠</a> / <span class="ev" id="ev37-3">그곳에는…… 아무것도 없었다, 그가 본 것은 / 쓰러진 나무들뿐</span><a class="ev-tag" href="#q37-3">37-③</a>, 잠시 후 / 그는 그 공터를 떠났다<br>
   농부들은 아직도 그 평화로운 성에 살고 있다 / 물론 그 작은 당나귀들 역시</p>
   <p><b>(다) 이규보, 〈지지헌기〉</b></p>
