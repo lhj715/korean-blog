@@ -897,7 +897,7 @@ summary: "2022년 6월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>어제 영명사를 지나다가 / 잠시 부벽루에 올랐네<br><span class="ev" id="ev-q23-1">텅 빈 성엔 조각달 떠 있고</span><a class="ev-tag" href="#q23-1">23-①</a> / <span class="ev ans" id="ev-q21-5">천년의 구름 아래 바위는 늙었네</span><a class="ev-tag ans" href="#q21-5">21-⑤</a><br>기린마는 떠나간 뒤 돌아오지 않으니 / <span class="ev ans" id="ev-q23-2">천손(天孫)은 지금 어느 곳에서 노니는가<br>돌다리에 기대어 길게 휘파람 부노라</span><a class="ev-tag ans" href="#q23-2">23-②</a><br><span class="ev" id="ev-q23-3">산은 오늘도 푸르고 강은 절로 흐르네</span><a class="ev-tag" href="#q23-3">23-③</a></p>
     <p class="verse-note">＊부벽루: 고구려의 수도였던 평양의 누각. ＊기린마: 동명왕이 타고 하늘로 올라갔다는 상상의 말. ＊천손: 고구려 시조 동명왕.</p>
   </div>
-  <p class="dlg-head">(나) 김득연, 「산중잡곡」</p>
+  <p class="dlg-head" style="margin-top:1.2em">(나) 김득연, 「산중잡곡」</p>
   <div class="verse">
     <p><span class="ev" id="ev-q22-1">와룡산 나린 아래 반무당(半畝塘)을 새로 여니 / 티끌 없는 거울에 산영(山影)이 잠겼구나 / 이 내의 경영하는 뜻은 그를 보려 하노라</span><a class="ev-tag" href="#q22-1">22-①</a> &lt;제1수&gt;</p>
     <p><span class="ev" id="ev-q22-2">도원(桃源)이 있다 하여도 예 듣고 못 봤더니 / 홍하(紅霞)이 만동(滿洞)하니 이 진짓 거기로다 / 이 몸이 또 어떠하뇨 <span class="ev ans" id="ev-q25-a">ⓐ무릉인(武陵人)인가 하노라</span></span><a class="ev-tag" href="#q22-2">22-②</a><a class="ev-tag ans" href="#q25-2">25-ⓐ</a> &lt;제14수&gt;</p>
