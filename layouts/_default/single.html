@@ -43,8 +43,10 @@ document.addEventListener('click', function(e){
     var evId = (s.getAttribute('href') || '').slice(1);    // 예: ev6
     var ev = document.getElementById(evId);
     if(ev){
-      document.querySelectorAll('.ev-hl').forEach(function(el){ el.classList.remove('ev-hl'); });
-      ev.classList.add('ev-hl');                            // 해당 부분은 색으로 감싸 강조(유지)
+      document.querySelectorAll('.ev-hl').forEach(function(el){ el.classList.remove('ev-hl','hlw','hlb','hla'); });
+      // 강조 박스 색 = 누른 버튼 색(오답=빨강/정답=녹/지문=파랑). 밑줄이 공유돼 파랑이어도 빨강 버튼이면 빨강 박스
+      var hl = s.classList.contains('wrong') ? 'hlw' : s.classList.contains('ans') ? 'hla' : 'hlb';
+      ev.classList.add('ev-hl', hl);                        // 해당 부분은 색으로 감싸 강조(유지)
       var passage = ev.closest('.passage') || ev.closest('.seg') || ev;
       scrollToEl(passage);                                  // 밑줄이 아니라 '지문의 시작'을 보여 줌
     }
