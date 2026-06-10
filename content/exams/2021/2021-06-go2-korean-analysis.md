@@ -16,7 +16,7 @@ layout: "exam"
 <div class="passage">
   <p class="passage-guide">[1 ~ 3] 다음은 수업 중 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 오답 근거입니다.</span></p>
   <p>여러분! 선풍기나 에어컨이 없던 옛날에는 어떻게 더위를 식혔을까요? (대답을 듣고) 그렇죠, 부채가 있었습니다. 조상들의 여름 필수품이었던 부채에 대해 여러분은 얼마나 알고 계시나요? 저는 오늘 우리나라 부채에 관해 역사, 종류, 예술미, 현대적 계승의 순으로 발표를 해 보겠습니다. </p>
-  <p>먼저, 우리나라 부채의 역사를 살펴보겠습니다. (㉠자료1) 보시는 것은 기원전의 것으로 추정되는 창원 다호리 고분의 부채 자루 유물로, 가장 이른 시기의 부채 관련 유물입니다. 고려 시대에는 중국 사람들이 고려의 부채를 서로 얻고자 할 정도로 부채 만드는 기술이 크게 발달했습니다. 이는 송나라 서긍의 선화봉사 고려도경을 통해 확인할 수 있습니다. 이후 조선 시대에는 공조나 지방 감영에 장인을 두고 부채를 만들기도 했으며, 부채의 형태와 소재가 더 다양해졌습니다. </p>
+  <p>먼저, 우리나라 부채의 역사를 살펴보겠습니다. (㉠자료1) 보시는 것은 기원전의 것으로 추정되는 창원 다호리 고분의 부채 자루 유물로, 가장 이른 시기의 부채 관련 유물입니다. 고려 시대에는 중국 사람들이 고려의 부채를 서로 얻고자 할 정도로 부채 만드는 기술이 크게 발달했습니다. 이는 송나라 서긍의 「선화봉사 고려도경」을 통해 확인할 수 있습니다. 이후 조선 시대에는 공조나 지방 감영에 장인을 두고 부채를 만들기도 했으며, 부채의 형태와 소재가 더 다양해졌습니다. </p>
   <p>(㉡자료2) 우리나라 부채는 보시는 것처럼 크게 둥글부채와 접부채로 나뉩니다. 둥글부채는 말 그대로 둥근 형태를 띠는데, 태극 모양을 넣은 태극선이 가장 많이 알려져 있습니다. 한편, 접부채는 접었다 폈다 할 수 있는 부채인데, 대껍질로 부챗살을 만들고 종이를 붙여 만든 합죽선이 가장 널리 알려져 있습니다. </p>
   <p>또한 우리나라의 부채에는 예술미가 담겨 있기도 합니다. (㉢자료3)<span class="ev ans" id="ev2"> 보시는 것은 옻칠을 하거나 자개를 붙인 화려한 옛 부채들인데, 부채 자루 등에 섬세한 문양까지 넣어 그 자체로 하나의 공예 작품이었습니다.</span><a class="ev-tag ans" href="#q2-3">2-③</a> (㉣자료4) 보시는 것은 추사 김정희 선생의 글과 그림을 담은 부채인데요, 난초 그림과 글씨의 조화가 빼어납니다. 이처럼 운치 있는 그림과 글을 담았기에 부채를 ‘가지고 다니는 미술관’이라 부르기도 합니다. </p>
   <p>(㉤자료5) 지금 보시는 것은 요즘에 흔히 볼 수 있는 홍보 부채, 팬시 부채입니다. 오늘날의 부채들은 이렇게 실용성과 상업성이 강조됩니다. 한편으로는 부채의 예술성에 주목하여 부채를 전통 공예품으로 특화하여 계승하려는 시도를 계속하고 있기도 합니다. </p>
@@ -37,16 +37,16 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 발표자의 말하기 방식을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>발표자가 경험한 구체적 사례를 제시한 부분은 찾을 수 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>2문단에서 고려 시대 부채 관련 책 제목을 언급해 신뢰성을 높임.</td></tr>
+          <tr><td>③</td><td>오답</td><td>1문단에서 더위 관련 질문으로 부채에 대한 청중의 관심을 유도함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>1문단 끝에 발표 순서를 제시해 청중이 예측하며 듣게 함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>마지막 문단에서 부채를 가까이하자는 제안과 냉방병 예방 효과를 밝힘.</td></tr>
         </tbody>
       </table>
     </div>
@@ -67,16 +67,16 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 발표 자료 활용의 적절성을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢은 화려함을 강조한 옛 부채가 적절 → 현대의 공예 부채 제시는 부적절.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠에는 기원전의 오래된 부채 관련 유물을 제시해야 함.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡에는 둥글부채·접부채 두 종류의 부채 자료를 제시해야 함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉣에는 예술미를 갖춘 추사 김정희의 글·그림 부채를 제시해야 함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉤에는 오늘날 계승을 보여 줄 홍보·팬시 부채를 제시해야 함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -99,16 +99,16 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 청중의 반응을 분석한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>학생1은 부채의 재료, 학생2는 단오 풍습에 관한 배경지식을 떠올림.</td></tr>
+          <tr><td>①</td><td>오답</td><td>학생1은 무형문화재 추가 내용을 언급했으나 학생2는 추가 바람을 언급하지 않음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>두 학생 모두 자신의 태도를 반성하는 모습은 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>학생2는 인터넷 자료를 찾고 싶어 했으나 학생1은 의문점을 떠올리지 않음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>두 학생 모두 기존 지식을 수정하는 모습은 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -144,16 +144,16 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 발화의 의도를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢은 ‘생태 통로’로 인간이 다른 생명과 공존하려는 노력을 들어 상대 발언과 상반된 사례를 듦.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠은 책을 쓴 계기를 환경 단체에서의 활동 경험과 관련해 언급함.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡은 사육 곰 사례에 슬픔을 표하며 상대에 공감하는 정서적 반응을 보임.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉣은 생태 통로 필요성과 관련해 수달의 로드킬 사고를 진술함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉤은 상대의 발언 의도를 확인하기 위해 질문함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -181,16 +181,16 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 말하기 계획 수립의 적절성을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>책에 소개하지 못해 아쉬운 멸종 위기종에 대한 질문은 (가)에 없음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>학생1의 첫 번째 발화에서 확인됨.</td></tr>
+          <tr><td>②</td><td>오답</td><td>학생2의 첫 번째 발화에서 확인됨.</td></tr>
+          <tr><td>③</td><td>오답</td><td>학생2의 두 번째 발화에서 확인됨.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>학생2의 다섯 번째 발화에서 확인됨.</td></tr>
         </tbody>
       </table>
     </div>
@@ -218,16 +218,16 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 글쓰기 내용 조직을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>(나) 4문단에 생태 통로 설치 효과는 있으나, 우리 시 정책의 긍정적 효과는 제시하지 않음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(나) 1문단에서 (가)의 생명 존중 언급을 바탕으로 야생동물 보호 화제를 제시함.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나) 2문단에서 수달 사고에 로드킬 통계를 더해 문제 상황을 제시함.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(나) 3문단에서 생태 통로 설치·관리가 필요한 장소를 들어 건의함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나) 5문단에서 반달가슴곰·저어새의 대조 상황을 바탕으로 적극 대응을 당부함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -250,16 +250,16 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 조건에 맞게 표현했는지 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>‘친구를 떠나 보낸 것처럼’ 비유와 ‘슬프다’ 정서 어휘를 모두 사용함.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘부끄럽다’ 정서 어휘는 있으나 비유적 표현이 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘등불’ 비유는 있으나 정서 어휘가 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>비유적 표현과 정서 어휘가 모두 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘미어지다’ 정서 어휘는 있으나 비유적 표현이 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -295,14 +295,14 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 글쓰기 전략을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>일라이트를 정의·분석으로 소개하나, 다른 광물자원과 비교하지 않고 단점도 언급하지 않음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>1문단에서 천연자원 발굴에 대한 관심으로 일라이트를 제재로 선정했다고 밝힘.</td></tr>
+          <tr><td>②</td><td>오답</td><td>2문단에서 일라이트 명칭이 생긴 유래를 제시해 이해를 도움.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -314,7 +314,7 @@ layout: "exam"
 <div class="q-block" id="prob9">
   <p class="q-stem">9. &lt;보기&gt;는 ‘학생의 글’을 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 않은 것은? [3점]
 &lt;보 기&gt;
-ㄱ. 문헌 자료중국 진한의 신농본초경과 조선의 동의보감 등의 고서에는 운모가 독성이 없고 성질이 편안하여 피부를 보호할 뿐 아니라, 부스럼이나 종기의 독을 제거한다고 기록되어 있다.
+ㄱ. 문헌 자료중국 진한의 「신농본초경」과 조선의 「동의보감」 등의 고서에는 운모가 독성이 없고 성질이 편안하여 피부를 보호할 뿐 아니라, 부스럼이나 종기의 독을 제거한다고 기록되어 있다.
 ㄴ. 전문가 인터뷰“일라이트는 구리, 아연 등 중금속에 강한 흡착력을 보여 오폐수 등으로 인한 토양오염을 정화할 수 있으며, 일라이트에 함유된 리튬과 스트론튬은 뇌 질환과 골다공증 치료에 효과가 있다는 연구 결과가 발표되었습니다.”
 ㄷ. 신문 기사충북 영동군은 일라이트 상용화 기술 개발을 지원하기 위해 한국세라믹기술원과 업무 협약을 체결했다. 협약에 따라 한국세라믹기술원은 일라이트 성분이 함유된 비누와 샴푸, 토양 개량제 등을 개발해 제품으로 내놓을 계획이다.</p>
   <ul class="q-opts">
@@ -329,14 +329,14 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 자료 활용의 적절성을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ㄴ은 효능 인터뷰·ㄷ은 업무협약 기사 → 기관 간 협조 체제 구축 사례로 ㄷ은 적절, ㄴ은 부적절.</td></tr>
+          <tr><td>①</td><td>오답</td><td>ㄱ은 동양 고서의 기록으로 2문단 말미 정보를 구체화하는 자료임.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ㄴ은 환경·의료 분야 효능을 보여 3문단 내용을 보강하는 자료임.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -363,12 +363,12 @@ layout: "exam"
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 고쳐 쓰기의 적절성을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td><보기>(객관적 정보)를 [A](소감)로 고치면, 추가된 정보 대신 자신의 소감을 전하는 것이 됨.</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -409,16 +409,16 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 의문문의 특징과 유형을 탐구한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>㉢은 의문사 ‘무엇’이 있으나 청자 반응이 ‘아니’이므로 판정 의문문 — ‘무엇’도 부정칭으로 쓰임.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠은 대답 ‘응’으로 보아 긍정·부정을 요구하는 판정 의문문.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡은 어미 ‘-지’로 청자도 자신처럼 못 먹었을 것이라 믿고 확인하는 판정 의문문.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉣은 청자 반응에 따라 판정·설명 의문문이 모두 될 수 있음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉤은 의문사 ‘왜’에 청자가 설명하는 대답을 하므로 설명 의문문.</td></tr>
         </tbody>
       </table>
     </div>
@@ -429,10 +429,10 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
   <p class="q-stem">12. 윗글을 참고하여 &lt;보기&gt;의 중세 국어를 이해한 내용으로 가장 적절한 것은? [3점]
 &lt;보 기&gt;
 [탐구 과제] 다음에 제시된 사례들을 바탕으로 중세 국어의 의문문에 대해 알아보자.
-ㄱ. 이 리 너희 죵가[현대 국어] 이 딸이 너희의 종인가?
+ㄱ. 이 ᄯᆞ리 너희 죵가[현대 국어] 이 딸이 너희의 종인가?
 ㄴ. 이 大施主(대시주)의 功德(공덕)이 하녀 져그녀[현대 국어] 이 대시주의 공덕이 많으냐 적으냐?
 ㄷ. 이 엇던 光名(광명)고[현대 국어] 이것이 어떤 광명인가?
-ㄹ. 太子(태자)ㅣ 이제 어듸 잇뇨 [현대 국어] 태자는 지금 어디 있느냐? [탐구 결과] ‘ㄱ’과 ‘ㄴ’은 판정 의문문에, ‘ㄷ’과 ‘ㄹ’은 설명 의문문에 해당한다.</p>
+ㄹ. 太子(태자)ㅣ 이제 어듸 잇ᄂᆞ뇨 [현대 국어] 태자는 지금 어디 있느냐? [탐구 결과] ‘ㄱ’과 ‘ㄴ’은 판정 의문문에, ‘ㄷ’과 ‘ㄹ’은 설명 의문문에 해당한다.</p>
   <ul class="q-opts">
     <li id="q12-1">① 판정 의문문과 달리 설명 의문문에서는 종결 어미를 활용하였다.</li>
     <li id="q12-2">② 긍정이나 부정의 대답을 요구할 때 사용하는 의문사가 따로 있었다.</li>
@@ -445,12 +445,12 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 중세 국어의 의문문을 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>ㄱㄴ은 판정·ㄷㄹ은 설명 의문문, ‘가/고’는 보조사·‘-녀/-뇨’는 종결어미 — 이에 비추어 ④는 부적절.</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
@@ -476,16 +476,16 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 음운 변동을 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘애틋한[애트탄]’은 평파열음화(ㅅ→ㄷ)+거센소리되기(ㄷ+ㅎ→ㅌ).</td></tr>
+          <tr><td>①</td><td>오답</td><td>‘낯설고[낟썰고]’는 평파열음화(ㅊ→ㄷ)+된소리되기(ㅅ→ㅆ).</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘놓더라[노터라]’는 거센소리되기(ㅎ+ㄷ→ㅌ).</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘맞는지[만는지]’는 평파열음화(ㅈ→ㄷ)+비음화(ㄷ→ㄴ).</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘먹히는[머키는]’은 거센소리되기(ㄱ+ㅎ→ㅋ).</td></tr>
         </tbody>
       </table>
     </div>
@@ -512,12 +512,12 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 문장 부호의 용법을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>‘저 친구, 저러다가 큰일 한번 내겠어.’의 쉼표는 제시어·주제어 뒤에 쓴 것 → ㉡(절과 절 사이)의 예가 아님.</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -546,16 +546,16 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 이중 피동 표현을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>‘가려진’은 ‘가리다’에 ‘-어지다’만 붙은 것 → 이중 피동이 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘쓰여진’은 ‘쓰다’+피동접미사 ‘-이-’+‘-어지다’의 이중 피동.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘담겨진’은 ‘담다’+‘-기-’+‘-어지다’의 이중 피동.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘열려진’은 ‘열다’+‘-리-’+‘-어지다’의 이중 피동.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘보여진’은 ‘보다’+‘-이-’+‘-어지다’의 이중 피동.</td></tr>
         </tbody>
       </table>
     </div>
@@ -590,16 +590,16 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>2문단에서 ‘타자성’은 주체로 환원되지 않는 타자의 성질로 정의됨.</td></tr>
+          <tr><td>①</td><td>오답</td><td>2문단 — 주체는 모든 것을 자기와 동일하게 환원하는 자기중심적 ‘동일자’.</td></tr>
+          <tr><td>②</td><td>오답</td><td>4문단 — 레비나스는 타자에 대한 무조건적 수용을 환대로 봄.</td></tr>
+          <tr><td>③</td><td>오답</td><td>3문단 — 향유는 즐김·누림으로, 개체의 고유한 행위.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>3문단 — 홀로 무엇을 누릴 때 나로서의 모습인 ‘자기성’이 성립함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -620,16 +620,16 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 세부 내용을 추론한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>레비나스는 타자를, 자기성에 갇힌 주체를 무한히 열린 세계로 초월하게 하는 존재로 봄.</td></tr>
+          <tr><td>①</td><td>오답</td><td>향유 대상인 세계는 불확실해 주체의 욕구가 항상 충족되진 않음(3문단).</td></tr>
+          <tr><td>②</td><td>오답</td><td>타자는 주체로 환원될 수 없는 존재(2문단).</td></tr>
+          <tr><td>③</td><td>오답</td><td>타자의 출현으로 자기성이 상실되는 것은 아님(5문단).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>타자는 주체를 갇힌 세계에서 열린 세계로 나아가게 함(5문단).</td></tr>
         </tbody>
       </table>
     </div>
@@ -650,16 +650,16 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 단어의 문맥적 의미를 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ와 ①의 ‘놓이다’는 모두 ‘물체가 일정한 곳에 두어지다’.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘걱정·근심·긴장이 사라지거나 풀리다’.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘기계·장치·구조물이 설치되다’.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘기계·장치·구조물이 설치되다’.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘무늬나 수가 새겨지다’.</td></tr>
         </tbody>
       </table>
     </div>
@@ -682,16 +682,16 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 다른 관점(<보기>)과 비교한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td><보기>는 타자를 잠재적 적으로 보는 투쟁 관계, ㉮는 타자를 마음대로 할 수 없는 존재로 봄 → ③은 이 차이와 맞지 않음.</td></tr>
+          <tr><td>①</td><td>오답</td><td><보기>·㉮ 모두 인간을 욕망 추구의 이기적 존재로 여기는 것은 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>타자와의 중재를 위해 국가를 필요로 하는 것은 <보기>에 해당함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉮는 합의·계약의 강제가 아니라 무조건적으로 타자를 환대해야 한다고 봄.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td><보기>·㉮ 모두 타자(공익)를 위해 주체의 이익이 제한될 수 있다고 봄.</td></tr>
         </tbody>
       </table>
     </div>
@@ -718,16 +718,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 구체적 상황에 적용한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>A는 타자를 자유를 제한하는 존재로 여겨, 타자를 환대하는 새로운 주체로 나아가지 못함.</td></tr>
+          <tr><td>①</td><td>오답</td><td>A는 자신의 이익·자유를 위해 외국인을 돌려보내자고 해 타자를 마음대로 할 대상으로 취급함.</td></tr>
+          <tr><td>③</td><td>오답</td><td>B는 가진 것을 나누자며 타인의 문제를 자신의 문제로 받아들여 책임지려 함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>B의 환대는 타자를 주체보다 높은 위치에 올려놓음을 의미함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>A는 향유의 주체성, B는 책임지는 환대의 주체성의 모습을 보임.</td></tr>
         </tbody>
       </table>
     </div>
@@ -762,12 +762,12 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 내용 전개 방식을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>1~3·6~7문단은 내용증명 제도의 특징을, 4~5문단은 기능을 서술하며 2·4문단에서 예를 들어 이해를 도움.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -795,16 +795,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>내용증명은 철회 기간 내 사용함 → ‘철회 기간이 지난 경우’ 관련 정보는 확인할 수 없음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>상대에게 심리적 부담을 주어 내용 이행을 실현하게 하기도 함(4문단).</td></tr>
+          <tr><td>②</td><td>오답</td><td>청약 철회 내용증명은 수취 여부와 상관없이 발송한 날로부터 효력 발생(7문단).</td></tr>
+          <tr><td>③</td><td>오답</td><td>발송 후 3년 보관하므로 본인 입증 시 복사 요청 가능(7문단).</td></tr>
+          <tr><td>④</td><td>오답</td><td>같은 내용의 문서 3부를 발신인·수신인·우체국이 소지(3문단).</td></tr>
         </tbody>
       </table>
     </div>
@@ -823,7 +823,7 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 구체적 상황에 적용한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
@@ -849,16 +849,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 추론한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>내용증명은 발송 사실을 우체국이 객관적으로 증명해 증거 효력을 가지므로 법적 분쟁 소지를 줄임(4문단).</td></tr>
+          <tr><td>①</td><td>오답</td><td>분쟁 예상 시 채권·채무 관계를 명확히 하려 보내는 문서 → 분쟁 철회 요청은 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>발신인의 요구 사항을 밝히는 문서 → 수신인에게 의사 표시를 주장하는 것은 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>충동적 계약 취소 시 쓰임 → 충동적 계약을 막아 주는 것은 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>증거 효력만 가질 뿐 그 내용이 맞다는 것까지 입증하진 못함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -881,16 +881,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 구체적 사례에 적용한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>내용증명 후 6개월 내 법적 대응이 없으면 중단 효력이 없어 만료일(2020.12.31)까지만 권리 유지(5문단).</td></tr>
+          <tr><td>①</td><td>오답</td><td>내용증명의 궁극적 목적은 갑에게 채무 이행을 요구하는 것.</td></tr>
+          <tr><td>②</td><td>오답</td><td>이후 법적 대응을 하면 소멸시효는 내용증명을 보낸 2020.10.31에 중단됨.</td></tr>
+          <tr><td>③</td><td>오답</td><td>중단되면 경과한 기간은 무효가 되고 중단 사유 종료 때부터 새로 시작됨.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>6개월 내인 2021.4.30 전에 법적 대응을 해야 중단됨.</td></tr>
         </tbody>
       </table>
     </div>
@@ -937,16 +937,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 작품 간 공통점을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>(가)·(나) 모두 설의법을 활용해 (전원생활 만족감/천진 지키는 삶의 태도를) 강조함.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가)·(나) 모두 연쇄법이 나타나지 않음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(가)·(나) 모두 역설적 표현이 나타나지 않음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나)에 원경→근경 시선 이동은 있으나 계절감은 드러나지 않음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가)는 ‘대 막대’에 말을 건네나 (나)엔 의인화 대상에게 말을 건네는 방식이 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -967,16 +967,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 작품 내용을 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td><2수>는 욕심 없는 삶의 지향 → ‘남에게 소외된 자신에 대한 안타까움’으로 볼 수 없음.</td></tr>
+          <tr><td>①</td><td>오답</td><td><2수>에서 ‘공명’·‘부귀’를 잊었다며 욕심 없는 삶을 지향함.</td></tr>
+          <tr><td>③</td><td>오답</td><td><5수>에서 ‘팥죽’·‘저리지’ 맛을 ‘남이 알까 하노라’ 하여 소박한 삶의 만족감을 드러냄.</td></tr>
+          <tr><td>④</td><td>오답</td><td><11수>에서 ‘대 막대’를 ‘유신하고 반갑’다 하여 친밀감을 드러냄.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td><11수>에서 어릴 적 타던 ‘대 막대’를 지금은 지팡이로 의지하며 세월의 흐름을 드러냄.</td></tr>
         </tbody>
       </table>
     </div>
@@ -997,12 +997,12 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 소재의 의미를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>ⓐ(백구)는 욕심으로 고기를 엿보는 대상이라 ‘군마음 없’는 화자가 비판적으로 봄, ⓑ(육우)는 지조를 지켜 글쓴이가 예찬함.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1030,16 +1030,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 외적 준거로 감상한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>‘적막한 자리’는 글쓴이가 거리를 두려는 세태의 단면 → 이에 만족하는 삶은 진정한 한(閑)이 아님.</td></tr>
+          <tr><td>①</td><td>오답</td><td>글쓴이는 사촌 형이 ‘육우’와 벗하며 운취를 누리기를 바람.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘육우’와 형의 ‘취미·기상’이 가까움을 들어 새 당명 ‘육우’를 권함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>변하는 ‘세태의 풍조’를 비판하고 ‘육우’로 지조·신의의 삶을 강조함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘육우’의 지조로 ‘천진’을 지키는 삶을 바람직하다 보아 권유함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1087,16 +1087,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 구절의 의미를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉤에서 ‘나’는 ‘그것’의 업무 능력이 완벽했을 것이라 짐작할 뿐, 안심하고 있는 것은 아님.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠ ‘나’는 똑같이 생긴 ‘그것’을 사람으로 대할지 물건으로 대할지 혼란스러워함.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡ ‘나’는 로봇과 함께 있는 모습을 아이에게 들키지 않으려 노력함.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉢ ‘나’는 ‘그것’이 청소·설거지·빨래·요리에 최고 능력을 갖췄다고 생각함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉣ 아이가 ‘저번에 해준’ 음식을 더 먹고 싶어 함은 ‘나’의 음식이 ‘그것’의 것만 못함을 보임.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1117,16 +1117,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 공간의 특성을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>집에선 ‘그것’으로 육아·가사 문제를, 회사에선 ‘그것’에게 작업을 맡겨 인원 감축 위기를 벗어나려 함.</td></tr>
+          <tr><td>①</td><td>오답</td><td>집·회사 모두에서 ‘그것’이 ‘나’보다 뛰어난 능력을 보임.</td></tr>
+          <tr><td>②</td><td>오답</td><td>집에서 가사 능력의 열등을 인식해 회사에서도 위축감을 느꼈을 것으로 짐작됨.</td></tr>
+          <tr><td>④</td><td>오답</td><td>아이가 ‘그것’의 음식을 찾으며 투정함 → 집에서 아이와의 관계가 돈독해졌다고 볼 수 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>집에서 ‘그것’이 ‘나’를 필요로 한다는 내용은 찾을 수 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1147,16 +1147,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 인물의 발화를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>[A]에서 ‘홍’은 기대에 못 미치는 결과물에 실망하며 ‘나’를 질책함.</td></tr>
+          <tr><td>②</td><td>오답</td><td>[B]는 ‘구’가 ‘나’의 기분을 헤아려 위로하는 말로 볼 수 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>[A]는 설득이 아니라 질책으로 볼 수 있음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>[A]·[B] 모두 수용하기 어려운 요구를 하는 것은 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>[A]·[B] 모두 속마음을 감춘 채 진위를 확인하는 것은 아님.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1179,16 +1179,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 외적 준거로 감상한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>‘죄인처럼 복직할 날만 기다’림은 집에서 불편해 회사를 기다리는 심리 → 로봇 도움으로 사회적 위치가 회복된 것으로 보기 어려움.</td></tr>
+          <tr><td>①</td><td>오답</td><td>‘그것’은 ‘나’를 닮은 로봇으로 공상과학물의 상상력이 활용됨.</td></tr>
+          <tr><td>②</td><td>오답</td><td>인원 감축 상황에서 ‘살아남는 게 중요’하다는 말은 경쟁 속 현대인의 모습.</td></tr>
+          <tr><td>③</td><td>오답</td><td>뛰어난 ‘그것’이 ‘나’의 작업을 대신함은 ‘나’의 역할 대체로 볼 수 있음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>복귀 후 동료들이 ‘그것’의 완벽한 이미지를 원해 ‘나’를 피함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1248,16 +1248,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 서술상의 특징을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>외양 묘사를 통해 인물의 성격 변화를 보여 주는 부분은 찾을 수 없음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>이혈룡·김감사·옥단춘 등의 대화와 행동 묘사를 중심으로 사건이 전개됨.</td></tr>
+          <tr><td>③</td><td>오답</td><td>출두 직후 김감사·수령들의 모습을 과장된 행동으로 묘사해 해학성을 드러냄.</td></tr>
+          <tr><td>④</td><td>오답</td><td>이혈룡의 첫 말에서 지난 사건들을 요약 전달함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>‘누가 아니 슬퍼하랴’ 등에서 서술자의 주관적 감정을 드러냄.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1278,16 +1278,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 인물들의 관계를 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>옥단춘은 ‘집을 보고 있으라’ 당부했으나 예고 없이 온 이혈룡으로 죽을 위기에 처해 낙담함.</td></tr>
+          <tr><td>①</td><td>오답</td><td>이혈룡이 옥단춘과의 언약을 후회했다는 내용은 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>김감사는 이혈룡이 죽었으리라 여겨 찾아올 것을 짐작 못함.</td></tr>
+          <tr><td>③</td><td>오답</td><td>비장은 죽은 원혼이 아닐 것이라 말할 뿐 이혈룡을 모함하진 않음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>김감사는 수청 거역을 이유로 옥단춘을 위기에 빠뜨림.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1310,16 +1310,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>②</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 외적 준거로 감상한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>②</td><td class="ok">정답</td><td>뱃사공 문초는 김감사의 악행을 보여 주는 장면 → 악인을 징계하는 것으로 보는 건 부적절.</td></tr>
+          <tr><td>①</td><td>오답</td><td>친구 이혈룡을 죽이려는 김감사는 우정을 저버리는 부도덕한 사대부.</td></tr>
+          <tr><td>③</td><td>오답</td><td>위태로운 상황에도 이혈룡의 안위를 먼저 걱정함에서 옥단춘의 신의를 봄.</td></tr>
+          <tr><td>④</td><td>오답</td><td>재물만으로 호의호식할 수 있다는 말에서 옥단춘의 경제력을 봄.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>이혈룡이 암행어사로 김감사 무리를 벌함은 암행어사 모티프 활용.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1341,16 +1341,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>①</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 상황에 맞는 한자 성어를 찾는다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>뱃사공을 다그쳐 사실을 캐묻는 상황 → ‘사실 그대로 고함’의 이실직고(以實直告)가 어울림.</td></tr>
+          <tr><td>②</td><td>오답</td><td>결초보은(結草報恩) — 죽어서도 은혜를 갚음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>상부상조(相扶相助) — 서로서로 도움.</td></tr>
+          <tr><td>④</td><td>오답</td><td>각골통한(刻骨痛恨) — 뼈에 사무치게 원통하고 한스러움.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>전화위복(轉禍爲福) — 재앙이 오히려 복이 됨.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1383,16 +1383,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 핵심 정보(표제·부제)를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>차원의 동일성·무차원화로 차원해석을 설명하고 의의를 밝힘 → ‘차원해석의 이해와 의의’가 표제로 적절.</td></tr>
+          <tr><td>①</td><td>오답</td><td>무차원화는 차원해석 이해를 위한 일부 → 무차원화가 표제로는 부적절.</td></tr>
+          <tr><td>②</td><td>오답</td><td>무차원화 방법은 나오나 글의 주제가 아니라 표제로 부적절.</td></tr>
+          <tr><td>③</td><td>오답</td><td>차원해석의 역사는 글에 드러나지 않음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>단위·차원의 분류는 중심 내용이 아님.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1418,16 +1418,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 적용한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>좌변 면적이 [길이²]이므로 우변도 [길이²] → B·C는 [길이], D는 [길이²]이어야 함.</td></tr>
+          <tr><td>①</td><td>오답</td><td>우변이 2[길이²]+π[길이]가 되어 부적절.</td></tr>
+          <tr><td>②</td><td>오답</td><td>우변이 2[길이⁴]+π[길이²]가 되어 부적절.</td></tr>
+          <tr><td>④</td><td>오답</td><td>우변이 2[길이³]+π[길이]가 되어 부적절.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>2·π는 차원이 없어 차원에 영향을 줄 수 없음 → 부적절.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1474,16 +1474,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 구체적 상황(그림)에 적용한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td><그림2>에서 ㉯의 성장 곡선 기울기가 ㉮보다 가파름 → 태어난 직후부터 ㉯의 성장이 ㉮보다 빠름.</td></tr>
+          <tr><td>①</td><td>오답</td><td><그림1>로 ㉮·㉯의 나이(변수1)에 따른 몸무게(변수2) 변화를 알 수 있음.</td></tr>
+          <tr><td>②</td><td>오답</td><td><그림1>은 수명이 달라 상대적 크기로 안 드러나 비교가 어려움.</td></tr>
+          <tr><td>④</td><td>오답</td><td><그림2>에서 ㉯는 t/T=0.2, ㉮는 0.3에 성체 몸무게에 도달함.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td><그림2> 두 축의 0~1 값은 몸무게·시간을 무차원화한 값.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1504,16 +1504,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>④</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 추론한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>④</td><td class="ok">정답</td><td>[B]에 따르면 최대 높이는 질량과 무관 → 차원해석으로 변수를 줄여 실험·작업량을 줄일 수 있음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>상수 C보다 변수 간 관계를 아는 것이 중요 → 차원해석 후 실험으로 C를 앎.</td></tr>
+          <tr><td>②</td><td>오답</td><td>c는 2가 아니라 –1이므로 g를 제곱한 것이 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>최대 높이(h)는 v²에 비례 → v와 무관하지 않음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>a=0,b=2,c=-1로 합이 1이면 우변은 [길이] 차원만 남음 → 좌변이 무차원이 되는 것은 아님.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1535,12 +1535,12 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 단어의 사전적 의미를 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ⓔ ‘도출’은 ‘결론 따위를 이끌어 냄’ → ‘헤아리거나 잼(계측)’으로 풀이한 것은 부적절.</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1583,16 +1583,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>③</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 표현상의 특징을 파악한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>③</td><td class="ok">정답</td><td>‘~는 ~지만’, ‘~는 ~는 것을’의 반복으로 시적 의미를 강조함.</td></tr>
+          <tr><td>①</td><td>오답</td><td>자연물을 소재로 쓰나 감정을 이입하진 않음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>청각적 심상이 활용되지 않음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>색채어의 대비가 활용되지 않음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>계절의 흐름이 나타나지 않음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1613,16 +1613,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 구절의 의미를 이해한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘가던 길’을 멈추고 걸려 있고 싶다는 것은 현실과의 타협이 아니라 의미 있는 존재가 되려는 소망·의지.</td></tr>
+          <tr><td>①</td><td>오답</td><td>플라스틱처럼 느껴질 때 ‘버스’에서 뛰어내리고 싶음은 부정적 상황에서 벗어나려는 행동.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘홍은동 사거리’의 변화(대장간 자리에 아파트)에 사라진 대장간을 찾고 싶은 심정을 드러냄.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘대장간’에서 달구고·벼리고·갈아 냄은 새로운 존재로 거듭나려는 단련의 과정.</td></tr>
+          <tr><td>④</td><td>오답</td><td>인생을 ‘직지사 해우소’ 똥덩이처럼 느낌은 삶을 무가치하게 인식하며 반성함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1646,16 +1646,16 @@ B : 살 길을 찾아온 그들을 아무런 조건 없이 환영해야 한다. 
     <div class="solution-body">
       <div class="question-analysis">
         <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
-        <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
+        <p class="ask-read"><strong>발문 해석</strong> — 외적 준거로 감상한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>‘꼬부랑 호미’가 ‘송진’을 흘리며 걸린 모습은 생명력 넘치는 존재로 거듭나려는 소망 → 무가치한 존재로 머묾으로 볼 수 없음.</td></tr>
+          <tr><td>①</td><td>오답</td><td>‘뿌리’의 날카로움과 달리 모나지 않은 ‘열매’에서 원만한 삶의 태도를 봄.</td></tr>
+          <tr><td>②</td><td>오답</td><td>‘스스로 먹힐 줄’ 아는 열매에서 다른 생명을 위한 희생의 자세를 봄.</td></tr>
+          <tr><td>③</td><td>오답</td><td>‘모든 생성하는 존재’가 둥글다는 인식은 열매를 통한 깨달음의 확장.</td></tr>
+          <tr><td>④</td><td>오답</td><td>‘망가지면 내다 버리는’ 플라스틱은 무가치·소모품적 존재의 비유.</td></tr>
         </tbody>
       </table>
     </div>
