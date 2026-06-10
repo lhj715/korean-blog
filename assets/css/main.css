@@ -315,6 +315,7 @@ a:hover{text-decoration:underline}
 .q-opts li[id],.q-plan p[id]{border-radius:3px;transition:background .35s,box-shadow .35s}
 .q-opts li.opt-hl,.q-plan p.opt-hl{background:#e8f1fb;box-shadow:0 0 0 6px #e8f1fb}
 .q-opts li.opt-hl-ans,.q-plan p.opt-hl-ans{background:#e7f5ec;box-shadow:0 0 0 6px #e7f5ec}
+.q-opts li.opt-hl-wrong,.q-plan p.opt-hl-wrong{background:#fdecea;box-shadow:0 0 0 6px #fdecea}
 a.ev-tag{cursor:pointer;text-decoration:none}
 a.ev-tag:hover{background:#16487d}
 .src-tag{display:inline-block;font-size:10.5px;font-weight:700;color:var(--ev);background:#eaf1fb;
@@ -329,6 +330,13 @@ a.ev-tag:hover{background:#16487d}
 .ev-tag.ans{background:#1f7a3d}
 a.ev-tag.ans:hover{background:#155c2c}
 .passage .ev.ans.ev-hl{background:#d3eddd;box-shadow:0 0 0 3px #d3eddd}
+/* 오답 근거 = 빨강 (틀린 진술의 근거) */
+.src-tag.wrong{color:#c0392b;background:#fdecea;border-color:#f3c0bb}
+.src-tag.wrong:hover{background:#c0392b;color:#fff;border-color:#c0392b}
+.passage .ev.wrong{color:#c0392b;text-decoration-color:#c0392b}
+.ev-tag.wrong{background:#c0392b}
+a.ev-tag.wrong:hover{background:#9a2d22}
+.passage .ev.wrong.ev-hl{background:#fad9d5;box-shadow:0 0 0 3px #fad9d5}
 .q-plan{background:var(--paper-warm);border:1px solid var(--paper-line);border-radius:4px;padding:14px 16px}
 .q-plan p{font-size:14px!important;line-height:1.7!important;color:var(--ink-mid);margin:0 0 8px!important}
 .q-plan p:last-child{margin-bottom:0!important}

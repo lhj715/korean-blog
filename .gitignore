@@ -8,8 +8,7 @@ new_idioms*.json
 fetch_*.log
 
 # 작업용 데이터(사이트 콘텐츠 아님, 자동 업로드 제외)
-/data/site-ready-dataset/
-/data/_sources/
+/_localdata/
 
 # 로컬 전용 Claude 설정·자동화 스크립트
 .claude/settings.local.json

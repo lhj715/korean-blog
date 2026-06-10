@@ -31,8 +31,8 @@ document.addEventListener('click', function(e){
     scrollToEl(document.getElementById(probId));           // 문제 시작 블록
     var opt = document.getElementById(optId);
     if(opt){
-      document.querySelectorAll('.opt-hl,.opt-hl-ans').forEach(function(el){ el.classList.remove('opt-hl','opt-hl-ans'); });
-      opt.classList.add(a.classList.contains('ans') ? 'opt-hl-ans' : 'opt-hl');
+      document.querySelectorAll('.opt-hl,.opt-hl-ans,.opt-hl-wrong').forEach(function(el){ el.classList.remove('opt-hl','opt-hl-ans','opt-hl-wrong'); });
+      opt.classList.add(a.classList.contains('ans') ? 'opt-hl-ans' : a.classList.contains('wrong') ? 'opt-hl-wrong' : 'opt-hl');
     }
     return;
   }
