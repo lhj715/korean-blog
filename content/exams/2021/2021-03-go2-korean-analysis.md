@@ -25,11 +25,11 @@ layout: "exam"
 <div class="q-block" id="prob1">
   <p class="q-stem">1. 위 발표에 대한 설명으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q1-1">① 발표 소재를 선택한 동기를 밝히며 발표를 시작하고 있다.<a class="src-tag" href="#ev-q1-1">지문 근거</a></li>
-    <li id="q1-2">② 질문을 통해 청중이 갖고 있는 배경지식을 확인하고 있다．<a class="src-tag" href="#ev-q1-2">지문 근거</a></li>
+    <li id="q1-1">① 발표 소재를 선택한 동기를 밝히며 발표를 시작하고 있다.<a class="src-tag" href="#ev-q1-1">오답 근거지문 근거</a></li>
+    <li id="q1-2">② 질문을 통해 청중이 갖고 있는 배경지식을 확인하고 있다．<a class="src-tag" href="#ev-q1-2">오답 근거지문 근거</a></li>
     <li id="q1-3">③ 발표 순서를 안내하여 청중이 예상하며 듣도록 하고 있다.</li>
-    <li id="q1-4">④ 구체적인 예를 들어 발표 내용에 대한 이해를 돕고 있다.<a class="src-tag" href="#ev-q1-4">지문 근거</a></li>
-    <li id="q1-5">⑤ 발표 소재에 대한 관심을 바라며 발표를 마무리하고 있다.<a class="src-tag" href="#ev-q1-5">지문 근거</a></li>
+    <li id="q1-4">④ 구체적인 예를 들어 발표 내용에 대한 이해를 돕고 있다.<a class="src-tag" href="#ev-q1-4">오답 근거지문 근거</a></li>
+    <li id="q1-5">⑤ 발표 소재에 대한 관심을 바라며 발표를 마무리하고 있다.<a class="src-tag" href="#ev-q1-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -58,10 +58,10 @@ layout: "exam"
 [자료 2]
 [자료 3]</p>
   <ul class="q-opts">
-    <li id="q2-1">① ㉠에 노리개를 구성하는 각 요소의 명칭과 특징을 보여 주기 위해 [자료 1]을 활용하였다.<a class="src-tag" href="#ev-q2-1">지문 근거</a></li>
-    <li id="q2-2">② ㉡에 격식적인 느낌을 주고자 착용한 노리개를 보여 주기 위해 [자료 2]를 활용하였다.<a class="src-tag" href="#ev-q2-2">지문 근거</a></li>
-    <li id="q2-3">③ ㉡에 삼작노리개가 세 줄로 된 노리개라는 것을 보여 주기 위해 [자료 2]를 활용하였다.<a class="src-tag" href="#ev-q2-3">지문 근거</a></li>
-    <li id="q2-4">④ ㉢에 노리개의 주체에 염원이 담겨 있다는 것을 보여 주기 위해 [자료 3]을 활용하였다.<a class="src-tag" href="#ev2">지문 근거</a></li>
+    <li id="q2-1">① ㉠에 노리개를 구성하는 각 요소의 명칭과 특징을 보여 주기 위해 [자료 1]을 활용하였다.<a class="src-tag" href="#ev-q2-1">오답 근거지문 근거</a></li>
+    <li id="q2-2">② ㉡에 격식적인 느낌을 주고자 착용한 노리개를 보여 주기 위해 [자료 2]를 활용하였다.<a class="src-tag" href="#ev-q2-2">오답 근거지문 근거</a></li>
+    <li id="q2-3">③ ㉡에 삼작노리개가 세 줄로 된 노리개라는 것을 보여 주기 위해 [자료 2]를 활용하였다.<a class="src-tag" href="#ev-q2-3">오답 근거지문 근거</a></li>
+    <li id="q2-4">④ ㉢에 노리개의 주체에 염원이 담겨 있다는 것을 보여 주기 위해 [자료 3]을 활용하였다.<a class="src-tag" href="#ev2">오답 근거지문 근거</a></li>
     <li id="q2-5">⑤ ㉢에 노리개의 소재와 크기에 제한이 있었다는 것을 설명하기 위해 [자료 3]을 활용하였다.<a class="src-tag ans" href="#ev2">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -897,10 +897,10 @@ layout: "exam"
 <div class="q-block" id="prob24">
   <p class="q-stem">24. 윗글을 통해 알 수 있는 내용이 아닌 것은?</p>
   <ul class="q-opts">
-    <li id="q24-1">① 타이바는 길이가 다른 두 개의 지브가 한쪽으로 기울어지지 않도록 돕는 역할을 한다.<a class="src-tag" href="#ev-q24-1">지문 근거</a></li>
-    <li id="q24-2">② 타워 크레인으로 들어 올린 중량물의 수평 이동은 트롤리와 선회 장치에 의해 이루어진다.<a class="src-tag" href="#ev-q24-2">지문 근거</a></li>
-    <li id="q24-3">③ 후크 블록에 여러 개의 움직도르래가 사용되면 와이어로프가 꼬여 손상될 가능성이 높아진다.<a class="src-tag" href="#ev-q24-3">지문 근거</a></li>
-    <li id="q24-4">④ 타워 크레인이 중량물을 들어 올릴 때와 내릴 때에 권상 장치에 있는 전동기의 회전 방향은 반대가 된다.<a class="src-tag" href="#ev-q24-4">지문 근거</a></li>
+    <li id="q24-1">① 타이바는 길이가 다른 두 개의 지브가 한쪽으로 기울어지지 않도록 돕는 역할을 한다.<a class="src-tag" href="#ev-q24-1">오답 근거지문 근거</a></li>
+    <li id="q24-2">② 타워 크레인으로 들어 올린 중량물의 수평 이동은 트롤리와 선회 장치에 의해 이루어진다.<a class="src-tag" href="#ev-q24-2">오답 근거지문 근거</a></li>
+    <li id="q24-3">③ 후크 블록에 여러 개의 움직도르래가 사용되면 와이어로프가 꼬여 손상될 가능성이 높아진다.<a class="src-tag" href="#ev-q24-3">오답 근거지문 근거</a></li>
+    <li id="q24-4">④ 타워 크레인이 중량물을 들어 올릴 때와 내릴 때에 권상 장치에 있는 전동기의 회전 방향은 반대가 된다.<a class="src-tag" href="#ev-q24-4">오답 근거지문 근거</a></li>
     <li id="q24-5">⑤ 타워 크레인의 높이를 높이기 위해서는 텔레스코핑 케이지의 유압 장치를 이용해 마스트를 들어 올려야 한다.<a class="src-tag ans" href="#ev24">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1209,11 +1209,11 @@ A, B를 이용해 같은 무게의 중량물을 각각 들어 올릴 때, 권상
 <div class="q-block" id="prob32">
   <p class="q-stem">32. 윗글에서 언급된 내용이 아닌 것은?</p>
   <ul class="q-opts">
-    <li id="q32-1">① 미에 대한 피타고라스학파의 인식<a class="src-tag" href="#ev-q32-1">지문 근거</a></li>
+    <li id="q32-1">① 미에 대한 피타고라스학파의 인식<a class="src-tag" href="#ev-q32-1">오답 근거지문 근거</a></li>
     <li id="q32-2">② 플로티노스가 분류한 예술의 유형</li>
-    <li id="q32-3">③ 균제 이론에 대한 플로티노스의 시각<a class="src-tag" href="#ev-q32-3">지문 근거</a></li>
-    <li id="q32-4">④ 플라톤과 플로티노스 예술관의 차이<a class="src-tag" href="#ev-q32-4">지문 근거</a></li>
-    <li id="q32-5">⑤ 플로티노스의 미 이론이 지니는 의의<a class="src-tag" href="#ev-q32-5">지문 근거</a></li>
+    <li id="q32-3">③ 균제 이론에 대한 플로티노스의 시각<a class="src-tag" href="#ev-q32-3">오답 근거지문 근거</a></li>
+    <li id="q32-4">④ 플라톤과 플로티노스 예술관의 차이<a class="src-tag" href="#ev-q32-4">오답 근거지문 근거</a></li>
+    <li id="q32-5">⑤ 플로티노스의 미 이론이 지니는 의의<a class="src-tag" href="#ev-q32-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1239,10 +1239,10 @@ A, B를 이용해 같은 무게의 중량물을 각각 들어 올릴 때, 권상
 <div class="q-block" id="prob33">
   <p class="q-stem">33. ⓐ~ ⓔ에 대한 플로티노스의 생각으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q33-1">① ⓐ의 속성은 위계적 차등에 따라 ⓑ, ⓒ, ⓓ, ⓔ로 전해진다.<a class="src-tag" href="#ev-q33-1">지문 근거</a></li>
-    <li id="q33-2">② ⓐ에 가까운 정도를 기준으로 하여 미, 추를 판단할 수 있다.<a class="src-tag" href="#ev-q33-2">지문 근거</a></li>
-    <li id="q33-3">③ ⓐ~ ⓔ는 동일성을 함유하면서 질적으로 서로 연결되어 있다.<a class="src-tag" href="#ev-q33-3">지문 근거</a></li>
-    <li id="q33-4">④ 유출은 ⓐ에서 ⓔ로, 테오리아는 ⓔ에서 ⓐ로 향하는 방향성을 갖는다.<a class="src-tag" href="#ev-q33-4">지문 근거</a></li>
+    <li id="q33-1">① ⓐ의 속성은 위계적 차등에 따라 ⓑ, ⓒ, ⓓ, ⓔ로 전해진다.<a class="src-tag" href="#ev-q33-1">오답 근거지문 근거</a></li>
+    <li id="q33-2">② ⓐ에 가까운 정도를 기준으로 하여 미, 추를 판단할 수 있다.<a class="src-tag" href="#ev-q33-2">오답 근거지문 근거</a></li>
+    <li id="q33-3">③ ⓐ~ ⓔ는 동일성을 함유하면서 질적으로 서로 연결되어 있다.<a class="src-tag" href="#ev-q33-3">오답 근거지문 근거</a></li>
+    <li id="q33-4">④ 유출은 ⓐ에서 ⓔ로, 테오리아는 ⓔ에서 ⓐ로 향하는 방향성을 갖는다.<a class="src-tag" href="#ev-q33-4">오답 근거지문 근거</a></li>
     <li id="q33-5">⑤ ⓐ, ⓑ, ⓒ의 예지계와 ⓓ, ⓔ의 현상계는 정신에 의해 상호 보완적 관계를 유지한다.
 16<a class="src-tag ans" href="#ev33">정답 근거</a></li>
   </ul>
@@ -1422,12 +1422,12 @@ A, B를 이용해 같은 무게의 중량물을 각각 들어 올릴 때, 권상
 <div class="q-block" id="prob38">
   <p class="q-stem">38. ㉠을 이해한 내용으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q38-1">① 유전적 근연도에 초점을 맞춰 이타적 행위를 설명하고 있다.<a class="src-tag" href="#ev-q38-1">지문 근거</a></li>
+    <li id="q38-1">① 유전적 근연도에 초점을 맞춰 이타적 행위를 설명하고 있다.<a class="src-tag" href="#ev-q38-1">오답 근거지문 근거</a></li>
     <li id="q38-2">② 개체의 이기적 행동에 숨겨진 이타적 동기에 대해 설명하고 있다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
     <li id="q38-3">③ 이타적 행위자와 그의 수혜자가 삼촌 관계일 경우 r은 0.25
-가 된다.<a class="src-tag" href="#ev-q38-3">지문 근거</a></li>
-    <li id="q38-4">④ 이타적 행위자와 수혜자가 부모 자식이나 형제자매 관계일 경우 r은 같다.<a class="src-tag" href="#ev-q38-4">지문 근거</a></li>
-    <li id="q38-5">⑤ 이타적 행위자와 그의 수혜자가 혈연관계일 때, b와 c가 같으면 이타적 유전자가 진화하지 않는다.<a class="src-tag" href="#ev-q38-5">지문 근거</a></li>
+가 된다.<a class="src-tag" href="#ev-q38-3">오답 근거지문 근거</a></li>
+    <li id="q38-4">④ 이타적 행위자와 수혜자가 부모 자식이나 형제자매 관계일 경우 r은 같다.<a class="src-tag" href="#ev-q38-4">오답 근거지문 근거</a></li>
+    <li id="q38-5">⑤ 이타적 행위자와 그의 수혜자가 혈연관계일 때, b와 c가 같으면 이타적 유전자가 진화하지 않는다.<a class="src-tag" href="#ev-q38-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>

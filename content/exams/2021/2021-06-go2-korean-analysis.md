@@ -27,10 +27,10 @@ layout: "exam"
   <p class="q-stem">1. 위 발표자의 말하기 방식으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 자신이 경험한 구체적 사례로 청중의 이해를 돕고 있다.</li>
-    <li id="q1-2">② 정보의 출처를 밝혀 발표 내용의 신뢰성을 확보하고 있다.<a class="src-tag" href="#ev-q1-2">지문 근거</a></li>
-    <li id="q1-3">③ 청중에게 질문을 하여 발표 내용에 관심을 유도하고 있다.<a class="src-tag" href="#ev-q1-3">지문 근거</a></li>
-    <li id="q1-4">④ 발표 순서를 안내하여 청중이 내용을 예측하며 듣도록 하고 있다.<a class="src-tag" href="#ev-q1-4">지문 근거</a></li>
-    <li id="q1-5">⑤ 발표 내용과 관련한 제안을 하고 그것에 부수되는 효과를 밝히고 있다.<a class="src-tag" href="#ev-q1-5">지문 근거</a></li>
+    <li id="q1-2">② 정보의 출처를 밝혀 발표 내용의 신뢰성을 확보하고 있다.<a class="src-tag" href="#ev-q1-2">오답 근거지문 근거</a></li>
+    <li id="q1-3">③ 청중에게 질문을 하여 발표 내용에 관심을 유도하고 있다.<a class="src-tag" href="#ev-q1-3">오답 근거지문 근거</a></li>
+    <li id="q1-4">④ 발표 순서를 안내하여 청중이 내용을 예측하며 듣도록 하고 있다.<a class="src-tag" href="#ev-q1-4">오답 근거지문 근거</a></li>
+    <li id="q1-5">⑤ 발표 내용과 관련한 제안을 하고 그것에 부수되는 효과를 밝히고 있다.<a class="src-tag" href="#ev-q1-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -56,11 +56,11 @@ layout: "exam"
 <div class="q-block" id="prob2">
   <p class="q-stem">2. 발표를 참고할 때, ㉠～㉤의 자료 활용에 대한 설명으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q2-1">① ㉠: 우리나라 부채의 역사를 설명하기 위해 가장 오래된 부채 관련 유물을 제시한다.<a class="src-tag" href="#ev-q2-1">지문 근거</a></li>
-    <li id="q2-2">② ㉡: 우리나라 부채의 종류를 설명하기 위해 각각의 유형을 잘 보여 주는 부채 두 가지를 함께 제시한다.<a class="src-tag" href="#ev-q2-2">지문 근거</a></li>
+    <li id="q2-1">① ㉠: 우리나라 부채의 역사를 설명하기 위해 가장 오래된 부채 관련 유물을 제시한다.<a class="src-tag" href="#ev-q2-1">오답 근거지문 근거</a></li>
+    <li id="q2-2">② ㉡: 우리나라 부채의 종류를 설명하기 위해 각각의 유형을 잘 보여 주는 부채 두 가지를 함께 제시한다.<a class="src-tag" href="#ev-q2-2">오답 근거지문 근거</a></li>
     <li id="q2-3">③ ㉢: 전통 공예품으로 계승하려는 노력을 부각하기 위해 고급스러운 외장을 한 현대의 공예 부채들을 제시한다.<a class="src-tag ans" href="#ev2">정답 근거</a></li>
-    <li id="q2-4">④ ㉣: 우리나라 부채가 지닌 예술미를 알려주기 위해 멋진 그림과 글이 들어가 있는 부채의 사례를 제시한다.<a class="src-tag" href="#ev-q2-4">지문 근거</a></li>
-    <li id="q2-5">⑤ ㉤: 오늘날에도 부채가 만들어지고 있음을 보여 주기 위해 주변에서 볼 수 있는 부채들의 예를 제시한다.<a class="src-tag" href="#ev-q2-5">지문 근거</a></li>
+    <li id="q2-4">④ ㉣: 우리나라 부채가 지닌 예술미를 알려주기 위해 멋진 그림과 글이 들어가 있는 부채의 사례를 제시한다.<a class="src-tag" href="#ev-q2-4">오답 근거지문 근거</a></li>
+    <li id="q2-5">⑤ ㉤: 오늘날에도 부채가 만들어지고 있음을 보여 주기 위해 주변에서 볼 수 있는 부채들의 예를 제시한다.<a class="src-tag" href="#ev-q2-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -85,12 +85,12 @@ layout: "exam"
 
 <div class="q-block" id="prob3">
   <p class="q-stem">3. 다음은 발표를 들은 후 청중이 보인 반응이다. 두 반응의 공통점으로 가장 적절한 것은? [3점]
-학생1 : <span class="ev" id="ev-q3-2">우리나라에는 질 좋은 닥나무 한지와 잘 쪼개지고 질긴 대나무가 있어 견고한 부채를 만들 수 있었다는 설명을 들었던 기억이 나</span><a class="ev-tag" href="#q3-2">3-②</a>. 이런 이야기와 함께 <span class="ev" id="ev-q3-1">지금도 전통 부채를 만드는 장인을 무형 문화재로 지정하여 대우하고 있다는 이야기도 했다면 내용이 더 풍부해졌을 것 같아</span><a class="ev-tag" href="#q3-1">3-①</a>. 학생2 : 무심코 지나쳤던 부채에 대해 자세히 설명한 발표를 듣고, 주변의 사소한 것들에도 애정 어린 시선을 보내야겠다는 생각이 들었어. <span class="ev" id="ev-q3-2b">예전에는 단오에 부채를 선물하는 풍습이 있었다고 알고 있는데</span><a class="ev-tag" href="#q3-2">3-②</a>, 발표를 듣고 보니 <span class="ev" id="ev-q3-4">부채와 관련한 풍습이 더 없는지 인터넷 자료를 통해 찾아보고 싶어졌어</span><a class="ev-tag" href="#q3-4">3-④</a>.</p>
+학생1 : <span class="ev ans" id="ev-q3-2">우리나라에는 질 좋은 닥나무 한지와 잘 쪼개지고 질긴 대나무가 있어 견고한 부채를 만들 수 있었다는 설명을 들었던 기억이 나</span><a class="ev-tag ans" href="#q3-2">3-②</a>. 이런 이야기와 함께 <span class="ev" id="ev-q3-1">지금도 전통 부채를 만드는 장인을 무형 문화재로 지정하여 대우하고 있다는 이야기도 했다면 내용이 더 풍부해졌을 것 같아</span><a class="ev-tag" href="#q3-1">3-①</a>. 학생2 : 무심코 지나쳤던 부채에 대해 자세히 설명한 발표를 듣고, 주변의 사소한 것들에도 애정 어린 시선을 보내야겠다는 생각이 들었어. <span class="ev ans" id="ev-q3-2b">예전에는 단오에 부채를 선물하는 풍습이 있었다고 알고 있는데</span><a class="ev-tag ans" href="#q3-2">3-②</a>, 발표를 듣고 보니 <span class="ev" id="ev-q3-4">부채와 관련한 풍습이 더 없는지 인터넷 자료를 통해 찾아보고 싶어졌어</span><a class="ev-tag" href="#q3-4">3-④</a>.</p>
   <ul class="q-opts">
-    <li id="q3-1">① 발표에서 추가했으면 하는 내용을 언급하고 있다.<a class="src-tag" href="#ev-q3-1">지문 근거</a></li>
-    <li id="q3-2">② 발표 내용과 관련된 자신의 배경지식을 떠올리고 있다.<a class="src-tag" href="#ev-q3-2">지문 근거</a></li>
+    <li id="q3-1">① 발표에서 추가했으면 하는 내용을 언급하고 있다.<a class="src-tag" href="#ev-q3-1">오답 근거지문 근거</a></li>
+    <li id="q3-2">② 발표 내용과 관련된 자신의 배경지식을 떠올리고 있다.<a class="src-tag ans" href="#ev-q3-2">정답 근거지문 근거</a></li>
     <li id="q3-3">③ 발표를 듣고 기존에 가졌던 자신의 태도를 반성하고 있다.</li>
-    <li id="q3-4">④ 발표를 듣고 생긴 의문점을 해결하는 방법을 생각하고 있다.<a class="src-tag" href="#ev-q3-4">지문 근거</a></li>
+    <li id="q3-4">④ 발표를 듣고 생긴 의문점을 해결하는 방법을 생각하고 있다.<a class="src-tag" href="#ev-q3-4">오답 근거지문 근거</a></li>
     <li id="q3-5">⑤ 발표를 통해 알게 된 정보를 활용하여 기존 지식을 수정하고 있다.
 국어영역16</li>
   </ul>
@@ -131,13 +131,13 @@ layout: "exam"
 <div class="q-block" id="prob4">
   <p class="q-stem">4. 대화의 흐름을 고려할 때, ㉠~ ㉤에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q4-1">① ㉠: 상대의 발언과 관련한 자신의 경험을 언급하고 있다.<a class="src-tag" href="#ev-q4-1">지문 근거</a></li>
-    <li id="q4-2">② ㉡: 상대의 발언에 공감하는 정서적 반응을 보이고 있다.<a class="src-tag" href="#ev-q4-2">지문 근거</a></li>
+    <li id="q4-1">① ㉠: 상대의 발언과 관련한 자신의 경험을 언급하고 있다.<a class="src-tag" href="#ev-q4-1">오답 근거지문 근거</a></li>
+    <li id="q4-2">② ㉡: 상대의 발언에 공감하는 정서적 반응을 보이고 있다.<a class="src-tag" href="#ev-q4-2">오답 근거지문 근거</a></li>
     <li id="q4-3">③ ㉢: 상대의 발언을 유사한 사례를 들어 보충하고 있다.<a class="src-tag ans" href="#ev-q4-3">정답 근거</a></li>
-    <li id="q4-4">④ ㉣: 상대의 발언과 관련해 알고 있는 사실을 진술하고 있다.<a class="src-tag" href="#ev-q4-4">지문 근거</a></li>
+    <li id="q4-4">④ ㉣: 상대의 발언과 관련해 알고 있는 사실을 진술하고 있다.<a class="src-tag" href="#ev-q4-4">오답 근거지문 근거</a></li>
     <li id="q4-5">⑤ ㉤: 상대의 발언 의도를 정확하게 파악했는지 확인하고 있다.
 고2                                 3
-국어영역<a class="src-tag" href="#ev-q4-5">지문 근거</a></li>
+국어영역<a class="src-tag" href="#ev-q4-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -579,11 +579,11 @@ B : 어제 본 영화가 자꾸 생각이 나서.</p>
 <div class="q-block" id="prob16">
   <p class="q-stem">16. 윗글에 대한 이해로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-    <li id="q16-1">① 동일자는 주위의 모든 것들을 자기중심적으로 대한다.<a class="src-tag" href="#ev-q16-1">지문 근거</a></li>
-    <li id="q16-2">② 환대는 타자의 호소를 무조건적으로 수용함을 가리킨다.<a class="src-tag" href="#ev-q16-2">지문 근거</a></li>
-    <li id="q16-3">③ 향유는 다른 누구도 대신할 수 없는 개체의 고유한 행위이다.<a class="src-tag" href="#ev-q16-3">지문 근거</a></li>
+    <li id="q16-1">① 동일자는 주위의 모든 것들을 자기중심적으로 대한다.<a class="src-tag" href="#ev-q16-1">오답 근거지문 근거</a></li>
+    <li id="q16-2">② 환대는 타자의 호소를 무조건적으로 수용함을 가리킨다.<a class="src-tag" href="#ev-q16-2">오답 근거지문 근거</a></li>
+    <li id="q16-3">③ 향유는 다른 누구도 대신할 수 없는 개체의 고유한 행위이다.<a class="src-tag" href="#ev-q16-3">오답 근거지문 근거</a></li>
     <li id="q16-4">④ 타자성은 타자를 위해 주체를 기꺼이 희생하는 성질을 의미한다.<a class="src-tag ans" href="#ev16">정답 근거</a></li>
-    <li id="q16-5">⑤ 자기성은 어떤 것에 의존하지 않고 홀로 무엇을 누릴 때 성립한다.<a class="src-tag" href="#ev-q16-5">지문 근거</a></li>
+    <li id="q16-5">⑤ 자기성은 어떤 것에 의존하지 않고 홀로 무엇을 누릴 때 성립한다.<a class="src-tag" href="#ev-q16-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>

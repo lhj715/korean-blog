@@ -76,11 +76,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>㉠ ‘우리말을 창제한 세종대왕’ 표제 신문 기사 · ㉡ 훈민정음 해례본의 세계기록유산 등재 누리집 게시물 · <b>㉢ 한글 창제 원리·운용법의 우수성을 언급한 논문</b> · ㉣ 한글로 적을 수 없는 소리의 국제음성기호 목록 · ㉤ 해외 언어학자의 한글 평가 동영상</p>
   </div>
   <ul class="q-opts">
-    <li id="q2-1">① ㉠은 말과 글자의 의미를 혼동하는 사례를 언급하는 데 활용됐다.<a class="src-tag" href="#ev2a">지문 근거</a></li>
-    <li id="q2-2">② ㉡은 훈민정음 해례본이 유네스코의 인정을 받은 기록물임을 언급하는 데 활용됐다.<a class="src-tag" href="#ev2b">지문 근거</a></li>
+    <li id="q2-1">① ㉠은 말과 글자의 의미를 혼동하는 사례를 언급하는 데 활용됐다.<a class="src-tag" href="#ev2a">오답 근거지문 근거</a></li>
+    <li id="q2-2">② ㉡은 훈민정음 해례본이 유네스코의 인정을 받은 기록물임을 언급하는 데 활용됐다.<a class="src-tag" href="#ev2b">오답 근거지문 근거</a></li>
     <li id="q2-3">③ ㉢은 유네스코가 인정한 한글 문자 체계의 탁월성을 언급하는 데 활용됐다. <span class="muted">(발표에 없음 → 정답)</span><a class="src-tag ans" href="#ev2">정답 근거</a></li>
-    <li id="q2-4">④ ㉣은 모든 발음을 한글로 적을 수 있는 건 아니라는 사실을 언급하는 데 활용됐다.<a class="src-tag" href="#ev2c">지문 근거</a></li>
-    <li id="q2-5">⑤ ㉤은 다른 나라 언어학자가 한글의 우수성을 인정함을 언급하는 데 활용됐다.<a class="src-tag" href="#ev2d">지문 근거</a></li>
+    <li id="q2-4">④ ㉣은 모든 발음을 한글로 적을 수 있는 건 아니라는 사실을 언급하는 데 활용됐다.<a class="src-tag" href="#ev2c">오답 근거지문 근거</a></li>
+    <li id="q2-5">⑤ ㉤은 다른 나라 언어학자가 한글의 우수성을 인정함을 언급하는 데 활용됐다.<a class="src-tag" href="#ev2d">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -171,11 +171,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)의 ‘찬성1’과 ‘반대1’의 입론에 대한 청중의 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
-    <li id="q4-1">① [A]에서 찬성1은 문제 원인·통계로 ‘문제의 심각성’을 강조한다.<a class="src-tag" href="#ev4a">지문 근거</a></li>
-    <li id="q4-2">② [B]에서 찬성1은 해결 방안·실행 사례로 ‘해결·실행 가능성’을 드러낸다.<a class="src-tag" href="#ev4b">지문 근거</a></li>
-    <li id="q4-3">③ [C]에서 찬성1은 긍정적 결과로 ‘실행 효과·개선 이익’을 언급한다.<a class="src-tag" href="#ev4c">지문 근거</a></li>
+    <li id="q4-1">① [A]에서 찬성1은 문제 원인·통계로 ‘문제의 심각성’을 강조한다.<a class="src-tag" href="#ev4a">오답 근거지문 근거</a></li>
+    <li id="q4-2">② [B]에서 찬성1은 해결 방안·실행 사례로 ‘해결·실행 가능성’을 드러낸다.<a class="src-tag" href="#ev4b">오답 근거지문 근거</a></li>
+    <li id="q4-3">③ [C]에서 찬성1은 긍정적 결과로 ‘실행 효과·개선 이익’을 언급한다.<a class="src-tag" href="#ev4c">오답 근거지문 근거</a></li>
     <li id="q4-4">④ [D]에서 반대1은 용어를 재정의하며 찬성 측이 ‘문제의 심각성’을 과장함을 밝힌다.<a class="src-tag ans" href="#ev2">정답 근거</a></li>
-    <li id="q4-5">⑤ [E]에서 반대1은 부작용을 들어 ‘실행 효과·개선 이익’을 반박한다.<a class="src-tag" href="#ev4e">지문 근거</a></li>
+    <li id="q4-5">⑤ [E]에서 반대1은 부작용을 들어 ‘실행 효과·개선 이익’을 반박한다.<a class="src-tag" href="#ev4e">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -202,10 +202,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob5">
   <p class="q-stem">5. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q5-1">① ㉠: 폐사 개체 수 근거의 출처를 물어 ‘신뢰성’을 판단한다.<a class="src-tag" href="#ev5a">지문 근거</a></li>
-    <li id="q5-2">② ㉡: 외국 사례가 모두 주장을 뒷받침하는지 물어 ‘타당성’을 판단한다.<a class="src-tag" href="#ev5b">지문 근거</a></li>
-    <li id="q5-3">③ ㉢: 한 종에 치우쳐 다른 종 영향을 간과했는지 물어 ‘공정성’을 판단한다.<a class="src-tag" href="#ev5c">지문 근거</a></li>
-    <li id="q5-4">④ ㉣: 상대가 언급한 법이 주장을 뒷받침 못 함을 들어 ‘타당성’을 판단한다.<a class="src-tag" href="#ev5d">지문 근거</a></li>
+    <li id="q5-1">① ㉠: 폐사 개체 수 근거의 출처를 물어 ‘신뢰성’을 판단한다.<a class="src-tag" href="#ev5a">오답 근거지문 근거</a></li>
+    <li id="q5-2">② ㉡: 외국 사례가 모두 주장을 뒷받침하는지 물어 ‘타당성’을 판단한다.<a class="src-tag" href="#ev5b">오답 근거지문 근거</a></li>
+    <li id="q5-3">③ ㉢: 한 종에 치우쳐 다른 종 영향을 간과했는지 물어 ‘공정성’을 판단한다.<a class="src-tag" href="#ev5c">오답 근거지문 근거</a></li>
+    <li id="q5-4">④ ㉣: 상대가 언급한 법이 주장을 뒷받침 못 함을 들어 ‘타당성’을 판단한다.<a class="src-tag" href="#ev5d">오답 근거지문 근거</a></li>
     <li id="q5-5">⑤ ㉤: 인간 중심 자연관으로는 생태계를 보호할 수 없다는 점을 들어 ‘신뢰성’을 판단한다.<a class="src-tag ans" href="#ev3">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -267,11 +267,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob7">
   <p class="q-stem">7. (가)의 토론 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q7-1">① 1문단에 찬성 측 입론을 두 측면으로 나누어 정리한다.<a class="src-tag" href="#ev7a">지문 근거</a></li>
-    <li id="q7-2">② 1문단에 찬성 주장을 받아들일 때의 문제점을 요약한다.<a class="src-tag" href="#ev7a">지문 근거</a></li>
-    <li id="q7-3">③ 2문단에 양측이 언급하지 않은 사례(도롱뇽·산양 소송)로 정보를 추가한다.<a class="src-tag" href="#ev7c">지문 근거</a></li>
+    <li id="q7-1">① 1문단에 찬성 측 입론을 두 측면으로 나누어 정리한다.<a class="src-tag" href="#ev7a">오답 근거지문 근거</a></li>
+    <li id="q7-2">② 1문단에 찬성 주장을 받아들일 때의 문제점을 요약한다.<a class="src-tag" href="#ev7a">오답 근거지문 근거</a></li>
+    <li id="q7-3">③ 2문단에 양측이 언급하지 않은 사례(도롱뇽·산양 소송)로 정보를 추가한다.<a class="src-tag" href="#ev7c">오답 근거지문 근거</a></li>
     <li id="q7-4">④ 2문단에 양측 주장에 대해 새로운 근거를 들어 옹호하는 학생 의견을 인용한다.<a class="src-tag ans" href="#ev4">정답 근거</a></li>
-    <li id="q7-5">⑤ 3문단에 양측 관점을 간추리며 나아갈 방향을 제안한다.<a class="src-tag" href="#ev7e">지문 근거</a></li>
+    <li id="q7-5">⑤ 3문단에 양측 관점을 간추리며 나아갈 방향을 제안한다.<a class="src-tag" href="#ev7e">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -396,11 +396,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p><b>ㄱ. 통계</b>(ㄱ-1 펫코노미 성장 추이·전망 / ㄱ-2 양육 포기 고려 이유) · <b>ㄴ. 양육자 인터뷰</b>(유기견 입양 후 일상을 함께함) · <b>ㄷ. 신문 기사</b>(순수 양육비 +10%, 의료비 +68.2%로 부담 가중)</p>
   </div>
   <ul class="q-opts">
-    <li id="q10-1">① ㄱ-1: 펫코노미 성장이 계속될 전망 자료로 2문단에 활용.<a class="src-tag" href="#ev-q10-1">지문 근거</a></li>
-    <li id="q10-2">② ㄴ: 펫팸족의 실제 사례 자료로 1문단에 활용.<a class="src-tag" href="#ev-q10-2">지문 근거</a></li>
-    <li id="q10-3">③ ㄷ: 양육 비용 실태와 증가 추세 자료로 3문단에 활용.<a class="src-tag" href="#ev-q10-3">지문 근거</a></li>
+    <li id="q10-1">① ㄱ-1: 펫코노미 성장이 계속될 전망 자료로 2문단에 활용.<a class="src-tag" href="#ev-q10-1">오답 근거지문 근거</a></li>
+    <li id="q10-2">② ㄴ: 펫팸족의 실제 사례 자료로 1문단에 활용.<a class="src-tag" href="#ev-q10-2">오답 근거지문 근거</a></li>
+    <li id="q10-3">③ ㄷ: 양육 비용 실태와 증가 추세 자료로 3문단에 활용.<a class="src-tag" href="#ev-q10-3">오답 근거지문 근거</a></li>
     <li id="q10-4">④ ㄱ-1·ㄴ: 양육 포기를 예방하는 정책이 필요하다는 점을 뒷받침하는 자료로 2문단에 활용.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
-    <li id="q10-5">⑤ ㄱ-2·ㄷ: 비용 부담이 양육 포기 원인 중 하나임을 뒷받침하는 자료로 3문단에 활용.<a class="src-tag" href="#ev-q10-5">지문 근거</a></li>
+    <li id="q10-5">⑤ ㄱ-2·ㄷ: 비용 부담이 양육 포기 원인 중 하나임을 뒷받침하는 자료로 3문단에 활용.<a class="src-tag" href="#ev-q10-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -450,10 +450,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob11">
   <p class="q-stem">11. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q11-1">① 자음군 단순화는 음절 구조 제약으로 일어나는 음운 변동이다.<a class="src-tag" href="#ev7">지문 근거</a></li>
-    <li id="q11-2">② ‘ㅎ’ 탈락이 일어나는 조건에서는 자음군 단순화가 일어나지 않는다.<a class="src-tag" href="#ev7">지문 근거</a></li>
-    <li id="q11-3">③ 겹받침 뒤에 아무런 형태소가 오지 않으면 자음군 단순화가 일어난다.<a class="src-tag" href="#ev7">지문 근거</a></li>
-    <li id="q11-4">④ 같은 자음군이라도 조건에 따라 탈락하는 자음의 위치가 달라질 수 있다.<a class="src-tag" href="#ev8">지문 근거</a></li>
+    <li id="q11-1">① 자음군 단순화는 음절 구조 제약으로 일어나는 음운 변동이다.<a class="src-tag" href="#ev7">오답 근거지문 근거</a></li>
+    <li id="q11-2">② ‘ㅎ’ 탈락이 일어나는 조건에서는 자음군 단순화가 일어나지 않는다.<a class="src-tag" href="#ev7">오답 근거지문 근거</a></li>
+    <li id="q11-3">③ 겹받침 뒤에 아무런 형태소가 오지 않으면 자음군 단순화가 일어난다.<a class="src-tag" href="#ev7">오답 근거지문 근거</a></li>
+    <li id="q11-4">④ 같은 자음군이라도 조건에 따라 탈락하는 자음의 위치가 달라질 수 있다.<a class="src-tag" href="#ev8">오답 근거지문 근거</a></li>
     <li id="q11-5">⑤ 겹받침 뒤에 모음으로 시작하는 실질 형태소가 결합하면 자음군 단순화가 일어나지 않는다.<a class="src-tag ans" href="#ev7">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -648,11 +648,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob16">
   <p class="q-stem">16. 윗글을 통해 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q16-1">① 혈액에 도달한 약물은 여러 조직에 분포한다.<a class="src-tag" href="#ev10">지문 근거</a></li>
-    <li id="q16-2">② 경구 투여 약물은 항상 투여량의 일부만 혈액에 도달한다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q16-1">① 혈액에 도달한 약물은 여러 조직에 분포한다.<a class="src-tag" href="#ev10">오답 근거지문 근거</a></li>
+    <li id="q16-2">② 경구 투여 약물은 항상 투여량의 일부만 혈액에 도달한다.<a class="src-tag" href="#ev9">오답 근거지문 근거</a></li>
     <li id="q16-3">③ 농도 구배가 작은 경우에 약물은 낮은 농도에서 높은 농도로 이동한다.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
-    <li id="q16-4">④ 혈장 약물 농도보다 목표 조직의 약물 농도 측정이 더 어렵다.<a class="src-tag" href="#ev10">지문 근거</a></li>
-    <li id="q16-5">⑤ 주사형 액체제 약물은 정제제 약물과 달리 용매에 녹아 있다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q16-4">④ 혈장 약물 농도보다 목표 조직의 약물 농도 측정이 더 어렵다.<a class="src-tag" href="#ev10">오답 근거지문 근거</a></li>
+    <li id="q16-5">⑤ 주사형 액체제 약물은 정제제 약물과 달리 용매에 녹아 있다.<a class="src-tag" href="#ev9">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -749,10 +749,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q19-1">① ⓐ는 ⓑ에 비해 분자량이 적거나 지용성이 높은 약물일 것이다.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
-    <li id="q19-2">② ⓐ는 ⓒ와 달리 흡수 단계에서 초회통과효과가 발생할 것이다.<a class="src-tag" href="#ev9">지문 근거</a></li>
-    <li id="q19-3">③ ⓑ는 ⓒ에 비해 체내의 더 넓은 면적에 분포할 것이다.<a class="src-tag" href="#ev10">지문 근거</a></li>
-    <li id="q19-4">④ ㉮는 ㉰와 달리 복용 편의 성분이 포함된 경구 투여형 약제일 것이다.<a class="src-tag" href="#ev9">지문 근거</a></li>
-    <li id="q19-5">⑤ ㉯와 ㉰는 모두 활성 성분을 녹이기 위한 불활성 성분이 포함된 약제일 것이다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q19-2">② ⓐ는 ⓒ와 달리 흡수 단계에서 초회통과효과가 발생할 것이다.<a class="src-tag" href="#ev9">오답 근거지문 근거</a></li>
+    <li id="q19-3">③ ⓑ는 ⓒ에 비해 체내의 더 넓은 면적에 분포할 것이다.<a class="src-tag" href="#ev10">오답 근거지문 근거</a></li>
+    <li id="q19-4">④ ㉮는 ㉰와 달리 복용 편의 성분이 포함된 경구 투여형 약제일 것이다.<a class="src-tag" href="#ev9">오답 근거지문 근거</a></li>
+    <li id="q19-5">⑤ ㉯와 ㉰는 모두 활성 성분을 녹이기 위한 불활성 성분이 포함된 약제일 것이다.<a class="src-tag" href="#ev9">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -783,10 +783,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>‘혈장 약물 농도가 최대치에 도달한 시간(Ⓐ)’보다 ‘목표 조직 약효가 최대치에 도달한 시간(Ⓑ)’이 늦는 현상. 약물이 목표 조직까지 분포하는 데 시간이 걸리기 때문이다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q20-1">① 약물이 목표 조직 외 다른 조직에 더 분포하면 Ⓑ에서 약효 최대치는 낮아진다.<a class="src-tag" href="#ev10">지문 근거</a></li>
-    <li id="q20-2">② Ⓑ에서는 Ⓐ와 달리 목표 조직 농도가 혈장 농도보다 높다.<a class="src-tag" href="#ev10">지문 근거</a></li>
-    <li id="q20-3">③ 같은 약물이면 정제제가 액체제보다 Ⓐ–Ⓑ 간격이 더 넓다.<a class="src-tag" href="#ev9">지문 근거</a></li>
-    <li id="q20-4">④ 확산 계수가 큰 약물은 작은 약물보다 Ⓐ–Ⓑ 간격이 더 좁다.<a class="src-tag" href="#ev9">지문 근거</a></li>
+    <li id="q20-1">① 약물이 목표 조직 외 다른 조직에 더 분포하면 Ⓑ에서 약효 최대치는 낮아진다.<a class="src-tag" href="#ev10">오답 근거지문 근거</a></li>
+    <li id="q20-2">② Ⓑ에서는 Ⓐ와 달리 목표 조직 농도가 혈장 농도보다 높다.<a class="src-tag" href="#ev10">오답 근거지문 근거</a></li>
+    <li id="q20-3">③ 같은 약물이면 정제제가 액체제보다 Ⓐ–Ⓑ 간격이 더 넓다.<a class="src-tag" href="#ev9">오답 근거지문 근거</a></li>
+    <li id="q20-4">④ 확산 계수가 큰 약물은 작은 약물보다 Ⓐ–Ⓑ 간격이 더 좁다.<a class="src-tag" href="#ev9">오답 근거지문 근거</a></li>
     <li id="q20-5">⑤ 혈액에서 목표 조직으로 빠르게 분포되는 약물은 느린 약물보다 Ⓐ–Ⓑ 간격이 더 넓다.<a class="src-tag ans" href="#ev9">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -896,11 +896,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob22">
   <p class="q-stem">22. [A]~[E]에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q22-1">① [A]: 자연물을 통해 봄을 맞이하는 반가움을 드러낸다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q22-1">① [A]: 자연물을 통해 봄을 맞이하는 반가움을 드러낸다.<a class="src-tag" href="#ev16">오답 근거지문 근거</a></li>
     <li id="q22-2">② [B]: 아이들에게 농사일에 대한 고단함을 드러낸다.<a class="src-tag ans" href="#ev-q22-B">정답 근거</a></li>
-    <li id="q22-3">③ [C]: 노래를 부르며 노동 후의 상쾌함을 드러낸다.<a class="src-tag" href="#ev16">지문 근거</a></li>
-    <li id="q22-4">④ [D]: 산수에서 소일하는 즐거움을 드러낸다.<a class="src-tag" href="#ev14">지문 근거</a></li>
-    <li id="q22-5">⑤ [E]: 사계절의 정취를 모두 누리고 싶은 마음을 드러낸다.<a class="src-tag" href="#ev16">지문 근거</a></li>
+    <li id="q22-3">③ [C]: 노래를 부르며 노동 후의 상쾌함을 드러낸다.<a class="src-tag" href="#ev16">오답 근거지문 근거</a></li>
+    <li id="q22-4">④ [D]: 산수에서 소일하는 즐거움을 드러낸다.<a class="src-tag" href="#ev14">오답 근거지문 근거</a></li>
+    <li id="q22-5">⑤ [E]: 사계절의 정취를 모두 누리고 싶은 마음을 드러낸다.<a class="src-tag" href="#ev16">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -962,11 +962,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>사대부들은 머무는 공간을 바탕으로 현재 처지·소회·유학자로서의 지향을 드러낸다. (가)는 향촌 은거 화자의 안빈낙도, (나)는 섬 유배 화자의 다양한 심정을 드러낸다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q24-1">① (가)의 ‘넉넉지 않’지만 ‘서러운 줄 모’른다에서 향촌 생활에 만족함을 알 수 있다.<a class="src-tag" href="#ev-q24-1">지문 근거</a></li>
+    <li id="q24-1">① (가)의 ‘넉넉지 않’지만 ‘서러운 줄 모’른다에서 향촌 생활에 만족함을 알 수 있다.<a class="src-tag" href="#ev-q24-1">오답 근거지문 근거</a></li>
     <li id="q24-2">② (가)의 ‘새 술’ 후 ‘미끼 없는 낚싯대’에서 자연 속 유유자적을 알 수 있다.</li>
-    <li id="q24-3">③ (나)의 ‘죄명’을 진 ‘극중일월’에서 유배지 처지를 알 수 있다.<a class="src-tag" href="#ev-q24-3">지문 근거</a></li>
+    <li id="q24-3">③ (나)의 ‘죄명’을 진 ‘극중일월’에서 유배지 처지를 알 수 있다.<a class="src-tag" href="#ev-q24-3">오답 근거지문 근거</a></li>
     <li id="q24-4">④ (나)의 ‘조개 등’만큼 좁은 섬을 ‘세상 넓은 곳’으로 인식하는 데서 백성을 돌볼 사명감을 알 수 있다.<a class="src-tag ans" href="#ev17">정답 근거</a></li>
-    <li id="q24-5">⑤ (가)의 임금 걱정과 (나)의 ‘자식’처럼 여긴 ‘은덕’ 감사에서 유교적 충의를 알 수 있다.<a class="src-tag" href="#ev-q24-5a">지문 근거(가)</a><a class="src-tag" href="#ev-q24-5b">지문 근거(나)</a></li>
+    <li id="q24-5">⑤ (가)의 임금 걱정과 (나)의 ‘자식’처럼 여긴 ‘은덕’ 감사에서 유교적 충의를 알 수 있다.<a class="src-tag" href="#ev-q24-5a">오답 근거지문 근거(가)</a><a class="src-tag" href="#ev-q24-5b">오답 근거지문 근거(나)</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -997,11 +997,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>(다)는 낯선 것을 보면 짖는 촉나라 개의 고사로, 사람들이 그릇된 습성을 갖게 되는 상황에 문제의식을 드러낸다. <b>악을 일상으로 여기는</b> 세태를 우려하며, 군왕이 부정적 현실을 개선해야 함을 말한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q25-1">① ‘해를 보고 짖는’ 촉나라 ‘개’는 선을 꺼리는 사람을 빗댄 것이다.<a class="src-tag" href="#ev18">지문 근거</a></li>
+    <li id="q25-1">① ‘해를 보고 짖는’ 촉나라 ‘개’는 선을 꺼리는 사람을 빗댄 것이다.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
     <li id="q25-2">② ‘악을 항상 행하는 것’을 ‘신하가 크게 걱정’함은 익숙하지 않은 악을 따름에 대한 우려다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
-    <li id="q25-3">③ ‘악이 일상적이지 않게’ 함은 선을 일상으로 받아들이게 하는 방안이다.<a class="src-tag" href="#ev18">지문 근거</a></li>
-    <li id="q25-4">④ ‘군왕이 한번 마음을 바꾸’면 그릇된 세태를 바로잡을 수 있다.<a class="src-tag" href="#ev18">지문 근거</a></li>
-    <li id="q25-5">⑤ ‘올바름을 보고 짖는’ ‘이 세상’은 생소하다는 이유로 선을 배척하는 부정적 현실이다.<a class="src-tag" href="#ev18">지문 근거</a></li>
+    <li id="q25-3">③ ‘악이 일상적이지 않게’ 함은 선을 일상으로 받아들이게 하는 방안이다.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
+    <li id="q25-4">④ ‘군왕이 한번 마음을 바꾸’면 그릇된 세태를 바로잡을 수 있다.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
+    <li id="q25-5">⑤ ‘올바름을 보고 짖는’ ‘이 세상’은 생소하다는 이유로 선을 배척하는 부정적 현실이다.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1052,11 +1052,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob26">
   <p class="q-stem">26. 윗글을 읽고 답을 찾을 수 <strong>없는</strong> 질문은?</p>
   <ul class="q-opts">
-    <li id="q26-1">① 무권대리가 발생하는 상황은 어떤 경우인가?<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q26-2">② 표현대리가 성립하기 위한 요건은 무엇인가?<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q26-1">① 무권대리가 발생하는 상황은 어떤 경우인가?<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
+    <li id="q26-2">② 표현대리가 성립하기 위한 요건은 무엇인가?<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
     <li id="q26-3">③ 무권대리행위를 추인하기 위한 절차는 무엇인가?<a class="src-tag ans" href="#ev21">정답 근거 — 지문에 효과만, 절차 없음</a></li>
-    <li id="q26-4">④ 민법에서 표현대리를 규정하는 이유는 무엇인가?<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q26-5">⑤ 대리제도에서 계약의 법률효과를 받는 사람은 누구인가?<a class="src-tag" href="#ev21">지문 근거</a></li>
+    <li id="q26-4">④ 민법에서 표현대리를 규정하는 이유는 무엇인가?<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
+    <li id="q26-5">⑤ 대리제도에서 계약의 법률효과를 받는 사람은 누구인가?<a class="src-tag" href="#ev21">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1083,10 +1083,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob27">
   <p class="q-stem">27. 윗글을 통해 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 44.0%</span></p>
   <ul class="q-opts">
-    <li id="q27-1">① 무권대리행위의 법률효과는 원칙상 본인·대리인 모두에게 발생하지 않는다.<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q27-2">② 대리권이 소멸했을 때 외관을 정리할 책임은 본인에게 있다.<a class="src-tag" href="#ev20">지문 근거</a></li>
-    <li id="q27-3">③ 본인이 추인하면 상대방은 기대했던 이익을 얻을 수 있다.<a class="src-tag" href="#ev21">지문 근거</a></li>
-    <li id="q27-4">④ 표현대리가 성립해도 상대방이 주장해야 효력이 본인에게 미친다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q27-1">① 무권대리행위의 법률효과는 원칙상 본인·대리인 모두에게 발생하지 않는다.<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
+    <li id="q27-2">② 대리권이 소멸했을 때 외관을 정리할 책임은 본인에게 있다.<a class="src-tag" href="#ev20">오답 근거지문 근거</a></li>
+    <li id="q27-3">③ 본인이 추인하면 상대방은 기대했던 이익을 얻을 수 있다.<a class="src-tag" href="#ev21">오답 근거지문 근거</a></li>
+    <li id="q27-4">④ 표현대리가 성립해도 상대방이 주장해야 효력이 본인에게 미친다.<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
     <li id="q27-5">⑤ 대리권을 안 줬는데 줬다고 제3자에게 말하면 그 특정인에게 기본대리권이 생긴다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1148,10 +1148,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   </div>
   <ul class="q-opts">
     <li id="q29-1">① [사례1]에서 ○○은행이 표현대리를 주장하지 않더라도, ‘갑’이 추인하면 ○○은행에 2천만 원만 갚으면 된다.<a class="src-tag ans" href="#ev21">정답 근거</a></li>
-    <li id="q29-2">② [사례1]에서 은행은 ‘을’에게 대리권이 있다고 믿을 수밖에 없었으므로 표현대리를 주장할 수 있다.<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q29-3">③ [사례2]에서 ‘무’가 ‘병’ 사망 전에도 ‘정’과 거래한 적이 있다면 대리권 소멸 후의 표현대리를 주장할 수 있다.<a class="src-tag" href="#ev20">지문 근거</a></li>
-    <li id="q29-4">④ [사례2]에서 표현대리가 인정되면 ‘무’는 매매대금 지급 의무와 소유권 이전 청구권을 가진다.<a class="src-tag" href="#ev19">지문 근거</a></li>
-    <li id="q29-5">⑤ [사례1]의 ‘을’은 권한 초과, [사례2]의 ‘정’은 대리권 없이 행위한 점에서 모두 무권대리다.<a class="src-tag" href="#ev19">지문 근거</a></li>
+    <li id="q29-2">② [사례1]에서 은행은 ‘을’에게 대리권이 있다고 믿을 수밖에 없었으므로 표현대리를 주장할 수 있다.<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
+    <li id="q29-3">③ [사례2]에서 ‘무’가 ‘병’ 사망 전에도 ‘정’과 거래한 적이 있다면 대리권 소멸 후의 표현대리를 주장할 수 있다.<a class="src-tag" href="#ev20">오답 근거지문 근거</a></li>
+    <li id="q29-4">④ [사례2]에서 표현대리가 인정되면 ‘무’는 매매대금 지급 의무와 소유권 이전 청구권을 가진다.<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
+    <li id="q29-5">⑤ [사례1]의 ‘을’은 권한 초과, [사례2]의 ‘정’은 대리권 없이 행위한 점에서 모두 무권대리다.<a class="src-tag" href="#ev19">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1269,11 +1269,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob32">
   <p class="q-stem">32. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q32-1">① 사람들이 모두 하산 아저씨를 두려워한 것은 아니었다.<a class="src-tag" href="#ev25">지문 근거</a></li>
+    <li id="q32-1">① 사람들이 모두 하산 아저씨를 두려워한 것은 아니었다.<a class="src-tag" href="#ev25">오답 근거지문 근거</a></li>
     <li id="q32-2">② 하산 아저씨는 금식 기간에도 가게 일을 하느라 지쳐 있었다.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
-    <li id="q32-3">③ 하산 아저씨는 ‘나’가 난폭하게 된 원인이 ‘나’ 자신에게 있다고 말했다.<a class="src-tag" href="#ev27">지문 근거</a></li>
-    <li id="q32-4">④ ‘나’는 지도를 보여 주려 하산 아저씨가 깨어나기를 기다렸다.<a class="src-tag" href="#ev27">지문 근거</a></li>
-    <li id="q32-5">⑤ ‘나’는 세계지도를 만들려 스크랩한 얼굴들을 재배열했다.<a class="src-tag" href="#ev24">지문 근거</a></li>
+    <li id="q32-3">③ 하산 아저씨는 ‘나’가 난폭하게 된 원인이 ‘나’ 자신에게 있다고 말했다.<a class="src-tag" href="#ev27">오답 근거지문 근거</a></li>
+    <li id="q32-4">④ ‘나’는 지도를 보여 주려 하산 아저씨가 깨어나기를 기다렸다.<a class="src-tag" href="#ev27">오답 근거지문 근거</a></li>
+    <li id="q32-5">⑤ ‘나’는 세계지도를 만들려 스크랩한 얼굴들을 재배열했다.<a class="src-tag" href="#ev24">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1332,11 +1332,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>이 작품은 편견·차별로 상처받은 사회적 약자를 그린다. 그들은 현실을 부정적으로 인식할 때도 있지만 단순히 피해자로 머무르지 않는다. 외모 차이가 차별의 이유가 될 수 없음을 보여 주고, 서로의 상처를 보듬으며 위로한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q34-1">① ‘다르다’는 이유로 하산을 ‘두려워하는’ 것은 사람들의 편견을 보여 준다.<a class="src-tag" href="#ev24">지문 근거</a></li>
-    <li id="q34-2">② ‘나’가 선택한 얼굴이 ‘전형적 한국인 얼굴’과 달라진 것은 외모가 차별의 이유가 될 수 없음을 보여 준다.<a class="src-tag" href="#ev24">지문 근거</a></li>
-    <li id="q34-3">③ 하산이 ‘나’를 ‘넓은 가슴팍에 품’는 것은 상처를 보듬어 위로하는 모습이다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q34-1">① ‘다르다’는 이유로 하산을 ‘두려워하는’ 것은 사람들의 편견을 보여 준다.<a class="src-tag" href="#ev24">오답 근거지문 근거</a></li>
+    <li id="q34-2">② ‘나’가 선택한 얼굴이 ‘전형적 한국인 얼굴’과 달라진 것은 외모가 차별의 이유가 될 수 없음을 보여 준다.<a class="src-tag" href="#ev24">오답 근거지문 근거</a></li>
+    <li id="q34-3">③ 하산이 ‘나’를 ‘넓은 가슴팍에 품’는 것은 상처를 보듬어 위로하는 모습이다.<a class="src-tag" href="#ev27">오답 근거지문 근거</a></li>
     <li id="q34-4">④ ‘나’가 하산의 ‘더 많은 이야기’를 들으려 ‘기다렸다’는 것은 하산이 피해자로 머무르지 않기를 바라는 ‘나’의 마음이다.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
-    <li id="q34-5">⑤ ‘나’의 흉터가 ‘역사가 날염된 흉터’라는 것은 이들이 상처를 입고 살아온 약자임을 보여 준다.<a class="src-tag" href="#ev27">지문 근거</a></li>
+    <li id="q34-5">⑤ ‘나’의 흉터가 ‘역사가 날염된 흉터’라는 것은 이들이 상처를 입고 살아온 약자임을 보여 준다.<a class="src-tag" href="#ev27">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1433,10 +1433,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob36">
   <p class="q-stem">36. ㉠~㉤의 의미를 고려하여 (나)를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q36-1">① ㉠(늘): 화자가 지속적으로 고래의 꿈을 품고 있음.<a class="src-tag" href="#ev-q36-5">지문 근거</a></li>
-    <li id="q36-2">② ㉡(언젠가): 고래와의 만남이 실현되리라는 막연한 기대.<a class="src-tag" href="#ev-q36-5">지문 근거</a></li>
-    <li id="q36-3">③ ㉢(여전히): 고래가 존재한다는 변함없는 믿음.<a class="src-tag" href="#ev-q36-5">지문 근거</a></li>
-    <li id="q36-4">④ ㉣(아직): 꿈이 이루어질 가능성이 남아 있음.<a class="src-tag" href="#ev-q36-5">지문 근거</a></li>
+    <li id="q36-1">① ㉠(늘): 화자가 지속적으로 고래의 꿈을 품고 있음.<a class="src-tag" href="#ev-q36-5">오답 근거지문 근거</a></li>
+    <li id="q36-2">② ㉡(언젠가): 고래와의 만남이 실현되리라는 막연한 기대.<a class="src-tag" href="#ev-q36-5">오답 근거지문 근거</a></li>
+    <li id="q36-3">③ ㉢(여전히): 고래가 존재한다는 변함없는 믿음.<a class="src-tag" href="#ev-q36-5">오답 근거지문 근거</a></li>
+    <li id="q36-4">④ ㉣(아직): 꿈이 이루어질 가능성이 남아 있음.<a class="src-tag" href="#ev-q36-5">오답 근거지문 근거</a></li>
     <li id="q36-5">⑤ ㉤(쏜살같이): 고래보다 앞서 나아가려는 화자의 열정.<a class="src-tag ans" href="#ev-q36-5">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1468,10 +1468,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>(가)는 밥·반찬에 대한 유대감을 바탕으로 부정적 현실에서도 <b>순수한 삶</b>을 지향한다. (나)는 고래에 대한 상상력으로 희망에 대한 회의적 시선에 맞서 <b>꿈을 포기하지 않겠다</b>는 의지를 드러낸다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q37-1">① (가)의 ‘흰밥과 가자미와 나’를 ‘무슨 이야기’든 할 수 있는 관계로 여김은 친밀감을 보여 준다.<a class="src-tag" href="#ev28">지문 근거</a></li>
-    <li id="q37-2">② (가)의 ‘세상 같은 건 밖에’ 두어도 ‘좋을 것 같다’는 세상의 이해관계에서 벗어난 삶을 추구한다.<a class="src-tag" href="#ev28">지문 근거</a></li>
-    <li id="q37-3">③ (나)의 ‘누군가’가 ‘그런 커다란 꿈’을 부정함은 화자가 희망에 대한 불신을 마주함을 보여 준다.<a class="src-tag" href="#ev-q36-5">지문 근거</a></li>
-    <li id="q37-4">④ (나)의 ‘깨진 파도의 유리창’을 ‘갈아 끼’우겠다는 것은 꿈을 향해 전진하려는 다짐이다.<a class="src-tag" href="#ev-q36-5">지문 근거</a></li>
+    <li id="q37-1">① (가)의 ‘흰밥과 가자미와 나’를 ‘무슨 이야기’든 할 수 있는 관계로 여김은 친밀감을 보여 준다.<a class="src-tag" href="#ev28">오답 근거지문 근거</a></li>
+    <li id="q37-2">② (가)의 ‘세상 같은 건 밖에’ 두어도 ‘좋을 것 같다’는 세상의 이해관계에서 벗어난 삶을 추구한다.<a class="src-tag" href="#ev28">오답 근거지문 근거</a></li>
+    <li id="q37-3">③ (나)의 ‘누군가’가 ‘그런 커다란 꿈’을 부정함은 화자가 희망에 대한 불신을 마주함을 보여 준다.<a class="src-tag" href="#ev-q36-5">오답 근거지문 근거</a></li>
+    <li id="q37-4">④ (나)의 ‘깨진 파도의 유리창’을 ‘갈아 끼’우겠다는 것은 꿈을 향해 전진하려는 다짐이다.<a class="src-tag" href="#ev-q36-5">오답 근거지문 근거</a></li>
     <li id="q37-5">⑤ (가)의 ‘외따른 산골’은 화자가 궁핍하게 사는 공간을, (나)의 ‘진주의 계곡’·’새 뻘집’은 화자의 꿈이 실현된 공간을 보여 준다.<a class="src-tag ans" href="#ev-q37-5a">정답 근거(가) 근거</a><a class="src-tag ans" href="#ev-q37-5b">정답 근거(나) 근거</a></li>
   </ul>
   <details class="solution">
@@ -1558,10 +1558,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">39. (가), (나)를 이해한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 41.9%</span></p>
   <ul class="q-opts">
     <li id="q39-1">① (가): ‘역사상의 사실’은 변화·재해석이 어려워 정태적이다.<a class="src-tag ans" href="#ev32">정답 근거</a></li>
-    <li id="q39-2">② (가): ‘역사적 사실’은 ‘역사상의 사실’이 보편적 중요성을 인정받은 것이다.<a class="src-tag" href="#ev31">지문 근거</a></li>
-    <li id="q39-3">③ (나): ‘지시적 불투명성’은 언어가 실재를 표상하는 과정에서 필연적이다.<a class="src-tag" href="#ev33">지문 근거</a></li>
-    <li id="q39-4">④ (나): 사료가 텍스트로 재개념화되며 연구 범위가 해석 가능한 모든 대상으로 확대됐다.<a class="src-tag" href="#ev33">지문 근거</a></li>
-    <li id="q39-5">⑤ (나): ‘담론’은 특정 입장을 중심 가치로 만들고 권력·이데올로기 형성에 영향을 준다.<a class="src-tag" href="#ev33">지문 근거</a></li>
+    <li id="q39-2">② (가): ‘역사적 사실’은 ‘역사상의 사실’이 보편적 중요성을 인정받은 것이다.<a class="src-tag" href="#ev31">오답 근거지문 근거</a></li>
+    <li id="q39-3">③ (나): ‘지시적 불투명성’은 언어가 실재를 표상하는 과정에서 필연적이다.<a class="src-tag" href="#ev33">오답 근거지문 근거</a></li>
+    <li id="q39-4">④ (나): 사료가 텍스트로 재개념화되며 연구 범위가 해석 가능한 모든 대상으로 확대됐다.<a class="src-tag" href="#ev33">오답 근거지문 근거</a></li>
+    <li id="q39-5">⑤ (나): ‘담론’은 특정 입장을 중심 가치로 만들고 권력·이데올로기 형성에 영향을 준다.<a class="src-tag" href="#ev33">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1593,11 +1593,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <b>B</b>: 역사학은 과학적 방법론에 기반해야 하며, 주관적 해석을 최소화하고 과거를 있는 그대로 복원·전달하는 것이 역사가의 과제다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q40-1">① A(독자 해석)와 (가) 카(역사가 주체)는 모두 역사적 의미의 변화 가능성에 동의하겠군.<a class="src-tag" href="#ev32">지문 근거</a></li>
-    <li id="q40-2">② A(기표 조합)와 (나) 비트겐슈타인(실재 표상 어려움)은 모두 언어적 서술의 한계에 동의하겠군.<a class="src-tag" href="#ev33">지문 근거</a></li>
+    <li id="q40-1">① A(독자 해석)와 (가) 카(역사가 주체)는 모두 역사적 의미의 변화 가능성에 동의하겠군.<a class="src-tag" href="#ev32">오답 근거지문 근거</a></li>
+    <li id="q40-2">② A(기표 조합)와 (나) 비트겐슈타인(실재 표상 어려움)은 모두 언어적 서술의 한계에 동의하겠군.<a class="src-tag" href="#ev33">오답 근거지문 근거</a></li>
     <li id="q40-3">③ B(가감 없는 전달)와 (가) 카(상상적 이해)는 모두 역사가의 자아를 소거해야 한다는 데 동의하겠군.<a class="src-tag ans" href="#ev33">정답 근거</a></li>
-    <li id="q40-4">④ B(과학적 방법론)에 대해 (가) 콜링우드는 객관성 확보가 어렵다며 비판하겠군.<a class="src-tag" href="#ev33">지문 근거</a></li>
-    <li id="q40-5">⑤ B(객관적 복원)에 대해 (나) 소쉬르는 기표·기의의 간극을 근거로 부정적이겠군.<a class="src-tag" href="#ev33">지문 근거</a></li>
+    <li id="q40-4">④ B(과학적 방법론)에 대해 (가) 콜링우드는 객관성 확보가 어렵다며 비판하겠군.<a class="src-tag" href="#ev33">오답 근거지문 근거</a></li>
+    <li id="q40-5">⑤ B(객관적 복원)에 대해 (나) 소쉬르는 기표·기의의 간극을 근거로 부정적이겠군.<a class="src-tag" href="#ev33">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1713,11 +1713,11 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob43">
   <p class="q-stem">43. 윗글에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 60.9%</span></p>
   <ul class="q-opts">
-    <li id="q43-1">① ‘활수’는 항복하라는 ‘호왕’의 협박에 굴복하지 않는다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q43-1">① ‘활수’는 항복하라는 ‘호왕’의 협박에 굴복하지 않는다.<a class="src-tag" href="#ev38">오답 근거지문 근거</a></li>
     <li id="q43-2">② ‘철남’은 부채로 흑운을 일으켜 번져오는 불길을 끈다.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
-    <li id="q43-3">③ ‘화룡’은 ‘철남’이 불길을 피해 마주 나왔다고 착각한다.<a class="src-tag" href="#ev36">지문 근거</a></li>
-    <li id="q43-4">④ ‘황제’는 ‘백봉’·’백선’이 ‘철남’에게 패배했다고 생각한다.<a class="src-tag" href="#ev36">지문 근거</a></li>
-    <li id="q43-5">⑤ ‘백봉’은 운무 때문에 적진에서 적과 아군을 구분하지 못한다.<a class="src-tag" href="#ev36">지문 근거</a></li>
+    <li id="q43-3">③ ‘화룡’은 ‘철남’이 불길을 피해 마주 나왔다고 착각한다.<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
+    <li id="q43-4">④ ‘황제’는 ‘백봉’·’백선’이 ‘철남’에게 패배했다고 생각한다.<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
+    <li id="q43-5">⑤ ‘백봉’은 운무 때문에 적진에서 적과 아군을 구분하지 못한다.<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1779,10 +1779,10 @@ summary: "2025년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>이 작품은 국난 극복과 가족 구출이 함께 드러나는 영웅 소설이다. 다른 영웅 소설과 달리 <b>여러 영웅</b>이 등장하고, <b>적대자의 능력도 뛰어나며</b>, 영웅과 적대자에게 <b>도움을 주는 존재가 각각</b> 있다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q45-1">① 백봉·백선·화룡이 함께 철남과 대결하는 데서 다수의 영웅을 확인할 수 있다.<a class="src-tag" href="#ev36">지문 근거</a></li>
-    <li id="q45-2">② 철남이 세 장수를 유인하고 황제에게 가는 데서 적대자의 뛰어난 지략을 확인할 수 있다.<a class="src-tag" href="#ev36">지문 근거</a></li>
-    <li id="q45-3">③ 백봉·백선이 세자를 구출하고 황제를 구하는 데서 국난 극복 과정을 확인할 수 있다.<a class="src-tag" href="#ev36">지문 근거</a></li>
-    <li id="q45-4">④ 백봉에게 망월대사가, 철남에게 신장이 있는 데서 조력자가 각각 있음을 확인할 수 있다.<a class="src-tag" href="#ev38">지문 근거</a></li>
+    <li id="q45-1">① 백봉·백선·화룡이 함께 철남과 대결하는 데서 다수의 영웅을 확인할 수 있다.<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
+    <li id="q45-2">② 철남이 세 장수를 유인하고 황제에게 가는 데서 적대자의 뛰어난 지략을 확인할 수 있다.<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
+    <li id="q45-3">③ 백봉·백선이 세자를 구출하고 황제를 구하는 데서 국난 극복 과정을 확인할 수 있다.<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
+    <li id="q45-4">④ 백봉에게 망월대사가, 철남에게 신장이 있는 데서 조력자가 각각 있음을 확인할 수 있다.<a class="src-tag" href="#ev38">오답 근거지문 근거</a></li>
     <li id="q45-5">⑤ 백봉이 후퇴하는 호왕을 쫓지 않고 활수에게 향하는 데서 가족을 구하려는 모습을 확인할 수 있다.<a class="src-tag ans" href="#ev38">정답 근거</a></li>
   </ul>
   <details class="solution">

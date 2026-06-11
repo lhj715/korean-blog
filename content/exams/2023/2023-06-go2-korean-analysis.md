@@ -40,28 +40,28 @@ layout: "exam"
   </div>
   <ul class="q-opts"><li id="q2-1">① 식물에 관심이 적을 것임.
 →
-청중에게 익숙한 소재를 예로 들어야지.<a class="src-tag" href="#ev-q2-1">지문 근거</a></li>
+청중에게 익숙한 소재를 예로 들어야지.<a class="src-tag" href="#ev-q2-1">오답 근거지문 근거</a></li>
  <li id="q2-2">② 강연의 목적을 궁금해 할 것임.
 →
-식물에 학명을 붙이는 방법을 알려 주는 것이 강연의 목적임을 밝혀야지.<a class="src-tag" href="#ev-q2-2">지문 근거</a></li>
+식물에 학명을 붙이는 방법을 알려 주는 것이 강연의 목적임을 밝혀야지.<a class="src-tag" href="#ev-q2-2">오답 근거지문 근거</a></li>
  <li id="q2-3">③ 이명법에 대한 배경지식이 부족할 것임.
 →
-이명법의 개념을 제시하고 그와 관련된 정보를 제공해야지.<a class="src-tag" href="#ev-q2-3">지문 근거</a></li>
+이명법의 개념을 제시하고 그와 관련된 정보를 제공해야지.<a class="src-tag" href="#ev-q2-3">오답 근거지문 근거</a></li>
  <li id="q2-4">④ 학명과 명명자 사이의 관계를 모를 것임.
 →
 학명에 명명자 이름을 표기하는 기준을 언급해야지.</li>
  <li id="q2-5">⑤ 라틴어 발음에 익숙하지 않을 것임.
 →
-라틴어로 표기된 학명에 우리말 발음을 덧붙여 시각 자료로 제시해야지.<a class="src-tag" href="#ev-q2-5">지문 근거</a></li></ul>
+라틴어로 표기된 학명에 우리말 발음을 덧붙여 시각 자료로 제시해야지.<a class="src-tag" href="#ev-q2-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 청중 분석에 따른 강연 전략을 본다.</p><p>강연은 명명자를 ‘생략할 수 있다’고만 언급했을 뿐(4문단), ④의 ‘명명자 이름을 표기하는 기준’은 다루지 않았다. 반영되지 않은 ④가 정답이다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>1문단에서 익숙한 소재 ‘무궁화’를 예로 듦(반영됨).</td></tr><tr><td>②</td><td>오답</td><td>1문단에서 ‘학명 붙이는 방법을 알아본다’며 목적을 밝힘(반영됨).</td></tr><tr><td>③</td><td>오답</td><td>3·4문단에서 이명법 개념과 속명·종소명 정보를 제공함(반영됨).</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>명명자는 ‘생략 가능’만 언급, 표기하는 ‘기준’은 제시하지 않음.</td></tr><tr><td>⑤</td><td>오답</td><td>1문단에서 라틴어 학명에 우리말 발음을 덧붙인 시각 자료 제시(반영됨).</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob3">
   <p class="q-stem">3. 다음은 학생이 강연을 들으면서 작성한 메모이다. 이를 바탕으로 학생의 듣기 과정을 이해한 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q3-1">① ⓐ: 학명의 필요성을 인지한 것으로 보아, 강연 내용을 바탕으로 새로운 지식을 수용하며 들었겠군.<a class="src-tag" href="#ev-q3-1">지문 근거</a></li>
+  <ul class="q-opts"><li id="q3-1">① ⓐ: 학명의 필요성을 인지한 것으로 보아, 강연 내용을 바탕으로 새로운 지식을 수용하며 들었겠군.<a class="src-tag" href="#ev-q3-1">오답 근거지문 근거</a></li>
  <li id="q3-2">② ⓑ: 강연 이후 조사할 내용을 작성한 것으로 보아, 강연 내용과 관련하여 더 알고 싶은 점을 떠올리며 들었겠군.</li>
- <li id="q3-3">③ ⓒ: 강연 내용의 일부를 공통점과 차이점으로 나누어 정리한 것으로 보아, 세부 정보들의 관계를 확인하며 들었겠군.<a class="src-tag" href="#ev-q3-3">지문 근거</a></li>
- <li id="q3-4">④ ⓓ: 히비스커스차와 무궁화의 연관성을 추측한 것으로 보아, 강연 내용을 자기 경험과 관련지으며 들었겠군.<a class="src-tag" href="#ev-q3-4">지문 근거</a></li>
+ <li id="q3-3">③ ⓒ: 강연 내용의 일부를 공통점과 차이점으로 나누어 정리한 것으로 보아, 세부 정보들의 관계를 확인하며 들었겠군.<a class="src-tag" href="#ev-q3-3">오답 근거지문 근거</a></li>
+ <li id="q3-4">④ ⓓ: 히비스커스차와 무궁화의 연관성을 추측한 것으로 보아, 강연 내용을 자기 경험과 관련지으며 들었겠군.<a class="src-tag" href="#ev-q3-4">오답 근거지문 근거</a></li>
  <li id="q3-5">⑤ ⓔ: 강연 자료의 준비 부족을 언급한 것으로 보아, 강연 내용의 신뢰성 여부를 따지며 들었겠군.16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 학생 반응(ⓐ~ⓔ) 분석의 적절성을 본다.</p><p>ⓔ는 학생 자신이 더 알아보지 못한 아쉬움일 뿐, 강연 자료의 준비 부족을 지적한 것으로 보기 어렵다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>ⓐ: 학명의 필요성을 새로 알게 됨 → 새로운 지식을 수용하며 들음.</td></tr><tr><td>②</td><td>오답</td><td>ⓑ: 동물의 속명·종소명을 찾아보겠다 함 → 더 알고 싶은 점을 떠올림.</td></tr><tr><td>③</td><td>오답</td><td>ⓒ: 속명과 종소명을 공통점·차이점으로 정리 → 세부 정보의 관계 확인.</td></tr><tr><td>④</td><td>오답</td><td>ⓓ: 마셔 본 히비스커스차를 무궁화와 관련지음 → 자기 경험과 관련지어 들음.</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ⓔ는 그림을 못 본 아쉬움일 뿐, 강연 내용의 ‘신뢰성’을 따진 것은 아니다.</td></tr></tbody></table></div></details>
 </div>
@@ -126,8 +126,8 @@ layout: "exam"
 
 <div class="q-block" id="prob6">
   <p class="q-stem">6. (가)와 (나)의 맥락을 고려할 때, (가)를 읽고 (나)를 참관한 학생이 보인 반응으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q6-1">① ㉠을 들으니, 회의에서 언급한 조사 결과는 학교 누리집과 누리소통망(SNS)을 통해 취합한 것이겠군.<a class="src-tag" href="#ev-q6-1">지문 근거</a></li>
- <li id="q6-2">② ㉡을 들으니, 평소 학생회실을 학생회 임원만 이용해서 학생회실에 대해 학생들이 잘 몰랐겠군.<a class="src-tag" href="#ev-q6-2">지문 근거</a></li>
+  <ul class="q-opts"><li id="q6-1">① ㉠을 들으니, 회의에서 언급한 조사 결과는 학교 누리집과 누리소통망(SNS)을 통해 취합한 것이겠군.<a class="src-tag" href="#ev-q6-1">오답 근거지문 근거</a></li>
+ <li id="q6-2">② ㉡을 들으니, 평소 학생회실을 학생회 임원만 이용해서 학생회실에 대해 학생들이 잘 몰랐겠군.<a class="src-tag" href="#ev-q6-2">오답 근거지문 근거</a></li>
  <li id="q6-3">③ ㉢을 들으니, 학생자치실 사용을 예약제로 운영하자는 것은 학생자치실의 위치를 고려한 의견이겠군.</li>
  <li id="q6-4">④ ㉣을 들으니, 학생자치실의 공간 구성 방안은 회의 전에는 계획되지 않은 내용이겠군.</li>
  <li id="q6-5">⑤ ㉤을 들으니, 학생자치실 공간 구성에 동아리 학생들의 도움을 받자는 것은 학생 참여를 지향하는 사업 방향에 맞는 제안이겠군.</li></ul>
@@ -162,11 +162,11 @@ layout: "exam"
 
 <div class="q-block" id="prob8">
   <p class="q-stem">8. 초고를 쓰기 위해 떠올린 생각 중 (나)에 반영되지 않은 것은?</p>
-  <ul class="q-opts"><li id="q8-1">① 특정 용어를 분석하여 독자가 그 의미를 쉽게 받아들이도록 해야겠어.<a class="src-tag" href="#ev-q8-1">지문 근거</a></li>
+  <ul class="q-opts"><li id="q8-1">① 특정 용어를 분석하여 독자가 그 의미를 쉽게 받아들이도록 해야겠어.<a class="src-tag" href="#ev-q8-1">오답 근거지문 근거</a></li>
  <li id="q8-2">② 가치 소비를 접한 경험을 언급하여 독자가 가치 소비에 흥미를 느끼도록 해야겠어.</li>
- <li id="q8-3">③ 미닝 아웃의 여러 형태를 제시하여 독자가 글을 이해하는 데 도움이 되도록 해야겠어.<a class="src-tag" href="#ev-q8-3">지문 근거</a></li>
- <li id="q8-4">④ 가치 소비에 대해 다룰 내용을 제시하여 독자가 뒤에 이어질 내용을 추측하도록 해야겠어.<a class="src-tag" href="#ev-q8-4">지문 근거</a></li>
- <li id="q8-5">⑤ 가치 소비의 의의를 언급하여 독자가 가치 소비에 지속적으로 관심을 가지도록 해야겠어.<a class="src-tag" href="#ev-q8-5">지문 근거</a>
+ <li id="q8-3">③ 미닝 아웃의 여러 형태를 제시하여 독자가 글을 이해하는 데 도움이 되도록 해야겠어.<a class="src-tag" href="#ev-q8-3">오답 근거지문 근거</a></li>
+ <li id="q8-4">④ 가치 소비에 대해 다룰 내용을 제시하여 독자가 뒤에 이어질 내용을 추측하도록 해야겠어.<a class="src-tag" href="#ev-q8-4">오답 근거지문 근거</a></li>
+ <li id="q8-5">⑤ 가치 소비의 의의를 언급하여 독자가 가치 소비에 지속적으로 관심을 가지도록 해야겠어.<a class="src-tag" href="#ev-q8-5">오답 근거지문 근거</a>
 [A]
 16</li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 초고에 반영된 작문 계획을 본다.</p><p>(나)에서 가치 소비를 접한 경험은 언급되지 않았다. ②가 반영되지 않았다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘미닝 아웃’을 ‘미닝’과 ‘커밍 아웃’으로 분석해 의미를 쉽게 전달(3문단·반영됨).</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>(나)에 가치 소비를 접한 ‘경험’을 언급한 부분이 없다.</td></tr><tr><td>③</td><td>오답</td><td>SNS 게시·구매 유도·불매 등 미닝 아웃의 여러 형태 제시(3문단·반영됨).</td></tr><tr><td>④</td><td>오답</td><td>개념·실천 사례·의의를 다룰 것이라 예고(1문단·반영됨).</td></tr><tr><td>⑤</td><td>오답</td><td>장기적으로 선한 영향력을 미친다는 의의 언급(4문단·반영됨).</td></tr></tbody></table></div></details>
@@ -214,11 +214,11 @@ layout: "exam"
 
 <div class="q-block" id="prob11">
   <p class="q-stem">11. 윗글을 읽고 보인 반응으로 적절하지 않은 것은? <span class="q-rate">오답률 59.5%</span></p>
-  <ul class="q-opts"><li id="q11-1">① 관형사는 그 형태가 변하지 않는군.<a class="src-tag" href="#ev-q11-1">지문 근거</a></li>
- <li id="q11-2">② 관형사와 관형어는 모두 체언을 꾸며 주는군.<a class="src-tag" href="#ev-q11-2">지문 근거</a></li>
- <li id="q11-3">③ 관형어가 항상 관형사를 통해 실현되는 것은 아니군.<a class="src-tag" href="#ev-q11-3">지문 근거</a></li>
+  <ul class="q-opts"><li id="q11-1">① 관형사는 그 형태가 변하지 않는군.<a class="src-tag" href="#ev-q11-1">오답 근거지문 근거</a></li>
+ <li id="q11-2">② 관형사와 관형어는 모두 체언을 꾸며 주는군.<a class="src-tag" href="#ev-q11-2">오답 근거지문 근거</a></li>
+ <li id="q11-3">③ 관형어가 항상 관형사를 통해 실현되는 것은 아니군.<a class="src-tag" href="#ev-q11-3">오답 근거지문 근거</a></li>
  <li id="q11-4">④ 두 명사가 나란히 올 때 앞 명사는 관형사가 될 수 있군.<a class="src-tag ans" href="#ev11">정답 근거</a></li>
- <li id="q11-5">⑤ 형용사는 관형사형 어미가 결합하더라도 관형사가 될 수 없군.<a class="src-tag" href="#ev-q11-5">지문 근거</a></li></ul>
+ <li id="q11-5">⑤ 형용사는 관형사형 어미가 결합하더라도 관형사가 될 수 없군.<a class="src-tag" href="#ev-q11-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 관형사와 관형어를 구별한다.</p><p>두 명사가 나란히 올 때 앞 명사는 관형어로 쓰일 뿐, 관형사로 품사가 바뀌는 것은 아니다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘헌’은 조사와 결합 않고 고정된 형태로만 쓰임(3문단·맞음).</td></tr><tr><td>②</td><td>오답</td><td>관형사·관형어 모두 체언을 꾸밈(1문단·맞음).</td></tr><tr><td>③</td><td>오답</td><td>관형어는 관형사 외에 조사 결합·어미 결합 등으로도 실현됨(2문단·맞음).</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>앞 명사는 ‘관형어’로 쓰일 뿐, ‘관형사’로 품사가 바뀌지는 않는다.</td></tr><tr><td>⑤</td><td>오답</td><td>‘예쁜’은 형용사의 관형사형일 뿐 관형사가 아님(4문단·맞음).</td></tr></tbody></table></div></details>
 </div>
 
@@ -326,11 +326,11 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>&lt; 보기&gt;<br>(가)는 구강이 암행어사로 겨울에 북관을 지나면서 경험한 일을 바탕으로 쓴 가사이다. 어사로서 임무를 수행하며 백성들의 피폐한 삶과 지방 관리들의 폭정을 대면하고 이를 해결하기 위해 노력하는 과정에서의 감상이 드러나 있다. 이는 위정자로서의 책임감과 함께 인간에 대한 구강의 연민의 정이 표출된 것이다.</p>
   </div>
-  <ul class="q-opts"><li id="q17-1">① ‘차마 보지 못할너라’에서 어려운 상황에 처한 백성들에게 연민의 정을 느끼는 작자의 모습을 발견할 수 있어.<a class="src-tag" href="#ev-q17-1">지문 근거</a></li>
+  <ul class="q-opts"><li id="q17-1">① ‘차마 보지 못할너라’에서 어려운 상황에 처한 백성들에게 연민의 정을 느끼는 작자의 모습을 발견할 수 있어.<a class="src-tag" href="#ev-q17-1">오답 근거지문 근거</a></li>
  <li id="q17-2">② ‘안접하게 하여줌세’에서 고향으로 돌아가려는 백성들을 도우려는 위정자로서의 책임감을 느낄 수 있어.<a class="src-tag ans" href="#ev17">정답 근거</a></li>
- <li id="q17-3">③ ‘도망한 자 신구환을 있는 자에 물리니’에서 불합리하게 부과된 세금으로 고통받는 백성들의 현실을 짐작할 수 있어.<a class="src-tag" href="#ev-q17-3">지문 근거</a></li>
- <li id="q17-4">④ ‘급히 급히 넘어가자 이 백성들 살려보세’에서 암행어사로서 임무에 최선을 다하려는 마음가짐을 엿볼 수 있어.<a class="src-tag" href="#ev-q17-4">지문 근거</a></li>
- <li id="q17-5">⑤ ‘백성 없는 곡식 바다 그 무엇에 쓰려하노’에서 백성들을 수탈하는 지방 관리들에 대한 부정적 인식을 확인할 수 있어.<a class="src-tag" href="#ev-q17-5">지문 근거</a></li></ul>
+ <li id="q17-3">③ ‘도망한 자 신구환을 있는 자에 물리니’에서 불합리하게 부과된 세금으로 고통받는 백성들의 현실을 짐작할 수 있어.<a class="src-tag" href="#ev-q17-3">오답 근거지문 근거</a></li>
+ <li id="q17-4">④ ‘급히 급히 넘어가자 이 백성들 살려보세’에서 암행어사로서 임무에 최선을 다하려는 마음가짐을 엿볼 수 있어.<a class="src-tag" href="#ev-q17-4">오답 근거지문 근거</a></li>
+ <li id="q17-5">⑤ ‘백성 없는 곡식 바다 그 무엇에 쓰려하노’에서 백성들을 수탈하는 지방 관리들에 대한 부정적 인식을 확인할 수 있어.<a class="src-tag" href="#ev-q17-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉로 (가)를 감상한다.</p><p>‘안접하게 하여줌세’는 백성을 정착시켜 주려는 암행어사의 의지이지, 화자가 고향으로 돌아간다는 뜻이 아니다. ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘차마 보지 못할너라’ → 백성에 대한 연민(적절).</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>‘안접하게 하여줌세’는 백성을 정착시키려는 어사의 의지로, 백성이 ‘고향으로 돌아가려는’ 것이 아니다.</td></tr><tr><td>③</td><td>오답</td><td>‘도망한 자 신구환을 있는 자에 물리니’ → 불합리한 세금의 고통(적절).</td></tr><tr><td>④</td><td>오답</td><td>‘급히 급히 넘어가자 이 백성들 살려보세’ → 임무에 최선을 다하려는 마음(적절).</td></tr><tr><td>⑤</td><td>오답</td><td>‘백성 없는 곡식 바다 그 무엇에 쓰려하노’ → 수탈하는 관리 비판(적절).</td></tr></tbody></table></div></details>
 </div>
 
@@ -350,11 +350,11 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>&lt; 보기&gt;<br>(다)에서 글쓴이는 ‘엿장수’에 대한 생각과 느낌을 드러내고 있다. 엿장수를 기다리던 모습, 엿장수가 마을에 나타났을 때의 반응, 엿으로 바꿔 먹었던 다양한 물건 등 엿장수와 관련된 추억을 언급하고, 이제는 사라져 버린 대상에 대한 안타까움과 그 가치에 대해 이야기하고 있다.</p>
   </div>
-  <ul class="q-opts"><li id="q19-1">① 아이들이 엿장수를 기다리던 모습을 묘사하면서 그들의 애타는 심정을 효과적으로 드러내고 있다.<a class="src-tag" href="#ev-q19-1">지문 근거</a></li>
- <li id="q19-2">② 엿장수를 향해 정신없이 뛰어가던 아이들의 모습을 생동감 있게 그려내고 있다.<a class="src-tag" href="#ev-q19-2">지문 근거</a></li>
- <li id="q19-3">③ 아이들이 엿으로 바꿔 먹기 위해 들고 갔던 다양한 물건을 언급하고 있다.<a class="src-tag" href="#ev-q19-3">지문 근거</a></li>
+  <ul class="q-opts"><li id="q19-1">① 아이들이 엿장수를 기다리던 모습을 묘사하면서 그들의 애타는 심정을 효과적으로 드러내고 있다.<a class="src-tag" href="#ev-q19-1">오답 근거지문 근거</a></li>
+ <li id="q19-2">② 엿장수를 향해 정신없이 뛰어가던 아이들의 모습을 생동감 있게 그려내고 있다.<a class="src-tag" href="#ev-q19-2">오답 근거지문 근거</a></li>
+ <li id="q19-3">③ 아이들이 엿으로 바꿔 먹기 위해 들고 갔던 다양한 물건을 언급하고 있다.<a class="src-tag" href="#ev-q19-3">오답 근거지문 근거</a></li>
  <li id="q19-4">④ 엿장수가 사라진 이후 변화를 받아들이지 못하는 기존 세대에 대한 안타까운 심정을 토로하고 있다.</li>
- <li id="q19-5">⑤ 엿장수가 했던 일에 가치를 부여하여 그 의미를 독자들이 생각해 보도록 하고 있다.<a class="src-tag" href="#ev-q19-5">지문 근거</a></li></ul>
+ <li id="q19-5">⑤ 엿장수가 했던 일에 가치를 부여하여 그 의미를 독자들이 생각해 보도록 하고 있다.<a class="src-tag" href="#ev-q19-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉로 (나)를 감상한다.</p><p>글쓴이는 엿장수가 사라진 데 대한 안타까움을 드러낼 뿐, 변화를 받아들이지 못하는 모습은 드러나지 않는다. ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘오리처럼 목이 길어졌다’ 등 기다리던 모습으로 애타는 심정 묘사(적절).</td></tr><tr><td>②</td><td>오답</td><td>‘바지가 흘러내리는 줄도 모르고…뛰었다’로 뛰어가던 모습을 생동감 있게 그림(적절).</td></tr><tr><td>③</td><td>오답</td><td>고철·함석·빈 병 등 엿으로 바꿔 먹던 물건을 언급(적절).</td></tr><tr class="correct"><td>④</td><td class="ok">정답</td><td>엿장수가 사라진 안타까움은 있으나, ‘기존 세대가 변화를 받아들이지 못한다’는 내용은 없다.</td></tr><tr><td>⑤</td><td>오답</td><td>‘겸손해져야 하지 않을까’ 등 엿장수의 가치를 부여하며 의미를 생각하게 함(적절).</td></tr></tbody></table></div></details>
 </div>
 
@@ -402,11 +402,11 @@ layout: "exam"
 
 <div class="q-block" id="prob22">
   <p class="q-stem">22. 윗글의 내용과 일치하지 않는 것은?</p>
-  <ul class="q-opts"><li id="q22-1">① 전통 형이상학에서는 현실 세계와 별개로 참된 세계가 존재한다고 생각하였다.<a class="src-tag" href="#ev-q22-1">지문 근거</a></li>
- <li id="q22-2">② 전통 형이상학에서는 절대적 가치를 발견하는 방법으로 이성적 사유를 제시하였다.<a class="src-tag" href="#ev-q22-2">지문 근거</a></li>
+  <ul class="q-opts"><li id="q22-1">① 전통 형이상학에서는 현실 세계와 별개로 참된 세계가 존재한다고 생각하였다.<a class="src-tag" href="#ev-q22-1">오답 근거지문 근거</a></li>
+ <li id="q22-2">② 전통 형이상학에서는 절대적 가치를 발견하는 방법으로 이성적 사유를 제시하였다.<a class="src-tag" href="#ev-q22-2">오답 근거지문 근거</a></li>
  <li id="q22-3">③ 니체는 무가치한 현실적 욕구를 충족하려는 태도도 삶을 개선하는 데 기여한다고 보았다.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
- <li id="q22-4">④ 니체는 사람들이 자신보다 우월한 사람을 넘어서고자 하는 의지를 긍정적으로 평가하였다.<a class="src-tag" href="#ev-q22-4">지문 근거</a></li>
- <li id="q22-5">⑤ 니체는 삶에서 오는 어려움을 극복하고 성장하고자 하는 것이 삶을 긍정하는 태도라고 여겼다.<a class="src-tag" href="#ev-q22-5">지문 근거</a></li></ul>
+ <li id="q22-4">④ 니체는 사람들이 자신보다 우월한 사람을 넘어서고자 하는 의지를 긍정적으로 평가하였다.<a class="src-tag" href="#ev-q22-4">오답 근거지문 근거</a></li>
+ <li id="q22-5">⑤ 니체는 삶에서 오는 어려움을 극복하고 성장하고자 하는 것이 삶을 긍정하는 태도라고 여겼다.<a class="src-tag" href="#ev-q22-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 정보를 파악한다.</p><p>현실적 욕구를 무가치하게 보는 것은 전통 형이상학의 입장이다. 이를 니체의 입장으로 본 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>전통 형이상학은 현실 너머에 보편 진리의 참된 세계가 있다고 봄(1문단·일치).</td></tr><tr><td>②</td><td>오답</td><td>전통 형이상학은 이성적 사유로 초월적 가치를 추구함(1문단·일치).</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>현실적 욕구를 무가치하게 보는 것은 전통 형이상학의 입장이지 니체가 아니다.</td></tr><tr><td>④</td><td>오답</td><td>니체는 ‘강자를 넘어서려는 의지’를 긍정함(5문단·일치).</td></tr><tr><td>⑤</td><td>오답</td><td>니체는 어려움을 극복·성장하려는 것을 삶 긍정으로 봄(5문단·일치).</td></tr></tbody></table></div></details>
 </div>
 
@@ -441,11 +441,11 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>&lt; 보기&gt;<br>기록 경기인 △△종목에서 늘 1, 2위를 다투는 ‘갑’과 ‘을’<br>의 라이벌전이 ○○올림픽에서 펼쳐졌다. 먼저 출전한 ‘을’이 신기록을 달성하자 관중들이 열광하였는데, 이때 ‘을’은 뒤이어 출전하는 ‘갑’을 위해 관중에게 자제를 요청하였다. 결국 경기는 ‘을’ 1위, ‘갑’ 2위로 종료되었다. 각각 은메달과 금메달을 목에 건 ‘갑’과 ‘을’은 서로에게 박수를 보냈으며, 어깨를 감싸 안은 채 경기장을 돌며 관중들에게 답례하였다.</p>
   </div>
-  <ul class="q-opts"><li id="q25-1">① ‘늘 1, 2위를 다투는’ ‘갑’과 ‘을’은 서로에게 끊임없이 자극을 제공하고 성장을 돕는, 선의의 파트너로 볼 수 있군.<a class="src-tag" href="#ev-q25-1">지문 근거</a></li>
- <li id="q25-2">② ‘○○올림픽’은 각자의 삶을 상승시키고자 하는 ‘갑’과 ‘을’의 힘에의 의지가 맞서 겨루는 장이 된 것으로 볼 수 있군.<a class="src-tag" href="#ev-q25-2">지문 근거</a></li>
+  <ul class="q-opts"><li id="q25-1">① ‘늘 1, 2위를 다투는’ ‘갑’과 ‘을’은 서로에게 끊임없이 자극을 제공하고 성장을 돕는, 선의의 파트너로 볼 수 있군.<a class="src-tag" href="#ev-q25-1">오답 근거지문 근거</a></li>
+ <li id="q25-2">② ‘○○올림픽’은 각자의 삶을 상승시키고자 하는 ‘갑’과 ‘을’의 힘에의 의지가 맞서 겨루는 장이 된 것으로 볼 수 있군.<a class="src-tag" href="#ev-q25-2">오답 근거지문 근거</a></li>
  <li id="q25-3">③ ‘신기록’을 세운 뒤 ‘갑’의 경기를 배려하는 ‘을’의 모습은 동등한 조건에서 힘의 크기를 비교하여 상대의 능력을 확인하려는 것으로 볼 수 있군.<a class="src-tag ans" href="#ev-q25-3">정답 근거</a></li>
- <li id="q25-4">④ 경기 종료 후 ‘갑’에게 ‘은메달’이, ‘을’에게 ‘금메달’이 주어진 것은 힘의 차이에 따른 위계를 반영한 것으로 볼 수 있군.<a class="src-tag" href="#ev-q25-4">지문 근거</a></li>
- <li id="q25-5">⑤ ‘갑’과 ‘을’이 ‘서로에게 박수를 보’낸 모습은 강자와 상대적 약자 간에 상호 존중의 형태로 힘의 위계가 드러난 것으로 볼 수 있군.<a class="src-tag" href="#ev-q25-5">지문 근거</a></li></ul>
+ <li id="q25-4">④ 경기 종료 후 ‘갑’에게 ‘은메달’이, ‘을’에게 ‘금메달’이 주어진 것은 힘의 차이에 따른 위계를 반영한 것으로 볼 수 있군.<a class="src-tag" href="#ev-q25-4">오답 근거지문 근거</a></li>
+ <li id="q25-5">⑤ ‘갑’과 ‘을’이 ‘서로에게 박수를 보’낸 모습은 강자와 상대적 약자 간에 상호 존중의 형태로 힘의 위계가 드러난 것으로 볼 수 있군.<a class="src-tag" href="#ev-q25-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(올림픽)에 적용한다.</p><p>‘아곤’은 비교를 통해 힘을 평가하고 향상하는 것이다. ‘신기록’ 후 ‘갑’의 경기를 배척한다는 ③은 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘늘 1, 2위 다투는’ 갑·을은 서로 뛰어넘으려는 선의의 파트너(적절).</td></tr><tr><td>②</td><td>오답</td><td>올림픽은 갑·을의 ‘힘에의 의지’가 맞서 겨루는 장(적절).</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>아곤은 ‘비교로 힘을 평가·상승’하는 것이지, ‘갑의 경기를 배려’해 능력을 확인하는 것이 아니다.</td></tr><tr><td>④</td><td>오답</td><td>금·은메달은 힘의 차이에 따른 위계를 반영(적절).</td></tr><tr><td>⑤</td><td>오답</td><td>서로 박수=강자·약자 간 상호 존중의 위계(적절).</td></tr></tbody></table></div></details>
 </div>
 
@@ -504,11 +504,11 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>&lt; 보기&gt;<br>이 작품은 아들의 감옥살이를 자신의 탓이라고 여기는 어머니의 한과 자식을 향한 사랑을 그리고 있다. 어머니는 몸도 쇠약하고 경제적으로도 힘들지만, 아들을 만나러 다니는 것을 위안으로 삼는다. 그렇기에 고대하던 아들과의 만남이 무산된 비극적 상황은 어머니의 한이 심화될 것임을 암시한다.</p>
   </div>
-  <ul class="q-opts"><li id="q27-1">① ‘막동이를 그렇게 만들어 놓은’ 것이 ‘자기 때문이라’고 하며 ‘눈을 감을 수’ 없다고 생각하는 장면을 통해 아들의 처지에 대한 어머니의 자책감을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-1">지문 근거</a></li>
- <li id="q27-2">② ‘죄를 어떻게 벗겨 줄 길이’ 없지만 ‘얼굴이라도 보도록 해 주는 것만도 고맙게 여기’는 장면을 통해 어머니가 자식을 보러 가는 것을 위안으로 삼고 있음을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-2">지문 근거</a></li>
+  <ul class="q-opts"><li id="q27-1">① ‘막동이를 그렇게 만들어 놓은’ 것이 ‘자기 때문이라’고 하며 ‘눈을 감을 수’ 없다고 생각하는 장면을 통해 아들의 처지에 대한 어머니의 자책감을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-1">오답 근거지문 근거</a></li>
+ <li id="q27-2">② ‘죄를 어떻게 벗겨 줄 길이’ 없지만 ‘얼굴이라도 보도록 해 주는 것만도 고맙게 여기’는 장면을 통해 어머니가 자식을 보러 가는 것을 위안으로 삼고 있음을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-2">오답 근거지문 근거</a></li>
  <li id="q27-3">③ ‘삼천오백 원’을 마련해 주지 않은 ‘큰아들들의 소행’을 ‘노여워’하는 장면을 통해 어머니가 경제적 어려움을 자식들 탓으로 여기고 있음을 짐작할 수 있겠군.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
- <li id="q27-4">④ ‘쇠고깃국 냄비’의 뜨거움도 ‘의식하지 못한 채’ 들고 가는 장면을 통해 아들을 향한 어머니의 사랑을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-4">지문 근거</a></li>
- <li id="q27-5">⑤ ‘어머니의 품’에 있던 ‘우유병’이 깨지는 장면을 통해 비극적 상황에 처한 어머니의 절망감을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-5">지문 근거</a></li></ul>
+ <li id="q27-4">④ ‘쇠고깃국 냄비’의 뜨거움도 ‘의식하지 못한 채’ 들고 가는 장면을 통해 아들을 향한 어머니의 사랑을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-4">오답 근거지문 근거</a></li>
+ <li id="q27-5">⑤ ‘어머니의 품’에 있던 ‘우유병’이 깨지는 장면을 통해 비극적 상황에 처한 어머니의 절망감을 짐작할 수 있겠군.<a class="src-tag" href="#ev-q27-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉로 작품을 감상한다.</p><p>어머니의 원망은 여비(‘삼천오백 원’)를 마련해 주지 않은 큰아들들을 향한 것이다. ③.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘자기 때문’이라며 ‘눈을 감을 수’ 없다는 데서 어머니의 자책감(적절).</td></tr><tr><td>②</td><td>오답</td><td>‘얼굴이라도 보는 것만도 고맙게 여기’는 데서 만남을 위안으로 삼음(적절).</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>원망은 여비를 안 준 ‘큰아들들’을 향한 것이지, 경제적 어려움을 자식 탓으로 돌린 것이 아니다.</td></tr><tr><td>④</td><td>오답</td><td>‘쇠고깃국’의 뜨거움도 모른 채 드는 데서 아들을 향한 사랑(적절).</td></tr><tr><td>⑤</td><td>오답</td><td>품속 ‘우유병’이 깨지는 데서 비극적 상황의 절망감(적절).</td></tr></tbody></table></div></details>
 </div>
 
@@ -613,10 +613,10 @@ layout: "exam"
 
 <div class="q-block" id="prob34">
   <p class="q-stem">34. ㉠, ㉡에 대한 이해로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q34-1">① ㉠에서 개별 기업은 가격수용자로서 시장에서 결정된 가격에 따라 제품을 판매한다.<a class="src-tag" href="#ev-q34-1">지문 근거</a></li>
- <li id="q34-2">② ㉡에서 기업이 제품의 생산량을 늘려 나가는 과정에서 얻게 되는 한계수입은 가격보다 낮아진다.<a class="src-tag" href="#ev35">지문 근거</a></li>
- <li id="q34-3">③ ㉡에서 독점기업은 시장의 유일한 공급자로서 독점기업이 판매량을 늘리려면 가격을 낮춰야 한다.<a class="src-tag" href="#ev-q34-3">지문 근거</a></li>
- <li id="q34-4">④ ㉠에는 진입장벽이 존재하지 않으므로, ㉡에 비해 개별 기업들의 시장 진입이 자유롭다.<a class="src-tag" href="#ev-q34-4">지문 근거</a></li>
+  <ul class="q-opts"><li id="q34-1">① ㉠에서 개별 기업은 가격수용자로서 시장에서 결정된 가격에 따라 제품을 판매한다.<a class="src-tag" href="#ev-q34-1">오답 근거지문 근거</a></li>
+ <li id="q34-2">② ㉡에서 기업이 제품의 생산량을 늘려 나가는 과정에서 얻게 되는 한계수입은 가격보다 낮아진다.<a class="src-tag" href="#ev35">오답 근거지문 근거</a></li>
+ <li id="q34-3">③ ㉡에서 독점기업은 시장의 유일한 공급자로서 독점기업이 판매량을 늘리려면 가격을 낮춰야 한다.<a class="src-tag" href="#ev-q34-3">오답 근거지문 근거</a></li>
+ <li id="q34-4">④ ㉠에는 진입장벽이 존재하지 않으므로, ㉡에 비해 개별 기업들의 시장 진입이 자유롭다.<a class="src-tag" href="#ev-q34-4">오답 근거지문 근거</a></li>
  <li id="q34-5">⑤ ㉠에는 많은 수의 공급자와 수요자가 존재하므로, ㉡보다 기업이 시장을 지배하는 힘이 크다.<a class="src-tag ans" href="#ev34">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 완전경쟁(㉠)·독점(㉡)을 비교한다.</p><p>㉠ 완전경쟁시장에는 많은 수의 공급자와 수요자가 존재해 개별 주체가 가격에 영향을 주기 어렵다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>㉠ 완전경쟁의 기업은 가격수용자로 결정된 가격을 받아들임(2문단·맞음).</td></tr><tr><td>②</td><td>오답</td><td>㉡ 독점기업은 생산량을 늘릴수록 한계수입이 가격보다 낮아짐(3문단·맞음).</td></tr><tr><td>③</td><td>오답</td><td>㉡ 유일 공급자가 생산량을 줄이면 가격이 오름(3문단·맞음).</td></tr><tr><td>④</td><td>오답</td><td>㉠ 진입장벽이 없어 진입이 자유로움(1문단·맞음).</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉠은 다수의 공급·수요자가 있어 개별 기업의 시장지배력이 ㉡보다 ‘작다’(‘크다’ 아님).</td></tr></tbody></table></div></details>
 </div>
@@ -720,11 +720,11 @@ layout: "exam"
 
 <div class="q-block" id="prob39">
   <p class="q-stem">39. 윗글에 대한 이해로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q39-1">① 소 승상의 아버지는 신선에게 얻은 나무를 뒤뜰에 심었다.<a class="src-tag" href="#ev-q39-1">지문 근거</a></li>
+  <ul class="q-opts"><li id="q39-1">① 소 승상의 아버지는 신선에게 얻은 나무를 뒤뜰에 심었다.<a class="src-tag" href="#ev-q39-1">오답 근거지문 근거</a></li>
  <li id="q39-2">② 계도는 부인에게 거문고에 새겨진 글자를 확인하자고 제안하였다.<a class="src-tag ans" href="#ev-q39-2">정답 근거</a></li>
- <li id="q39-3">③ 부인은 비자의 말을 들은 후에 몰래 계도의 생김새를 살펴보았다.<a class="src-tag" href="#ev-q39-3">지문 근거</a></li>
- <li id="q39-4">④ 소 학사의 동생이 형을 찾기 위해 집을 떠난 후 여러 해가 지났다.<a class="src-tag" href="#ev-q39-4">지문 근거</a></li>
- <li id="q39-5">⑤ 계도는 반가운 일을 볼 것이라고 한 월봉산 노인의 말을 부인 집 후원에서 떠올렸다.<a class="src-tag" href="#ev-q39-5">지문 근거</a></li></ul>
+ <li id="q39-3">③ 부인은 비자의 말을 들은 후에 몰래 계도의 생김새를 살펴보았다.<a class="src-tag" href="#ev-q39-3">오답 근거지문 근거</a></li>
+ <li id="q39-4">④ 소 학사의 동생이 형을 찾기 위해 집을 떠난 후 여러 해가 지났다.<a class="src-tag" href="#ev-q39-4">오답 근거지문 근거</a></li>
+ <li id="q39-5">⑤ 계도는 반가운 일을 볼 것이라고 한 월봉산 노인의 말을 부인 집 후원에서 떠올렸다.<a class="src-tag" href="#ev-q39-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 내용을 이해한다.</p><p>거문고에 새겨진 글자를 확인하자고 제안한 사람은 계도가 아니라 부인이다. ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>시아버지(소 승상의 아버지)가 신선에게 얻은 천도화 나무를 뒤뜰에 심음(적절).</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>거문고 글자를 확인하자고 한 사람은 계도가 아니라 부인이다(‘공자가 자세히 보라’).</td></tr><tr><td>③</td><td>오답</td><td>부인은 비자의 말을 들은 뒤 문틈으로 계도의 상을 살펴봄(적절).</td></tr><tr><td>④</td><td>오답</td><td>둘째 아들이 형을 찾아 떠난 지 여러 해가 지남(적절).</td></tr><tr><td>⑤</td><td>오답</td><td>계도가 후원에서 천도화를 보고 월봉산 노인의 말을 떠올림(적절).</td></tr></tbody></table></div></details>
 </div>
 
@@ -755,13 +755,13 @@ layout: "exam"
  <p>&lt; 보기&gt;<br>이 소설은 가족이 외부의 시련으로 헤어졌다가 다시 만나는 과정을 담고 있다. 주인공의 아들이 적대자에게 양육된다거나 상대가 혈육임을 인물이 쉽게 알아차리지 못한다는 설정은 서사적 긴장감을 유발한다. 또한 등장인물이 앞일을 예언하거나 신이한 자연물을 통해 인물 간의 관계를 암시하는 장면은 독자들의 흥미를 극대화한다.</p>
   </div>
   <ul class="q-opts"><li id="q42-1">① 부인의 꿈에서 승상이 ‘손자가 올 것’이라고 말하는 것은 부인과 아들이 손자를 통해 만나게 됨을 예언한 것이겠군.<a class="src-tag ans" href="#ev42">정답 근거</a></li>
- <li id="q42-2">② 부인의 ‘큰아들’이 ‘여러 해 동안 소식이 영 끊어’진 것에서 가족이 헤어진 상황을 확인할 수 있겠군.<a class="src-tag" href="#ev-q42-2">지문 근거</a></li>
+ <li id="q42-2">② 부인의 ‘큰아들’이 ‘여러 해 동안 소식이 영 끊어’진 것에서 가족이 헤어진 상황을 확인할 수 있겠군.<a class="src-tag" href="#ev-q42-2">오답 근거지문 근거</a></li>
  <li id="q42-3">③ ‘슬픔을 그치지 않’는 부인에게 ‘같은 사람도 있’다고 ‘위로하’
-는 것에서 계도는 부인이 혈육임을 알아차리지 못했다고 볼 수 있겠군.<a class="src-tag" href="#ev-q42-3">지문 근거</a></li>
- <li id="q42-4">④ 계도가 부인 집에 들른 날에 ‘천도화’가 피었다가 ‘삼 일 후에’ 진 것은 그와 부인의 관계에 대한 신이한 자연물의 암시로 볼 수 있겠군.<a class="src-tag" href="#ev-q42-4">지문 근거</a></li>
+는 것에서 계도는 부인이 혈육임을 알아차리지 못했다고 볼 수 있겠군.<a class="src-tag" href="#ev-q42-3">오답 근거지문 근거</a></li>
+ <li id="q42-4">④ 계도가 부인 집에 들른 날에 ‘천도화’가 피었다가 ‘삼 일 후에’ 진 것은 그와 부인의 관계에 대한 신이한 자연물의 암시로 볼 수 있겠군.<a class="src-tag" href="#ev-q42-4">오답 근거지문 근거</a></li>
  <li id="q42-5">⑤ 계도가 친아버지의 적대자인 ‘서준에게 길러’졌다는 데서 서사적 긴장감이 유발된다고 볼 수 있겠군.
 [B]
-16<a class="src-tag" href="#ev-q42-5">지문 근거</a></li></ul>
+16<a class="src-tag" href="#ev-q42-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(천상계·인연)로 감상한다.</p><p>꿈속 승상의 말은 부인이 ‘손자(계도)’를 만나게 됨을 예언한 것이다. 이를 ‘아들’과 만나게 됨으로 본 ①이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">정답</td><td>꿈속 ‘손자가 올 것’은 부인이 ‘손자(계도)’를 만나게 됨을 예언한 것이지, ‘아들’과의 만남이 아니다.</td></tr><tr><td>②</td><td>오답</td><td>큰아들 소식이 여러 해 끊긴 데서 가족이 헤어진 상황 확인(적절).</td></tr><tr><td>③</td><td>오답</td><td>‘같은 사람도 있다’고 위로하는 데서 계도가 혈육임을 못 알아챔(적절).</td></tr><tr><td>④</td><td>오답</td><td>천도화가 피었다 사흘 후 짐은 신이한 자연물의 관계 암시(적절).</td></tr><tr><td>⑤</td><td>오답</td><td>친아버지의 적대자 서준에게 길러진 데서 서사적 긴장감 유발(적절).</td></tr></tbody></table></div></details>
 </div>
 
@@ -787,11 +787,11 @@ layout: "exam"
 
 <div class="q-block" id="prob44">
   <p class="q-stem">44. (가)를 감상한 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q44-1">① 화자는 ‘현’을 ‘조율’하면서 고단함을 달래려 하겠군.<a class="src-tag" href="#ev-q44-1">지문 근거</a></li>
- <li id="q44-2">② 화자는 청자를 ‘한 악기’에서 함께 소리를 내는 동반자로 인식하겠군.<a class="src-tag" href="#ev-q44-2">지문 근거</a></li>
+  <ul class="q-opts"><li id="q44-1">① 화자는 ‘현’을 ‘조율’하면서 고단함을 달래려 하겠군.<a class="src-tag" href="#ev-q44-1">오답 근거지문 근거</a></li>
+ <li id="q44-2">② 화자는 청자를 ‘한 악기’에서 함께 소리를 내는 동반자로 인식하겠군.<a class="src-tag" href="#ev-q44-2">오답 근거지문 근거</a></li>
  <li id="q44-3">③ 화자는 청자의 ‘속삭임’을 통해 ‘비명을 노래’하는 자신의 삶을 반성하겠군.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
- <li id="q44-4">④ 화자가 ‘내공에 힘쓰’려고 하는 이유는 ‘아름다운 소리’를 내기 위해서겠군.<a class="src-tag" href="#ev-q44-4">지문 근거</a></li>
- <li id="q44-5">⑤ 화자는 ‘구멍 속’이 ‘마음 놓고’ 소리를 낼 수 있는 공간이라고 생각하겠군.<a class="src-tag" href="#ev-q44-5">지문 근거</a></li></ul>
+ <li id="q44-4">④ 화자가 ‘내공에 힘쓰’려고 하는 이유는 ‘아름다운 소리’를 내기 위해서겠군.<a class="src-tag" href="#ev-q44-4">오답 근거지문 근거</a></li>
+ <li id="q44-5">⑤ 화자는 ‘구멍 속’이 ‘마음 놓고’ 소리를 낼 수 있는 공간이라고 생각하겠군.<a class="src-tag" href="#ev-q44-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — 시구의 의미를 추론한다.</p><p>화자는 ‘비명을 노래’하면 청자에게 ‘속삭임’으로 받아 달라고 할 뿐, 자신을 반성하는 부분은 없다. ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘현’을 ‘조율’하며 고단함을 달래려 함(적절).</td></tr><tr><td>②</td><td>오답</td><td>청자를 ‘한 악기’의 두 현, 곧 함께 소리 내는 동반자로 인식(적절).</td></tr><tr class="correct"><td>③</td><td class="ok">정답</td><td>‘비명’을 ‘속삭임’으로 받아 달라 청할 뿐, 자신을 ‘반성’하는 부분은 없다.</td></tr><tr><td>④</td><td>오답</td><td>‘내공’에 힘쓰는 것은 ‘아름다운 소리’를 내기 위함(적절).</td></tr><tr><td>⑤</td><td>오답</td><td>‘구멍 속’을 ‘마음 놓고’ 소리 낼 수 있는 공간으로 봄(적절).</td></tr></tbody></table></div></details>
 </div>
 
@@ -801,10 +801,10 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>&lt; 보기&gt;<br>(나)의 화자는 뿌리에 의지하는 삶을 살다가 심경에 변화가 생겨 뿌리로부터 벗어나기를 원한다. 불안정하고 예측 불가능하지만 새로운 길을 찾아 나선 것이다. 이는 화자가 한 단계 성장하기 위한 과정으로, 존재의 근원인 뿌리로부터 벗어날수록 스스로 존재할 수 있다는 역설적 인식이 바탕에 깔려 있다.</p>
   </div>
-  <ul class="q-opts"><li id="q45-1">① ‘뿌리의 신도’였다가 ‘꽃잎을 믿는’ 것에서 화자의 심경에 변화가 생겼음을 확인할 수 있군.<a class="src-tag" href="#ev-q45-1">지문 근거</a></li>
- <li id="q45-2">② ‘흩날릴 준비가 되어 있다는 것’에서 예측 불가능한 상황으로 나아가려는 마음을 확인할 수 있군.<a class="src-tag" href="#ev-q45-2">지문 근거</a></li>
- <li id="q45-3">③ ‘뿌리로부터 멀어질수록’ 오히려 ‘길이 조금씩 보’인다는 것에서 역설적 인식을 확인할 수 있군.<a class="src-tag" href="#ev-q45-3">지문 근거</a></li>
- <li id="q45-4">④ ‘어딘가를 향해’ 간다는 것에서 화자는 불안정함을 감수하면서도 스스로 존재하려 함을 확인할 수 있군.<a class="src-tag" href="#ev-q45-4">지문 근거</a></li>
+  <ul class="q-opts"><li id="q45-1">① ‘뿌리의 신도’였다가 ‘꽃잎을 믿는’ 것에서 화자의 심경에 변화가 생겼음을 확인할 수 있군.<a class="src-tag" href="#ev-q45-1">오답 근거지문 근거</a></li>
+ <li id="q45-2">② ‘흩날릴 준비가 되어 있다는 것’에서 예측 불가능한 상황으로 나아가려는 마음을 확인할 수 있군.<a class="src-tag" href="#ev-q45-2">오답 근거지문 근거</a></li>
+ <li id="q45-3">③ ‘뿌리로부터 멀어질수록’ 오히려 ‘길이 조금씩 보’인다는 것에서 역설적 인식을 확인할 수 있군.<a class="src-tag" href="#ev-q45-3">오답 근거지문 근거</a></li>
+ <li id="q45-4">④ ‘어딘가를 향해’ 간다는 것에서 화자는 불안정함을 감수하면서도 스스로 존재하려 함을 확인할 수 있군.<a class="src-tag" href="#ev-q45-4">오답 근거지문 근거</a></li>
  <li id="q45-5">⑤ ‘뿌리로부터 온 존재’라고 인정하는 것에서 화자가 새로운 길을 찾는 과정을 통해 한 단계 성장하였음을 확인할 수 있군.
 ＊확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.<a class="src-tag ans" href="#ev45">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(성장)로 감상한다.</p><p>화자는 뿌리로부터 멀어지며 성장하는 것이지, ‘뿌리로부터 온 존재’임을 인정하며 성장하는 것은 아니다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘뿌리의 신도’→‘꽃잎을 믿는’ 데서 심경 변화 확인(적절).</td></tr><tr><td>②</td><td>오답</td><td>‘흩날릴 준비가 되어 있다’에서 예측 불가능한 상황으로 나아가려는 마음(적절).</td></tr><tr><td>③</td><td>오답</td><td>‘뿌리로부터 멀어질수록’ 길이 보인다는 데서 역설적 인식(적절).</td></tr><tr><td>④</td><td>오답</td><td>‘어딘가를 향해’ 가는 데서 불안정을 감수하며 스스로 존재하려 함(적절).</td></tr><tr class="correct"><td>⑤</td><td class="ok">정답</td><td>화자는 뿌리로부터 ‘멀어지며’ 성장하는 것이지, ‘뿌리로부터 온 존재’임을 인정하며 성장하는 것이 아니다.</td></tr></tbody></table></div></details>

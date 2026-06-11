@@ -66,11 +66,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>학생들은 식중독이 여름에만 발생한다고 아는 경우가 많고, 식중독 발생 원인과 식품별 예방법을 알고 싶어 함. 어려운 내용은 쉽게 이해하도록 자료 활용 부탁.</p>
   </div>
   <ul class="q-opts">
-    <li id="q2-1">① 일상생활에 적용할 수 있는 구체적인 방법을 제시한다.<a class="src-tag" href="#ev-q2-1">지문 근거</a></li>
-    <li id="q2-2">② 잘못된 이해를 바로잡으려 계절별 식중독 발생 현황을 통계 자료로 제시한다.<a class="src-tag" href="#ev1a">지문 근거</a></li>
+    <li id="q2-1">① 일상생활에 적용할 수 있는 구체적인 방법을 제시한다.<a class="src-tag" href="#ev-q2-1">오답 근거지문 근거</a></li>
+    <li id="q2-2">② 잘못된 이해를 바로잡으려 계절별 식중독 발생 현황을 통계 자료로 제시한다.<a class="src-tag" href="#ev1a">오답 근거지문 근거</a></li>
     <li id="q2-3">③ 식중독의 종류에 따라 식중독 발생률이 달라질 수 있음을 설명한다.</li>
-    <li id="q2-4">④ 식중독을 일으키는 식품들을 소개하며 식품의 관리 방법을 설명한다.<a class="src-tag" href="#ev-q2-4">지문 근거</a></li>
-    <li id="q2-5">⑤ 지방의 산패로 인한 유해 성분의 생성 과정을 그림 자료로 제시한다.<a class="src-tag" href="#ev1">지문 근거</a></li>
+    <li id="q2-4">④ 식중독을 일으키는 식품들을 소개하며 식품의 관리 방법을 설명한다.<a class="src-tag" href="#ev-q2-4">오답 근거지문 근거</a></li>
+    <li id="q2-5">⑤ 지방의 산패로 인한 유해 성분의 생성 과정을 그림 자료로 제시한다.<a class="src-tag" href="#ev1">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -103,7 +103,7 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <ul class="q-opts">
     <li id="q3-1">① ⓐ: 주변에 알릴 것을 계획 → 강연 내용의 가치를 판단하며 들었다.</li>
     <li id="q3-2">② ⓑ: 강연 내용에 의문을 제기 → 강연 내용의 신뢰성을 판단하며 들었다.<a class="src-tag ans" href="#ev3b">정답 근거</a></li>
-    <li id="q3-3">③ ⓒ: 식품을 식중독 종류에 따라 묶음 → 정보들 사이의 관계를 파악하며 들었다.<a class="src-tag" href="#ev3c">지문 근거</a></li>
+    <li id="q3-3">③ ⓒ: 식품을 식중독 종류에 따라 묶음 → 정보들 사이의 관계를 파악하며 들었다.<a class="src-tag" href="#ev3c">오답 근거지문 근거</a></li>
     <li id="q3-4">④ ⓓ: 강연 이후 조사 계획 작성 → 더 알고 싶은 점을 떠올리며 들었다.</li>
     <li id="q3-5">⑤ ⓔ: 산패가 일어날 다른 식품을 떠올림 → 배경지식을 활용하며 들었다.</li>
   </ul>
@@ -159,11 +159,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob4">
   <p class="q-stem">4. 대화의 흐름을 고려할 때, ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q4-1">① ㉠: 질문에 답변하며 상대방이 잘못 이해한 부분을 바로잡고 있다.<a class="src-tag" href="#ev4">지문 근거</a></li>
-    <li id="q4-2">② ㉡: 자신이 조사한 내용을 언급하며 관련 답변을 요청하고 있다.<a class="src-tag" href="#ev4b">지문 근거</a></li>
-    <li id="q4-3">③ ㉢: 답변 일부를 재진술하며 새로 알게 된 정보에 대한 느낌을 언급하고 있다.<a class="src-tag" href="#ev4c">지문 근거</a></li>
+    <li id="q4-1">① ㉠: 질문에 답변하며 상대방이 잘못 이해한 부분을 바로잡고 있다.<a class="src-tag" href="#ev4">오답 근거지문 근거</a></li>
+    <li id="q4-2">② ㉡: 자신이 조사한 내용을 언급하며 관련 답변을 요청하고 있다.<a class="src-tag" href="#ev4b">오답 근거지문 근거</a></li>
+    <li id="q4-3">③ ㉢: 답변 일부를 재진술하며 새로 알게 된 정보에 대한 느낌을 언급하고 있다.<a class="src-tag" href="#ev4c">오답 근거지문 근거</a></li>
     <li id="q4-4">④ ㉣: 상대방의 의견에 동의하며 새로운 정보를 추가로 제공하고 있다.<a class="src-tag ans" href="#ev4d">정답 근거</a></li>
-    <li id="q4-5">⑤ ㉤: 물음의 방식으로 자신이 파악한 상대방의 의도를 확인하고 있다.<a class="src-tag" href="#ev4e">지문 근거</a></li>
+    <li id="q4-5">⑤ ㉤: 물음의 방식으로 자신이 파악한 상대방의 의도를 확인하고 있다.<a class="src-tag" href="#ev4e">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -194,11 +194,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>① 어떤 일을 하는 직업인지 설명 부탁하며 시작 / ② 일반 심리 상담과 어떻게 다른지 / ③ 어떤 심리적 문제가 있는 사람들에게 필요한지 / ④ 대표적인 상담 방법 / ⑤ 희망 학생을 위한 조언 부탁하며 마무리</p>
   </div>
   <ul class="q-opts">
-    <li id="q5-1">① 어떤 일을 하는지 설명 부탁하며 시작<a class="src-tag" href="#ev-q5-1">지문 근거</a></li>
-    <li id="q5-2">② 일반 심리 상담과의 차이<a class="src-tag" href="#ev-q5-2">지문 근거</a></li>
+    <li id="q5-1">① 어떤 일을 하는지 설명 부탁하며 시작<a class="src-tag" href="#ev-q5-1">오답 근거지문 근거</a></li>
+    <li id="q5-2">② 일반 심리 상담과의 차이<a class="src-tag" href="#ev-q5-2">오답 근거지문 근거</a></li>
     <li id="q5-3">③ 어떤 심리적 문제가 있는 사람들에게 필요한지</li>
-    <li id="q5-4">④ 대표적인 상담 방법<a class="src-tag" href="#ev4b">지문 근거</a></li>
-    <li id="q5-5">⑤ 희망 학생을 위한 조언 부탁하며 마무리<a class="src-tag" href="#ev-q5-5">지문 근거</a></li>
+    <li id="q5-4">④ 대표적인 상담 방법<a class="src-tag" href="#ev4b">오답 근거지문 근거</a></li>
+    <li id="q5-5">⑤ 희망 학생을 위한 조언 부탁하며 마무리<a class="src-tag" href="#ev-q5-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -304,10 +304,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob8">
   <p class="q-stem">8. ‘작문 상황’을 고려해 구상한 내용 중 학생의 초고에 반영되지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q8-1">① 구독 경제를 이용할 때의 장점<a class="src-tag" href="#ev-q8-1">지문 근거</a></li>
-    <li id="q8-2">② 과도한 이용으로 인한 문제점<a class="src-tag" href="#ev-q8-2">지문 근거</a></li>
-    <li id="q8-3">③ 이용 시간과 뇌 건강의 관련성<a class="src-tag" href="#ev-q8-3">지문 근거</a></li>
-    <li id="q8-4">④ 이용할 때 지녀야 할 올바른 태도<a class="src-tag" href="#ev-q8-4">지문 근거</a></li>
+    <li id="q8-1">① 구독 경제를 이용할 때의 장점<a class="src-tag" href="#ev-q8-1">오답 근거지문 근거</a></li>
+    <li id="q8-2">② 과도한 이용으로 인한 문제점<a class="src-tag" href="#ev-q8-2">오답 근거지문 근거</a></li>
+    <li id="q8-3">③ 이용 시간과 뇌 건강의 관련성<a class="src-tag" href="#ev-q8-3">오답 근거지문 근거</a></li>
+    <li id="q8-4">④ 이용할 때 지녀야 할 올바른 태도<a class="src-tag" href="#ev-q8-4">오답 근거지문 근거</a></li>
     <li id="q8-5">⑤ 이용이 특정 플랫폼에 편중된 이유<a class="src-tag ans" href="#ev8">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -339,9 +339,9 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p><b>ㄱ. 설문</b>(ㄱ-1 이용 현황: 여러 개 함께 이용 / ㄱ-2 이용 분야: 영상·음원 편중) · <b>ㄴ. 신문</b>(저렴한 가격 마케팅이 성장 원인, 1인당 결제 대금 급증) · <b>ㄷ. 전문가 인터뷰</b>(<span class="ev ans" id="ev-q9-5">디지털 기기 장시간 사용→도파민 과다→뇌 기능 저하</span><a class="ev-tag ans" href="#q9-5">9-⑤</a>, 예방법=디지털 디톡스)</p>
   </div>
   <ul class="q-opts">
-    <li id="q9-1">① ㄱ-2: 이용 분야 편중을, 디지털 기기 사용 시간 증가의 근거로 3문단에 보강.<a class="src-tag" href="#ev8">지문 근거</a></li>
-    <li id="q9-2">② ㄴ: 1인당 결제 대금 급증을, 구독료 과다 지출 근거로 2문단에 보강.<a class="src-tag" href="#ev-q8-2">지문 근거</a></li>
-    <li id="q9-3">③ ㄷ: 디지털 디톡스 실천 방법을, 뇌 건강 예방 방법으로 4문단에 추가.<a class="src-tag" href="#ev-q8-4">지문 근거</a></li>
+    <li id="q9-1">① ㄱ-2: 이용 분야 편중을, 디지털 기기 사용 시간 증가의 근거로 3문단에 보강.<a class="src-tag" href="#ev8">오답 근거지문 근거</a></li>
+    <li id="q9-2">② ㄴ: 1인당 결제 대금 급증을, 구독료 과다 지출 근거로 2문단에 보강.<a class="src-tag" href="#ev-q8-2">오답 근거지문 근거</a></li>
+    <li id="q9-3">③ ㄷ: 디지털 디톡스 실천 방법을, 뇌 건강 예방 방법으로 4문단에 추가.<a class="src-tag" href="#ev-q8-4">오답 근거지문 근거</a></li>
     <li id="q9-4">④ ㄱ-1·ㄴ: 여러 개를 이용하는 현황을, 청소년이 많이 이용하는 현황으로 1문단에 보강.</li>
     <li id="q9-5">⑤ ㄱ-2·ㄷ: 사용 시간 증가→도파민 과다를, 다양한 형태의 구독 경제를 ‘이용해야 하는 이유’로 3문단에 추가.<a class="src-tag ans" href="#ev-q9-5">정답 근거</a></li>
   </ul>
@@ -416,11 +416,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob11">
   <p class="q-stem">11. 윗글의 어휘 지도를 이해한 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q11-1">① ‘동물’은 ‘어류’에 비해 지시 대상의 범위가 넓다.<a class="src-tag" href="#ev11">지문 근거</a></li>
+    <li id="q11-1">① ‘동물’은 ‘어류’에 비해 지시 대상의 범위가 넓다.<a class="src-tag" href="#ev11">오답 근거지문 근거</a></li>
     <li id="q11-2">② ‘조류’는 ‘참새’, ‘제비’, ‘꿩’보다 가진 의미 성분의 수가 많다.<a class="src-tag ans" href="#ev11">정답 근거</a></li>
-    <li id="q11-3">③ ‘아버지’와 ‘아비’는 유사하지만 문장에 따라 바꿔 쓸 수 없는 경우도 있다.<a class="src-tag" href="#ev11c">지문 근거</a></li>
-    <li id="q11-4">④ ‘아버지’와 ‘어머니’는 ‘성별’을 제외한 나머지 의미 성분을 공유한다.<a class="src-tag" href="#ev11d">지문 근거</a></li>
-    <li id="q11-5">⑤ ‘조류’는 ‘동물’엔 하의어, ‘제비’엔 상의어이므로 상하 관계의 상대성이 드러난다.<a class="src-tag" href="#ev11b">지문 근거</a></li>
+    <li id="q11-3">③ ‘아버지’와 ‘아비’는 유사하지만 문장에 따라 바꿔 쓸 수 없는 경우도 있다.<a class="src-tag" href="#ev11c">오답 근거지문 근거</a></li>
+    <li id="q11-4">④ ‘아버지’와 ‘어머니’는 ‘성별’을 제외한 나머지 의미 성분을 공유한다.<a class="src-tag" href="#ev11d">오답 근거지문 근거</a></li>
+    <li id="q11-5">⑤ ‘조류’는 ‘동물’엔 하의어, ‘제비’엔 상의어이므로 상하 관계의 상대성이 드러난다.<a class="src-tag" href="#ev11b">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -665,11 +665,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob18">
   <p class="q-stem">18. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q18-1">① ㉠: 외양 묘사를 통해 인물의 특징을 드러낸다.<a class="src-tag" href="#ev18a">지문 근거</a></li>
-    <li id="q18-2">② ㉡: 인물 간 대화를 인용 부호 없이 서술하며 인물이 처한 상황을 드러낸다.<a class="src-tag" href="#ev18b">지문 근거</a></li>
-    <li id="q18-3">③ ㉢: 과거의 사건을 바탕으로 인물에 대한 정보를 제공한다.<a class="src-tag" href="#ev18c">지문 근거</a></li>
+    <li id="q18-1">① ㉠: 외양 묘사를 통해 인물의 특징을 드러낸다.<a class="src-tag" href="#ev18a">오답 근거지문 근거</a></li>
+    <li id="q18-2">② ㉡: 인물 간 대화를 인용 부호 없이 서술하며 인물이 처한 상황을 드러낸다.<a class="src-tag" href="#ev18b">오답 근거지문 근거</a></li>
+    <li id="q18-3">③ ㉢: 과거의 사건을 바탕으로 인물에 대한 정보를 제공한다.<a class="src-tag" href="#ev18c">오답 근거지문 근거</a></li>
     <li id="q18-4">④ ㉣: 서술 주체가 분명하지 않은 것을 보면 공간적 배경에 따라 서술자가 달라진다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
-    <li id="q18-5">⑤ ㉤: 특정 상황에서 보일 반응을 확정하지 않고 추측하여 서술한다.<a class="src-tag" href="#ev18e">지문 근거</a></li>
+    <li id="q18-5">⑤ ㉤: 특정 상황에서 보일 반응을 확정하지 않고 추측하여 서술한다.<a class="src-tag" href="#ev18e">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -751,11 +751,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob20">
   <p class="q-stem">20. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q20-1">① 의미 내재주의에 의하면 의미는 지시체에 대한 기술구에 따라 결정된다.<a class="src-tag" href="#ev20a">지문 근거</a></li>
-    <li id="q20-2">② 전통적 관점에 의하면 대상에 대한 인간의 인식이 의미를 구성한다.<a class="src-tag" href="#ev-q20-2">지문 근거</a></li>
-    <li id="q20-3">③ 의미 외재주의에 의하면 의미는 객관적인 외부 세계에 의해 결정된다.<a class="src-tag" href="#ev20">지문 근거</a></li>
+    <li id="q20-1">① 의미 내재주의에 의하면 의미는 지시체에 대한 기술구에 따라 결정된다.<a class="src-tag" href="#ev20a">오답 근거지문 근거</a></li>
+    <li id="q20-2">② 전통적 관점에 의하면 대상에 대한 인간의 인식이 의미를 구성한다.<a class="src-tag" href="#ev-q20-2">오답 근거지문 근거</a></li>
+    <li id="q20-3">③ 의미 외재주의에 의하면 의미는 객관적인 외부 세계에 의해 결정된다.<a class="src-tag" href="#ev20">오답 근거지문 근거</a></li>
     <li id="q20-4">④ 의미 내재주의자와 퍼트넘 모두 개인이 부여한 의미의 주관성이 중요하다고 생각했다.<a class="src-tag ans" href="#ev20">정답 근거</a></li>
-    <li id="q20-5">⑤ 퍼트넘은 의미 내재주의자와 달리 외부 세계를 구성하는 지시체가 의미를 결정한다고 주장했다.<a class="src-tag" href="#ev21">지문 근거</a></li>
+    <li id="q20-5">⑤ 퍼트넘은 의미 내재주의자와 달리 외부 세계를 구성하는 지시체가 의미를 결정한다고 주장했다.<a class="src-tag" href="#ev21">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -814,11 +814,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>몰리브데넘은 알루미늄과 속성·용도가 매우 유사하나 원소 기호가 Mo로 Al과는 다른 물질이다. 일반인은 둘을 구별 못 하나 전문가는 테스트로 간단히 구별한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q22-1">① 속성이 비슷해도 두 금속의 실제적 본성에는 차이가 있겠군.<a class="src-tag" href="#ev22">지문 근거</a></li>
-    <li id="q22-2">② 원소를 밝혀낸 과학적 발견으로 두 금속의 본질적 구조가 드러났겠군.<a class="src-tag" href="#ev22">지문 근거</a></li>
-    <li id="q22-3">③ 두 금속을 구별하는 소수의 전문가는 대상의 차이를 인지하며 단어를 사용하겠군.<a class="src-tag" href="#ev-q22-bn">지문 근거</a></li>
+    <li id="q22-1">① 속성이 비슷해도 두 금속의 실제적 본성에는 차이가 있겠군.<a class="src-tag" href="#ev22">오답 근거지문 근거</a></li>
+    <li id="q22-2">② 원소를 밝혀낸 과학적 발견으로 두 금속의 본질적 구조가 드러났겠군.<a class="src-tag" href="#ev22">오답 근거지문 근거</a></li>
+    <li id="q22-3">③ 두 금속을 구별하는 소수의 전문가는 대상의 차이를 인지하며 단어를 사용하겠군.<a class="src-tag" href="#ev-q22-bn">오답 근거지문 근거</a></li>
     <li id="q22-4">④ 자연 상태에 있던 두 금속의 의미를 결정하려면 언어 공동체의 협업이 필요하겠군.<a class="src-tag ans" href="#ev22">정답 근거</a></li>
-    <li id="q22-5">⑤ 전문가 안내로 일반인이 두 단어를 구별해 쓰게 된다면 언어적 노동 분업이 이루어진 것이겠군.<a class="src-tag" href="#ev-q22-bn">지문 근거</a></li>
+    <li id="q22-5">⑤ 전문가 안내로 일반인이 두 단어를 구별해 쓰게 된다면 언어적 노동 분업이 이루어진 것이겠군.<a class="src-tag" href="#ev-q22-bn">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -930,8 +930,8 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">25. 윗글의 인물에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q25-1">① 이 공의 부인은 눈물을 흘리며 양 소저를 위로하였다.</li>
-    <li id="q25-2">② 노인은 이생이 가진 돈을 모두 적선한 것을 알고 있었다.<a class="src-tag" href="#ev25">지문 근거</a></li>
-    <li id="q25-3">③ 양 소저는 이 공 부부를 모시며 함께 지내고 싶어했다.<a class="src-tag" href="#ev-q25-3">지문 근거</a></li>
+    <li id="q25-2">② 노인은 이생이 가진 돈을 모두 적선한 것을 알고 있었다.<a class="src-tag" href="#ev25">오답 근거지문 근거</a></li>
+    <li id="q25-3">③ 양 소저는 이 공 부부를 모시며 함께 지내고 싶어했다.<a class="src-tag" href="#ev-q25-3">오답 근거지문 근거</a></li>
     <li id="q25-4">④ 이생은 천리를 가는 능력이 있어 노인에게 비서를 받을 수 있었다.<a class="src-tag ans" href="#ev25">정답 근거</a></li>
     <li id="q25-5">⑤ 이 공은 살아 있을 때와 달리 죽어서는 편안한 삶을 살고 있다고 말했다.</li>
   </ul>
@@ -994,11 +994,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>「낙성비룡」에는 시련을 겪던 이생·양 소저가 각각 안내자(노인 / 이 공 부부)를 만나 정보를 얻는 장면이 있다. 안내자는 주인공에 대한 정보를 언급하고, 주인공은 시련 극복 방안에 대한 정보를 획득한다. 주인공과 안내자의 관계는 정보를 신뢰하는 이유가 된다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q27-1">① 노인이 이생의 잠·식사량에 대해 말한 것은 안내자가 주인공에 대한 정보를 언급한 것이겠군.<a class="src-tag" href="#ev27a">지문 근거</a></li>
-    <li id="q27-2">② 이생-노인, 양 소저-이 공 부부가 가족이라는 점은 정보를 신뢰하는 이유에 해당하겠군.<a class="src-tag" href="#ev25">지문 근거</a></li>
-    <li id="q27-3">③ 이생이 쫓겨나 고생한 것과 양 소저가 남편 소식을 모른 것은 안내자를 만나기 전의 시련이겠군.<a class="src-tag" href="#ev26c">지문 근거</a></li>
+    <li id="q27-1">① 노인이 이생의 잠·식사량에 대해 말한 것은 안내자가 주인공에 대한 정보를 언급한 것이겠군.<a class="src-tag" href="#ev27a">오답 근거지문 근거</a></li>
+    <li id="q27-2">② 이생-노인, 양 소저-이 공 부부가 가족이라는 점은 정보를 신뢰하는 이유에 해당하겠군.<a class="src-tag" href="#ev25">오답 근거지문 근거</a></li>
+    <li id="q27-3">③ 이생이 쫓겨나 고생한 것과 양 소저가 남편 소식을 모른 것은 안내자를 만나기 전의 시련이겠군.<a class="src-tag" href="#ev26c">오답 근거지문 근거</a></li>
     <li id="q27-4">④ 양 소저가 현실로 돌아가기 전 이 공 부부가 준 차를 마시는 장면은 시련 극복 방법에 대한 정보를 획득하는 과정이겠군.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
-    <li id="q27-5">⑤ 노인이 평안히 공부할 공간을 소개한 것은 시련 극복 방법에 대한 정보를 제공한 것이겠군.<a class="src-tag" href="#ev27a">지문 근거</a></li>
+    <li id="q27-5">⑤ 노인이 평안히 공부할 공간을 소개한 것은 시련 극복 방법에 대한 정보를 제공한 것이겠군.<a class="src-tag" href="#ev27a">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1075,11 +1075,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob29">
   <p class="q-stem">29. 윗글을 이해한 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 54.2%</span></p>
   <ul class="q-opts">
-    <li id="q29-1">① 공유자는 지분을 나머지 공유자들의 동의 없이 처분할 수 있다.<a class="src-tag" href="#ev-q29-1">지문 근거</a></li>
+    <li id="q29-1">① 공유자는 지분을 나머지 공유자들의 동의 없이 처분할 수 있다.<a class="src-tag" href="#ev-q29-1">오답 근거지문 근거</a></li>
     <li id="q29-2">② 공유자 전원이 대금을 나눠 갖는 분할 방법은 법원이 개입하지 않으면 선택할 수 없다.<a class="src-tag ans" href="#ev29b">정답 근거</a></li>
     <li id="q29-3">③ 분할을 제한하는 법률·특약이 없으면 공유 관계 종료를 요청할 수 있다.</li>
-    <li id="q29-4">④ 공유자가 셋 이상이면 현물 분할을 원하지 않는 공유자는 공유 관계로 남을 수 있다.<a class="src-tag" href="#ev-q29-4">지문 근거</a></li>
-    <li id="q29-5">⑤ 특정인이 공유물 전체를 소유하면 다른 공유자에게 지분의 가격을 배상해야 한다.<a class="src-tag" href="#ev-q29-5">지문 근거</a></li>
+    <li id="q29-4">④ 공유자가 셋 이상이면 현물 분할을 원하지 않는 공유자는 공유 관계로 남을 수 있다.<a class="src-tag" href="#ev-q29-4">오답 근거지문 근거</a></li>
+    <li id="q29-5">⑤ 특정인이 공유물 전체를 소유하면 다른 공유자에게 지분의 가격을 배상해야 한다.<a class="src-tag" href="#ev-q29-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1106,11 +1106,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob30">
   <p class="q-stem">30. ㉠과 ㉡에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q30-1">① ㉠과 ㉡은 모두 공동 소유 관계에 있는 모든 이가 당사자로 참여한다.<a class="src-tag" href="#ev30a">지문 근거</a></li>
-    <li id="q30-2">② ㉠은 ㉡과 달리 분할 방법을 선택할 권한이 공유자에게 있다.<a class="src-tag" href="#ev28">지문 근거</a></li>
+    <li id="q30-1">① ㉠과 ㉡은 모두 공동 소유 관계에 있는 모든 이가 당사자로 참여한다.<a class="src-tag" href="#ev30a">오답 근거지문 근거</a></li>
+    <li id="q30-2">② ㉠은 ㉡과 달리 분할 방법을 선택할 권한이 공유자에게 있다.<a class="src-tag" href="#ev28">오답 근거지문 근거</a></li>
     <li id="q30-3">③ ㉠은 ㉡과 달리 공유물을 분량적으로 나누는 방법으로 분할할 수 있다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
-    <li id="q30-4">④ ㉡은 ㉠과 달리 분할을 희망하는 자가 제기한 소송을 전제로 한다.<a class="src-tag" href="#ev30b">지문 근거</a></li>
-    <li id="q30-5">⑤ ㉡은 ㉠과 달리 공유자 중 일부가 분할에 협력하지 않을 때 이루어진다.<a class="src-tag" href="#ev30b">지문 근거</a></li>
+    <li id="q30-4">④ ㉡은 ㉠과 달리 분할을 희망하는 자가 제기한 소송을 전제로 한다.<a class="src-tag" href="#ev30b">오답 근거지문 근거</a></li>
+    <li id="q30-5">⑤ ㉡은 ㉠과 달리 공유자 중 일부가 분할에 협력하지 않을 때 이루어진다.<a class="src-tag" href="#ev30b">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1141,10 +1141,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>갑은 을·병을 상대로 분할 청구 소송을 제기. 갑은 토지 일부가 고압선 아래라 손해를 본다며 대금 분할을 요청, 을·병은 현물 분할 희망. 법원은 경제적 가치 차이를 고려해 분할 면적을 조정하면 공평하다고 보아 현물 분할을 판결.</p>
   </div>
   <ul class="q-opts">
-    <li id="q31-1">① 갑은 현물 가치가 줄어 손해 볼 것을 염려해 경매를 통한 분할을 원하는 것이군.<a class="src-tag" href="#ev-q31-1">지문 근거</a></li>
-    <li id="q31-2">② 을·병이 희망하는 방법은 재판에 의한 분할 시 원칙이 되는 방법이군.<a class="src-tag" href="#ev28">지문 근거</a></li>
-    <li id="q31-3">③ 법원은 갑이 요청하는 방법에 구애받지 않고 재량에 따라 판단한 것이겠군.<a class="src-tag" href="#ev29b">지문 근거</a></li>
-    <li id="q31-4">④ 법원은 경제적 가치가 지분 비율에 상응하도록 토지를 분할하는 것이 가능하다고 본 것이겠군.<a class="src-tag" href="#ev29">지문 근거</a></li>
+    <li id="q31-1">① 갑은 현물 가치가 줄어 손해 볼 것을 염려해 경매를 통한 분할을 원하는 것이군.<a class="src-tag" href="#ev-q31-1">오답 근거지문 근거</a></li>
+    <li id="q31-2">② 을·병이 희망하는 방법은 재판에 의한 분할 시 원칙이 되는 방법이군.<a class="src-tag" href="#ev28">오답 근거지문 근거</a></li>
+    <li id="q31-3">③ 법원은 갑이 요청하는 방법에 구애받지 않고 재량에 따라 판단한 것이겠군.<a class="src-tag" href="#ev29b">오답 근거지문 근거</a></li>
+    <li id="q31-4">④ 법원은 경제적 가치가 지분 비율에 상응하도록 토지를 분할하는 것이 가능하다고 본 것이겠군.<a class="src-tag" href="#ev29">오답 근거지문 근거</a></li>
     <li id="q31-5">⑤ 법원은 공유자들의 지분을 조정함으로써 원만한 해소가 가능하다고 보아 현물 분할을 명한 것이겠군.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1194,11 +1194,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob32">
   <p class="q-stem">32. (가)를 읽고 가질 수 있는 의문 중 (나)를 통해 해결할 수 <strong>없는</strong> 것은? <span class="q-rate">오답률 41.8%</span></p>
   <ul class="q-opts">
-    <li id="q32-1">① 사용자는 왜 200~300 ㎐ 진동을 쉽게 인지할까?<a class="src-tag" href="#ev36">지문 근거</a></li>
+    <li id="q32-1">① 사용자는 왜 200~300 ㎐ 진동을 쉽게 인지할까?<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
     <li id="q32-2">② 진동 촉감이 물리적 포스 피드백을 대표하는 이유는?<a class="src-tag ans" href="#ev32b">정답 근거</a></li>
-    <li id="q32-3">③ 포스 피드백에 의해 물체를 만진다고 인지하는 과정은?<a class="src-tag" href="#ev32">지문 근거</a></li>
+    <li id="q32-3">③ 포스 피드백에 의해 물체를 만진다고 인지하는 과정은?<a class="src-tag" href="#ev32">오답 근거지문 근거</a></li>
     <li id="q32-4">④ 촉각 기계 장치를 ‘햅틱 장치’라 부르는 이유는?</li>
-    <li id="q32-5">⑤ 가상 물체를 인지할 때 주로 손을 통해 정보를 전달하는 이유는?<a class="src-tag" href="#ev32">지문 근거</a></li>
+    <li id="q32-5">⑤ 가상 물체를 인지할 때 주로 손을 통해 정보를 전달하는 이유는?<a class="src-tag" href="#ev32">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1225,11 +1225,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob33">
   <p class="q-stem">33. (가), (나)에서 확인할 수 있는 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 55.5%</span></p>
   <ul class="q-opts">
-    <li id="q33-1">① 신체 부위에 따라 타입Ⅰ수용체의 분포 정도가 다르다.<a class="src-tag" href="#ev33a">지문 근거</a></li>
+    <li id="q33-1">① 신체 부위에 따라 타입Ⅰ수용체의 분포 정도가 다르다.<a class="src-tag" href="#ev33a">오답 근거지문 근거</a></li>
     <li id="q33-2">② 피부에 닿는 외부 자극이 강해질수록 활성화되는 체감각 피질의 영역이 넓어진다.<a class="src-tag ans" href="#ev32">정답 근거</a></li>
     <li id="q33-3">③ 떨어진 물건을 손으로 줍는 경우 접촉하는 모든 종류의 기계 수용체가 반응한다.</li>
-    <li id="q33-4">④ 압전 소자의 인장·수축은 내부 쌍극자들의 이동 때문에 나타난다.<a class="src-tag" href="#ev33d">지문 근거</a></li>
-    <li id="q33-5">⑤ 포스 피드백이 특정 부위에 계속 가해지면 느린 순응 수용체가 활성화된다.<a class="src-tag" href="#ev33e">지문 근거</a></li>
+    <li id="q33-4">④ 압전 소자의 인장·수축은 내부 쌍극자들의 이동 때문에 나타난다.<a class="src-tag" href="#ev33d">오답 근거지문 근거</a></li>
+    <li id="q33-5">⑤ 포스 피드백이 특정 부위에 계속 가해지면 느린 순응 수용체가 활성화된다.<a class="src-tag" href="#ev33e">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1260,10 +1260,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>Ⓐ=진동 표면과 손가락 사이 공기층(스퀴즈 필름), Ⓑ=진동 진폭, Ⓒ=진동 표면과 손가락 사이 거리(ℎ).</p>
   </div>
   <ul class="q-opts">
-    <li id="q34-1">① Ⓐ는 주변보다 압력이 높아 마찰 계수를 감소시킨다.<a class="src-tag" href="#ev-q34-1">지문 근거</a></li>
-    <li id="q34-2">② Ⓑ가 일정한 상태에서 손가락을 가까이 가져가면 마찰력이 감소한다.<a class="src-tag" href="#ev35">지문 근거</a></li>
-    <li id="q34-3">③ Ⓑ를 1 ㎛ 이상과 0인 상태가 반복되는 표면을 만지면 울퉁불퉁한 느낌을 받는다.<a class="src-tag" href="#ev-q34-3">지문 근거</a></li>
-    <li id="q34-4">④ Ⓒ가 일정할 때 손가락 접촉면 반지름이 커지면 스퀴즈 힘이 커져 마찰력이 감소한다.<a class="src-tag" href="#ev35">지문 근거</a></li>
+    <li id="q34-1">① Ⓐ는 주변보다 압력이 높아 마찰 계수를 감소시킨다.<a class="src-tag" href="#ev-q34-1">오답 근거지문 근거</a></li>
+    <li id="q34-2">② Ⓑ가 일정한 상태에서 손가락을 가까이 가져가면 마찰력이 감소한다.<a class="src-tag" href="#ev35">오답 근거지문 근거</a></li>
+    <li id="q34-3">③ Ⓑ를 1 ㎛ 이상과 0인 상태가 반복되는 표면을 만지면 울퉁불퉁한 느낌을 받는다.<a class="src-tag" href="#ev-q34-3">오답 근거지문 근거</a></li>
+    <li id="q34-4">④ Ⓒ가 일정할 때 손가락 접촉면 반지름이 커지면 스퀴즈 힘이 커져 마찰력이 감소한다.<a class="src-tag" href="#ev35">오답 근거지문 근거</a></li>
     <li id="q34-5">⑤ 손가락을 그대로 둔 채 전압을 높이면 Ⓑ를 Ⓒ로 나눈 값이 커져 원래보다 거친 느낌을 줄 수 있다.<a class="src-tag ans" href="#ev34">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1321,11 +1321,11 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>ㄱ. 안경 착용 인지는 대개 쓸 때·벗을 때였다. ㄴ. 아랫입술은 손가락 개수를 정확히 맞혔으나 등은 닿은 것도 모르는 경우가 있었다. ㄷ. 1·10 ㎐=부드러움, 40·100 ㎐=약간 거침, 300·500 ㎐=다소 거침으로 분류했고, 10·100·500 ㎐ 거칠기도 감지했다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q36-1">① ㄱ: 빠른 순응 수용체에서 안경을 쓰고 벗을 때만 신호가 발생했음을 보여 준다.<a class="src-tag" href="#ev33e">지문 근거</a></li>
-    <li id="q36-2">② ㄴ: 아랫입술에 분포한 타입Ⅰ수용체 수가 등보다 많음을 보여 준다.<a class="src-tag" href="#ev32">지문 근거</a></li>
-    <li id="q36-3">③ ㄴ: 체감각 피질에서 아랫입술 영역이 등 영역보다 넓음을 보여 준다.<a class="src-tag" href="#ev32">지문 근거</a></li>
+    <li id="q36-1">① ㄱ: 빠른 순응 수용체에서 안경을 쓰고 벗을 때만 신호가 발생했음을 보여 준다.<a class="src-tag" href="#ev33e">오답 근거지문 근거</a></li>
+    <li id="q36-2">② ㄴ: 아랫입술에 분포한 타입Ⅰ수용체 수가 등보다 많음을 보여 준다.<a class="src-tag" href="#ev32">오답 근거지문 근거</a></li>
+    <li id="q36-3">③ ㄴ: 체감각 피질에서 아랫입술 영역이 등 영역보다 넓음을 보여 준다.<a class="src-tag" href="#ev32">오답 근거지문 근거</a></li>
     <li id="q36-4">④ ㄷ: 부드러운/거친 촉감의 구별이 감각 수용장의 넓이에 따라 결정됨을 보여 준다.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
-    <li id="q36-5">⑤ ㄷ: 기계 수용체가 민감한 주파수 범위 이외의 진동도 감지할 수 있음을 보여 준다.<a class="src-tag" href="#ev36">지문 근거</a></li>
+    <li id="q36-5">⑤ ㄷ: 기계 수용체가 민감한 주파수 범위 이외의 진동도 감지할 수 있음을 보여 준다.<a class="src-tag" href="#ev36">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1441,10 +1441,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob39">
   <p class="q-stem">39. [A]~[E]에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q39-1">① [A]: 설의적 표현으로 임을 잊지 못한 화자의 심정을 보여 준다.<a class="src-tag" href="#ev38">지문 근거</a></li>
-    <li id="q39-2">② [B]: 특정 시어를 반복하여 화자와 임의 거리감을 강조한다.<a class="src-tag" href="#ev39b">지문 근거</a></li>
-    <li id="q39-3">③ [C]: 대구적 표현으로 이별의 한을 풀어 줄 사람이 임뿐임을 부각한다.<a class="src-tag" href="#ev-q39-3">지문 근거</a></li>
-    <li id="q39-4">④ [D]: 비현실적 상황을 설정하여 임을 만나고 싶어 하는 마음을 드러낸다.<a class="src-tag" href="#ev-q39-4">지문 근거</a></li>
+    <li id="q39-1">① [A]: 설의적 표현으로 임을 잊지 못한 화자의 심정을 보여 준다.<a class="src-tag" href="#ev38">오답 근거지문 근거</a></li>
+    <li id="q39-2">② [B]: 특정 시어를 반복하여 화자와 임의 거리감을 강조한다.<a class="src-tag" href="#ev39b">오답 근거지문 근거</a></li>
+    <li id="q39-3">③ [C]: 대구적 표현으로 이별의 한을 풀어 줄 사람이 임뿐임을 부각한다.<a class="src-tag" href="#ev-q39-3">오답 근거지문 근거</a></li>
+    <li id="q39-4">④ [D]: 비현실적 상황을 설정하여 임을 만나고 싶어 하는 마음을 드러낸다.<a class="src-tag" href="#ev-q39-4">오답 근거지문 근거</a></li>
     <li id="q39-5">⑤ [E]: 자연물을 활용하여 임에게 마음을 전하려는 화자의 노력을 드러낸다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1473,10 +1473,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
   <p class="q-stem">40. (나)에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 43.0%</span></p>
   <ul class="q-opts">
     <li id="q40-1">① ‘나’는 사람들이 ‘외손녀’에 대해 아는 것을 바라지 않았다.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
-    <li id="q40-2">② ‘나’는 ‘외손녀’에게 마음을 전하고 싶어 글을 썼다.<a class="src-tag" href="#ev41b">지문 근거</a></li>
-    <li id="q40-3">③ ‘나’는 ‘외손녀’가 밝은 성품과 슬기로움을 지녔다고 생각했다.<a class="src-tag" href="#ev-q40-3">지문 근거</a></li>
-    <li id="q40-4">④ ‘외손녀’는 여인의 장신구를 중요하게 여기지 않았다.<a class="src-tag" href="#ev40b">지문 근거</a></li>
-    <li id="q40-5">⑤ ‘외손녀’는 책 속 인물들의 절개·행실을 높이 평가했다.<a class="src-tag" href="#ev40b">지문 근거</a></li>
+    <li id="q40-2">② ‘나’는 ‘외손녀’에게 마음을 전하고 싶어 글을 썼다.<a class="src-tag" href="#ev41b">오답 근거지문 근거</a></li>
+    <li id="q40-3">③ ‘나’는 ‘외손녀’가 밝은 성품과 슬기로움을 지녔다고 생각했다.<a class="src-tag" href="#ev-q40-3">오답 근거지문 근거</a></li>
+    <li id="q40-4">④ ‘외손녀’는 여인의 장신구를 중요하게 여기지 않았다.<a class="src-tag" href="#ev40b">오답 근거지문 근거</a></li>
+    <li id="q40-5">⑤ ‘외손녀’는 책 속 인물들의 절개·행실을 높이 평가했다.<a class="src-tag" href="#ev40b">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1622,10 +1622,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="q-block" id="prob44">
   <p class="q-stem">44. ㉠~㉤에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q44-1">① ㉠: 바다를 대하는 마을 사람들의 행동을 믿지 못하는 상황을 부각한다.<a class="src-tag" href="#ev44a">지문 근거</a></li>
-    <li id="q44-2">② ㉡: 바다를 소중히 여기는 화자의 마음을 드러낸다.<a class="src-tag" href="#ev44b">지문 근거</a></li>
-    <li id="q44-3">③ ㉢: 화자가 여전히 높은 곳에 도달하는 것을 중요시함을 드러낸다.<a class="src-tag" href="#ev44c">지문 근거</a></li>
-    <li id="q44-4">④ ㉣: 산을 오르는 것보다 산 아래서의 삶이 더 힘겨웠음을 부각한다.<a class="src-tag" href="#ev44d">지문 근거</a></li>
+    <li id="q44-1">① ㉠: 바다를 대하는 마을 사람들의 행동을 믿지 못하는 상황을 부각한다.<a class="src-tag" href="#ev44a">오답 근거지문 근거</a></li>
+    <li id="q44-2">② ㉡: 바다를 소중히 여기는 화자의 마음을 드러낸다.<a class="src-tag" href="#ev44b">오답 근거지문 근거</a></li>
+    <li id="q44-3">③ ㉢: 화자가 여전히 높은 곳에 도달하는 것을 중요시함을 드러낸다.<a class="src-tag" href="#ev44c">오답 근거지문 근거</a></li>
+    <li id="q44-4">④ ㉣: 산을 오르는 것보다 산 아래서의 삶이 더 힘겨웠음을 부각한다.<a class="src-tag" href="#ev44d">오답 근거지문 근거</a></li>
     <li id="q44-5">⑤ ㉤: 산에서 깨달은 삶의 목표를 화자가 쉽게 이룰 수 있음을 강조한다.<a class="src-tag ans" href="#ev44">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1657,10 +1657,10 @@ summary: "2024년 9월 고2 전국연합학력평가 국어 기출 분석 — �
     <p>시인은 익숙한 시각을 버리고 새 관점에서 대상을 형상화한다. (가)는 바다를 상식에서 벗어난 모습으로, (나)는 산을 새 시선으로 바라보며 ‘오름’과 삶의 태도에 대한 인식 전환을 드러낸다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q45-1">① (가)는 바다를 ‘주머니에 넣’거나 ‘손바닥 위’에 올려놓을 수 있는 대상으로 표현해 크기에 대한 새 시각을 드러낸다.<a class="src-tag" href="#ev43">지문 근거</a></li>
-    <li id="q45-2">② (가)는 흰색 이미지로 바다를 ‘손수건’·‘갈치 떼’에 비유해 익숙한 시각에서 벗어난 모습으로 형상화한다.<a class="src-tag" href="#ev-q45-2">지문 근거</a></li>
-    <li id="q45-3">③ (가)는 바다를 ‘사람과 함께 눈뜨’고 ‘잠드는’ 대상으로 표현해 생명 있는 존재로 형상화한다.<a class="src-tag" href="#ev-q45-3">지문 근거</a></li>
-    <li id="q45-4">④ (나)는 속리산이 ‘길을 열어 보’인다고 표현해 산을 등반 대상이 아닌 행위의 주체로 나타낸다.<a class="src-tag" href="#ev-q45-4">지문 근거</a></li>
+    <li id="q45-1">① (가)는 바다를 ‘주머니에 넣’거나 ‘손바닥 위’에 올려놓을 수 있는 대상으로 표현해 크기에 대한 새 시각을 드러낸다.<a class="src-tag" href="#ev43">오답 근거지문 근거</a></li>
+    <li id="q45-2">② (가)는 흰색 이미지로 바다를 ‘손수건’·‘갈치 떼’에 비유해 익숙한 시각에서 벗어난 모습으로 형상화한다.<a class="src-tag" href="#ev-q45-2">오답 근거지문 근거</a></li>
+    <li id="q45-3">③ (가)는 바다를 ‘사람과 함께 눈뜨’고 ‘잠드는’ 대상으로 표현해 생명 있는 존재로 형상화한다.<a class="src-tag" href="#ev-q45-3">오답 근거지문 근거</a></li>
+    <li id="q45-4">④ (나)는 속리산이 ‘길을 열어 보’인다고 표현해 산을 등반 대상이 아닌 행위의 주체로 나타낸다.<a class="src-tag" href="#ev-q45-4">오답 근거지문 근거</a></li>
     <li id="q45-5">⑤ (나)는 ‘어깨를 낮추며’ ‘속삭’이는 속리산을 타인을 위해 희생하는 존재로 형상화한다.<a class="src-tag ans" href="#ev44c">정답 근거</a></li>
   </ul>
   <details class="solution">

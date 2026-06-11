@@ -363,12 +363,12 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>1931년에 발표된 ｢고향｣은 ‘귀향’ 모티프를 활용해 고향 사람들과 고국산천이라는 물리적 실체로서의 고향과 민족 공동체라는 정신적 의미의 고향을 형상화하였다. 이를 위해 작가는 귀향의 동기가 대립되는 ‘지식인’과 물리적 실체로서의 고향을 그리워하는 ‘노동자’를 등장시킨다. 또한 작가는 ‘지식인’을 ‘지사형’과 ‘속물형’으로 나누고 ‘지사형’은 개인의 안위보다는 조국을 우선시하는 인물로, ‘속물형’은 개인적 실리를 좇는 자신의 행위를 조국을 위한 것으로 포장하는 세속적 인물로 그리고 있다.</p>
   </div>
-  <ul class="q-opts"><li id="q19-1">① ‘그것을 꾀할 나도 아니’라며 ‘오, 어서 달려가다오!’라고 하는 데에서, 지사형 인물의 면모를 확인할 수 있겠군.<a class="src-tag" href="#ev-q19-1">지문 근거</a></li>
+  <ul class="q-opts"><li id="q19-1">① ‘그것을 꾀할 나도 아니’라며 ‘오, 어서 달려가다오!’라고 하는 데에서, 지사형 인물의 면모를 확인할 수 있겠군.<a class="src-tag" href="#ev-q19-1">오답 근거지문 근거</a></li>
  <li id="q19-2">② ‘한 조선으로 간다는 것’, ‘한 고향 사람들’이라고 하는 데에서, 민족 공동체라는 정신적 의미의 고향을 확인할 수 있겠군.<a class="src-tag ans" href="#ev19">정답 근거</a></li>
- <li id="q19-3">③ ‘유력자 하나를 만나서 한 1년 졸랐더니 다행히 됐’다는 데에서, 속물형 인물의 귀향 동기를 확인할 수 있겠군.<a class="src-tag" href="#ev-q19-3">지문 근거</a></li>
- <li id="q19-4">④ ‘조선 사람 하나가 헐벗지 않는 것’이라고 하는 데에서, 자신의 행위를 조국을 위한 것으로 포장하는 속물형 인물의 면모를 확인할 수 있겠군.<a class="src-tag" href="#ev-q19-4">지문 근거</a></li>
+ <li id="q19-3">③ ‘유력자 하나를 만나서 한 1년 졸랐더니 다행히 됐’다는 데에서, 속물형 인물의 귀향 동기를 확인할 수 있겠군.<a class="src-tag" href="#ev-q19-3">오답 근거지문 근거</a></li>
+ <li id="q19-4">④ ‘조선 사람 하나가 헐벗지 않는 것’이라고 하는 데에서, 자신의 행위를 조국을 위한 것으로 포장하는 속물형 인물의 면모를 확인할 수 있겠군.<a class="src-tag" href="#ev-q19-4">오답 근거지문 근거</a></li>
  <li id="q19-5">⑤ ‘처자식이 그리워 허턱대구’ 나온다고 하는 데에서, 물리적 실체로서의 고향을 그리워하는 노동자의 모습을 확인할 수 있겠군.
-16<a class="src-tag" href="#ev-q19-5">지문 근거</a></li></ul>
+16<a class="src-tag" href="#ev-q19-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(고향의 의미)로 감상한다.</p><p>‘한 조선’·‘한 고향 사람들’에서 물리적 실체로서의 고향이 드러난다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>‘달려가다오’=관념적 고향.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>‘한 고향 사람들’=물리적 고향.</td></tr><tr><td>③</td><td>오답</td><td>유력자=물리적 고향 아님.</td></tr><tr><td>④</td><td>오답</td><td>‘헐벗지 않음’=관념적 고향.</td></tr><tr><td>⑤</td><td>오답</td><td>‘처자식 그리움’=관념적 고향.</td></tr></tbody></table></div></details>
 </div>
 
@@ -403,10 +403,10 @@ layout: "exam"
 <div class="q-block" id="prob21">
   <p class="q-stem">21. (가), (나)의 내용과 일치하지 않는 것은? <span class="q-rate">오답률 63.9%</span></p>
   <ul class="q-opts"><li id="q21-1">① 언론 매체가 재량권을 남용한 경우에 국민의 언론 매체 접근·
-이용권은 보호받을 수 있다.<a class="src-tag" href="#ev-q21-1">지문 근거</a></li>
- <li id="q21-2">② 공공의 이익을 위한 보도가 타인의 명예를 훼손한 경우 민법상 정정 보도 청구권은 성립하지 않는다.<a class="src-tag" href="#ev-q21-2">지문 근거</a></li>
- <li id="q21-3">③ 민법상 정정 보도 청구권은 언론중재법상 정정 보도 청구권보다 보도를 청구할 수 있는 기한이 길다.<a class="src-tag" href="#ev-q21-3">지문 근거</a></li>
- <li id="q21-4">④ 언론중재법상 정정 보도 또는 반론 보도를 청구하려면 언론 보도로 인해 피해를 입은 사실이 있어야 한다.<a class="src-tag" href="#ev-q21-4">지문 근거</a></li>
+이용권은 보호받을 수 있다.<a class="src-tag" href="#ev-q21-1">오답 근거지문 근거</a></li>
+ <li id="q21-2">② 공공의 이익을 위한 보도가 타인의 명예를 훼손한 경우 민법상 정정 보도 청구권은 성립하지 않는다.<a class="src-tag" href="#ev-q21-2">오답 근거지문 근거</a></li>
+ <li id="q21-3">③ 민법상 정정 보도 청구권은 언론중재법상 정정 보도 청구권보다 보도를 청구할 수 있는 기한이 길다.<a class="src-tag" href="#ev-q21-3">오답 근거지문 근거</a></li>
+ <li id="q21-4">④ 언론중재법상 정정 보도 또는 반론 보도를 청구하려면 언론 보도로 인해 피해를 입은 사실이 있어야 한다.<a class="src-tag" href="#ev-q21-4">오답 근거지문 근거</a></li>
  <li id="q21-5">⑤ 배런은 시민에게 매체를 소유할 수 있는 권리가 주어지지 않아 언론의 자유가 소수의 것으로 전락했다고 보았다.<a class="src-tag ans" href="#ev21">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 내용과 일치하는 것을 찾는다.</p><p>배런은 시민에게 매체를 소유할 권리가 주어지지 않아 언론 자유가 소수의 것으로 전락했다고 보았다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>불일치</td><td>재량권 남용 진술 없음.</td></tr><tr><td>②</td><td>불일치</td><td>민법 관련 진술 불일치.</td></tr><tr><td>③</td><td>불일치</td><td>두 청구권 비교 불일치.</td></tr><tr><td>④</td><td>불일치</td><td>청구 절차 불일치.</td></tr><tr class="correct"><td>⑤</td><td class="ok">일치</td><td>배런=매체 소유권 부재 지적.</td></tr></tbody></table></div></details>
 </div>
@@ -493,9 +493,9 @@ layout: "exam"
 
 <div class="q-block" id="prob28">
   <p class="q-stem">28. 후각 자극의 신호 전달 과정을 중심으로 ㉠, ㉡을 이해한 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q28-1">① ㉠에서 냄새 분자가 섬모에 닿으려면 먼저 점액질층을 통과해야 한다.<a class="src-tag" href="#ev-q28-1">지문 근거</a></li>
- <li id="q28-2">② ㉠에서 냄새 분자와 후각 수용체가 결합하면 <span class="ev" id="ev-q28-2">후각 신경 세포에서 전기 신호가 발생한다</span><a class="ev-tag" href="#q28-2">28-②</a>.<a class="src-tag" href="#ev-q28-2">지문 근거</a></li>
- <li id="q28-3">③ ㉡에서 만들어진 패턴은 승모 세포를 통해 전기 신호가 강해져 대뇌의 후각 겉질로 전달된다.<a class="src-tag" href="#ev-q28-3">지문 근거</a></li>
+  <ul class="q-opts"><li id="q28-1">① ㉠에서 냄새 분자가 섬모에 닿으려면 먼저 점액질층을 통과해야 한다.<a class="src-tag" href="#ev-q28-1">오답 근거지문 근거</a></li>
+ <li id="q28-2">② ㉠에서 냄새 분자와 후각 수용체가 결합하면 <span class="ev" id="ev-q28-2">후각 신경 세포에서 전기 신호가 발생한다</span><a class="ev-tag" href="#q28-2">28-②</a>.<a class="src-tag" href="#ev-q28-2">오답 근거지문 근거</a></li>
+ <li id="q28-3">③ ㉡에서 만들어진 패턴은 승모 세포를 통해 전기 신호가 강해져 대뇌의 후각 겉질로 전달된다.<a class="src-tag" href="#ev-q28-3">오답 근거지문 근거</a></li>
  <li id="q28-4">④ ㉠에서 서로 다른 종류의 후각 수용체가 활성화되어 발생한 전기 신호는 한 개의 축삭에 모여 ㉡으로 전달된다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
  <li id="q28-5">⑤ ㉠으로부터 전달된 전기 신호와 세기를 반영하여 ㉡에서는 패턴이 만들어진다.
 16</li></ul>
@@ -572,11 +572,11 @@ layout: "exam"
 
 <div class="q-block" id="prob32">
   <p class="q-stem">32. 윗글의 인물에 대한 이해로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q32-1">① ‘황후’는 유충렬의 도움으로 본진에 돌아왔다.<a class="src-tag" href="#ev-q32-1">지문 근거</a></li>
+  <ul class="q-opts"><li id="q32-1">① ‘황후’는 유충렬의 도움으로 본진에 돌아왔다.<a class="src-tag" href="#ev-q32-1">오답 근거지문 근거</a></li>
  <li id="q32-2">② ‘유충렬’은 정한담의 목을 베어 황제 전에 바쳤다.<a class="src-tag ans" href="#ev32">정답 근거</a></li>
  <li id="q32-3">③ ‘정한담’은 유충렬을 자극하여 싸움을 시작하고 있다.</li>
  <li id="q32-4">④ ‘큰스님’은 백룡사에 찾아온 사람이 유충렬이라는 사실을 알고 있었다.</li>
- <li id="q32-5">⑤ ‘영릉골 관비’는 강 낭자의 자색과 태도를 알아보고 떠나지 않도록 회유하고 있다.<a class="src-tag" href="#ev-q32-5">지문 근거</a></li></ul>
+ <li id="q32-5">⑤ ‘영릉골 관비’는 강 낭자의 자색과 태도를 알아보고 떠나지 않도록 회유하고 있다.<a class="src-tag" href="#ev-q32-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 내용과 일치하는 것을 찾는다.</p><p>유충렬이 벤 것은 허수아비의 목이어서 정한담의 목을 황제에게 바치지 못했다. ②가 일치하지 않는다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>일치</td><td>황후가 유충렬 도움으로 귀환.</td></tr><tr class="correct"><td>②</td><td class="ok">불일치</td><td>허수아비 목—실제 못 바침.</td></tr><tr><td>③</td><td>일치</td><td>정한담이 싸움을 도발.</td></tr><tr><td>④</td><td>일치</td><td>큰스님이 유충렬을 알아봄.</td></tr><tr><td>⑤</td><td>일치</td><td>관비가 강 낭자를 알아봄.</td></tr></tbody></table></div></details>
 </div>
 
@@ -625,10 +625,10 @@ layout: "exam"
 
 <div class="q-block" id="prob35">
   <p class="q-stem">35. ‘다산 윤리학’의 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q35-1">① 백성들의 삶을 윤택하게 하는 행동을 통해 인을 얻을 수 있다.<a class="src-tag" href="#ev-q35-1">지문 근거</a></li>
- <li id="q35-2">② 인간이 선과 악을 선택할 수 있는 것은 자유의지가 있기 때문이다.<a class="src-tag" href="#ev-q35-2">지문 근거</a></li>
- <li id="q35-3">③ 서(恕)로써 다른 사람을 대하는 것이 타인에게 도리를 다하는 것이다.<a class="src-tag" href="#ev-q35-3">지문 근거</a></li>
- <li id="q35-4">④ 인을 완성할 수 있는 실천 원리는 상호 평등성의 인정과 인격 존중에 기초한다.<a class="src-tag" href="#ev-q35-4">지문 근거</a></li>
+  <ul class="q-opts"><li id="q35-1">① 백성들의 삶을 윤택하게 하는 행동을 통해 인을 얻을 수 있다.<a class="src-tag" href="#ev-q35-1">오답 근거지문 근거</a></li>
+ <li id="q35-2">② 인간이 선과 악을 선택할 수 있는 것은 자유의지가 있기 때문이다.<a class="src-tag" href="#ev-q35-2">오답 근거지문 근거</a></li>
+ <li id="q35-3">③ 서(恕)로써 다른 사람을 대하는 것이 타인에게 도리를 다하는 것이다.<a class="src-tag" href="#ev-q35-3">오답 근거지문 근거</a></li>
+ <li id="q35-4">④ 인을 완성할 수 있는 실천 원리는 상호 평등성의 인정과 인격 존중에 기초한다.<a class="src-tag" href="#ev-q35-4">오답 근거지문 근거</a></li>
  <li id="q35-5">⑤ 만물개비어아는 인간 감정의 보편성을 통해 자기의 감정을 이해할 수 있다는 것이다.<a class="src-tag ans" href="#ev35">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 세부 내용과 일치하는 것을 찾는다.</p><p>다산은 만물개비어아를, 인간 감정의 보편성을 통해 자기 감정으로 남을 이해할 수 있다는 의미로 보았다. ⑤.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>불일치</td><td>인 획득 방식 불일치.</td></tr><tr><td>②</td><td>불일치</td><td>자유의지 설명 불일치.</td></tr><tr><td>③</td><td>불일치</td><td>서(恕) 설명 불일치.</td></tr><tr><td>④</td><td>불일치</td><td>실천 원리 불일치.</td></tr><tr class="correct"><td>⑤</td><td class="ok">일치</td><td>만물개비어아=감정의 보편성.</td></tr></tbody></table></div></details>
 </div>
@@ -770,10 +770,10 @@ layout: "exam"
  <p>｢낙타｣의 화자는 자연 현상인 죽음을 부정하지 않고 담담하게 받아들이면서, 죽음과 삶 사이의 경계를 초월하여 회귀의 구조로 삶과 죽음을 바라본다. 이 과정에서 화자는 이승에서의 자기 삶을 돌아보고, 자기 삶의 모습이 자신이 추구하는 모습과 다름을 인식한다. 또한 화자 자신이 닮고자 하는 대상처럼 살아온 사람에 대한 긍정적 인식을 바탕으로 그 사람과 함께하고 싶은 마음을 드러내기도 한다.</p>
   </div>
   <ul class="q-opts"><li id="q45-1">① ‘손 저어 대답’하는 것에는 자연 현상인 죽음을 담담하게 수용하라는 ‘누군가’의 말을 외면하려는 마음이 담겨 있군.<a class="src-tag ans" href="#ev45">정답 근거</a></li>
- <li id="q45-2">② ‘다시 세상에 나’간다는 것에는 죽음과 삶 사이의 경계를 초월하여 죽음과 삶을 보는 시각이 전제되어 있군.<a class="src-tag" href="#ev-q45-2">지문 근거</a></li>
- <li id="q45-3">③ ‘낙타가 되어 가겠’다는 것은 삶의 세계로의, ‘돌아’온다는 것은 죽음의 세계로의 회귀를 나타내는군.<a class="src-tag" href="#ev-q45-3">지문 근거</a></li>
- <li id="q45-4">④ ‘별과 달과 해와/ 모래만 보고 살’겠다는 것에는 ‘슬픔도 아픔도’ 있었던 이승에서의 삶과 다르게 살고 싶은 바람이 드러나 있군.<a class="src-tag" href="#ev-q45-4">지문 근거</a></li>
+ <li id="q45-2">② ‘다시 세상에 나’간다는 것에는 죽음과 삶 사이의 경계를 초월하여 죽음과 삶을 보는 시각이 전제되어 있군.<a class="src-tag" href="#ev-q45-2">오답 근거지문 근거</a></li>
+ <li id="q45-3">③ ‘낙타가 되어 가겠’다는 것은 삶의 세계로의, ‘돌아’온다는 것은 죽음의 세계로의 회귀를 나타내는군.<a class="src-tag" href="#ev-q45-3">오답 근거지문 근거</a></li>
+ <li id="q45-4">④ ‘별과 달과 해와/ 모래만 보고 살’겠다는 것에는 ‘슬픔도 아픔도’ 있었던 이승에서의 삶과 다르게 살고 싶은 바람이 드러나 있군.<a class="src-tag" href="#ev-q45-4">오답 근거지문 근거</a></li>
  <li id="q45-5">⑤ ‘등에 업고 오겠’다는 것에는 ‘낙타’처럼 살아온 사람에 대한 긍정적 인식이 반영되어 있군.
-* 확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.<a class="src-tag" href="#ev-q45-5">지문 근거</a></li></ul>
+* 확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.<a class="src-tag" href="#ev-q45-5">오답 근거지문 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>①</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(죽음의 수용)로 감상한다.</p><p>‘손 저어 대답’하는 것에는 자연 현상인 죽음을 담담하게 받아들이는 태도가 담겨 있다. ①.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr class="correct"><td>①</td><td class="ok">적절</td><td>손 저어 대답=담담한 수용.</td></tr><tr><td>②</td><td>오답</td><td>경계 해석 부정확.</td></tr><tr><td>③</td><td>오답</td><td>방향 해석 부정확.</td></tr><tr><td>④</td><td>오답</td><td>‘슬픔도’ 해석 부정확.</td></tr><tr><td>⑤</td><td>오답</td><td>‘업고 오겠’ 해석 부정확.</td></tr></tbody></table></div></details>
 </div>
