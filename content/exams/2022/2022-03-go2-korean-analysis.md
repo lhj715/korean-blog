@@ -40,10 +40,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p class="q-stem">1. 위 발표에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q1-1">① 발표를 시작하며 발표 순서와 방법을 안내하고 있다.</li>
-    <li id="q1-2">② 발표 매체의 특성을 활용하여 청중과 상호작용하고 있다.<a class="src-tag" href="#ev-q1-2">오답 근거</a></li>
-    <li id="q1-3">③ 발표자의 경험을 언급하며 주제 선정 이유를 밝히고 있다.<a class="src-tag" href="#ev-q1-3">오답 근거</a></li>
-    <li id="q1-4">④ 시범을 보이며 발표를 진행하여 청중의 이해를 돕고 있다.<a class="src-tag" href="#ev-q2-4">오답 근거</a></li>
-    <li id="q1-5">⑤ 발표를 마무리하며 추가 정보의 확인 방법을 안내하고 있다.<a class="src-tag" href="#ev-q1-5">오답 근거</a></li>
+    <li id="q1-2">② 발표 매체의 특성을 활용하여 청중과 상호작용하고 있다.<a class="src-tag" href="#ev-q1-2">오답 근거지문 근거</a></li>
+    <li id="q1-3">③ 발표자의 경험을 언급하며 주제 선정 이유를 밝히고 있다.<a class="src-tag" href="#ev-q1-3">오답 근거지문 근거</a></li>
+    <li id="q1-4">④ 시범을 보이며 발표를 진행하여 청중의 이해를 돕고 있다.<a class="src-tag" href="#ev-q2-4">오답 근거지문 근거</a></li>
+    <li id="q1-5">⑤ 발표를 마무리하며 추가 정보의 확인 방법을 안내하고 있다.<a class="src-tag" href="#ev-q1-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -74,11 +74,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>[자료 1] 수어 인사 ‘안녕하세요’ 동작 / [자료 2] ‘닭’·‘경찰’ 손 모양 / [자료 3] ‘행복하다’·‘행복하니?’ 표정·동작</p>
   </div>
   <ul class="q-opts">
-    <li id="q2-1">① [자료 1]을 활용하여 수어 인사에 대한 소개로 발표를 시작하고 있다.<a class="src-tag" href="#ev-q2-1">오답 근거</a></li>
-    <li id="q2-2">② [자료 1]을 활용하여 수어의 의미를 나타내는 수지 기호의 요소를 소개하고 있다.<a class="src-tag" href="#ev-q2-2">오답 근거</a></li>
-    <li id="q2-3">③ [자료 2]를 활용하여 수지 기호에 따라 수어의 의미가 달라질 수 있음을 알려 주고 있다.<a class="src-tag" href="#ev-q2-3">오답 근거</a></li>
+    <li id="q2-1">① [자료 1]을 활용하여 수어 인사에 대한 소개로 발표를 시작하고 있다.<a class="src-tag" href="#ev-q2-1">오답 근거지문 근거</a></li>
+    <li id="q2-2">② [자료 1]을 활용하여 수어의 의미를 나타내는 수지 기호의 요소를 소개하고 있다.<a class="src-tag" href="#ev-q2-2">오답 근거지문 근거</a></li>
+    <li id="q2-3">③ [자료 2]를 활용하여 수지 기호에 따라 수어의 의미가 달라질 수 있음을 알려 주고 있다.<a class="src-tag" href="#ev-q2-3">오답 근거지문 근거</a></li>
     <li id="q2-4">④ [자료 3]을 활용하여 비수지 기호만으로 ‘행복하니?’라는 의문문을 만드는 방법을 설명하고 있다.<a class="src-tag ans" href="#ev-q2-4">정답 근거</a></li>
-    <li id="q2-5">⑤ [자료 3]을 활용하여 청중들이 수어 동작을 직접 따라 해 보도록 제안하고 있다.<a class="src-tag" href="#ev-q2-4">오답 근거</a></li>
+    <li id="q2-5">⑤ [자료 3]을 활용하여 청중들이 수어 동작을 직접 따라 해 보도록 제안하고 있다.<a class="src-tag" href="#ev-q2-4">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -187,11 +187,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)의 ‘편집부장’에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q4-1">① 지난 회의 내용과 관련하여 협의해야 할 내용을 밝히고 있다.<a class="src-tag" href="#ev-q4-1">오답 근거</a></li>
-    <li id="q4-2">② 상대 의견에 대한 공감을 드러내며 그 이유를 설명하고 있다.<a class="src-tag" href="#ev-q4-2">오답 근거</a></li>
+    <li id="q4-1">① 지난 회의 내용과 관련하여 협의해야 할 내용을 밝히고 있다.<a class="src-tag" href="#ev-q4-1">오답 근거지문 근거</a></li>
+    <li id="q4-2">② 상대 의견에 대한 공감을 드러내며 그 이유를 설명하고 있다.<a class="src-tag" href="#ev-q4-2">오답 근거지문 근거</a></li>
     <li id="q4-3">③ 회의 중간중간에 상대가 했던 말을 요약하며 정리하고 있다.</li>
-    <li id="q4-4">④ 물음의 형식을 통해 자신의 의견을 상대에게 제안하고 있다.<a class="src-tag" href="#ev-q4-4">오답 근거</a></li>
-    <li id="q4-5">⑤ 상대 의견의 실현 가능성을 언급하며 대안을 제시하고 있다.<a class="src-tag" href="#ev-q4-5">오답 근거</a></li>
+    <li id="q4-4">④ 물음의 형식을 통해 자신의 의견을 상대에게 제안하고 있다.<a class="src-tag" href="#ev-q4-4">오답 근거지문 근거</a></li>
+    <li id="q4-5">⑤ 상대 의견의 실현 가능성을 언급하며 대안을 제시하고 있다.<a class="src-tag" href="#ev-q4-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -250,10 +250,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p class="q-stem">6. (가)의 내용이 (나)에 반영된 양상으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q6-1">① (가)에서 언급된 디지털 탄소 발자국의 주요 배출원을, (나)의 1문단에서 예를 들어 설명하고 있다.<a class="src-tag ans" href="#ev-q6-1">정답 근거</a></li>
-    <li id="q6-2">② (가)에서 디지털 탄소 발자국의 개념을 설명하자는 의견을 반영하여, (나)의 2문단에서 그 개념을 구체적으로 소개하고 있다.<a class="src-tag" href="#ev-q6-2">오답 근거</a></li>
-    <li id="q6-3">③ (가)에서 디지털 탄소 발자국의 비중이 늘어나고 있다는 점을 언급하자는 의견을, (나)의 2문단에서 자료를 활용하여 반영하고 있다.<a class="src-tag" href="#ev-q6-3">오답 근거</a></li>
-    <li id="q6-4">④ (가)에서 이산화 탄소를 발생시키는 이유를 설명하자는 의견에 따라, (나)의 3문단에서 그 이유를 데이터 센터와 관련지어 서술하고 있다.<a class="src-tag" href="#ev-q6-4">오답 근거</a></li>
-    <li id="q6-5">⑤ (가)에서 줄일 수 있는 방법을 소개하자는 의견에 따라, (나)의 4문단에서 다양한 방법을 열거하고 있다.<a class="src-tag" href="#ev-q6-5">오답 근거</a></li>
+    <li id="q6-2">② (가)에서 디지털 탄소 발자국의 개념을 설명하자는 의견을 반영하여, (나)의 2문단에서 그 개념을 구체적으로 소개하고 있다.<a class="src-tag" href="#ev-q6-2">오답 근거지문 근거</a></li>
+    <li id="q6-3">③ (가)에서 디지털 탄소 발자국의 비중이 늘어나고 있다는 점을 언급하자는 의견을, (나)의 2문단에서 자료를 활용하여 반영하고 있다.<a class="src-tag" href="#ev-q6-3">오답 근거지문 근거</a></li>
+    <li id="q6-4">④ (가)에서 이산화 탄소를 발생시키는 이유를 설명하자는 의견에 따라, (나)의 3문단에서 그 이유를 데이터 센터와 관련지어 서술하고 있다.<a class="src-tag" href="#ev-q6-4">오답 근거지문 근거</a></li>
+    <li id="q6-5">⑤ (가)에서 줄일 수 있는 방법을 소개하자는 의견에 따라, (나)의 4문단에서 다양한 방법을 열거하고 있다.<a class="src-tag" href="#ev-q6-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -284,11 +284,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob7">
   <p class="q-stem">7. &lt;보기&gt;는 ‘초고’를 보완하기 위해 추가로 수집한 자료이다. 자료 활용 방안으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
-    <li id="q7-1">① ㄱ을 활용하여, 이산화 탄소가 일회용품·자동차뿐 아니라 디지털 기기를 사용할 때도 배출됨을 뒷받침해야겠어.<a class="src-tag" href="#ev-q7-1">오답 근거</a></li>
-    <li id="q7-2">② ㄴ을 활용하여, 디지털 탄소 발자국이 늘어 지구 온난화가 가속화되는 현상이 사회적 문제로 대두됨을 언급해야겠어.<a class="src-tag" href="#ev-q7-4">오답 근거</a></li>
-    <li id="q7-3">③ ㄷ을 활용하여, 줄이기 위해 스트리밍·클라우드 서비스 이용 시 대용량 자료 송수신을 줄이자는 내용을 추가해야겠어.<a class="src-tag" href="#ev-q7-3">오답 근거</a></li>
+    <li id="q7-1">① ㄱ을 활용하여, 이산화 탄소가 일회용품·자동차뿐 아니라 디지털 기기를 사용할 때도 배출됨을 뒷받침해야겠어.<a class="src-tag" href="#ev-q7-1">오답 근거지문 근거</a></li>
+    <li id="q7-2">② ㄴ을 활용하여, 디지털 탄소 발자국이 늘어 지구 온난화가 가속화되는 현상이 사회적 문제로 대두됨을 언급해야겠어.<a class="src-tag" href="#ev-q7-4">오답 근거지문 근거</a></li>
+    <li id="q7-3">③ ㄷ을 활용하여, 줄이기 위해 스트리밍·클라우드 서비스 이용 시 대용량 자료 송수신을 줄이자는 내용을 추가해야겠어.<a class="src-tag" href="#ev-q7-3">오답 근거지문 근거</a></li>
     <li id="q7-4">④ ㄱ, ㄴ을 활용하여, 지구 온난화 요인이 다양화되므로 디지털 탄소 발자국을 줄이기 위한 제도적 장치를 마련해야 한다는 주장을 뒷받침해야겠어.<a class="src-tag ans" href="#ev-q7-4">정답 근거</a></li>
-    <li id="q7-5">⑤ ㄴ, ㄷ을 활용하여, 급증한 데이터 센터 수와 디지털 기기 사용 양상을 언급하며 코로나 19 이후 디지털 탄소 발자국이 급증함을 추가해야겠어.<a class="src-tag" href="#ev-q7-3">오답 근거</a></li>
+    <li id="q7-5">⑤ ㄴ, ㄷ을 활용하여, 급증한 데이터 센터 수와 디지털 기기 사용 양상을 언급하며 코로나 19 이후 디지털 탄소 발자국이 급증함을 추가해야겠어.<a class="src-tag" href="#ev-q7-3">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -339,10 +339,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p class="q-stem">8. ‘초고’에서 활용한 글쓰기 방법으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q8-1">① 자문자답을 통해 글쓴이의 생각을 강조하고 있다.</li>
-    <li id="q8-2">② 현재형 표현을 사용하여 현장감을 드러내고 있다.<a class="src-tag" href="#ev-q8-2">오답 근거</a></li>
-    <li id="q8-3">③ 감각적인 표현을 활용하여 계절감을 나타내고 있다.<a class="src-tag" href="#ev-q8-3">오답 근거</a></li>
-    <li id="q8-4">④ 묘사를 통해 글쓴이가 바라본 정경을 표현하고 있다.<a class="src-tag" href="#ev-q8-3">오답 근거</a></li>
-    <li id="q8-5">⑤ 지명의 유래를 소개하여 장소에 대한 이해를 돕고 있다.<a class="src-tag" href="#ev-q8-5">오답 근거</a></li>
+    <li id="q8-2">② 현재형 표현을 사용하여 현장감을 드러내고 있다.<a class="src-tag" href="#ev-q8-2">오답 근거지문 근거</a></li>
+    <li id="q8-3">③ 감각적인 표현을 활용하여 계절감을 나타내고 있다.<a class="src-tag" href="#ev-q8-3">오답 근거지문 근거</a></li>
+    <li id="q8-4">④ 묘사를 통해 글쓴이가 바라본 정경을 표현하고 있다.<a class="src-tag" href="#ev-q8-3">오답 근거지문 근거</a></li>
+    <li id="q8-5">⑤ 지명의 유래를 소개하여 장소에 대한 이해를 돕고 있다.<a class="src-tag" href="#ev-q8-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -373,11 +373,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>㉠ 집 — 앞집 담장 너머 산수유 꽃을 봄<br>㉡ 수성동 계곡 — 아름다운 경치에 뿌듯함<br>㉢ 해맞이 동산 — 조팝나무·개나리·진달래를 봄<br>㉣ 가온다리·바위 — 두꺼비 바위에서 위압감을 느낌<br>㉤ 시인의 언덕 — 조금 숨이 차지만 마음이 달큼함</p>
   </div>
   <ul class="q-opts">
-    <li id="q9-1">① ㉠<a class="src-tag" href="#ev-q9-1">오답 근거</a></li>
-    <li id="q9-2">② ㉡<a class="src-tag" href="#ev-q9-2">오답 근거</a></li>
-    <li id="q9-3">③ ㉢<a class="src-tag" href="#ev-q8-3">오답 근거</a></li>
+    <li id="q9-1">① ㉠<a class="src-tag" href="#ev-q9-1">오답 근거지문 근거</a></li>
+    <li id="q9-2">② ㉡<a class="src-tag" href="#ev-q9-2">오답 근거지문 근거</a></li>
+    <li id="q9-3">③ ㉢<a class="src-tag" href="#ev-q8-3">오답 근거지문 근거</a></li>
     <li id="q9-4">④ ㉣<a class="src-tag ans" href="#ev-q9-4">정답 근거</a></li>
-    <li id="q9-5">⑤ ㉤<a class="src-tag" href="#ev-q9-5">오답 근거</a></li>
+    <li id="q9-5">⑤ ㉤<a class="src-tag" href="#ev-q9-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -474,10 +474,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>ㄱ. (아버지께) 선생님께서는 책이 많으십니다.<br>ㄴ. (방송에서) 세종대왕이 한글을 창제했습니다.<br>ㄷ. (수업에서 선생님이) 발표할 어린이는 손 드시면 됩니다.<br>ㄹ. (어린 손자에게) 너희 엄마는 언제 출근하셨니?<br>ㅁ. (할아버지께) 아버지는 아직 병원에 가지 않았습니다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q11-1">① ㄱ에서는 ‘선생님’의 소유물인 ‘책’을 높임으로써 ‘선생님’을 간접적으로 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거</a></li>
-    <li id="q11-2">② ㄴ에서는 담화의 객관성을 고려해 ‘세종대왕’을 높이지 않고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거</a></li>
-    <li id="q11-3">③ ㄷ에서는 수업이라는 담화 상황을 고려해 ‘어린이’를 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거</a></li>
-    <li id="q11-4">④ ㄹ에서는 주체인 ‘엄마’와 청자인 ‘손자’의 관계를 고려해 ‘엄마’를 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거</a></li>
+    <li id="q11-1">① ㄱ에서는 ‘선생님’의 소유물인 ‘책’을 높임으로써 ‘선생님’을 간접적으로 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거지문 근거</a></li>
+    <li id="q11-2">② ㄴ에서는 담화의 객관성을 고려해 ‘세종대왕’을 높이지 않고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거지문 근거</a></li>
+    <li id="q11-3">③ ㄷ에서는 수업이라는 담화 상황을 고려해 ‘어린이’를 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거지문 근거</a></li>
+    <li id="q11-4">④ ㄹ에서는 주체인 ‘엄마’와 청자인 ‘손자’의 관계를 고려해 ‘엄마’를 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거지문 근거</a></li>
     <li id="q11-5">⑤ ㅁ에서는 주체인 ‘아버지’와 화자의 관계를 고려해 ‘아버지’를 높이고 있다.<a class="src-tag ans" href="#ev-q11-a">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -513,10 +513,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>a. [중세] 大師(대사) ᄒᆞ샨 일 아니면 뉘 혼 거시ᅌᅵᆺ고 / [현대] 대사가 하신 일이 아니면 누가 한 것입니까?<br>b. [중세] 이 돈 가져가 어마님 供養(공양)ᄒᆞᅀᆞᆸ고 / [현대] 이 돈을 가져가 어머님을 공양하고<br>c. [중세] 太子(태자)ᄅᆞᆯ 안아 부인ㅅ긔 뫼셔 오니 / [현대] 태자를 안아 부인께 모셔 오니</p>
   </div>
   <ul class="q-opts">
-    <li id="q12-1">① a : 중세 ‘-샤-’, 현대 ‘-시-’를 사용하여 주체인 ‘대사’를 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거</a></li>
-    <li id="q12-2">② a : 중세에서는 현대에 없는 ‘-ᅌᅵᆺ-’을 사용하여 대화의 상대인 청자를 높이고 있다.<a class="src-tag" href="#ev-q12-a">오답 근거</a></li>
-    <li id="q12-3">③ b : 중세에서는 현대에 없는 ‘-ᅀᆞᇦ-’을 사용하여 객체인 ‘어마님’을 높이고 있다.<a class="src-tag" href="#ev-q12-bc">오답 근거</a></li>
-    <li id="q12-4">④ c : 중세 ‘ㅅ긔’, 현대 ‘께’를 사용하여 객체인 ‘부인’을 높이고 있다.<a class="src-tag" href="#ev-q12-bc">오답 근거</a></li>
+    <li id="q12-1">① a : 중세 ‘-샤-’, 현대 ‘-시-’를 사용하여 주체인 ‘대사’를 높이고 있다.<a class="src-tag" href="#ev-q11-a">오답 근거지문 근거</a></li>
+    <li id="q12-2">② a : 중세에서는 현대에 없는 ‘-ᅌᅵᆺ-’을 사용하여 대화의 상대인 청자를 높이고 있다.<a class="src-tag" href="#ev-q12-a">오답 근거지문 근거</a></li>
+    <li id="q12-3">③ b : 중세에서는 현대에 없는 ‘-ᅀᆞᇦ-’을 사용하여 객체인 ‘어마님’을 높이고 있다.<a class="src-tag" href="#ev-q12-bc">오답 근거지문 근거</a></li>
+    <li id="q12-4">④ c : 중세 ‘ㅅ긔’, 현대 ‘께’를 사용하여 객체인 ‘부인’을 높이고 있다.<a class="src-tag" href="#ev-q12-bc">오답 근거지문 근거</a></li>
     <li id="q12-5">⑤ c : 중세 ‘뫼셔’, 현대 ‘모셔’를 사용하여 주체인 ‘태자’를 높이고 있다.<a class="src-tag ans" href="#ev-q12-bc">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -705,9 +705,9 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p class="q-stem">16. (가)~(다)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q16-1">① (가)는 추상적 관념을 구체적 대상으로 표현하여 부조리한 사회 현실을 고발하고 있다.</li>
-    <li id="q16-2">② (나)는 대구의 방식을 활용하여 시적 대상이 갖고 있는 긍정적인 속성을 예찬하고 있다.<a class="src-tag" href="#ev-q16-2">오답 근거</a></li>
-    <li id="q16-3">③ (다)는 특정 대상과 대화를 주고받는 방식을 통해 지나온 삶을 성찰하고 있다.<a class="src-tag" href="#ev-q16-3">오답 근거</a></li>
-    <li id="q16-4">④ (가)와 (나)는 화자의 공간 이동에 따른 정서 변화의 추이를 중심으로 시상을 전개하고 있다.<a class="src-tag" href="#ev-q16-4">오답 근거</a></li>
+    <li id="q16-2">② (나)는 대구의 방식을 활용하여 시적 대상이 갖고 있는 긍정적인 속성을 예찬하고 있다.<a class="src-tag wrong" href="#ev-q16-2">오답 근거</a></li>
+    <li id="q16-3">③ (다)는 특정 대상과 대화를 주고받는 방식을 통해 지나온 삶을 성찰하고 있다.<a class="src-tag wrong" href="#ev-q16-3">오답 근거</a></li>
+    <li id="q16-4">④ (가)와 (나)는 화자의 공간 이동에 따른 정서 변화의 추이를 중심으로 시상을 전개하고 있다.<a class="src-tag wrong" href="#ev-q16-4">오답 근거</a></li>
     <li id="q16-5">⑤ (나)와 (다)는 음성 상징어를 활용하여 작중 상황을 생동감 있게 나타내고 있다.<a class="src-tag ans" href="#ev-q19-5a">정답 근거 (나)</a><a class="src-tag ans" href="#ev-q16-5b">정답 근거 (다)</a></li>
   </ul>
   <details class="solution">
@@ -735,10 +735,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob17">
   <p class="q-stem">17. ㉠, ㉡에 대한 이해로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q17-1">① ㉠은 임을 만나게 된 설렘을, ㉡은 수확을 끝낸 희열을 느끼는 시간이다.<a class="src-tag" href="#ev-q17-1">오답 근거</a></li>
-    <li id="q17-2">② ㉠은 부재하는 임에 대한 원망을, ㉡은 공동체에 대한 소속감을 느끼는 시간이다.<a class="src-tag" href="#ev-q17-1">오답 근거 ㉠</a><a class="src-tag" href="#ev-q17-2">오답 근거 ㉡</a></li>
-    <li id="q17-3">③ ㉠은 자신의 행동에 대한 자부심을, ㉡은 자신의 행동에 대한 자괴감을 느끼는 시간이다.<a class="src-tag" href="#ev-q17-1">오답 근거 ㉠</a><a class="src-tag" href="#ev-q17-2">오답 근거 ㉡</a></li>
-    <li id="q17-4">④ ㉠은 내적 갈등에서 벗어난 평온함을, ㉡은 내적 갈등으로 인한 괴로움을 느끼는 시간이다.<a class="src-tag" href="#ev-q17-1">오답 근거 ㉠</a><a class="src-tag" href="#ev-q17-2">오답 근거 ㉡</a></li>
+    <li id="q17-1">① ㉠은 임을 만나게 된 설렘을, ㉡은 수확을 끝낸 희열을 느끼는 시간이다.<a class="src-tag wrong" href="#ev-q17-1">오답 근거</a></li>
+    <li id="q17-2">② ㉠은 부재하는 임에 대한 원망을, ㉡은 공동체에 대한 소속감을 느끼는 시간이다.<a class="src-tag wrong" href="#ev-q17-1">오답 근거 ㉠</a><a class="src-tag wrong" href="#ev-q17-2">오답 근거 ㉡</a></li>
+    <li id="q17-3">③ ㉠은 자신의 행동에 대한 자부심을, ㉡은 자신의 행동에 대한 자괴감을 느끼는 시간이다.<a class="src-tag wrong" href="#ev-q17-1">오답 근거 ㉠</a><a class="src-tag wrong" href="#ev-q17-2">오답 근거 ㉡</a></li>
+    <li id="q17-4">④ ㉠은 내적 갈등에서 벗어난 평온함을, ㉡은 내적 갈등으로 인한 괴로움을 느끼는 시간이다.<a class="src-tag wrong" href="#ev-q17-1">오답 근거 ㉠</a><a class="src-tag wrong" href="#ev-q17-2">오답 근거 ㉡</a></li>
     <li id="q17-5">⑤ ㉠은 자신의 행동이 감추어진 것에 대한 안도감을, ㉡은 자신이 행동한 결과에 대한 만족감을 느끼는 시간이다.<a class="src-tag ans" href="#ev-q17-1">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -766,11 +766,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob18">
   <p class="q-stem">18. (다)의 글쓴이에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q18-1">① ‘피곤한 나래’를 통해 아이들의 훼방으로 앉을 자리를 찾아 헤매는 참새들의 모습을 표현하고 있다.<a class="src-tag" href="#ev-q18-1">오답 근거</a></li>
-    <li id="q18-2">② ‘흑사병 같’다는 것을 통해 참새를 내쫓는 소리가 참새들에게 위협이 됨을 표현하고 있다.<a class="src-tag" href="#ev-q18-2">오답 근거</a></li>
-    <li id="q18-3">③ ‘애놈들도 고달플 것이다’에서 참새를 쫓아야 하는 더벅머리 떼의 처지를 측은하게 바라보고 있다.<a class="src-tag" href="#ev-q18-3">오답 근거</a></li>
+    <li id="q18-1">① ‘피곤한 나래’를 통해 아이들의 훼방으로 앉을 자리를 찾아 헤매는 참새들의 모습을 표현하고 있다.<a class="src-tag" href="#ev-q18-1">오답 근거지문 근거</a></li>
+    <li id="q18-2">② ‘흑사병 같’다는 것을 통해 참새를 내쫓는 소리가 참새들에게 위협이 됨을 표현하고 있다.<a class="src-tag" href="#ev-q18-2">오답 근거지문 근거</a></li>
+    <li id="q18-3">③ ‘애놈들도 고달플 것이다’에서 참새를 쫓아야 하는 더벅머리 떼의 처지를 측은하게 바라보고 있다.<a class="src-tag" href="#ev-q18-3">오답 근거지문 근거</a></li>
     <li id="q18-4">④ ‘씨름들을 해라’ 하며 상으로 내건 오뚝이를 통해 고난을 딛고 일어서는 의지의 중요성을 아이들에게 강조하고 있다.<a class="src-tag ans" href="#ev-q18-4">정답 근거</a></li>
-    <li id="q18-5">⑤ ‘저급한 정열’이라 표현한 것에서 인간의 본능적인 승부욕에 대한 부정적 인식을 보여 주고 있다.<a class="src-tag" href="#ev-q18-5">오답 근거</a></li>
+    <li id="q18-5">⑤ ‘저급한 정열’이라 표현한 것에서 인간의 본능적인 승부욕에 대한 부정적 인식을 보여 주고 있다.<a class="src-tag" href="#ev-q18-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -805,10 +805,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>해학을 유발하는 요소에는 상황적 요소와 언어적 요소가 있다. 상황적 요소는 상황의 반전·부조화·전이 등을 통해, 언어적 요소는 과장과 희화화, 재치 있는 표현을 통해 웃음을 머금게 한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q19-1">① (가)에서 거스를 수 없는 ‘백발’을 ‘가시’와 ‘막대’로 막으려는 상황이 부조화를 이루며 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q19-1">오답 근거</a></li>
-    <li id="q19-2">② (나)에서 ‘임’으로 확신했던 것이 ‘주추리 삼대’로 밝혀지며 상황이 반전되는 것에서 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q19-5a">오답 근거</a></li>
-    <li id="q19-3">③ (다)에서 ‘참새’를 쫓던 상황이 ‘오뚝이’를 위한 씨름에 몰두하는 상황으로 전이되며 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q18-4">오답 근거</a></li>
-    <li id="q19-4">④ (가)에서 늙음이 빠르게 다가옴을 ‘지름길로 오더라’로, (다)에서 ‘참새’에게 쌀알을 먹게 한 일을 ‘벼 두 되를 횡령’으로 재치 있게 표현한 것에서 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q19-4a">오답 근거 (가)</a><a class="src-tag" href="#ev-q19-4b">오답 근거 (다)</a></li>
+    <li id="q19-1">① (가)에서 거스를 수 없는 ‘백발’을 ‘가시’와 ‘막대’로 막으려는 상황이 부조화를 이루며 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q19-1">오답 근거지문 근거</a></li>
+    <li id="q19-2">② (나)에서 ‘임’으로 확신했던 것이 ‘주추리 삼대’로 밝혀지며 상황이 반전되는 것에서 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q19-5a">오답 근거지문 근거</a></li>
+    <li id="q19-3">③ (다)에서 ‘참새’를 쫓던 상황이 ‘오뚝이’를 위한 씨름에 몰두하는 상황으로 전이되며 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q18-4">오답 근거지문 근거</a></li>
+    <li id="q19-4">④ (가)에서 늙음이 빠르게 다가옴을 ‘지름길로 오더라’로, (다)에서 ‘참새’에게 쌀알을 먹게 한 일을 ‘벼 두 되를 횡령’으로 재치 있게 표현한 것에서 웃음이 유발된다고 할 수 있겠군.<a class="src-tag" href="#ev-q19-4a">오답 근거지문 근거 (가)</a><a class="src-tag" href="#ev-q19-4b">오답 근거지문 근거 (다)</a></li>
     <li id="q19-5">⑤ (나)에서 ‘버선’과 ‘신’을 신지 않고 허둥대는 모습을, (다)에서 ‘우승자’가 오뚝이를 상으로 받고 기뻐하는 모습을 과장하여 희화화한 것에서 웃음이 유발된다고 할 수 있겠군.<a class="src-tag ans" href="#ev-q19-5a">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -935,11 +935,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>세이렌의 유혹에 빠지지 않으려 <b>Ⓐ</b> 오디세우스는 부하들의 귀를 밀랍으로 막아 아무 소리도 못 듣게 하고 노를 젓게 한다. 그리고 <b>Ⓑ</b> 노랫소리에 빠지려는 욕망을 스스로 억압하려 자신의 몸을 돛대에 묶는다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q22-1">① Ⓐ 인간에 대한 지배 / Ⓑ 자연에 대한 지배<a class="src-tag" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
+    <li id="q22-1">① Ⓐ 인간에 대한 지배 / Ⓑ 자연에 대한 지배<a class="src-tag wrong" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
     <li id="q22-2">② Ⓐ 인간에 대한 지배 / Ⓑ 내적 자연에 대한 지배<a class="src-tag ans" href="#ev-q22-A2">정답 근거 Ⓐ</a><a class="src-tag ans" href="#ev-q22-B">정답 근거 Ⓑ</a></li>
-    <li id="q22-3">③ Ⓐ 내적 자연에 대한 지배 / Ⓑ 인간에 대한 지배<a class="src-tag" href="#ev-q22-A2">오답 근거 Ⓐ</a><a class="src-tag" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
-    <li id="q22-4">④ Ⓐ 내적 자연에 대한 지배 / Ⓑ 자연에 대한 지배<a class="src-tag" href="#ev-q22-A2">오답 근거 Ⓐ</a><a class="src-tag" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
-    <li id="q22-5">⑤ Ⓐ 자연에 대한 지배 / Ⓑ 인간에 대한 지배<a class="src-tag" href="#ev-q22-A">오답 근거 Ⓐ-1단계</a><a class="src-tag" href="#ev-q22-A2">오답 근거 Ⓐ-2단계</a><a class="src-tag" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
+    <li id="q22-3">③ Ⓐ 내적 자연에 대한 지배 / Ⓑ 인간에 대한 지배<a class="src-tag wrong" href="#ev-q22-A2">오답 근거 Ⓐ</a><a class="src-tag wrong" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
+    <li id="q22-4">④ Ⓐ 내적 자연에 대한 지배 / Ⓑ 자연에 대한 지배<a class="src-tag wrong" href="#ev-q22-A2">오답 근거 Ⓐ</a><a class="src-tag wrong" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
+    <li id="q22-5">⑤ Ⓐ 자연에 대한 지배 / Ⓑ 인간에 대한 지배<a class="src-tag wrong" href="#ev-q22-A">오답 근거 Ⓐ-1단계</a><a class="src-tag wrong" href="#ev-q22-A2">오답 근거 Ⓐ-2단계</a><a class="src-tag wrong" href="#ev-q22-B">오답 근거 Ⓑ</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -967,11 +967,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob23">
   <p class="q-stem">23. (나)에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q23-1">① 근대 이성에 회의를 느낀 유럽인들은 인간 실존의 문제에 관심을 갖게 되었다.<a class="src-tag" href="#ev-q23-1">오답 근거</a></li>
-    <li id="q23-2">② 표현주의는 전쟁을 경험한 독일의 젊은 예술가들을 중심으로 등장한 예술 운동이다.<a class="src-tag" href="#ev-q23-1">오답 근거</a></li>
+    <li id="q23-1">① 근대 이성에 회의를 느낀 유럽인들은 인간 실존의 문제에 관심을 갖게 되었다.<a class="src-tag" href="#ev-q23-1">오답 근거지문 근거</a></li>
+    <li id="q23-2">② 표현주의는 전쟁을 경험한 독일의 젊은 예술가들을 중심으로 등장한 예술 운동이다.<a class="src-tag" href="#ev-q23-1">오답 근거지문 근거</a></li>
     <li id="q23-3">③ 마티스에 의하면 표현의 의미는 눈으로 본 것을 눈에 전달하는 수단이라 할 수 있다.<a class="src-tag ans" href="#ev-q23-3">정답 근거</a></li>
-    <li id="q23-4">④ 표현주의는 대상의 외면에만 국한하지 않고 인간의 감정까지 다루었다는 평가를 받는다.<a class="src-tag" href="#ev-q23-4">오답 근거</a></li>
-    <li id="q23-5">⑤ 표현주의는 대상을 사실적으로 재현하지 않았다는 점에서 당시 혁신적인 예술 운동이었다.<a class="src-tag" href="#ev-q23-3">오답 근거</a></li>
+    <li id="q23-4">④ 표현주의는 대상의 외면에만 국한하지 않고 인간의 감정까지 다루었다는 평가를 받는다.<a class="src-tag" href="#ev-q23-4">오답 근거지문 근거</a></li>
+    <li id="q23-5">⑤ 표현주의는 대상을 사실적으로 재현하지 않았다는 점에서 당시 혁신적인 예술 운동이었다.<a class="src-tag" href="#ev-q23-3">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1002,11 +1002,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>뭉크의 「절규」에서는 해골 형상의 남자가 공포에 찬 표정으로 귀를 막으며 비명을 지른다. 핏빛 하늘과 검은 강물을 꿈틀거리듯 왜곡하여, 존재의 허무감에서 오는 불안과 고통을 감상자가 그대로 느끼게 한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q24-1">① (가): 작가가 표현하려 한 감정은 근대 이성에 의해 억눌려 온 인간의 내적 자연으로 볼 수 있겠군.<a class="src-tag" href="#ev-q22-B">오답 근거</a></li>
+    <li id="q24-1">① (가): 작가가 표현하려 한 감정은 근대 이성에 의해 억눌려 온 인간의 내적 자연으로 볼 수 있겠군.<a class="src-tag" href="#ev-q22-B">오답 근거지문 근거</a></li>
     <li id="q24-2">② (가): 작가가 전달하는 불안과 고통은 이성이 팽배했던 근대 사회에서 한 개인이 느꼈던 존재의 허무감과 관련 있다고 볼 수 있겠군.</li>
-    <li id="q24-3">③ (나): 해골 형상과 꿈틀거리는 강물은 작가가 느끼는 공포를 표현하려 의도적으로 형태를 왜곡한 것이라고 볼 수 있겠군.<a class="src-tag" href="#ev-q24-4">오답 근거</a></li>
+    <li id="q24-3">③ (나): 해골 형상과 꿈틀거리는 강물은 작가가 느끼는 공포를 표현하려 의도적으로 형태를 왜곡한 것이라고 볼 수 있겠군.<a class="src-tag" href="#ev-q24-4">오답 근거지문 근거</a></li>
     <li id="q24-4">④ (나): 비명을 지르는 남자의 모습을 회화적 전통에 따라 표현함으로써 감상자도 그 고통을 그대로 느끼게 한 것으로 볼 수 있겠군.<a class="src-tag ans" href="#ev-q24-4">정답 근거</a></li>
-    <li id="q24-5">⑤ (나): 강물의 검은색은 실제 색이라기보다 작가가 느끼는 고통을 표현하기 위해 자의적으로 선택한 색이 사용된 것으로 볼 수 있겠군.<a class="src-tag" href="#ev-q24-4">오답 근거</a></li>
+    <li id="q24-5">⑤ (나): 강물의 검은색은 실제 색이라기보다 작가가 느끼는 고통을 표현하기 위해 자의적으로 선택한 색이 사용된 것으로 볼 수 있겠군.<a class="src-tag" href="#ev-q24-4">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1149,11 +1149,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob28">
   <p class="q-stem">28. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q28-1">① ㉠: 누구도 범접할 수 없게 하기 위한 어머니의 의지를 나타내고 있다.<a class="src-tag" href="#ev-q28-1">오답 근거</a></li>
-    <li id="q28-2">② ㉡: 어머니가 허용하지 않은 공간에 출입한 것을 들킬까 염려하는 마음이 담겨 있다.<a class="src-tag" href="#ev-q28-2">오답 근거</a></li>
+    <li id="q28-1">① ㉠: 누구도 범접할 수 없게 하기 위한 어머니의 의지를 나타내고 있다.<a class="src-tag" href="#ev-q28-1">오답 근거지문 근거</a></li>
+    <li id="q28-2">② ㉡: 어머니가 허용하지 않은 공간에 출입한 것을 들킬까 염려하는 마음이 담겨 있다.<a class="src-tag" href="#ev-q28-2">오답 근거지문 근거</a></li>
     <li id="q28-3">③ ㉢: 행동 통일이 되어 왔던 관행을 ‘나’가 깨뜨리려 한 일에 대한 아우의 불만을 표현하고 있다.<a class="src-tag ans" href="#ev-q28-3">정답 근거</a></li>
-    <li id="q28-4">④ ㉣: 아이들과 함께 놀고 싶은 생각에 제동이 걸리는 이유 중 하나로 작용하고 있다.<a class="src-tag" href="#ev-q28-4">오답 근거</a></li>
-    <li id="q28-5">⑤ ㉤: 혼자서라도 다락을 지키겠다는 아우의 언행이 뜻밖이었음을 드러내고 있다.<a class="src-tag" href="#ev-q28-5">오답 근거</a></li>
+    <li id="q28-4">④ ㉣: 아이들과 함께 놀고 싶은 생각에 제동이 걸리는 이유 중 하나로 작용하고 있다.<a class="src-tag" href="#ev-q28-4">오답 근거지문 근거</a></li>
+    <li id="q28-5">⑤ ㉤: 혼자서라도 다락을 지키겠다는 아우의 언행이 뜻밖이었음을 드러내고 있다.<a class="src-tag" href="#ev-q28-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1189,10 +1189,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </div>
   <ul class="q-opts">
     <li id="q29-1">① Ⓐ에서 다락에 품었던 ‘나’의 원천적인 호기심이, Ⓑ에서 모두 희석되었음을 알 수 있습니다.<a class="src-tag ans" href="#ev-q29-1">정답 근거</a></li>
-    <li id="q29-2">② Ⓐ에서 곡식에 대한 어머니의 꼼꼼한 경계심이, Ⓑ에서 느슨해지고 있음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-2">오답 근거</a></li>
-    <li id="q29-3">③ Ⓐ에서 곡식에 대해 어머니가 가졌던 애착을, Ⓑ에서 ‘나’와 아우도 가지게 되었음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-3">오답 근거</a></li>
-    <li id="q29-4">④ Ⓐ에서 어머니만 짊어졌던 다락에 대한 책임감이, Ⓑ에서 ‘나’와 아우에게도 부여되고 있음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-3">오답 근거</a></li>
-    <li id="q29-5">⑤ Ⓐ에서 몰래 다락방에 출입했던 어머니가, Ⓑ에서 ‘나’와 아우가 바라보는 앞에서도 출입하고 있음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-5">오답 근거</a></li>
+    <li id="q29-2">② Ⓐ에서 곡식에 대한 어머니의 꼼꼼한 경계심이, Ⓑ에서 느슨해지고 있음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-2">오답 근거지문 근거</a></li>
+    <li id="q29-3">③ Ⓐ에서 곡식에 대해 어머니가 가졌던 애착을, Ⓑ에서 ‘나’와 아우도 가지게 되었음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-3">오답 근거지문 근거</a></li>
+    <li id="q29-4">④ Ⓐ에서 어머니만 짊어졌던 다락에 대한 책임감이, Ⓑ에서 ‘나’와 아우에게도 부여되고 있음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-3">오답 근거지문 근거</a></li>
+    <li id="q29-5">⑤ Ⓐ에서 몰래 다락방에 출입했던 어머니가, Ⓑ에서 ‘나’와 아우가 바라보는 앞에서도 출입하고 있음을 알 수 있습니다.<a class="src-tag" href="#ev-q29-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1248,10 +1248,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob30">
   <p class="q-stem">30. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q30-1">① 개인정보자기결정권의 개념<a class="src-tag" href="#ev-q32-base">오답 근거</a></li>
+    <li id="q30-1">① 개인정보자기결정권의 개념<a class="src-tag" href="#ev-q32-base">오답 근거지문 근거</a></li>
     <li id="q30-2">② 개인정보를 익명 처리하는 과정<a class="src-tag ans" href="#ev-q31-1">정답 근거</a></li>
-    <li id="q30-3">③ 개인정보보호법을 제정하게 된 목적<a class="src-tag" href="#ev-q33-a">오답 근거</a></li>
-    <li id="q30-4">④ 개인정보 활용의 유연성을 높이는 방안<a class="src-tag" href="#ev-q31-2">오답 근거</a></li>
+    <li id="q30-3">③ 개인정보보호법을 제정하게 된 목적<a class="src-tag" href="#ev-q33-a">오답 근거지문 근거</a></li>
+    <li id="q30-4">④ 개인정보 활용의 유연성을 높이는 방안<a class="src-tag" href="#ev-q31-2">오답 근거지문 근거</a></li>
     <li id="q30-5">⑤ 개인정보 보호에 대한 인식이 확산된 배경</li>
   </ul>
   <details class="solution">
@@ -1386,10 +1386,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </div>
   <ul class="q-opts">
     <li id="q34-1">① ‘가’에서 ‘회사’는 개인정보 처리자, ‘회원’은 개인정보의 주체에 해당하겠군.</li>
-    <li id="q34-2">② ‘가’의 4-2는 정보 제공 동의를 거부할 경우 받을 수 있는 불이익에 해당하겠군.<a class="src-tag" href="#ev-q34-23">오답 근거</a></li>
-    <li id="q34-3">③ ‘가’에서 ‘회원’의 동의 여부를 확인하는 것은 ‘회원’의 개인정보자기결정권을 보호하기 위한 수단이겠군.<a class="src-tag" href="#ev-q34-23">오답 근거</a></li>
+    <li id="q34-2">② ‘가’의 4-2는 정보 제공 동의를 거부할 경우 받을 수 있는 불이익에 해당하겠군.<a class="src-tag" href="#ev-q34-23">오답 근거지문 근거</a></li>
+    <li id="q34-3">③ ‘가’에서 ‘회원’의 동의 여부를 확인하는 것은 ‘회원’의 개인정보자기결정권을 보호하기 위한 수단이겠군.<a class="src-tag" href="#ev-q34-23">오답 근거지문 근거</a></li>
     <li id="q34-4">④ ‘나’의 1은 개인의 건강 정보가 고유 식별 정보에 해당하기 때문에 수집 항목을 강조하여 표시한 것이겠군.<a class="src-tag ans" href="#ev-q34-4">정답 근거</a></li>
-    <li id="q34-5">⑤ ‘나’는 정보 주체의 사생활이 현저히 침해되는 것을 방지하는 차원에서 ‘가’와 별도로 동의를 받는 것이겠군.<a class="src-tag" href="#ev-q34-4">오답 근거</a></li>
+    <li id="q34-5">⑤ ‘나’는 정보 주체의 사생활이 현저히 침해되는 것을 방지하는 차원에서 ‘가’와 별도로 동의를 받는 것이겠군.<a class="src-tag" href="#ev-q34-4">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1447,9 +1447,9 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   <p class="q-stem">35. (가)와 (나)의 표현상 공통점으로 가장 적절한 것은?</p>
   <ul class="q-opts">
     <li id="q35-1">① 색채어를 활용하여 대상의 모습을 구체화하고 있다.<a class="src-tag ans" href="#ev-q35-1">정답 근거</a></li>
-    <li id="q35-2">② 설의적 표현을 사용하여 화자의 확신을 드러내고 있다.<a class="src-tag" href="#ev-q37-b">오답 근거</a></li>
-    <li id="q35-3">③ 경어체를 활용하여 화자의 내적 정서를 고백하고 있다.<a class="src-tag" href="#ev-q35-3">오답 근거</a></li>
-    <li id="q35-4">④ 후각적 심상을 활용하여 대상의 속성을 부각하고 있다.<a class="src-tag" href="#ev-q35-1b">오답 근거</a></li>
+    <li id="q35-2">② 설의적 표현을 사용하여 화자의 확신을 드러내고 있다.<a class="src-tag wrong" href="#ev-q37-b">오답 근거</a></li>
+    <li id="q35-3">③ 경어체를 활용하여 화자의 내적 정서를 고백하고 있다.<a class="src-tag wrong" href="#ev-q35-3">오답 근거</a></li>
+    <li id="q35-4">④ 후각적 심상을 활용하여 대상의 속성을 부각하고 있다.<a class="src-tag wrong" href="#ev-q35-1b">오답 근거</a></li>
     <li id="q35-5">⑤ 상승과 하강의 이미지를 반복하여 주제를 강조하고 있다.</li>
   </ul>
   <details class="solution">
@@ -1512,11 +1512,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p><b>피상적 인식</b> · (가) a ‘사람이 앉지 못할 그늘’에서 타인에 대한 선입견 / (나) ‘잔디가 모두 죽었다’<br><b>새로운 발견</b> · (가) ‘수천의 빛깔’에서 타인의 본모습 / (나) b ‘저렇게 청량하랴’에서 자연물과 사람의 관계 발견<br><b>인식의 변화</b> · (가) c ‘외로운 줄도 몰랐을 것’에서 자신을 희생하는 타인 인식 / (나) ‘사람 속에서 꽃피고 있음’<br><b>결과</b> · (가) d ‘그늘에서 가만히 들었습니다’에서 타인과의 교감 / (나) e ‘잔디에게 자리를 내어준다’에서 순환적 원리 깨달음</p>
   </div>
   <ul class="q-opts">
-    <li id="q37-1">① a<a class="src-tag" href="#ev-q37-a">오답 근거</a></li>
-    <li id="q37-2">② b<a class="src-tag" href="#ev-q37-b">오답 근거</a></li>
+    <li id="q37-1">① a<a class="src-tag" href="#ev-q37-a">오답 근거지문 근거</a></li>
+    <li id="q37-2">② b<a class="src-tag" href="#ev-q37-b">오답 근거지문 근거</a></li>
     <li id="q37-3">③ c<a class="src-tag ans" href="#ev-q37-c">정답 근거</a></li>
-    <li id="q37-4">④ d<a class="src-tag" href="#ev-q37-d">오답 근거</a></li>
-    <li id="q37-5">⑤ e<a class="src-tag" href="#ev-q37-e">오답 근거</a></li>
+    <li id="q37-4">④ d<a class="src-tag" href="#ev-q37-d">오답 근거지문 근거</a></li>
+    <li id="q37-5">⑤ e<a class="src-tag" href="#ev-q37-e">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1570,11 +1570,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
 <div class="q-block" id="prob38">
   <p class="q-stem">38. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q38-1">① 잘못 입력된 문장이 보정되지 않으면 음성 비서 시스템이 제 기능을 발휘하지 못한다.<a class="src-tag" href="#ev-q38-12">오답 근거</a></li>
-    <li id="q38-2">② 음성 인식 오류를 보정할 때는 음성 언어를 문자 언어로 변환하는 과정이 선행된다.<a class="src-tag" href="#ev-q38-12">오답 근거</a></li>
+    <li id="q38-1">① 잘못 입력된 문장이 보정되지 않으면 음성 비서 시스템이 제 기능을 발휘하지 못한다.<a class="src-tag" href="#ev-q38-12">오답 근거지문 근거</a></li>
+    <li id="q38-2">② 음성 인식 오류를 보정할 때는 음성 언어를 문자 언어로 변환하는 과정이 선행된다.<a class="src-tag" href="#ev-q38-12">오답 근거지문 근거</a></li>
     <li id="q38-3">③ 철자 오류 보정 방식은 각 단계마다 입력된 문장을 음절 단위로 구분하여 데이터를 처리한다.<a class="src-tag ans" href="#ev-q38-3">정답 근거</a></li>
-    <li id="q38-4">④ 띄어쓰기 오류 보정 방식에서 입력된 문장의 처음과 끝은 공백이 있는 것으로 처리된다.<a class="src-tag" href="#ev-q40-base">오답 근거</a></li>
-    <li id="q38-5">⑤ 통계 데이터에 포함된 데이터의 양을 늘리면 보정의 정확도는 증가하지만 처리 속도는 감소한다.<a class="src-tag" href="#ev-q38-5">오답 근거</a></li>
+    <li id="q38-4">④ 띄어쓰기 오류 보정 방식에서 입력된 문장의 처음과 끝은 공백이 있는 것으로 처리된다.<a class="src-tag" href="#ev-q40-base">오답 근거지문 근거</a></li>
+    <li id="q38-5">⑤ 통계 데이터에 포함된 데이터의 양을 늘리면 보정의 정확도는 증가하지만 처리 속도는 감소한다.<a class="src-tag" href="#ev-q38-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1605,11 +1605,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>입력 ‘ᄋᆞᆯᄎᆞ 쇼팽의 곡 틀어죠’ → ㉮ 전처리 → ㉯ 오류 판단(‘쇼팽의’·‘틀어죠’) → ㉰ 교정 후보 집합 생성 → ㉱ 최종 교정.</p>
   </div>
   <ul class="q-opts">
-    <li id="q39-1">① ㉮: ‘ᄋᆞᆯᄎᆞ’를 ‘왈츠’로 교정하여 처리가 가능한 문자열로 바꿔 준다.<a class="src-tag" href="#ev-q38-3">오답 근거</a></li>
-    <li id="q39-2">② ㉯: ‘쇼팽의’를 확인한 결과 오류 문자열에 해당하지 않으므로 결과 문장으로 바로 보낸다.<a class="src-tag" href="#ev-q38-3">오답 근거</a></li>
-    <li id="q39-3">③ ㉯: ‘틀어죠’를 확인한 결과 오류 문자열에 해당하므로 ‘교정 후보 집합 생성’ 단계로 보낸다.<a class="src-tag" href="#ev-q38-3">오답 근거</a></li>
+    <li id="q39-1">① ㉮: ‘ᄋᆞᆯᄎᆞ’를 ‘왈츠’로 교정하여 처리가 가능한 문자열로 바꿔 준다.<a class="src-tag" href="#ev-q38-3">오답 근거지문 근거</a></li>
+    <li id="q39-2">② ㉯: ‘쇼팽의’를 확인한 결과 오류 문자열에 해당하지 않으므로 결과 문장으로 바로 보낸다.<a class="src-tag" href="#ev-q38-3">오답 근거지문 근거</a></li>
+    <li id="q39-3">③ ㉯: ‘틀어죠’를 확인한 결과 오류 문자열에 해당하므로 ‘교정 후보 집합 생성’ 단계로 보낸다.<a class="src-tag" href="#ev-q38-3">오답 근거지문 근거</a></li>
     <li id="q39-4">④ ㉰: ‘틀어죠’가 오류 문자열에 있으므로 ‘틀어줘’만을 교정 후보로 하는 교정 후보 집합을 생성한다.<a class="src-tag ans" href="#ev-q39-4">정답 근거</a></li>
-    <li id="q39-5">⑤ ㉱: 어휘별 통계 데이터를 적용하여 사용 빈도가 높은 ‘틀어줘’를 최종 교정 문자열로 선택한다.<a class="src-tag" href="#ev-q39-4">오답 근거</a></li>
+    <li id="q39-5">⑤ ㉱: 어휘별 통계 데이터를 적용하여 사용 빈도가 높은 ‘틀어줘’를 최종 교정 문자열로 선택한다.<a class="src-tag" href="#ev-q39-4">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1799,10 +1799,10 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
   </div>
   <ul class="q-opts">
     <li id="q44-1">① 최생이 자신에게 그간의 안위를 묻지 않음<a class="src-tag ans" href="#ev-q44-a">정답 근거</a></li>
-    <li id="q44-2">② 최생이 먼 길에 노복만 보낸 일이 의심스러움<a class="src-tag" href="#ev-q44-a">오답 근거</a></li>
-    <li id="q44-3">③ 최생이 썼다는 서간의 내용이 허술하고 빈약함<a class="src-tag" href="#ev-q44-a">오답 근거</a></li>
-    <li id="q44-4">④ 최생과 정혼의 징표로 삼은 물건을 전달하지 않음<a class="src-tag" href="#ev-q44-a">오답 근거</a></li>
-    <li id="q44-5">⑤ 보배를 보낸 것이 최 상서의 인물됨에 반하는 행동임<a class="src-tag" href="#ev-q44-a">오답 근거</a></li>
+    <li id="q44-2">② 최생이 먼 길에 노복만 보낸 일이 의심스러움<a class="src-tag" href="#ev-q44-a">오답 근거지문 근거</a></li>
+    <li id="q44-3">③ 최생이 썼다는 서간의 내용이 허술하고 빈약함<a class="src-tag" href="#ev-q44-a">오답 근거지문 근거</a></li>
+    <li id="q44-4">④ 최생과 정혼의 징표로 삼은 물건을 전달하지 않음<a class="src-tag" href="#ev-q44-a">오답 근거지문 근거</a></li>
+    <li id="q44-5">⑤ 보배를 보낸 것이 최 상서의 인물됨에 반하는 행동임<a class="src-tag" href="#ev-q44-a">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1837,11 +1837,11 @@ summary: "2022년 3월 고2 전국연합학력평가 국어 1~45번 전 문항�
     <p>「월영낭자전」은 혼사 장애 모티프를 바탕으로 한다. 반동 인물이 지위·재물로 강제 결혼을 시도하며 권력의 폭력성이 드러나고, 주인공이 용기 있게 맞서는 데서 윤리적 가치관·비범함·지략이 부각된다. 고난을 주체적으로 극복하는 주인공의 모습이 근대적 여성상으로 평가받는다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q45-1">① 부귀영화를 누리는 위 자사가 지위·재물로 강제 결혼을 하려는 모습에서 혼사 장애 모티프가 드러나 있군.<a class="src-tag" href="#ev-q45-1">오답 근거</a></li>
-    <li id="q45-2">② 무기를 든 관군들이 위 자사의 명령에 따라 낭자를 납치하려는 데서 권력의 폭력성이 드러나 있군.<a class="src-tag" href="#ev-q45-2">오답 근거</a></li>
-    <li id="q45-3">③ 사대부 여자의 도리를 들며 위 자사의 위력에 저항하는 모습에서 인륜을 중시하는 가치관이 드러나 있군.<a class="src-tag" href="#ev-q45-4">오답 근거</a></li>
+    <li id="q45-1">① 부귀영화를 누리는 위 자사가 지위·재물로 강제 결혼을 하려는 모습에서 혼사 장애 모티프가 드러나 있군.<a class="src-tag" href="#ev-q45-1">오답 근거지문 근거</a></li>
+    <li id="q45-2">② 무기를 든 관군들이 위 자사의 명령에 따라 낭자를 납치하려는 데서 권력의 폭력성이 드러나 있군.<a class="src-tag" href="#ev-q45-2">오답 근거지문 근거</a></li>
+    <li id="q45-3">③ 사대부 여자의 도리를 들며 위 자사의 위력에 저항하는 모습에서 인륜을 중시하는 가치관이 드러나 있군.<a class="src-tag" href="#ev-q45-4">오답 근거지문 근거</a></li>
     <li id="q45-4">④ 부모의 유언을 따르고 후사를 잇기 위해 목숨을 보전하려는 데서 근대적 여성으로서 주인공의 면모가 드러나 있군.<a class="src-tag ans" href="#ev-q45-4">정답 근거</a></li>
-    <li id="q45-5">⑤ 병이 위중하다고 꾸민 후 남복으로 갈아입고 금안으로 떠나며 위기를 벗어나는 데서 주인공의 지략이 드러나 있군.<a class="src-tag" href="#ev-q45-5">오답 근거</a></li>
+    <li id="q45-5">⑤ 병이 위중하다고 꾸민 후 남복으로 갈아입고 금안으로 떠나며 위기를 벗어나는 데서 주인공의 지략이 드러나 있군.<a class="src-tag" href="#ev-q45-5">오답 근거지문 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
