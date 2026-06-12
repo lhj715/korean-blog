@@ -21,7 +21,7 @@ draft: false
 ## 1~3번 화법 · 식물의 인지 행동 발표
 
 <div class="passage">
-  <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>안녕하세요. <span class="ev" id="ev-q2-2">(동영상 제시) 영화 속 나무 캐릭터처럼 식물이 시간을 재고 동료에게 위험을 알릴 수 있다면 믿으시겠어요?</span><a class="ev-tag" href="#q2-2">2-②</a> 오늘은 식물의 인지 행동을 소개합니다.</p>
   <p>먼저 시간 측정입니다. 가시광선 스펙트럼 기억하시나요? (반응을 보고) 기억 못 하는 분이 많네요. <span class="ev" id="ev-q2-1">(그림 제시) 적색광(620~750㎚) 말단부터 원적색광(약 780㎚)이 있고</span><a class="ev-tag" href="#q2-1">2-①</a>, 광수용체 ‘피토크롬’이 원적색광을 흡수하는 양에 따라 밤 길이를 잽니다. <span class="ev ans" id="ev1">이해가 되시나요? (반응을 보고) 어려우신가 보네요. 쉽게 설명해 드리겠습니다. (그래프 제시) 낮엔 적색광 흡수 피토크롬이, 밤엔 원적색광 흡수 피토크롬이 많아지는데, 두 유형의 비율 차이로 밤 길이를 잽니다.</span><a class="ev-tag ans" href="#q1-4">1-④</a><a class="ev-tag" href="#q2-3">2-③</a></p>
   <p>또 식물은 의사소통도 합니다. (도표 제시) <span class="ev ans" id="ev2">세균에 감염된 리마콩 옆 건강한 리마콩의 살리실산 비율이 평상시보다 높습니다. 감염된 리마콩이 내뿜은 살리실산메틸을 인지한 건강한 리마콩이 방어를 위해 살리실산을 생성한 것입니다.</span><a class="ev-tag ans" href="#q2-4">2-④</a></p>
@@ -59,11 +59,11 @@ draft: false
 <div class="q-block" id="prob2">
   <p class="q-stem">2. 발표 전략으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q2-1">① ㉠: 가시광선 학습 내용을 떠올리도록 스펙트럼을 그림으로 제시.<a class="src-tag" href="#ev-q2-1">오답 근거지문 근거</a></li>
-    <li id="q2-2">② ㉡: 흥미를 끌기 위해 영화 속 나무 캐릭터를 동영상으로 제시.<a class="src-tag" href="#ev-q2-2">오답 근거지문 근거</a></li>
-    <li id="q2-3">③ ㉢: 시간 측정을 위해 두 피토크롬의 비율 차이를 그래프로 제시.<a class="src-tag" href="#ev1">오답 근거지문 근거</a></li>
+    <li id="q2-1">① ㉠: 가시광선 학습 내용을 떠올리도록 스펙트럼을 그림으로 제시.<a class="src-tag" href="#ev-q2-1">오답 근거</a></li>
+    <li id="q2-2">② ㉡: 흥미를 끌기 위해 영화 속 나무 캐릭터를 동영상으로 제시.<a class="src-tag" href="#ev-q2-2">오답 근거</a></li>
+    <li id="q2-3">③ ㉢: 시간 측정을 위해 두 피토크롬의 비율 차이를 그래프로 제시.<a class="src-tag" href="#ev1">오답 근거</a></li>
     <li id="q2-4">④ ㉣: 의사소통 결과를 설명하려 감염된 리마콩이 생성하는 살리실산메틸 비율을 도표로 제시.<a class="src-tag ans" href="#ev2">정답 근거</a></li>
-    <li id="q2-5">⑤ ㉤: 추가 조사를 위해 QR 코드를 제시.<a class="src-tag" href="#ev-q2-5">오답 근거지문 근거</a></li>
+    <li id="q2-5">⑤ ㉤: 추가 조사를 위해 QR 코드를 제시.<a class="src-tag" href="#ev-q2-5">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -91,11 +91,11 @@ draft: false
     <p>학생1: <span class="ev" id="ev-q3-1">리마콩이 딱정벌레에 물릴 때도 화학 기체를 방출한다고 아는데</span><a class="ev-tag" href="#q3-1">3-①</a>, 그건 안 알려 줘 아쉬워. / 학생2: <span class="ev" id="ev-q3-2">면역 체계가 인간·동물에만 있는 줄 알았는데 식물도 방어 호르몬을 분비하는구나.</span><a class="ev-tag" href="#q3-2">3-②</a> 다른 호르몬도 있을까? <span class="ev" id="ev-q3-5a">과학 선생님께 여쭤봐야지.</span><a class="ev-tag" href="#q3-5">3-⑤</a> / 학생3: 유익했어. <span class="ev" id="ev-q3-3">집에서 키우는 식물이 만지면 움츠러드는 이유도 인지 행동일 수 있겠네.</span><a class="ev-tag" href="#q3-3">3-③</a> <span class="ev" id="ev-q3-5b">도서관에서 조사해 봐야지.</span><a class="ev-tag" href="#q3-5">3-⑤</a></p>
   </div>
   <ul class="q-opts">
-    <li id="q3-1">① 학생1은 발표 주제 관련 배경지식을 떠올리고 있다.<a class="src-tag" href="#ev-q3-1">오답 근거지문 근거</a></li>
-    <li id="q3-2">② 학생2는 기존 지식을 수정하고 있다.<a class="src-tag" href="#ev-q3-2">오답 근거지문 근거</a></li>
-    <li id="q3-3">③ 학생3은 경험을 토대로 발표자가 언급하지 않은 내용을 추론하고 있다.<a class="src-tag" href="#ev-q3-3">오답 근거지문 근거</a></li>
+    <li id="q3-1">① 학생1은 발표 주제 관련 배경지식을 떠올리고 있다.<a class="src-tag" href="#ev-q3-1">오답 근거</a></li>
+    <li id="q3-2">② 학생2는 기존 지식을 수정하고 있다.<a class="src-tag" href="#ev-q3-2">오답 근거</a></li>
+    <li id="q3-3">③ 학생3은 경험을 토대로 발표자가 언급하지 않은 내용을 추론하고 있다.<a class="src-tag" href="#ev-q3-3">오답 근거</a></li>
     <li id="q3-4">④ 학생1과 학생3은 모두 알고 싶은 정보가 다뤄지지 않음을 아쉬워하고 있다.<a class="src-tag ans" href="#ev3">정답 근거</a></li>
-    <li id="q3-5">⑤ 학생2와 학생3은 모두 궁금증 해결을 위해 추가 활동을 계획하고 있다.<a class="src-tag" href="#ev-q3-5a">오답 근거지문 근거(학생2)</a><a class="src-tag" href="#ev-q3-5b">오답 근거지문 근거(학생3)</a></li>
+    <li id="q3-5">⑤ 학생2와 학생3은 모두 궁금증 해결을 위해 추가 활동을 계획하고 있다.<a class="src-tag" href="#ev-q3-5a">오답 근거(학생2)</a><a class="src-tag" href="#ev-q3-5b">오답 근거(학생3)</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -130,7 +130,7 @@ draft: false
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[4 ~ 7] (가) 생태 연못 대화 · (나) 교지 글 초고.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[4 ~ 7] (가) 생태 연못 대화 · (나) 교지 글 초고.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p class="src-label">(가) 대화</p>
   <p>학생1: <span class="ev ans" id="ev4a">오늘은 학교 연못을 되살릴 방안을 의논하기로 했으니 각자 조사한 내용을 말해 볼까?</span><a class="ev-tag" href="#q4-1">4-①</a> / 학생2: 원래 연못은 휴식 공간 위주라 생태계가 고려되지 못했어. 생태 연못으로 재구성하면 어떨까?</p>
   <div class="seg" id="segA"><span class="seg-label">[A]</span>
@@ -138,7 +138,7 @@ draft: false
   <p>학생1: <span class="ev" id="ev4b">우리한테 좋은 것만 생각하기보다 생태계까지 고려해야 한다는 거지?</span><a class="ev-tag" href="#q4-2">4-②</a> / 학생2: 맞아. 생태 연못은 서식처 복원·종 다양화 효과가 있대.</p>
   <p>학생1: <span class="ev" id="ev4c">현실적으로 어렵다는 거지? 주변 학교 사례가 있을까?</span><a class="ev-tag" href="#q4-3">4-③</a> / 학생2: ○○고가 성공했는데, 산·하천 등 서식 공간과의 ‘연결성’ 확보가 성공 요인이었대.</p>
   <div class="seg" id="segB"><span class="seg-label">[B]</span>
-  <p>학생3: 우리 학교 주변 갈대숲도 도움이 되겠네. 주변 환경만 고려하면 돼? / 학생2: 아니야. 수심·바닥 토양 두께를 달리해 다양한 생물이 살게 해야 해. / 학생3: 부레옥잠 같은 식물도 좋겠어. / 학생2: <span class="ev wrong" id="ev5b">번식력이 왕성한 부레옥잠이 햇빛·물 흐름을 막아 생태계를 해칠 수도 있어 관리를 잘해야 해.</span><a class="ev-tag wrong" href="#q5-5">5-⑤</a></p></div>
+  <p>학생3: 우리 학교 주변 갈대숲도 도움이 되겠네. 주변 환경만 고려하면 돼? / 학생2: 아니야. 수심·바닥 토양 두께를 달리해 다양한 생물이 살게 해야 해. / 학생3: 부레옥잠 같은 식물도 좋겠어. / 학생2: <span class="ev" id="ev5b">번식력이 왕성한 부레옥잠이 햇빛·물 흐름을 막아 생태계를 해칠 수도 있어 관리를 잘해야 해.</span><a class="ev-tag" href="#q5-5">5-⑤</a></p></div>
   <p>학생1: 생태 연못의 필요성·가치를 알리자. <span class="ev" id="ev-q4-5">교지에 기고할 차례니 내가 초고를 쓸게.</span><a class="ev-tag" href="#q4-5">4-⑤</a></p>
   <p class="src-label">(나) 교지 글 초고</p>
   <p>휴게 공간으로 조성됐던 학교 연못이 방치되고 있다. <span class="ev" id="ev6a">이는 학교 연못을 인간 중심적 관점에서 조성한 결과이다.</span><a class="ev-tag" href="#q6-1">6-①</a> 우리가 되살릴 연못은 생태주의적 관점에서 조성되어야 한다. <span class="ev" id="ev6b">생태 철학자 네스는 인간 관점에서 자연을 이용·대할지 생각해선 안 되며 생태계와 인간의 조화가 필요하다고 주장한다.</span><a class="ev-tag" href="#q6-2">6-②</a></p>
@@ -148,11 +148,11 @@ draft: false
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)의 ‘학생1’에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q4-1">① 화제를 제시하며 대화를 시작하고 있다.<a class="src-tag" href="#ev4a">오답 근거지문 근거</a></li>
-    <li id="q4-2">② 발언에 대해 자신이 이해한 것이 맞는지 확인하고 있다.<a class="src-tag" href="#ev4b">오답 근거지문 근거</a></li>
-    <li id="q4-3">③ 발언을 정리하며 추가 정보를 요구하고 있다.<a class="src-tag" href="#ev4c">오답 근거지문 근거</a></li>
+    <li id="q4-1">① 화제를 제시하며 대화를 시작하고 있다.<a class="src-tag" href="#ev4a">오답 근거</a></li>
+    <li id="q4-2">② 발언에 대해 자신이 이해한 것이 맞는지 확인하고 있다.<a class="src-tag" href="#ev4b">오답 근거</a></li>
+    <li id="q4-3">③ 발언을 정리하며 추가 정보를 요구하고 있다.<a class="src-tag" href="#ev4c">오답 근거</a></li>
     <li id="q4-4">④ 대화에 적극적인 태도로 참여할 것을 요청하고 있다.<a class="src-tag ans" href="#ev4a">정답 근거</a></li>
-    <li id="q4-5">⑤ 참여자가 할 역할을 제시하며 추후 모임을 안내하고 있다.<a class="src-tag" href="#ev-q4-5">오답 근거지문 근거</a></li>
+    <li id="q4-5">⑤ 참여자가 할 역할을 제시하며 추후 모임을 안내하고 있다.<a class="src-tag" href="#ev-q4-5">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -180,7 +180,7 @@ draft: false
     <li id="q5-2">② [A]의 ‘학생3’과 달리 [B]의 ‘학생2’는 의견을 다양하게 제시하고 상대 의견을 묻는다.</li>
     <li id="q5-3">③ [B]의 ‘학생3’과 달리 [A]의 ‘학생2’는 동의하지 못하는 이유를 밝히며 자신의 의견을 드러낸다.<a class="src-tag ans" href="#ev5">정답 근거</a></li>
     <li id="q5-4">④ [A]의 ‘학생3’과 [B]의 ‘학생2’는 모두 자료 인용으로 근거를 뒷받침한다.</li>
-    <li id="q5-5">⑤ [A]의 ‘학생2’와 [B]의 ‘학생3’은 모두 의견 반영 시 발생할 문제점을 언급한다.<a class="src-tag wrong" href="#ev5b">오답 근거</a></li>
+    <li id="q5-5">⑤ [A]의 ‘학생2’와 [B]의 ‘학생3’은 모두 의견 반영 시 발생할 문제점을 언급한다.<a class="src-tag" href="#ev5b">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -205,11 +205,11 @@ draft: false
 <div class="q-block" id="prob6">
   <p class="q-stem">6. (가)를 반영하여 (나)를 작성하기 위한 글쓰기 계획 중 (나)에 반영된 내용으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
-    <li id="q6-1">① 학교 연못의 문제점을 인간 중심적 관점과 관련지어 제시.<a class="src-tag" href="#ev6a">오답 근거지문 근거</a></li>
-    <li id="q6-2">② (가)에 없는 생태 철학자의 주장으로 조성 방향성을 제시.<a class="src-tag" href="#ev6b">오답 근거지문 근거</a></li>
+    <li id="q6-1">① 학교 연못의 문제점을 인간 중심적 관점과 관련지어 제시.<a class="src-tag" href="#ev6a">오답 근거</a></li>
+    <li id="q6-2">② (가)에 없는 생태 철학자의 주장으로 조성 방향성을 제시.<a class="src-tag" href="#ev6b">오답 근거</a></li>
     <li id="q6-3">③ (가)에서 언급된 부레옥잠의 자정 작용을 자립성의 사례로 제시.<a class="src-tag ans" href="#ev6">정답 근거</a></li>
-    <li id="q6-4">④ 다양한 생물 서식 환경 조성 방법을 생태계 원리와 연관 지어 제시.<a class="src-tag" href="#ev6d">오답 근거지문 근거</a></li>
-    <li id="q6-5">⑤ (가)에 없는 생태 교육 실시를 관심·실천 필요와 연관 지어 제시.<a class="src-tag" href="#ev6e">오답 근거지문 근거</a></li>
+    <li id="q6-4">④ 다양한 생물 서식 환경 조성 방법을 생태계 원리와 연관 지어 제시.<a class="src-tag" href="#ev6d">오답 근거</a></li>
+    <li id="q6-5">⑤ (가)에 없는 생태 교육 실시를 관심·실천 필요와 연관 지어 제시.<a class="src-tag" href="#ev6e">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -267,7 +267,7 @@ draft: false
 ## 8~10번 작문 · 자전거 주차장 방치 자전거 문제
 
 <div class="passage">
-  <p class="passage-guide">[8 ~ 10] 작문 상황과 학생의 초고.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[8 ~ 10] 작문 상황과 학생의 초고.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p class="src-label">[작문 상황] ○○시 자전거 주차장 방치 자전거 문제에 대한 글을 지역 신문에 실으려 함.</p>
   <p><span class="ev" id="ev-q9-1">최근 방치된 자전거가 늘며 문제가 발생한다.</span><a class="ev-tag" href="#q9-1">9-①</a> 수용량을 초과해 실사용자가 불편을 겪고, 인도까지 침범해 미관·통행·안전을 위협한다.</p>
   <p>방치 이유는 ① 폐기 방식 인식 부족 ② <span class="ev ans" id="ev9b">방치 자전거 수거 기준의 모호함(조례엔 ‘10일 이상 방치 자전거 수거’만 있어 기준이 명확하지 않음)</span><a class="ev-tag" href="#q9-2">9-②</a> ③ 수거 후 신속 처리의 어려움(보관 장소 부족, 고철 처리 외 방법 적음)이다.</p>
@@ -310,11 +310,11 @@ draft: false
     <p>[자료1] ㉮ 방치 자전거 현황(매년 증가) / ㉯ 처리 현황(매각·고철 86%, 기증 9%, 재활용 3%) · [자료2] 신문(△△시 처리 비용 3년간 1.65억, 증가 추세 / 수거 기준이 구체적이지 않아 난감) · [자료3] 전문가(누리집·SNS 홍보로 인식 개선, 지역 예술계 협업 재활용)</p>
   </div>
   <ul class="q-opts">
-    <li id="q9-1">① [자료1-㉮]: 방치 자전거가 해마다 늘어남을 구체화하는 자료로 제시.<a class="src-tag" href="#ev-q9-1">오답 근거지문 근거</a></li>
-    <li id="q9-2">② [자료2]: 수거 기준이 모호하면 수거에 어려움을 겪을 수 있다는 근거로 제시.<a class="src-tag" href="#ev9b">오답 근거지문 근거</a></li>
-    <li id="q9-3">③ [자료3]: 폐기 방식 인식 개선 방안을 구체화하는 자료로 제시.<a class="src-tag" href="#ev8">오답 근거지문 근거</a></li>
+    <li id="q9-1">① [자료1-㉮]: 방치 자전거가 해마다 늘어남을 구체화하는 자료로 제시.<a class="src-tag" href="#ev-q9-1">오답 근거</a></li>
+    <li id="q9-2">② [자료2]: 수거 기준이 모호하면 수거에 어려움을 겪을 수 있다는 근거로 제시.<a class="src-tag" href="#ev9b">오답 근거</a></li>
+    <li id="q9-3">③ [자료3]: 폐기 방식 인식 개선 방안을 구체화하는 자료로 제시.<a class="src-tag" href="#ev8">오답 근거</a></li>
     <li id="q9-4">④ [자료1-㉯]·[자료2]: 고철 처리에 드는 비용이 크다는 내용을 수거 기준 보완 주장의 근거로 제시.<a class="src-tag ans" href="#ev9b">정답 근거</a></li>
-    <li id="q9-5">⑤ [자료1-㉯]·[자료3]: 고철 처리 외 방법 비율을 높일 방안을 재활용 사례로 추가.<a class="src-tag" href="#ev8">오답 근거지문 근거</a></li>
+    <li id="q9-5">⑤ [자료1-㉯]·[자료3]: 고철 처리 외 방법 비율을 높일 방안을 재활용 사례로 추가.<a class="src-tag" href="#ev8">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -372,7 +372,7 @@ draft: false
 ## 11~15번 문법 · 연결 어미 ‘-고’·음운 변동·품사 통용·중세 격조사
 
 <div class="passage">
-  <p class="passage-guide">[11 ~ 12] 연결 어미 ‘-고’.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[11 ~ 12] 연결 어미 ‘-고’.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>㉮ <span class="ev ans" id="ev11">보조적 연결 어미 ‘-고’는 본용언에 보조 용언을 이어 주며, 이때 ‘-고’ 뒤에 ‘-서’가 붙을 수 없다.</span><a class="ev-tag" href="#q11-1">11</a> 이어진문장에서 ‘-고’는 ㉠<span class="ev" id="ev12a">동작·상태의 나열(앞뒤 절 주어가 달라도 되고, 시제 선어말 어미가 앞뒤 절에 모두 쓰일 수 있으며, 순서를 바꿀 수 있음)</span><a class="ev-tag" href="#q12-1">12-①</a><a class="ev-tag" href="#q12-2">12-②</a>을 나타낸다.</p>
   <p>종속적인 경우(주어 동일·시제 선어말 어미 불가·순서 못 바꿈)에는 ㉡<span class="ev ans" id="ev12c">앞 절 사건이 끝난 뒤 뒤 절이 연달아 일어남(앞 절 동사 [+완결성])</span><a class="ev-tag ans" href="#q12-4">12-④</a><a class="ev-tag" href="#q12-5">12-⑤</a>, ㉢<span class="ev" id="ev12b">앞 절 동작의 결과가 지속되는 가운데 뒤 절 동작이 일어남(앞 절 동사 [+완결성][+지속성])</span><a class="ev-tag" href="#q12-3">12-③</a>이 있다. (예: ‘찍고’=[+완결][-지속]→순차, ‘쥐고’=[+완결][+지속]→지속)</p>
 </div>
@@ -412,11 +412,11 @@ draft: false
     <p>ⓐ 지호는 교무실에 갔고, 성주는 보건실에 갔어요. / ⓑ 체육 선생님께서 성주를 업고 보건실에 뛰어가셨어요. / ⓒ 성주가 공을 차고 넘어졌대요. / ⓓ 보건실에 가서 확인하고, 부모님께 연락드려야겠다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q12-1">① ⓐ: 주어가 다르고 시제 선어말 어미가 앞뒤 절에 모두 쓰여 ‘갔고’의 ‘-고’는 ㉠이다.<a class="src-tag" href="#ev12a">오답 근거지문 근거</a></li>
-    <li id="q12-2">② ⓐ: 앞뒤 절 순서를 바꾸어 쓸 수 있다.<a class="src-tag" href="#ev12a">오답 근거지문 근거</a></li>
-    <li id="q12-3">③ ⓑ: ‘업다’는 결과가 지속되므로 ‘업고’의 ‘-고’는 ㉢이다.<a class="src-tag" href="#ev12b">오답 근거지문 근거</a></li>
+    <li id="q12-1">① ⓐ: 주어가 다르고 시제 선어말 어미가 앞뒤 절에 모두 쓰여 ‘갔고’의 ‘-고’는 ㉠이다.<a class="src-tag" href="#ev12a">오답 근거</a></li>
+    <li id="q12-2">② ⓐ: 앞뒤 절 순서를 바꾸어 쓸 수 있다.<a class="src-tag" href="#ev12a">오답 근거</a></li>
+    <li id="q12-3">③ ⓑ: ‘업다’는 결과가 지속되므로 ‘업고’의 ‘-고’는 ㉢이다.<a class="src-tag" href="#ev12b">오답 근거</a></li>
     <li id="q12-4">④ ⓒ: ‘차다’는 [+완결성][-지속성]이므로 ‘차고’의 ‘-고’는 ㉢이다.<a class="src-tag ans" href="#ev12c">정답 근거</a></li>
-    <li id="q12-5">⑤ ⓓ: ‘확인하고’의 ‘-고’는 사건이 끝난 뒤 연달아 일어나므로 ㉡이다.<a class="src-tag" href="#ev12c">오답 근거지문 근거</a></li>
+    <li id="q12-5">⑤ ⓓ: ‘확인하고’의 ‘-고’는 사건이 끝난 뒤 연달아 일어나므로 ㉡이다.<a class="src-tag" href="#ev12c">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -552,7 +552,7 @@ draft: false
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[16 ~ 21] (가) 아리스토텔레스·실러·그린버그 · (나) 크라우스 기술적 지지체.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[16 ~ 21] (가) 아리스토텔레스·실러·그린버그 · (나) 크라우스 기술적 지지체.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p class="src-label">(가)</p>
   <p>아리스토텔레스는 예술작품을 현실 세계를 모방한 사물로 보았다. 사물은 <strong>질료</strong>(물질적 재료)와 <strong>형상</strong>(보편적 개념·가치·본질)으로 구성된다. <span class="ev ans" id="ev16a">예술가는 자신이 이해한 사물의 형상을 질료에 담아 예술작품으로 재현하고, 감상자는 예술작품을 통해 형상을 이해한다.</span><a class="ev-tag ans" href="#q16-3">16-③</a><a class="ev-tag" href="#q19-2">19-②</a><a class="ev-tag" href="#q19-3">19-③</a><a class="ev-tag" href="#q20-1">20-①</a></p>
   <p>실러는 아름다움이라는 형상을 질료에 담으면 감상자가 미적 경험으로 도덕성을 회복할 수 있다고 보았다. 또 <span class="ev ans" id="ev17a">미적 경험을 극대화하려면 예술작품의 질료가 지닌 물리적 성질이 드러나지 않아야 한다고 주장한다. 결국 <strong>ⓐ예술작품의 질료가 투명한 매체로 기능해야</strong> 한다.</span><a class="ev-tag ans" href="#q17-5">17-ⓐ</a><a class="ev-tag" href="#q19-1">19-①</a><a class="ev-tag" href="#q20-2">20-②</a></p>
@@ -621,11 +621,11 @@ draft: false
 <div class="q-block" id="prob18">
   <p class="q-stem">18. (나)의 지지체에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 59.1%</span></p>
   <ul class="q-opts">
-    <li id="q18-1">① 포스트매체 조건에서는 사물의 소리도 지지체가 될 수 있다.<a class="src-tag" href="#ev18b">오답 근거지문 근거</a></li>
-    <li id="q18-2">② 포스트매체 조건에서의 규칙은 지지체를 사용하는 관습이나 기법을 말한다.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
-    <li id="q18-3">③ 포스트매체 조건에서는 지지체들이 결합해 또 하나의 지지체로 기능할 수 있다.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
+    <li id="q18-1">① 포스트매체 조건에서는 사물의 소리도 지지체가 될 수 있다.<a class="src-tag" href="#ev18b">오답 근거</a></li>
+    <li id="q18-2">② 포스트매체 조건에서의 규칙은 지지체를 사용하는 관습이나 기법을 말한다.<a class="src-tag" href="#ev18">오답 근거</a></li>
+    <li id="q18-3">③ 포스트매체 조건에서는 지지체들이 결합해 또 하나의 지지체로 기능할 수 있다.<a class="src-tag" href="#ev18">오답 근거</a></li>
     <li id="q18-4">④ 포스트매체 조건 이전에는 매체를 구성하는 물질적 요소의 규칙이 예술작품으로 인정되었다.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
-    <li id="q18-5">⑤ 포스트매체 조건 이전에 사용되던 지지체는 기술적 지지체에 사용될 수 있다.<a class="src-tag" href="#ev18b">오답 근거지문 근거</a></li>
+    <li id="q18-5">⑤ 포스트매체 조건 이전에 사용되던 지지체는 기술적 지지체에 사용될 수 있다.<a class="src-tag" href="#ev18b">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -653,10 +653,10 @@ draft: false
     <p>[자료1] 화가 A 씨가 '모성애'를 주제로 어머니의 주름을 사실적으로 그려 '물감으로 그렸다고 믿기 힘들 정도'라는 평가를 받음. / [자료2] 예술가 B 씨가 목탄으로 '작품 B'를 그리면서 16mm 카메라로 촬영, 완성된 작품 B 위로 영상을 비추는 '작품 C'를 미술관에 출품. 평론가들은 '목탄의 질감이 살아 있는 진정한 목탄화', '현대인의 고통이 생생하게 드러난다' 평가.</p>
   </div>
   <ul class="q-opts">
-    <li id="q19-1">① [자료1]의 '캔버스'를 실러는 투명한 매체로, 크라우스는 물질적 지지체로 보겠군.<a class="src-tag" href="#ev17a">오답 근거지문 근거</a></li>
-    <li id="q19-2">② [자료1]의 '캔버스'·'물감'을 아리스토텔레스·실러 모두 예술작품의 질료로 보겠군.<a class="src-tag" href="#ev16a">오답 근거지문 근거</a></li>
-    <li id="q19-3">③ [자료1]의 '어머니의 희생에 담긴 숭고한 아름다움'을 아리스토텔레스·실러 모두 형상으로 보겠군.<a class="src-tag" href="#ev16a">오답 근거지문 근거</a></li>
-    <li id="q19-4">④ [자료2]의 '목탄'을 그린버그는 미적 매체로, 크라우스는 물질적 지지체로 보겠군.<a class="src-tag" href="#ev17b">오답 근거지문 근거</a></li>
+    <li id="q19-1">① [자료1]의 '캔버스'를 실러는 투명한 매체로, 크라우스는 물질적 지지체로 보겠군.<a class="src-tag" href="#ev17a">오답 근거</a></li>
+    <li id="q19-2">② [자료1]의 '캔버스'·'물감'을 아리스토텔레스·실러 모두 예술작품의 질료로 보겠군.<a class="src-tag" href="#ev16a">오답 근거</a></li>
+    <li id="q19-3">③ [자료1]의 '어머니의 희생에 담긴 숭고한 아름다움'을 아리스토텔레스·실러 모두 형상으로 보겠군.<a class="src-tag" href="#ev16a">오답 근거</a></li>
+    <li id="q19-4">④ [자료2]의 '목탄'을 그린버그는 미적 매체로, 크라우스는 물질적 지지체로 보겠군.<a class="src-tag" href="#ev17b">오답 근거</a></li>
     <li id="q19-5">⑤ [자료2]의 '캔버스'를 그린버그는 불투명한 매체로, '작품 C'에 활용된 '작품 B'를 크라우스는 비물질적인 지지체로 보겠군.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -681,11 +681,11 @@ draft: false
 <div class="q-block" id="prob20">
   <p class="q-stem">20. 윗글을 읽은 학생이 학자들의 입장에서 &lt;보기&gt;에 대해 보인 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span></p>
   <ul class="q-opts">
-    <li id="q20-1">① 아리스토텔레스는 [자료1]의 '초상화'와 [자료2]의 '작품 B'는 모두 형상·질료로 구성된 실체라고 보겠군.<a class="src-tag" href="#ev16a">오답 근거지문 근거</a></li>
-    <li id="q20-2">② 실러는 [자료2]의 'B 씨'보다 [자료1]의 'A 씨'가 감상자에게 자신의 의도를 더 잘 전달했다고 보겠군.<a class="src-tag" href="#ev17a">오답 근거지문 근거</a></li>
+    <li id="q20-1">① 아리스토텔레스는 [자료1]의 '초상화'와 [자료2]의 '작품 B'는 모두 형상·질료로 구성된 실체라고 보겠군.<a class="src-tag" href="#ev16a">오답 근거</a></li>
+    <li id="q20-2">② 실러는 [자료2]의 'B 씨'보다 [자료1]의 'A 씨'가 감상자에게 자신의 의도를 더 잘 전달했다고 보겠군.<a class="src-tag" href="#ev17a">오답 근거</a></li>
     <li id="q20-3">③ 그린버그는 [자료2]의 '작품 B'와 달리 [자료1]의 '초상화'는 예술 그 자체가 목적이 되었다고 보겠군.<a class="src-tag ans" href="#ev17b">정답 근거</a></li>
-    <li id="q20-4">④ 크라우스는 [자료1]의 '초상화'와 달리 [자료2]의 '작품 B'는 물질적 요소가 하나의 예술 장르를 규정하는 기준이 됐다고 보겠군.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
-    <li id="q20-5">⑤ 크라우스는 [자료1]의 '초상화'와 달리 [자료2]의 '작품 C'는 기술적 지지체로 규칙 겹침이 나타났다고 보겠군.<a class="src-tag" href="#ev18">오답 근거지문 근거</a></li>
+    <li id="q20-4">④ 크라우스는 [자료1]의 '초상화'와 달리 [자료2]의 '작품 B'는 물질적 요소가 하나의 예술 장르를 규정하는 기준이 됐다고 보겠군.<a class="src-tag" href="#ev18">오답 근거</a></li>
+    <li id="q20-5">⑤ 크라우스는 [자료1]의 '초상화'와 달리 [자료2]의 '작품 C'는 기술적 지지체로 규칙 겹침이 나타났다고 보겠군.<a class="src-tag" href="#ev18">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -744,7 +744,7 @@ draft: false
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[22 ~ 25] 김광식, 「213호 주택」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[22 ~ 25] 김광식, 「213호 주택」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>사장은 기계 고장을 김명학의 책임으로 돌리며 완곡히 사직을 요구한다. <span class="ev ans" id="ev22">김명학이 공장장실에서 사장의 말을 듣고 사직원을 쓴 뒤, 그 이유(습기·조수 실수 등)가 뒤이어 서술된다.</span><a class="ev-tag ans" href="#q22-1">22-①</a></p>
   <p>ⓐ 사직원을 <u>쓰고</u> 인쇄 공장으로 들어가 제1호기에서 32호까지 기계를 바라보다가 나온다. 이후 다시 ⓑ 사직원을 <u>내고</u> 모자를 들고 나오며… <span class="ev ans" id="ev23">— '사직원을 내기 전에' 인쇄 공장에 들어간 것임을 알 수 있다.</span><a class="ev-tag ans" href="#q23-5">23-⑤</a></p>
   <p>㉠<span class="ev ans" id="ev24a">공장장실</span><a class="ev-tag ans" href="#q24-5">24-㉠</a>에서 사장의 말을 들은 뒤 사직원을 쓴다. 귀가 후 ㉡<span class="ev ans" id="ev24b">자기 집</span><a class="ev-tag ans" href="#q24-5">24-㉡</a> 뜰길에 발돋움길을 만들고, 아내의 만류에도 현관문 손잡이 근방을 깎아 낸다.</p>
@@ -878,7 +878,7 @@ draft: false
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[26 ~ 29] 제이콥 프레이든, 「현대 센서 공학」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[26 ~ 29] 제이콥 프레이든, 「현대 센서 공학」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>정전용량형 근접 습도 센서는 <span class="ev" id="ev-q26-3">전극에 축적되는 전하 용량(정전용량)의 변화로 습도를 감지한다.</span><a class="ev-tag" href="#q26-3">26-③</a> 센서는 <span class="ev" id="ev-q26-struct">상부 전극(투습성 도체·외부 노출), 수분 유지 기판(부도체·박막 소재 증착), 하부 전극(도체·내부)으로 구성된다.</span><a class="ev-tag" href="#q26-1">26-①</a><a class="ev-tag" href="#q27-1">27-①</a><a class="ev-tag" href="#q27-4">27-④</a></p>
   <p>전원 공급 → 상하부 전극 사이에 전기장 형성 → 수분 유지 기판에는 전기 흐르지 않지만 분자 내 전자·원자핵 재배열(분극) → <span class="ev ans" id="ev26">기판 표면에 서로 다른 전하 분포 → 정전용량의 기본값 형성(수분 유지 기판의 분극에 영향, 부도체에 축적된 전하의 양과는 무관).</span><a class="ev-tag ans" href="#q26-2">26-②</a><a class="ev-tag" href="#q27-2">27-②</a><a class="ev-tag" href="#q27-3">27-③</a><a class="ev-tag" href="#q28-2">28-②</a></p>
   <p>물 분자 흡착 → <span class="ev" id="ev28a">유전율(분극 정도) 증가 → 정전용량 증가 → 일정값 이상이면 전기 신호로 기계 작동.</span><a class="ev-tag" href="#q28-1">28-①·④</a><a class="ev-tag" href="#q26-4">26-④</a><a class="ev-tag" href="#q28-4">28-④</a></p>
@@ -888,10 +888,10 @@ draft: false
 <div class="q-block" id="prob26">
   <p class="q-stem">26. '정전용량형 근접 습도 센서'에 대한 이해로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q26-1">① 축전기를 구성하는 두 전극 중 하나만 외부에 노출되어 있다.<a class="src-tag" href="#ev-q26-struct">오답 근거지문 근거</a></li>
+    <li id="q26-1">① 축전기를 구성하는 두 전극 중 하나만 외부에 노출되어 있다.<a class="src-tag" href="#ev-q26-struct">오답 근거</a></li>
     <li id="q26-2">② 정전용량의 기본값은 부도체에 축적된 전하의 양에 반비례한다.<a class="src-tag ans" href="#ev26">정답 근거</a></li>
-    <li id="q26-3">③ 전극에 축적되는 전하의 용량 변화를 이용하여 습도 변화를 감지한다.<a class="src-tag" href="#ev-q26-3">오답 근거지문 근거</a></li>
-    <li id="q26-4">④ 감지된 정전용량이 일정값을 넘으면 센서와 연결된 기계가 작동한다.<a class="src-tag" href="#ev28a">오답 근거지문 근거</a></li>
+    <li id="q26-3">③ 전극에 축적되는 전하의 용량 변화를 이용하여 습도 변화를 감지한다.<a class="src-tag" href="#ev-q26-3">오답 근거</a></li>
+    <li id="q26-4">④ 감지된 정전용량이 일정값을 넘으면 센서와 연결된 기계가 작동한다.<a class="src-tag" href="#ev28a">오답 근거</a></li>
     <li id="q26-5">⑤ 습도를 측정하기 위해 전하를 전극에 저장할 수 있는 장치를 활용한다.</li>
   </ul>
   <details class="solution">
@@ -916,10 +916,10 @@ draft: false
 <div class="q-block" id="prob27">
   <p class="q-stem">27. &lt;보기&gt;(ⓐ=상부 전극, ⓑ=수분 유지 기판, ⓒ=하부 전극)를 이해한 것으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 48.4%</span></p>
   <ul class="q-opts">
-    <li id="q27-1">① 공기 중 물 분자는 ⓐ를 통해 축전기 내부로 유입된다.<a class="src-tag" href="#ev-q26-struct">오답 근거지문 근거</a></li>
-    <li id="q27-2">② 전원이 공급되면 ⓑ 내부에서 분자 간 경계에서 음전하·양전하가 상쇄된다.<a class="src-tag" href="#ev26">오답 근거지문 근거</a></li>
-    <li id="q27-3">③ 전원이 공급되면 ⓐ·ⓒ에는 서로 다른 전하가 모인다.<a class="src-tag" href="#ev26">오답 근거지문 근거</a></li>
-    <li id="q27-4">④ ⓐ·ⓒ는 ⓑ와 달리 전기가 통하는 도체이다.<a class="src-tag" href="#ev-q26-struct">오답 근거지문 근거</a></li>
+    <li id="q27-1">① 공기 중 물 분자는 ⓐ를 통해 축전기 내부로 유입된다.<a class="src-tag" href="#ev-q26-struct">오답 근거</a></li>
+    <li id="q27-2">② 전원이 공급되면 ⓑ 내부에서 분자 간 경계에서 음전하·양전하가 상쇄된다.<a class="src-tag" href="#ev26">오답 근거</a></li>
+    <li id="q27-3">③ 전원이 공급되면 ⓐ·ⓒ에는 서로 다른 전하가 모인다.<a class="src-tag" href="#ev26">오답 근거</a></li>
+    <li id="q27-4">④ ⓐ·ⓒ는 ⓑ와 달리 전기가 통하는 도체이다.<a class="src-tag" href="#ev-q26-struct">오답 근거</a></li>
     <li id="q27-5">⑤ ⓐ·ⓒ 사이의 전기장으로 인해 ⓑ에 전기가 흐른다.<a class="src-tag ans" href="#ev26">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -944,10 +944,10 @@ draft: false
 <div class="q-block" id="prob28">
   <p class="q-stem">28. &lt;보기&gt;(t1=전원 공급, t2=흡착 시작, t3=정전용량 최대, t4=탈착 완료)를 이해한 학생의 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 74.0%</span></p>
   <ul class="q-opts">
-    <li id="q28-1">① t1·t3의 유전율은 다르겠군.<a class="src-tag" href="#ev28a">오답 근거지문 근거</a></li>
-    <li id="q28-2">② t1에서 수분 유지 기판의 분자 원자핵·전자가 재배열되겠군.<a class="src-tag" href="#ev26">오답 근거지문 근거</a></li>
+    <li id="q28-1">① t1·t3의 유전율은 다르겠군.<a class="src-tag" href="#ev28a">오답 근거</a></li>
+    <li id="q28-2">② t1에서 수분 유지 기판의 분자 원자핵·전자가 재배열되겠군.<a class="src-tag" href="#ev26">오답 근거</a></li>
     <li id="q28-3">③ t2~t4 구간에서 물 분자 내부의 산소·수소 원자가 분극되겠군.</li>
-    <li id="q28-4">④ t2~t3 구간에서 상하부 전극에 축적되는 전하의 양이 증가했겠군.<a class="src-tag" href="#ev28a">오답 근거지문 근거</a></li>
+    <li id="q28-4">④ t2~t3 구간에서 상하부 전극에 축적되는 전하의 양이 증가했겠군.<a class="src-tag" href="#ev28a">오답 근거</a></li>
     <li id="q28-5">⑤ t4에서는 수분 유지 기판에 일어났던 분극이 사라졌겠군.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1002,19 +1002,19 @@ draft: false
 ## 30~34번 독서(사회) · 지상권과 지역권
 
 <div class="passage">
-  <p class="passage-guide">[30 ~ 34] 김상용, 「물권법」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[30 ~ 34] 김상용, 「물권법」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p><strong>지상권</strong>: 다른 사람 토지에서 지상물을 소유하기 위해 토지를 이용하는 권리. <span class="ev ans" id="ev30a">토지 소유권이 제삼자에게 이전되어도 기존 지상권은 영향 받지 않으며, 지상권자는 소유권자 의사와 관계없이 지상권을 타인에게 이전할 수 있다.</span><a class="ev-tag" href="#q30-4">30-④</a><a class="ev-tag" href="#q30-2">30-②</a> <span class="ev" id="ev-q32-1">지상권이 설정되면 지상권자가 해당 토지를 <strong>배타적으로</strong> 점유·이용한다.</span><a class="ev-tag" href="#q32-1">32-①</a></p>
-  <p><strong>지역권</strong>: 요역지의 편익을 높이기 위해 승역지를 특정 목적으로 이용하는 권리. <span class="ev ans" id="ev30">지역권이 설정되더라도 지역권자가 승역지를 배타적으로 이용하는 것이 아니라</span><a class="ev-tag ans" href="#q30-1">30-①</a><a class="ev-tag wrong" href="#q31-3">31-③</a><a class="ev-tag" href="#q32-3">32-③</a>, 지역권설정자는 지역권을 침해하지 않는 범위에서 토지를 그대로 이용할 수 있다. <span class="ev ans" id="ev31">지상권과 달리 지상물이 없어도 성립하는 것은 '지상권'의 특성이고, 요역지의 소유권이 이전되면 지역권도 함께 이전된다.</span><a class="ev-tag ans" href="#q31-4">31-④</a><a class="ev-tag" href="#q32-5">32-⑤</a></p>
-  <p>지역권 비교 — <span class="ev ans" id="ev33">㉡상린권</span><a class="ev-tag ans" href="#q33-5">33-⑤</a><a class="ev-tag wrong" href="#q33-1">33-①</a><a class="ev-tag wrong" href="#q33-3">33-③</a><a class="ev-tag wrong" href="#q33-4">33-④</a>: 경계 인접 토지 소유권자들이 토지를 원만히 이용하도록 상호 조절하는 권리. 별도 등기 불필요. ㉠지역권은 별도 계약·등기가 필요하다.</p>
+  <p><strong>지역권</strong>: 요역지의 편익을 높이기 위해 승역지를 특정 목적으로 이용하는 권리. <span class="ev ans" id="ev30">지역권이 설정되더라도 지역권자가 승역지를 배타적으로 이용하는 것이 아니라</span><a class="ev-tag ans" href="#q30-1">30-①</a><a class="ev-tag" href="#q31-3">31-③</a><a class="ev-tag" href="#q32-3">32-③</a>, 지역권설정자는 지역권을 침해하지 않는 범위에서 토지를 그대로 이용할 수 있다. <span class="ev ans" id="ev31">지상권과 달리 지상물이 없어도 성립하는 것은 '지상권'의 특성이고, 요역지의 소유권이 이전되면 지역권도 함께 이전된다.</span><a class="ev-tag ans" href="#q31-4">31-④</a><a class="ev-tag" href="#q32-5">32-⑤</a></p>
+  <p>지역권 비교 — <span class="ev ans" id="ev33">㉡상린권</span><a class="ev-tag ans" href="#q33-5">33-⑤</a><a class="ev-tag" href="#q33-1">33-①</a><a class="ev-tag" href="#q33-3">33-③</a><a class="ev-tag" href="#q33-4">33-④</a>: 경계 인접 토지 소유권자들이 토지를 원만히 이용하도록 상호 조절하는 권리. 별도 등기 불필요. ㉠지역권은 별도 계약·등기가 필요하다.</p>
 </div>
 
 <div class="q-block" id="prob30">
   <p class="q-stem">30. 윗글에서 알 수 있는 내용으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
     <li id="q30-1">① 요역지의 소유권자는 승역지를 배타적으로 이용할 수 있다.<a class="src-tag ans" href="#ev30">정답 근거</a></li>
-    <li id="q30-2">② 지상권과 지역권은 모두, 토지 소유권과 별개로 설정할 수 있다.<a class="src-tag" href="#ev30a">오답 근거지문 근거</a></li>
+    <li id="q30-2">② 지상권과 지역권은 모두, 토지 소유권과 별개로 설정할 수 있다.<a class="src-tag" href="#ev30a">오답 근거</a></li>
     <li id="q30-3">③ 지상권과 지역권은 모두, 계약의 주체가 공동으로 등기를 해야 한다.</li>
-    <li id="q30-4">④ 지상권자는 토지 소유권자의 의사와 관계없이 자신의 지상권을 이전할 수 있다.<a class="src-tag" href="#ev30a">오답 근거지문 근거</a></li>
+    <li id="q30-4">④ 지상권자는 토지 소유권자의 의사와 관계없이 자신의 지상권을 이전할 수 있다.<a class="src-tag" href="#ev30a">오답 근거</a></li>
     <li id="q30-5">⑤ 토지를 효율적으로 이용하기 위해 민법에서는 지상권·지역권을 규정하고 있다.</li>
   </ul>
   <details class="solution">
@@ -1041,7 +1041,7 @@ draft: false
   <ul class="q-opts">
     <li id="q31-1">① 토지 소유권자의 권리는 자신이 소유한 토지의 지면에 한정된다.</li>
     <li id="q31-2">② 자신의 토지 위 지상물을 소유하기 위해서는 지상권이 필요하다.</li>
-    <li id="q31-3">③ 승역지 소유권자라도 지역권자가 승역지에 설치한 인공 구조물은 이용할 수 없다.<a class="src-tag wrong" href="#ev30">오답 근거</a></li>
+    <li id="q31-3">③ 승역지 소유권자라도 지역권자가 승역지에 설치한 인공 구조물은 이용할 수 없다.<a class="src-tag" href="#ev30">오답 근거</a></li>
     <li id="q31-4">④ 지상물이 없는 토지의 소유권자라도 지상물을 소유하려는 사람과 계약을 맺을 수 있다.<a class="src-tag ans" href="#ev31">정답 근거</a></li>
     <li id="q31-5">⑤ 자신의 토지가 지역권이 설정된 승역지라면 제삼자에게 처분할 수 없다.</li>
   </ul>
@@ -1067,11 +1067,11 @@ draft: false
 <div class="q-block" id="prob32">
   <p class="q-stem">32. &lt;보기&gt;(A 씨=토지X 소유 / 지역권자(토지Y) / 지상권설정자, B 씨=토지Y 소유 / 지역권설정자 / 지상권자(토지X), C 씨=토지X 소유권 인수)를 이해한 반응으로 적절하지 <strong>않은</strong> 것은? <span class="q-pt-inline">[3점]</span> <span class="q-rate">오답률 57.5%</span></p>
   <ul class="q-opts">
-    <li id="q32-1">① A 씨는 지상권 설정 후 토지 전부를 이용할 수 없겠군.<a class="src-tag" href="#ev-q32-1">오답 근거지문 근거</a></li>
+    <li id="q32-1">① A 씨는 지상권 설정 후 토지 전부를 이용할 수 없겠군.<a class="src-tag" href="#ev-q32-1">오답 근거</a></li>
     <li id="q32-2">② A 씨는 지역권자로서 토지 Y에 인공 구조물을 설치할 수 있겠군.</li>
-    <li id="q32-3">③ B 씨는 지역권설정자로서 A 씨의 통행을 방해하지 않는 범위에서 토지 Y를 이용할 수 있겠군.<a class="src-tag" href="#ev30">오답 근거지문 근거</a></li>
+    <li id="q32-3">③ B 씨는 지역권설정자로서 A 씨의 통행을 방해하지 않는 범위에서 토지 Y를 이용할 수 있겠군.<a class="src-tag" href="#ev30">오답 근거</a></li>
     <li id="q32-4">④ B 씨는 C 씨에게 토지 X의 소유권이 이전된 후 C 씨와 새로운 지상권을 설정해야겠군.<a class="src-tag ans" href="#ev30a">정답 근거</a></li>
-    <li id="q32-5">⑤ C 씨는 토지 X를 인수한 후 B 씨와 별도 계약 없이 토지 Y의 지역권자로서 이용할 수 있겠군.<a class="src-tag" href="#ev31">오답 근거지문 근거</a></li>
+    <li id="q32-5">⑤ C 씨는 토지 X를 인수한 후 B 씨와 별도 계약 없이 토지 Y의 지역권자로서 이용할 수 있겠군.<a class="src-tag" href="#ev31">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1095,10 +1095,10 @@ draft: false
 <div class="q-block" id="prob33">
   <p class="q-stem">33. 윗글의 ㉠(지역권)과 &lt;보기&gt;의 ㉡(상린권)을 비교한 내용으로 가장 적절한 것은? <span class="q-rate">오답률 62.8%</span></p>
   <ul class="q-opts">
-    <li id="q33-1">① ㉠은 ㉡과 달리 토지 소유권자 간의 원만한 토지 이용을 목적으로 한다.<a class="src-tag wrong" href="#ev33">오답 근거</a></li>
+    <li id="q33-1">① ㉠은 ㉡과 달리 토지 소유권자 간의 원만한 토지 이용을 목적으로 한다.<a class="src-tag" href="#ev33">오답 근거</a></li>
     <li id="q33-2">② ㉠은 ㉡과 달리 소유한 토지에 필요한 접근성을 확보할 수 있게 한다.</li>
-    <li id="q33-3">③ ㉡은 ㉠과 달리 대상이 되는 토지들이 반드시 경계를 인접할 필요는 없다.<a class="src-tag wrong" href="#ev33">오답 근거</a></li>
-    <li id="q33-4">④ ㉠과 ㉡은 모두, 계약을 맺고 등기를 해야 효력이 발생한다.<a class="src-tag wrong" href="#ev33">오답 근거</a></li>
+    <li id="q33-3">③ ㉡은 ㉠과 달리 대상이 되는 토지들이 반드시 경계를 인접할 필요는 없다.<a class="src-tag" href="#ev33">오답 근거</a></li>
+    <li id="q33-4">④ ㉠과 ㉡은 모두, 계약을 맺고 등기를 해야 효력이 발생한다.<a class="src-tag" href="#ev33">오답 근거</a></li>
     <li id="q33-5">⑤ ㉠과 ㉡은 모두, 한쪽의 권리는 제한하는 반면 다른 한쪽의 권리는 확장하는 것으로 볼 수 있다.<a class="src-tag ans" href="#ev33">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1162,7 +1162,7 @@ draft: false
 </div>
 
 <div class="passage">
-  <p class="passage-guide">[35 ~ 38] (가) 조성신 「개암정가」 · (나) 김창협 「청청각기」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[35 ~ 38] (가) 조성신 「개암정가」 · (나) 김창협 「청청각기」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p class="src-label">(가) 「개암정가」 (발췌)</p>
   <p class="verse">청춘에 병이 들어 공산에 누웠더니 / 한 조각 남은 꿈에 <span class="ev" id="ev-q36-1">호랑나비의 날개 빌려 … 개암정(皆巖亭)이 여기로다</span><a class="ev-tag" href="#q36-1">36-①</a> [ⓐ입몽→개암정 방문]<br>
   <span class="ev ans" id="ev35a">시냇가에 누은 돌은 석국(石局)처럼 벌려 잇고</span><a class="ev-tag ans" href="#q35-2">35-②</a> / <span class="ev" id="ev-q36-2">주인 영감께 인사하니 / 건장하도다 뛰어난 풍채 거룩하도다 고령의 건강</span><a class="ev-tag" href="#q36-2">36-②</a> / 의좋은 삼 형제는 아버님과 함께 놀고 색동옷 입은 아이 재롱 [ⓑ개암정 방문·칭송]<br>
@@ -1208,10 +1208,10 @@ draft: false
 <div class="q-block" id="prob36">
   <p class="q-stem">36. &lt;보기&gt;(ⓐ입몽·ⓑ개암정 방문·ⓒ경관 감상·ⓓ개암정 모임·ⓔ각몽)의 ⓐ~ⓔ에 대한 이해로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 62.2%</span></p>
   <ul class="q-opts">
-    <li id="q36-1">① ⓐ: 꿈속에서 호랑나비의 날개를 빌려 개암정을 찾아가는 과정을 드러낸다.<a class="src-tag" href="#ev-q36-1">오답 근거지문 근거</a></li>
-    <li id="q36-2">② ⓑ: 개암정에서 주인 영감을 만나고 풍채·건강을 칭송하는 마음을 드러낸다.<a class="src-tag" href="#ev-q36-2">오답 근거지문 근거</a></li>
-    <li id="q36-3">③ ⓒ: 원근의 산천을 한눈에 굽어보며 산세의 모습을 감각적으로 드러낸다.<a class="src-tag" href="#ev-q36-3">오답 근거지문 근거</a></li>
-    <li id="q36-4">④ ⓓ: 조상의 집에 모인 사람들의 장수를 기원하며 모임에 대한 만족감을 드러낸다.<a class="src-tag" href="#ev-q36-4">오답 근거지문 근거</a></li>
+    <li id="q36-1">① ⓐ: 꿈속에서 호랑나비의 날개를 빌려 개암정을 찾아가는 과정을 드러낸다.<a class="src-tag" href="#ev-q36-1">오답 근거</a></li>
+    <li id="q36-2">② ⓑ: 개암정에서 주인 영감을 만나고 풍채·건강을 칭송하는 마음을 드러낸다.<a class="src-tag" href="#ev-q36-2">오답 근거</a></li>
+    <li id="q36-3">③ ⓒ: 원근의 산천을 한눈에 굽어보며 산세의 모습을 감각적으로 드러낸다.<a class="src-tag" href="#ev-q36-3">오답 근거</a></li>
+    <li id="q36-4">④ ⓓ: 조상의 집에 모인 사람들의 장수를 기원하며 모임에 대한 만족감을 드러낸다.<a class="src-tag" href="#ev-q36-4">오답 근거</a></li>
     <li id="q36-5">⑤ ⓔ: 군선의 손을 잡고 찾아간 초선도에서 학의 소리로 꿈에서 깨는 과정을 드러낸다.<a class="src-tag ans" href="#ev36">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1236,11 +1236,11 @@ draft: false
 <div class="q-block" id="prob37">
   <p class="q-stem">37. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은?</p>
   <ul class="q-opts">
-    <li id="q37-1">① ㉠: '나'가 청청각을 방문한 사람들의 반응을 제시하고 있다.<a class="src-tag" href="#ev37a">오답 근거지문 근거</a></li>
-    <li id="q37-2">② ㉡: '나'가 누각을 직접 본 경험을 바탕으로 청청각의 구조와 모습을 제시하고 있다.<a class="src-tag" href="#ev37b">오답 근거지문 근거</a></li>
-    <li id="q37-3">③ ㉢: '나'가 누각의 환경과 이군의 일을 비교하며 청청각의 이름에 대한 생각을 제시하고 있다.<a class="src-tag" href="#ev37c">오답 근거지문 근거</a></li>
+    <li id="q37-1">① ㉠: '나'가 청청각을 방문한 사람들의 반응을 제시하고 있다.<a class="src-tag" href="#ev37a">오답 근거</a></li>
+    <li id="q37-2">② ㉡: '나'가 누각을 직접 본 경험을 바탕으로 청청각의 구조와 모습을 제시하고 있다.<a class="src-tag" href="#ev37b">오답 근거</a></li>
+    <li id="q37-3">③ ㉢: '나'가 누각의 환경과 이군의 일을 비교하며 청청각의 이름에 대한 생각을 제시하고 있다.<a class="src-tag" href="#ev37c">오답 근거</a></li>
     <li id="q37-4">④ ㉣: '나'가 이군에 대한 자신의 평가를 주변 평판과 함께 제시하고 있다.<a class="src-tag ans" href="#ev37d">정답 근거</a></li>
-    <li id="q37-5">⑤ ㉤: '나'가 이군이 누각을 청청각이라 명명한 이유에 대한 추측을 제시하고 있다.<a class="src-tag" href="#ev37e">오답 근거지문 근거</a></li>
+    <li id="q37-5">⑤ ㉤: '나'가 이군이 누각을 청청각이라 명명한 이유에 대한 추측을 제시하고 있다.<a class="src-tag" href="#ev37e">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1269,7 +1269,7 @@ draft: false
   </div>
   <ul class="q-opts">
     <li id="q38-1">① (가)의 '돌 틈에 솟은 물에 표주박 술잔이 띄워 있'는 모습에서 풍류를 즐기는 공간으로서의 자연을 엿볼 수 있군.</li>
-    <li id="q38-2">② (가)의 '봉우리도 수려하고 기암괴석이 절경이로구나'에서 미적 가치를 인식하는 공간으로서의 자연을 엿볼 수 있군.<a class="src-tag" href="#ev-q38-2">오답 근거지문 근거</a></li>
+    <li id="q38-2">② (가)의 '봉우리도 수려하고 기암괴석이 절경이로구나'에서 미적 가치를 인식하는 공간으로서의 자연을 엿볼 수 있군.<a class="src-tag" href="#ev-q38-2">오답 근거</a></li>
     <li id="q38-3">③ (나)의 '천천히 거닐'며 '세속의 잡다한 일이 조금도 없'는 이군의 모습에서 사대부가 은일하는 공간으로서의 자연을 엿볼 수 있군.</li>
     <li id="q38-4">④ (가)의 '우리 일문'에 '장수한 어른이 많기도 많'다며 '거룩'하다고 감탄하는 것에서 가문 의식 실현의 공간을, (나)의 '내면은 잊'고 '텅 비고 밝은 본체'를 기르는 이군의 모습에서 인격 수양을 실천하는 공간으로서의 자연을 엿볼 수 있군.<a class="src-tag ans" href="#ev37c">정답 근거</a></li>
     <li id="q38-5">⑤ (가)의 '삼 형제는 아버님과 함께 놀고'·'뛰어난 자식들은 뜰 앞에 벌려 있'는 것과 (나)의 '외물의 누를 씻어 내어 가슴속을 해맑게' 하면 '이 누각에 사는 것이 부끄럽지 않'다는 것에서 이상적 삶이 실현되는 공간으로서의 자연을 엿볼 수 있군.</li>
@@ -1298,7 +1298,7 @@ draft: false
 ## 39~42번 고전소설 · 작자 미상 「당태종전」
 
 <div class="passage">
-  <p class="passage-guide">[39 ~ 42] 작자 미상, 「당태종전」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[39 ~ 42] 작자 미상, 「당태종전」 (핵심 발췌).<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p class="muted">[앞부분 줄거리] 용왕에게 원한을 품은 태종이 저승으로 가게 된다. 위징이 최 판관에게 태종을 도와 달라 부탁한다.</p>
   <p>최 판관은 생사부에서 태종의 수한이 13년임을 보고, <span class="ev" id="ev-q39-4">위징 부탁을 지키려 열 십자에 두 획을 더해 23년으로 바꾼 뒤 드린다.</span><a class="ev-tag" href="#q39-4">39-④</a> <span class="ev" id="ev-q42-2">십전 명왕은 10년을 지레 일찍 들어왔다며 태종에게 인간 세계로 돌아가도록 청한다.</span><a class="ev-tag" href="#q42-2">42-②</a></p>
   <p><span class="ev" id="ev-q42-3">귀졸들이 태종을 에워싸자</span><a class="ev-tag" href="#q42-3">42-③</a> 최 판관은 <span class="ev ans" id="ev39">높은 데 올라가 먼저 이를 인지하고 태종에게 알린다.</span><a class="ev-tag" href="#q39-5">39-⑤</a> <span class="ev" id="ev-q39-3">계교가 없다며 탄식하다</span><a class="ev-tag" href="#q39-3">39-③</a>, <span class="ev" id="ev-q39-1">판관 권위로 귀졸들을 물러서게 한 뒤</span><a class="ev-tag" href="#q39-1">39-①</a> ㉠태종의 창고(빈 창고)로 안내한다.</p>
@@ -1310,11 +1310,11 @@ draft: false
 <div class="q-block" id="prob39">
   <p class="q-stem">39. 윗글의 최 판관에 대한 설명으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 50.7%</span></p>
   <ul class="q-opts">
-    <li id="q39-1">① 태종을 위해 자신이 맡은 직책의 권위를 이용하여 계략을 행하고 있다.<a class="src-tag" href="#ev-q39-1">오답 근거지문 근거</a></li>
+    <li id="q39-1">① 태종을 위해 자신이 맡은 직책의 권위를 이용하여 계략을 행하고 있다.<a class="src-tag" href="#ev-q39-1">오답 근거</a></li>
     <li id="q39-2">② 태종에게 자신이 베푼 선의의 대가로 지부에 없는 것을 요구하고 있다.<a class="src-tag ans" href="#ev39">정답 근거</a></li>
-    <li id="q39-3">③ 태종의 명령을 해결할 계교가 없어 탄식하고 있다.<a class="src-tag" href="#ev-q39-3">오답 근거지문 근거</a></li>
-    <li id="q39-4">④ 염라대왕의 명령을 수행하다 위징의 부탁을 들어주기 위한 계책을 떠올리고 있다.<a class="src-tag" href="#ev-q39-4">오답 근거지문 근거</a></li>
-    <li id="q39-5">⑤ 태종에게 닥친 위기 상황을 먼저 인지하고 그 내용을 태종에게 설명해 주고 있다.<a class="src-tag" href="#ev39">오답 근거지문 근거</a></li>
+    <li id="q39-3">③ 태종의 명령을 해결할 계교가 없어 탄식하고 있다.<a class="src-tag" href="#ev-q39-3">오답 근거</a></li>
+    <li id="q39-4">④ 염라대왕의 명령을 수행하다 위징의 부탁을 들어주기 위한 계책을 떠올리고 있다.<a class="src-tag" href="#ev-q39-4">오답 근거</a></li>
+    <li id="q39-5">⑤ 태종에게 닥친 위기 상황을 먼저 인지하고 그 내용을 태종에게 설명해 주고 있다.<a class="src-tag" href="#ev39">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1399,10 +1399,10 @@ draft: false
   </div>
   <ul class="q-opts">
     <li id="q42-1">① 십전 명왕과 최 판관이 태종을 '폐하'라 지칭하는 모습에서 권력자 지위가 사후에도 이어짐을 알 수 있군.</li>
-    <li id="q42-2">② 십전 명왕이 태종의 생사부를 보고 '바삐 도로 인세에 나가심을 청하라'고 한 데서 저승이 환생에 관여하는 사후 세계임을 알 수 있군.<a class="src-tag" href="#ev-q42-2">오답 근거지문 근거</a></li>
-    <li id="q42-3">③ 귀졸들이 달려들어 태종이 정신을 잃는 모습에서 권력자가 업보로 저승에서 위기를 겪음을 알 수 있군.<a class="src-tag" href="#ev-q42-3">오답 근거지문 근거</a></li>
+    <li id="q42-2">② 십전 명왕이 태종의 생사부를 보고 '바삐 도로 인세에 나가심을 청하라'고 한 데서 저승이 환생에 관여하는 사후 세계임을 알 수 있군.<a class="src-tag" href="#ev-q42-2">오답 근거</a></li>
+    <li id="q42-3">③ 귀졸들이 달려들어 태종이 정신을 잃는 모습에서 권력자가 업보로 저승에서 위기를 겪음을 알 수 있군.<a class="src-tag" href="#ev-q42-3">오답 근거</a></li>
     <li id="q42-4">④ 태종이 최 판관이 가리켜 들어간 집 안에서 짚 한 뭇을 발견한 것에서, 권력자가 끊어졌던 환생의 가능성을 되찾음을 알 수 있군.<a class="src-tag ans" href="#ev40">정답 근거</a></li>
-    <li id="q42-5">⑤ 태종이 장상의 금을 꾸어 여러 혼을 위로하는 것에서, 이승에서 선행을 베푼 장상의 업보를 통해 권력자가 위기를 모면함을 알 수 있군.<a class="src-tag" href="#ev-q42-5">오답 근거지문 근거</a></li>
+    <li id="q42-5">⑤ 태종이 장상의 금을 꾸어 여러 혼을 위로하는 것에서, 이승에서 선행을 베푼 장상의 업보를 통해 권력자가 위기를 모면함을 알 수 있군.<a class="src-tag" href="#ev-q42-5">오답 근거</a></li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
@@ -1428,12 +1428,12 @@ draft: false
 ## 43~45번 현대시 · 김광균 「목련나무 옆에서」 · 정일근 「그리운 곳으로 돌아보라」
 
 <div class="passage">
-  <p class="passage-guide">[43 ~ 45] (가) 김광균 「목련나무 옆에서」 · (나) 정일근 「그리운 곳으로 돌아보라」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[43 ~ 45] (가) 김광균 「목련나무 옆에서」 · (나) 정일근 「그리운 곳으로 돌아보라」.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p class="src-label">(가) 「목련나무 옆에서」</p>
   <p class="verse">사월이 돌아와 다사로운 봄볕에 / 목련이 꽃망울지기 시작하면 / 내 슬픔은 비롯하나보다.<br>
   경운동집 앞마당에 / 목련이 ㉠<span class="ev" id="ev44a">가지마다 꽃등을 달면</span><a class="ev-tag" href="#q44-1">44-㉠</a> / <span class="ev" id="ev-q45-1">병석의 어머님은 방문을 열고 / 사월 팔일이 온 것 같다고 웃고 계셨다.</span><a class="ev-tag" href="#q45-1">45-①</a><br>
   늙은 나무는 죽은 지 오래이고 / 남은 가지가 자라난 지 스물 두 해 / 오늘은 ㉡<span class="ev" id="ev44b">아침부터 바람이 불고</span><a class="ev-tag" href="#q44-2">44-㉡</a> / 연약한 가지에 매어달린 목련은 / 떠나가는 몸짓을 한다.<br>
-  목련이 지면 어머님은 떠나가시고 / 삼백 예순 날이 또 지나가겠지 / <span class="ev wrong" id="ev-q43-1">아 새봄이 와서</span><a class="ev-tag wrong" href="#q43-1">43-①</a> / 가지마다 새싹이 움틀 때까지 / 나는 서서 나무가 되고 싶다.</p>
+  목련이 지면 어머님은 떠나가시고 / 삼백 예순 날이 또 지나가겠지 / <span class="ev" id="ev-q43-1">아 새봄이 와서</span><a class="ev-tag" href="#q43-1">43-①</a> / 가지마다 새싹이 움틀 때까지 / 나는 서서 나무가 되고 싶다.</p>
   <p class="src-label">(나) 「그리운 곳으로 돌아보라」</p>
   <p class="verse"><span class="ev ans" id="ev43">그리운 곳에는 우리를 부르는 소리가 있네</span><a class="ev-tag" href="#q45-3">45-③</a> [수미상관]<br>
   천상의 사랑은 ㉢<span class="ev" id="ev44c">이미 빗장을 풀고 달아나버려</span><a class="ev-tag" href="#q44-3">44-㉢</a><br>
@@ -1446,7 +1446,7 @@ draft: false
 <div class="q-block" id="prob43">
   <p class="q-stem">43. (가)와 (나)에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts">
-    <li id="q43-1">① (가)와 달리 (나)는 감탄사를 사용하여 고조된 감정을 표현하고 있다.<a class="src-tag wrong" href="#ev-q43-1">오답 근거</a></li>
+    <li id="q43-1">① (가)와 달리 (나)는 감탄사를 사용하여 고조된 감정을 표현하고 있다.<a class="src-tag" href="#ev-q43-1">오답 근거</a></li>
     <li id="q43-2">② (가)와 달리 (나)는 수미상관 기법을 사용하여 구조적 안정감을 부여하고 있다.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
     <li id="q43-3">③ (나)와 달리 (가)는 음성상징어를 사용하여 시의 리듬감을 주고 있다.</li>
     <li id="q43-4">④ (나)와 달리 (가)는 설의적 표현을 사용하여 화자의 의도를 강조하고 있다.</li>
@@ -1475,10 +1475,10 @@ draft: false
 <div class="q-block" id="prob44">
   <p class="q-stem">44. ㉠~㉤에 대한 설명으로 적절하지 <strong>않은</strong> 것은? <span class="q-rate">오답률 44.0%</span></p>
   <ul class="q-opts">
-    <li id="q44-1">① ㉠: 목련이 가지에 낱낱이 피어 있는 형상을 부각하고 있다.<a class="src-tag" href="#ev44a">오답 근거지문 근거</a></li>
-    <li id="q44-2">② ㉡: 화자가 인식한, 바람이 불기 시작한 시점을 드러내고 있다.<a class="src-tag" href="#ev44b">오답 근거지문 근거</a></li>
-    <li id="q44-3">③ ㉢: 천상의 사랑이 달아나버린 것이 지나간 일임을 부각하고 있다.<a class="src-tag" href="#ev44c">오답 근거지문 근거</a></li>
-    <li id="q44-4">④ ㉣: 잠자는 장소를 밝혀 노숙의 세월을 구체화하고 있다.<a class="src-tag" href="#ev44d">오답 근거지문 근거</a></li>
+    <li id="q44-1">① ㉠: 목련이 가지에 낱낱이 피어 있는 형상을 부각하고 있다.<a class="src-tag" href="#ev44a">오답 근거</a></li>
+    <li id="q44-2">② ㉡: 화자가 인식한, 바람이 불기 시작한 시점을 드러내고 있다.<a class="src-tag" href="#ev44b">오답 근거</a></li>
+    <li id="q44-3">③ ㉢: 천상의 사랑이 달아나버린 것이 지나간 일임을 부각하고 있다.<a class="src-tag" href="#ev44c">오답 근거</a></li>
+    <li id="q44-4">④ ㉣: 잠자는 장소를 밝혀 노숙의 세월을 구체화하고 있다.<a class="src-tag" href="#ev44d">오답 근거</a></li>
     <li id="q44-5">⑤ ㉤: 세상의 마지막 저녁을 거듭해서 겪고 있음을 부각하고 있다.<a class="src-tag ans" href="#ev44e">정답 근거</a></li>
   </ul>
   <details class="solution">
@@ -1507,9 +1507,9 @@ draft: false
     <p>(가)에서 화자는 순환하는 자연에서 부재하는 혈육을 회상하고, 자신·혈육을 자연물과 동일시하는 상상력으로 그리움을 드러낸다. (나)에서 화자는 부정적 현실 속 고독함을 느끼며 고향과 이어지는 상상력으로 고향에 대한 그리움을 드러내며 현실을 인내한다.</p>
   </div>
   <ul class="q-opts">
-    <li id="q45-1">① (가)의 '병석의 어머님'이 '방문을 열고' '웃고 계셨다'에서 혈육에 대한 과거 경험을 확인할 수 있군.<a class="src-tag" href="#ev-q45-1">오답 근거지문 근거</a></li>
-    <li id="q45-2">② (나)의 '나는 대상에서 떨어져나온 외로운 쌍봉낙타'에서 고독한 현실에 대한 화자의 인식을 확인할 수 있군.<a class="src-tag" href="#ev-q45-2">오답 근거지문 근거</a></li>
-    <li id="q45-3">③ (나)의 '그리운 곳에는 우리를 부르는 소리가 있네'에서 고향에 대한 그리움을 확인할 수 있군.<a class="src-tag" href="#ev43">오답 근거지문 근거</a></li>
+    <li id="q45-1">① (가)의 '병석의 어머님'이 '방문을 열고' '웃고 계셨다'에서 혈육에 대한 과거 경험을 확인할 수 있군.<a class="src-tag" href="#ev-q45-1">오답 근거</a></li>
+    <li id="q45-2">② (나)의 '나는 대상에서 떨어져나온 외로운 쌍봉낙타'에서 고독한 현실에 대한 화자의 인식을 확인할 수 있군.<a class="src-tag" href="#ev-q45-2">오답 근거</a></li>
+    <li id="q45-3">③ (나)의 '그리운 곳에는 우리를 부르는 소리가 있네'에서 고향에 대한 그리움을 확인할 수 있군.<a class="src-tag" href="#ev43">오답 근거</a></li>
     <li id="q45-4">④ (가)의 '사월이 돌아'오고 '삼백 예순 날이 또 지나가겠지'에서 자연의 순환에 대한 인식을, (나)의 '고통의 맨발로 걸어가네'에서 부정적 현실을 인내하는 태도를 확인할 수 있군.</li>
     <li id="q45-5">⑤ (가)의 '목련이 지면 어머님은 떠나가시고'와 '나는 서서 나무가 되고 싶다'에서 자연물을 통해 부재하는 어머니와 자신을 동일시하는, (나)의 '두고온 고향의 바닷별과 조우하려니'에서 고향과 이어지는 화자의 상상력을 확인할 수 있군.<a class="src-tag ans" href="#ev43">정답 근거</a></li>
   </ul>

@@ -27,11 +27,11 @@ def recolor(text):
         body=lm.group(0); ans=ia.get(lm.group(1),False)
         def srep(sm):
             pre,href,post,label=sm.group(1),sm.group(2),sm.group(3),sm.group(4)
-            suf=re.sub(r'^(정답 근거|오답 근거)','',label)
+            suf=re.sub(r'^(정답 근거|오답 근거|지문 근거)','',label)
             newlabel=('정답 근거' if ans else '오답 근거')+suf
             cls='src-tag ans' if ans else 'src-tag'
             return f'<a class="{cls}"{pre}href="{href}"{post}>{newlabel}</a>'
-        return re.sub(r'<a class="src-tag(?: ans)?"(\s[^>]*?\s|\s)href="(#[^"]+)"([^>]*)>([^<]*)</a>',srep,body)
+        return re.sub(r'<a class="src-tag(?: ans| wrong)?"(\s[^>]*?\s|\s)href="(#[^"]+)"([^>]*)>([^<]*)</a>',srep,body)
     text=re.sub(r'<li id="([^"]+)">.*?</li>',fix_li,text,flags=re.S)
     # 2) ev-tags -> class per target option answer (fallback strip suffix)
     def evrep(m):

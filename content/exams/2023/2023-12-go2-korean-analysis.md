@@ -14,7 +14,7 @@ layout: "exam"
 ## 1~3번 화법 · 발표 · 조선 시대 역사 탐구
 
 <div class="passage">
-  <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[1 ~ 3] 다음은 학생의 발표이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>안녕하세요? 오늘 발표를 맡은 역사 탐구 동아리 회장 ○○○ 입니다. 여러분은 조선 시대의 금속 활자에 대해 알고 계신가요? (대답을 듣고) 아는 분이 많지 않네요. 고려 시대에 금속 활자가 만들어진 것에 대해서는 많이들 알고 계시지만 조선 시대에 금속 활자가 발달했다는 것은 잘 모르시는 분들이 많습니다. <span class="ev" id="ev-q2-1">그래서 오늘은 조선 시대 금속 활자에 대해 알려　드리려고 합니다.</span><a class="ev-tag" href="#q2-1">2-①</a> </p>
   <p>이 그림을 보시죠. (그림 제시) 책을 인쇄하고 있는 사람들이 보이시죠? <span class="ev" id="ev-q2-2">이 그림은 조선 시대의 주자소라는 관청의 모습을 그린 것인데요, 주자소는 활자를 만들어 책을 인쇄하는 일을 전문적으로 맡았습니다.</span><a class="ev-tag" href="#q2-2">2-②</a> <span class="ev" id="ev-q2-3">『태종실록』에 ‘임금이 우리나라에 서적이 매우 적어 유생들이 널리 볼 수 없는 것을 염려하여 주자소를 설치하라 명하였다.’라는 기록이 있습니다.</span><a class="ev-tag" href="#q2-3">2-③</a> 이를 통해 조선 시대에는 유교 이념을 널리 전파하려는 목적으로 국가 차원에서 금속 활자를 활용한 서적 인쇄를 주도했다는 것을 알 수 있지요. </p>
   <p>특히 세종 대에는 금속 활자 인쇄술이 크게 발전하게 됩니다. (사진 제시) 사진에서 왼쪽은 태종 대에 만들어진 조선 최초의 금속 활자인 계미자로 인쇄한 것이고, 오른쪽은 세종 대에 만들어진 금속 활자인 갑인자로 인쇄한 것입니다. 두 활자본의 차이를 분명하게 보여 드리기 위해 사진을 확대해 볼게요. (사진을 확대하며) <span class="ev" id="ev-q2-4">갑인자로 인쇄된 것이 글자의 크기와 간격이 훨씬 더 일정하다는 것을 확인할 수 있습니다.</span><a class="ev-tag" href="#q2-4">2-④</a> 이는 세종 대에 이르러 활자 하나하나를 맞추어 짜는 조판 기술이 발달하였기 때문입니다. 게다가 갑인자는 이전의 금속 활자에 비해 글씨체도 아름다워서 형태적인 완성미를 갖춘 금속 활자로 평가받습니다. 그래서 후대에도 갑인자를 표준으로 삼은 금속 활자들이 꾸준히 제작되었습니다. </p>
@@ -39,16 +39,16 @@ layout: "exam"
   </div>
   <ul class="q-opts"><li id="q2-1">① 청중이 조선 시대의 금속 활자에 대해 잘 알지 못할 것임.
 →
-조선 시대의 금속 활자에 대한 정보를 제공하는 것이 발표의 목적임을 밝혀야지.<a class="src-tag" href="#ev-q2-1">오답 근거지문 근거</a></li>
+조선 시대의 금속 활자에 대한 정보를 제공하는 것이 발표의 목적임을 밝혀야지.<a class="src-tag" href="#ev-q2-1">오답 근거</a></li>
  <li id="q2-2">② 청중이 주자소를 생소하게 여길 것임.
 →
-그림 자료를 보여 주며 주자소의 역할을 이해하기 쉽게 설명해야지.<a class="src-tag" href="#ev-q2-2">오답 근거지문 근거</a></li>
+그림 자료를 보여 주며 주자소의 역할을 이해하기 쉽게 설명해야지.<a class="src-tag" href="#ev-q2-2">오답 근거</a></li>
  <li id="q2-3">③ 국가 차원에서 서적 인쇄를 주도함.
 →
-국가가 책을 인쇄하는 관청을 만들었음을 알 수 있는 문헌 자료를 인용해야지.<a class="src-tag" href="#ev-q2-3">오답 근거지문 근거</a></li>
+국가가 책을 인쇄하는 관청을 만들었음을 알 수 있는 문헌 자료를 인용해야지.<a class="src-tag" href="#ev-q2-3">오답 근거</a></li>
  <li id="q2-4">④ 세종 대에 이르러 조판 기술이 발달함.
 →
-사진 자료를 활용해 계미자와 갑인자의 글자 크기와 간격을 비교해야겠어.<a class="src-tag" href="#ev-q2-4">오답 근거지문 근거</a></li>
+사진 자료를 활용해 계미자와 갑인자의 글자 크기와 간격을 비교해야겠어.<a class="src-tag" href="#ev-q2-4">오답 근거</a></li>
  <li id="q2-5">⑤ 다양한 서적 인쇄에 금속 활자가 활용됨.
 →
 금속 활자로 인쇄된 책들의 사례를 시대에 따라 분류해 제시해야겠어.<a class="src-tag ans" href="#ev2">정답 근거</a></li></ul>
@@ -63,11 +63,11 @@ layout: "exam"
  <p class="dlg"><b>학생 2:</b> <span class="ev ans" id="ev-q3-4b">갑인자에 대한 기사를 본 적이 있어서 갑인자가 조선 시대 금속 활자라는 건 알고 있었어.</span><a class="ev-tag ans" href="#q3-4">3-④</a> <span class="ev" id="ev-q3-2">그런데 갑인자가 형태적 완성미를 갖추었다고 하는데 구체적으로 어떤 점이 그럴까?</span><a class="ev-tag" href="#q3-2">3-②</a></p>
  <p class="dlg"><b>학생 3:</b> <span class="ev" id="ev-q3-3">조선 시대 금속 활자의 발달 양상에 대해 알게 되어 유익했어.</span><a class="ev-tag" href="#q3-3">3-③</a> <span class="ev" id="ev-q3-5b">세종 대에 금속 활자가 발전했다고 했는데 그렇게 될 수 있었던 당시의 사회 문화적 배경에 대해 조사해 봐야겠어.</span><a class="ev-tag" href="#q3-5">3-⑤</a></p>
   </div>
-  <ul class="q-opts"><li id="q3-1">① 학생 1은 발표에서 만족스럽지 않은 부분을 언급하며 아쉬움을 드러내고 있군.<a class="src-tag" href="#ev-q3-15">오답 근거지문 근거</a></li>
- <li id="q3-2">② 학생 2는 발표 내용 일부를 언급하며 궁금한 점을 드러내고 있군.<a class="src-tag" href="#ev-q3-2">오답 근거지문 근거</a></li>
- <li id="q3-3">③ 학생 3은 발표를 통해 알게 된 사실에 대해 긍정적으로 생각하고 있군.<a class="src-tag" href="#ev-q3-3">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q3-1">① 학생 1은 발표에서 만족스럽지 않은 부분을 언급하며 아쉬움을 드러내고 있군.<a class="src-tag" href="#ev-q3-15">오답 근거</a></li>
+ <li id="q3-2">② 학생 2는 발표 내용 일부를 언급하며 궁금한 점을 드러내고 있군.<a class="src-tag" href="#ev-q3-2">오답 근거</a></li>
+ <li id="q3-3">③ 학생 3은 발표를 통해 알게 된 사실에 대해 긍정적으로 생각하고 있군.<a class="src-tag" href="#ev-q3-3">오답 근거</a></li>
  <li id="q3-4">④ 학생 1과 학생 2는 모두 발표 내용을 통해 자신이 알고 있던 지식을 수정하고 있군.<a class="src-tag ans" href="#ev-q3-4b">정답 근거</a></li>
- <li id="q3-5">⑤ 학생 1과 학생 3은 모두 발표에서 언급된 정보에 대한 추가 정보를 탐색하려 하고 있군.<a class="src-tag" href="#ev-q3-15">오답 근거지문 근거(학생1)</a><a class="src-tag" href="#ev-q3-5b">오답 근거지문 근거(학생3)</a></li></ul>
+ <li id="q3-5">⑤ 학생 1과 학생 3은 모두 발표에서 언급된 정보에 대한 추가 정보를 탐색하려 하고 있군.<a class="src-tag" href="#ev-q3-15">오답 근거(학생1)</a><a class="src-tag" href="#ev-q3-5b">오답 근거(학생3)</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 각 학생 반응이 ‘수정·궁금·긍정·탐색’ 중 무엇인지 가른다.</p><p>학생1은 ‘한 가지뿐인 줄 알았는데 아니었다’며 지식을 수정하지만, 학생2는 ‘갑인자가 조선 금속 활자인 건 알고 있었어’라며 <strong>알던 지식을 언급만</strong> 할 뿐 수정하지 않는다. ‘모두 수정’이라는 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>학생1: ‘아쉬워’ 불만족 언급.</td></tr><tr><td>②</td><td>적절</td><td>학생2: ‘어떤 점이 그럴까?’ 궁금.</td></tr><tr><td>③</td><td>적절</td><td>학생3: ‘유익했어’ 긍정.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>학생2는 수정 아닌 ‘언급만’.</td></tr><tr><td>⑤</td><td>적절</td><td>학생1·3 모두 추가 탐색 계획.</td></tr></tbody></table></div></details>
 </div>
 
@@ -76,7 +76,7 @@ layout: "exam"
 ## 4~7번 화법·작문 · 대화+초고 · 가치 참여 펀딩 봉사 활동
 
 <div class="passage">
-  <p class="passage-guide">[4 ~ 7] (가)는 학교 누리집에 실을 글을 작성하기 위한 학생회 학생들의 대화이고, (나)는 (가)를 바탕으로 작성한 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[4 ~ 7] (가)는 학교 누리집에 실을 글을 작성하기 위한 학생회 학생들의 대화이고, (나)는 (가)를 바탕으로 작성한 초고이다. 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>(가) </p>
   <p>학생 1: <span class="ev" id="ev-q4-3">교지 편집부에서 우리가 했던 가치 참여 펀딩 봉사 활동을 소개해 달라는 요청을 했어. 어떤 내용으로 글을 쓸지 정하기 위해 함께 이야기해 보자.</span><a class="ev-tag" href="#q4-3">4-③</a> </p>
   <p>학생 2: 가치 참여 펀딩이라는 말이 생소할 테니까 가치 참여 펀딩의 정의에 대해 제시해 주면 좋을 것 같아. 우리 학생회에서 그 말의 의미를 정의했었잖아. </p>
@@ -102,10 +102,10 @@ layout: "exam"
 
 <div class="q-block" id="prob4">
   <p class="q-stem">4. (가)에서 ‘학생 1’의 역할에 대한 설명으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q4-1">① 대화 이후 수행해야 할 일을 언급하고 있다.<a class="src-tag" href="#ev-q4-1">오답 근거지문 근거</a></li>
- <li id="q4-2">② 다른 참여자들의 발언을 정리해서 제시하고 있다.<a class="src-tag" href="#ev-q4-2">오답 근거지문 근거</a></li>
- <li id="q4-3">③ 대화의 목적을 밝히며 대화를 이끌어 나가고 있다.<a class="src-tag" href="#ev-q4-3">오답 근거지문 근거</a></li>
- <li id="q4-4">④ 다른 참여자의 발언을 듣고 추가적인 설명을 요청하고 있다.<a class="src-tag" href="#ev-q4-4">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q4-1">① 대화 이후 수행해야 할 일을 언급하고 있다.<a class="src-tag" href="#ev-q4-1">오답 근거</a></li>
+ <li id="q4-2">② 다른 참여자들의 발언을 정리해서 제시하고 있다.<a class="src-tag" href="#ev-q4-2">오답 근거</a></li>
+ <li id="q4-3">③ 대화의 목적을 밝히며 대화를 이끌어 나가고 있다.<a class="src-tag" href="#ev-q4-3">오답 근거</a></li>
+ <li id="q4-4">④ 다른 참여자의 발언을 듣고 추가적인 설명을 요청하고 있다.<a class="src-tag" href="#ev-q4-4">오답 근거</a></li>
  <li id="q4-5">⑤ 다른 참여자의 발언이 주제에서 벗어난 것을 지적하고 있다.<a class="src-tag ans" href="#ev4">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ‘학생 1’이 실제로 한 발화를 본다.</p><p>주제를 벗어났다고 <strong>지적</strong>한 것은 학생 3(‘다른 사례를 소개하면 글의 주제가 불분명’)이지 학생 1이 아니다. ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>‘정리해서 보내 줘~초고를 작성할게’=이후 할 일.</td></tr><tr><td>②</td><td>적절</td><td>‘정리하자면~소개하자는 거구나’=발언 정리.</td></tr><tr><td>③</td><td>적절</td><td>‘함께 이야기해 보자’=목적 밝힘·진행.</td></tr><tr><td>④</td><td>적절</td><td>‘좀 더 이야기해 줄래?’=추가 설명 요청.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>주제 벗어남 지적은 학생 3.</td></tr></tbody></table></div></details>
 </div>
@@ -113,7 +113,7 @@ layout: "exam"
 <div class="q-block" id="prob5">
   <p class="q-stem">5. [A]에 대한 설명으로 가장 적절한 것은?</p>
   <ul class="q-opts"><li id="q5-1">① ‘학생 2’는 ‘학생 3’의 발화 내용을 수용하며 자신의 견해를 수정하고 있다.<a class="src-tag ans" href="#ev5">정답 근거</a></li>
- <li id="q5-2">② ‘학생 2’는 ‘학생 3’이 제시한 내용을 반박하며 자신이 제시했던 의견을 보완하고 있다.<a class="src-tag wrong" href="#ev5">오답 근거</a></li>
+ <li id="q5-2">② ‘학생 2’는 ‘학생 3’이 제시한 내용을 반박하며 자신이 제시했던 의견을 보완하고 있다.<a class="src-tag" href="#ev5">오답 근거</a></li>
  <li id="q5-3">③ ‘학생 3’은 자신의 의견을 여러 가지 제시하고 ‘학생 2’에게 선택을 요구하고 있다.</li>
  <li id="q5-4">④ ‘학생 3’은 ‘학생 2’가 제안을 하게 된 이유를 질문한 뒤 그 제안의 한계를 지적하고 있다.</li>
  <li id="q5-5">⑤ ‘학생 2’와 ‘학생 3’은 모두 상대의 발화를 재진술하며 자신이 이해한 내용이 정확한지 확인하고 있다.
@@ -123,11 +123,11 @@ layout: "exam"
 
 <div class="q-block" id="prob6">
   <p class="q-stem">6. (가)의 대화 내용이 (나)에 반영된 양상으로 적절하지 않은 것은? <span class="q-rate">오답률 78.0%</span></p>
-  <ul class="q-opts"><li id="q6-1">① (가)에서 ‘학생 2’가 홍보 수단 선택의 이유에 대해 언급한 내용이, (나)에서 학생회 SNS가 학생들이 참여 의사를 밝히기 용이하다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-1">오답 근거지문 근거</a></li>
- <li id="q6-2">② (가)에서 ‘학생 2’가 가치 참여 펀딩의 정의에 대해 언급한 내용이, (나)에서 가치 펀딩과 가치 참여 펀딩의 의미를 비교하여 제시하는 방식으로 반영되었다.<a class="src-tag" href="#ev-q6-2">오답 근거지문 근거</a></li>
- <li id="q6-3">③ (가)에서 ‘학생 2’가 가치 참여 펀딩 자체에 대한 평가에 대해 언급한 내용이, (나)에서 같은 가치를 공유한 경험에 대해 만족감을 표하는 반응이 많았다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-3">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q6-1">① (가)에서 ‘학생 2’가 홍보 수단 선택의 이유에 대해 언급한 내용이, (나)에서 학생회 SNS가 학생들이 참여 의사를 밝히기 용이하다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-1">오답 근거</a></li>
+ <li id="q6-2">② (가)에서 ‘학생 2’가 가치 참여 펀딩의 정의에 대해 언급한 내용이, (나)에서 가치 펀딩과 가치 참여 펀딩의 의미를 비교하여 제시하는 방식으로 반영되었다.<a class="src-tag" href="#ev-q6-2">오답 근거</a></li>
+ <li id="q6-3">③ (가)에서 ‘학생 2’가 가치 참여 펀딩 자체에 대한 평가에 대해 언급한 내용이, (나)에서 같은 가치를 공유한 경험에 대해 만족감을 표하는 반응이 많았다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-3">오답 근거</a></li>
  <li id="q6-4">④ (가)에서 ‘학생 3’이 주제 선정 과정에 대해 언급한 내용이, (나)
-에서 회의를 통해 ‘지역 하천 쓰레기 줍기’가 주제로 결정되었다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-4">오답 근거지문 근거</a></li>
+에서 회의를 통해 ‘지역 하천 쓰레기 줍기’가 주제로 결정되었다는 내용으로 반영되었다.<a class="src-tag" href="#ev-q6-4">오답 근거</a></li>
  <li id="q6-5">⑤ (가)에서 ‘학생 3’이 참가자의 제안에 대해 언급한 내용이, (나)에서 ‘환경 보호’ 외의 다른 가치를 중심으로 한 활동에 대한 요구가 있었음을 밝히는 내용으로 반영되었다.<a class="src-tag ans" href="#ev6">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가) 발화가 (나)에 ‘어떻게’ 반영됐는지 짝짓는다.</p><p>학생 3은 ‘다양한 주제의 봉사 활동을 운영해 달라’는 참가자 제안을 언급했는데, (나)는 ‘환경 보호 외 다른 가치’ 활동 요구로 옮겨 적었다. ‘다양한 주제 봉사 활동’ 요구로 반영된 것이 아니므로 ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>SNS 홍보 이유→참여 의사 용이.</td></tr><tr><td>②</td><td>적절</td><td>가치 펀딩↔가치 참여 펀딩 비교.</td></tr><tr><td>③</td><td>적절</td><td>펀딩 자체 만족 평가 반영.</td></tr><tr><td>④</td><td>적절</td><td>주제 선정 과정(회의 결정) 반영.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>‘다양한 주제’가 아닌 ‘다른 가치’로 반영.</td></tr></tbody></table></div></details>
 </div>
@@ -151,7 +151,7 @@ layout: "exam"
 ## 8~10번 작문 · 초고 · 선사 유적 박물관 활성화
 
 <div class="passage">
-  <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 이를 바탕으로 학생이 작성한 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[8 ~ 10] 다음은 작문 상황과 이를 바탕으로 학생이 작성한 초고이다.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>다음은 작문 상황과 이를 바탕으로 학생이 작성한 초고이다. 물음에 답하시오. </p>
   <p>[작문 상황] </p>
   <p>작문 목적: 우리 지역 선사 유적 박물관의 활성화 방안을 건의함. </p>
@@ -181,10 +181,10 @@ layout: "exam"
  <p><strong>[자료 2] ○○시 시민 인터뷰</strong><br>"얼마 전 △△시 박물관에 방문했는데, 모바일 애플리케이션을 통해 연령에 맞게 다양한 체험 프로그램을 선택해 참여할 수 있어서 좋았습니다. 전에 가 보았던 우리 지역 선사 유적 박물관은 아이들을 위한 프로그램이 없고, 전시 해설만 있어서 아쉬웠거든요. 우리 지역에도 다채로운 프로그램이 마련되었으면 좋겠어요."</p>
  <p><strong>[자료 3] 신문 기사</strong><br>최근 ◇◇미술관의 관람객 수가 꾸준히 증가하고 있어 그간의 노력이 주목받고 있다. ◇◇미술관은 지역 내 고등학생을 대상으로 청소년 해설사 제도를 운영하고 지역 주민을 홍보 대사로 위촉하는 등 지역 사회와 연계된 홍보에 심혈을 기울여 왔다. 또한 실감 기술을 활용한 디지털 콘텐츠 프로그램을 통해 모든 연령대의 관람객이 참여할 수 있는 체험 프로그램을 운영하고 있으며, 효율적인 관람이 가능하도록 과학적 분석을 통해 관람 동선을 최적화하여 전시실을 재배치하는 등 디지털 기술을 적극 활용하고 있다.</p>
   </div>
-  <ul class="q-opts"><li id="q9-1">① [자료 1-㉮]를 활용하여, 박물관이 잘 알려져 있지 않다는 것의 근거 자료로 제시해야겠군.<a class="src-tag" href="#ev-q9-1">오답 근거지문 근거</a></li>
- <li id="q9-2">② [자료 3]을 활용하여, 청소년 해설사 제도와 지역 주민 홍보 대사를 지역 연계 홍보의 구체적인 방안으로 제시해야겠군.<a class="src-tag" href="#ev-q9-2">오답 근거지문 근거</a></li>
- <li id="q9-3">③ [자료 1-㉯]와 [자료 2]를 활용하여, 프로그램 개선에 대한 요구와 프로그램에 대한 평가를 우리 지역 박물관이 관람객의 흥미를 유발할 프로그램이 부족하다는 내용의 근거로 제시해야겠군.<a class="src-tag" href="#ev-q9-3">오답 근거지문 근거</a></li>
- <li id="q9-4">④ [자료 1-㉯]와 [자료 3]을 활용하여, 관람객의 이동 경로를 고려하여 전시 공간을 체계적으로 배치해야 한다는 내용을 구체화하는 자료로 제시해야겠군.<a class="src-tag" href="#ev-q9-4">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q9-1">① [자료 1-㉮]를 활용하여, 박물관이 잘 알려져 있지 않다는 것의 근거 자료로 제시해야겠군.<a class="src-tag" href="#ev-q9-1">오답 근거</a></li>
+ <li id="q9-2">② [자료 3]을 활용하여, 청소년 해설사 제도와 지역 주민 홍보 대사를 지역 연계 홍보의 구체적인 방안으로 제시해야겠군.<a class="src-tag" href="#ev-q9-2">오답 근거</a></li>
+ <li id="q9-3">③ [자료 1-㉯]와 [자료 2]를 활용하여, 프로그램 개선에 대한 요구와 프로그램에 대한 평가를 우리 지역 박물관이 관람객의 흥미를 유발할 프로그램이 부족하다는 내용의 근거로 제시해야겠군.<a class="src-tag" href="#ev-q9-3">오답 근거</a></li>
+ <li id="q9-4">④ [자료 1-㉯]와 [자료 3]을 활용하여, 관람객의 이동 경로를 고려하여 전시 공간을 체계적으로 배치해야 한다는 내용을 구체화하는 자료로 제시해야겠군.<a class="src-tag" href="#ev-q9-4">오답 근거</a></li>
  <li id="q9-5">⑤ [자료 2]와 [자료 3]을 활용하여, 모바일 애플리케이션을 활용한 프로그램과 디지털 콘텐츠 프로그램을 연령별 맞춤 프로그램의 구체적인 예로 제시해야겠군.<a class="src-tag ans" href="#ev9">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 자료의 ‘내용’과 ‘붙일 목적’이 맞는지 본다.</p><p>[자료 3]은 ‘모든 연령대’가 참여하는 디지털 콘텐츠 프로그램일 뿐 <strong>연령별 맞춤</strong> 프로그램은 아니다. 따라서 ⑤처럼 ‘연령별 맞춤 프로그램의 예’로 쓰는 것은 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉮ 인지도 ‘모름’ 63%→안 알려짐 근거.</td></tr><tr><td>②</td><td>적절</td><td>자료3 청소년 해설사·홍보대사→지역 연계 홍보.</td></tr><tr><td>③</td><td>적절</td><td>㉯ 확충 요구+자료2→프로그램 부족 근거.</td></tr><tr><td>④</td><td>적절</td><td>㉯+자료3 동선 최적화→전시 배치 구체화.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>자료3=모든 연령대(연령별 맞춤 아님).</td></tr></tbody></table></div></details>
 </div>
@@ -196,7 +196,7 @@ layout: "exam"
  <p>○○시 선사 유적 박물관은 옛 인류의 삶의 모습을 엿볼 수 있는 공간입니다. 박물관을 활성화하기 위한 방안을 다양하게 모색해 주시기 바랍니다. 그러면 박물관은 지역의 명소이자 지역 주민의 자랑이 될 것입니다.</p>
   </div>
   <ul class="q-opts"><li id="q10-1">① 제도적 지원의 필요성은 삭제하고, 박물관이 활성화되었을 때의 기대 효과는 추가해 보자.<a class="src-tag ans" href="#ev10">정답 근거</a></li>
- <li id="q10-2">② 제도적 지원의 필요성은 삭제하고, 박물관 활성화를 위한 방안의 실현 가능성은 추가해 보자.<a class="src-tag wrong" href="#ev10">오답 근거</a></li>
+ <li id="q10-2">② 제도적 지원의 필요성은 삭제하고, 박물관 활성화를 위한 방안의 실현 가능성은 추가해 보자.<a class="src-tag" href="#ev10">오답 근거</a></li>
  <li id="q10-3">③ 선사 유적 박물관의 문화적 가치는 삭제하고, 박물관이 활성화되었을 때의 기대 효과는 추가해 보자.</li>
  <li id="q10-4">④ 선사 유적 박물관의 문화적 가치는 삭제하고, 박물관 활성화를 위한 방안의 실현 가능성은 추가해 보자.</li>
  <li id="q10-5">⑤ 선사 유적 박물관의 문화적 가치는 삭제하고, 박물관 활성화를 위한 지역 차원의 지원을 촉구하는 내용은 추가해 보자.</li></ul>
@@ -208,7 +208,7 @@ layout: "exam"
 ## 11~15번 문법 · 음절 구조·단어 형성·서술어
 
 <div class="passage">
-  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[11 ~ 12] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>음절이란 발음할 수 있는 최소의 언어 단위로 초성, 중성, 종성으로 구성된다. 이 중 중성은 음절을 이루는 데 필수적인 요소이며 여기에는 모음이 온다. 반면 초성이나 종성은 음절 구성에 필수적이지 않으며 여기에는 자음이 온다. 이때 초성과 종성에 올 수 있는 자음에는 제약이 있다. 초성에는 ‘ㅇ’이 올 수 없으며, 초성과 종성에 올 수 있는 자음의 최대 개수는 각각 1개이다. 이에 따라 ㉠<span class="ev ans" id="ev11">종성에 겹받침이 표기되더라도 자음이 하나 탈락하여 하나만 발음된다</span><a class="ev-tag ans" href="#q11-3">11-③</a>. 또한 종성에는 ‘ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ’의 7개의 자음만 올 수 있다. 만일 ㉡종성에 이 이외의 자음이 오면 7개 중 하나로 바뀌어 발음된다. 따라서 국어 음절의 유형은 ‘모음’, ‘자음+모음’, ‘모음+자음’, ‘자음+모음+자음’으로 나눌 수 있다. </p>
   <p>그런데 음절과 음절이 이어져 발음될 때 음절의 유형이 달라질 수 있다. 먼저, ⓐ음운 변동으로 인해 음절 유형이 달라지는 경우가 있다. 예를 들어 ‘맏[맏]’과 ‘형[형]’이 이어질 때, 앞 음절 종성과 뒤 음절 초성이 축약되어 ‘[마텽]’으로 발음되므로 앞 음절의 음절 유형이 달라진다. 또 ‘한[한]’과 ‘여름[여름]’이 이어질 때, ‘ㄴ’이 첨가되어 ‘[한녀름]’으로 발음되므로 두 번째 음절의 음절 유형이 달라진다. 다음으로, 음운 변동이 아니라 ⓑ연음에 의해 음절 유형이 달라지는 경우가 있다. 가령 ‘밥[밥]’과 조사 ‘이[이]’가 이어질 때, 연음에 의해 ‘[바비]’로 발음되므로 각 음절의 음절 유형이 모두 달라지고, ‘흙[흑]’과 조사 ‘은[은]’이 이어지면 ‘[흘근]’으로 발음되므로 두 번째 음절의 음절 유형만 달라진다. 그런데 ‘홑옷[호돋]’은 ‘홑[혿]’과 ‘옷[옫]’이라는 각 음절의 종성에서 음운 변동이 일어나지만 이로 인해서는 음절 유형이 달라지지 않고 연음에 의해서만 각 음절의 음절 유형이 달라진다.</p>
   <p>한편 음절과 음절이 이어져 발음될 때 나타나는 음운 변동 중에는 인접한 두 자음의 공명도로 설명할 수 있는 것이 있다. 공명도란 발음할 때 공기가 울리는 정도를 의미하는데, 모음이 자음보다 공명도가 높다. 자음 중에서는 울림소리가 안울림소리보다 공명도가 높으며, 울림소리 중에서는 유음이 비음보다 공명도가 높다. 그런데 두 음절이 이어져 발음될 때, 앞 음절 종성의 공명도는 뒤 음절 초성의 공명도와 같거나 뒤 음절 초성의 공명도보다 높아야 한다.<span class="ev ans" id="ev12"> 그렇지 않은 경우에는 음운의 교체가 일어난다</span><a class="ev-tag ans" href="#q12-1">12-①</a>.</p>
@@ -299,7 +299,7 @@ layout: "exam"
 ## 16~21번 독서(인문·기술철학) · 고전적 vs 현대적 기술철학
 
 <div class="passage">
-  <p class="passage-guide">[16 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[16 ~ 21] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>(가)</p>
   <p><span class="ev ans" id="ev16"> 고전적 기술철학은 개별적인 기술 하나하나에 관심을 두기보다는 포괄적인 기술 일반에 주목하면서 현대 기술에 대해 비판적으로 고찰하였다.</span><a class="ev-tag ans" href="#q16-5">16-⑤</a> 고전적 기술철학의 대표적인 철학자로 엘륄과 마르쿠제가 있다. </p>
   <p>엘륄은 자율적 기술론의 관점에서 현대 기술의 특징에 주목하여 기술이 사회를 어떻게 지배하고 있는가를 보여 주었다. 자율적 기술론은 도구적 기술론과 대비된다. <span class="ev" id="ev-q17-2">도구적 기술론에서 기술은 가치 중립적인 것으로, 인간이 정한 목적을</span><a class="ev-tag" href="#q17-2">17-②</a> ⓐ달성하기 위한 수단으로 취급된다. 이와 달리 엘륄은 기술이 인간의 통제를 벗어나 자율적인 것이 되어 버렸다고 주장한다. 기술은 오직 효율성이라는 기준에 의해서만 움직이므로, 기술의 발달은 인간의 선택이 아니라 기술 자체의 효율성을 바탕으로 자동적이며 불가역적으로 이루어진다는 것이다. 이는 <span class="ev" id="ev-q17-3">자율적인 기술 앞에서 인간의 자율성은 존재하지 않게 되며</span><a class="ev-tag" href="#q17-3">17-③</a> 전통적 의미에서 주체와 객체의 관계였던 인간과 기술의 관계가 역전되었음을 의미한다. 또한 엘륄은 기술에 대한 인간의 근거 없는 신뢰가 일반화되고 <span class="ev" id="ev-q17-5">인간이 기술의 지배에 대한 비판력을 상실하게 되어</span><a class="ev-tag" href="#q17-5">17-⑤</a> 사회가 인간 소외에 직면할 것임을 경고하였다. 엘륄은 이러한 상황에서 인간이 취할 수 있는 태도는 자율성을 상실했다는 사실을 겸허하게 인정하는 것뿐이라고 하였다. </p>
@@ -324,11 +324,11 @@ layout: "exam"
 
 <div class="q-block" id="prob17">
   <p class="q-stem">17. (가)에서 알 수 있는 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q17-1">① 마르쿠제는 정치적 변화에 의해 기술의 변화가 가능하다고 보았다.<a class="src-tag" href="#ev-q17-1">오답 근거지문 근거</a></li>
- <li id="q17-2">② 도구적 기술론에서는 인간의 의도와 목적이 기술의 사용 방향을 결정한다.<a class="src-tag" href="#ev-q17-2">오답 근거지문 근거</a></li>
- <li id="q17-3">③ 엘륄의 입장에서는 자율적인 기술 앞에서 인간의 자율성은 존재하지 않는다.<a class="src-tag" href="#ev-q17-3">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q17-1">① 마르쿠제는 정치적 변화에 의해 기술의 변화가 가능하다고 보았다.<a class="src-tag" href="#ev-q17-1">오답 근거</a></li>
+ <li id="q17-2">② 도구적 기술론에서는 인간의 의도와 목적이 기술의 사용 방향을 결정한다.<a class="src-tag" href="#ev-q17-2">오답 근거</a></li>
+ <li id="q17-3">③ 엘륄의 입장에서는 자율적인 기술 앞에서 인간의 자율성은 존재하지 않는다.<a class="src-tag" href="#ev-q17-3">오답 근거</a></li>
  <li id="q17-4">④ 일차원적 사회에서는 개별 주체가 억압에서 벗어나 내면적 자유를 보장받는다.<a class="src-tag ans" href="#ev17">정답 근거</a></li>
- <li id="q17-5">⑤ 엘륄과 마르쿠제 모두 기술에 대한 인간의 비판적 사고가 상실되는 것을 우려하였다.<a class="src-tag" href="#ev-q17-5">오답 근거지문 근거</a></li></ul>
+ <li id="q17-5">⑤ 엘륄과 마르쿠제 모두 기술에 대한 인간의 비판적 사고가 상실되는 것을 우려하였다.<a class="src-tag" href="#ev-q17-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — (가)에서 ‘일차원적 사회’가 어떤 사회인지 본다.</p><p>일차원적 사회는 인간의 비판 능력을 제거해 인간을 <strong>억압</strong>하여 존속되는 사회다. ‘억압에서 벗어나 내면적 자유를 보장’받는다는 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>마르쿠제: 정치적 변화 필요.</td></tr><tr><td>②</td><td>적절</td><td>도구적 기술론: 목적 위한 수단.</td></tr><tr><td>③</td><td>적절</td><td>엘륄: 자율 기술 앞 인간 자율성 없음.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>일차원적 사회=억압(자유 보장 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>엘륄·마르쿠제 모두 비판력 상실 우려.</td></tr></tbody></table></div></details>
 </div>
 
@@ -338,11 +338,11 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>자전거가 처음 개발되었을 때, 사용자와 기술자들이 자전거의 용도를 각기 다르게 파악하여 다양한 디자인의 자전거가 만들어졌다. 앞바퀴가 큰 자전거는, 자전거를 스포츠용품으로 파악한 사람들이 선호했다. 앞뒤 바퀴의 크기가 같은 자전거는, 자전거를 장보기용이나 교통수단으로 본 사람들이 원했다. 그런데 시간이 지나면서 자전거를 장보기용이나 교통수단으로 더 선호하게 되었다. 결국 자전거의 디자인은 앞뒤 바퀴가 같은 크기로 고정되는 방식으로 발달하였다.</p>
   </div>
-  <ul class="q-opts"><li id="q18-1">① 돈 아이디는 자전거가 사용자의 신체적 기능을 확장시키는 역할을 한다고 분석하겠군.<a class="src-tag" href="#ev-q18-1">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q18-1">① 돈 아이디는 자전거가 사용자의 신체적 기능을 확장시키는 역할을 한다고 분석하겠군.<a class="src-tag" href="#ev-q18-1">오답 근거</a></li>
  <li id="q18-2">② 돈 아이디는 자전거 바퀴의 크기를 보이지 않는 세계를 해석할 수 있는 텍스트라고 보겠군.<a class="src-tag ans" href="#ev18">정답 근거</a></li>
- <li id="q18-3">③ 사회구성주의자들은 앞뒤 바퀴의 크기가 같은 자전거로 디자인이 고정되어 가는 과정을 설명하는 데 초점을 두겠군.<a class="src-tag" href="#ev-q18-3">오답 근거지문 근거</a></li>
- <li id="q18-4">④ 핀버그는 자전거 앞뒤 바퀴의 크기, 자전거의 용도를 기술코드로 보겠군.<a class="src-tag" href="#ev-q18-4">오답 근거지문 근거</a></li>
- <li id="q18-5">⑤ 핀버그는 자전거의 디자인을 선택하는 과정이 사회적으로 공론화되어야 한다고 보겠군.<a class="src-tag" href="#ev-q18-5">오답 근거지문 근거</a></li></ul>
+ <li id="q18-3">③ 사회구성주의자들은 앞뒤 바퀴의 크기가 같은 자전거로 디자인이 고정되어 가는 과정을 설명하는 데 초점을 두겠군.<a class="src-tag" href="#ev-q18-3">오답 근거</a></li>
+ <li id="q18-4">④ 핀버그는 자전거 앞뒤 바퀴의 크기, 자전거의 용도를 기술코드로 보겠군.<a class="src-tag" href="#ev-q18-4">오답 근거</a></li>
+ <li id="q18-5">⑤ 핀버그는 자전거의 디자인을 선택하는 과정이 사회적으로 공론화되어야 한다고 보겠군.<a class="src-tag" href="#ev-q18-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 돈 아이디의 세 관계(체현·해석·배경)와 핀버그 개념을 자전거에 적용한다.</p><p>‘해석 관계’의 텍스트는 전자 현미경처럼 <strong>보이지 않는 세계</strong>를 해석하게 하는 것이다. 자전거 바퀴 크기는 그런 텍스트가 아니므로 ②가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>체현 관계(신체 기능 확장).</td></tr><tr class="correct"><td>②</td><td class="ok">부적절</td><td>자전거 바퀴≠해석 텍스트(해석 관계 오적용).</td></tr><tr><td>③</td><td>적절</td><td>사회구성주의=디자인 고정 과정 초점.</td></tr><tr><td>④</td><td>적절</td><td>기술코드(디자인·역할·의미).</td></tr><tr><td>⑤</td><td>적절</td><td>핀버그=사회적 선택의 공론화.</td></tr></tbody></table></div></details>
 </div>
 
@@ -385,7 +385,7 @@ layout: "exam"
 ## 22~25번 독서(사회·행정법) · 건축 허가와 확인 통지
 
 <div class="passage">
-  <p class="passage-guide">[22 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[22 ~ 25] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>건축물을 짓고자 하는 사람은 건축 허가를 받을 수 있는지를 행정　기관에 사전에 확인할 것이다. 그리고 허가를 받을 수 있다는 공식적인 답변을 행정　기관으로부터 받으면 그 답변을 믿고 건축을 진행할 것이다. 이처럼 행정　기관의 어떤 조치가 실행될 것이라는 데 대한 국민의 믿음을 신뢰라고 하며 <span class="ev" id="ev-q23-4">국민에게 신뢰를 주는, 행정　기관의 말이나 행위를 행정　기관의 선행조치라 한다.</span><a class="ev-tag" href="#q23-4">23-④</a> <span class="ev" id="ev-q22-1">그런데 행정　기관의 선행조치가 행해진 이후 선행조치에 법적 하자가 발견되면, 행정　기관은 선행조치에 반하는 다른 조치를 취하게 되고, 이 경우 국민의 권익이 침해당할 수 있다.</span><a class="ev-tag" href="#q22-1">22-①</a> 따라서 행정 기관의 선행조치에 법적 하자가 있더라도 일정한 요건을 충족한다면 행정에 대한 국민의 정당하고 합리적인 신뢰는 보호받아야 함을 행정법상의 원칙으로 삼고 있는데, 이를 신뢰보호원칙이라 한다. 행정　기관이 신뢰보호원칙에 위배되는 처분을 내릴 경우, 그 처분은 위법한 것이며 취소 또는 무효의 대상이 된다. </p>
   <p><span class="ev" id="ev-q22-3">신뢰보호원칙이 적용되기 위한 첫 번째 요건은 행정　기관의 선행조치로서 공적 견해 표명이 있어야 한다는 것이다.</span><a class="ev-tag" href="#q22-3">22-③</a> <span class="ev" id="ev-q23-1">공적 견해 표명은 행정　기관이 행정권 행사에 대한 의사를 공적으로 드러내는 것을 의미한다.</span><a class="ev-tag" href="#q23-1">23-①</a> 공적 견해 표명은 ‘시설의 건축 허가’, ‘사업　계획서에 대한 적정 통보’ 등과 같이 구체적 사안에 관한 것이어야 하므로<span class="ev ans" id="ev23"> 단순히 법령 해석과 같은 추상적인 내용의 질의에 행정　기관이 원론적 차원에서 답변해 준 것은 이에 해당하지 않는다.</span><a class="ev-tag ans" href="#q23-3">23-③</a> 행정　기관이 명시적으로 의사를 드러내는 것뿐 아니라 <span class="ev" id="ev-q23-2">행정적 권한을 행사하지 않음으로써 묵시적으로 의사를 드러내는 것도 의사를 표명하는 행위로 보아 공적 견해 표명이 될 수 있다.</span><a class="ev-tag" href="#q23-2">23-②</a> 가령<span class="ev ans" id="ev25"> 행정　기관이 어떤 위법한 상태에 대해 취소권, 영업　정지권 등의 행정적 권한을 행사할 기회가 있었음에도 이를 장기간 행사하지 않았을 경우</span><a class="ev-tag ans" href="#q25-4">25-④</a>, 국민은 행정 기관이 이러한 권한을 이후에도 계속 행사하지 않을 것이라는 신뢰를 갖게 될 것이다. 이 경우 행정 기관이 장기간 행정 권한을 행사하지 않는 것을 행정 기관의 의사 표명 행위로 볼 수 있다. </p>
   <p>두 번째 요건은 행정 기관의 선행조치에 대한 신뢰가 보호할 가치가 있어야 한다는 것이다. 이는 행정 기관의 선행조치가 법적 하자를 갖게 된 것에 대해 국민에게 귀책 사유, 즉 책임을 물을 만한 사유가 없어야 함을 의미한다. 예를 들어 행정 기관이 특정 사업에 대해 허가가 가능하다는 견해를 표명했으나 그 허가 조치에 법적 하자가 발견되었을 때, 그 이유가 허가를 신청한 국민이 잘못된 정보를 제공했기 때문이라면 그 국민에게 귀책 사유가 있는 것이다. </p>
@@ -396,21 +396,21 @@ layout: "exam"
 
 <div class="q-block" id="prob22">
   <p class="q-stem">22. 윗글을 읽고 답을 찾을 수 있는 질문에 해당하지 않는 것은?</p>
-  <ul class="q-opts"><li id="q22-1">① 신뢰보호원칙이 필요한 이유는 무엇인가?<a class="src-tag" href="#ev-q22-1">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q22-1">① 신뢰보호원칙이 필요한 이유는 무엇인가?<a class="src-tag" href="#ev-q22-1">오답 근거</a></li>
  <li id="q22-2">② 신뢰보호원칙이 성립된 역사적 배경은 무엇인가?</li>
- <li id="q22-3">③ 신뢰보호원칙이 적용되기 위한 요건은 무엇인가?<a class="src-tag" href="#ev-q22-3">오답 근거지문 근거</a></li>
- <li id="q22-4">④ 신뢰보호원칙의 적용이 제한되는 경우는 어떤 경우인가?<a class="src-tag" href="#ev-q22-4">오답 근거지문 근거</a></li>
- <li id="q22-5">⑤ 신뢰보호원칙이 행정상 법치주의 원리에 어긋나지 않는 이유는 무엇인가?<a class="src-tag" href="#ev-q22-5">오답 근거지문 근거</a></li></ul>
+ <li id="q22-3">③ 신뢰보호원칙이 적용되기 위한 요건은 무엇인가?<a class="src-tag" href="#ev-q22-3">오답 근거</a></li>
+ <li id="q22-4">④ 신뢰보호원칙의 적용이 제한되는 경우는 어떤 경우인가?<a class="src-tag" href="#ev-q22-4">오답 근거</a></li>
+ <li id="q22-5">⑤ 신뢰보호원칙이 행정상 법치주의 원리에 어긋나지 않는 이유는 무엇인가?<a class="src-tag" href="#ev-q22-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 글에서 ‘답을 찾을 수 있는’ 질문과 ‘없는’ 질문을 가른다.</p><p>신뢰보호원칙이 성립된 <strong>역사적 배경</strong>은 글에 나오지 않는다. 답을 찾을 수 없는 질문이므로 ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>찾을 수 있음</td><td>신뢰 보호의 필요성(권익 침해) 제시.</td></tr><tr class="correct"><td>②</td><td class="ok">찾을 수 없음</td><td>성립의 역사적 배경은 글에 없음.</td></tr><tr><td>③</td><td>찾을 수 있음</td><td>세 가지 적용 요건 제시.</td></tr><tr><td>④</td><td>찾을 수 있음</td><td>적용이 제한되는 경우 제시.</td></tr><tr><td>⑤</td><td>찾을 수 있음</td><td>법치주의에 어긋나지 않는 이유 제시.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob23">
   <p class="q-stem">23. 공적 견해 표명에 관한 설명 중 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q23-1">① 행정권 행사에 대한 행정 기관의 의사를 공적으로 드러내는 것을 의미한다.<a class="src-tag" href="#ev-q23-1">오답 근거지문 근거</a></li>
- <li id="q23-2">② 행정 기관의 명시적 의사 표명뿐 아니라 묵시적인 의사 표명도 해당될 수 있다.<a class="src-tag" href="#ev-q23-2">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q23-1">① 행정권 행사에 대한 행정 기관의 의사를 공적으로 드러내는 것을 의미한다.<a class="src-tag" href="#ev-q23-1">오답 근거</a></li>
+ <li id="q23-2">② 행정 기관의 명시적 의사 표명뿐 아니라 묵시적인 의사 표명도 해당될 수 있다.<a class="src-tag" href="#ev-q23-2">오답 근거</a></li>
  <li id="q23-3">③ 구체적 사안과 관계없이 법령의 해석에 대한 질의에 답변해 준 것도 포함될 수 있다.<a class="src-tag ans" href="#ev23">정답 근거</a></li>
- <li id="q23-4">④ 국민이 신뢰를 갖게 되는 대상으로서 행정 기관의 말이나 행위를 통해 드러날 수 있다.<a class="src-tag" href="#ev-q23-4">오답 근거지문 근거</a></li>
- <li id="q23-5">⑤ 국민의 신뢰가 형성된 공적 견해이더라도 법적 상황이 변경된 후에는 신뢰의 대상이 되지 못할 수 있다. 영역<a class="src-tag" href="#ev-q23-5">오답 근거지문 근거</a></li></ul>
+ <li id="q23-4">④ 국민이 신뢰를 갖게 되는 대상으로서 행정 기관의 말이나 행위를 통해 드러날 수 있다.<a class="src-tag" href="#ev-q23-4">오답 근거</a></li>
+ <li id="q23-5">⑤ 국민의 신뢰가 형성된 공적 견해이더라도 법적 상황이 변경된 후에는 신뢰의 대상이 되지 못할 수 있다. 영역<a class="src-tag" href="#ev-q23-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — ‘공적 견해 표명’의 범위(구체적 사안 vs 추상적 질의)를 본다.</p><p>공적 견해 표명은 <strong>구체적 사안</strong>에 관한 것이어야 하므로, 추상적인 법령 해석 질의에 원론적으로 답한 것은 해당하지 않는다. ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>행정권 행사 의사를 공적으로 드러냄.</td></tr><tr><td>②</td><td>적절</td><td>묵시적 의사 표명도 해당.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>추상적 법령 해석 질의 답변은 제외.</td></tr><tr><td>④</td><td>적절</td><td>선행조치=행정 기관의 말이나 행위.</td></tr><tr><td>⑤</td><td>적절</td><td>법적 상황 변경 후 신뢰 대상 안 될 수 있음.</td></tr></tbody></table></div></details>
 </div>
 
@@ -444,9 +444,9 @@ layout: "exam"
 ## 26~30번 독서(과학) · 로켓 연소 불안정
 
 <div class="passage">
-  <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[26 ~ 30] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p><span class="ev" id="ev-q26-3">로켓의 안정적인 비행을 위해 연소 불안정은 반드시 해결해야 하는 문제이다.</span><a class="ev-tag" href="#q26-3">26-③</a> 연소 불안정은 연소가 원활히 이루어지지 않는 현상으로, 로켓에서는 연소실의 압력 진동이 비정상적으로 증폭되는 연소 불안정이 나타날 수 있다. 액체 추진제 로켓의 연소 과정을 바탕으로 연소 불안정에 대해 알아보자. </p>
-  <p><span class="ev" id="ev-q26-2">액체 추진제 로켓은 산화제와 액체 연료를 추진제로 사용한다.</span><a class="ev-tag" href="#q26-2">26-②</a> 액체 추진제 로켓의 엔진은 일반적으로 산화제 탱크, 연료 탱크, 분사기, 연소실, 노즐 등으로 구성되어 있다. 로켓 엔진에 시동이 걸리면 <span class="ev wrong" id="ev-q29-4">산화제 탱크와 연료 탱크에 보관되어 있던 추진제가 이동하여</span><a class="ev-tag wrong" href="#q29-4">29-④</a> <span class="ev wrong" id="ev-q29-1">분사기에 의해 연소실 내부로 분사된다</span><a class="ev-tag wrong" href="#q29-1">29-①</a>. 연소실 내에서 추진제가 연소될 때, 액체였던 추진제가 연소 가스가 되면서 <span class="ev wrong" id="ev-q29-5">연소실 내부의 압력이 높아지며</span><a class="ev-tag wrong" href="#q29-5">29-⑤</a>, 열, 소리 등 다양한 형태의 에너지가 방출된다. 이러한 연소 과정은 <span class="ev wrong" id="ev-q29-3">추진제가 분사기에 의해 연속적으로 분사되면서 지속된다</span><a class="ev-tag wrong" href="#q29-3">29-③</a>. 이때 연소실 내에는 소리의 진동, 열이 주기적으로 방출되며 생기는 열 방출 진동이 존재한다. 연소실 내의 압력 역시 주기적으로 변화하며 진동한다. 그리고<span class="ev ans" id="ev29"> 연소 가스는 노즐을 통과하여 로켓 바깥으로 배출되고, 그 반발력으로 로켓은 추진력을 얻을 수 있다.</span><a class="ev-tag ans" href="#q29-2">29-②</a> </p>
+  <p><span class="ev" id="ev-q26-2">액체 추진제 로켓은 산화제와 액체 연료를 추진제로 사용한다.</span><a class="ev-tag" href="#q26-2">26-②</a> 액체 추진제 로켓의 엔진은 일반적으로 산화제 탱크, 연료 탱크, 분사기, 연소실, 노즐 등으로 구성되어 있다. 로켓 엔진에 시동이 걸리면 <span class="ev" id="ev-q29-4">산화제 탱크와 연료 탱크에 보관되어 있던 추진제가 이동하여</span><a class="ev-tag" href="#q29-4">29-④</a> <span class="ev" id="ev-q29-1">분사기에 의해 연소실 내부로 분사된다</span><a class="ev-tag" href="#q29-1">29-①</a>. 연소실 내에서 추진제가 연소될 때, 액체였던 추진제가 연소 가스가 되면서 <span class="ev" id="ev-q29-5">연소실 내부의 압력이 높아지며</span><a class="ev-tag" href="#q29-5">29-⑤</a>, 열, 소리 등 다양한 형태의 에너지가 방출된다. 이러한 연소 과정은 <span class="ev" id="ev-q29-3">추진제가 분사기에 의해 연속적으로 분사되면서 지속된다</span><a class="ev-tag" href="#q29-3">29-③</a>. 이때 연소실 내에는 소리의 진동, 열이 주기적으로 방출되며 생기는 열 방출 진동이 존재한다. 연소실 내의 압력 역시 주기적으로 변화하며 진동한다. 그리고<span class="ev ans" id="ev29"> 연소 가스는 노즐을 통과하여 로켓 바깥으로 배출되고, 그 반발력으로 로켓은 추진력을 얻을 수 있다.</span><a class="ev-tag ans" href="#q29-2">29-②</a> </p>
   <p>그런데 연소 과정에서 연소실과 추진제 공급 시스템 간의 상호 작용이나, 연소실 내 열 방출 진동과 소리 진동 간의 상호 작용으로 인해 연소 불안정이 발생할 수 있다. 전자의 경우, <span class="ev" id="ev-q27-2">연소실 압력 진동으로 추진제 공급량에 급격한 변화가 생김으로써 연소실의 압력 진동이 증폭</span><a class="ev-tag" href="#q27-2">27-②</a>되는 것이다. 이때 연소실 압력 진동은 일반적으로 10 ∼200Hz 사이의 주파수를 갖는다. 이러한 연소 불안정은 <span class="ev" id="ev-q26-4">추진력의 크기를 변화시키고 로켓의 구조물에 손상을 줄 수 있다.</span><a class="ev-tag" href="#q26-4">26-④</a> 후자의 경우는 연소실 내 <span class="ev" id="ev-q27-5">열 방출의 진동이 갖는 주파수와 소리의 진동이 갖는 주파수가 일치하여 연소실의 압력 진동이 비정상적으로 증폭</span><a class="ev-tag" href="#q27-5">27-⑤</a>되는 것으로 이를 열음향 연소 불안정이라 한다. 연소실 내부에서 연소 반응으로 발생하는 열 방출 진동과 소리의 진동은 각각의 주파수를 갖는다. 여기서<span class="ev ans" id="ev27"> 소리는 연소실의 고유 주파수로 진동하는데, 이는 소리의 주파수가 크기나 형상과 같은 연소실의 공간적 특성과 연소 가스의 온도 및 비열에 따라 결정된다는 의미이다.</span><a class="ev-tag" href="#q26-1">26-①</a><a class="ev-tag ans" href="#q27-3">27-③</a> 각각의 주파수가 일치하면 압력 진동이 급격하게 증폭될 수 있다. 이때 연소실 압력 진동의 주파수는 일반적으로 1,000 ∼2,000㎐ 사이에 있으며 연소실의 고유 주파수와 유사한 값을 갖는다. <span class="ev" id="ev-q27-4">열음향 연소 불안정은 연소실 파손이나 폭발을 유발할 수 있다</span><a class="ev-tag" href="#q27-4">27-④</a>.</p>
   <p><span class="ev ans" id="ev26"> 연소 불안정으로 인한 문제에 대비하기 위해 로켓 개발 과정에서는 실제 연소실과 유사한 조건으로 연소 시험을 수행하여 연소 불안정의 발생 여부나 발생 원인을 파악한다.</span><a class="ev-tag ans" href="#q26-5">26-⑤</a> 일반적으로 연소실 압력이 <span class="ev" id="ev-q27-1">정상 압력을 기준으로 ±5% 범위 내에서 진동할 경우 연소가 안정하다고 판별</span><a class="ev-tag" href="#q27-1">27-①</a>하고, 그 범위에서 벗어나는 경우 연소 불안정이 ㉠일어난 것으로 판별한다. 연소 불안정이 일어난 것으로 판별되었을 경우, 압력 진동이 증폭되었을 때의 주파수인 주요 진동 주파수를 측정하고 이를 연소실의 고유 주파수와 비교하여 연소 불안정의 원인을 판단한다. </p>
   <p>연소 불안정 발생 원인이 연소실과 추진제 공급 시스템 간의 상호 작용에 의한 것이라고 판단될 경우 공급 시스템의 압력 감쇠 장치를 설치하는 방법 등을 이용한다. 또한 열음향 연소 불안정이라고 판단되면 이를 제어하기 위해 연소실에 ⓐ배플이나 ⓑ음향공을 장착하는 방법 등을 사용한다. <span class="ev" id="ev-q28-5">배플과 음향공은 모두 연소실 내의 소리 진동을 변화시키는 기능을 한다</span><a class="ev-tag" href="#q28-5">28-⑤</a>. 배플은 연소실과 연결되는 분사기의 면을 여러 구획으로 나누는 장치로서, <span class="ev" id="ev-q28-2">연소실의 공간적 특성을 바꾼다</span><a class="ev-tag" href="#q28-2">28-②</a>. 이를 통해 <span class="ev" id="ev-q28-1">기존의 연소실 고유 주파수를 변화시켜</span><a class="ev-tag" href="#q28-1">28-①</a> 열 방출 진동과 소리 진동 간의 상호 작용을 억제할 수 있다. 음향공은 특정 주파수의 소리 진동을 흡수하는 장치로 음향공을 연소실에 연결하면 연소실 내부의 소리가<span class="ev ans" id="ev28"> 음향공 안에서도 진동하게 되어 소리 에너지가 분산된다.</span><a class="ev-tag ans" href="#q28-4">28-④</a> 음향공은 연소실의 특정 주파수를 고려하여 설계하기 때문에 이로 인해 <span class="ev" id="ev-q28-3">감쇠할 수 있는 주파수의 범위가 좁다</span><a class="ev-tag" href="#q28-3">28-③</a>.</p>
@@ -454,10 +454,10 @@ layout: "exam"
 
 <div class="q-block" id="prob26">
   <p class="q-stem">26. 윗글을 이해한 내용으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q26-1">① 연소실 내부의 소리 진동은 연소 가스 온도의 영향을 받는다.<a class="src-tag" href="#ev27">오답 근거지문 근거</a></li>
- <li id="q26-2">② 액체 추진제 로켓의 추진제로는 산화제와 액체 연료가 쓰인다.<a class="src-tag" href="#ev-q26-2">오답 근거지문 근거</a></li>
- <li id="q26-3">③ 로켓이 안정적으로 비행하려면 연소가 원활하게 이뤄져야 한다.<a class="src-tag" href="#ev-q26-3">오답 근거지문 근거</a></li>
- <li id="q26-4">④ 로켓의 구조물은 연소 불안정으로 인해 손상을 입는 경우도 있다.<a class="src-tag" href="#ev-q26-4">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q26-1">① 연소실 내부의 소리 진동은 연소 가스 온도의 영향을 받는다.<a class="src-tag" href="#ev27">오답 근거</a></li>
+ <li id="q26-2">② 액체 추진제 로켓의 추진제로는 산화제와 액체 연료가 쓰인다.<a class="src-tag" href="#ev-q26-2">오답 근거</a></li>
+ <li id="q26-3">③ 로켓이 안정적으로 비행하려면 연소가 원활하게 이뤄져야 한다.<a class="src-tag" href="#ev-q26-3">오답 근거</a></li>
+ <li id="q26-4">④ 로켓의 구조물은 연소 불안정으로 인해 손상을 입는 경우도 있다.<a class="src-tag" href="#ev-q26-4">오답 근거</a></li>
  <li id="q26-5">⑤ 추진제 공급 시스템의 압력 감쇠 장치는 연소 불안정을 일으킨다.<a class="src-tag ans" href="#ev26">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — 압력 감쇠 장치가 연소 불안정의 ‘원인’인지 ‘해결책’인지 본다.</p><p>압력 감쇠 장치는 원인을 판단한 뒤 이를 <strong>해결</strong>하려 설치하는 장치다. 연소 불안정을 ‘일으킨다’는 ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>소리 주파수=연소 가스 온도·비열에 따라 결정.</td></tr><tr><td>②</td><td>적절</td><td>산화제+액체 연료를 추진제로 사용.</td></tr><tr><td>③</td><td>적절</td><td>안정 비행 위해 연소 불안정 해결 필요.</td></tr><tr><td>④</td><td>적절</td><td>연소 불안정→구조물 손상.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>감쇠 장치는 해결책(원인 아님).</td></tr></tbody></table></div></details>
 </div>
@@ -471,31 +471,31 @@ layout: "exam"
  <table class="data-tbl"><thead><tr><th>연소실</th><th>정상 압력(psia*)</th><th>최대 압력(psia)</th><th>최소 압력(psia)</th><th>주요 진동 주파수(㎐)</th></tr></thead><tbody><tr><td>A</td><td>1,200</td><td>1,220</td><td>1,180</td><td>1,200</td></tr><tr><td>B</td><td>1,400</td><td>1,500</td><td>1,300</td><td>150</td></tr><tr><td>C</td><td>1,500</td><td>1,650</td><td>1,350</td><td>1,200</td></tr></tbody></table>
  <p class="bogi-note">* psia: 압력의 단위.</p>
   </div>
-  <ul class="q-opts"><li id="q27-1">① A는 B, C와 달리 연소실 내부 압력이 적정 범주 이내로 진동했군.<a class="src-tag" href="#ev-q27-1">오답 근거지문 근거</a></li>
- <li id="q27-2">② B는 A와 달리 연소실 압력과 추진제 공급량 간의 상호 작용으로 문제가 발생했겠군.<a class="src-tag" href="#ev-q27-2">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q27-1">① A는 B, C와 달리 연소실 내부 압력이 적정 범주 이내로 진동했군.<a class="src-tag" href="#ev-q27-1">오답 근거</a></li>
+ <li id="q27-2">② B는 A와 달리 연소실 압력과 추진제 공급량 간의 상호 작용으로 문제가 발생했겠군.<a class="src-tag" href="#ev-q27-2">오답 근거</a></li>
  <li id="q27-3">③ B는 C와 달리 소리가 연소실의 고유 주파수로 진동했음을 추론할 수 있겠군.<a class="src-tag ans" href="#ev27">정답 근거</a></li>
- <li id="q27-4">④ C는 A와 달리 연소실 파손이나 폭발을 유발할 수 있겠군.<a class="src-tag" href="#ev-q27-4">오답 근거지문 근거</a></li>
- <li id="q27-5">⑤ C는 B와 달리 소리가 지닌 주파수와 열 방출 주파수가 일치하는 현상이 나타났겠군.<a class="src-tag" href="#ev-q27-5">오답 근거지문 근거</a></li></ul>
+ <li id="q27-4">④ C는 A와 달리 연소실 파손이나 폭발을 유발할 수 있겠군.<a class="src-tag" href="#ev-q27-4">오답 근거</a></li>
+ <li id="q27-5">⑤ C는 B와 달리 소리가 지닌 주파수와 열 방출 주파수가 일치하는 현상이 나타났겠군.<a class="src-tag" href="#ev-q27-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>③</strong></div><p class="ask-read"><strong>발문 해석</strong> — A·B·C를 안정 판별·발생 원인으로 분류한다.</p><p>소리가 ‘연소실 고유 주파수’로 진동하는 것은 열음향 연소 불안정의 특성으로 B·C에 공통된다. ‘B는 C와 달리’가 틀려 ③이 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>A=±5% 이내(안정).</td></tr><tr><td>②</td><td>적절</td><td>B=압력↔공급량 상호작용.</td></tr><tr class="correct"><td>③</td><td class="ok">부적절</td><td>소리 고유 주파수 진동은 B·C 공통.</td></tr><tr><td>④</td><td>적절</td><td>C=파손·폭발 유발.</td></tr><tr><td>⑤</td><td>적절</td><td>C=열 방출·소리 주파수 일치.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob28">
   <p class="q-stem">28. ⓐ, ⓑ에 대한 설명으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q28-1">① ⓐ는 연소실 고유 주파수를 변화시킨다.<a class="src-tag" href="#ev-q28-1">오답 근거지문 근거</a></li>
- <li id="q28-2">② ⓐ는 연소실 내부의 공간적 특성을 변화시킨다.<a class="src-tag" href="#ev-q28-2">오답 근거지문 근거</a></li>
- <li id="q28-3">③ ⓑ는 감소시킬 수 있는 주파수의 범위가 좁다.<a class="src-tag" href="#ev-q28-3">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q28-1">① ⓐ는 연소실 고유 주파수를 변화시킨다.<a class="src-tag" href="#ev-q28-1">오답 근거</a></li>
+ <li id="q28-2">② ⓐ는 연소실 내부의 공간적 특성을 변화시킨다.<a class="src-tag" href="#ev-q28-2">오답 근거</a></li>
+ <li id="q28-3">③ ⓑ는 감소시킬 수 있는 주파수의 범위가 좁다.<a class="src-tag" href="#ev-q28-3">오답 근거</a></li>
  <li id="q28-4">④ ⓑ는 소리 에너지를 연소실 내부로 집중시킨다.<a class="src-tag ans" href="#ev28">정답 근거</a></li>
- <li id="q28-5">⑤ ⓐ와 ⓑ는 모두 연소실 내의 소리 진동을 변화시킨다.<a class="src-tag" href="#ev-q28-5">오답 근거지문 근거</a></li></ul>
+ <li id="q28-5">⑤ ⓐ와 ⓑ는 모두 연소실 내의 소리 진동을 변화시킨다.<a class="src-tag" href="#ev-q28-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — 배플(ⓐ)·음향공(ⓑ)의 기능을 본다.</p><p>음향공은 소리를 흡수해 소리 에너지를 <strong>분산</strong>시킨다. ‘연소실 내부로 집중’이라는 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>배플=고유 주파수 변화.</td></tr><tr><td>②</td><td>적절</td><td>배플=공간적 특성 변화.</td></tr><tr><td>③</td><td>적절</td><td>음향공=감쇠 주파수 범위 좁음.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>음향공=에너지 분산(집중 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>둘 다 소리 진동 변화.</td></tr></tbody></table></div></details>
 </div>
 
 <div class="q-block" id="prob29">
   <p class="q-stem">29. 액체 추진제 로켓의 연소 과정에 대해 이해한 내용으로 가장 적절한 것은?</p>
-  <ul class="q-opts"><li id="q29-1">① 분사기는 산화제와 액체 연료를 연소실 바깥으로 분사한다.<a class="src-tag wrong" href="#ev-q29-1">오답 근거</a></li>
+  <ul class="q-opts"><li id="q29-1">① 분사기는 산화제와 액체 연료를 연소실 바깥으로 분사한다.<a class="src-tag" href="#ev-q29-1">오답 근거</a></li>
  <li id="q29-2">② 연소 가스가 노즐을 통해 배출되어 로켓은 추진력을 얻는다.<a class="src-tag ans" href="#ev29">정답 근거</a></li>
- <li id="q29-3">③ 연소가 진행되는 동안에는 추진제가 추가로 분사될 수 없다.<a class="src-tag wrong" href="#ev-q29-3">오답 근거</a></li>
- <li id="q29-4">④ 연료 탱크에 보관되어 있던 추진제는 산화제 탱크로 이동한다.<a class="src-tag wrong" href="#ev-q29-4">오답 근거</a></li>
- <li id="q29-5">⑤ 추진제가 연소 반응을 거치면 연소 가스가 발생해 연소실의 압력은 낮아진다.<a class="src-tag wrong" href="#ev-q29-5">오답 근거</a></li></ul>
+ <li id="q29-3">③ 연소가 진행되는 동안에는 추진제가 추가로 분사될 수 없다.<a class="src-tag" href="#ev-q29-3">오답 근거</a></li>
+ <li id="q29-4">④ 연료 탱크에 보관되어 있던 추진제는 산화제 탱크로 이동한다.<a class="src-tag" href="#ev-q29-4">오답 근거</a></li>
+ <li id="q29-5">⑤ 추진제가 연소 반응을 거치면 연소 가스가 발생해 연소실의 압력은 낮아진다.<a class="src-tag" href="#ev-q29-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 연소 과정의 순서·방향을 본문과 대조한다.</p><p>연소 가스가 노즐을 통과해 배출되고 그 <strong>반발력</strong>으로 추진력을 얻는다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>오답</td><td>분사기는 연소실 ‘내부’로 분사.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>노즐 배출 반발력→추진력.</td></tr><tr><td>③</td><td>오답</td><td>추진제는 연속 분사됨.</td></tr><tr><td>④</td><td>오답</td><td>추진제→연소실 이동(탱크 간 아님).</td></tr><tr><td>⑤</td><td>오답</td><td>연소 가스 발생 시 압력 ‘높아짐’.</td></tr></tbody></table></div></details>
 </div>
 
@@ -514,7 +514,7 @@ layout: "exam"
 ## 31~33번 현대시 · 갈밭 시편 · 고독과 소통
 
 <div class="passage">
-  <p class="passage-guide">[31 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[31 ~ 33] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>(가) 갈밭 속을 간다. <br>젊은 시인과 함께<br>가노라면<br>나는 혼자였다. <br>누구나<br>갈밭 속에서는 일쑤<br>동행을 잃기 마련이었다. <br>성형(成兄) <br>성형(成兄) ㉠<br><span class="ev" id="ev-q32-1">아무리 그를 불러도</span><a class="ev-tag" href="#q32-1">32-①</a><br>나의 음성은<br>내면으로 되돌아오고, <br>이미 나는<br>갈대 안에 있었다. <br>바람이 부는 것도 아닌데<br>갈밭은<br>어석어석 흔들린다. <br>갈잎에는 갈잎의 바람<br>백발에는 백발의 바람. <br>젊은 시인은<br>저편 강기슭에서 나를 부른다. ㉡<br><br><span class="ev" id="ev-q32-2">하지만 이미나는 응답할 수 없다.</span><a class="ev-tag" href="#q32-2">32-②</a> <br>나의 음성은<br>내면으로 되돌아오고<br>어쩔 수 없이 나도<br>흔들리고 있었다. <br>- 박목월, ｢하단에서｣ - </p>
   <p>(나) <br>참 늙어 보인다<br>하늘 길을 가면서도 무슨 생각 그리 많았던지<br>함부로 곧게 뻗어 올린 가지 하나 없다㉢<br><span class="ev" id="ev-q32-3">멈칫멈칫 구불구불</span><a class="ev-tag" href="#q32-3">32-③</a><br>태양에 대한 치열한 사유에 온몸이 부르터<br>늙수그레하나 열매는 ㉣<span class="ev" id="ev-q32-4">애초부터 단단하다</span><a class="ev-tag" href="#q32-4">32-④</a><br>떫다<br>풋생각을 남에게 건네지 않으려는 마음 다짐<br>독하게, 꽃을, 땡감을, 떨구며<br>지나는 바람에 허튼 말 내지 않고<br>아니다 싶은 가지는 툭 분질러 버린다<br>단호한 결단으로 가지를 다스려<br><span class="ev ans" id="ev32">영혼이 가벼운 ㉤새들마저 둥지를 틀지 못하고</span><a class="ev-tag ans" href="#q32-5">32-⑤</a><br>앉아 깃을 쪼며 미련 떨치는 법을 배운다<br>보라<br>가을 머리에 인 밝은 열매들<br>늙은 몸뚱이로 어찌 그리 예쁜 열매를 매다는지<br>그뿐<br>눈바람 치면 다시 알몸으로<br>죽어 버린 듯 묵묵부답 동안거에 드는<br>- 함민복, ｢감나무｣ -</p>
 </div>
@@ -531,10 +531,10 @@ layout: "exam"
 
 <div class="q-block" id="prob32">
   <p class="q-stem">32. ㉠∼㉤에 대한 이해로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q32-1">① ㉠: 간절함에서 비롯된 화자의 행동을 부각한다.<a class="src-tag" href="#ev-q32-1">오답 근거지문 근거</a></li>
- <li id="q32-2">② ㉡: 원하는 행동을 할 수 없는 화자의 처지를 부각한다.<a class="src-tag" href="#ev-q32-2">오답 근거지문 근거</a></li>
- <li id="q32-3">③ ㉢: 곧게 뻗은 것 하나 없이 이리저리 구부러진 채 자란 가지의 모습을 부각한다.<a class="src-tag" href="#ev-q32-3">오답 근거지문 근거</a></li>
- <li id="q32-4">④ ㉣: 겉모습과 다르게 감나무가 굳은 열매를 가지고 있다는 특성을 부각한다.<a class="src-tag" href="#ev-q32-4">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q32-1">① ㉠: 간절함에서 비롯된 화자의 행동을 부각한다.<a class="src-tag" href="#ev-q32-1">오답 근거</a></li>
+ <li id="q32-2">② ㉡: 원하는 행동을 할 수 없는 화자의 처지를 부각한다.<a class="src-tag" href="#ev-q32-2">오답 근거</a></li>
+ <li id="q32-3">③ ㉢: 곧게 뻗은 것 하나 없이 이리저리 구부러진 채 자란 가지의 모습을 부각한다.<a class="src-tag" href="#ev-q32-3">오답 근거</a></li>
+ <li id="q32-4">④ ㉣: 겉모습과 다르게 감나무가 굳은 열매를 가지고 있다는 특성을 부각한다.<a class="src-tag" href="#ev-q32-4">오답 근거</a></li>
  <li id="q32-5">⑤ ㉤: 방황하는 존재에게 자신을 내어 주는 감나무의 특성을 부각한다.<a class="src-tag ans" href="#ev32">정답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>⑤</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉤ ‘새들마저 둥지를 틀지 못하고’가 무엇을 부각하는지 본다.</p><p>㉤은 단호한 감나무에 <strong>새조차 둥지를 틀지 못한다</strong>는 것으로, 미련을 떨치는 단호함을 부각한다. ‘방황하는 존재에게 자신을 내어 주는’ 모습이 아니므로 ⑤가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉠ ‘아무리 불러도’=간절한 행동.</td></tr><tr><td>②</td><td>적절</td><td>㉡ ‘응답할 수 없다’=처지.</td></tr><tr><td>③</td><td>적절</td><td>㉢ ‘멈칫멈칫 구불구불’=구부러진 가지.</td></tr><tr><td>④</td><td>적절</td><td>㉣ ‘단단하다’=굳은 열매.</td></tr><tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>새조차 깃들지 못함(내어 줌 아님).</td></tr></tbody></table></div></details>
 </div>
@@ -559,7 +559,7 @@ layout: "exam"
 ## 34~37번 현대소설 · 직장 내 갈등 · 명훈
 
 <div class="passage">
-  <p class="passage-guide">[34 ~ 37] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[34 ~ 37] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>한편, 명훈은 여전히 걸핏하면 국장에게 불리어 갔다. 젊은 국장은 그럴싸한 트집을 잡아내선 번번이 자기가 더 먼저 흥분했다. 명훈을 잘 모르는 동료들, 편집국 사람들은 ㉠<span class="ev" id="ev-q35-1">횟수가 잦아짐에 따라 명훈에게 무슨 결함이 있기는 있는 게라고 여기게끔 되었다.</span><a class="ev-tag" href="#q35-1">35-①</a> 그러나<span class="ev ans" id="ev34"> 나는 국장이 그럼으로써 오히려 명훈에게 진짜 잘못이 없음을 그 스스로 반증해 보인다고 생각했다.</span><a class="ev-tag ans" href="#q34-4">34-④</a> </p>
   <p>명훈은 자기 담당의 모든 것에 대해 한결같이 열정을 쏟았다. 그럼에도 ‘고전 산책’에서와 같이 필자 쪽의 불가피한 사정으로 사고가 생기는 수가 더러 있었다.<span class="ev ans" id="ev37"> 그럴 때조차 그는 그 사고가 지면에 노출되지 않도록 능력껏 사전에 미봉책을 다 마련해 놓았다.</span><a class="ev-tag ans" href="#q37-1">37-①</a> 그 이상은 누구의 경우에도 능력 밖일 것이다. </p>
   <p>기다렸던 듯이 국장은 ㉡<span class="ev" id="ev-q35-2">그런 때를 꼭 집어냈다.</span><a class="ev-tag" href="#q35-2">35-②</a> 그에겐 과정이야 어떻게 됐든 결과만이 중요했다. 추궁하는 입장에선 그보다 더 유리한 고지는 없을 것이다. 그는 스스로 완벽주의자로 자처했다. 명훈은 그의 앞에서 변명을 늘어놓거나, 잘못을 남의 탓으로 돌린 일이 한 번도 없는 듯했다. 국장은 우리가 그랬던 것처럼, 그도 수치심을 황급히 비굴한 웃음으로 바꾸어, 변명하고 남을 탓하게 만들고 싶은지도 모른다. </p>
@@ -605,11 +605,11 @@ layout: "exam"
 
 <div class="q-block" id="prob35">
   <p class="q-stem">35. 서사의 흐름을 고려할 때 ㉠∼㉤에 대한 설명으로 적절하지 않은 것은?</p>
-  <ul class="q-opts"><li id="q35-1">① ㉠: 편집국 사람들이 명훈에 대해 부정적으로 생각하게 된 원인이 드러나 있다.<a class="src-tag" href="#ev-q35-1">오답 근거지문 근거</a></li>
- <li id="q35-2">② ㉡: 국장이 결과를 빌미로 명훈을 추궁하는 상황이 드러나 있다.<a class="src-tag" href="#ev-q35-2">오답 근거지문 근거</a></li>
- <li id="q35-3">③ ㉢: 명훈의 의자가 고장난 것을 몰랐던 ‘우리’의 상황이 드러나 있다.<a class="src-tag" href="#ev-q35-3">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q35-1">① ㉠: 편집국 사람들이 명훈에 대해 부정적으로 생각하게 된 원인이 드러나 있다.<a class="src-tag" href="#ev-q35-1">오답 근거</a></li>
+ <li id="q35-2">② ㉡: 국장이 결과를 빌미로 명훈을 추궁하는 상황이 드러나 있다.<a class="src-tag" href="#ev-q35-2">오답 근거</a></li>
+ <li id="q35-3">③ ㉢: 명훈의 의자가 고장난 것을 몰랐던 ‘우리’의 상황이 드러나 있다.<a class="src-tag" href="#ev-q35-3">오답 근거</a></li>
  <li id="q35-4">④ ㉣: 이경숙이 ‘나’의 행동을 자제시키려 하는 모습이 드러나 있다.<a class="src-tag ans" href="#ev35">정답 근거</a></li>
- <li id="q35-5">⑤ ㉤: 문화부 사람들이 명훈의 부재를 익숙하게 여기는 상황이 드러나 있다.<a class="src-tag" href="#ev-q35-5">오답 근거지문 근거</a></li></ul>
+ <li id="q35-5">⑤ ㉤: 문화부 사람들이 명훈의 부재를 익숙하게 여기는 상황이 드러나 있다.<a class="src-tag" href="#ev-q35-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>④</strong></div><p class="ask-read"><strong>발문 해석</strong> — ㉣ ‘이경숙이 옆구리를 찔렀다’가 무엇을 위한 행동인지 본다.</p><p>㉣은 라운지로 가자고 <strong>신호</strong>한 것이다(이후 함께 라운지로 이동). ‘나’의 행동을 자제시키려는 것이 아니므로 ④가 적절하지 않다.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>㉠=명훈을 부정적으로 보게 된 원인.</td></tr><tr><td>②</td><td>적절</td><td>㉡=결과 빌미로 추궁.</td></tr><tr><td>③</td><td>적절</td><td>㉢=의자 고장을 몰랐던 상황.</td></tr><tr class="correct"><td>④</td><td class="ok">부적절</td><td>㉣=라운지로 가자는 신호(자제 아님).</td></tr><tr><td>⑤</td><td>적절</td><td>㉤=부재를 익숙하게 여김.</td></tr></tbody></table></div></details>
 </div>
 
@@ -644,7 +644,7 @@ layout: "exam"
 ## 38~41번 갈래복합 · 가사 「순력가」·산문
 
 <div class="passage">
-  <p class="passage-guide">[38 ~ 41] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[38 ~ 41] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>(가) 연희각 잠깐 쉬어 순력 길 바삐 나서<br>해방(海方)도 둘러보며 ⓐ풍속도 살펴보니<br>불쌍하도다 우리 백성 무슨 일로 고달파서<br>의식(衣食)이 군색하니 흥미가 있을쏜가<br>발을 겨우 옮길 만한 박전(薄田)을 경작하니<br>자른 호미 작은 보습 신고(辛苦)히 매고 가꾸어<br>오뉴월 진력(盡力)하여 가을 추수를 바라더니<br>조물주 시기 심하고 천시(天時)도 그릇되어<br>악풍과 심한 폭우 해해마다 막심하니<br>밭이랑을 돌아보면 병마(兵馬)로 짓밟은 듯<br>곡식들을 둘러보면 쇠채찍으로 마구 내리친 듯<br>남은 이삭 주워 내니 빈 꺼풀뿐이로다<br><span class="ev ans" id="ev38">무엇으로 빚을 갚고 어디에서 꾸어 살아날꼬</span><a class="ev-tag ans" href="#q38-1">38-①</a><br>㉠거리거리 모든 기민* 가마 잡고 이른 말이<br>서럽고 서러운 우리 목숨 나라에 달렸으니<br>유민도* 옮겨다가 임금 계신 데 아뢰고자<br>가죽옷 풀 전립이 이 무슨 의관이며<br>모밀밥 상실죽이 그 무슨 음식일꼬<br>해마다 국은(國恩) 입어 나포이전* 허비하니<br>㉡곡식 청함도 낯이 없고 생계도 아득하니<br>목자 일족 포작 구실* 이에서 더 서러우며<br>배를 부리며 무역하는 무리 그 아니 난감한가<br>창명이 한격하고 방금이 엄절하니* <br>살 곳에 못 가기는 흘간산(紇干山) 언 새 같도다<br>슬프다 너의 간고(艱苦) 내 어이 모르리오<br>힘대로 구제키는 관장(官長)에게 달려 있으나<br>견디어 지내기는 네 마음에 달렸으니<br>그럴수록 경계하고 두려워하여 일상의 심성 보전하여<br>천은(天恩)을 잊지 말고 부자형제 상애(相愛)하면<br>옥황이 굽어 보셔 복록을 주시나니<br>곤궁함을 한(恨)치 말고 네 도리 진심하면<br>그 중의 영화(榮華) 있어 빈천을 벗어나니 <br>옛 시절 돌아보면 그 아니 알 일인가(중략) <br>망경루 높은 난간 의지하여 멀리 보니<br>바다 빛 아득한데 장안(長安)이 멀리 있도다<br><span class="ev ans" id="ev41">옥루궁궐 아득히 먼 곳 우리 임금 추우신가</span><a class="ev-tag ans" href="#q41-4">41-④</a><br>외로운 신하 숨은 근심 도처에 맺혀 있으니<br>㉢어느 때 순풍 만나 험한 바다를 쉬이 건너<br><span class="ev ans" id="ev39">이곳에 물정 민생을 세세히 아뢰고자</span><a class="ev-tag ans" href="#q39-3">39-③</a><br>- 정언유, ｢탐라별곡(耽羅別曲)｣ -</p>
   <p>* 기민: 굶주린 백성.<br>* 유민도: 떠도는 백성들의 모습을 그린 그림.<br>* 나포이전: 제주도에 흉년이 들었을 때 전라도에서 구호미를 실어 오는 것.<br>* 목자 일족 포작 구실: 목장일 하는 가족 물질하는 해녀.<br>* 창명이 한격하고 방금이 엄절하니: 넓은 바다가 경계로 막히고 나라에서 금하는 일이 엄격하니. </p>
   <p>(나) 내가 평안도 관찰사로 있을 때 일찍이 행부*가 강계부에 이르렀는데, 강계부의 기녀가 찬안*을 들어 올렸다. 찬안 가운데 이른바 수판*을 세웠는데, 기교를 한껏 발휘하여 연꽃잎과 꽃 속에 어린아이의 형상을 안치하였는데, 그 광채가 자리를 비추었다. 부백(府伯)이 마침 옆에 있기에 내가 우연히 묻기를 “강계부는 궁색한 지역인데, 누가 이런 기교를 익혔습니까?” 하자, 부백이 말하기를 “청지기 중에 이것을 업으로 하는 자가 있는데 마침 그가 서울에서 왔으므로 그로 하여금 제작하게 했을 뿐입니다.” 하였다. 찬안을 물릴 적에 내가 기녀에게 말하기를 “수놓은 연꽃은 일단 자리에 놓아두거라.” 하였다. 나는 본래 이런 물건을 좋아하지 않는 성품이지만 대개 노력을 많이 들인 것이 상을 치우는 사이에 삽시간에 함부로 찢어지는 것이 안타깝기 때문이었다. 이로부터 압록강에 접한 주부(州府)를 모두 다섯 번 다녔는데, 찬안을 올릴 적에 비록 수판은 없을지라도 비단을 잘라 꽃을 만들었으며 그 붉은 꽃과 파란 잎이 차린 음식에 어리비치고야 말았으니,<span class="ev ans" id="ev40"> 나는 마음속으로 관서의 ⓑ풍속이 천박함을 비웃었다</span><a class="ev-tag ans" href="#q40-1">40-①</a>. </p>
@@ -703,7 +703,7 @@ layout: "exam"
 ## 42~45번 고전소설 · 유씨 집안 갈등
 
 <div class="passage">
-  <p class="passage-guide">[42 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, <b>파란 밑줄</b>은 지문 근거(맞는 진술), <b style="color:#c0392b;border-color:#c0392b">빨간 밑줄</b>은 오답 근거(틀린 진술)입니다.</span></p>
+  <p class="passage-guide">[42 ~ 45] 다음 글을 읽고 물음에 답하시오.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거입니다.</span></p>
   <p>유씨 대로하여 꾸짖어 왈, “네 나의 좋은 말을 듣지 아니하니 어찌 자식의 도리이며, 네 입으로 비록 강한 체하나 금야에 겁칙할 도리 있으리니, 네 그를 장차 어찌할쏘냐?” </p>
   <p><span class="ev" id="ev-q45-1">이처럼 어르며 무수히 구박하고 돌아가거늘</span><a class="ev-tag" href="#q45-1">45-①</a>, 소저가 분함을 이기지 못하여 계교를 생각하더니, 이윽고 수악이 들어와 가만히 말하여 왈, “금야에 유택이 여차여차하리니, 소저는 바삐 피신할 방략을 행하소서.” 소저가 이 말을 듣고 혼비백산하여 아무리 할 줄 모르다가 문득 부친의 유서를 생각하고<span class="ev ans" id="ev45"> 급히 떼어 보니 하였으되, ‘너의 계모 유씨는 본디 착하지 못한지라. 만일 너를 핍박하는 일이 있거든 남복을 개착하고 태화산 숭녕관을 찾아가면 자연 구할 사람이 있으리라.’</span><a class="ev-tag ans" href="#q45-2">45-②</a> </p>
   <p>하였거늘, 소저가 간필에 즉시 시비 춘매를 불러 수말(首末)을 이르고 바삐 남복을 고쳐 입고 후원 문을 열고 달아나니라. </p>
@@ -770,11 +770,11 @@ layout: "exam"
  <p class="bogi-label">&lt; 보 기 &gt;</p>
  <p>영웅의 일대기 구조를 따르는 영웅 소설에서 주인공은 두 번의 위기를 겪는다. 첫 번째 위기는 개인적 차원의 위기로 이를 극복하는 과정에서 주인공은 초월적 능력을 지닌 조력자를 만나게 된다. 두 번째로는 국가적 차원의 위기로서 주인공은 비범한 능력을 발휘해 이를 극복하고 사회적 성취를 이루게 된다. ｢음양옥지환｣은 이러한 영웅 소설의 구조를 따르면서 영웅적 주인공으로 남장을 한 여성이 등장한다는 점에서 특징적이다.</p>
   </div>
-  <ul class="q-opts"><li id="q45-1">① 유씨가 소저를 무수히 구박하여 소저가 집을 떠나게 된다는 것에서 주인공의 개인적 위기가 계모에 의한 가족 내 갈등 때문임을 확인할 수 있군.<a class="src-tag" href="#ev-q45-1">오답 근거지문 근거</a></li>
+  <ul class="q-opts"><li id="q45-1">① 유씨가 소저를 무수히 구박하여 소저가 집을 떠나게 된다는 것에서 주인공의 개인적 위기가 계모에 의한 가족 내 갈등 때문임을 확인할 수 있군.<a class="src-tag" href="#ev-q45-1">오답 근거</a></li>
  <li id="q45-2">② 소저가 유택을 피하기 위한 방책으로 남장을 생각해 낸 것에서 주인공이 자신의 위기를 극복하는 과정에서 지혜를 발휘하고 있음을 확인할 수 있군.<a class="src-tag ans" href="#ev45">정답 근거</a></li>
- <li id="q45-3">③ 부친의 유서에 따라 찾아간 벽하선자가 이미 소저가 올 것을 알고 있다는 것에서 주인공이 초월적 능력을 지닌 조력자를 만나게 됨을 확인할 수 있군.<a class="src-tag" href="#ev-q45-3">오답 근거지문 근거</a></li>
- <li id="q45-4">④ 원수가 적장과 적졸을 순식간에 무찌르고 천자를 구한다는 것에서 주인공이 비범한 능력을 바탕으로 영웅적 면모를 발휘함을 확인할 수 있군.<a class="src-tag" href="#ev-q45-4">오답 근거지문 근거</a></li>
+ <li id="q45-3">③ 부친의 유서에 따라 찾아간 벽하선자가 이미 소저가 올 것을 알고 있다는 것에서 주인공이 초월적 능력을 지닌 조력자를 만나게 됨을 확인할 수 있군.<a class="src-tag" href="#ev-q45-3">오답 근거</a></li>
+ <li id="q45-4">④ 원수가 적장과 적졸을 순식간에 무찌르고 천자를 구한다는 것에서 주인공이 비범한 능력을 바탕으로 영웅적 면모를 발휘함을 확인할 수 있군.<a class="src-tag" href="#ev-q45-4">오답 근거</a></li>
  <li id="q45-5">⑤ 천자가 하늘이 명실을 위하여 낸 사람이라며 원수에게 벼슬을 하사한다는 것에서 국가적 위기를 극복한 주인공이 사회적 성취를 얻게 됨을 확인할 수 있군.
-※ 확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.<a class="src-tag" href="#ev-q45-5">오답 근거지문 근거</a></li></ul>
+※ 확인 사항답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인하시오.<a class="src-tag" href="#ev-q45-5">오답 근거</a></li></ul>
   <details class="solution"><summary>해설 보기</summary><div class="solution-body"><div class="question-analysis"><div class="answer-line"><span>정답</span><strong>②</strong></div><p class="ask-read"><strong>발문 해석</strong> — 〈보기〉(여성 영웅의 위기·극복)로 본다.</p><p>소저가 유택을 피하려 <strong>남장</strong>을 떠올린 것은 위기 극복 과정에서 스스로 지혜를 발휘한 장면이다. ②.</p></div><table class="jt"><thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead><tbody><tr><td>①</td><td>적절</td><td>계모의 구박=가족 내 갈등 위기.</td></tr><tr class="correct"><td>②</td><td class="ok">정답</td><td>남장 방책=주인공의 지혜 발휘.</td></tr><tr><td>③</td><td>적절</td><td>벽하선자=초월적 조력자.</td></tr><tr><td>④</td><td>적절</td><td>적장 격파·천자 구출=영웅적 비범함.</td></tr><tr><td>⑤</td><td>적절</td><td>벼슬 하사=사회적 성취.</td></tr></tbody></table></div></details>
 </div>
