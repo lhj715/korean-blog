@@ -12,14 +12,15 @@
   </div>
 
   <div class="idiom-grid" id="idiom-grid">
-    {{- range $idioms }}
-    <div class="idiom-card" id="{{ .word }}" data-q="{{ .word }} {{ .hanja }} {{ .meaning }}">
+    {{- range $i, $item := $idioms }}
+    <div class="idiom-card" id="{{ $item.word }}" data-q="{{ $item.word }} {{ $item.hanja }} {{ $item.meaning }}" data-idx="{{ add $i 1 }}">
       <div class="idiom-head">
-        <span class="idiom-word">{{ .word }}</span>
-        <span class="idiom-hanja">{{ .hanja }}</span>
+        <span class="idiom-num">{{ add $i 1 }}</span>
+        <span class="idiom-word">{{ $item.word }}</span>
+        <span class="idiom-hanja">{{ $item.hanja }}</span>
       </div>
-      <div class="idiom-meaning">{{ .meaning }}</div>
-      {{- with .example }}<div class="idiom-ex">예) {{ . }}</div>{{ end }}
+      <div class="idiom-meaning">{{ $item.meaning }}</div>
+      {{- with $item.example }}<div class="idiom-ex">예) {{ . }}</div>{{ end }}
     </div>
     {{- end }}
   </div>

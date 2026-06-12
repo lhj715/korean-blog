@@ -542,8 +542,9 @@ a.ev-tag.wrong:hover{background:#9a2d22}
   border:1px solid var(--paper-line);border-radius:4px;background:var(--paper);color:var(--ink)}
 .idiom-search input:focus{outline:none;border-color:var(--accent-light);background:#fff}
 .idiom-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
-.idiom-card{background:var(--paper);border:1px solid var(--paper-line);border-radius:4px;padding:16px 18px}
-.idiom-head{display:flex;align-items:baseline;gap:10px;margin-bottom:8px;flex-wrap:wrap}
+.idiom-card{background:var(--paper);border:1px solid var(--paper-line);border-radius:4px;padding:16px 18px;position:relative}
+.idiom-num{position:absolute;top:7px;left:9px;font-size:10px;color:var(--ink-soft);line-height:1;user-select:none}
+.idiom-head{display:flex;align-items:baseline;gap:10px;margin-bottom:8px;flex-wrap:wrap;padding-left:22px}
 .idiom-word{font-family:'Noto Serif KR',serif;font-size:18px;font-weight:700;color:var(--ink)}
 .idiom-hanja{font-family:'Noto Serif TC','Noto Serif KR',serif;font-size:14px;color:var(--accent-light)}
 .idiom-meaning{font-size:13.5px;color:var(--ink-mid);line-height:1.65}
