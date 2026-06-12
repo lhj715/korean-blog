@@ -31,7 +31,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -39,7 +39,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -77,7 +77,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -87,7 +87,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -95,8 +95,9 @@ layout: "exam"
 </div>
 
 <div class="q-block" id="prob3">
-  <p class="q-stem">3. 다음은 위 발표를 들은 두 학생의 메모이다. ‘학생 1’과 ‘학생 2’의 메모를 분석한 것으로 적절하지 않은 것은?
-학생 1
+  <p class="q-stem">3. 다음은 위 발표를 들은 두 학생의 메모이다. ‘학생 1’과 ‘학생 2’의 메모를 분석한 것으로 적절하지 않은 것은?</p>
+  <div class="q-bogi">
+    <p>학생 1
 학생 2
 당시 도성의 관리에 심혈을 기울였다는 것을 각자성석을 통해 알 수 있다는 점이 매우 흥미로웠어.
 다른 나라는 도시에 옛 성벽의 형태가 잘 유지되고 있지 않다고 하는데 실제 사례가 없어서 이해하기 어려웠어.
@@ -104,6 +105,7 @@ layout: "exam"
 지난번 한양도성에 갔을 때도 각자성석에 대한 지식을 알고 갔으면 좋았을 텐데.
 조선 건국 초기 한양도성을 축성하는 과정 중에 겪었던 어려움에는 어떤 것들이 더 있었을까.
 태조, 세종, 숙종 때 외에 다른 시기의 축성에 대한 언급이 없어서 조선시대의 전반적인 축성 기술에 대해 알기 어려웠어.</p>
+  </div>
   <ul class="q-opts">
     <li id="q3-1">① ‘학생 1’은 발표에서 새롭게 알게 된 정보를 긍정적으로 생각하고 있군.</li>
     <li id="q3-2">② ‘학생 2’는 발표 내용을 자신의 경험과 관련지어 생각하고 있군.</li>
@@ -116,7 +118,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -126,7 +128,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -166,7 +168,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -176,7 +178,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -196,7 +198,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -205,7 +207,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -226,7 +228,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -234,7 +236,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -257,7 +259,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -266,7 +268,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -299,14 +301,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -334,7 +336,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -343,7 +345,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -352,8 +354,10 @@ layout: "exam"
 </div>
 
 <div class="q-block" id="prob10">
-  <p class="q-stem">10. &lt;보기&gt;는 [A]를 고쳐 쓴 글이다. [A]를 고쳐 쓰기 위해 친구들이 조언한 내용 중 &lt;보기&gt;에 반영되지 않은 것은?
-보 기아이스 팩이 우리 생활에 많은 편의를 주고 있음은 분명하다. 하지만 이를 폐기하는 과정에서 발생하는 문제점을 해결하지 않는다면 환경에 심각한 악영향을 끼칠 것이다. 그러므로 문제 해결을 위해 정부, 기업, 가정이 함께 손에 손을 잡고 협력할 필요가 있다.</p>
+  <p class="q-stem">10. &lt;보기&gt;는 [A]를 고쳐 쓴 글이다. [A]를 고쳐 쓰기 위해 친구들이 조언한 내용 중 &lt;보기&gt;에 반영되지 않은 것은?</p>
+  <div class="q-bogi">
+    <p>아이스 팩이 우리 생활에 많은 편의를 주고 있음은 분명하다. 하지만 이를 폐기하는 과정에서 발생하는 문제점을 해결하지 않는다면 환경에 심각한 악영향을 끼칠 것이다. 그러므로 문제 해결을 위해 정부, 기업, 가정이 함께 손에 손을 잡고 협력할 필요가 있다.</p>
+  </div>
   <ul class="q-opts">
     <li id="q10-1">① 서술어와의 호응을 고려하여 생략된 주어를 밝혔으면 좋겠어.</li>
     <li id="q10-2">② 글의 전체적인 흐름과 어울리지 않는 문장은 삭제했으면 좋겠어.</li>
@@ -365,7 +369,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -373,7 +377,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -408,14 +412,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -426,8 +430,9 @@ layout: "exam"
 </div>
 
 <div class="q-block" id="prob12">
-  <p class="q-stem">12. [A]를 참고할 때, &lt;보기&gt;의 ⓐ～ⓔ에 들어갈 내용으로 적절하지 않은 것은? [3점]
-보 기[탐구 주제]
+  <p class="q-stem">12. [A]를 참고할 때, &lt;보기&gt;의 ⓐ～ⓔ에 들어갈 내용으로 적절하지 않은 것은? [3점]</p>
+  <div class="q-bogi">
+    <p>[탐구 주제]
 중세 국어의 부사격 조사에 대해 탐구해 보자.
 [탐구 자료]
 예성분 분석탐구결과내히 이러 바래 가니(내가 이루어져 바다에 가느니)
@@ -448,6 +453,7 @@ layout: "exam"
 (여기에서 살던 때로부터 오늘날까지)
 →적+으로→
 ⓔ</p>
+  </div>
   <ul class="q-opts">
     <li id="q12-1">① ⓐ: ‘애’는 선행 체언의 끝음절 모음이 양성 모음이기 때문에 사용된 것이겠군.</li>
     <li id="q12-2">② ⓑ: ‘의’는 특정 체언 뒤에 붙어 장소를 나타내는 부사격 조사로 사용된 것이겠군.</li>
@@ -459,7 +465,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -468,7 +474,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -490,13 +496,13 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -527,14 +533,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -560,7 +566,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -570,7 +576,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -601,7 +607,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -609,7 +615,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -631,7 +637,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -639,7 +645,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -649,11 +655,13 @@ layout: "exam"
 </div>
 
 <div class="q-block" id="prob18">
-  <p class="q-stem">18. 윗글을 읽고 &lt;보기&gt;를 이해한 반응으로 적절하지 않은 것은? [3점]
-보 기다음은 터치스크린 패널의 작동 원리를 이해하기 위해 설정된 자료이다. &lt;자료 1&gt;은 터치스크린 패널의 한 종류를 도식화한 것이고, &lt;자료 2&gt;는 &lt;자료 1&gt;의 ⓐ～ⓒ 지점에 형성된 전기장의 크기를 나타낸 그래프이다.
+  <p class="q-stem">18. 윗글을 읽고 &lt;보기&gt;를 이해한 반응으로 적절하지 않은 것은? [3점]</p>
+  <div class="q-bogi">
+    <p>다음은 터치스크린 패널의 작동 원리를 이해하기 위해 설정된 자료이다. &lt;자료 1&gt;은 터치스크린 패널의 한 종류를 도식화한 것이고, &lt;자료 2&gt;는 &lt;자료 1&gt;의 ⓐ～ⓒ 지점에 형성된 전기장의 크기를 나타낸 그래프이다.
 &lt;자료 1&gt;
 * 단, P는 전도성 물체의 접촉이 없는 상태의 전기장 크기이다.
 &lt;자료 2&gt;</p>
+  </div>
   <ul class="q-opts">
     <li id="q18-1">① ⓐ에서 접촉된 물체가 흡수한 전기장의 크기는 ⓑ에서 접촉된 물체가 흡수한 전기장의 크기보다 크겠군.</li>
     <li id="q18-2">② 전기장의 크기로 보아 ⓑ보다 ⓐ에서 더 정확한 접촉이 이루어진 것으로 볼 수 있겠군.</li>
@@ -665,7 +673,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -675,7 +683,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -695,7 +703,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -704,7 +712,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -734,7 +742,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -744,7 +752,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -768,7 +776,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -777,7 +785,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -798,14 +806,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -837,13 +845,13 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -868,14 +876,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -898,14 +906,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -928,13 +936,13 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -959,7 +967,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -967,7 +975,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -998,13 +1006,13 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1030,7 +1038,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1039,7 +1047,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -1048,14 +1056,16 @@ layout: "exam"
 </div>
 
 <div class="q-block" id="prob30">
-  <p class="q-stem">30. 다음은 온라인 수업 게시판의 일부이다. 윗글을 바탕으로 학생들이 과제를 수행했다고 할 때, ㉮~ ㉰에 들어갈 말로 가장 적절한 것은?
-과제: 다음을 읽고 소쉬르나 비트겐슈타인 중 한 명의 입장에서이를 해석하여 댓글을 작성하시오.
+  <p class="q-stem">30. 다음은 온라인 수업 게시판의 일부이다. 윗글을 바탕으로 학생들이 과제를 수행했다고 할 때, ㉮~ ㉰에 들어갈 말로 가장 적절한 것은?</p>
+  <div class="q-bogi">
+    <p>과제: 다음을 읽고 소쉬르나 비트겐슈타인 중 한 명의 입장에서이를 해석하여 댓글을 작성하시오.
 영어에서는 오징어[cuttle fish]와 문어[octopus]의 구분은 존재하지만 주꾸미와 낙지를 나타내는 단어는 없다. 물론 이들에 대한 생물학적인 학명은 존재하지만, 이는 일상적인 단어가 아니므로 사실상 그러한 단어는 존재하지 않는 것과 같다. 영어권의 외국인들은 대부분 낙지와 문어를 잘 구분하지 못할뿐더러 맛도 구분하지 못하는 경향이 있다.
 소쉬르의 입장에서 영어권의 외국인들이 낙지와 문어를 (   ㉮   ) 인식하는 것은 결국 언어가 현실 세계를 (   ㉯   ) 사례로 볼 수 있겠어.
 비트겐슈타인의 입장에서 오징어와 문어를 나타내는 단어는 영어에 있지만 주꾸미와 낙지를 구분하는 단어가 없는 것은 영어를 사용하는 사람들이 공유하는(   ㉰   )에 따라 언어가 만들어진 것이라는 것을 보여 준다고 할 수 있겠어.
 ㉮
 ㉯
 ㉰</p>
+  </div>
   <ul class="q-opts">
     <li id="q30-1">① 다르게구성한다는삶의 양식</li>
     <li id="q30-2">② 다르게묘사한다는높은 수준의 명확성</li>
@@ -1070,7 +1080,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1078,7 +1088,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -1090,19 +1100,27 @@ layout: "exam"
 <div class="q-block" id="prob31">
   <p class="q-stem">31. 다음은 ‘읽기 중’ 단계에서 학생이 수행한 활동지의 일부이다. 학생의 응답으로 적절하지 않은 것은?</p>
   <ul class="q-opts">
-
+    <li id="q31-1">①소쉬르는 언어가 현실 세계의 대상을 지칭하는 것이라고 주장하고 있나요? — 예</li>
+    <li id="q31-2">②비트겐슈타인은 언어에 존재하는 많은 불명확성에 대해 긍정하고 있나요? — 예</li>
+    <li id="q31-3">③소쉬르와 비트겐슈타인은 모두, 언어에 대한 전통적인 입장을 고수하고 있나요? — 예</li>
+    <li id="q31-4">④소쉬르는 비트겐슈타인과 달리, 언어가 사람들의 약속에 의해 형성된다는 것을 비판하고 있나요? — 예</li>
+    <li id="q31-5">⑤비트겐슈타인은 소쉬르와 달리, 언어가 사용하는 사람들의 맥락에 따라 다르게 사용될 수도 있다는 것을 부정하고 있나요? — 예</li>
   </ul>
   <details class="solution">
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          
+                    <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1110,10 +1128,12 @@ layout: "exam"
 </div>
 
 <div class="q-block" id="prob32">
-  <p class="q-stem">32. 다음은 ‘읽기 후’ 단계에서 학생이 찾은 다른 학자들의 견해이다. 윗글을 바탕으로 주제 통합적 읽기를 수행한 학생의 이해로 적절하지 않은 것은? [3점]
-ⓐ 말소리와 지시물 간에는 직접적인 관계가 없으며 개념이 말소리와 직접적으로 연결된다. 지시물은 개념을 통해 말소리와 간접적으로 연결되어 언어는 일정한 의미를 형성하게 된다.
+  <p class="q-stem">32. 다음은 ‘읽기 후’ 단계에서 학생이 찾은 다른 학자들의 견해이다. 윗글을 바탕으로 주제 통합적 읽기를 수행한 학생의 이해로 적절하지 않은 것은? [3점]</p>
+  <div class="q-bogi">
+    <p>ⓐ 말소리와 지시물 간에는 직접적인 관계가 없으며 개념이 말소리와 직접적으로 연결된다. 지시물은 개념을 통해 말소리와 간접적으로 연결되어 언어는 일정한 의미를 형성하게 된다.
 ⓑ 언어란 현실 세계를 재현하기 위한 수단이며 언어의 의미는 곧 언어가 구체적으로 지시하는 대상이다. 세계가 먼저 있고 그 세계를 재현하기 위해서 언어가 존재하는 것이다.
 ⓒ 언어에서 사물의 이름은 임의적으로 붙여진 것이 아니다. 사물은 자연의 일부로서 자연을 닮고 서로 유사함을 나누어 가지며, 사물의 이름은 이런 자연의 법칙에 따라 지어진 것이다.</p>
+  </div>
   <ul class="q-opts">
     <li id="q32-1">① 개념이 말소리와 직접적으로 연결된다는 ⓐ의 입장과 유사하게, 소쉬르는 언어가 기표와 기의의 대응을 통해 이루어진다고 주장하고 있다.</li>
     <li id="q32-2">② 언어는 일정한 의미를 형성하게 된다는 ⓐ의 입장과 달리, 비트겐슈타인은 언어가 사람들의 소통에 의해서 만들어진다고 주장하고 있다.</li>
@@ -1125,7 +1145,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1134,7 +1154,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -1160,7 +1180,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1169,7 +1189,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -1199,7 +1219,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1207,7 +1227,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -1229,7 +1249,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1238,7 +1258,7 @@ layout: "exam"
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -1259,14 +1279,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1290,14 +1310,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1329,14 +1349,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1359,7 +1379,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1369,7 +1389,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1392,13 +1412,13 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1424,7 +1444,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1434,7 +1454,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1463,7 +1483,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1473,7 +1493,7 @@ layout: "exam"
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1497,7 +1517,7 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
@@ -1505,7 +1525,7 @@ layout: "exam"
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -1527,14 +1547,14 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
                     <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1559,13 +1579,13 @@ layout: "exam"
     <summary>해설 보기</summary>
     <div class="solution-body">
       <div class="question-analysis">
-        <div class="answer-line"><span>정답</span><strong></strong></div>
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
         <p class="ask-read"><strong>발문 해석</strong> — 선지와 지문을 1:1로 대조한다.</p>
       </div>
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-                    <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
+                    <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>

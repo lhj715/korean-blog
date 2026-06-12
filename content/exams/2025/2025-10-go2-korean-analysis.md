@@ -162,7 +162,7 @@ summary: "2025년 10월 고2 전국연합학력평가 국어 기출 분석 — �
 <div class="passage">
   <p class="passage-guide">[4 ~ 7] (가) 학생회 회의 · (나) 공연 팀에 보내는 답장 초고.<span class="passage-legend"><b style="color:#1f7a3d;border-color:#1f7a3d">초록 밑줄</b>은 정답 근거, 옆 번호를 누르면 그 문제로 이동합니다.</span></p>
   <p class="dt2"><b>(가)</b> 회의</p>
-  <p class="dlg"><b>학생1:</b> <span class="ev" id="ev9">오늘은 답장에 들어갈 내용을 정하기 위해 회의를 하려고 해.</span><a class="ev-tag" href="#q4-1">4-①</a><a class="ev-tag" href="#q7-1">7-①</a><a class="ev-tag ans" href="#q9-4">9-④</a> <span class="ev" id="ev10">다들 내가 공유한 내용 보고 의견 정리해 왔지?</span><a class="ev-tag" href="#q4-2">4-②</a><a class="ev-tag" href="#q7-2">7-②</a><a class="ev-tag ans" href="#q10-4">10-④</a> 먼저 편곡 곡과 창작곡 중 어떤 게 좋을까?</p>
+  <p class="dlg"><b>학생1:</b> <span class="ev ans" id="ev9">오늘은 답장에 들어갈 내용을 정하기 위해 회의를 하려고 해.</span><a class="ev-tag" href="#q4-1">4-①</a><a class="ev-tag" href="#q7-1">7-①</a><a class="ev-tag ans" href="#q9-4">9-④</a> <span class="ev ans" id="ev10">다들 내가 공유한 내용 보고 의견 정리해 왔지?</span><a class="ev-tag" href="#q4-2">4-②</a><a class="ev-tag" href="#q7-2">7-②</a><a class="ev-tag ans" href="#q10-4">10-④</a> 먼저 편곡 곡과 창작곡 중 어떤 게 좋을까?</p>
   <div class="seg"><span class="seg-label">[ A ]</span>
     <p class="dlg"><b>학생2:</b> 편곡 곡이 좋아. 대중가요에 국악을 가미하면 새롭겠어.</p>
     <p class="dlg"><b>학생3:</b> 난 창작곡이 더 새롭다고 생각해.</p>
