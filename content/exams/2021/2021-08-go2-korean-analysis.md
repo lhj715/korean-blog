@@ -50,11 +50,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>1문단: 질문 후 청중 반응 확인.</td></tr>
+          <tr><td>②</td><td>오답</td><td>4문단: '목소리를 크게 하며' 준언어적 표현.</td></tr>
+          <tr><td>③</td><td>오답</td><td>1문단: 난각 코드를 주민등록번호에 빗댐.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>통계(95%) 제시됐으나 출처 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>3문단: A4 용지로 케이지 면적 가늠.</td></tr>
         </tbody>
       </table>
     </div>
@@ -92,11 +92,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>[자료1]: 난각 코드 구성 요소(산란 일자·고유 번호·환경 번호) 확인.</td></tr>
+          <tr><td>②</td><td>오답</td><td>[자료1]: 달걀 껍데기에 난각 코드 표시됨.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>[자료1]에 농장 정보 없음 — ㉡엔 [자료2] 써야.</td></tr>
+          <tr><td>④</td><td>오답</td><td>[자료2]: 동물 복지 인증 사육 환경 제시.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>[자료3]: 케이지별 닭 한 마리 사육 면적 비교.</td></tr>
         </tbody>
       </table>
     </div>
@@ -140,11 +140,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>3문단: 환경 개선 시 닭 스트레스↓·질 좋은 달걀.</td></tr>
+          <tr><td>②</td><td>오답</td><td>산란 일자 확인 이유 물음 — 발표자 답변에 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>질병 취약 이유 물음 — 발표자 답변에 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>난각 코드 의무화 이유 물음 — 발표자 답변에 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>95% 비율의 이유 물음 — 발표자 답변에 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -185,11 +185,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(나): 친밀한 관계 — 정중·격식 표현 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가): 사회적 차원의 의사소통.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(가): 합의를 위한 대안 조정 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나): 양방향 특징 활용 — 상대방 반응 요구.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(나): 시간·공간 공유 → 비언어적 표현 사용 가능.</td></tr>
         </tbody>
       </table>
     </div>
@@ -226,11 +226,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>[A] '학생2'는 '학생1' 발화 요약 없음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>[A] '학생3': '학생 참여 예산제' 용어 생소 → 질문.</td></tr>
+          <tr><td>③</td><td>오답</td><td>[B] '학생3': 부분 동의하나 긍정적 결과 언급 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>[B] '학생2': 문제 지적·해결 방안 제안 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>질문 형식 동의 구하기는 [B]에만 해당.</td></tr>
         </tbody>
       </table>
     </div>
@@ -269,11 +269,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(다) 5문단에 기대 효과 반영.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(다) 2문단에 '카공족' 질문으로 관심 유도.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(나)에 긍정적 변화 언급 있으나 (다)에 반영 안 됨.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(다) 2문단에 경제적 부담 언급.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(다) 3문단에 다양한 형태의 책상 구비 방안.</td></tr>
         </tbody>
       </table>
     </div>
@@ -321,11 +321,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠: 공공의 이익 추구 — 설문 결과 제시로 부합.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡: 공평성 — 기존 면학실 유지 방안도 제시로 부합.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉢: 실현 가능성 — 우선순위 제시로 부합.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉣: 논리적 이치 — 다른 학교 사례 제시로 부합.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>㉣: 근거로 면학실 문제점 제시해야 하나 (다)에 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -367,11 +367,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>예시를 2, 3문단에 제시 — 부합.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'소 잃고 외양간 고친다' 관용 표현 1문단 사용 — 부합.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>자신의 경험 활용한 내용 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>1문단에 재사용 가치(쓰레기 감소) 제시 — 부합.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>2문단에 재활용과의 차이 설명 — 부합.</td></tr>
         </tbody>
       </table>
     </div>
@@ -430,11 +430,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>ㄱ: 우리나라 빈 병 재사용률 낮음 → (나) 내용 뒷받침.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ㄴ: 제품 구입 가격 약 35% 저렴 → 비용 절감 추가 가능.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ㄷ: 아이스 팩 재사용 사례 → 실천 방법으로 추가 가능.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ㄱ·ㄷ: 에너지 절약·환경 오염 예방 효과 제시 가능.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ㄴ·ㄷ: 재활용 시스템 정비가 아닌 재사용 사례 — 재활용 내용 추가 부적절.</td></tr>
         </tbody>
       </table>
     </div>
@@ -475,11 +475,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td><보기>: 긍정적 영향 중심 기술.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>[A]: 재사용의 필요성·개념·실천 방법 요약 강조 — 적절.</td></tr>
+          <tr><td>③</td><td>오답</td><td>불필요한 피동 교체 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>이중 부정 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>호응 오류 수정 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -521,11 +521,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'믿는'의 '믿-'→'민-': 비음 앞 평파열음 불가 → 자동적 교체.</td></tr>
+          <tr><td>②</td><td>오답</td><td>자동적 교체 여부 설명 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'안고'의 '-고'→'-꼬': 비음 뒤 경음화 → 비자동적 교체.</td></tr>
+          <tr><td>④</td><td>오답</td><td>비자동적 교체 사례 언급 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'안고' '-꼬' 교체는 비자동적 교체 — 4문단 기준.</td></tr>
         </tbody>
       </table>
     </div>
@@ -570,11 +570,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>ⓐ '닭': [닥], [당] 등 상보적 분포.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>ⓑ '책': '[책]', '[챙]' 이형태 복수 — 기본형 설정 필요.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ⓒ 이형태가 없는 경우 설명.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ⓓ 이형태 예시 설명.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ⓔ '잎': '[입]', '[임]' 이형태 → 기본형 '잎' 설정.</td></tr>
         </tbody>
       </table>
     </div>
@@ -649,11 +649,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠: '그'를 부각하기 위해 피동 사용.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡: '나'를 밝히지 않기 위해 피동 사용.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉢: 행위 주체인 '기자'가 중요하지 않아 피동 사용.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣: 행위 주체 '국민들'은 누구나 알아 피동 사용.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉤: 행위 주체 설정 어려워 피동 사용.</td></tr>
         </tbody>
       </table>
     </div>
@@ -698,11 +698,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>ㄱ: 서술절을 가진 안은문장 — 주어·서술어 구성.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ㄴ: 홑문장 — 서술어 '좋아한다' 1개.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>ㄷ: 이어진문장 — 서술어 '시인이자'·'선생님이다' 2개.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ㄹ: 두 절이 대등하게 이어진 이어진문장.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ㅁ: 이어진문장 설명.</td></tr>
         </tbody>
       </table>
     </div>
@@ -758,11 +758,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>㉠ '가겠습니다': 미래 시제 — 중세 국어 '-리-'.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡ '스승이시다': 현재 시제 — 중세 국어 특정 선어말 어미 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉢ '묻는다': 동사 현재 시제 — 중세 국어 '-ᆞ-'.</td></tr>
+          <tr><td>④</td><td>오답</td><td>선어말 어미 설명 기타.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>중세 국어 시제 기타.</td></tr>
         </tbody>
       </table>
     </div>
@@ -797,11 +797,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가): 학문에 힘쓰지 않았던 자신의 삶 성찰.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나): 글을 읽고 싶은 욕구 충족 모습.</td></tr>
+          <tr><td>③</td><td>오답</td><td>언학 제6수: '우부'·'성인' 구분은 학문의 난이도 표현.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>(가): 성인을 본받아야 함을 나타내는 것 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>갈래 복합 관련 기타.</td></tr>
         </tbody>
       </table>
     </div>
@@ -851,11 +851,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>언지 제2수: '연하·풍월' = 자연, '허물' = 선한 본성 방해.</td></tr>
+          <tr><td>②</td><td>오답</td><td>언학 제4수: 다른 것에 마음 두지 않으려는 다짐 — 학문 열중.</td></tr>
+          <tr><td>③</td><td>오답</td><td>언지 제1수: '천석고황' 고치지 않으려는 것 = 자연 즐기겠다는 삶의 방식.</td></tr>
+          <tr><td>④</td><td>오답</td><td>언학 제3수: '고인'이 '가던 길'을 가려는 것 = 학문에 힘쓰겠다는 것.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>언학 제6수: '우부'·'성인' 구분은 학문이 쉽고도 어렵다는 표현 — 성인 본받기 아님.</td></tr>
         </tbody>
       </table>
     </div>
@@ -893,11 +893,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>㉠: '거즛말'·'올흔말' 대조적 어휘 → '순풍 안 죽음·인성 어짐' 드러냄.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉠: 인용 있으나 자신이 준 영향 강조 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉡: 깨달음 있으나 우회적 표현 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉡: 상황 나아지리라는 기대 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉠·㉡: 말 건네는 방식 사용 안 함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -946,11 +946,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>뒤지를 '귀중한 읽을거리'로 — 투옥 생활에서 읽을거리 접하기 어려웠음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>경찰서 경무휘보 공급 — 글쓴이가 읽을거리 얻기 위해 노력한 결과 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>뒤지 읽을 때 시간이 쉽게 지나는 것 같다 — 글 읽는 만족감 확인.</td></tr>
+          <tr><td>④</td><td>오답</td><td>뒤지를 서로 돌려 가며 봄 — 글 읽으려는 의지.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'본능의 소치' 생각 — 글 읽기 포기 안 하려는 면모.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1004,11 +1004,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가): 헌법 특질 3가지 병렬 — 절충안 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나): 2·3·4문단이 각 헌법관의 의의·한계 밝힘.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(가)(나): 정보 대등하게 병렬 제시.</td></tr>
+          <tr><td>④</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>기타 선지.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1046,11 +1046,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가) 2문단: 일반 소송이 아닌 헌법재판으로 권력 침해 방지.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가) 1문단: 국민적 합의로 제정 → '최고규범성'.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(가) 2문단: 헌법재판소가 보장 장치 마련 → '자기보장성'.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가) 2문단: 하위 법규범이 아닌 스스로 보장.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가) 3문단: 기관의 권한 남용 방지 → '권력제한성'.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1088,11 +1088,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가) 2문단: 입법부가 따르지 않으면 강제 불가 — 강제적 수단으로 실현 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가) 2문단: '입법부의 헌법에 대한 존중'이 적절 — '독자성 보장' 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>④</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>'헌법 내용 실현 의지'에 좌우됨.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1131,11 +1131,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>(나) 2문단: 법실증주의 — 실정법 만능주의 비판 + 변화 사회 설명 어려움.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>통합론: 변화하는 사회·헌법을 설명할 수 없다는 비판.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(나) 2문단: 법실증주의 — 존재적 요소 배제, 당위를 연구 대상으로.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나) 3문단: '헌법제정권력자로서의 국민 의지'에 주목 = 결단주의적.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>기타 선지.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1195,11 +1195,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td><보기> ⓐ 유통산업발전법 — '경제주체 간의 조화' 헌법적 가치 실현.</td></tr>
+          <tr><td>②</td><td>오답</td><td><보기> ⓑ 근로기준법 — 입법자의 권한은 공통 가치 범위 내로 한정.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>'경제에 관한 규제'를 '권력자의 통치 이념'이라고 기술 — 부적절.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나) 4문단: 통합론 — ⓐ '경제의 민주화' 가치로 국가 통합 실현.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나) 2문단: 통합론의 비판 기준으로 ⓑ 설명.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1238,11 +1238,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>㉠ '따르다': '관례·명령 등을 실행하다' 의미.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'다른 사람 뒤에서 같이 가다' 의미.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'앞선 것을 좇아 같은 수준에 이르다' 의미.</td></tr>
+          <tr><td>④</td><td>오답</td><td>'어떤 일이 더불어 일어나다' 의미.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'남이 하는 대로 같이 하다' 의미.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1282,11 +1282,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>각 사상가의 관점을 정확하게 파악하며 읽는 것이 적절.</td></tr>
+          <tr><td>②</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>④</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>기타 선지.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1324,11 +1324,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>1문단: 플라톤 — 기억이 이데아 인식하는 긍정적 능력.</td></tr>
+          <tr><td>②</td><td>오답</td><td>1문단: 하이데거 — 진리는 기억이 지배하는 상태.</td></tr>
+          <tr><td>③</td><td>오답</td><td>3문단: 니체 — 망각을 능동적·창조적 능력으로, 기억 긍정 전통 거부.</td></tr>
+          <tr><td>④</td><td>오답</td><td>3문단: 니체 — 기억이 가득 차면 새로운 인식 불가.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>5문단: 니체는 철저한 망각이 필요하다고 주장하지 않음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1363,11 +1363,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠이 있어야 ㉡에 의거한 주장 가능.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>㉠(기억)이 가능해야 ㉢(자기의식)도 가능.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>④</td><td>오답</td><td>㉠을 통해 ㉢이 가능.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉢에는 ㉡이 아닌 ㉠이 전제되어야.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1415,11 +1415,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>을은 과거의 지갑 기억 → 피히테: 현재의 자신과 같음을 의식.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>'시험은 시험이다' 명제가 현실화되면 '과거의 시험=현재의 시험' — 을의 주장과 불일치.</td></tr>
+          <tr><td>③</td><td>오답</td><td>을: 기억에 집착 → 니체: 변화·차이 긍정 불가.</td></tr>
+          <tr><td>④</td><td>오답</td><td>을: 지난 시험 잊고 재준비 → 니체: 기억 뛰어넘어 현재 행복하게 살아갈 수 있는 사람.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>을: 좌절하지 않음 → 니체: 다음 시험 결과 좋을 것 직감.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1457,11 +1457,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>'뛰어나다': '우월(優越)한'으로 바꿀 수 있음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'낯설다' ≠ '난해(難解)하고' — 바꿔 쓰기 부적절.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>'낯설다': '전에 본 기억 없어 익숙하지 않다' 의미 — '난해'와 다름.</td></tr>
+          <tr><td>④</td><td>오답</td><td>'되찾다': '회복(回復)한'으로 바꿀 수 있음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'찾아내다': '발견(發見)하고자'로 바꿀 수 있음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1499,11 +1499,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>1인칭 주인공 시점 — '나'의 심리 구체적으로 서술.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>서술상 특징 기타.</td></tr>
+          <tr><td>③</td><td>오답</td><td>의식의 흐름 기법: 무의식 욕망을 논리적 인과 없이 서술 — 이 작품과 다름.</td></tr>
+          <tr><td>④</td><td>오답</td><td>서술상 특징 기타.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>서술상 특징 기타.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1542,11 +1542,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>이모 가르침대로라면 김장우 선택해야 — '나'는 나영규 선택.</td></tr>
+          <tr><td>②</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'나'의 태도를 소극적으로 보는 것은 적절하지 않음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'일 년쯤' 후 인생을 '살아가면서 탐구하는 것'으로 수정 — 실수 되풀이 깨달음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1584,11 +1584,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>어머니: 과거 의학 책·현재 형법 책 — 문제 해결 위한 적극적 행위.</td></tr>
+          <tr><td>②</td><td>오답</td><td>차별화 목적 행위 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>정서 안정·감정 정화 행위 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>즐거움 얻는 일상 반복 행위 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>가치관 정립 성찰 전제된 행위 아님.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1637,11 +1637,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>병든 아버지 간호 + 경제 문제 — '나날이 생기'→ 불행의 이면에 행복.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'아버지가 물려주고 싶었던 비밀' — 세상이 모순으로 짜여 있다는 것.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'그 다짐에 충실했던 일 년' — 정반대 조건 나영규·김장우 사이 탐구.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'나': 불행을 거부하기 위해 선택한 것으로 보는 것 부적절.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>이모: 물질 풍요 속 정신 빈곤 — '무덤 속 같은 평온'으로 자신의 삶 인식.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1683,11 +1683,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>2문단: 아코니틴 — 나트륨 이온 통로 계속 열어 활동 전위 방해.</td></tr>
+          <tr><td>②</td><td>오답</td><td>4문단: 테트로도톡신 — 복어가 스스로 만드는 것 아님(플랑크톤·균).</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>2문단에 알칼로이드가 질소를 함유하는 이유 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>4문단: 살무사 크로탈로톡신 — 혈구 세포·혈소판 파괴.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>4문단: 코브라 오피오톡신·살무사 크로탈로톡신 — 작용 차이.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1723,11 +1723,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>아세틸콜린 분비 방해 독 설명.</td></tr>
+          <tr><td>②</td><td>오답</td><td>독소의 반대 작용 독을 해독제로 활용 가능.</td></tr>
+          <tr><td>③</td><td>오답</td><td>아트로핀 기타 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>아트로핀: 아세틸콜린 작용 방해 → 부교감 신경 흥분 억제 → 일부 독의 해독제.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>기타 선지.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1766,11 +1766,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>아코니틴: 나트륨 이온 통로 계속 열어 → 농도 차이 없어짐.</td></tr>
+          <tr><td>②</td><td>오답</td><td>아코니틴: 나트륨 이온 통로 열어, 테트로도톡신: 통로 차단.</td></tr>
+          <tr><td>③</td><td>오답</td><td>아코니틴·테트로도톡신: 아세틸콜린 수용체와 결합하는 독 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>아코니틴·테트로도톡신: 모두 아세틸콜린 분비 못하게 함.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>아코니틴·테트로도톡신: 모두 활동 전위가 일어나지 못하게 함.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1819,11 +1819,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>카리브도톡신: 아세틸콜린 과잉 분비 → 근육 정보 전달 방해 아님.</td></tr>
+          <tr><td>③</td><td>오답</td><td>스코폴라민: 신경 흥분 억제·근육 이완 vs 카리브도톡신: 신경 과도 흥분·근육 수축.</td></tr>
+          <tr><td>④</td><td>오답</td><td>스코폴라민: 염기성 → 산성 해독제 / 카리브도톡신: 단백질 → 단백질 분해 효소.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>A: 스코폴라민으로 동물에게 안 먹힘(보호) / B: 카리브도톡신으로 곤충 포획(사냥).</td></tr>
         </tbody>
       </table>
     </div>
@@ -1864,11 +1864,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)·(나): 단정적 진술로 주제 의식 드러냄.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나): 도치 방식 사용되지 않음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가): '푸른' 등 시어 반복 / (나): '벽·할머니' 시어 반복하나 열거 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가): '푸른' 색채 이미지 계절 배경 / (나): 색채 이미지 없음.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1906,11 +1906,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>[A]: '기다리던 것이 오지 않는다' — 변화 불가 상황의 권태로운 삶.</td></tr>
+          <tr><td>②</td><td>오답</td><td>[B]: '굽은 등에 푸른 싹이 돋을까' — 현실에 대한 회의적 태도.</td></tr>
+          <tr><td>③</td><td>오답</td><td>[B]: '푸른 싹' 기대하나 '낡은 유리창의 먼지 낀 풍경' — 비관적 인식.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>[C]: '길길이 날뛰는 물줄기처럼' — 과거 반성 아닌 역동적 삶 욕망.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>기타 선지.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1950,11 +1950,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>㉠ '헛되이': 할머니의 행동이 소용없음 + '혼자'와 연결 — 혼자서 해결 불가.</td></tr>
+          <tr><td>②</td><td>오답</td><td>㉡ '튼튼한': 승객들의 견고한 상태 — 할머니의 어려움 심화.</td></tr>
+          <tr><td>③</td><td>오답</td><td>㉢ '조금도': '벽'으로 표현된 승객들의 행동에 변화 없음 강조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>㉣ '더': 할머니에게 고통을 더하는 상황 부각 — 속박 벗어남 부각 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>㉤ '견고한': '벽' 승객이 변화 없이 단단하게 에워쌈 부각.</td></tr>
         </tbody>
       </table>
     </div>
@@ -2007,11 +2007,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>②</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(가): '길길이 날뛰는 물줄기' + '윤기나는 석탄층' 연결 — 화자의 절망적 인식.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나): '작은 할머니'와 높은 '벽' 승객 — 대조로 공감 유발.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>기타 선지.</td></tr>
         </tbody>
       </table>
     </div>
@@ -2053,11 +2053,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>양생: 정 소저 높은 명성 이미 알고 있었음.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>양생: '이번 과거는 주머니 속' — 과거 피하려 하지 않음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>양생: '과거 시험에 자신감' 보임 — 과거 회피 아님.</td></tr>
+          <tr><td>④</td><td>오답</td><td>부인: 정 소저가 젊은 여관 가르침에 동의.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>두련사: 부인이 전 노파 이야기 듣고 양생 불러주기 기대.</td></tr>
         </tbody>
       </table>
     </div>
@@ -2089,11 +2089,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>[A]: '다만 평생~ 보게 하소서' — 원하는 바 직접 드러냄.</td></tr>
+          <tr><td>②</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr><td>④</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>[A]: 원하는 바 직접 드러냄 / [B]: '소저의 가르치심' — 정 소저 불러내도록 유도.</td></tr>
         </tbody>
       </table>
     </div>
@@ -2142,11 +2142,11 @@ summary: "2021년 8월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr><td>①</td><td>오답</td><td>양생이 여사도 복장으로 정 사도 집 들어감 — 속임수로 긴장감 유발.</td></tr>
+          <tr><td>②</td><td>오답</td><td>두련사: '재상가 처자를 어찌 볼 수 있으리오' — 사회적 금기를 넘어서는 행동.</td></tr>
+          <tr><td>③</td><td>오답</td><td>기타 선지.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>양생이 거문고를 천금에도 안 바꾼다 함 — 애정 상대 보고 싶은 욕망 표현 아님.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>양생이 정 소저 만나는 과정 = 욕망 성취 과정 — 다급함·안타까움 감정 변화.</td></tr>
         </tbody>
       </table>
     </div>
