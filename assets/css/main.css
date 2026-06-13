@@ -361,6 +361,11 @@ a.ev-tag.wrong:hover{background:#9a2d22}
 .data-tbl{width:100%;border-collapse:collapse;font-size:13px}
 .data-tbl th,.data-tbl td{border:1px solid var(--paper-line);padding:5px 8px;text-align:center}
 .data-tbl th{background:#fff;font-weight:700}
+.bogi-table{width:100%;border-collapse:collapse;font-size:13px;margin:8px 0}
+.bogi-table th,.bogi-table td{border:1px solid var(--paper-line);padding:6px 9px;text-align:center;vertical-align:middle}
+.bogi-table th{background:#fff;font-weight:700}
+.bogi-table td:nth-child(2){text-align:left}
+.bogi-table td:first-child{font-weight:700;color:var(--ink);white-space:nowrap}
 
 /* 고전시가 본문 2단 (가독성 안정 규칙) */
 .prose-2col{column-count:2;column-gap:44px;column-rule:1px solid rgba(0,0,0,.05);max-width:none}
