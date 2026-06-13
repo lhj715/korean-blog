@@ -176,6 +176,7 @@ a:hover{text-decoration:underline}
 
 /* 기출 근거 표시형 분석 */
 .exam-analysis{display:block}
+.exam-analysis h2{border-left:none!important;background:none!important;font-size:13px!important;font-weight:700!important;color:var(--ink-soft)!important;margin:24px 0 6px!important;padding:0!important;letter-spacing:.04em}
 .exam-overview{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1px;
   background:var(--paper-line);border:1px solid var(--paper-line);border-radius:4px;overflow:hidden;margin:0 0 24px}
 .exam-overview-item{background:var(--paper-warm);padding:15px 18px}
