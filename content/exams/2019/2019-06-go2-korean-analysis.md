@@ -84,11 +84,11 @@ summary: "2019년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>학생의 발표에서 통계 자료를 활용한 부분은 찾을 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>1문단, 2문단, 5문단에서 질문을 하여 청중의 주의를 환기하고 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>1문단에서 악기 연주를 하는 사람이 늘고 있다는 최근의 상황을 언급하며 이런 흐름에 주목하여 배워 볼 만한 악기를 소개한다는 화제 선정의 이유를 제 시하고 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>6문단에서 우쿨렐레로 공부에 지친 심신을 달래 보는 것은 어떨까 하며 제안을 하고 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>1문단에서 발표 순서를 안내하고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -118,11 +118,11 @@ summary: "2019년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>은 우쿨렐레의 유래를 보여 주기 위해 제시한 사 진이다</td></tr>
+          <tr><td>①</td><td>오답</td><td>은 우쿨렐레의 모습을 보여 주기 위해 제시한 사진이므로, 우쿨렐레의 각 부분을 설명 하기 위한 것이라는 설명은 적절하지 않다</td></tr>
+          <tr><td>②</td><td>오답</td><td>은 우쿨렐레의 독특한 연주법을 보여 주기 위 한 우쿨렐레 공연 영상이므로, 다른 현악기의 연주 장면을 함께 제시한다는 설명은 적절하지 않다</td></tr>
+          <tr><td>④</td><td>오답</td><td>은 몸통의 모양에 따른 우쿨렐레의 종류를 보 여 주기 위한 사진이므로, 기타와 특징을 비교하기 위해 두 악기의 사진을 함께 제시했다는 설명은 적 절하지 않다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>은 우쿨렐레를 연주하면서 직접 노래를 하는 영상이므로, 독주와 합주가 이루어지는 모습을 차례 로 제시했다는 설명은 적절하지 않다</td></tr>
         </tbody>
       </table>
     </div>
@@ -167,11 +167,11 @@ summary: "2019년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>청중3의 반응에서 자신의 경험을 적용하여 발표 내 용과 관련한 의문을 제시한 부분은 찾을 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>청중1의 반응에서 몸통 모양에 따라 서도 다양한 우쿨렐레가 있다는 것을 새롭게 알게 되었음을 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>청중2의 반응에서 박자에 약한 개인적인 특성과 관련지어 배우기 쉬운 악기라는 말에 공감할 수 없 다는 반응을 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>청중3의 반응에서 몸통 모양에 따른 우쿨렐레의 종류 중 오리지널 형이 가장 많이 쓰인다는 배경지 식을 활용하여 발표자가 연주 장면에서 오리지널 형 만 보여준 의도를 짐작했음을 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>청중2의 반응에서 자신처럼 박자에 약한 사람에 게 필요한 내용이 없을까 하는 기대가 이루어지지 못한 아쉬움을 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -283,11 +283,11 @@ summary: "2019년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>찬성 측은 대기환경보전법 제8조 2항, 반대 측은 헌법 제23조 1항을 근거로 자신의 주장을 뒷받침하고 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>찬성 측은 국토교통부 보도 자료를, 반 대 측은 환경부 발표를 활용하고 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>찬성 측은 대기 오염이라는 문제 현상의 원인을 자동차 배기가스에 초점을 맞추어 분석하고 있고, 반 대 측은 대기 오염의 원인을 다양하게 분석하고 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>찬반 양측 모두 대기 오염이라는 문제 현상을 시간 의 흐름에 따라 살피지는 않았다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>반대 측에서는 토론 주제가 시행되지 않아야 한다 는 입장을 취하고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -330,11 +330,11 @@ summary: "2019년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>교차질의는 상대방의 주장이나 근거를 약화할 수 있 는 것이어야 한다</td></tr>
+          <tr><td>②</td><td>오답</td><td>친환경 자동차의 동력과 대기 오염의 연관성을 따지는 것은 토론의 주제에 벗어난 것이므 로 적절하지 않다</td></tr>
+          <tr><td>③</td><td>오답</td><td>차량 부제 의무화를 일시적으로 운영한다는 단서 는 제도 자체에 동의하는 입장이므로 반대 측의 교 차질의로 적절하지 않다</td></tr>
+          <tr><td>④</td><td>오답</td><td>친환경 자동차를 차량 부제 의무화 대상에서 제 외하여 얻는 이익을 따지는 것은 제도 자체에 동의 하는 것을 전제로 한 것이므로 반대 측의 교차질의 로 적절하지 않다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>친환경 자동차의 비중이 높아지는 원인을 따지는 것은 토론의 주제에 벗어난 것이므로 적절하지 않다</td></tr>
         </tbody>
       </table>
     </div>
@@ -366,11 +366,11 @@ summary: "2019년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>자가용 승용차의 차량 부제 시행과 관련한 설문 조 사 결과를 반영하지는 않았다</td></tr>
+          <tr><td>①</td><td>오답</td><td>3문단에 헌법 제23조 2항을 추가로 제시하였다</td></tr>
+          <tr><td>③</td><td>오답</td><td>2문단 앞부분에서 자가용 승용차의 배기가스가 대기 오염의 원인이라고 인정한 반대 측의 입장을 반영하였다</td></tr>
+          <tr><td>④</td><td>오답</td><td>2문단에서 찬성 측이 입론에서 사용한 자가용 승 용차의 등록 대수를 반박의 근거로 다시 활용하였다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>2문단 끝부분에서 반대 측에서 주장의 근거로 사 용한 가솔린 기관과 디젤 기관의 유해성에 대한 내 용이 타당하지 않음을 전문가 견해를 바탕으로 언급 하였다</td></tr>
         </tbody>
       </table>
     </div>
@@ -401,11 +401,11 @@ summary: "2019년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>은 앞 문장에 제시된 반대 측 주장의 근거를 반박 하는 것이다</td></tr>
+          <tr><td>①</td><td>오답</td><td>대기 오염은 없앨 수 있는 것이 아니 라 상태를 좋게 해야 하는 것이므로 개선하기로 바 꾸는 것이 적절하다</td></tr>
+          <tr><td>②</td><td>오답</td><td>앞뒤 문장은 역접 관계이므로 하지만으로 바꾸 는 것이 적절하다</td></tr>
+          <tr><td>④</td><td>오답</td><td>전문가들은 견해를 수식하는 관형어이므로 조 사를 의로 고쳐야 한다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>3문단은 차량 부제를 의무화해야 한다라는 주장 을 강조하며 마무리하는 부분이다</td></tr>
         </tbody>
       </table>
     </div>
@@ -494,11 +494,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>디카시 시인의 말을 인용하여, 기존의 문자시와 다른 디카시의 창작 과정의 특성을 설명하고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>디카시 쓰기 대회가 처음으로 개최 되기 때문에 학교 신문에서 디카시를 다루게 되었음 을 언급하고 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>디카시는 디지털 카메라와 시(詩)의 합성어라 고 어원을 밝히면서, 자연이나 사물에서~ 표현한 시라고 개념을 정의하고 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>공광규의 ｢수련잎 초등학생｣이라는 디카시를 바 탕으로, 사진 이미지와 언어 표현을 절묘하게 연결한 다는 디카시의 특성을 설명하고 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>착상부터 초고까지의 과정이 압축적이라는 점을 언급하면서, 기존의 문자시 창작 과정과 디카시 창작 과정의 특성을 비교하고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -564,11 +564,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(나)는 기존의 문자시 공부에 어려움을 겪는 학생들 에게 디카시 공부를 권유하는 선생님의 인터뷰 내용 이다</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가) : 통계 자료를 통해 기존의 문자 시에 비해 디카시의 내용 이해가 더 쉽다는 사실을 구체적인 수치로 보여 주고 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나) : 문학적 장치부터 작가의 생애까지 고려해 야 한다는 점을 언급하여, 기존의 문자시를 공부할 때 어려움을 겪는 이유를 제시하고 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>(다) : 뉴 미디어 시대가 도래하여 매체 환경이 변하였다고 언급하며, 디카시가 등장하게 된 계기를 설명하고 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가), (나) : 디카시의 내용 이해도가 더 높다는 점과 배경지식이 없어도 시를 더 쉽게 이해할 수 있 다는 점을 들어, 디카시가 시 감상에 어려움을 겪는 학생들에게 도움을 줄 수 있음을 부각하고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -605,11 +605,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>디카시 창작이라는 글의 흐름을 고려하고 있으며, 디카시를 창작할 수 있습니다</td></tr>
+          <tr><td>①</td><td>오답</td><td>비유적 표현이 없다</td></tr>
+          <tr><td>②</td><td>오답</td><td>비유적 표현이 없으며, 의문문의 형식도 아니다</td></tr>
+          <tr><td>③</td><td>오답</td><td>글의 흐름을 고려하지 않았고, 디카시 창작을 권 유하지 않았다</td></tr>
+          <tr><td>④</td><td>오답</td><td>글의 흐름을 고려하지 않았고, 비유적 표현이 없 으며, 디카시 창작을 권유하지도 않았다</td></tr>
         </tbody>
       </table>
     </div>
@@ -696,9 +696,9 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>수식 구문에 따른 구조적 중의성은 하나의 수식어 가 둘 이상의 피수식어를 수식할 수 있는 상황에서 발생한다</td></tr>
+          <tr><td>①</td><td>오답</td><td>광고와 유머 등에서 의도적으로 중의 적 표현을 사용하는 경우도 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>차의 경우, 車와 茶의 표기를 병행하여 동음이 의어에 따른 중의성을 해소할 수 있다</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -753,11 +753,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>학생들이 컴퓨터 한 대를 사용한다</td></tr>
+          <tr><td>①</td><td>오답</td><td>다의어인 길을 도로로 바꾸면 중의 성을 해소할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>착한 주희의 동생을 만났다</td></tr>
+          <tr><td>③</td><td>오답</td><td>나는 영호와 민주를 보았다</td></tr>
+          <tr><td>④</td><td>오답</td><td>회원들이 다 오지 않았다</td></tr>
         </tbody>
       </table>
     </div>
@@ -799,11 +799,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>읽느라가 로 발음될 때, 어간의 겹받침 중 ㄹ이 탈락하고(자음군 단순화), ㄱ이 뒤의 ㄴ의 영향을 받아 ㅇ으로 교체된다(비음화)</td></tr>
+          <tr><td>②</td><td>오답</td><td>훑고서가 로 발음될 때, ㄱ 이 ㄲ으로 교체되고(된소리되기), 어간의 겹받침 중 ㅌ이 탈락된다(자음군 단순화)</td></tr>
+          <tr><td>③</td><td>오답</td><td>예삿일이 로 발음될 때, ㄴ이 첨가되 며, 둘째 음절의 받침인 ㅅ이 ㄷ으로 교체되고(음 절의 끝소리 규칙), 첨가된 ㄴ의 영향으로 ㄷ이 ㄴ으로 교체된다(비음화)</td></tr>
+          <tr><td>④</td><td>오답</td><td>알약을이 로 발음될 때, ㄴ이 첨가되 고, 첨가된 ㄴ이 첫째 음절의 받침인 ㄹ의 영향으 로 ㄹ로 교체된다(유음화)</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>앓았다가 로 발음될 때, 어간의 겹받침 중 ㅎ이 탈락하며(자음군 단순화), 둘째 음절의 받 침인 ㅆ이 ㄷ으로 교체되고(음절의 끝소리 규칙), ㄷ의 영향으로, ㄷ이 ㄸ으로 교체된다(된소리되 기)</td></tr>
         </tbody>
       </table>
     </div>
@@ -844,11 +844,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>수꿩, 숫양은 주위 환경에 따라 다른 형태를 가지는 접두사 수-/숫-이 결합하여 만들어진 단어이지만 (), 접두사가 결합하는 단어 꿩과 양이 모두 명 사이므로 둘 이상의 품사에 결합하여 새로운 단어를 만든다는…</td></tr>
+          <tr><td>①</td><td>오답</td><td>군-(접두사) + 기침(명사), 군-(접 두사) + 살(명사)이므로 에 해당한다</td></tr>
+          <tr><td>②</td><td>오답</td><td>빗-(접두사) + 나가다(동사), 빗-(접두사) + 맞 다(동사)이며, 동사는 용언이므로 에 해당한다</td></tr>
+          <tr><td>③</td><td>오답</td><td>헛-(접두사) + 디디다(동사), 헛-(접두사) + 수 고(명사)이므로 에 해당한다</td></tr>
+          <tr><td>④</td><td>오답</td><td>새-(접두사) + 빨갛다(형용사), 샛-(접두사) + 노랗다(형용사)이며, 형용사는 용언이므로 과 에 모두 해당한다</td></tr>
         </tbody>
       </table>
     </div>
@@ -893,11 +893,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>에서 주체인 아을 높이지 않으므로 적절하지 않다</td></tr>
+          <tr><td>①</td><td>오답</td><td>니르샤의 선어말 어미 -샤-를 통해 주체 높임법이 실현된 것은 확인되지만, 주체는 생략되어 드러나지 않는다</td></tr>
+          <tr><td>②</td><td>오답</td><td>묻고의 선어말 어미 --을 통해 객체 높임 법이 실현된 것을 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>오시니고의 선어말 어미 -시-를 통해 주체 높임법이 실현된 것을 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>뫼고의 선어말 어미 --을 통해 객체인 어마님을 높이고 있음을 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -992,9 +992,9 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>1~6문단에서 교류 분석 이론을 이해하기 위한 주요 개념으로 자아상태와 스트로크를 설명하고 있으며, 7문단에서 이 개념들을 활용한 교류 분석 이론의 의 의를 제시하고 있다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -1027,11 +1027,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>6문단에서 긍정적 스트로크가 충분하지 않으면 부정 적 스트로크라도 얻으려고 하며, 어떤 스트로크든 스 트로크를 받지 못하는 것보다는 낫다는 내용을 확인 할 수 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>2문단에서 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>5문단에서 확인할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>2문단에서 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>5문단에서 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1062,8 +1062,8 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>은 언어로 신호를 보낸 것이며, 차가운 말투로를 통해 상대방을 고통스럽게 했으리라 짐작할 수 있다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1098,11 +1098,11 @@ SNS상에 올리면서 몇 글자를 덧붙인다고 생각해 봅시다. 이 �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>상담사의 두 번째 질문은 철호가 부모의 요구에 순 응하는 아이였는지를 묻는 것이므로, 철호의 AC 상 태를 확인하기 위해 과거를 탐색하는 질문으로 볼 수 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td><상황1>을 볼 때 <상황2>의 철호 는, 어린 시절 아버지가 자신을 가르치고 통제하려 했던 행동을 내면화한 것으로 볼 수 있으므로 CP 상 태에서 말을 한 것이라 볼 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td><상황2>의 철호의 자아상태는 CP 상태이지만, 후배의 자아상태는 CP 상태라 볼 수 없다</td></tr>
+          <tr><td>③</td><td>오답</td><td><상황3>에서 상담사는 철호의 현재 문제 상황을 해결하는 과정에서 객관적이고 합리적인 태도를 보 이므로 A 자아상태라고 할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>6문단을 볼 때 철호가 인사하는 행동을 반복한 것은, 아버지로부터 인정을 받기 위해 자신의 행동을 강화한 것으로 볼 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1286,11 +1286,11 @@ M 선생: 공부를 잘해라.
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)는 제복을 제정하고자 하는 사측과 이에 반대하 는 사원들 사이의 갈등이, (나)는 비밀 운동을 조직 하고 동참을 권유하는 민영과 이를 거절하는 현 사 이의 갈등이 주요 사건이다</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가)는 갈등 상황과 무관한 권 씨가 새롭게 등장하지만 갈등 해소의 계기가 마련되고 있 다고 볼 수 없으며, (나)는 새로운 인물이 등장한다 고 볼 수 없다</td></tr>
+          <tr><td>③</td><td>오답</td><td>(나)는 S# 29에서 현의 어린 시절 장면을 통해 현이 소극적인 삶의 태도를 갖게 된 원인을 드러내 고 있으나, (가)에서는 과거 장면을 통한 인물의 성 격 변화를 찾아 볼 수 없다</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가), (나) 모두 공간적 배경의 묘사를 통해 시대 상황을 드러내고 있지 않다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가), (나) 모두 동시에 일어난 사건을 나란히 배 치해 서사 진행을 지연시키고 있지 않다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1327,11 +1327,11 @@ M 선생: 공부를 잘해라.
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>현이 자신들의 힘으로 거대한 것이 달라질 수 없다 고 생각한 것과, 비밀 운동을 조직해 저항하고자 하 는 친구들의 권유를 미안하다며 거절한 것은 의 양상으로 볼 수 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>민도식이 유니폼을 입고 출근하도록 재촉한 것은 회사의 방침에 순응하고자 하는 아내의 자세를 드러낸 것()이고, 남편의 죽음에 대한 부정 적 평가에는 동의할 수 없다는 것은 현 모가 세계에 굴복당하지 않으려는 태도를…</td></tr>
+          <tr><td>②</td><td>오답</td><td>과장의 행동에 민감하게 반응하며 민도식에게 회 사로 복귀할 것을 종용하고 있는 장상태와, 자기 자 신을 보존하기 위해서는 죽어지내야 한다고 생각하 는 고 영감은 모두 세계에 순응하는 자아()로 볼 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>사측의 제복 제정에 반대하는 뜻을 굽히지 않고 퇴사를 감수하겠다고 한 우기환과, 수동적인 자세로 있을 수 없으므로 비밀 운동을 조직해 대응하겠다는 민영은 모두 세계에 굴복당하지 않으려는 자아() 로 볼 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>민도식은 유니폼 안 입는 회사가 수두룩하다고 대거리하며 세계에 굴복당하지 않으려는 자아의 모 습을 보이면서도 결국 체육대회 장소로 출근하여 순 응적인 자아의 모습을 보이고 있으므로 와 가 공존하는 양상이라고 볼 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1371,11 +1371,11 @@ M 선생이 우상이 되어가는 과정은 (나)에 드러나 있
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>M 선생이 우상이 되어가는 과정은 (나)에 드러나 있 지 않으므로 대사로 제시되어 있다고 볼 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>연행되는 M 선생과 현이 마주치는 장면은 <보기>에는 없고 (나)에는 있으므로 장면을 삽입한 것으로 볼 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td><보기>에 서술된 M 선생이 연행된 이유가 (나) 에서는 학생들의 수군거리는 목소리로 처리되어 있 으므로 효과음을 사용해 드러낸 것으로 볼 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>M 선생이 옥중에서 보낸 쪽지와 관련된 내용은 <보기>에는 있고 (나)에는 없으므로 생략한 것으로 볼 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>권유를 받은 현이 당황해하는 모습은 <보기>에 는 없고 (나)에는 지시문으로 드러나 있으므로 추가 한 것으로 볼 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1420,11 +1420,11 @@ M 선생이 우상이 되어가는 과정은 (나)에 드러나 있
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>민도식은 옷이 조직의 일체감 등을 위해 사용되면 옷의 표현 기능을 저해한다고 보았다</td></tr>
+          <tr><td>①</td><td>오답</td><td>,</td></tr>
+          <tr><td>③</td><td>오답</td><td>새로운 기능이냐 기존의 기능이냐가 옷이 날개 또는 수갑이 되는 기준이라고 볼 수 없다</td></tr>
+          <tr><td>④</td><td>오답</td><td>, 조직원의 단결과 조직의 발전은 옷이 조직을 위해 기능한 경우이므로 날개로 볼 수 없다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>보호 기능을 옷의 본질적 기능으로 보고 있으므 로 보호 수단일 때를 수갑이라고 볼 수 없다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1462,7 +1462,7 @@ M 선생이 우상이 되어가는 과정은 (나)에 드러나 있
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>장상태가 제복의 착용 여부는 재단 이후의 문제이므 로 일단 복귀하라고 회유했지만, 선택을 도와 줄 것 을 약속하지는 않았으므로 은 적절하지 않다</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1565,11 +1565,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해밀턴은 이타적 행동이 자연선택 되는 과정에 대 한 다윈의 생각을 보완하기 위해 포괄 적합도 이론 을 마련하였다</td></tr>
+          <tr><td>①</td><td>오답</td><td>해밀턴이 제시한 포괄 적합도는 다 윈의 적합도 개념을 보완하고자 한 것이므로, 이 글 에서는 적합도에 관한 논쟁을 찾을 수 없다</td></tr>
+          <tr><td>②</td><td>오답</td><td>해밀턴 규칙은 이득, 손실, 유전적 근연도의 세 변수를 활용하여 이타적 행위가 자연선택 되는 조건 을 보여 주는 것이다</td></tr>
+          <tr><td>③</td><td>오답</td><td>유전적 근연도는 두 개체가 유전자를 공유할 확 률을 가리키며, 포괄 적합도를 구하는 데 필요한 관 계 계수이다</td></tr>
+          <tr><td>④</td><td>오답</td><td>이 글에서는 마지막 단락에서 포괄 적합도 이론의 의의만 제시하고 있을 뿐, 그 한계를 찾을 수 없다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1603,11 +1603,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>마지막 단락에는 해밀턴 이론의 의의만 제시되어 있 을 뿐, 다른 진화생물학자들의 연구 내용은 구체적으 로 찾을 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>1문단에서 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>6문단에서 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>1문단에서 확인할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>3문단에서 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1642,10 +1642,10 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>이타적 행동은 두 개체 사이의 유전적 근연도가 높 을수록(6문단), 손실 대비 이득이 클수록(5문단) 선 택되기 쉽다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -1688,11 +1688,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>유전적 근연도가 1이라는 것은 두 개체가 유전적으로 100% 동일하다는 의미이다</td></tr>
+          <tr><td>②</td><td>오답</td><td>일벌은 번식을 포기하였으므로 직접 적합도가 0이 된다</td></tr>
+          <tr><td>③</td><td>오답</td><td>일벌은 자신의 번식 성공도는 낮추면서 여왕벌의 번식 성공도를 높이는 데 도움을 주므로 이타적 행 동을 하는 것으로 볼 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>모든 개체는 포괄 적합도를 높이는 방향으로 자 연선택이 일어나므로, 직접 적합도가 0인 일벌은 간 접 적합도를 높이는 방향으로 자연선택이 일어난다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>직접 적합도가 0인 일벌이 친동생을 키우는 것은 자신의 간접 적합도를 높이는 것이므로, 결과적으로 포괄 적합도를 높이는 방향으로 자연선택된 것으로 볼 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1725,11 +1725,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>간접 적합도는 개체가 자신과 유전자를 공유할 확률 이 있는 상대를 통해 다음 세대에 간접적으로 남기 는 자신의 유전자 복제본 수를 의미한다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -1758,11 +1758,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>는 자연이나 인간 따위에서 어떤 현상이 발생하 다의 의미로 사용되었다</td></tr>
+          <tr><td>①</td><td>오답</td><td>은 잠에서 깨어나다,</td></tr>
+          <tr><td>②</td><td>오답</td><td>은 잠에서 깨어나다, 는 위로 솟거 나 부풀어 오르다,</td></tr>
+          <tr><td>④</td><td>오답</td><td>는 위로 솟거 나 부풀어 오르다, 는 소리가 나다,</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>는 소리가 나다, 는 앉았다 가 서다의 의미로 사용되었다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1904,9 +1904,9 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>조은하가 백학선을 통해 뇌성벽력을 일으키고 신장 (神將)을 불러왔다는 비현실적 요소가 개입되어 있 으며(ㄱ), 위수, 아미산, 서울로 이동하는 과정에서 조은하의 행적이 요약적으로 제시되어 있다(ㄹ)</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
@@ -1941,8 +1941,8 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>는 조은하가 자신이 죽었다고 거짓말을 하며 유 백로의 속내를 확인하고자 하는 말이며, 는 유백 로가 자신을 구한 사람이 조은하임을 알고 패전한 자신과 비교하여 높게 평가하는 말이다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1985,11 +1985,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>조은하는 공을 세웠음에도 불구하고 자신의 행동을 외람한 죄로 여기고 있으므로 남성 중심의 사회적 규범을 극복하였다고 볼 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>조은하는 가달과 마대영을 물리쳐 나 라를 위기에서 구하였으므로 영웅적 면모를 보이고 있다고 할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>황상이 조은하를 칭찬하면서 고금에 희한한 일이 로다</td></tr>
+          <tr><td>③</td><td>오답</td><td>조은하의 말 속에서 조은하와 유백로가 백년 기 약을 맺었음을 알 수 있으며, 전장에서 재회했음을 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>조은하가 백학선을 사용하여 전쟁에서 승리하였 고 유백로가 백학선을 통해 정남대원수가 조은하였 다는 사실을 알아차렸다는 점에서, 백학선이 위기 극 복의 수단이자 남녀 주인공의 사랑의 증표로서 서사 적 기능을 한다는 것을 알 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2019,11 +2019,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>목숨을 잃을 위기에서 자신을 구해 준 사람에게 할 말로는 죽어서 백골이 되어도 은혜를 잊을 수 없다 는 백골난망(白骨難忘)이 가장 적절하다</td></tr>
+          <tr><td>②</td><td>오답</td><td>사면초가(四面楚歌) : 아무에게도 도 움을 받지 못하는 외롭고 곤란한 지경에 빠진 형편 을 이르는 말</td></tr>
+          <tr><td>③</td><td>오답</td><td>사면초가(四面楚歌) : 아무에게도 도 움을 받지 못하는 외롭고 곤란한 지경에 빠진 형편 을 이르는 말 어부지리(漁夫之利) : 두 사람이 이해관계로 서로 싸우는 사이에 엉뚱한 사람이 애쓰지 않고 가로챈 이익을 이르는…</td></tr>
+          <tr><td>④</td><td>오답</td><td>어부지리(漁夫之利) : 두 사람이 이해관계로 서로 싸우는 사이에 엉뚱한 사람이 애쓰지 않고 가로챈 이익을 이르는 말 이심전심(以心傳心) : 마음과 마음으로 서로 뜻이 통하는 상태를 이르는 말</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>이심전심(以心傳心) : 마음과 마음으로 서로 뜻이 통하는 상태를 이르는 말 적반하장(賊反荷杖) : 잘못한 사람이 아무 잘못도 없는 사람을 나무람을 이르는 말 문학(현대시) <출전> (가) 이성부, ｢산길에서｣ /…</td></tr>
         </tbody>
       </table>
     </div>
@@ -2105,11 +2105,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)는 길을 만든 이들을 소리치는 바람과 수줍게 오는 들꽃으로 표현하여 이들과의 교감을 드러내고 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가)는 -다, (나)는 -ㅂ니다라는 종결어미가 반복되어 운율감을 높이고 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>(나)는 푸릅니다라는 색채어를 사용하여 하늘 에 대한 인식을 드러내고 있지만, (가)는 색채어가 나타나지 않는다</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가)와 (나)는 모두 공감각적 심상이 나타나지 않는다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나)는 길을 걷고 있다는 점에서 공간의 이동이 드러나지만, (가)는 계절의 변화가 드러나지 않는다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2139,11 +2139,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>에서 화자는 산길을 걸으면서 가슴이 벅차오름을 느끼고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>이 길을 만든 이들이 누구인지를 나 는 안다는 표현에서 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>집을 떠나는 일에 신명을 느낀다는 표현에서 확인할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>사람들이 무엇 하나씩 저마다 다져 놓는다는 표 현에서 사람은 누구나 삶의 자취를 남긴다는 깨달음 을 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>길 따라 오르는 일이 힘들고 어려워도 주저앉 아서는 안 된다는 내용에서 화자의 내적 다짐을 확 인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2179,11 +2179,11 @@ rb > c (단, b>c>0으로 가정함.)
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>5연에서 화자가 눈물짓는 것은 잃어버린 나를 찾 지 못하는 상황에서 느끼는 화자의 절망감을 보여 준다고 볼 수 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>3연의 굳게 닫힌 쇠문은 화자와 잃 어버린 나와의 만남을 가로막고 있으므로 화자가 처 한 부정적 상황을 드러낸다고 볼 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>4연의 길은 아침에서 저녁으로 / 저녁에서 아침 으로 통하고 있으므로 자기 탐색의 과정이 끊임없이 이어진다고 볼 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>5연에서 화자는 하늘을 보며 부끄러움을 느끼 고 있으므로 자기 성찰을 하고 있다고 볼 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>6연의 담 저쪽의 나는 잃어버린 나이므로, 화 자가 길을 걷는 이유는 잃어버린 나를 회복하기 위 해서라고 볼 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2298,11 +2298,11 @@ T년도 금액 = 현재 금액 ÷ 
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>1문단에서 물가지수의 개념이 제시되지만 그것이 변 화하는 양상은 확인되지 않는다</td></tr>
+          <tr><td>①</td><td>오답</td><td>1문단에서 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>2문단에서 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>3, 4문단에서 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>3문단에서 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2336,11 +2336,11 @@ T년도 금액 = 현재 금액 ÷ 
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>3문단에 따르면 시장의 수요 변화가 물가지수에 영 향을 미친다</td></tr>
+          <tr><td>①</td><td>오답</td><td>3문단에 화폐의 구매력이 물가의 움 직임에 따라 변화한다는 것이 제시되어 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>5문단에 명목 가치에 해당하는 현재 금액을 물가 지수 등락률로 나누는 것은 가격 변동 효과를 제거 하여 실질 가치를 구하기 위함임이 제시되어 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>3문단에서 시장의 수요가 증가하면 물가가 상승 한다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>4, 5문단에 의하면, 가격 변동 효과를 제거하기 위해 물가지수 등락률(현재의 물가지수를 과거 T년 도 물가지수로 나눈 값)로 현재의 금액을 나누면 T 년도 금액, 즉 환산된 금액을 산출할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2369,11 +2369,11 @@ T년도 금액 = 현재 금액 ÷ 
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>소비자와 생산자가 물가지수를 이용하는 목적이 다르 기 때문에 조사하는 대상 품목군이 일치할 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>6문단에서 소비자물가지수와 생산자 물가지수의 이용 목적이 다르다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>제시문에서 소비자와 생산자의 입장에 따라 물가 지수의 중요도가 다르게 인식된다는 내용을 확인할 수 없다</td></tr>
+          <tr><td>③</td><td>오답</td><td>소비자물가지수와 생산자물가지수는 이용 목적에 따라 달리 작성되는 것일 뿐 측정 편의를 위한 것이 아니다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>소비자물가지수와 생산자물가지수가 나누어지는 것은 조사 대상 품목이 다르기 때문이지 전반적인 가격 변화를 판단하기 위함이 아니다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2421,11 +2421,11 @@ C
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>단순물가지수는 가격지수의 합을 평균한 것이므로 108이고, 가중물가지수는 가격지수에 가중치를 곱하 여 더한 것이므로 106.4이다</td></tr>
+          <tr><td>①</td><td>오답</td><td>7문단에서 소비자물가지수의 가중치 는 도시가계 소비 지출액이 기준임을 확인할 수 있 다</td></tr>
+          <tr><td>②</td><td>오답</td><td>2문단에서 제시된 단순물가지수 계산법에 따르면 소비자물가지수는 (104+110+110)/3=108이다</td></tr>
+          <tr><td>③</td><td>오답</td><td>2문단에서 단순물가지수는 모든 품목이 전체 물 가에 동일한 영향을 준다고 전제한다는 내용을 확인 할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>2문단에서 가중물가지수는 거래 비중이 큰 품목 의 가격 변동이 물가지수에 더 많이 영향을 미치도 록 계산한 것이라는 내용을 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2463,11 +2463,11 @@ C
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>물가지수는 기준 시점과 비교하여 상품의 가격 변동 을 나타낸 지표로, 가격 자체를 드러내는 것은 아니 다</td></tr>
+          <tr><td>①</td><td>오답</td><td>8문단에서 생산자물가지수의 상승은 시차를 두고 소비자물가지수의 상승으로 이어질 가능 성이 높다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>6문단에서 조사 대상 품목의 가격 변동이 물가지 수에 반영된다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>8문단에서 생산자물가지수에는 원재료, 중간재 등 이 포괄되어 시장 변화의 영향이 곧바로 파급된다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>7문단에서 채소의 예를 통해 동일한 품목이라도 생산자물가지수와 소비자물가지수에서의 가중치가 다 르다는 것을 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2551,11 +2551,11 @@ C
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>(가)는 대화 형식을 활용하여 황새와 뱀에 의해 제비가 괴롭힘을 당하는 현실에 대한 비판적인 인 식을 드러낸다</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가), (나) 모두 반어적인 표현은 사 용하지 않았다</td></tr>
+          <tr><td>③</td><td>오답</td><td>(가), (나) 모두 시간의 흐름과 깨달음에 이르는 과정이 드러나지 않는다</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가), (나) 모두 자연의 아름다움을 드러내지 않 는다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가), (나) 모두 자연물에 화자의 감정을 이입하 지 않는다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2594,11 +2594,11 @@ C
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>그치지 않는 제비의 울음소리로 피지배계층인 백성 의 고통을 표현하였으나, 현실에 굴하지 않는 백성들 의 꿋꿋한 모습은 드러나지 않는다</td></tr>
+          <tr><td>①</td><td>오답</td><td>,</td></tr>
+          <tr><td>②</td><td>오답</td><td>, 당시 지배층의 횡포와 피지배층의 고난과 관련지어 이해하면, 황새와 뱀이 제비를 괴롭히는 내용이 드러나므로 적절하다</td></tr>
+          <tr><td>③</td><td>오답</td><td>집 없는 서러움에서 피지배층의 고난을 삶의 터 전마저 빼앗기는 절박한 상황으로 그리고 있음을 확 인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>작가는 당대의 부정적 현실을 우화적 기법을 통 해 우회적으로 고발하고 있으므로 적절하다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2635,11 +2635,11 @@ C
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>화자가 현실에 대응하지 못하고 체념하는 태도는 맞 지만, 화자를 거위와 오리에 빗대어 표현한 것이 아니므로 적절하지 않다</td></tr>
+          <tr><td>①</td><td>오답</td><td>고추, 당추와 비교하여 시집살이의 고통을 드러내고 있으므로 적절하다</td></tr>
+          <tr><td>②</td><td>오답</td><td>오 리와 십 리를 통해 가사 노동의 과중함을 표현하므로 적절하다</td></tr>
+          <tr><td>③</td><td>오답</td><td>대하기 힘든 존재인 시아버지와 시어머니를 호랑 새와 꾸중새에 빗대어 표현하고 있으므로 적절하 다</td></tr>
+          <tr><td>④</td><td>오답</td><td>배꽃은 이전 자신의 모습, 호박꽃은 현재 자신 의 모습이라고 할 수 있다</td></tr>
         </tbody>
       </table>
     </div>

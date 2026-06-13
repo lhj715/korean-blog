@@ -92,11 +92,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>발표자는 외부 효과라는 경제 용어를 활용하여 교 실 환경이 나빠진 원인과 해결 방향을 제시하고 있 다</td></tr>
+          <tr><td>①</td><td>오답</td><td>2문단에서 긍정적 외부 효과와 부정적 외부 효과라는 용어의 이해를 돕기 위해 예를 들고 있 다</td></tr>
+          <tr><td>②</td><td>오답</td><td>발표 도중에 청중과 공감대를 형성하는 질문을 하 면서 긍정적 호응을 이끌어내고 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>사진을 보여주며 교실 환경이 문제라는 것을 효과 적으로 전하고 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>4문단에서 교실 환경을 개선하기 위해 긍정적 외부 효과가 일어날 수 있도록 해야 한다는 문제 해결 방향 을 제시하여 청중으로 하여금 구체적인 해결 방안을 찾도록 유도하고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -125,8 +125,8 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>은 청중에게 자신의 행동을 돌아보도록 유도하고 있다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
@@ -161,11 +161,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>학생3은 교실 환경을 개선하기 위해 매달 환경 미 화 심사를 하여 교실을 깨끗하게 유지하는 것이 필 요하다는 주장을 하고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>학생1은 벌점을 부과하는 방식으로 개인의 행동에 책임을 묻자는 것으로, 부정적 외부 효과를 발생시키는 사람에게 책임을 묻는 것에 해당 한다</td></tr>
+          <tr><td>②</td><td>오답</td><td>학생2는 교실 환경 개선에 기여한 사람에게 혜 택을 주자는 것으로, 긍정적 외부 효과를 발생시키는 사람에게 보상을 하는 것에 해당한다</td></tr>
+          <tr><td>④</td><td>오답</td><td>학생2와 학생3은 개인에게 책임을 묻기보다 청중이 교실 환경 개선에 동참하여 바람직한 행동을 하도록 유도하는 방안을 제시하고 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>세 학생 모두 교실 환경을 개선하기 위한 방안을 제시하고 있기 때문에, 교실 환경 문제를 해결해야 한다는 점에는 동의하고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -299,11 +299,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>는 동물 실험에 찬성하는 측의 입론이다</td></tr>
+          <tr><td>①</td><td>오답</td><td>에서 찬성1은 동물 실험의 위험 성을 지적하고 있지만 전문가의 견해를 인용하지는 않았다</td></tr>
+          <tr><td>②</td><td>오답</td><td>에서 찬성1은 동물 실험의 안전성에 문제를 제기하고 있지만 자신의 직접 경험을 근거로 제시하 지는 않았다</td></tr>
+          <tr><td>④</td><td>오답</td><td>에서 반대1은 동물 실험에 찬성하고 있지만 설문 조사 결과를 언급하지는 않았다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>에서 반대1은 동물 실험의 필요성을 강조하 고 있지만, 동물 실험에 반대하는 입장에서 제시한 자료의 신뢰성에 의문을 제기하지는 않았다</td></tr>
         </tbody>
       </table>
     </div>
@@ -338,11 +338,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td><보기>의 자료는 인간과 동물이 공유하는 질병이 매우 적고, 동물 실험의 결과와 인간을 대상으로 하 는 임상 실험의 결과가 동일하게 나타날 확률 또한 매우 낮다는 내용이다</td></tr>
+          <tr><td>①</td><td>오답</td><td><보기>의 자료는 동물 실험이 비윤 리적으로 진행되고 있다는 내용과 관련이 없다</td></tr>
+          <tr><td>③</td><td>오답</td><td><보기>의 자료는 인공 세포 배양에 따른 비용 문제와 아무런 관련이 없으므로 동물 실험 찬성 측 의 주장을 반박하기에 적절하지 않다</td></tr>
+          <tr><td>④</td><td>오답</td><td><보기>의 자료는 동물 실험으로 편리한 생활용 품을 만들 수 있다는 내용과 관련이 없으므로 동물 실험에 찬성하는 측에서 주장의 근거로 활용하기에 적절하지 않다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td><보기>의 자료는 동물의 안락사 문제와 관련이 없으므로 동물 실험에 찬성하는 측에서 활용할 수 있는 자료가 아니다</td></tr>
         </tbody>
       </table>
     </div>
@@ -377,11 +377,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(나)의 2문단에는 삼촌이 근무하는 대학의 실험실을 방문한 경험이 드러나 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>독서 토론이 평소 동물 실험에 무관심 했던 자신에게 반성의 기회를 제공해 주었다는 1문단 의 내용에서 독서 토론의 의미를 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>2문단에서 우리나라에서 매년 동물 실험으로 희 생되는 동물의 수, 동물들 중 마취도 하지 않고 실험 대상이 되는 경우가 많다는 점 등을 언급하고 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>3문단에서 동물 보호 단체에 가입한 점, 학교에서 동물 실험의 실상을 보여 주는 자료를 친구들에게 나 누어 준 점, 주말에 동물 실험 반대 캠페인에 참가하 기로 한 점은 동물 보호를 위한 활동으로 볼 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>3문단에서 동물과 인간이 평화롭게 공존하기를 희망하고 있으므로 동물 보호와 관련된 자신의 바람 이 드러나 있음을 알 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -419,11 +419,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>이어질 토론 내용은 세 가지 조건을 모두 반영해야 한다</td></tr>
+          <tr><td>①</td><td>오답</td><td>동물 실험을 옹호하는 입장을 일부 인정 하는 내용이 드러나 있지 않다</td></tr>
+          <tr><td>②</td><td>오답</td><td>비유적 표현이 드러나 있지 않다</td></tr>
+          <tr><td>③</td><td>오답</td><td>비유적 표현이 드러나 있지 않다</td></tr>
+          <tr><td>④</td><td>오답</td><td>동물 실험을 옹호하는 입장을 일부 인정하는 내용 이 드러나 있지 않다</td></tr>
         </tbody>
       </table>
     </div>
@@ -512,11 +512,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>ㄷ. 예상 독자(시청 도로교통 담당자)의 관심을 끌기 위해 통학로가 차도와 인도로 구분되어 있지 않고, 그 길이 불법 주정차된 자동차들로 막혀 있다는 통 학로의 실태를 제시하고 있다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
     </div>
@@ -570,11 +570,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>학부모 인터뷰나 신문 기사의 내용이 안전하지 못한 통학로에 대한 불만을 언급한 것으로 볼 수 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>자녀의 통학 때문에 경제적(승합차를 이용하는 비용)으로나 시간적(출근 시간의 빠듯함) 으로 부담이 된다는 내용이 학부모 인터뷰를 통해 구체적으로 언급되어 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>중․고등학생을 위해 스쿨존을 확대해야 한다는 내 용은 (나)에서 제시한 해결 방안이 아니다</td></tr>
+          <tr><td>③</td><td>오답</td><td>교통안전시설을 설치한 곳의 교통사고 건수가 적 다는 통계 자료는 교통안전시설을 설치해 달라는 제 안의 근거 자료로 삼을 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>신문 기사와 교통 잡지 자료를 통해 스쿨존 확대 나 교통안전시설 설치는 도로교통 부서에서 담당함을 알 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -607,11 +607,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>전체 문장의 주어가 문제는이므로 있습니다</td></tr>
+          <tr><td>①</td><td>오답</td><td>반복은 같은 일을 되풀이함이라는 뜻이므로 앞의 되풀이해서와 의미가 중복된다</td></tr>
+          <tr><td>③</td><td>오답</td><td>민원을 제기하는 주체는 주민들이다</td></tr>
+          <tr><td>④</td><td>오답</td><td>접속 부사 앞뒤의 문장이 인과관계를 이루고 있 으므로 그러면으로 바꾼다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>통학하는 주체가 빠져 있으므로 학생들이를 첨 가한다</td></tr>
         </tbody>
       </table>
     </div>
@@ -677,11 +677,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>중세 국어에서 앞말이 ㅣ모음으로 끝나면 주격 조사 를 따로 표기하지 않았다</td></tr>
+          <tr><td>①</td><td>오답</td><td>현대 국어의 주격 조사 중에는 중세 국어에서 사용하지 않았던 가가 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>고2 2018학년도 6월 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 주격 조사가 붙는 앞말이 ㅣ 모음으로 끝나면…</td></tr>
+          <tr><td>③</td><td>오답</td><td>현대 국어의 목적격 조사 형태는 을/ 를인데 중세 국어의 목적격 조사 형태는 / 을/ / 를이었다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>중세 국어에서 앞말의 모음이 양성 모음일 때 목적 격 조사로 / 을 사용하였고, 앞말이 자음으로 끝 나면 / 을을 사용하였다</td></tr>
         </tbody>
       </table>
     </div>
@@ -719,7 +719,7 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>거붑은 동물이고 ㅜ가 음성 모음이기 때문에 관형 격 조사로 의가 붙는다</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -762,10 +762,10 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>제14항의 ㅅ은 된소리로 발음한다는 규정에 의거하 여 값이는 라고 발음해야 한다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -809,11 +809,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>겹문장은 절과 절이 이어지거나 절이 전체 문장의 한 성분으로 안기면서 이루어진다</td></tr>
+          <tr><td>①</td><td>오답</td><td>은 에 대하여 조건의 의미를 갖는 다</td></tr>
+          <tr><td>②</td><td>오답</td><td>은 관형절로 마을을 꾸며 주는 역할을 한다</td></tr>
+          <tr><td>③</td><td>오답</td><td>은 명사절로 전체 문장의 목적어 역할을 한다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가)~(다)는 모두 주어+서술어의 관계가 문장 속에 두 번씩 나타나고 있는 겹문장이다</td></tr>
         </tbody>
       </table>
     </div>
@@ -854,10 +854,10 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>④는 받치다2의 뜻 중 비나 햇빛과 같은 것이 통하 지 못하도록 우산이나 양산을 펴 들다의 예이다</td></tr>
           <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -961,11 +961,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>이 글은 유형거의 각 구조가 무거운 돌을 쉽게 싣고, 보조 동력을 발생시키며, 수레가 받는 충격을 완화하 는 데 기여하고 있다는 내용을 담고 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>유형거의 특정 부재인 복토만으로는 유형거의 전체 기능을 설명할 수 없다</td></tr>
+          <tr><td>③</td><td>오답</td><td>작동 원리를 설명하고 있지만 실제 운용한 사람의 경험이 담겨 있지는 않다</td></tr>
+          <tr><td>④</td><td>오답</td><td>수레 발달의 역사를 설명하는 내용은 없다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>유형거의 변화 과정에 대한 언급은 없다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1001,10 +1001,10 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>한표는 미끄러지는 돌을 멈추기 위한 장치일 뿐 힘 점에 가해지는 힘을 늘리는 것과는 무관하다</td></tr>
+          <tr><td>②</td><td>오답</td><td>,</td></tr>
+          <tr><td>③</td><td>오답</td><td>, 받침점(바퀴 축)과 힘점(손잡이) 간 거리가 멀수록, 받침점과 작용점(여두) 간 거리가 가까울수록 작용점에 더 큰 힘이 작용한다</td></tr>
+          <tr><td>④</td><td>오답</td><td>여두를 소 혀의 형태로 만듦으로써 작용점에서 돌에 효과적으로 힘이 전달되도록 하였다</td></tr>
           <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
         </tbody>
       </table>
@@ -1039,11 +1039,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>유형거가 움직이는 동안 차상에 실린 돌의 움직임으 로 인하여 수레의 무게 중심은 계속해서 변한다</td></tr>
+          <tr><td>①</td><td>오답</td><td>,</td></tr>
+          <tr><td>②</td><td>오답</td><td>, 손잡이를 올리면 돌이 여두 쪽으로 미끄러지며 추진력을 만들어내고, 손잡이를 내리면 돌 이 한표 쪽으로 미끄러지며 수레 진행 역방향으로 힘 이 더해진다</td></tr>
+          <tr><td>④</td><td>오답</td><td>차상에서 돌이 미끄러지는 것은 손잡이를 오르내리 는 과정에서 정지 마찰력을 극복하였기 때문이다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>, 과정을 반복할 때마다 추진력과 수레가 나아감을 방해하는 힘이 꾸준히 발생한다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1083,7 +1083,7 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>4문단에 따르면 오르막인 언덕길에서는 보조 동력을 얻기 위해 손잡이를 올려야 하고, 오른쪽으로 돌 때 는 오른쪽 손잡이가 올라가므로 해당 손잡이를 눌러 야 한다</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1120,11 +1120,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>의 운용(運用)은 물건·제도 따위를 적절하게 사 용함이라는 뜻이므로 ③의 사례와 의미가 동일하다</td></tr>
+          <tr><td>①</td><td>오답</td><td>의 공사(工事)는 토목·건축 등에 관한 일이라는 뜻이고, 사례는 국가를 대표하여 파 견되는 외교 사절이라는 뜻이다</td></tr>
+          <tr><td>②</td><td>오답</td><td>의 기능(機能)은 하는 구실이나 작용이라는 뜻 이고, 사례는 기술적인 능력이나 재능이라는 뜻이다</td></tr>
+          <tr><td>④</td><td>오답</td><td>의 입장(立場)은 당면(當面)하고 있는 상황이 나 처지라는 뜻이고, 사례는 극장 등의 장내로 들어 감이라는 뜻이다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>의 조작(操作)은 기계나 장치 따위를 다루어 움직임이라는 뜻이고, 사례는 어떤 일을 사실인 듯 이 꾸며 만듦이라는 뜻이다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1276,11 +1276,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>이 글의 사건은 크게 조선을 염탐하던 호국 장졸들 과 임경업이 대결하는 부분(), 임경업과의 대결에 서 패배한 호국의 왕과 장수들이 한양을 급습할 계 교를 꾸미는 부분(), 남한산성으로 피신한 왕과 신 하들이…</td></tr>
+          <tr><td>①</td><td>오답</td><td>임경업이 호국 장졸들을 붙잡아 호통 을 친 이유는 그들이 조선을 염탐했기 때문이다</td></tr>
+          <tr><td>②</td><td>오답</td><td>임경업은 호국의 정예 병사 7천을 무찌른 사실을 임금에게 보고한 뒤 호국의 재침략을 염려하였으나 조정의 신하들은 전혀 그런 염려를 하지 않았다</td></tr>
+          <tr><td>③</td><td>오답</td><td>호국의 왕과 장수들은 의주에서도 알지 못할 것이 니라고 하여 임경업과의 직접적인 대결을 피하고 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>임경업이 올 때까지 저항해야 한다는 신하의 말에 임금은 길이 막혀 사람을 보낼 수 없으니 경업이 어 찌 이 사정을 알겠는가?라고 하며 아무리 생각해도 항복하는 수밖에 다른 묘책이 없다고 판단하고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1316,11 +1316,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>는 임경업이 조선을 염탐하는 호국 병사들을 붙 잡아 꾸짖는 부분으로, 과거의 은혜를 저버린 호국의 행동을 나무라며 침략 의지를 버릴 것을 경고하고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>는 강력하게 경고하고 있을 뿐 상 대방의 불리한 상황을 지적하거나 회유하고 있다고 보기 어렵다</td></tr>
+          <tr><td>②</td><td>오답</td><td>는 성 안의 상황이 불리함을 지적하고 있으므 로 속마음을 감추고 사실을 확인하려는 의도가 있다 고 보기 어렵다</td></tr>
+          <tr><td>③</td><td>오답</td><td>에서 상대방 행동을 과대평가하지는 않았다</td></tr>
+          <tr><td>④</td><td>오답</td><td>와 는 모두 요구하는 바를 직접적으로 드 러내고 있으므로 상대방을 시험하고자 하는 것으로 보기 어렵다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1350,11 +1350,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>호국 군대에 의해 포위되어 양식마저 다 떨어진 남한 산성 내부의 상황은 적진에 싸여 외롭고 곤란한 형편 을 의미하는 사면초가(四面楚歌)로 드러낼 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>수구초심(首丘初心) : 고향을 그리워하 는 마음</td></tr>
+          <tr><td>③</td><td>오답</td><td>오월동주(吳越同舟) : 서로 적의를 품은 사람들이 한 자리에 있게 된 경우나 서로 협력하여야 하는 상황</td></tr>
+          <tr><td>④</td><td>오답</td><td>이심전심(以心傳心) : 마음과 마음으로 서로 뜻이 통함</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>호가호위(狐假虎威) :남의 권세를 빌려 위세를 부림</td></tr>
         </tbody>
       </table>
     </div>
@@ -1396,11 +1396,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>이 작품에서 임경업의 능력이 호국과 조선에서 상반 된 평가를 받는다고 볼 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td><보기>에서 ｢임경업전｣은 임경업의 생애를 바탕으로 한 것임을 밝히고 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td><보기>에서 이 작품이 청나라에 대한 우리 민족 의 자부심을 드러내고자 하였음을 밝히고 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td><보기>에서 임경업이 자신의 능력을 발휘하지 못한 좌절된 영웅임을 밝히고 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td><보기>에서 김자점이 강력한 실권자였다는 것과 지배 계층에 대한 분노가 작품에 드러나 있음을 밝 히고 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1507,7 +1507,7 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(나)는 노동자인 화자가 자신의 비애감을 드러내고 있고, (다)는 실직한 아버지의 모습을 화자가 관찰자 적 태도로 묘사하고 있다</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -1549,11 +1549,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(가)에 의하면 시 속의 인물이 처한 상황을 파악하 고 상황에 대한 인물의 인식과 대응에 주목하며 시 를 감상해야 한다</td></tr>
+          <tr><td>①</td><td>오답</td><td>화자는 슬픔을 퍼다 버린다고 하였 으므로 자신의 고뇌를 덜어내고자 하는 마음이 있는 것으로 볼 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>강을 보며 쭈그려 앉아 담배나 피우는 행위만 을 하고 돌아갈 뿐이므로 현실에 대한 소극적인 대 응 태도를 엿볼 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>화자가 처한 상황을 드러내는 샛강의 물이 썩 어 있으므로 화자의 상황이 부정적이라고 볼 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>화자가 돌아가야 할 곳을 먹을 것 없는 사람들의 마을로 표현하였으므로 화자와 같은 처지에 놓인 사 람들이 적지 않다는 의미로 해석할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1585,11 +1585,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>(나)는 화자 자신을 흐르는 물에, (다)는 화자가 관 찰한 인물인 사내(아버지)를 못 위에서 꾸벅거리는 제비에 빗대어 드러내고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>(나), (다) 모두 접속어로 시상을 전 환하여 시적 의미를 확대하고 있지 않다</td></tr>
+          <tr><td>②</td><td>오답</td><td>(나), (다) 모두 반어적 표현을 사용하고 있지 않다</td></tr>
+          <tr><td>④</td><td>오답</td><td>(다)에 두 개의 장면이 병치되어 있으나 대조적이지 않으며, (나)에서도 대조적인 장면을 찾을 수 없다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(나), (다) 모두 공간의 이동에 따라 시상을 전개하고 있지 않으며 인물의 상황 변화를 다루고 있지도 않다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1621,11 +1621,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>달빛은 아내를 마중 나간 사내가 제자리에 선 채 바라보는 대상이다</td></tr>
+          <tr><td>①</td><td>오답</td><td>늦은 시간 귀가하는 엄마를 기다리는 아이들, 그리고 실직한 가장은 이미 어려움을 겪고 있는 인물들이다</td></tr>
+          <tr><td>③</td><td>오답</td><td>실업의 호주머니에 있는 호두알은 때 묻었으 므로 오래되었고, 쉽게 깨어지지 않으므로 쉽사리 해결되지 않는 아버지의 실업 상태를 나타낸다고 볼 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>좁은 골목은 너무도 작은 제비집처럼 다 같이 손잡고 걸을 수 없을 만큼 좁은 공간이므로, 가족의 힘든 상황을 형상화한 것으로 볼 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>그림자에는 오랜 실업 상태로 가장으로서의 책 임을 다 하지 못한 아버지가 좁은 골목에서 가족을 앞세우고 자신은 늘 한 걸음 늦게 따라가는 모습이 담겨 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1729,11 +1729,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>감정조절이 필요한 상황에 대한 언급은 있으나 감정 조절이 불가능한 상황은 글의 내용을 통해 확인할 수 없다</td></tr>
+          <tr><td>②</td><td>오답</td><td>1, 3문단에서 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>4문단에서 확인할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>3문단에서 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>6문단에서 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1764,11 +1764,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>에서는 감정노동 종사자들의 감정에 영향을 미치 는 요인들을 개인, 직무, 조직이라는 항목으로 나누 고, 각 항목의 대표 요인과 작용 양상을 설명하여 그 특성을 밝히고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>대상의 의의나 그 이유는 언급하지 않았다</td></tr>
+          <tr><td>②</td><td>오답</td><td>대상의 변화 과정이나 전망은 언급하지 않았다</td></tr>
+          <tr><td>④</td><td>오답</td><td>대상의 구성 요소는 드러났으나, 그 장단점에 대 한 분석은 언급하지 않았다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>대상 간의 공통점과 차이점을 언급하지 않았다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1805,11 +1805,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>주의를 분산시키는 감정조절 전략은 회피․분산 전략 에 해당한다</td></tr>
+          <tr><td>①</td><td>오답</td><td>6문단에서 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>,</td></tr>
+          <tr><td>④</td><td>오답</td><td>5문단, 6문단에서 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>, 2문단에서 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1845,11 +1845,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>표면 행위는 실제로 느끼지 않는 감정을 조직의 감 정 표현 규칙에 맞추어 표현하는 것이므로, 솔직한 내면의 감정은 숨기고 조직이 요구하는 감정을 표현 한다</td></tr>
+          <tr><td>①</td><td>오답</td><td>표면 행위는 조직이 요구하는 감정만 드러날 뿐 내면의 감정이 무엇인지 드러나지 않는다</td></tr>
+          <tr><td>③</td><td>오답</td><td>조직이 요구하는 감정에 맞추어 내면의 감정을 위장하는 것은 표면 행위이다</td></tr>
+          <tr><td>④</td><td>오답</td><td>내면 행위는 조직이 요구하는 감정과 외적으로 표현된 감정이 일치한다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>내면 행위는 외적으로 표현된 감정에 맞게 조직 이 요구하는 감정을 바꾸는 일과는 무관하다</td></tr>
         </tbody>
       </table>
     </div>
@@ -1897,11 +1897,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>에서는 오늘 친구랑 영화를 보러 갈까와 같이 좋 은 일을 떠올리며 부정적 감정을 해소하고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>손님들의 나이나 성향이 다양하다는 것은 상대해야 할 고객의 유형이 다양하다는 것이다</td></tr>
+          <tr><td>②</td><td>오답</td><td>지배인부터 동료 직원들까지 자신을 존중하고 지 원해 주는 분위기가 있다는 것은 사회적 지원이 풍 부하다는 것이다</td></tr>
+          <tr><td>③</td><td>오답</td><td>영희는 짜증을 느끼는 것이 자신 때문인지 손님 때문인지를 생각해 봄으로써 자신이 왜 이러한 기분 을 느끼게 되었는지 이해하려고 노력하고 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>슬픈 일이 있어 기분이 좋지 않은데도 밝은 표정 을 보여야 하므로 감정 부조화 상태이다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2039,11 +2039,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>두 인물 간의 대화와 큰 키의 사내의 내적 독백이 교 차되는 과정에서 억구를 체포할지 고민하는 큰 키의 사내의 심리적 갈등이 드러나고 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>있었다, 밤이었다 등을 보면 현재 시제를 활용하고 있지 않다</td></tr>
+          <tr><td>②</td><td>오답</td><td>억구와 큰 키의 사내가 눈길을 걷는 장면이 이어 지고 있어서 빈번한 장면 전환은 이루어지지 않는다</td></tr>
+          <tr><td>④</td><td>오답</td><td>3인칭 전지적 작가 시점이 유지되고 있으므로 서 술의 시점이 달라지지 않는다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>억구와 큰 키의 사내가 눈길을 동행하는 과정에 서 억구의 과거 이야기가 드러나지만, 두 사건은 동 시에 일어난 사건이 아니며, 대비되고 있지도 않다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2091,11 +2091,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td><보기>는 큰 키의 사내가 학창 시절, 어미 토끼를 잃은 채 죽음을 앞두고 있던 새끼 토끼를 구하려고 했던 이야기이다</td></tr>
+          <tr><td>①</td><td>오답</td><td><보기>와 를 통해 큰 키의 사내 는 새끼 토끼를 구하고 싶어했다는 것을 알 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>큰 키의 사내는 과거 새끼 토끼를 구하지 못한 것을 후회하고 있으므로, 과거 경험을 부정한다고 볼 수 없다</td></tr>
+          <tr><td>④</td><td>오답</td><td>아버지를 잃고 죽음을 앞둔 억구의 처지는 어미 토끼보다는 새끼 토끼와 더 유사하다고 볼 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>어미 토끼에 대한 기억을 지우지 못해 후회하는 내용은 찾을 수 없다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2126,11 +2126,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>②</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>그 술집에서 난 놈에게 이주걱댔죠.라는 말과 억구 가 득칠을 그날 밤 죽였다는 말에서, 이 억구가 득 칠에게 진심으로 고마움을 표현한 말이라고 보기는 어렵다</td></tr>
+          <tr><td>①</td><td>오답</td><td>재빨리 몇 걸음 물러나 오른쪽 주머 니에 손을 넣어 무언가를 꺼내려는 행동을 통해 큰 키의 사내가 억구를 경계하고 있음을 알 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>이제는 가친을 혼자 버려두고 달아나지 않겠다는 억구의 말을 통해 이전과는 달리 아버지 곁을 떠나 지 않으려 하고 있음을 짐작할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>억구는 아버지의 산소를 찾아가 술을 한잔 올리 고 그 옆에 누워 다시는 아버지를 버려두고 달아나 지 않을 것이라는 말을 한다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>아버지의 산소를 향해 가려는 억구를 불러 세워 놓고 새끼 토끼를 떠올리던 큰 키의 사내는 억구에 게 수갑 대신 담배를 내밀고는 돌아선다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2170,11 +2170,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>큰 키의 사내는 억구에게서 전쟁이 남긴 깊은 상처를 보게 된다</td></tr>
+          <tr><td>①</td><td>오답</td><td>억구와 큰 키의 사내가 와야리로 가 는 동일한 여정을 지닌 것은 맞지만, 전쟁의 상흔으 로 고향을 떠났다가 돌아오는 사람은 억구이지 큰 키의 사내는 아니다</td></tr>
+          <tr><td>②</td><td>오답</td><td>억구가 큰 키의 사내에게 구장 집을 알려주면서 몸을 녹이라고 말하는 것은 큰 키의 사내에 대한 배 려에서 나온 말이다</td></tr>
+          <tr><td>③</td><td>오답</td><td>억구가 큰 키의 사내에게 인간적인 연민을 느끼 는 부분은 찾아볼 수가 없다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>어깨를 움츠린 채 을씨년스럽고 초라하게 걸어가 는 억구의 모습에서 연민의 시선을 읽을 수 있지만, 전쟁의 상처를 극복하려는 의지를 찾아볼 수는 없다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2281,11 +2281,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>2문단에서 1주간의 정해진 근로 시간이 15시간 미만 일 경우에는 퇴직금, 유급 주휴일, 연차 휴가 규정이 적용되지 않는다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>1문단에서 단시간 근로자인 아르바이 트가 근로자임에도 법적인 보호에서 벗어나 있는 경 우가 많다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>2문단에서 근로 계약이란 근로 조건에 대해 근로 자와 사업주가 약속하는 것이라는 내용을 확인할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>5문단에서 아르바이트로 일하는 경우에도 해고 관련 내용이 동일하게 적용된다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>6문단에서 사업주 또는 관리자가 폭언이나 지나 친 성적 농담을 근로자에게 하는 경우 위법이라는 내용을 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2321,11 +2321,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>③</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>6문단에서 아르바이트를 하다가 사업주에게 체벌을 받았을 경우 위법이므로 고용노동부나 경찰서 등 관 련 기관에 신고할 수 있다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>①</td><td>오답</td><td>2문단에서 사업주가 근로 계약서 작성 을 거부할 경우에 대한 내용을 확인할 수 있지만 어디 에 신고해야 하는지에 대해서는 언급되어 있지 않다</td></tr>
+          <tr><td>②</td><td>오답</td><td>5문단에서 사업주가 정당한 이유 없이 근로자를 해 고할 수 없다는 내용은 확인할 수 있지만, 해고할 수 있는 정당한 이유는 확인할 수 없다</td></tr>
+          <tr><td>④</td><td>오답</td><td>3문단에서 수습 기간에도 최저임금 전액을 받을 수 있는 단순노무직에 대한 내용을 확인할 수 있지 만, 단순노무직에 해당하는 일이 어떤 것인지에 대한 구체적인 내용은 확인할 수 없다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>4문단에서 임금을 받지 못했을 경우 독촉장을 발 송하거나 고용노동부에 진정서를 제출하여 문제를 해결할 수 있다는 내용은 확인할 수 있지만, 그 외의 방법에 대한 내용은 확인할 수 없다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2386,11 +2386,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>2문단에 의하면, 근로 계약은 사업주와 근로자 본인 이 해야 하므로 다른 사람이 대신할 수는 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>2문단에서 1일 근로 시간이 4시간인 경우에는 30분 이상 쉬는 시간이 주어져야 한다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>2문단에서 1주간의 정해진 근로 일수대로 일한 근로자에 대해서는 1일의 유급 주휴일을 보장받을 수 있다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>3문단에서 모든 근로자는 최저임금법에 규정된 최저임금 이상의 임금을 받을 권리가 있다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>④</td><td>오답</td><td>3문단에서 만 18세 미만의 연소 근로자는 보호자 의 동의를 얻어 일을 한다는 내용을 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2427,11 +2427,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>2문단에서 휴일에 근무할 경우 4인 이하의 사업장을 제외하고는 임금의 50%를 가산하여 받을 수 있다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>5문단에서 2개월 이내의 기간을 정하 여 근무하는 경우는 해고 수당을 청구할 수 없다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>,</td></tr>
+          <tr><td>④</td><td>오답</td><td>4문단에서 일을 하기 위해 출근하였으나 갑자기 일이 없어 집으로 되돌아가야 하는 경우, 그 이유가 사업주에게 있다면 4인 이하의 사업장을 제외하고는 휴업 수당을 받아야 한다는 내용을 확인할 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>, 6문단에서 일하다 다쳤을 경우 사업주가 보험 에 가입하지 않았거나 근로자 본인의 과실을 이유로 치료비 지급을 거부하더라도 근로복지공단에서 치료 및 보상을 받을 수 있다는 내용을 확인할 수 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2469,7 +2469,7 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr class="correct"><td>①</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>명시(明示)의 사전적 의미는 분명하게 드러내 보임이다</td></tr>
           <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
           <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
@@ -2574,11 +2574,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>④</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>(가)는 봄(이화우)부터 가을(추풍낙엽)까지, (나)는 봄 (동풍)부터 여름(녹음)까지, (다)는 난초를 선물 받은 3년 전부터 지난해 여름까지라는 시간의 흐름을 바탕 으로 (가)와 (나)는 헤어진 임, (다)는…</td></tr>
+          <tr><td>①</td><td>오답</td><td>(가), (나), (다) 모두 공감각적 표현 이 사용되지 않았다</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가), (나), (다) 모두 대상에 감정을 이입한 부 분을 확인할 수 없다</td></tr>
+          <tr><td>③</td><td>오답</td><td>(가), (나), (다) 모두 현재와 과거가 대비되어 있다고는 볼 수 있지만, 미래에 대한 전망을 드러내 고 있지는 않다</td></tr>
+          <tr><td>④</td><td>오답</td><td>(나)는 설의적 표현(누가 찾아갈까)을 통해 화 자의 안타까움을 표현하고 있지만, (가)와 (다)에는 설의적 표현이 사용되지 않았다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2617,11 +2617,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>(가)의 이화우는 가슴 시린 이별 당시의 상황을 묘 사하는, (나)의 산과 구름은 화자와 임 사이를 가 로막는 장애물을 의미하는 소재이므로, 임에 대한 변 함없는 화자의 사랑을 반영한 자연물로 볼 수 없다</td></tr>
+          <tr><td>①</td><td>오답</td><td>,</td></tr>
+          <tr><td>②</td><td>오답</td><td>, (가)는 여성 작자인 계랑이 자신 이 실제 겪었던 경험을 바탕으로 한 작품이고, (나) 는 사대부인 정철이 임금을 생각하며 자신을 여인에 빗대어 표현한 작품이다</td></tr>
+          <tr><td>③</td><td>오답</td><td>(가), (나)는 천 리라는 시어를 통해 헤어진 임 과의 심리적 거리감을 표현하고 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가)는 임이 자신을 그리워하고 있는지, (나)는 자신이 보낸 옷을 받고 임이 반길지를 궁금해 하며 임을 그리워하는 화자의 모습이 드러나 있다</td></tr>
         </tbody>
       </table>
     </div>
@@ -2652,11 +2652,11 @@ summary: "2018년 6월 고2 전국연합학력평가 국어 기출 분석 — �
       <table class="jt">
         <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
         <tbody>
-          <tr><td>①</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>②</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr><td>③</td><td>오답</td><td>해설 참조.</td></tr>
-          <tr class="correct"><td>④</td><td class="ok">정답</td><td>해설 참조.</td></tr>
-          <tr><td>⑤</td><td>오답</td><td>해설 참조.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>화자(법정 스님)는 뜨거운 햇볕을 보고 허둥지둥 돌아왔던 자신의 경험을 통해 집착이 괴로움이라는 것을 스스로 깨달았다</td></tr>
+          <tr><td>①</td><td>오답</td><td>쓸쓸한 휘장과 텅 비어 있는 장 막을 통해 화자의 외로움을 느낄 수 있다</td></tr>
+          <tr><td>②</td><td>오답</td><td>원앙이 그려진 비단을 베어 오색실을 풀고 금 으로 만든 자로 재단하는 모습에서 임을 향한 화자 의 지극한 사랑과 정성을 느낄 수 있다</td></tr>
+          <tr><td>③</td><td>오답</td><td>그 애들이라는 표현을 통해 난초에 대한 화자 의 친근감을 느낄 수 있다</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>화자는 난초를 키운 경험을 통해 집착이 괴로 움이라는 깨달음을 얻었다</td></tr>
         </tbody>
       </table>
     </div>
