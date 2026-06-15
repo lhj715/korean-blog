@@ -58,6 +58,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q1-4">④ [D] : 진행자는 대담의 화제를 전환하고, 연구가는 문헌에서 인용한 속담의 의미를 설명한다.<a class="src-tag" href="#ev-q1-4a">지문 근거</a></li>
     <li id="q1-5">⑤ [E] : 진행자는 연구가의 말에 의문을 제기하고, 연구가는 자신의 경험에 비추어 궁금한 점을 묻는다.<a class="src-tag ans" href="#ev-q1-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [E]에서 진행자와 연구가 각각이 한 말의 방식을 정확히 파악한다.</p>
+        <p>[E]에서 진행자는 속담의 의미를 추론하여 말하는 것이지 '의문을 제기'하는 것이 아니며, 연구가는 [E]에서 발언하지 않는다. ⑤가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>[A] 진행자가 대담 의의·화제 소개.</td></tr>
+          <tr><td>②</td><td>적절</td><td>[B] 진행자가 청취자 위해 질문, 연구가가 개념 설명.</td></tr>
+          <tr><td>③</td><td>적절</td><td>[C] 진행자 재확인, 연구가가 잘못된 통념(양력 아닌 음력)을 바로잡음.</td></tr>
+          <tr><td>④</td><td>적절</td><td>[D] 진행자 화제 전환, 연구가가 속담사전 인용·의미 설명.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>[E] 진행자는 속담 의미 풀이, 의문 제기 아님. 연구가는 [E]에 발언 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob2">
@@ -76,6 +96,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q2-4">④ ⓓ<a class="src-tag ans" href="#ev-q2-4">정답 근거</a></li>
     <li id="q2-5">⑤ ⓔ</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠(선조들이 구체 사례로 교훈·공동체 가치를 담음)을 근거로 [가]에 들어갈 내용을 추론한다.</p>
+        <p>'새 각시', '행인'처럼 모심기와 관련이 적은 사람도 소서 무렵 일하는 사례 → 제때 모 심기의 중요성(교훈) + 협동의 가치(공동체 가치) 전달. ㉠의 내용과 정확히 부합하는 ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>일상 널리 알리려는 의도는 ㉠에 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'비유적으로'는 ㉠에 없고, 소서에 맞춰 모 심기가 중요하다는 교훈도 제한적.</td></tr>
+          <tr><td>③</td><td>오답</td><td>새 각시·행인을 '전문 일꾼'으로 보는 것은 오독.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>구체 생활상으로 교훈·공동체 가치 전달 → ㉠과 부합.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'모 심는 때 놓친 풍자'는 지문에 없는 해석.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set2" class="set-anchor"></div>
@@ -102,6 +142,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q3-4">④ '반대 1'은 부정적인 파급 효과를 거론하여 상대를 반박하였다.<a class="src-tag" href="#ev-q3-4">지문 근거</a></li>
     <li id="q3-5">⑤ '반대 1'은 상대방 발언의 일부를 수용한 다음 자신의 주장을 펼쳤다.<a class="src-tag" href="#ev-q3-5">지문 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 찬성1·반대1 입론에서 각각 한 것과 하지 않은 것을 구분한다.</p>
+        <p>찬성1 입론은 주장 후 상대 반론을 수용하거나 요약하는 마무리 없이 끝난다. '사례를 들어 주장 + 요약 마무리'는 없으므로 ②가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>찬성1이 변호사 ○○○ 씨 발언 인용.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>찬성1 입론에 요약하며 마무리하는 부분 없음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>찬성1이 73.3%·□□신문사 출처 제시.</td></tr>
+          <tr><td>④</td><td>적절</td><td>반대1이 출산 영향(부정적 파급효과) 언급.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>반대1이 '저희도 방해하는 아이 행동은 잘못'이라며 상대 일부 수용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob4">
@@ -145,6 +205,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q4-4">④ ⓓ: 인력과 예산 문제를 따져 해결 방안의 실현 가능성을 언급한 부분은 찾을 수 없군.</li>
     <li id="q4-5">⑤ ⓔ: 외국에서 실시한 여러 방안들과 비교하여 해결 가능성이 가장 높은 대안을 제시하였군.<a class="src-tag ans" href="#ev-q4-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기 분석표의 각 칸(ⓐ~ⓔ)이 실제 입론 내용과 일치하는지 점검한다.</p>
+        <p>반대1은 '북미 대형 프랜차이즈'라는 하나의 사례만 제시했을 뿐 여러 방안과 비교하지 않았고, '가장 높은 대안'이라고 평가하지도 않았다. ⑤ 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>찬성1이 공정거래법 검토로 법적 실현 문제 없음을 제시(ⓐ).</td></tr>
+          <tr><td>②</td><td>적절</td><td>어린아이 둔 부모도 찬성한다는 설문 결과로 공감대 확인(ⓑ).</td></tr>
+          <tr><td>③</td><td>적절</td><td>반대2가 인권 인식 성장을 들어 실현 가능성 낮다고 지적(ⓒ).</td></tr>
+          <tr><td>④</td><td>적절</td><td>인력·예산 관련 발언 없으므로 찾을 수 없음(ⓓ).</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>북미 한 가지 사례만 제시, 여러 방안과의 비교나 '가장 높은 대안' 판단 없음(ⓔ).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob5">
@@ -162,6 +242,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q5-4">④ ㄴ, ㄹ</li>
     <li id="q5-5">⑤ ㄷ, ㄹ</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 찬성2가 반대1 입론 후 제기할 수 있는 교차 질문인지 판단한다.</p>
+        <p>ㄱ: 반대1의 '공간 분리' 대안이 소규모 매장에서 불가능하다는 약점 공격 → 적절. ㄷ: '몰지각한 부모는 일부'라는 표현으로 피해를 사소하게 봤냐는 문제 제기 → 적절. ①ㄱ,ㄴ에서 ㄴ은 이미 입론에서 근거를 밝혔으므로 교차질문으로 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>ㄴ: 반대1이 입론에서 이미 근거(인권 인식 성장) 제시, 재질문 부적절.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">정답</td><td>ㄱ: 공간 분리 실현 불가 지적, ㄷ: 피해 사소화 문제 제기, 모두 적절.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ㄴ 부적절.</td></tr>
+          <tr><td>④</td><td>오답</td><td>ㄴ·ㄹ 둘 다 부적절(ㄹ은 찬성측 입장 약화).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ㄹ: 찬성 측이 '출입 금지는 과잉'이라고 하면 자기 주장 약화.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set3" class="set-anchor"></div>
@@ -202,6 +302,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q6-4">④ ㉣</li>
     <li id="q6-5">⑤ ㉤</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 작문 계획 ㉠~㉤이 초고에 반영되었는지 하나씩 확인한다.</p>
+        <p>㉤ '비만의 역설을 반박하는 사례'는 초고 어디에도 없다. 초고는 역설을 지지하는 사례만 제시한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>있음</td><td>BMI 정의·계산 방법 제시(㉠).</td></tr>
+          <tr><td>②</td><td>있음</td><td>비만=만병의 근원, WHO 규정(㉡).</td></tr>
+          <tr><td>③</td><td>있음</td><td>비만의 역설 개념 정의(㉢).</td></tr>
+          <tr><td>④</td><td>있음</td><td>과체중·중등도비만·저체중 사망 위험률 비교 데이터(㉣).</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">없음</td><td>역설을 반박하는 사례는 초고에 없음(㉤).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob7">
@@ -213,6 +333,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q7-4">④ 비만의 역설은 비만에 대한 지금까지의 사회적 통념에 문제가 있음을 입증하여 준다. 그러나 비만의 역설이 모든 사람들에게 적용될 수 있는 것이 아님도 깨달아야 할 것이다.</li>
     <li id="q7-5">⑤ 비만의 역설을 널리 홍보하여 스스로 자신의 건강을 챙기는 사회적 분위기를 조성해야 한다. 나아가 날씬한 몸이 건강하고 아름답다는 사회적 통념도 바꾸도록 노력해야 할 것이다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 작문 계획 [A](의의 언급 + 인식 전환 당부)에 맞는 [가] 내용을 고른다.</p>
+        <p>'비만이 만병의 근원이라는 편협한 생각을 바로잡아야'는 비만의 역설 의의 + 인식 전환 당부를 모두 담은 ②가 가장 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>부적절</td><td>인식 전환 당부가 약함, 의의 설명 미흡.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">적절</td><td>역설의 의의(일부 긍정적 영향) + 인식 전환(편협한 생각 바로잡음) 포함.</td></tr>
+          <tr><td>③</td><td>부적절</td><td>절제 강조는 역설 의의와 무관.</td></tr>
+          <tr><td>④</td><td>부적절</td><td>인식 전환 없음, 역설이 모두에게 적용 안 됨만 언급.</td></tr>
+          <tr><td>⑤</td><td>부적절</td><td>홍보·날씬함 통념 변화는 작문 계획에 없는 내용.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob8">
@@ -224,6 +364,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q8-4">④ ⓓ: 문맥상 피동 표현이 사용되어야 하므로 '만들어져서'로 고친다.<a class="src-tag" href="#ev-q8-4">지문 근거</a></li>
     <li id="q8-5">⑤ ⓔ: 필요한 문장 성분이 빠졌으므로 '몸을 보호하는'으로 고친다.<a class="src-tag" href="#ev-q8-5">지문 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ~ⓔ를 각각 고쳐 쓸 필요가 있는지 판단한다.</p>
+        <p>ⓒ '미친다'는 '긍정적인 영향을 미친다'에서 자연스럽게 쓰인 표현이다. '끼친다'로 고칠 필요가 없으므로 ③이 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>ⓐ '비만을 야기하는' → '비만이 야기하는'으로 조사 수정 필요.</td></tr>
+          <tr><td>②</td><td>적절</td><td>ⓑ '그래서' → '그런데'(역접)로 바꾸면 앞뒤 문단 연결 자연스러움.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>ⓒ '미친다'는 '영향을 미치다'로 문맥상 맞는 표현, 수정 불필요.</td></tr>
+          <tr><td>④</td><td>적절</td><td>ⓓ '만들어서' → '만들어져서'(피동 표현) 필요.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>ⓔ '보호하는' → '몸을 보호하는'으로 목적어 추가 필요.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set4" class="set-anchor"></div>
@@ -246,6 +406,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q9-4">④ 시 '맨발' → 재봉틀 발판을 눌러대던 어머니의 발을 떠올리게 하는구나.</li>
     <li id="q9-5">⑤ 어머니의 발 → 어머니께 미안한 마음을 느끼게 하는구나.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 소재로부터 떠올린 생각이 글의 내용과 일치하는지 확인한다.</p>
+        <p>지문은 '여전히 활력이 넘쳤다'라고 하여 이전과 변함없이 활력이 있다고 서술한다. '이전과 달리'라는 표현이 부적절하므로 ③이 틀림.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>해물탕 → 어머니를 위하는 아버지 마음.</td></tr>
+          <tr><td>②</td><td>적절</td><td>오랜 재봉질 → 평생 뒷바라지.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>'이전과 달리'가 아니라 '여전히' 활력이 넘침.</td></tr>
+          <tr><td>④</td><td>적절</td><td>시 '맨발' → 재봉틀 발판 누르던 어머니 발 연상.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>어머니 발 → 미안한 마음·눈물.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob10">
@@ -260,6 +440,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q10-4">④ 속살을 내민 조개처럼 지쳐 가는 어머니의 모습을 생각하며 부끄럽지 않은 자식이 되도록 노력해야겠다.<a class="src-tag ans" href="#ev-q10-4">정답 근거</a></li>
     <li id="q10-5">⑤ 어머니를 속상하게 했던 지난 시간들을 반성하며 앞으로는 어머니를 걱정시키지 않는 자식이 되어야겠다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 비유적 표현으로 어머니 묘사 + 앞으로의 다짐 두 조건을 모두 충족하는 문장을 고른다.</p>
+        <p>'속살 내민 조개처럼 지쳐 가는 어머니'(어머니를 조개에 비유) + '부끄럽지 않은 자식이 되도록 노력해야겠다'(다짐). ④가 두 조건을 모두 충족.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>부적절</td><td>어머니 비유적 표현 없음.</td></tr>
+          <tr><td>②</td><td>부적절</td><td>조개는 '나' 자신에 비유, 어머니 비유 아님.</td></tr>
+          <tr><td>③</td><td>부적절</td><td>재봉틀 발판은 어머니 행동이지 어머니를 비유한 것이 아님.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">적절</td><td>조개로 어머니 비유 + 다짐 포함.</td></tr>
+          <tr><td>⑤</td><td>부적절</td><td>비유적 표현 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set5" class="set-anchor"></div>
@@ -299,6 +499,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q11-4">④ ㉣에 들어갈 말은 '그르다⁰¹ [Ⅰ]'이다.</li>
     <li id="q11-5">⑤ ㉤에는 '변명하느니 말을 않는 게 옳다.'를 넣을 수 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 사전 정보 ㉠~㉤의 설명이 각각 타당한지 점검한다.</p>
+        <p>'그런 지 오래다', '이미 글렀다' 등 과거 시제에도 쓰이므로 ㉡에 '흔히 현재 시제에 쓰여'를 넣는 것은 부적절. ②.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠: '행실이 그르다'의 '그르다'는 형용사.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>㉡: 예문에 과거 시제도 있어 '흔히 현재 시제에 쓰여'가 맞지 않음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉢: '묻는 말에 바르게 대답해라' → 사실과 어긋남이 없다.</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉣: 옳다의 반의어는 그르다⁰¹[Ⅰ].</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>㉤: '변명하느니 말을 않는 게 옳다' → 차라리 더 낫다.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob12">
@@ -314,6 +534,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q12-4">④ ㉢에 따라 나누면 '아홉'과 '학생'은 같은 품사이다.</li>
     <li id="q12-5">⑤ ㉢에 따라 나누면 '매우'와 '착실한'은 다른 품사이다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 문장 '열에 아홉은 매우 착실한 학생이다'에서 각 단어의 품사를 정확히 분류한다.</p>
+        <p>'아홉'은 수사(체언), '학생'은 명사(체언). 둘 다 체언으로 같은 분류이지만 의미 기준으로 수사≠명사이므로 '같은 품사'가 아니다. ④가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>'착실한'(형용사, 가변어), '이다'(서술격조사, 가변어).</td></tr>
+          <tr><td>②</td><td>적절</td><td>'열'(수사=체언), '학생'(명사=체언).</td></tr>
+          <tr><td>③</td><td>적절</td><td>'은'(보조사=관계언), '이다'(조사 기능=관계언).</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>'아홉'(수사)과 '학생'(명사)은 의미 기준으로 다른 품사.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>'매우'(부사), '착실한'(형용사) — 다른 품사.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob13">
@@ -328,6 +568,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q13-4">④ 책을 읽고 있는데 친구가 나를 자꾸 불렀다.</li>
     <li id="q13-5">⑤ 책을 다양하게 읽어서 그는 지식이 풍부하다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 종속적으로 이어진 문장 중 앞절과 뒷절이 '조건' 관계를 나타내는 것을 고른다.</p>
+        <p>'읽으면'은 조건(~하면 ~하다)을 나타내는 연결어미. ①이 조건.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'읽으면' → 조건 관계.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'읽으려고' → 의도.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'읽어도' → 양보.</td></tr>
+          <tr><td>④</td><td>오답</td><td>'읽고 있는데' → 배경.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'읽어서' → 인과.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob14">
@@ -342,6 +602,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q14-4">④ '크- + -어서 → 커서'는 ㉡과 ㉣에 해당한다.</li>
     <li id="q14-5">⑤ '나누- + -었다 → 나눴다'는 ㉠과 ㉢에 해당한다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 축약(㉠)/탈락(㉡), 자음(㉢)/모음(㉣) 조합이 맞는 것을 고른다.</p>
+        <p>'크- + -어서 → 커서'는 '으' 모음이 탈락(㉡)하는 모음 변동(㉣). ㉡과 ㉣에 해당하므로 ④가 맞음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>'싫다[실타]': ㅎ+ㄷ→ㅌ 축약(㉠), 자음(㉢) → ①과 ④ 아님.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'좋아요[조아요]': ㅎ 탈락(㉡), 자음(㉢) → ②가 아닌 ㉡㉢.</td></tr>
+          <tr><td>③</td><td>오답</td><td>'울-+-는→우는': ㄹ 탈락(㉡), 자음(㉢) → ③이 아닌 ㉡㉢.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>'크-+-어서→커서': 으 모음 탈락(㉡), 모음(㉣) → ㉡㉣.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'나누-+-었다→나눴다': 모음 축약(㉠), 모음(㉣) → ⑤가 아닌 ㉠㉣.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob15">
@@ -363,6 +643,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q15-4">④ ㉣: '못' 부정문을 사용하여 앞으로의 상황이 자신의 능력 부족 때문에 발생할 수 있음을 나타내고 있다.</li>
     <li id="q15-5">⑤ ㉤: 청유형 종결 어미를 사용하여 '엄마'가 '아들'에게 함께 심호흡할 것을 제안하고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 담화 상황에서 ㉠~㉤이 실제로 수행하는 기능을 파악한다.</p>
+        <p>㉤ '해 보자'는 청유형이지만 맥락상 엄마 혼자가 아닌 아들에게만 '해 보라'고 권유하는 것이다. 아들도 '그럴게요'라며 혼자 할 것을 답한다. '함께 심호흡'이 아니므로 ⑤가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠ '예, 가요': 부정 물음에 긍정 대답(학교 갈 것).</td></tr>
+          <tr><td>②</td><td>적절</td><td>㉡ '어제는': 보조사 '는'으로 다른 날과 대조.</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉢ '그게': 앞서 언급된 내용 지시, '이게'로 바꾸면 의미 달라짐.</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉣ '못 할 것 같아요': 능력 부족 부정.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>㉤ '해 보자'는 함께가 아닌 아들만을 향한 권유.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set6" class="set-anchor"></div>
@@ -386,6 +686,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q16-4">④ 욕망이 나타나는 사례들을 제시하여 욕망 이론의 타당성을 따지고 있다.</li>
     <li id="q16-5">⑤ 욕망을 조절하는 여러 가지 방법을 보여주고 각각의 장단점을 분석하고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글 전체 구조를 파악하여 서술 방식을 고른다.</p>
+        <p>맹자·순자·한비자 세 사상가의 욕망에 대한 입장을 소개하고 서로 비교·대조한다. ①이 가장 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>다양한 입장(맹자·순자·한비자) 소개 및 비교.</td></tr>
+          <tr><td>②</td><td>오답</td><td>유형 분류 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>현대적 의의 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>사례 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>장단점 분석 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob17">
@@ -397,6 +717,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q17-4">④ 욕망 조절을 개인의 수양에만 맡기지 않고, 욕망을 외적 규범으로 제어해야 한다고 보았기 때문이다.<a class="src-tag ans" href="#ev-q17-4">정답 근거</a></li>
     <li id="q17-5">⑤ 무엇을 탐하는 마음이 생기는 것이 불가피함을 직시하고, 이것의 조절이 필요함을 강조하였기 때문이다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 순자가 '맹자보다 한 단계 더 나아간 금욕주의'인 이유를 글에서 찾는다.</p>
+        <p>순자는 개인 수양(과욕·호연지기)만으로는 부족하다 보고, 외적 규범(예)으로 욕망을 제어해야 한다고 주장했다. ④.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>과욕·호연지기의 한계 언급 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>예와 과욕·호연지기 난이도 비교 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>개인적·사회적 욕망 동시 추구 언급 없음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>개인 수양 + 외적 규범(예)으로 제어 → 한 단계 나아감.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>욕망의 불가피성 직시는 맹자도 인정.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob18">
@@ -411,6 +751,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q18-4">④ A 음식점을 시기하는 마음이 B 음식점 주인에게 드는 것은 인간의 나쁜 본성 때문이니 의로운 일을 하면서 변화되어야겠군.</li>
     <li id="q18-5">⑤ B 음식점 주인이 경쟁 관계인 A 음식점의 수익까지 욕심내는 마음이 생기는 것은 수양을 통해 절제해야겠군.<a class="src-tag ans" href="#ev-q18-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 맹자 입장(수양으로 욕망 절제)에서 보기 사례를 이해한다.</p>
+        <p>B 음식점 주인이 A의 수익까지 욕심낸 것은 맹자가 말하는 과욕(寡慾), 즉 수양을 통해 절제해야 하는 과도한 욕망에 해당한다. ⑤.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>맹자는 손님들의 도덕성을 언급하지 않음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>이기적 본성 → 사회적 제재는 순자·한비자 입장.</td></tr>
+          <tr><td>③</td><td>오답</td><td>맹자가 '의무'까지 말하지는 않음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>시기하는 마음을 의로운 일로 변화(호연지기)는 맞으나 ⑤가 더 직접적.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>수익 욕심 → 수양으로 절제 = 맹자의 과욕 개념 부합.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob19">
@@ -428,6 +788,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q19-4">④ ㄴ, ㄹ</li>
     <li id="q19-5">⑤ ㄷ, ㄹ</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 순자(㉮)와 한비자(㉯)가 공통으로 주장하는 내용을 찾는다.</p>
+        <p>ㄱ(이기적 본성): 순자 '태생적으로 이기적', 한비자 '이기적 본성 긍정' → 공통. ㄴ(욕망 다스리는 방법): 순자 '예', 한비자 '법' → 공통. ①.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>ㄱ·ㄴ 모두 공통 견해.</td></tr>
+          <tr><td>②</td><td>오답</td><td>ㄹ(부국강병 수단)은 한비자만의 입장.</td></tr>
+          <tr><td>③</td><td>오답</td><td>ㄷ(교화)은 순자만(한비자는 교화 불가).</td></tr>
+          <tr><td>④</td><td>오답</td><td>ㄹ 제외.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>ㄷ·ㄹ 모두 오답.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set7" class="set-anchor"></div>
@@ -453,6 +833,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q20-4">④ 가로 경관의 시각적 효과와 관련된 척도 중 가장 중요한 것은?</li>
     <li id="q20-5">⑤ 널찍한 느낌의 가로를 시각적으로 좁힐 수 있는 방법은 무엇인가?</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글에서 답할 수 있는 질문과 없는 질문을 구분한다.</p>
+        <p>척도들의 우선순위는 글에서 언급되지 않는다. '가장 중요한 것'을 묻는 ④에는 답할 수 없다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>있음</td><td>글 전반에서 고려 사항 설명.</td></tr>
+          <tr><td>②</td><td>있음</td><td>건물 높이(H), 정면 폭(W) 등 언급.</td></tr>
+          <tr><td>③</td><td>있음</td><td>마지막 단락에서 이유 설명.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">없음</td><td>척도 간 중요도 순위 없음.</td></tr>
+          <tr><td>⑤</td><td>있음</td><td>D/H≥3 → 가로수 분리·랜드마크 유도 방법 제시.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob21">
@@ -464,6 +864,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q21-4">④ 정리된 느낌을 주는 제한 길이는 ㉠보다 ㉡이 더 짧다.</li>
     <li id="q21-5">⑤ 대규모 행사를 치르기에 더 적합한 가로는 ㉠이다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — D/L 비율과 광장(㉠)/산책로(㉡) 이미지의 관계를 정확히 파악한다.</p>
+        <p>D/L이 클수록 광장 이미지. 1/60은 1/20보다 작으므로 산책로 성격이 더 강하다. ①이 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">부적절</td><td>D/L 1/60 < 1/20 → 폭이 상대적으로 좁으므로 산책로(㉡) 성격이 강함.</td></tr>
+          <tr><td>②</td><td>적절</td><td>길이 고정 시 폭 줄면 D/L 감소 → ㉡ 성격 강해짐.</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉡(산책로) = 위요감·친밀감 형성.</td></tr>
+          <tr><td>④</td><td>적절</td><td>정리된 느낌 제한 길이: ㉠=2km, ㉡=1km.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>대규모 행사에 적합한 가로는 ㉠(광장).</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob22">
@@ -486,6 +906,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q22-4">④ A는 B보다 단조롭고 활기가 없는 가로일 것이다.</li>
     <li id="q22-5">⑤ B는 C보다 낮은 건물들이 많은 가로일 것이다.<a class="src-tag ans" href="#ev-q22-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기 표의 D/H, W/D 수치를 글의 원리에 적용하여 각 선지를 판단한다.</p>
+        <p>B D/H=2.0, C D/H=1.2. D/H=D÷H이므로 D/H가 클수록 건물이 낮다. B(2.0)>C(1.2)이므로 B의 건물이 C보다 낮다. ⑤가 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>A W/D=0.9<1 → 정면 폭이 도로 폭보다 작음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>B D/H=2.0 → 도로 폭이 건물 높이의 2배, 동일하지 않음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>C D/H=1.2>1 → 개방성이 폐쇄성보다 강함.</td></tr>
+          <tr><td>④</td><td>오답</td><td>A W/D=0.9<1(활기), B W/D=1.4>1(단조) → B가 더 단조로움.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>B D/H>C D/H → B 건물 높이가 C보다 낮음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set8" class="set-anchor"></div>
@@ -511,6 +951,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q23-4">④ 대립하는 두 견해를 소개하고 그에 대한 절충론을 제시하고 있다.</li>
     <li id="q23-5">⑤ 묻고 답하는 형식을 사용하여 통념이 지닌 오류를 지적하고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글의 서술 방식을 파악한다.</p>
+        <p>'장소 세포', '격자 세포', 'CA1', 'CA3' 등 특정 용어를 활용하여 공간 지각 능력의 원리를 설명한다. ③이 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>새로운 문제 제기 없음.</td></tr>
+          <tr><td>②</td><td>오답</td><td>변천 과정과 원인 규명 아님.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>특정 용어 활용해 원리 설명.</td></tr>
+          <tr><td>④</td><td>오답</td><td>대립하는 견해와 절충론 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>통념 오류 지적 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob24">
@@ -522,6 +982,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q24-4">④ 반복과 학습을 통해 위치 정보를 대뇌피질에 저장할 수 있다.</li>
     <li id="q24-5">⑤ 알츠하이머의 증상은 해마, 내후각피질의 손상과 관련이 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 본문 내용과 일치하는 것을 고르고 일치하지 않는 것을 찾는다.</p>
+        <p>모세르 부부는 내후각피질에서 격자 세포를 '발견'했다. 존재를 부정한 것이 아니므로 ③이 일치하지 않음.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>일치</td><td>측두엽 안쪽에 해마, 그를 감싸는 내후각피질.</td></tr>
+          <tr><td>②</td><td>일치</td><td>역치값 이상에서 신경 세포 반응.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부일치</td><td>모세르 부부는 격자 세포를 발견했지 부정하지 않음.</td></tr>
+          <tr><td>④</td><td>일치</td><td>반복과 학습으로 대뇌피질에 장기 기억 저장.</td></tr>
+          <tr><td>⑤</td><td>일치</td><td>알츠하이머 환자는 내후각피질·해마 손상과 관련.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob25">
@@ -537,6 +1017,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q25-4">④ ㉰에게 위치 단서가 충분히 주어진다면 발판을 찾는 훈련을 시키는 데 문제가 없겠군.</li>
     <li id="q25-5">⑤ ㉰가 표지 없이도 발판을 찾아가게 하려면 CA1과 손상된 CA3 사이의 경로를 차단해야겠군.<a class="src-tag ans" href="#ev-q25-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 실험 결과를 바탕으로 CA1·CA3의 기능을 추론한다.</p>
+        <p>CA3과 CA1 사이 경로를 차단하면 회상 능력이 저하된다(본문). ㉰(CA3 손상)가 단서 없이 발판을 찾으려면 CA3 회상이 필요하므로 경로 차단은 역효과다. ⑤가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉮ CA1·CA3 모두 정상 → 위치 정보 온전히 처리.</td></tr>
+          <tr><td>②</td><td>적절</td><td>㉮가 적은 단서로 발판 찾음 = CA3의 장소 회상 능력 덕분.</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉯는 CA1 손상만으로 발판 찾기 불가 확인.</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉰(CA3 손상)는 단서 충분하면 CA1 직접 처리로 발판 찾기 가능.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>CA3-CA1 경로 차단은 회상 능력을 오히려 차단, ㉰의 탐색 불가능해짐.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob26">
@@ -548,6 +1048,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q26-4">④ 날카로운 못에 걸려 옷에 구멍이 생겼다.</li>
     <li id="q26-5">⑤ 다음 달에 이사 가면 내 방이 생길 것이다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠ '생겼기'(CA3 회상 능력에 문제가 ~하다)의 문맥적 의미를 파악한다.</p>
+        <p>㉠은 '어떤 현상·상태가 발생하다'의 뜻. ①의 '좋은 일이 생길 것이다'도 같은 의미.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>'좋은 일이 생기다' → 발생.</td></tr>
+          <tr><td>②</td><td>오답</td><td>'문구점이 생겼다' → 새로 생겨남(탄생).</td></tr>
+          <tr><td>③</td><td>오답</td><td>'듬직하게 생겼다' → 외모·생김새.</td></tr>
+          <tr><td>④</td><td>오답</td><td>'구멍이 생겼다' → 생겨남(형성).</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'내 방이 생길 것이다' → 갖게 됨.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set9" class="set-anchor"></div>
@@ -573,6 +1093,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q27-4">④ 상속세와 증여세의 공통점은 무엇인가<br>&nbsp;&nbsp;&nbsp;- 세금의 부과 대상과 적용 세율을 중심으로</li>
     <li id="q27-5">⑤ 세금의 본질은 어떻게 변화해 왔는가<br>&nbsp;&nbsp;&nbsp;- 상속세와 증여세의 역사적 변천 과정을 중심으로</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 글 전체 내용을 아우르는 표제+부제 조합을 고른다.</p>
+        <p>글은 상속세와 증여세의 부과 방식(공제·누진세율·10년 규정 등)을 설명한다. ①의 표제와 부제가 전체 내용을 포괄한다.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>부의 무상 이전 세금 부과 방식 + 상속세·증여세 부과 방식 → 글 전체 포괄.</td></tr>
+          <tr><td>②</td><td>오답</td><td>부과 이유와 재분배 방안은 일부만 다룸.</td></tr>
+          <tr><td>③</td><td>오답</td><td>공평 부과 논의 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>공통점만 다루지 않음, 차이점도 핵심.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>역사적 변천 과정 없음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob28">
@@ -584,6 +1124,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q28-4">④ ㉠, ㉡ 모두 적용된 세율이 높으면 공제 후 남은 금액이 크다는 의미이다.</li>
     <li id="q28-5">⑤ ㉠, ㉡ 모두 부의 세습을 통한 부익부 빈익빈 현상의 심화를 막는 데 기여한다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 상속세(㉠)와 증여세(㉡)의 차이점과 공통점을 파악한다.</p>
+        <p>상속세에서 납부 의무자 순위(1~4순위)를 민법으로 규정하지, 증여세에서는 그런 규정이 없다. ②는 ㉡(증여세)에 대한 설명으로 틀림.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠ 상속세: 사망 후 부과, ㉡ 증여세: 생존 시 부과.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>납부 의무자 순위 규정은 상속(㉠)에 해당, 증여(㉡)에는 없음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>㉠·㉡ 모두 받는 사람이 납부 의무자.</td></tr>
+          <tr><td>④</td><td>적절</td><td>누진 세율 적용 → 높은 세율 = 공제 후 금액이 큼.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>㉠·㉡ 모두 부의 세습 심화 방지 목적.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob29">
@@ -599,6 +1159,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q29-4">④ A씨의 아내가 임신한 상황이 아니라면, 홀어머니에게도 상속권이 있겠군.</li>
     <li id="q29-5">⑤ A씨의 아내가 증여받은 토지에 대해서 현재의 시세를 고려할 필요는 없겠군.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기 사례(A씨)에 상속세·증여세 규정을 적용하여 판단한다.</p>
+        <p>상속세는 사망자의 상속 재산 총액(토지+예금 합산)에 세율을 적용한다. 토지와 예금에 '서로 다른 세율'을 적용하는 것이 아니므로 ②가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>임신한 아내+태아가 1순위 직계비속, 아내는 동순위 공동 상속인.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>상속세는 재산 총액 기준, 토지와 예금에 개별 세율 적용 아님.</td></tr>
+          <tr><td>③</td><td>적절</td><td>5년 전 증여(10년 이내) → 상속세 부과 대상 포함.</td></tr>
+          <tr><td>④</td><td>적절</td><td>아내 임신 아니면 1순위 없음 → 홀어머니(2순위)와 아내가 공동 상속.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>부동산 = 증여 당시 가격 기준, 현재 시세 무관.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob30">
@@ -610,6 +1190,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q30-4">④ ⓓ: 알맞게 이용하거나 맞추어 씀.</li>
     <li id="q30-5">⑤ ⓔ: 어떤 일이나 행동에서 나타나는 옳지 못한 현상.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ⓐ~ⓔ의 문맥상 의미가 제시된 사전적 풀이와 일치하는지 확인한다.</p>
+        <p>ⓒ '이에 대비하여'는 '대응하거나 준비하여'라는 뜻. 제시된 풀이 '두 가지 차이를 밝히기 위해 비교함'은 다른 의미이므로 ③이 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>ⓐ '이전하는': 권리를 넘겨줌.</td></tr>
+          <tr><td>②</td><td>적절</td><td>ⓑ '부과하는': 세금 매겨 부담케 함.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>ⓒ '대비하여': 문맥상 '대응·준비'의 뜻, '비교'가 아님.</td></tr>
+          <tr><td>④</td><td>적절</td><td>ⓓ '적용된다': 알맞게 이용됨.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>ⓔ '폐단': 옳지 못한 현상.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set10" class="set-anchor"></div>
@@ -654,6 +1254,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q31-4">④ (나)는 (가)와 달리 4음보를 규칙적으로 사용하여 안정된 리듬감을 형성하고 있다.</li>
     <li id="q31-5">⑤ (다)는 (나)와 달리 감정이입을 통하여 화자의 내면을 표현하고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (가)~(다)의 표현 방식으로 가장 적절한 것을 고른다.</p>
+        <p>(가)의 "속조차 거믈소냐", "너뿐인가 노라"와 (나)의 "밤인들 어두우랴", "고칠 줄이 이시랴"는 모두 설의법으로 화자의 가치관(충절·지조)을 강조한다. ①이 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가)·(나) 모두 설의적 표현으로 화자의 가치관 강조.</td></tr>
+          <tr><td>②</td><td>오답</td><td>(가)·(다)에 어순 도치 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>(다)에는 색채어 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>(가)도 시조 4음보 형식 사용.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(다)는 관찰 시각으로 서술, 감정이입보다 객관적 묘사.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob32">
@@ -669,6 +1289,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q32-4">④ ㉣은 세조가 단종을 몰아내고 왕위에 오른 시대 상황을 암시한다고 볼 수 있다.</li>
     <li id="q32-5">⑤ ㉤은 세조의 회유를 뿌리치고 단종에 대한 충의를 지키려는 작가의 굳은 마음을 드러낸다고 볼 수 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기의 창작 배경을 바탕으로 ㉠~㉤을 이해한다. 적절하지 않은 것을 고른다.</p>
+        <p>(나)에서 ㉢(가마귀)은 눈비를 맞아 겉으로 희어 보이지만 속은 검은 존재, 즉 위선적 권력자들을 가리킨다. 박팽년 자신은 야광명월(㉣)에 비유된다. ③이 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>㉠(가마귀) = 이직이 자신과 동일시, 겉은 검어도 속은 선함.</td></tr>
+          <tr><td>②</td><td>적절</td><td>㉡(백로) = 겉 고고한 척하는 비판 대상.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>㉢(가마귀) = 고초 겪는 박팽년이 아니라 겉은 흰 척하는 위선적 권력자들.</td></tr>
+          <tr><td>④</td><td>적절</td><td>㉣(밤) = 세조가 단종을 몰아낸 어두운 시대 암시.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>㉤(일편단심) = 세조 회유 뿌리치고 단종에 대한 충의를 지키려는 마음.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob33">
@@ -680,6 +1320,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q33-4">④ [D]의 '사람들'이 백로에 대해 보이는 인식은 [A]에 드러난 백로의 모습에 근거하고 있군.<a class="src-tag ans" href="#ev-q33-4">정답 근거</a></li>
     <li id="q33-5">⑤ [A] ~ [D]에서 화자는 백로의 탐욕만이 아니라 그것을 알아차리지 못한 '사람들'도 비판하고 있군.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (다)의 [A]~[D]를 감상한다. 적절하지 않은 것을 고른다.</p>
+        <p>[D]의 사람들이 "기심을 잊고 서 있다"고 인식하는 것은, 백로가 비를 맞으며 조용히 기다리는 모습([C])을 보고 판단한 것이다. [A]의 욕망은 화자의 서술로, 사람들이 직접 목격한 장면이 아니다. ④가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>[A]의 욕망이 [B]에서 사람 등장으로 충족되지 못함.</td></tr>
+          <tr><td>②</td><td>적절</td><td>[B]의 여뀌꽃 언덕 = [C]에서 사람 경계하며 피신한 공간.</td></tr>
+          <tr><td>③</td><td>적절</td><td>[C]의 깃털 젖음 = [D]의 '마음이 여울에 가 있어' 기다리다 생긴 부정적 상황.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>[D] 사람들의 인식은 [A]가 아닌 [C]~[D]의 외양(비 맞으며 서 있음)에 근거.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>화자는 백로의 탐욕과 그것을 모르는 사람들 모두를 관찰·비판.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set11" class="set-anchor"></div>
@@ -736,6 +1396,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q34-4">④ 장면을 구체적으로 서술하여 사건의 긴박감을 고조하고 있다.<a class="src-tag ans" href="#ev-q34-4">정답 근거</a></li>
     <li id="q34-5">⑤ 인물의 행적을 요약적으로 제시하여 갈등의 양상을 드러내고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — [A](마을 사람들이 침묵하며 지켜보는 장면)에 대한 설명으로 가장 적절한 것을 고른다.</p>
+        <p>마을 사람들이 무표정하게 모여 서 있는 장면, 아버지의 울부짖음이 "심장에 송곳질하는 아픔"으로 묘사되는 등 구체적 서술로 긴박감이 고조된다. ④가 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>인물의 내적 갈등이 아닌 외적 상황 묘사.</td></tr>
+          <tr><td>②</td><td>오답</td><td>현재형 어미가 아닌 과거형 어미 사용.</td></tr>
+          <tr><td>③</td><td>오답</td><td>서술자(나)의 주관적 감정("아픔을 참으며")이 담겨 객관적이지 않음.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>무표정한 목격 장면과 아버지 울부짖음을 구체적으로 묘사해 긴박감 고조.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>요약적 제시가 아닌 장면 묘사.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob35">
@@ -747,6 +1427,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q35-4">④ ㉣: 경제적으로 어려운 처지에 있는 인물에 대한 안타까운 마음을 드러낸다.</li>
     <li id="q35-5">⑤ ㉤: 인물의 행동과 배경을 제시하여 주인공의 심리를 암시한다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — ㉠~㉤에 대한 설명으로 적절하지 않은 것을 고른다.</p>
+        <p>㉡은 "나는 이미 아버지의 죽음을 예견하고 있었다"는 내용으로, 아버지가 억울하게 죽을 것을 예견한 것이다. 아버지가 부면장네 부자의 죽음에 책임이 있음을 드러내는 것이 아니다. ②가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>슬픔보다 먼저 배불리 먹고 자야 했던 것 = 생리적 욕구 충족이 먼저인 극한 상황.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>㉡은 아버지가 억울하게 죽을 것을 예견한 것. 범행 책임과 무관.</td></tr>
+          <tr><td>③</td><td>적절</td><td>장돌식이 가난하지만 가족으로 행복 → 소박하고 긍정적 삶의 자세.</td></tr>
+          <tr><td>④</td><td>적절</td><td>도련님이 떡갈나무 잎 따러 다님 = 몰락한 처지에 대한 안타까운 마음.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>돌을 마을 쪽으로 던지고 까치산 바라봄 = 복수심과 내면 암시.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob36">
@@ -762,6 +1462,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q36-4">④ '월곡리 사람들'은 '아버지'의 죽음에 고통을 느꼈지만 자신들의 안위를 위해 침묵한 것으로 볼 수 있군.</li>
     <li id="q36-5">⑤ '붉은 별을 붙인 사람들'이 사라지고 푸른 제복의 '도련님'이 나타난 것으로 보아 한국전쟁의 전선이 오르내렸음을 알 수 있군.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>②</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기(전쟁으로 인한 공동체 분열·인간성 파괴)를 참고하여 감상한다. 적절하지 않은 것을 고른다.</p>
+        <p>아버지의 억울한 죽음에 대한 진실이 밝혀졌지만, '나'는 여전히 복수를 결심한다. 공동체가 회복되었다는 근거가 없다. ②가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>만춘이가 마을 사람을 해친 행동 = 인간성 파괴.</td></tr>
+          <tr class="correct"><td>②</td><td class="ok">부적절</td><td>진실 밝혀졌으나 '나'의 복수 결심 여전 → 공동체 회복 근거 없음.</td></tr>
+          <tr><td>③</td><td>적절</td><td>피란 갔던 부면장네가 돌아와 북측 협조자들에게 분노.</td></tr>
+          <tr><td>④</td><td>적절</td><td>마을 사람들이 고통스럽게 지켜봤지만("송곳질 아픔") 침묵 = 안위를 위한 방조.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>붉은 별(북) → 푸른 제복(남) 순서로 등장 = 전선 오르내림.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set12" class="set-anchor"></div>
@@ -819,6 +1539,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q37-4">④ 구체적인 배경 묘사를 통해 인물 간의 갈등을 선명하게 드러내고 있다.</li>
     <li id="q37-5">⑤ 두 편의 삽입시 모두 주인공이 맞이하게 될 비극적 운명을 암시하고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 윗글의 서술 방식으로 가장 적절한 것을 고른다.</p>
+        <p>시중의 얼굴에 "부끄러운 빛"이 드는 것, "의아히 여겨"라는 내면 묘사를 서술자가 전달한다. 전지적 관찰자 시점이다. ③이 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>역순행적 구성 아님, 시간 순서대로 전개.</td></tr>
+          <tr><td>②</td><td>오답</td><td>선과 악의 뚜렷한 대립 구도 없음.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">정답</td><td>시중의 내면(부끄러운 빛, 의아히 여김)을 서술자가 전지적으로 서술.</td></tr>
+          <tr><td>④</td><td>오답</td><td>배경 묘사보다 인물의 언행 중심 서술.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>첫 번째 삽입시는 비극적 운명 암시가 아니라 인간 세계로 나가라는 권유.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob38">
@@ -830,6 +1570,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q38-4">④ '시중'은 무덤 속 '여인'이 깨어난 것을 확인하고는 혼비백산(魂飛魄散)하였군.<a class="src-tag ans" href="#ev-q38-4">정답 근거</a></li>
     <li id="q38-5">⑤ '유모'에게서 전달받은 '하생'의 시를 읽은 후 '여인'은 식음전폐(食飮全廢)하고 있군.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 윗글의 내용으로 적절하지 않은 것을 고른다.</p>
+        <p>시중은 무덤에서 딸을 발굴한 후 유모를 시켜 가마에 태워 집으로 데려와 "가만히 안정을 취하도록" 했다. 놀라 넋을 잃는 혼비백산(魂飛魄散)과는 다르다. ④가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>"이 또한 하늘이 정한 운명이겠지요" → 천생연분으로 여김.</td></tr>
+          <tr><td>②</td><td>적절</td><td>죽음의 배경, 옥황상제 분부 등 자초지종 설명.</td></tr>
+          <tr><td>③</td><td>적절</td><td>"어찌 그런 일이 있을 수 있단 말인가" → 반신반의.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">부적절</td><td>시중은 차분하게 딸을 안게 하고 안정 취하도록 함. 혼비백산한 것이 아님.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>하생의 시를 본 여인이 음식을 입에 대지 않음 → 식음전폐.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob39">
@@ -845,6 +1605,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q39-4">④ 시중이 집안 차이라는 현실적인 문제로 둘의 혼인을 반대하는 것이 두 번째 시련이다.</li>
     <li id="q39-5">⑤ 시중의 집에서 하생을 위해 잔치를 베푼 것은 두 번째 시련을 극복했다는 것을 의미한다.<a class="src-tag ans" href="#ev-q39-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기(두 번의 시련 극복 → 혼인)를 참고하여 이해한다. 적절하지 않은 것을 고른다.</p>
+        <p>시중의 집에서 잔치를 베풀었지만 혼사 언급은 일절 없었다. 하생은 "답답하고 불쾌한 마음으로 숙소에 돌아"갔다. 두 번째 시련은 아직 극복되지 않은 상태이다. ⑤가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>여인의 집이 무덤 = 비현실적 요소.</td></tr>
+          <tr><td>②</td><td>적절</td><td>죽은 여인과의 혼인 약속 = 첫 번째 시련의 비현실적 요소.</td></tr>
+          <tr><td>③</td><td>적절</td><td>금척을 노둣돌에 두자 시중이 알아봄 → 첫 번째 시련 극복 소재.</td></tr>
+          <tr><td>④</td><td>적절</td><td>"집안이 서로 걸맞지 않구려" = 두 번째 시련의 현실적 문제.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>잔치 후 혼사 언급 없음, 하생은 불쾌해함 → 시련 극복 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set13" class="set-anchor"></div>
@@ -911,6 +1691,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q40-4">④ 과거와 현재를 대비하여 화자의 심경 변화를 드러내고 있다.</li>
     <li id="q40-5">⑤ 시어의 반복으로 화자 자신의 부정적 처지를 강조하고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>①</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (가)와 (나)의 표현상 공통점을 고른다.</p>
+        <p>(가)에서 만술이 "아베요"라고 죽은 아버지에게 말을 건네고, (나)에서 어머니가 "큰애 네가"라고 자식에게 말을 건넨다. 두 작품 모두 말 건네기 방식으로 주제를 심화한다. ①이 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr class="correct"><td>①</td><td class="ok">정답</td><td>(가) 만술→아베, (나) 어머니→큰애: 말 건네기 방식으로 주제 심화.</td></tr>
+          <tr><td>②</td><td>오답</td><td>원경·근경 시선 이동 없음.</td></tr>
+          <tr><td>③</td><td>오답</td><td>대립적 시어와 비판적 현실 인식 없음.</td></tr>
+          <tr><td>④</td><td>오답</td><td>과거·현재 대비와 심경 변화 없음.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>(가)의 반복이 있지만 부정적 처지 강조가 공통점은 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob41">
@@ -922,6 +1722,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q41-4">④ [B]에서 '밤이슬'이 오는 것은 [A]의 '소금에 밥'을 바치는 마음 때문이다.<a class="src-tag ans" href="#ev-q41-4a">정답 근거</a></li>
     <li id="q41-5">⑤ [B]에서 '엄첩다'고 한 것은 [A]에서 '간고등어 한 손'을 준비했기 때문이다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>④</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — (가)의 [A][B]에 대한 설명으로 적절한 것을 고른다.</p>
+        <p>[B]에서 망령이 응감하여 굵은 밤이슬이 오는 것은, [A]에서 소금에 밥이나마 바치는 만술의 정성 때문이다. ④가 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>저승길 가는 주체는 두 곳 모두 죽은 아버지(아베·망령)이고, '만술 아비'는 그 죽은 아버지의 호칭.</td></tr>
+          <tr><td>②</td><td>오답</td><td>망령이 응감하는 것은 '아베의 소원'이 아닌 만술의 정성.</td></tr>
+          <tr><td>③</td><td>오답</td><td>보릿고개는 살아있는 만술이 현재 겪는 빈곤, 이승저승 다니며 겪는 것 아님.</td></tr>
+          <tr class="correct"><td>④</td><td class="ok">정답</td><td>[B]의 밤이슬 = [A]에서 소금에 밥 바치는 만술의 정성에 망령이 응감한 결과.</td></tr>
+          <tr><td>⑤</td><td>오답</td><td>'엄첩다'는 소금에 밥이라도 바친 정성 때문. 간고등어는 준비 못한 것을 아쉬워한 것.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob42">
@@ -937,6 +1757,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q42-4">④ '참외밭에 지푸라기'를 깔겠다는 어머니의 말에서 자연물도 '식구'로 느끼며 포용하는 태도를 확인할 수 있어.</li>
     <li id="q42-5">⑤ 어머니는 '의자'가 '그늘 좋고 풍경 좋은' 곳에 놓여야 가족끼리 서로 의지하고 살아갈 수 있다는 이치를 드러내고 있어.<a class="src-tag ans" href="#ev-q42-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기(의자 = 어머니의 경험에서 비롯된 인식과 통찰)를 참고하여 이해한다. 적절하지 않은 것을 고른다.</p>
+        <p>"그늘 좋고 풍경 좋은 데다가 의자 몇 개 내놓는 거여"는 결혼하고 아이 낳고 사는 세상살이를 의자 내놓는 것에 비유한 표현이다. 의자가 '그늘 좋은 곳에 놓여야 가족이 의지할 수 있다'는 조건적 의미가 아니다. ⑤가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>허리 아픈 경험 → '세상이 다 의자로 보인다'는 인식 도달.</td></tr>
+          <tr><td>②</td><td>적절</td><td>'아버지 산소 다녀와라' = 죽은 남편에 대한 배려.</td></tr>
+          <tr><td>③</td><td>적절</td><td>'좋은 의자'는 위로와 의지의 대상 → 큰애가 아버지에게 그런 존재였다는 뜻.</td></tr>
+          <tr><td>④</td><td>적절</td><td>'참외밭에 지푸라기 깔기' = 자연물도 식구로 여기는 포용.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>'그늘 좋고 풍경 좋은 데다가 의자 내놓는 것'은 세상살이 자체의 비유, 배치 조건이 아님.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div id="set14" class="set-anchor"></div>
@@ -978,6 +1818,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q43-4">④ 등장인물이 대사를 활용하여 관객들의 호응을 이끌어 내고 있다.</li>
     <li id="q43-5">⑤ 등장인물에 작위적인 이름을 부여하여 그 인물의 성격을 드러내고 있다.</li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>③</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 윗글에 대한 설명으로 적절하지 않은 것을 고른다.</p>
+        <p>장 이사가 등장했지만 유씨는 소금을 뿌리며 그를 쫓아낸다. 갈등이 해소된 것이 아니라 오히려 표출된다. ③이 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>장 이사의 경상도 사투리로 인물을 생동감 있게 형상화.</td></tr>
+          <tr><td>②</td><td>적절</td><td>괄호 안 지시문이 인물의 말과 행동 이해를 도움.</td></tr>
+          <tr class="correct"><td>③</td><td class="ok">부적절</td><td>장 이사 등장 후 유씨가 분노해 쫓아냄 → 갈등 해소가 아닌 갈등 표출.</td></tr>
+          <tr><td>④</td><td>적절</td><td>"백 석이요. 천 석이요. 만 석이요."를 관객이 따라하게 함.</td></tr>
+          <tr><td>⑤</td><td>적절</td><td>'장사치'(장 이사), '염쟁이'(유씨) 등 작위적 이름으로 성격 드러냄.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob44">
@@ -989,6 +1849,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q44-4">④ 유씨는 전국적인 장의 체인망을 만드는 일에 고심하고 있다.</li>
     <li id="q44-5">⑤ 유씨는 장 이사를 만나기 전부터 그가 자신을 찾아온 이유를 알고 있다.<a class="src-tag ans" href="#ev-q44-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 등장인물에 대한 이해로 적절한 것을 고른다.</p>
+        <p>유씨는 장 이사를 보지 않고도 "뻔하지, 장의 사업이 어떻네 저떻네 되도 않는 소리나 지껄였겠지"라고 말한다. 장 이사가 실제로 한 말과 일치한다. ⑤가 적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>오답</td><td>유씨는 장 이사를 소금으로 쫓아냄 → 동업 거부.</td></tr>
+          <tr><td>②</td><td>오답</td><td>박 형사(형사) 연락으로 장례를 치렀다고 함. 동창은 한국병원 사무장으로 미래 연락 요청 대상.</td></tr>
+          <tr><td>③</td><td>오답</td><td>"직업에 귀천이 없다카는데 그기 아닌기라요" → 귀천이 있다는 입장.</td></tr>
+          <tr><td>④</td><td>오답</td><td>전국 체인망 제안은 장 이사가 함. 유씨는 거부.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">정답</td><td>유씨는 장 이사와 만나지 않고도 찾아온 이유를 정확히 예측.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 <div class="q-block" id="prob45">
@@ -1006,6 +1886,26 @@ summary: "2016년 6월 고2 전국연합학력평가 국어 기출 분석 — �
     <li id="q45-4">④ [C] : 장 이사와 유씨가 ②에서 만난다는 설정을 관객이 알아챌 수 있도록 연기해 주세요.</li>
     <li id="q45-5">⑤ [D] : 배우가 연기를 하는 데 지장을 받지 않도록 ①에는 소품을 별도로 설치하지 않도록 해 주세요.<a class="src-tag ans" href="#ev-q45-5">정답 근거</a></li>
   </ul>
+  <details class="solution">
+    <summary>해설 보기</summary>
+    <div class="solution-body">
+      <div class="question-analysis">
+        <div class="answer-line"><span>정답</span><strong>⑤</strong></div>
+        <p class="ask-read"><strong>발문 해석</strong> — 보기(무대 배치 설명)를 바탕으로 연출 지시 사항을 파악한다. 적절하지 않은 것을 고른다.</p>
+        <p>[D]에서 유씨는 소금 그릇, 쌀이 담긴 그릇, 버드나무 숟가락·젓가락을 들고 ①(전면 무대)에서 연기한다. 보기에서 "지정된 위치에 소품들을 배치하여 극이 자연스럽게 진행되도록"이라 했으므로 ①에 소품이 있어야 한다. ⑤가 부적절.</p>
+      </div>
+      <table class="jt">
+        <thead><tr><th>선지</th><th>판단</th><th>근거</th></tr></thead>
+        <tbody>
+          <tr><td>①</td><td>적절</td><td>"외투를 입은 장 이사", "외투를 벗은 유씨" → 외투로 배역 구분.</td></tr>
+          <tr><td>②</td><td>적절</td><td>장 이사가 명함을 기자(관객)에게 건네며 관객석(⑤)에서 연기.</td></tr>
+          <tr><td>③</td><td>적절</td><td>장 이사가 ③으로 퇴장, 유씨가 ④로 등장 → 통로 교차로 자연스러운 전환.</td></tr>
+          <tr><td>④</td><td>적절</td><td>[C]에서 두 인물이 ②(후면)에서 만나는 상황을 관객이 알아채도록 연기 필요.</td></tr>
+          <tr class="correct"><td>⑤</td><td class="ok">부적절</td><td>[D]에서 소금 그릇·쌀·숟가락 등 사용 → ①에 소품 배치 필수. 설치 안 하면 연기 불가.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 
 </div>
