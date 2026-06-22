@@ -44,17 +44,34 @@ def load_blocks(pdf_path):
 
 # ── 세트 경계 분할 ────────────────────────────────────────────
 def split_by_set(blocks):
+    """
+    헤더 vy 기준으로 세트를 나누되, 헤더와 같은 페이지의 RIGHT 컬럼이
+    헤더보다 낮은 vy에 있을 경우(=페이지 top → 이전 세트 범위에 잡힘)
+    해당 블록을 새 세트에 포함시킨다.
+    예) set-14-17 헤더: p4 LEFT y=665 / p4 RIGHT (y=159~563)에 지문 3·4문단
+    """
     headers = []
     for vy, x0, text, pi, y0 in blocks:
         m = re.match(r'^\[(\d+)～(\d+)\]', text)
         if m:
-            headers.append((int(m.group(1)), int(m.group(2)), vy))
+            headers.append((int(m.group(1)), int(m.group(2)), vy, pi, x0))
 
     sets = []
-    for i, (qs, qe, vy) in enumerate(headers):
+    for i, (qs, qe, h_vy, h_pi, h_x0) in enumerate(headers):
         end_vy = headers[i+1][2] if i+1 < len(headers) else float('inf')
-        sb = [(vy2, x0, text) for vy2, x0, text, pi, y0 in blocks
-              if vy <= vy2 < end_vy]
+
+        sb = [(vy2, x0, text) for vy2, x0, text, pi2, y02 in blocks
+              if h_vy <= vy2 < end_vy]
+
+        # 헤더가 LEFT 컬럼에 있을 때만 look-back:
+        # 같은 페이지 RIGHT 컬럼이 헤더 vy보다 이른 경우(= 지문이 페이지 top부터 시작)
+        # → 이 RIGHT 블록들은 실제로 이 세트의 지문 내용임
+        if h_x0 < 430:
+            page_right_floor = h_pi * PAGE_H
+            extra = [(vy2, x0, text) for vy2, x0, text, pi2, y02 in blocks
+                     if x0 >= 430 and pi2 == h_pi and page_right_floor <= vy2 < h_vy]
+            sb = sorted(sb + extra)
+
         sets.append({'q_range': [qs, qe], 'blocks': sb})
     return sets
 
@@ -335,6 +352,14 @@ def build_set(set_info, set_id, q_lookup):
                                  paragraphs=paras_na, markers={}))
     else:
         paras = extract_passage_L(blocks, start_label=None)
+
+        # LEFT 마지막 문단이 마침표 없이 끊기면 RIGHT 컬럼에 이어짐
+        if paras and not re.search(r'[.。？！]$', paras[-1].rstrip()):
+            paras_r = extract_passage_R(blocks, label=None)
+            if paras_r:
+                paras[-1] = (paras[-1] + ' ' + paras_r[0]).strip()
+                paras = paras + paras_r[1:]
+
         if not paras:
             # 화작 초고형: RIGHT컬럼 레이블 → 다음 페이지 LEFT 이어짐
             paras = extract_hwa_passage(blocks)
