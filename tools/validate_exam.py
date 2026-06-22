@@ -70,8 +70,13 @@ def validate(path: str) -> int:
                 error("q_range 형식 오류 (2개 값 필요)"); fail += 1
 
             # ── 4. passages 검수 ───────────────────────
+            # 화작 세트는 학생 초고 등 비표준 레이아웃으로 지문이 빌 수 있음
+            is_hwa_sec = sec.get('id') in ('화법과작문',)
             if not passages:
-                error("passages 비어 있음"); fail += 1
+                if is_hwa_sec:
+                    warn("passages 비어 있음 (화작 비표준 레이아웃, 수동 입력 필요)")
+                else:
+                    error("passages 비어 있음"); fail += 1
             for p in passages:
                 pid = p.get("id") or "단일"
                 paras = p.get("paragraphs", [])
@@ -138,19 +143,35 @@ def validate(path: str) -> int:
                         error(f"{prefix}: passage_ref='{ref}' 존재하지 않는 지문"); fail += 1
 
     # ── 6. 전체 문항 번호 검수 ─────────────────────────
+    # 선택과목(화작/언매)은 35-45번이 두 번 나오므로 섹션 내 중복만 검사
     print("\n[3] 전체 문항 번호")
-    all_q_numbers.sort()
-    duplicates = [n for n in all_q_numbers if all_q_numbers.count(n) > 1]
-    if duplicates:
-        error(f"중복 문항 번호: {list(set(duplicates))}"); fail += 1
+    elective_secs = {'화법과작문', '언어와매체'}
+    elective_q = set()
+    common_q = []
+    for sec in sections:
+        for s in sec.get('sets', []):
+            for q in s.get('questions', []):
+                if sec.get('id') in elective_secs:
+                    elective_q.add(q.get('number'))
+                else:
+                    common_q.append(q.get('number'))
+
+    common_q.sort()
+    common_dups = [n for n in common_q if common_q.count(n) > 1]
+    if common_dups:
+        error(f"공통 파트 중복 문항 번호: {list(set(common_dups))}"); fail += 1
     else:
-        ok(f"중복 없음")
+        ok(f"공통 파트 중복 없음")
+
+    if elective_q:
+        ok(f"선택과목 문항: {sorted(elective_q)} (화작·언매 공유, 중복 허용)")
 
     total_q = meta.get("total_questions")
-    if total_q and len(all_q_numbers) != total_q:
-        warn(f"총 문항 수: meta={total_q}, 실제={len(all_q_numbers)}")
+    unique_q = len(set(common_q) | elective_q)
+    if total_q and unique_q != total_q:
+        warn(f"총 문항 수(고유): meta={total_q}, 실제={unique_q}")
     elif total_q:
-        ok(f"총 문항 수 일치 ({total_q}개)")
+        ok(f"총 문항 수(고유) 일치 ({total_q}개)")
 
     # ── 결과 요약 ──────────────────────────────────────
     print(f"\n{'='*50}")
