@@ -21,8 +21,8 @@ summaryLength = 30
   appearance = 'appearances'
 
 [params]
-  description = "고1~고3 국어 학습 아카이브 — 문학 작품·문법·수능 기출 자료실"
-  subtitle = "문학 · 문법 · 기출을 한 장의 지도로"
+  description = "고1~고3 국어 학습 아카이브 — 문학 작품·문법·한자성어"
+  subtitle = "문학 · 문법 · 한자성어를 한 장의 지도로"
 
 # 상위 메뉴
 [[menu.main]]
@@ -33,10 +33,6 @@ summaryLength = 30
   name = '문법'
   url = '/grammar/'
   weight = 20
-[[menu.main]]
-  name = '기출'
-  url = '/exams/'
-  weight = 30
 [[menu.main]]
   name = '한자성어'
   url = '/idioms/'
