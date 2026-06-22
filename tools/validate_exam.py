@@ -70,11 +70,11 @@ def validate(path: str) -> int:
                 error("q_range 형식 오류 (2개 값 필요)"); fail += 1
 
             # ── 4. passages 검수 ───────────────────────
-            # 화작 세트는 학생 초고 등 비표준 레이아웃으로 지문이 빌 수 있음
-            is_hwa_sec = sec.get('id') in ('화법과작문',)
+            # 화작·언매는 독립 문항이 존재해 지문이 빌 수 있음
+            is_elective_sec = sec.get('id') in ('화법과작문', '언어와매체')
             if not passages:
-                if is_hwa_sec:
-                    warn("passages 비어 있음 (화작 비표준 레이아웃, 수동 입력 필요)")
+                if is_elective_sec:
+                    warn("passages 비어 있음 (선택과목 독립문항 세트, 정상)")
                 else:
                     error("passages 비어 있음"); fail += 1
             for p in passages:
@@ -109,14 +109,20 @@ def validate(path: str) -> int:
 
                 # 선지 수
                 if len(choices) != 5:
-                    error(f"{prefix}: 선지 수 = {len(choices)} (5개 필요)"); fail += 1
+                    if has_image:
+                        warn(f"{prefix}: 선지 수 = {len(choices)} (has_image=True, 이미지 문항)")
+                    else:
+                        error(f"{prefix}: 선지 수 = {len(choices)} (5개 필요)"); fail += 1
                 else:
                     ok(f"{prefix}: 선지 5개")
 
                 # 선지 번호 순서
                 nos = [c.get("no") for c in choices]
                 if nos != [1, 2, 3, 4, 5]:
-                    error(f"{prefix}: 선지 번호 오류 {nos}"); fail += 1
+                    if has_image and not choices:
+                        pass  # has_image 이미지 문항은 선지 0개 허용
+                    else:
+                        error(f"{prefix}: 선지 번호 오류 {nos}"); fail += 1
 
                 # 선지 내용 빈 칸
                 empty = [c["no"] for c in choices if not c.get("text", "").strip()]

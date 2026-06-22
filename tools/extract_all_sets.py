@@ -32,7 +32,10 @@ def load_blocks(pdf_path):
         for b in page.get_text('blocks'):
             x0, y0 = b[0], b[1]
             text = b[4].replace('\n', ' ').strip()
-            if not text or y0 < 140 or y0 > 1085:
+            if not text or y0 < 140 or y0 >= 1084:
+                continue
+            # 시험지 안내 문구 제거 (* 확인 사항, ◦답안지·◦이어서 등)
+            if re.match(r'^[*◦]', text) or text.rstrip() == '하시오.':
                 continue
             # LEFT 컬럼 우선: RIGHT 컬럼에 COL_OFFSET 추가
             col_off = 0 if x0 < 430 else COL_OFFSET
@@ -63,14 +66,26 @@ def split_by_set(blocks):
         sb = [(vy2, x0, text) for vy2, x0, text, pi2, y02 in blocks
               if h_vy <= vy2 < end_vy]
 
-        # 헤더가 LEFT 컬럼에 있을 때만 look-back:
-        # 같은 페이지 RIGHT 컬럼이 헤더 vy보다 이른 경우(= 지문이 페이지 top부터 시작)
-        # → 이 RIGHT 블록들은 실제로 이 세트의 지문 내용임
+        # look-back: 헤더가 LEFT 컬럼일 때
+        # 같은 페이지 RIGHT 컬럼이 헤더 vy보다 이른 경우 → 이 세트 지문 내용
         if h_x0 < 430:
             page_right_floor = h_pi * PAGE_H
             extra = [(vy2, x0, text) for vy2, x0, text, pi2, y02 in blocks
                      if x0 >= 430 and pi2 == h_pi and page_right_floor <= vy2 < h_vy]
             sb = sorted(sb + extra)
+
+        # look-forward: 다음 세트 헤더가 RIGHT 컬럼일 때
+        # 같은 페이지 LEFT 컬럼이 end_vy 이후에도 남아 있는 경우 → 이 세트 내용
+        # (예: Q30 텍스트(LEFT y=701)와 [32-34] 헤더(RIGHT y=700)가 같은 y에 겹칠 때
+        #  Q30 선지(LEFT y=727+)가 end_vy 밖으로 밀려나는 문제 방지)
+        if i + 1 < len(headers):
+            _, _, next_h_vy, next_h_pi, next_h_x0 = headers[i + 1]
+            if next_h_x0 >= 430:
+                page_end = (next_h_pi + 1) * PAGE_H
+                extra_l = [(vy2, x0, text) for vy2, x0, text, pi2, y02 in blocks
+                           if x0 < 430 and pi2 == next_h_pi and end_vy <= vy2 < page_end]
+                if extra_l:
+                    sb = sorted(sb + extra_l)
 
         sets.append({'q_range': [qs, qe], 'blocks': sb})
     return sets
@@ -180,6 +195,7 @@ def _extract_col(col_blocks, is_right: bool):
     questions, cur_q, cur_c = [], None, None
     state = 'INIT'
     bogi_lines = []
+    prev_vy = None   # 페이지 경계 감지용
 
     def flush_c():
         nonlocal cur_c
@@ -192,7 +208,13 @@ def _extract_col(col_blocks, is_right: bool):
         if cur_q:
             questions.append(dict(cur_q))
 
-    for _, x0, text in col_blocks:
+    for vy, x0, text in col_blocks:
+        # 페이지를 넘어가는 선지 이어붙임 차단 (지문 텍스트 오염 방지)
+        if (prev_vy is not None and vy - prev_vy > PAGE_H // 2
+                and state == 'CHOICE'):
+            flush_q(); cur_q = None; state = 'INIT'
+        prev_vy = vy
+
         # 공통 skip / flush
         if re.match(r'^\[(\d+)～(\d+)\]', text):
             flush_q(); cur_q = None; state = 'INIT'   # 새 세트 → 이전 문항 마감
@@ -368,9 +390,14 @@ def build_set(set_info, set_id, q_lookup):
                                  title=None, author=None,
                                  paragraphs=paras, markers={}))
 
-    # 문항: 전체 추출 결과에서 번호 범위로 배정
+    # 문항: 선택과목(35-45)은 세트별 블록에서 직접 추출 (번호 중복 방지)
     qs, qe = q_range
-    questions = [q_lookup[n] for n in range(qs, qe+1) if n in q_lookup]
+    if qs >= 35:
+        per_set_qs = extract_questions([(vy, x0, t) for vy, x0, t in blocks])
+        questions = sorted([q for q in per_set_qs if qs <= q['number'] <= qe],
+                           key=lambda q: q['number'])
+    else:
+        questions = [q_lookup[n] for n in range(qs, qe+1) if n in q_lookup]
 
     return dict(id=set_id, q_range=q_range,
                 type='독서', topic='', field='',
