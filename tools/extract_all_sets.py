@@ -240,6 +240,64 @@ def _extract_col(col_blocks, is_right: bool):
     return questions
 
 
+# ── 화작 초고 지문 추출 (RIGHT→LEFT 컬럼 넘김) ─────────────
+def extract_hwa_passage(blocks):
+    """
+    화작 [학생의 초고] 형식: 지문이 오른쪽 컬럼에서 시작해
+    다음 페이지 왼쪽 컬럼으로 이어지는 패턴 전용 추출.
+    RIGHT 마지막 vy를 기준으로 LEFT 후반부만 이어붙임.
+    """
+    HWA_LABELS = {'[학생의 초고]', '[초고]'}
+
+    right_blocks = [(vy, x0, t) for vy, x0, t in blocks if x0 >= 430]
+    left_blocks  = [(vy, x0, t) for vy, x0, t in blocks if x0 <  430]
+
+    # ① 오른쪽 컬럼 추출
+    paras_r, cur, active, last_vy = [], [], False, -1
+    for vy, x0, text in right_blocks:
+        if re.match(r'^\[(\d+)～(\d+)\]', text): continue
+        if text.strip() in HWA_LABELS:
+            active = True; continue
+        if not active: continue
+        if re.match(r'^\d+[.．]\s', text) and x0 <= 445: break
+        if re.match(r'^[①②③④⑤]', text): break
+        last_vy = vy
+        if 450 <= x0 <= 465:
+            if cur: paras_r.append(norm(' '.join(cur)))
+            cur = [text]
+        elif 430 <= x0 <= 452:
+            cur.append(text)
+    if cur: paras_r.append(norm(' '.join(cur)))
+
+    if last_vy < 0:
+        return paras_r  # 화작 레이블 없음 → 빈 반환
+
+    # ② 왼쪽 컬럼 이어짐: last_vy 이후 블록만 (다음 페이지)
+    paras_l, cur = [], []
+    for vy, x0, text in left_blocks:
+        if vy <= last_vy: continue   # RIGHT 지문과 같은/이전 페이지 skip
+        if re.match(r'^\[(\d+)～(\d+)\]', text): continue
+        if re.match(r'^\d+[.．]\s', text): break   # 문항 시작
+        if re.match(r'^[①②③④⑤]', text): break
+        if 103 <= x0 <= 115:
+            if cur: paras_l.append(norm(' '.join(cur)))
+            cur = [text]
+        elif 85 <= x0 <= 115:
+            cur.append(text)
+    if cur: paras_l.append(norm(' '.join(cur)))
+
+    # 마지막 RIGHT 문단과 첫 LEFT 문단 연결 (페이지 넘김 연속 문단)
+    if paras_r and paras_l:
+        # 오른쪽 끝 문단이 마침표로 끝나지 않으면 이어붙임
+        last_r = paras_r[-1]
+        first_l = paras_l[0]
+        if not re.search(r'[.。]$', last_r.rstrip()):
+            paras_r[-1] = (last_r + ' ' + first_l).strip()
+            paras_l = paras_l[1:]
+
+    return paras_r + paras_l
+
+
 # ── 문항 + 선지 추출 (컬럼 완전 분리) ───────────────────────
 def extract_questions(blocks):
     """
@@ -277,6 +335,9 @@ def build_set(set_info, set_id, q_lookup):
                                  paragraphs=paras_na, markers={}))
     else:
         paras = extract_passage_L(blocks, start_label=None)
+        if not paras:
+            # 화작 초고형: RIGHT컬럼 레이블 → 다음 페이지 LEFT 이어짐
+            paras = extract_hwa_passage(blocks)
         if paras:
             passages.append(dict(id=None, label=None, genre='독서',
                                  title=None, author=None,
