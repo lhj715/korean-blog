@@ -56,7 +56,7 @@
           <div class="q-stem">
             <span class="q-num">{{ $q.number }}.</span>
             {{ $q.question }}
-            {{- with $q.score }}<span class="q-score">[{{ . }}점]</span>{{ end }}
+            {{- if and $q.score (gt (int $q.score) 2) }}<span class="q-score">[{{ $q.score }}점]</span>{{ end }}
           </div>
           {{- with $q.bogi }}
           <div class="bogi">{{ . }}</div>
