@@ -25,10 +25,42 @@ ANS_ENM = {35:5, 36:4, 37:2, 38:4, 39:5, 40:4, 41:3, 42:5, 43:2, 44:1, 45:3}
 
 # has_image: 선지가 이미지/표 안에 있어 텍스트 추출 불가
 HAS_IMAGE_COMMON = {20}   # 문학 Q20 (표형 매칭)
-HAS_IMAGE_HWA   = {39}   # 화작 Q39 (메모 표형)
+HAS_IMAGE_HWA   = set()   # Q39는 수동 입력 완료 → has_image 해제
+
+# Q39 화작: 메모 이미지 안 선지 — 평가원 PDF 15쪽에서 수동 확인 (2026-06-23)
+Q39_CHOICES = [
+    {'no': 1,
+     'text': '○○고는 개교 60주년을 앞두고 시대에 맞지 않는 교가 가사를 바꿈.',
+     'memo_note': '우리도 교훈 변경을 논의하면 좋을 듯함.',
+     'manual_verified': True},
+    {'no': 2,
+     'text': '우리 학교 교훈도 특정 역할만이 부각되고 있음.',
+     'memo_note': '많은 학생들이 교훈에 공감하기 어려움.',
+     'manual_verified': True},
+    {'no': 3,
+     'text': '○○고는 동문회를 설득하는 데 어려움을 겪음.',
+     'memo_note': '우리는 동문 선배들의 의견을 비롯한 여러 의견을 경청해야 함.',
+     'manual_verified': True},
+    {'no': 4,
+     'text': '교훈 변경 추진 여부를 학생회 회의 안건으로 상정하기.',
+     'memo_note': '다른 학교 사례를 찾아서 공유해야 함.',
+     'manual_verified': True},
+    {'no': 5,
+     'text': '학생회 회의 전에 동문 선배들의 의견 수렴하기.',
+     'memo_note': '교훈 변경 추진에 대한 찬반 의견을 조사해야 함.',
+     'manual_verified': True},
+]
 
 def inject(q, ans_map):
     q['answer'] = ans_map.get(q['number'])
+
+
+def postprocess_q39(q):
+    """Q39 화작 메모형 문항: 수동 입력 선지 주입"""
+    q['has_image'] = False
+    q['manual_required'] = False
+    q['choice_format'] = 'memo_two_part'
+    q['choices'] = Q39_CHOICES
 
 
 def postprocess_q20(q):
@@ -100,6 +132,8 @@ for i, s in enumerate(sets):
             q['has_image'] = True
         if q['number'] == 20 and sec == '문학':
             postprocess_q20(q)
+        if q['number'] == 39 and sec == '화법과작문':
+            postprocess_q39(q)
 
     section_data[sec].append(built)
 

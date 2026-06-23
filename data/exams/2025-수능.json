@@ -1737,11 +1737,44 @@
               "type": "",
               "passage_ref": null,
               "bogi": null,
-              "choices": [],
+              "choices": [
+                {
+                  "no": 1,
+                  "text": "○○고는 개교 60주년을 앞두고 시대에 맞지 않는 교가 가사를 바꿈.",
+                  "memo_note": "우리도 교훈 변경을 논의하면 좋을 듯함.",
+                  "manual_verified": true
+                },
+                {
+                  "no": 2,
+                  "text": "우리 학교 교훈도 특정 역할만이 부각되고 있음.",
+                  "memo_note": "많은 학생들이 교훈에 공감하기 어려움.",
+                  "manual_verified": true
+                },
+                {
+                  "no": 3,
+                  "text": "○○고는 동문회를 설득하는 데 어려움을 겪음.",
+                  "memo_note": "우리는 동문 선배들의 의견을 비롯한 여러 의견을 경청해야 함.",
+                  "manual_verified": true
+                },
+                {
+                  "no": 4,
+                  "text": "교훈 변경 추진 여부를 학생회 회의 안건으로 상정하기.",
+                  "memo_note": "다른 학교 사례를 찾아서 공유해야 함.",
+                  "manual_verified": true
+                },
+                {
+                  "no": 5,
+                  "text": "학생회 회의 전에 동문 선배들의 의견 수렴하기.",
+                  "memo_note": "교훈 변경 추진에 대한 찬반 의견을 조사해야 함.",
+                  "manual_verified": true
+                }
+              ],
               "answer": 5,
-              "has_image": true,
+              "has_image": false,
               "explanation": null,
-              "keywords": []
+              "keywords": [],
+              "manual_required": false,
+              "choice_format": "memo_two_part"
             },
             {
               "number": 40,
