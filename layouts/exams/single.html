@@ -59,7 +59,10 @@
             {{- if and $q.score (gt (int $q.score) 2) }}<span class="q-score">[{{ $q.score }}점]</span>{{ end }}
           </div>
           {{- with $q.bogi }}
-          <div class="bogi">{{ . }}</div>
+          <div class="bogi">
+            <div class="bogi-label">〈보기〉</div>
+            <div class="bogi-content">{{ .content }}</div>
+          </div>
           {{- end }}
           {{- if not (eq $q.processing_method "cropped_ocr_required") }}
           {{- $symbols := slice "①" "②" "③" "④" "⑤" }}
