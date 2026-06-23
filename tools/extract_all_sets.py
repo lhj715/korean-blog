@@ -220,7 +220,10 @@ def _extract_col(col_blocks, is_right: bool):
             flush_q(); cur_q = None; state = 'INIT'   # 새 세트 → 이전 문항 마감
             continue
         if text.strip() in ('(가)', '(나)', '(다)'): continue
-        if x0 > 500 and state != 'CHOICE': continue  # 중앙 정렬 제목 (선지 이어짐은 제외)
+        # <보 기> 레이블은 x0 위치 무관 BOGI로 처리해야 함 → skip 조건에서 제외
+        is_bogi_label = bool(re.match(r'^<\s*보\s*기\s*>\s*$', text))
+        if x0 > 500 and state not in ('CHOICE', 'BOGI') and not is_bogi_label:
+            continue  # 중앙 정렬 제목 skip (선지·보기 이어짐은 제외)
 
         # 새 문항 시작
         m_q = re.match(r'^(\d+)[.．]\s+(.*)', text)
