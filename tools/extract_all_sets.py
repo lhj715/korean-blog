@@ -233,7 +233,9 @@ def _extract_col(col_blocks, is_right: bool):
             q_text = re.sub(r'\s*\[\d점\]', '', q_text).strip()
             cur_q = dict(number=num, score=score, question=q_text,
                          type='', passage_ref=None, bogi=None,
-                         choices=[], answer=None, has_image=False,
+                         choices=[], answer=None,
+                         processing_method='normal_text_extraction',
+                         confidence=0.99, needs_review=False,
                          explanation=None, keywords=[])
             cur_c = None; state = 'Q_TEXT'; bogi_lines = []
             continue

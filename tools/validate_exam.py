@@ -140,14 +140,33 @@ def validate(path: str) -> int:
                 score = q.get("score")
                 choices = q.get("choices", [])
                 answer = q.get("answer")
-                has_image = q.get("has_image", False)
+                proc_method = q.get("processing_method", "normal_text_extraction")
+                confidence  = q.get("confidence", 1.0)
+                needs_review = q.get("needs_review", False)
+                is_special   = proc_method != "normal_text_extraction"
 
                 prefix = f"Q{num:02d}"
 
+                # processing_method 유효성
+                valid_methods = {
+                    'normal_text_extraction', 'table_choice_parser',
+                    'memo_image_choice_parser', 'cropped_ocr_required'
+                }
+                if proc_method not in valid_methods:
+                    error(f"{prefix}: 알 수 없는 processing_method='{proc_method}'"); fail += 1
+
+                # needs_review / confidence 경고
+                if needs_review:
+                    warn(f"{prefix}: needs_review=True — 검토 필요")
+                if confidence < 0.8:
+                    warn(f"{prefix}: confidence={confidence:.2f} 낮음")
+                if proc_method == 'cropped_ocr_required':
+                    warn(f"{prefix}: cropped_ocr_required — OCR 처리 대기")
+
                 # 선지 수
                 if len(choices) != 5:
-                    if has_image:
-                        warn(f"{prefix}: 선지 수 = {len(choices)} (has_image=True, 이미지 문항)")
+                    if is_special:
+                        warn(f"{prefix}: 선지 수 = {len(choices)} (processing_method={proc_method})")
                     else:
                         error(f"{prefix}: 선지 수 = {len(choices)} (5개 필요)"); fail += 1
                 else:
@@ -156,14 +175,14 @@ def validate(path: str) -> int:
                 # 선지 번호 순서
                 nos = [c.get("no") for c in choices]
                 if nos != [1, 2, 3, 4, 5]:
-                    if has_image and not choices:
-                        pass  # has_image 이미지 문항은 선지 0개 허용
+                    if is_special and not choices:
+                        pass
                     else:
                         error(f"{prefix}: 선지 번호 오류 {nos}"); fail += 1
 
                 # 선지 내용 빈 칸
                 empty = [c["no"] for c in choices if not c.get("text", "").strip()]
-                if empty and not has_image:
+                if empty and not is_special:
                     warn(f"{prefix}: 선지 {empty} 내용 비어 있음")
 
                 # ── 품질 규칙 ────────────────────────────────
@@ -184,9 +203,9 @@ def validate(path: str) -> int:
                     if short:
                         warn(f"{prefix}: 선지 {short} 길이 과소 (편차 이상)")
 
-                # (C) has_image=True + 선지 비어 있음 → manual_required 후보
-                if has_image and not choices:
-                    warn(f"{prefix}: has_image=True인데 choices 없음 → manual_required 검토 필요")
+                # (C) 특수 처리 방법인데 선지 없음 → cropped_ocr_required 후보
+                if is_special and not choices:
+                    warn(f"{prefix}: processing_method={proc_method}인데 choices 없음 → cropped_ocr_required 검토")
 
                 # (D) 구조화 포맷 검수
                 if choice_fmt == 'table_matching':

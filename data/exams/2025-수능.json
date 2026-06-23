@@ -72,7 +72,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -106,7 +108,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -140,7 +144,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -216,7 +222,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -250,7 +258,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -284,7 +294,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -318,7 +330,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -352,7 +366,9 @@
                 }
               ],
               "answer": 1,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -386,7 +402,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -449,7 +467,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -483,7 +503,9 @@
                 }
               ],
               "answer": 1,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -517,7 +539,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -555,7 +579,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -617,7 +643,9 @@
                 }
               ],
               "answer": 1,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -651,7 +679,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -689,7 +719,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -723,7 +755,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -800,7 +834,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -834,7 +870,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -853,8 +891,7 @@
                     "인물A": "원수",
                     "인물B": "중군장",
                     "소통의 내용": "A가 B에게 군사를 이끌고 가 서융을 사로잡으라고 명령함."
-                  },
-                  "manual_verified": false
+                  }
                 },
                 {
                   "no": 2,
@@ -863,8 +900,7 @@
                     "인물A": "승상",
                     "인물B": "월매",
                     "소통의 내용": "A가 B에게 충렬부인이 있는 곳이 어디 인지 물음."
-                  },
-                  "manual_verified": false
+                  }
                 },
                 {
                   "no": 3,
@@ -873,8 +909,7 @@
                     "인물A": "옥졸",
                     "인물B": "금연",
                     "소통의 내용": "B가 A로부터 옥중 시신의 정체와 관련한 정보를 얻음."
-                  },
-                  "manual_verified": false
+                  }
                 },
                 {
                   "no": 4,
@@ -883,8 +918,7 @@
                     "인물A": "옥졸",
                     "인물B": "승상",
                     "소통의 내용": "A가 B에게, 금연이 옥중 시신에 대하여 발설했을 것이라는 의혹을 제기함."
-                  },
-                  "manual_verified": false
+                  }
                 },
                 {
                   "no": 5,
@@ -893,12 +927,13 @@
                     "인물A": "금연",
                     "인물B": "승상",
                     "소통의 내용": "B가 A로부터 정렬부인이 거짓으로 앓아 누웠었다는 정보를 얻음."
-                  },
-                  "manual_verified": false
+                  }
                 }
               ],
               "answer": 1,
-              "has_image": true,
+              "processing_method": "table_choice_parser",
+              "confidence": 0.95,
+              "needs_review": false,
               "explanation": null,
               "keywords": [],
               "choice_format": "table_matching",
@@ -938,7 +973,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -1025,7 +1062,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1059,7 +1098,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1093,7 +1134,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1131,7 +1174,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1165,7 +1210,9 @@
                 }
               ],
               "answer": 1,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1199,7 +1246,9 @@
                 }
               ],
               "answer": 1,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -1266,7 +1315,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1300,7 +1351,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1334,7 +1387,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1368,7 +1423,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -1443,7 +1500,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1477,7 +1536,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1511,7 +1572,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -1579,7 +1642,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1613,7 +1678,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1647,7 +1714,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -1726,7 +1795,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1741,39 +1812,35 @@
                 {
                   "no": 1,
                   "text": "○○고는 개교 60주년을 앞두고 시대에 맞지 않는 교가 가사를 바꿈.",
-                  "memo_note": "우리도 교훈 변경을 논의하면 좋을 듯함.",
-                  "manual_verified": true
+                  "memo_note": "우리도 교훈 변경을 논의하면 좋을 듯함."
                 },
                 {
                   "no": 2,
                   "text": "우리 학교 교훈도 특정 역할만이 부각되고 있음.",
-                  "memo_note": "많은 학생들이 교훈에 공감하기 어려움.",
-                  "manual_verified": true
+                  "memo_note": "많은 학생들이 교훈에 공감하기 어려움."
                 },
                 {
                   "no": 3,
                   "text": "○○고는 동문회를 설득하는 데 어려움을 겪음.",
-                  "memo_note": "우리는 동문 선배들의 의견을 비롯한 여러 의견을 경청해야 함.",
-                  "manual_verified": true
+                  "memo_note": "우리는 동문 선배들의 의견을 비롯한 여러 의견을 경청해야 함."
                 },
                 {
                   "no": 4,
                   "text": "교훈 변경 추진 여부를 학생회 회의 안건으로 상정하기.",
-                  "memo_note": "다른 학교 사례를 찾아서 공유해야 함.",
-                  "manual_verified": true
+                  "memo_note": "다른 학교 사례를 찾아서 공유해야 함."
                 },
                 {
                   "no": 5,
                   "text": "학생회 회의 전에 동문 선배들의 의견 수렴하기.",
-                  "memo_note": "교훈 변경 추진에 대한 찬반 의견을 조사해야 함.",
-                  "manual_verified": true
+                  "memo_note": "교훈 변경 추진에 대한 찬반 의견을 조사해야 함."
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "memo_image_choice_parser",
+              "confidence": 0.85,
+              "needs_review": false,
               "explanation": null,
               "keywords": [],
-              "manual_required": false,
               "choice_format": "memo_two_part"
             },
             {
@@ -1806,7 +1873,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1840,7 +1909,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1874,7 +1945,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -1938,7 +2011,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -1972,7 +2047,9 @@
                 }
               ],
               "answer": 1,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2006,7 +2083,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -2074,7 +2153,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2108,7 +2189,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -2155,7 +2238,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2189,7 +2274,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2227,7 +2314,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -2302,7 +2391,9 @@
                 }
               ],
               "answer": 4,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2336,7 +2427,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2370,7 +2463,9 @@
                 }
               ],
               "answer": 5,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2404,7 +2499,9 @@
                 }
               ],
               "answer": 2,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }
@@ -2463,7 +2560,9 @@
                 }
               ],
               "answer": 1,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             },
@@ -2497,7 +2596,9 @@
                 }
               ],
               "answer": 3,
-              "has_image": false,
+              "processing_method": "normal_text_extraction",
+              "confidence": 0.99,
+              "needs_review": false,
               "explanation": null,
               "keywords": []
             }

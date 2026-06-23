@@ -23,75 +23,68 @@ ANS_COMMON = {
 ANS_HWA = {35:5, 36:4, 37:3, 38:4, 39:5, 40:4, 41:3, 42:5, 43:2, 44:1, 45:3}
 ANS_ENM = {35:5, 36:4, 37:2, 38:4, 39:5, 40:4, 41:3, 42:5, 43:2, 44:1, 45:3}
 
-# has_image: 선지가 이미지/표 안에 있어 텍스트 추출 불가
-HAS_IMAGE_COMMON = {20}   # 문학 Q20 (표형 매칭)
-HAS_IMAGE_HWA   = set()   # Q39는 수동 입력 완료 → has_image 해제
+# 처리 방식 정의:
+#   normal_text_extraction  — 일반 텍스트 추출 (기본값)
+#   table_choice_parser     — 표형 매칭 선지 파싱
+#   memo_image_choice_parser — 메모/이미지 선지 (이미지 영역에서 확인)
+#   cropped_ocr_required    — OCR 크롭 필요 (미처리)
 
-# Q39 화작: 메모 이미지 안 선지 — 평가원 PDF 15쪽에서 수동 확인 (2026-06-23)
+# Q39 화작: 메모 이미지 안 선지 — 평가원 PDF 15쪽에서 육안 확인 (2026-06-23)
 Q39_CHOICES = [
     {'no': 1,
      'text': '○○고는 개교 60주년을 앞두고 시대에 맞지 않는 교가 가사를 바꿈.',
-     'memo_note': '우리도 교훈 변경을 논의하면 좋을 듯함.',
-     'manual_verified': True},
+     'memo_note': '우리도 교훈 변경을 논의하면 좋을 듯함.'},
     {'no': 2,
      'text': '우리 학교 교훈도 특정 역할만이 부각되고 있음.',
-     'memo_note': '많은 학생들이 교훈에 공감하기 어려움.',
-     'manual_verified': True},
+     'memo_note': '많은 학생들이 교훈에 공감하기 어려움.'},
     {'no': 3,
      'text': '○○고는 동문회를 설득하는 데 어려움을 겪음.',
-     'memo_note': '우리는 동문 선배들의 의견을 비롯한 여러 의견을 경청해야 함.',
-     'manual_verified': True},
+     'memo_note': '우리는 동문 선배들의 의견을 비롯한 여러 의견을 경청해야 함.'},
     {'no': 4,
      'text': '교훈 변경 추진 여부를 학생회 회의 안건으로 상정하기.',
-     'memo_note': '다른 학교 사례를 찾아서 공유해야 함.',
-     'manual_verified': True},
+     'memo_note': '다른 학교 사례를 찾아서 공유해야 함.'},
     {'no': 5,
      'text': '학생회 회의 전에 동문 선배들의 의견 수렴하기.',
-     'memo_note': '교훈 변경 추진에 대한 찬반 의견을 조사해야 함.',
-     'manual_verified': True},
+     'memo_note': '교훈 변경 추진에 대한 찬반 의견을 조사해야 함.'},
 ]
+
 
 def inject(q, ans_map):
     q['answer'] = ans_map.get(q['number'])
 
 
 def postprocess_q39(q):
-    """Q39 화작 메모형 문항: 수동 입력 선지 주입"""
-    q['has_image'] = False
-    q['manual_required'] = False
+    """Q39 화작: 이미지 내 메모형 선지 → 육안 확인 후 주입"""
     q['choice_format'] = 'memo_two_part'
+    q['processing_method'] = 'memo_image_choice_parser'
+    q['confidence'] = 0.85
+    q['needs_review'] = False
     q['choices'] = Q39_CHOICES
 
 
 def postprocess_q20(q):
-    """Q20 표형 매칭 문항: 질문 정리 + cells 파싱"""
-    # 질문 텍스트에서 <학습 활동> 본문 제거
+    """Q20 문학: 표형 매칭 선지 파싱 + 질문 정리"""
     stem = q['question']
     cut = stem.find('｢정을선전｣')
     if cut > 0:
         q['question'] = stem[:cut].strip()
 
     q['choice_format'] = 'table_matching'
+    q['processing_method'] = 'table_choice_parser'
+    q['confidence'] = 0.95
+    q['needs_review'] = False
     q['table_headers'] = ['인물A', '인물B', '소통의 내용']
 
     new_choices = []
     for c in q['choices']:
         raw = c['text'].strip()
         parts = raw.split()
-        if len(parts) >= 3:
-            cells = {
-                '인물A': parts[0],
-                '인물B': parts[1],
-                '소통의 내용': ' '.join(parts[2:])
-            }
-        else:
-            cells = {}
-        new_choices.append({
-            'no': c['no'],
-            'text': raw,
-            'cells': cells,
-            'manual_verified': False
-        })
+        cells = {
+            '인물A': parts[0],
+            '인물B': parts[1],
+            '소통의 내용': ' '.join(parts[2:])
+        } if len(parts) >= 3 else {}
+        new_choices.append({'no': c['no'], 'text': raw, 'cells': cells})
     q['choices'] = new_choices
 
 # ── 로드 ──────────────────────────────────────────────────────
@@ -125,11 +118,6 @@ for i, s in enumerate(sets):
     ans = ANS_HWA if sec == '화법과작문' else (ANS_ENM if sec == '언어와매체' else ANS_COMMON)
     for q in built['questions']:
         inject(q, ans)
-        hi = HAS_IMAGE_COMMON.copy()
-        if sec == '화법과작문':
-            hi |= HAS_IMAGE_HWA
-        if q['number'] in hi:
-            q['has_image'] = True
         if q['number'] == 20 and sec == '문학':
             postprocess_q20(q)
         if q['number'] == 39 and sec == '화법과작문':
@@ -145,8 +133,6 @@ for i, s in enumerate(sets):
         if orphan:
             for q in orphan:
                 inject(q, ANS_ENM)
-                if q['number'] in HAS_IMAGE_COMMON:
-                    q['has_image'] = True
             implicit = dict(
                 id='set-37-39', q_range=[37, 39],
                 type='언어와매체', topic='', field='',
