@@ -160,7 +160,7 @@ def extract_passage_R(blocks, label='(나)'):
 
         if not active and label is None:
             # 레이블 없이 오른쪽 컬럼 시작부터 (단일지문 세트 또는 look-back 구간)
-            if 430 <= x0 <= 465 and not re.match(r'^\d+[.．]\s', text) and not re.match(r'^[①②③④⑤]', text):
+            if 430 <= x0 <= 480 and not re.match(r'^\d+[.．]\s', text) and not re.match(r'^[①②③④⑤]', text):
                 active = True
 
         if not active:
@@ -174,10 +174,10 @@ def extract_passage_R(blocks, label='(나)'):
             break
 
         # 문단 구분 (x0≈455 들여쓰기, x0≈445 이어짐)
-        if 450 <= x0 <= 465:
+        if 450 <= x0 <= 480:
             if cur: paras.append(norm(' '.join(cur)))
             cur = [text]
-        elif 430 <= x0 <= 452:
+        elif 430 <= x0 < 452:
             cur.append(text)
 
     if cur:

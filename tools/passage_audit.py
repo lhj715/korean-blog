@@ -73,7 +73,8 @@ def _label_has_content(set_blocks, label_idx, is_left, min_chars=60):
     chars = 0
     for vy, x0, text in set_blocks[label_idx + 1:]:
         t = text.strip()
-        if t in ('(가)', '(나)', '(다)'):
+        # 같은 컬럼의 다음 레이블에서만 중단 (다른 컬럼 레이블은 무시)
+        if t in ('(가)', '(나)', '(다)') and (x0 < 430) == is_left:
             break
         if re.match(r'^\d+[.．]\s', text):
             break
