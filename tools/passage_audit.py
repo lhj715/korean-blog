@@ -14,6 +14,14 @@ import fitz
 
 PDF  = Path('/home/lhj715/teacher-materials/kice/2025/수능/문제지.pdf')
 JSON = Path('/home/lhj715/korean-blog/data/exams/2025-수능.json')
+
+def _parse_args():
+    """커맨드라인: passage_audit.py [pdf_path] [json_path]"""
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument('pdf',  nargs='?', default=str(PDF))
+    ap.add_argument('json', nargs='?', default=str(JSON))
+    return ap.parse_args()
 PAGE_H   = 2000
 COL_OFF  = 9
 RATIO_LO = 0.80   # JSON 지문이 PDF의 80% 미만이면 경고
@@ -175,6 +183,12 @@ def audit_set(json_set, set_blocks, sec_id):
 
 
 def main():
+    args = _parse_args()
+    global PDF, JSON
+    PDF  = Path(args.pdf)
+    JSON = Path(args.json)
+    print(f"PDF:  {PDF}")
+    print(f"JSON: {JSON}")
     print("PDF 로드 중...")
     all_blocks = load_pdf_blocks()
     headers    = find_set_ranges(all_blocks)
