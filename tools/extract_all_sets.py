@@ -364,16 +364,48 @@ def build_set(set_info, set_id, q_lookup):
     passages = []
 
     if composite:
-        paras_ga = extract_passage_L(blocks, start_label='(가)')
+        # 각 레이블의 컬럼 위치 파악
+        label_cols = {}
+        for _, x0, text in blocks:
+            lbl = text.strip()
+            if lbl in ('(가)', '(나)', '(다)') and lbl not in label_cols:
+                label_cols[lbl] = 'LEFT' if x0 < 430 else 'RIGHT'
+
+        # (가) 추출
+        if label_cols.get('(가)') == 'RIGHT':
+            paras_ga = extract_passage_R(blocks, label='(가)')
+        else:
+            paras_ga = extract_passage_L(blocks, start_label='(가)')
         if paras_ga:
             passages.append(dict(id='가', label='(가)', genre='독서',
                                  title=None, author=None,
                                  paragraphs=paras_ga, markers={}))
-        paras_na = extract_passage_R(blocks, label='(나)')
+
+        # (나) 추출
+        if label_cols.get('(나)') == 'LEFT':
+            paras_na = extract_passage_L(blocks, start_label='(나)')
+        else:
+            paras_na = extract_passage_R(blocks, label='(나)')
         if paras_na:
             passages.append(dict(id='나', label='(나)', genre='독서',
                                  title=None, author=None,
                                  paragraphs=paras_na, markers={}))
+
+        # (다) 추출 (있을 경우)
+        if '(다)' in label_cols:
+            if label_cols['(다)'] == 'LEFT':
+                paras_da = extract_passage_L(blocks, start_label='(다)')
+                if paras_da and not re.search(r'[.。？！]$', paras_da[-1].rstrip()):
+                    paras_r = extract_passage_R(blocks, label=None)
+                    if paras_r:
+                        paras_da[-1] = (paras_da[-1] + ' ' + paras_r[0]).strip()
+                        paras_da = paras_da + paras_r[1:]
+            else:
+                paras_da = extract_passage_R(blocks, label='(다)')
+            if paras_da:
+                passages.append(dict(id='다', label='(다)', genre='독서',
+                                     title=None, author=None,
+                                     paragraphs=paras_da, markers={}))
     else:
         paras = extract_passage_L(blocks, start_label=None)
 
