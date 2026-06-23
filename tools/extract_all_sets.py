@@ -220,7 +220,7 @@ def _extract_col(col_blocks, is_right: bool):
             flush_q(); cur_q = None; state = 'INIT'   # 새 세트 → 이전 문항 마감
             continue
         if text.strip() in ('(가)', '(나)', '(다)'): continue
-        if x0 > 500: continue          # 중앙 정렬 제목
+        if x0 > 500 and state != 'CHOICE': continue  # 중앙 정렬 제목 (선지 이어짐은 제외)
 
         # 새 문항 시작
         m_q = re.match(r'^(\d+)[.．]\s+(.*)', text)

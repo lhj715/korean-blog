@@ -30,6 +30,38 @@ HAS_IMAGE_HWA   = {39}   # 화작 Q39 (메모 표형)
 def inject(q, ans_map):
     q['answer'] = ans_map.get(q['number'])
 
+
+def postprocess_q20(q):
+    """Q20 표형 매칭 문항: 질문 정리 + cells 파싱"""
+    # 질문 텍스트에서 <학습 활동> 본문 제거
+    stem = q['question']
+    cut = stem.find('｢정을선전｣')
+    if cut > 0:
+        q['question'] = stem[:cut].strip()
+
+    q['choice_format'] = 'table_matching'
+    q['table_headers'] = ['인물A', '인물B', '소통의 내용']
+
+    new_choices = []
+    for c in q['choices']:
+        raw = c['text'].strip()
+        parts = raw.split()
+        if len(parts) >= 3:
+            cells = {
+                '인물A': parts[0],
+                '인물B': parts[1],
+                '소통의 내용': ' '.join(parts[2:])
+            }
+        else:
+            cells = {}
+        new_choices.append({
+            'no': c['no'],
+            'text': raw,
+            'cells': cells,
+            'manual_verified': False
+        })
+    q['choices'] = new_choices
+
 # ── 로드 ──────────────────────────────────────────────────────
 blocks = load_blocks(str(PDF))
 sets   = split_by_set(blocks)
@@ -66,6 +98,8 @@ for i, s in enumerate(sets):
             hi |= HAS_IMAGE_HWA
         if q['number'] in hi:
             q['has_image'] = True
+        if q['number'] == 20 and sec == '문학':
+            postprocess_q20(q)
 
     section_data[sec].append(built)
 
