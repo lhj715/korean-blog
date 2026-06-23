@@ -76,18 +76,20 @@ def _label_has_content(set_blocks, label_idx, is_left, min_chars=60):
         # 같은 컬럼의 다음 레이블에서만 중단 (다른 컬럼 레이블은 무시)
         if t in ('(가)', '(나)', '(다)') and (x0 < 430) == is_left:
             break
-        if re.match(r'^\d+[.．]\s', text):
+        # 같은 컬럼의 문항 번호에서만 중단 (다른 컬럼 문항은 무시)
+        if re.match(r'^\d+[.．]\s', text) and (x0 < 430) == is_left:
             break
         if (x0 < 430) == is_left:
             chars += len(text)
     return chars >= min_chars
 
 
-def count_pdf_labels(set_blocks):
+def count_pdf_labels(set_blocks, set_qs=0):
     """
     PDF 세트 블록에서 지문 레벨 (가)(나)(다) 라벨과 위치 반환.
     2컬럼 레이아웃에서는 각 컬럼 독립적으로 첫 문항 번호를 추적.
     레이블 뒤에 같은 컬럼에 실제 텍스트가 없으면 이미지 레이블로 간주해 제외.
+    set_qs: 이 세트의 첫 문항 번호. 이보다 낮은 번호는 이전 세트 혼입 → q_started 설정 안 함.
     """
     labels = {}
     q_started_L = False
@@ -95,7 +97,8 @@ def count_pdf_labels(set_blocks):
     blocks_list = list(set_blocks)  # 인덱싱용
     for idx, (vy, x0, text) in enumerate(blocks_list):
         is_left = x0 < 430
-        if re.match(r'^\d+[.．]\s', text):
+        m_q = re.match(r'^(\d+)[.．]\s', text)
+        if m_q and int(m_q.group(1)) >= set_qs:
             if is_left:
                 q_started_L = True
             else:
@@ -146,12 +149,12 @@ def missing_words(pdf_text, json_text, min_len=4):
     return sorted([w for w in pdf_words if w not in json_text])
 
 
-def audit_set(json_set, set_blocks, sec_id):
+def audit_set(json_set, set_blocks, sec_id, set_qs=0):
     issues = []
     warnings = []
 
     # 1. PDF 라벨 수 vs JSON passages 수
-    pdf_labels = count_pdf_labels(set_blocks)
+    pdf_labels = count_pdf_labels(set_blocks, set_qs=set_qs)
     json_pcount = len(json_set.get('passages', []))
     expected    = len(pdf_labels)
 
@@ -171,7 +174,8 @@ def audit_set(json_set, set_blocks, sec_id):
     if pdf_len > 100:
         ratio = json_len / pdf_len
         if ratio < RATIO_LO:
-            issues.append(f"지문 길이 부족: JSON {json_len}자 / PDF {pdf_len}자 (비율 {ratio:.2f})")
+            # 길이 비율 신뢰도 낮음 (PDF 과다 추정 가능) → 경고로 처리
+            warnings.append(f"지문 길이 부족: JSON {json_len}자 / PDF {pdf_len}자 (비율 {ratio:.2f})")
         elif ratio > RATIO_HI:
             warnings.append(f"지문 길이 초과: JSON {json_len}자 / PDF {pdf_len}자 (비율 {ratio:.2f})")
 
@@ -214,10 +218,10 @@ def main():
             qs, qe  = int(m.group(1)), int(m.group(2))
 
             pdf_blocks = get_set_blocks(all_blocks, headers, qs, qe)
-            issues, warnings = audit_set(s, pdf_blocks, sec_id)
+            issues, warnings = audit_set(s, pdf_blocks, sec_id, set_qs=qs)
 
             status = '✅' if not issues else '❌'
-            pdf_lbls = count_pdf_labels(pdf_blocks)
+            pdf_lbls = count_pdf_labels(pdf_blocks, set_qs=qs)
             json_pc  = len(s.get('passages', []))
             tag = f"PDF{list(pdf_lbls) or '단일'}→JSON{json_pc}개"
 
