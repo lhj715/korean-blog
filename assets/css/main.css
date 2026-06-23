@@ -640,15 +640,9 @@ a.lh-work:hover{border-bottom-color:var(--accent-light);text-decoration:none}
 .bogi-img{display:block;max-width:min(100%,600px);height:auto;margin:6px auto;border:1px solid var(--paper-line)}
 
 /* ── 기출 단일 페이지 ─────────────────────────────────────── */
+.wrap.exam-page{max-width:800px}
 .exam-page .exam-meta{font-size:13px;color:var(--ink-soft);margin:-8px 0 24px}
-.exam-tabs{display:flex;gap:6px;border-bottom:2px solid var(--paper-line);margin-bottom:32px;overflow-x:auto}
-.exam-tab{background:none;border:none;border-bottom:3px solid transparent;padding:10px 18px;font-size:14px;font-weight:600;color:var(--ink-soft);cursor:pointer;margin-bottom:-2px;white-space:nowrap}
-.exam-tab.active{color:var(--gold);border-bottom-color:var(--gold)}
-.exam-tab:hover{color:var(--ink)}
-.exam-section{display:none}
-.exam-section.active{display:block}
-.exam-set{margin-bottom:56px;padding-bottom:40px;border-bottom:1px solid var(--paper-line)}
-.exam-set:last-child{border-bottom:none}
+.exam-set{margin-bottom:56px;padding-bottom:0;border-bottom:none}
 .set-header{display:flex;align-items:center;gap:10px;margin-bottom:16px}
 .set-range{font-size:13px;font-weight:700;color:var(--ink-soft);letter-spacing:.03em}
 .set-topic{font-size:13px;color:var(--ink-soft)}
