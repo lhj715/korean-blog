@@ -126,7 +126,7 @@ def extract_passage_L(blocks, start_label=None):
         if 103 <= x0 <= 115:
             if cur: paras.append(norm(' '.join(cur)))
             cur = [text]
-        elif 85 <= x0 <= 115:
+        elif 85 <= x0 < 120:
             cur.append(text)
 
     if cur:
@@ -158,8 +158,8 @@ def extract_passage_R(blocks, label='(나)'):
                 active = True
             continue
 
-        if not active:
-            # 레이블 없이 오른쪽 컬럼 시작부터 (복합지문에서 (나) 맨 위부터)
+        if not active and label is None:
+            # 레이블 없이 오른쪽 컬럼 시작부터 (단일지문 세트 또는 look-back 구간)
             if 430 <= x0 <= 465 and not re.match(r'^\d+[.．]\s', text) and not re.match(r'^[①②③④⑤]', text):
                 active = True
 
@@ -323,7 +323,7 @@ def extract_hwa_passage(blocks):
         if 103 <= x0 <= 115:
             if cur: paras_l.append(norm(' '.join(cur)))
             cur = [text]
-        elif 85 <= x0 <= 115:
+        elif 85 <= x0 < 120:
             cur.append(text)
     if cur: paras_l.append(norm(' '.join(cur)))
 
@@ -376,6 +376,22 @@ def build_set(set_info, set_id, q_lookup):
             paras_ga = extract_passage_R(blocks, label='(가)')
         else:
             paras_ga = extract_passage_L(blocks, start_label='(가)')
+            # (나)가 RIGHT에 있을 때, (가) 대화가 (나) 레이블 vy 이전의 RIGHT 컬럼에
+            # 흘러넘친 경우 (예: 화작 대화 마지막 줄이 RIGHT 컬럼 상단에 위치)
+            if label_cols.get('(나)') == 'RIGHT' and paras_ga:
+                na_label_vy_r = next(
+                    (vy for vy, x0, t in blocks if t.strip() == '(나)' and x0 >= 430),
+                    None)
+                if na_label_vy_r:
+                    right_spill = [(vy, x0, t) for vy, x0, t in blocks
+                                   if x0 >= 430 and vy < na_label_vy_r]
+                    paras_spill = extract_passage_R(right_spill, label=None)
+                    if paras_spill and len(' '.join(paras_spill)) > 30:
+                        if not re.search(r'[.。？！]$', paras_ga[-1].rstrip()):
+                            paras_ga[-1] = (paras_ga[-1] + ' ' + paras_spill[0]).strip()
+                            paras_ga = paras_ga + paras_spill[1:]
+                        else:
+                            paras_ga = paras_ga + paras_spill
         if paras_ga:
             passages.append(dict(id='가', label='(가)', genre='독서',
                                  title=None, author=None,
@@ -384,6 +400,20 @@ def build_set(set_info, set_id, q_lookup):
         # (나) 추출
         if label_cols.get('(나)') == 'LEFT':
             paras_na = extract_passage_L(blocks, start_label='(나)')
+            # (나) 레이블이 LEFT이지만 마지막 단락이 마침표 없이 끊기면
+            # (나) 레이블 vy 이전의 RIGHT 컬럼에 이어지는 내용이 있을 수 있음
+            # (예: set-04-09에서 (나) 내용이 RIGHT 컬럼에 있고 LEFT에는 첫 문장만)
+            if paras_na and not re.search(r'[.。？！]$', paras_na[-1].rstrip()):
+                na_label_vy = next(
+                    (vy for vy, x0, t in blocks if t.strip() == '(나)' and x0 < 430),
+                    None)
+                if na_label_vy:
+                    right_before_na = [(vy, x0, t) for vy, x0, t in blocks
+                                       if x0 >= 430 and vy < na_label_vy]
+                    paras_r = extract_passage_R(right_before_na, label=None)
+                    if paras_r:
+                        paras_na[-1] = (paras_na[-1] + ' ' + paras_r[0]).strip()
+                        paras_na = paras_na + paras_r[1:]
         else:
             paras_na = extract_passage_R(blocks, label='(나)')
         if paras_na:
@@ -408,13 +438,21 @@ def build_set(set_info, set_id, q_lookup):
                                      paragraphs=paras_da, markers={}))
     else:
         paras = extract_passage_L(blocks, start_label=None)
+        paras_r = extract_passage_R(blocks, label=None)
 
-        # LEFT 마지막 문단이 마침표 없이 끊기면 RIGHT 컬럼에 이어짐
-        if paras and not re.search(r'[.。？！]$', paras[-1].rstrip()):
-            paras_r = extract_passage_R(blocks, label=None)
-            if paras_r:
+        if paras_r:
+            if paras and not re.search(r'[.。？！]$', paras[-1].rstrip()):
+                # 마지막 LEFT 문단이 끊긴 경우 RIGHT로 이어붙임
                 paras[-1] = (paras[-1] + ' ' + paras_r[0]).strip()
                 paras = paras + paras_r[1:]
+            elif not paras:
+                # LEFT 비어 있으면 RIGHT 사용
+                paras = paras_r
+            else:
+                # LEFT 완결 + RIGHT에도 내용 있음 (예: 고전소설 2컬럼 병렬 서사)
+                # 충분한 양일 때만 추가 (짧은 잔류 텍스트 오탐 방지)
+                if len(' '.join(paras_r)) > 100:
+                    paras = paras + paras_r
 
         if not paras:
             # 화작 초고형: RIGHT컬럼 레이블 → 다음 페이지 LEFT 이어짐
