@@ -5,6 +5,7 @@
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -12,6 +13,42 @@ from pathlib import Path
 def error(msg): print(f"  ❌ {msg}")
 def warn(msg):  print(f"  ⚠️  {msg}")
 def ok(msg):    print(f"  ✅ {msg}")
+
+
+# ── 선지 품질 검수 헬퍼 ───────────────────────────────────────
+
+# 문장을 끝맺지 않는 접속형·관형사형 어미
+_TRUNCATED = re.compile(
+    r'(이므로|하므로|하여|하여서|이어서|이며|하며|이고|하고|이나|이거나'
+    r'|인데|하는데|이는데|에서|으로서|로서|이라서|이라|이어|이지)$'
+)
+
+
+def check_truncation(text: str):
+    """선지가 불완전하게 끊겼으면 (True, 이유) 반환"""
+    t = text.strip()
+    if not t:
+        return False, ''
+    if t[-1] in (',', '，'):
+        return True, '쉼표로 끝남'
+    if _TRUNCATED.search(t):
+        return True, f'접속형 어미로 끝남 (…{t[-5:]})'
+    return False, ''
+
+
+def check_length_variance(choices: list):
+    """선지 길이 편차 이상 여부 체크 — 짧은 선지 번호 목록 반환"""
+    texts = [c.get('text', '') for c in choices]
+    lengths = [len(t) for t in texts]
+    if not lengths or max(lengths) == 0:
+        return []
+    median = sorted(lengths)[len(lengths) // 2]
+    threshold = max(median * 0.3, 8)   # 중앙값의 30% 또는 8자 미만
+    return [
+        choices[i].get('no')
+        for i, l in enumerate(lengths)
+        if l < threshold and l < median
+    ]
 
 
 def validate(path: str) -> int:
@@ -128,6 +165,42 @@ def validate(path: str) -> int:
                 empty = [c["no"] for c in choices if not c.get("text", "").strip()]
                 if empty and not has_image:
                     warn(f"{prefix}: 선지 {empty} 내용 비어 있음")
+
+                # ── 품질 규칙 ────────────────────────────────
+                choice_fmt = q.get('choice_format', '')
+
+                # (A) 끊긴 선지 감지 (어휘형 단답 선지 <15자는 제외)
+                for c in choices:
+                    t = c.get('text', '')
+                    if len(t) < 15:
+                        continue   # 어휘 대체형 등 단답 선지는 접속형 어미로 끝나도 정상
+                    cut, reason = check_truncation(t)
+                    if cut:
+                        warn(f"{prefix}-{c['no']}: 선지 끊김 가능성 — {reason}")
+
+                # (B) 길이 편차 과다
+                if len(choices) == 5:
+                    short = check_length_variance(choices)
+                    if short:
+                        warn(f"{prefix}: 선지 {short} 길이 과소 (편차 이상)")
+
+                # (C) has_image=True + 선지 비어 있음 → manual_required 후보
+                if has_image and not choices:
+                    warn(f"{prefix}: has_image=True인데 choices 없음 → manual_required 검토 필요")
+
+                # (D) 구조화 포맷 검수
+                if choice_fmt == 'table_matching':
+                    missing = [c['no'] for c in choices if not c.get('cells')]
+                    if missing:
+                        error(f"{prefix}: choice_format=table_matching인데 cells 없는 선지 {missing}"); fail += 1
+                    else:
+                        ok(f"{prefix}: table_matching cells 완비")
+                if choice_fmt == 'memo_two_part':
+                    missing = [c['no'] for c in choices if 'memo_note' not in c]
+                    if missing:
+                        error(f"{prefix}: choice_format=memo_two_part인데 memo_note 없는 선지 {missing}"); fail += 1
+                    else:
+                        ok(f"{prefix}: memo_two_part memo_note 완비")
 
                 # 정답
                 if answer is None:

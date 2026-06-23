@@ -240,8 +240,8 @@ def _extract_col(col_blocks, is_right: bool):
 
         if cur_q is None: continue
 
-        # 보기 시작
-        if re.match(r'^<보', text) and state in ('Q_TEXT', 'CHOICE'):
+        # 보기 시작 — 독립 레이블만 (예: "<보 기>", "<보기>"). 선지 안 "<보기>에서..." 는 제외
+        if re.match(r'^<보[^>]*>\s*$', text) and state in ('Q_TEXT', 'CHOICE'):
             state = 'BOGI'; bogi_lines = []; continue
 
         # 선지 시작 (한 블록에 여러 선지가 인라인으로 오는 경우 분리)
