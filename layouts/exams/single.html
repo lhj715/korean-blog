@@ -52,30 +52,22 @@
       {{/* 문항 */}}
       <div class="set-questions">
         {{- range $q := $s.questions }}
-        <div class="question" id="prob{{ $q.number }}">
-          <div class="q-stem">
-            <span class="q-num">{{ $q.number }}.</span>
-            {{ $q.question }}
-            {{- if and $q.score (gt (int $q.score) 2) }}<span class="q-score">[{{ $q.score }}점]</span>{{ end }}
-          </div>
+        <div class="q-block" id="prob{{ $q.number }}">
+          <p class="q-stem">{{ $q.number }}. {{ $q.question }}{{- if and $q.score (gt (int $q.score) 2) }}<span class="q-pt-inline">[{{ $q.score }}점]</span>{{ end }}</p>
           {{- with $q.bogi }}
-          <div class="bogi">
-            <div class="bogi-label">〈보기〉</div>
-            <div class="bogi-content">{{ .content }}</div>
+          <div class="q-bogi">
+            <p class="bogi-label">&lt; 보 기 &gt;</p>
+            <p>{{ .content }}</p>
           </div>
           {{- end }}
           {{- if not (eq $q.processing_method "cropped_ocr_required") }}
           {{- $symbols := slice "①" "②" "③" "④" "⑤" }}
-          <ol class="choices">
+          <ul class="q-opts">
             {{- range $c := $q.choices }}
             {{- $isAns := and $q.answer (eq (int $q.answer) (int $c.no)) }}
-            <li class="choice{{ if $isAns }} ans{{ end }}"
-                id="q{{ $q.number }}-{{ $c.no }}">
-              <span class="cho-no">{{ index $symbols (sub (int $c.no) 1) }}</span>
-              {{ $c.text }}
-            </li>
+            <li id="q{{ $q.number }}-{{ $c.no }}"{{ if $isAns }} class="ans"{{ end }}>{{ index $symbols (sub (int $c.no) 1) }} {{ $c.text }}</li>
             {{- end }}
-          </ol>
+          </ul>
           {{- else }}
           <p class="ocr-note">※ 선지가 이미지 형태로 수록되어 있어 텍스트 제공이 어렵습니다.</p>
           {{- end }}
@@ -114,8 +106,8 @@ var btn = document.getElementById('ansToggle');
 if(btn){
   btn.addEventListener('click', function(){
     shown = !shown;
-    document.querySelectorAll('.choice.ans').forEach(function(el){
-      el.classList.toggle('ans-visible', shown);
+    document.querySelectorAll('.q-opts li.ans').forEach(function(el){
+      el.classList.toggle('opt-hl-ans', shown);
     });
     btn.textContent = shown ? '정답 숨기기' : '정답 보기';
   });

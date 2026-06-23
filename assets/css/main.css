@@ -658,20 +658,9 @@ a.lh-work:hover{border-bottom-color:var(--accent-light);text-decoration:none}
 .passage-para{font-size:15px;line-height:2;color:var(--ink);margin:0 0 10px;text-indent:.4em}
 .passage-para:last-child{margin-bottom:0}
 .set-questions{padding-top:20px;border-top:1px dashed var(--paper-line)}
-.question{margin-bottom:28px;padding:16px;background:var(--paper-warm);border-radius:6px}
-.question:last-child{margin-bottom:0}
-.q-stem{font-size:14px;line-height:1.8;color:var(--ink);margin-bottom:12px}
-.q-num{font-weight:700;margin-right:4px}
-.q-score{font-size:12px;color:var(--ink-soft);margin-left:6px}
-.bogi{font-size:14px;line-height:1.8;color:var(--ink);background:#f8f5ee;border:1px solid #d9c98a;border-radius:4px;padding:10px 14px;margin-bottom:12px}
-.bogi-label{font-size:12px;font-weight:700;color:#7a5a06;letter-spacing:.06em;margin-bottom:6px}
-.bogi-content{font-size:14px;line-height:1.85}
-.choices{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
-.choice{display:flex;gap:8px;font-size:14px;line-height:1.7;padding:7px 10px;border-radius:4px;color:var(--ink)}
-.cho-no{font-weight:700;flex-shrink:0;color:var(--ink-mid)}
-.choice.ans .cho-no{color:var(--ink-soft)}
-.choice.ans-visible{background:#d3eddd}
-.choice.ans-visible .cho-no{color:#1f7a3d;font-weight:700}
+.q-pt-inline{font-size:12px;color:var(--ink-soft);margin-left:6px}
+.exam-page .q-block{margin-bottom:16px}
+.exam-page .set-questions .q-opts li.ans.opt-hl-ans{background:#e7f5ec;box-shadow:0 0 0 4px #e7f5ec}
 .ocr-note{font-size:13px;color:var(--ink-soft);font-style:italic;margin:8px 0 0}
 .answer-toggle-wrap{text-align:center;padding:24px 0 40px}
 .answer-toggle{background:var(--gold);color:#fff;border:none;padding:10px 28px;border-radius:4px;font-size:14px;font-weight:600;cursor:pointer;letter-spacing:.03em}
