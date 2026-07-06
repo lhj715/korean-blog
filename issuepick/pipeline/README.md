@@ -10,10 +10,31 @@
 
 ## 사용법
 
+### ① 글감 발굴 (RSS 워치리스트)
 ```bash
 pip install pyyaml
 python watch_feeds.py        # 새 글감 후보 수집 → candidates/YYYY-MM-DD.json
 ```
+
+### ② 본문 수집 (아로스100 10-32~34 방식)
+키워드로 네이버 검색 API 상위 3개 블로그를 찾아 `m.blog.naver.com` 본문 전체를 수집:
+```bash
+pip install requests beautifulsoup4
+export NAVER_CLIENT_ID=... NAVER_CLIENT_SECRET=...
+python collect_bodies.py "청년도약계좌 조건"     # → briefs/청년도약계좌-조건.json
+```
+
+### ③ 초안 생성 (아로스100 10-34~35 방식, Claude 2단계)
+1단계: 3개 본문에서 공통 정보·차별 정보·콘텐츠 갭 추출 → 2단계: 문장 재사용 없이 새 글 작성:
+```bash
+pip install anthropic
+export ANTHROPIC_API_KEY=...
+python generate_draft.py briefs/청년도약계좌-조건.json --section youth
+# → ../content/youth/청년도약계좌-조건.md (draft: true)
+# → briefs/*.analysis.md (검수용 분석 결과)
+```
+
+검수 후 `draft: true` 제거 → push → 자동 배포.
 
 - `sources.yaml` — 워치리스트. 벤치마킹할 네이버 블로그는 `rss.blog.naver.com/블로그ID.xml` 형태로 추가
 - `seen.json` — 중복 방지 (이미 본 글 URL)
