@@ -1,0 +1,62 @@
+# 이슈픽 소스 워치리스트
+# role: topic  → 주제·타이밍 신호로만 사용 (본문 재사용 금지)
+# role: fact   → 금액·조건·기한 등 사실관계의 근거 (공식 기관)
+
+feeds:
+  # ── 주제 발굴: 잘하는 네이버 블로그 (rss.blog.naver.com/{ID}.xml) ──
+  # 여기에 벤치마킹할 블로그 ID를 추가하세요
+  - id: example-blog
+    name: "예시 블로그 (교체 필요)"
+    url: "https://rss.blog.naver.com/블로그ID.xml"
+    role: topic
+    sections: [subsidy, welfare]
+    enabled: false
+
+  # ── 팩트: 정부 공식 소스 ──
+  - id: moef
+    name: "기획재정부 보도자료"
+    url: "https://www.moef.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000028"
+    role: fact
+    sections: [subsidy, tax, money]
+    enabled: true
+
+  - id: mohw
+    name: "보건복지부 보도자료"
+    url: "https://www.mohw.go.kr/rss/news.xml"
+    role: fact
+    sections: [welfare]
+    enabled: true
+
+  - id: mss
+    name: "중소벤처기업부 보도자료"
+    url: "https://www.mss.go.kr/site/smba/foffice/rss.do?bcIdx=86"
+    role: fact
+    sections: [subsidy]
+    enabled: true
+
+  - id: molit
+    name: "국토교통부 보도자료"
+    url: "https://www.molit.go.kr/USR/NEWS/m_71/rss.xml"
+    role: fact
+    sections: [housing]
+    enabled: true
+
+# 키워드 필터: 제목에 이 단어가 있으면 후보로 채택
+include_keywords:
+  - 지원금
+  - 지원사업
+  - 보조금
+  - 수당
+  - 급여
+  - 바우처
+  - 신청
+  - 모집
+  - 환급
+  - 감면
+  - 청년
+  - 대출
+
+exclude_keywords:
+  - 인사발령
+  - 채용
+  - 장관 동정
