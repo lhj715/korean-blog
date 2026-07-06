@@ -46,6 +46,14 @@ weight = 50
 name = '주거·부동산'
 pageRef = '/housing'
 weight = 60
+[[menus.main]]
+name = '대상별'
+pageRef = '/targets'
+weight = 70
+[[menus.main]]
+name = '지역별'
+pageRef = '/regions'
+weight = 80
 
 [markup.goldmark.renderer]
 unsafe = true

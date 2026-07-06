@@ -38,4 +38,13 @@
     {{ end }}
   </div>
 </section>
+
+<section class="home-section">
+  <h2 class="section-title">지역별로 찾기</h2>
+  <div class="chip-row">
+    {{ range site.Taxonomies.regions.ByCount }}
+    <a class="chip chip-lg" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a>
+    {{ end }}
+  </div>
+</section>
 {{ end }}

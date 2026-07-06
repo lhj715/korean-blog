@@ -1,0 +1,11 @@
+{{ define "main" }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+  <p class="page-desc">원하는 항목을 선택하면 관련 혜택을 모두 볼 수 있습니다.</p>
+</header>
+<div class="chip-row" style="padding-bottom:48px">
+  {{ range .Data.Terms.ByCount }}
+  <a class="chip chip-lg" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a>
+  {{ end }}
+</div>
+{{ end }}
