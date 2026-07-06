@@ -1,0 +1,10 @@
+<header class="topbar">
+  <div class="container topbar-inner">
+    <a class="brand" href="/">이슈<span class="brand-accent">픽</span></a>
+    <nav class="mainnav" aria-label="주요 메뉴">
+      {{ range site.Menus.main }}
+      <a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} class="active" aria-current="page"{{ end }}>{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>

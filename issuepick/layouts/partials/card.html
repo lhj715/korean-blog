@@ -1,0 +1,25 @@
+{{/* 글 목록 카드. 컨텍스트: 페이지 */}}
+{{ $deadline := "" }}
+{{ $dday := "" }}
+{{ $closed := false }}
+{{ with .Params.deadline }}
+  {{ $t := time . }}
+  {{ $deadline = $t.Format "2006.01.02" }}
+  {{ $days := div ($t.Sub now).Hours 24 | int }}
+  {{ if lt $days 0 }}{{ $closed = true }}{{ else if le $days 14 }}{{ $dday = printf "D-%d" $days }}{{ end }}
+{{ end }}
+<a class="card{{ if $closed }} card-closed{{ end }}" href="{{ .RelPermalink }}">
+  <div class="card-top">
+    <span class="card-section">{{ with .CurrentSection }}{{ .Title }}{{ else }}{{ .Section }}{{ end }}</span>
+    {{ if $closed }}<span class="badge badge-closed">마감</span>
+    {{ else if $dday }}<span class="badge badge-dday">{{ $dday }}</span>
+    {{ else if not .Params.deadline }}<span class="badge badge-open">상시</span>{{ end }}
+  </div>
+  <h3 class="card-title">{{ .Title }}</h3>
+  {{ with .Params.amount }}<p class="card-amount">{{ . }}</p>{{ end }}
+  <p class="card-summary">{{ .Summary | plainify | truncate 80 }}</p>
+  <div class="card-meta">
+    {{ with .Params.targets }}{{ range first 2 . }}<span class="chip">{{ . }}</span>{{ end }}{{ end }}
+    {{ if $deadline }}<span class="card-deadline">~{{ $deadline }}</span>{{ end }}
+  </div>
+</a>

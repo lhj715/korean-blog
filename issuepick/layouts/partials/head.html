@@ -1,0 +1,33 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $title := .Title }}
+{{ if .IsHome }}{{ $title = printf "%s — %s" site.Title site.Params.description }}{{ else }}{{ $title = printf "%s | %s" .Title site.Title }}{{ end }}
+<title>{{ $title }}</title>
+{{ $desc := or .Summary .Params.summary site.Params.description }}
+<meta name="description" content="{{ $desc | plainify | truncate 155 }}">
+{{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc | plainify | truncate 155 }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+{{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">{{ end }}
+{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title }},
+  "datePublished": {{ .Date.Format "2006-01-02" }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02" }},
+  "description": {{ $desc | plainify | truncate 155 }},
+  "publisher": { "@type": "Organization", "name": {{ site.Title }} }
+}
+</script>
+{{ end }}
+{{ with site.Params.adsense }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
+{{ end }}

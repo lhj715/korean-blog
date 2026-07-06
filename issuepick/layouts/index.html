@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>놓치면 손해 보는 <em>돈 되는 정보</em></h1>
+  <p>지원금·정책·혜택을 매일 골라 담습니다. 신청 조건과 마감일까지 한눈에.</p>
+</section>
+
+{{ $all := where site.RegularPages "Section" "in" (slice "subsidy" "youth" "welfare" "money" "tax" "housing") }}
+
+{{/* 마감 임박: deadline이 오늘~14일 이내 */}}
+{{ $urgent := slice }}
+{{ range $all }}
+  {{ with .Params.deadline }}
+    {{ $days := div ((time .).Sub now).Hours 24 | int }}
+    {{ if and (ge $days 0) (le $days 14) }}{{ $urgent = $urgent | append $ }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ with $urgent }}
+<section class="home-section">
+  <h2 class="section-title urgent">⏰ 마감 임박</h2>
+  <div class="card-grid">
+    {{ range first 6 . }}{{ partial "card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+<section class="home-section">
+  <h2 class="section-title">최신 혜택</h2>
+  <div class="card-grid">
+    {{ range first 12 $all.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}
+  </div>
+</section>
+
+<section class="home-section">
+  <h2 class="section-title">대상별로 찾기</h2>
+  <div class="chip-row">
+    {{ range site.Taxonomies.targets.ByCount }}
+    <a class="chip chip-lg" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

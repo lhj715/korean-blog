@@ -1,0 +1,13 @@
+{{- $items := slice -}}
+{{- range site.RegularPages -}}
+{{- $items = $items | append (dict
+  "title" .Title
+  "url" .RelPermalink
+  "section" .Section
+  "summary" (.Summary | plainify)
+  "deadline" (.Params.deadline | default "")
+  "topics" (.Params.topics | default slice)
+  "keywords" (.Params.keywords | default slice)
+) -}}
+{{- end -}}
+{{- $items | jsonify -}}

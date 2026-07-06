@@ -1,0 +1,54 @@
+baseURL = 'https://issue-pick.com/'
+languageCode = 'ko-kr'
+title = '이슈픽'
+hasCJKLanguage = true
+enableRobotsTXT = true
+timeZone = 'Asia/Seoul'
+
+[pagination]
+pagerSize = 20
+
+[taxonomies]
+target = 'targets'      # 대상: 청년, 신혼부부, 소상공인, 전국민 …
+region = 'regions'      # 지역: 전국, 서울, 경기 …
+topic = 'topics'        # 주제 태그: 청년도약계좌, 재난지원금 …
+
+[outputs]
+home = ['HTML', 'RSS', 'JSON']
+section = ['HTML', 'RSS']
+
+[params]
+description = '지원금·정책·혜택, 돈 되는 정보만 골라 담았습니다.'
+adsense = ''   # ca-pub-XXXX 발급 후 입력
+
+[menus]
+[[menus.main]]
+name = '지원금·보조금'
+pageRef = '/subsidy'
+weight = 10
+[[menus.main]]
+name = '청년정책'
+pageRef = '/youth'
+weight = 20
+[[menus.main]]
+name = '복지혜택'
+pageRef = '/welfare'
+weight = 30
+[[menus.main]]
+name = '금융·절약'
+pageRef = '/money'
+weight = 40
+[[menus.main]]
+name = '세금·연말정산'
+pageRef = '/tax'
+weight = 50
+[[menus.main]]
+name = '주거·부동산'
+pageRef = '/housing'
+weight = 60
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[minify]
+minifyOutput = true

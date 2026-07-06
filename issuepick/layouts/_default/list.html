@@ -1,0 +1,11 @@
+{{ define "main" }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="page-desc">{{ . }}</p>{{ end }}
+  {{ .Content }}
+</header>
+<div class="card-grid">
+  {{ range .Paginator.Pages }}{{ partial "card.html" . }}{{ end }}
+</div>
+{{ template "_internal/pagination.html" . }}
+{{ end }}

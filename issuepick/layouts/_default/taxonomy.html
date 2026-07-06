@@ -1,0 +1,9 @@
+{{ define "main" }}
+<header class="page-head">
+  <h1>{{ .Title }} 관련 혜택</h1>
+</header>
+<div class="card-grid">
+  {{ range .Paginator.Pages }}{{ partial "card.html" . }}{{ end }}
+</div>
+{{ template "_internal/pagination.html" . }}
+{{ end }}

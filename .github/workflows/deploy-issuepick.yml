@@ -1,0 +1,28 @@
+name: Build issuepick (Hugo)
+
+on:
+  push:
+    branches: [main]
+    paths: ['issuepick/**']
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.147.9'
+          extended: true
+      - name: Build
+        run: hugo --minify -s issuepick
+      - name: Upload site
+        uses: actions/upload-artifact@v4
+        with:
+          name: issuepick-site
+          path: issuepick/public
+      # 배포처 확정 후 교체:
+      # - Cloudflare Pages: cloudflare/pages-action
+      # - 별도 레포 GitHub Pages: peaceiris/actions-gh-pages (external_repository)

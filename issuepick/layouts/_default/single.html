@@ -1,0 +1,36 @@
+{{ define "main" }}
+<article class="post">
+  <header class="post-head">
+    <nav class="crumb"><a href="/">홈</a> › <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a></nav>
+    <h1>{{ .Title }}</h1>
+    <p class="post-date">{{ .Date.Format "2006년 1월 2일" }}{{ if ne .Lastmod .Date }} · 수정 {{ .Lastmod.Format "2006.01.02" }}{{ end }}</p>
+  </header>
+
+  {{ if or .Params.amount .Params.deadline .Params.apply_url }}
+  <aside class="fact-box">
+    {{ with .Params.amount }}<div class="fact"><span class="fact-label">지원 금액</span><strong class="fact-amount">{{ . }}</strong></div>{{ end }}
+    <div class="fact"><span class="fact-label">신청 기한</span><strong>{{ with .Params.deadline }}{{ (time .).Format "2006년 1월 2일" }}까지{{ else }}상시 접수{{ end }}</strong></div>
+    {{ with .Params.targets }}<div class="fact"><span class="fact-label">지원 대상</span><strong>{{ delimit . " · " }}</strong></div>{{ end }}
+    {{ with .Params.apply_url }}<a class="apply-btn" href="{{ . }}" target="_blank" rel="noopener nofollow">신청 바로가기 →</a>{{ end }}
+  </aside>
+  {{ end }}
+
+  <div class="prose">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.source }}
+  <p class="source">출처: <a href="{{ . }}" target="_blank" rel="noopener nofollow">{{ . }}</a></p>
+  {{ end }}
+
+  {{ $related := .Site.RegularPages.Related . | first 4 }}
+  {{ with $related }}
+  <section class="home-section">
+    <h2 class="section-title">함께 보면 좋은 글</h2>
+    <div class="card-grid">
+      {{ range . }}{{ partial "card.html" . }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+</article>
+{{ end }}
