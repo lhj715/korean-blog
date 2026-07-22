@@ -13,3 +13,8 @@ fetch_*.log
 # 로컬 전용 Claude 설정·자동화 스크립트
 .claude/settings.local.json
 .claude/auto-upload.sh
+
+# ruflo(claude-flow) 런타임 데이터 — `npx ruflo@latest init`으로 재생성됨
+/.agents/
+/.swarm/
+/.claude-flow/
