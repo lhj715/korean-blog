@@ -22,7 +22,7 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const { execSync, execFileSync } = require('child_process');
 const os = require('os');
 
 // Configuration
@@ -42,7 +42,15 @@ const CONFIG = {
   hideCost: /^(1|true|yes|on)$/i.test(process.env.RUFLO_STATUSLINE_HIDE_COST || ''),
 };
 
-const CWD = process.cwd();
+const CWD = process.env.CLAUDE_PROJECT_DIR || process.cwd();
+// The helper's own install root: the project for a project-local helper,
+// $HOME for a home-level one. The CLI is resolved from here, never from CWD,
+// so a home-level statusline does not run code the opened project supplies.
+const HELPER_ROOT = path.resolve(__dirname, '..', '..');
+// Replaced by statusline-generator with the package root of the CLI that
+// installed this helper. This survives custom npm prefixes and bundled Node
+// runtimes whose process.execPath belongs to a different tree (#2811).
+const BAKED_INSTALL_ROOT = "";
 
 // ─── Delegation cache ───────────────────────────────────────────
 // Cache the CLI JSON result so rapid prompt re-renders (Claude Code
@@ -107,9 +115,9 @@ function resolveCliBinCandidates() {
     const home = os.homedir();
     candidates.push(
       path.join(home, '.claude', 'plugins', 'marketplaces', 'ruflo', 'bin', 'cli.js'),
-      path.join(CWD, 'node_modules', '@claude-flow', 'cli', 'bin', 'cli.js'),
-      path.join(CWD, 'node_modules', 'ruflo', 'bin', 'cli.js'),
-      path.join(CWD, 'v3', '@claude-flow', 'cli', 'bin', 'cli.js'),
+      path.join(HELPER_ROOT, 'node_modules', '@claude-flow', 'cli', 'bin', 'cli.js'),
+      path.join(HELPER_ROOT, 'node_modules', 'ruflo', 'bin', 'cli.js'),
+      path.join(HELPER_ROOT, 'v3', '@claude-flow', 'cli', 'bin', 'cli.js'),
     );
     try {
       const binDir = path.dirname(process.execPath);
@@ -233,9 +241,15 @@ function getStatuslineData() {
   // intelligence and an empty promo row (the memo cache that keeps the row
   // populated across CLI hiccups is only ever written from a SUCCESSFUL
   // delegation, so it could never get seeded on Windows either).
+  // These command lines go through a shell, so a path the shell would interpret
+  // (a quote, $, backtick, %, !, newline, or a backslash on POSIX) is never
+  // interpolated: the directory name is chosen by whoever made the checkout.
+  const shellSafe = (p) => !/["`$%!\r\n]/.test(p) && (process.platform === 'win32' || !p.includes('\\'));
   const cmds = resolveCliBinCandidates()
+    .filter((bin) => shellSafe(bin) && shellSafe(process.execPath))
     .map((bin) => '"' + process.execPath + '" "' + bin + '" hooks statusline --json')
-    .concat(['npx --prefer-offline @claude-flow/cli hooks statusline --json']);
+    // --prefix: npx resolves the package from HELPER_ROOT, not the project.
+    .concat(shellSafe(HELPER_ROOT) ? ['npx --prefer-offline --prefix "' + HELPER_ROOT + '" @claude-flow/cli hooks statusline --json'] : []);
   for (const cmd of cmds) {
     try {
       const raw = execSync(
@@ -310,7 +324,6 @@ function getLocalAgentDB() {
 
     const memDb = path.join(CWD, '.swarm', 'memory.db');
     if (fs.existsSync(memDb)) {
-      const Q = String.fromCharCode(34);
       // Two INDEPENDENT statements -- do NOT combine into one. Coupling the
       // vector count with the vector_indexes row count in a single statement
       // meant that on a DB missing the vector_indexes table (older/agentdb-
@@ -320,14 +333,12 @@ function getLocalAgentDB() {
       // thousands of real vectors. Split so a missing table can only zero the
       // HNSW flag, never the count. The init self-heal provisions the table so
       // the flag recovers on the next ruflo init / MCP start.
-      const countSql = Q + 'SELECT COUNT(*) FROM memory_entries WHERE embedding IS NOT NULL;' + Q;
-      const vc = safeExec("sqlite3 'file:" + memDb + "?mode=ro' " + countSql, 1500);
+      const vc = safeExecFile('sqlite3', ['-readonly', memDb, 'SELECT COUNT(*) FROM memory_entries WHERE embedding IS NOT NULL;'], 1500);
       if (vc) result.vectorCount = parseInt(vc, 10) || 0;
       // HNSW flag: separate statement. If vector_indexes is absent, sqlite3
-      // exits non-zero and safeExec returns empty -- hasHnsw stays false (exact
+      // exits non-zero and safeExecFile returns empty -- hasHnsw stays false (exact
       // original semantics: at least one index-config row present).
-      const hnswSql = Q + 'SELECT COUNT(*) FROM vector_indexes;' + Q;
-      const hn = safeExec("sqlite3 'file:" + memDb + "?mode=ro' " + hnswSql, 1500);
+      const hn = safeExecFile('sqlite3', ['-readonly', memDb, 'SELECT COUNT(*) FROM vector_indexes;'], 1500);
       if (hn) result.hasHnsw = (parseInt(hn, 10) || 0) > 0;
     }
   } catch { /* ignore */ }
@@ -404,6 +415,216 @@ function getLocalIntegration() {
   return integration;
 }
 
+// ─── Security freshness overlay (ruvnet/ruflo#2776) ──────────────
+// The shipped CLI producer (dist/src/funnel/local-signals.js getSecurityStatus)
+// only ever emits PENDING / CLEAN / ISSUES — it captures `scannedAt` but never
+// inspects it, so a year-old scan renders 🛡 ✓ forever and the renderer's
+// STALE / IN_PROGRESS branches are unreachable. Worse, when CLI delegation
+// fails, the stale-while-revalidate cache (readCache() below) keeps serving
+// the pre-scan PENDING pill indefinitely, so a user who runs the advertised
+// `ruflo security scan` sees no change — the pill freezes at "scan pending".
+//
+// This overlay recomputes the security block from disk on EVERY render (same
+// pattern as adrs/agentdb/tests/hooks above), which:
+//   1) Makes STALE reachable — when the newest scan is older than
+//      RUFLO_SCAN_STALE_HOURS (default 24h — matches the CVE feed refresh
+//      cadence), report STALE regardless of what the cached CLI JSON says.
+//   2) Makes IN_PROGRESS reachable — when a `scan-in-progress` marker file
+//      exists and is younger than SECURITY_IN_PROGRESS_MAX_MIN (guards against
+//      a crashed scan leaving the marker behind).
+//   3) Caps the "scan pending" display window — if PENDING has been shown for
+//      >RUFLO_SCAN_PENDING_CAP_MIN (default 30) without a completion write,
+//      switch to STALE and stop rendering the yellow indicator. The tracker
+//      lives in ~/.ruflo/statusline-scan-pending-since.json, keyed by CWD
+//      hash so multiple project checkouts don't collide.
+//   4) Since this runs AFTER readCache() serves stale data, it bypasses the
+//      "pill freezes at PENDING" freeze in defect 2 — the overlay reads
+//      fresh disk state even when the CLI delegation is broken.
+const SECURITY_STALE_HOURS = Math.max(1, parseInt(process.env.RUFLO_SCAN_STALE_HOURS || '24', 10) || 24);
+const SECURITY_PENDING_CAP_MIN = Math.max(1, parseInt(process.env.RUFLO_SCAN_PENDING_CAP_MIN || '30', 10) || 30);
+const SECURITY_IN_PROGRESS_MAX_MIN = 30; // marker older than this = crashed scan; treat as absent
+const PENDING_TRACK_FILE = path.join(os.homedir(), '.ruflo', 'statusline-scan-pending-since.json');
+const CWD_KEY = require('crypto').createHash('md5').update(CWD).digest('hex').slice(0, 12);
+
+function readPendingSince() {
+  try {
+    if (!fs.existsSync(PENDING_TRACK_FILE)) return null;
+    const raw = JSON.parse(fs.readFileSync(PENDING_TRACK_FILE, 'utf-8'));
+    if (raw && typeof raw === 'object' && typeof raw[CWD_KEY] === 'number') return raw[CWD_KEY];
+  } catch { /* ignore */ }
+  return null;
+}
+
+function writePendingSince(ts) {
+  try {
+    let obj = {};
+    if (fs.existsSync(PENDING_TRACK_FILE)) {
+      try { obj = JSON.parse(fs.readFileSync(PENDING_TRACK_FILE, 'utf-8')) || {}; } catch { obj = {}; }
+    }
+    if (ts === null) { delete obj[CWD_KEY]; } else { obj[CWD_KEY] = ts; }
+    fs.mkdirSync(path.dirname(PENDING_TRACK_FILE), { recursive: true, mode: 0o700 });
+    fs.writeFileSync(PENDING_TRACK_FILE, JSON.stringify(obj), { encoding: 'utf-8', mode: 0o600 });
+  } catch { /* ignore */ }
+}
+
+function getLocalSecurity(cliSecurity) {
+  const base = (cliSecurity && typeof cliSecurity === 'object')
+    ? Object.assign({}, cliSecurity)
+    : { status: 'NONE', findings: 0, cvesFixed: 0, totalCves: 0 };
+  base.findings = Math.max(0, base.findings || 0);
+
+  const scanDir = path.join(CWD, '.claude', 'security-scans');
+
+  // Detect a live in-progress marker (writer opts-in by writing this file).
+  let inProgress = false;
+  try {
+    const marker = path.join(scanDir, 'scan-in-progress');
+    if (fs.existsSync(marker)) {
+      const ageMin = (Date.now() - fs.statSync(marker).mtimeMs) / 60000;
+      if (ageMin < SECURITY_IN_PROGRESS_MAX_MIN) inProgress = true;
+    }
+  } catch { /* ignore */ }
+
+  // Find newest scan-*.json by mtime and read its findings/timestamp.
+  let newestPath = null;
+  let newestMtime = 0;
+  try {
+    if (fs.existsSync(scanDir)) {
+      for (const name of fs.readdirSync(scanDir)) {
+        if (!name.startsWith('scan-') || !name.endsWith('.json')) continue;
+        try {
+          const st = fs.statSync(path.join(scanDir, name));
+          if (st.mtimeMs > newestMtime) { newestMtime = st.mtimeMs; newestPath = path.join(scanDir, name); }
+        } catch { /* ignore */ }
+      }
+    }
+  } catch { /* ignore */ }
+
+  if (newestPath) {
+    // We have a scan on disk — the never-scanned pending tracker is no longer
+    // relevant. Clear it so a re-created directory can start a fresh window.
+    writePendingSince(null);
+
+    let scannedAtMs = newestMtime;
+    let findings = base.findings;
+    try {
+      const j = JSON.parse(fs.readFileSync(newestPath, 'utf-8'));
+      // scannedAt (CLI producer's field name) OR timestamp (writer's field name).
+      const isoStr = (j && (j.scannedAt || j.timestamp)) || null;
+      if (isoStr) {
+        const t = Date.parse(isoStr);
+        if (!isNaN(t)) scannedAtMs = t;
+      }
+      // findings may be a number, an array, or nested in summary.total.
+      if (j) {
+        if (typeof j.findings === 'number') findings = j.findings;
+        else if (Array.isArray(j.findings)) findings = j.findings.length;
+        else if (j.summary && typeof j.summary.total === 'number') findings = j.summary.total;
+      }
+    } catch { /* ignore parse — fall back to mtime + cached findings */ }
+
+    base.findings = Math.max(0, findings || 0);
+    base.scannedAt = new Date(scannedAtMs).toISOString();
+
+    const ageHours = (Date.now() - scannedAtMs) / 3600000;
+    if (ageHours >= SECURITY_STALE_HOURS) {
+      // Stale but findings still render red (a year-old ISSUES scan is still bad).
+      base.status = 'STALE';
+    } else if (inProgress) {
+      base.status = 'IN_PROGRESS';
+    } else if (base.findings > 0) {
+      base.status = 'ISSUES';
+    } else {
+      base.status = 'CLEAN';
+    }
+    return base;
+  }
+
+  // No scan file. If a live marker exists, we're mid-scan.
+  if (inProgress) {
+    base.status = 'IN_PROGRESS';
+    // Reset the pending tracker so, if the scan crashes mid-flight, the next
+    // render starts a fresh N-minute pending window instead of an already-expired one.
+    writePendingSince(null);
+    return base;
+  }
+
+  // Truly never-scanned: track how long we've shown PENDING. After the cap,
+  // escalate to STALE with the dim/gray glyph so the pill visibly stops
+  // shouting for attention — the user has either ignored it for 30 min or
+  // the scan is silently failing to write.
+  let pendingSince = readPendingSince();
+  if (pendingSince === null || typeof pendingSince !== 'number') {
+    pendingSince = Date.now();
+    writePendingSince(pendingSince);
+  }
+  const pendingAgeMin = (Date.now() - pendingSince) / 60000;
+  base.status = (pendingAgeMin >= SECURITY_PENDING_CAP_MIN) ? 'STALE' : 'PENDING';
+  return base;
+}
+
+// Cached pattern count. The store is routinely >10MB (14.5MB / 1277 patterns on
+// the machine this was diagnosed on, costing 53ms to read+parse), and the
+// statusline re-renders on every prompt, so the parse is keyed on the file's
+// mtime+size and reused until the store actually changes.
+const PATTERN_COUNT_CACHE = path.join(os.tmpdir(), 'ruflo-statusline-patterns-' + require('crypto').createHash('md5').update(CWD).digest('hex').slice(0, 8) + '.json');
+
+function countPatternsCached(file) {
+  let stat;
+  try { stat = fs.statSync(file); } catch { return 0; }
+  const key = stat.mtimeMs + ':' + stat.size;
+
+  try {
+    const memo = JSON.parse(fs.readFileSync(PATTERN_COUNT_CACHE, 'utf-8'));
+    if (memo && memo[file] && memo[file].key === key) return memo[file].count;
+  } catch { /* no memo yet, or unreadable — fall through and recount */ }
+
+  let count = 0;
+  try {
+    const raw = JSON.parse(fs.readFileSync(file, 'utf-8'));
+    if (Array.isArray(raw)) count = raw.length;
+    else if (raw && Array.isArray(raw.patterns)) count = raw.patterns.length;
+    else if (raw && typeof raw === 'object') count = Object.keys(raw).length;
+  } catch { return 0; }
+
+  try {
+    let memo = {};
+    try { memo = JSON.parse(fs.readFileSync(PATTERN_COUNT_CACHE, 'utf-8')) || {}; } catch { /* start fresh */ }
+    memo[file] = { key, count };
+    fs.writeFileSync(PATTERN_COUNT_CACHE, JSON.stringify(memo));
+  } catch { /* cache is an optimisation, never a requirement */ }
+
+  return count;
+}
+
+// `system` is nominally CLI-populated, but the pattern store is on disk, so a
+// dead CLI must not render as "no learning". Without this, every candidate in
+// resolveCliBinCandidates() failing (a source-only marketplace checkout, or an
+// npx fetch that dies in a workspace root) silently degraded the brain to a
+// hardcoded 0% while the overlaid segments beside it kept showing live data —
+// indistinguishable from a genuine zero. Same reasoning as getLocalAgentDB(),
+// which had to start reading locally after the statusline reported "Vectors 0"
+// on a database holding thousands.
+function getLocalIntelligence(current) {
+  const base = (current && typeof current === 'object') ? current : {};
+  if (typeof base.intelligencePct === 'number' && base.intelligencePct > 0) return base;
+
+  for (const file of [
+    path.join(CWD, '.claude-flow', 'neural', 'patterns.json'),
+    path.join(os.homedir(), '.claude-flow', 'neural', 'patterns.json'),
+  ]) {
+    const n = countPatternsCached(file);
+    if (n > 0) {
+      base.intelligencePct = Math.min(100, Math.floor(n / 10));
+      return base;
+    }
+  }
+
+  // No CLI value and no local store: unknown, which is not the same as zero.
+  base.intelligencePct = null;
+  return base;
+}
+
 // Overlay every locally-derived block onto the CLI data (mutates in place).
 function applyLocalOverlays(data) {
   data.adrs = getLocalADRCount();
@@ -411,6 +632,10 @@ function applyLocalOverlays(data) {
   data.tests = getLocalTests();
   data.hooks = getLocalHooks();
   data.integration = getLocalIntegration();
+  // Security overlay: recompute freshness from disk on every render so cached
+  // CLI JSON can never freeze the pill at PENDING. See getLocalSecurity() above.
+  data.security = getLocalSecurity(data.security);
+  data.system = getLocalIntelligence(data.system);
   return data;
 }
 
@@ -424,7 +649,7 @@ function buildLocalFallback() {
     v3Progress: { domainsCompleted: 0, totalDomains: 5, dddProgress: 0, patternsLearned: 0, sessionsCompleted: 0 },
     security: { status: 'NONE', findings: 0, cvesFixed: 0, totalCves: 0 },
     swarm: { activeAgents: 0, maxAgents: CONFIG.maxAgents, coordinationActive: false },
-    system: { memoryMB: memMB, contextPct: 0, intelligencePct: 0, subAgents: 0 },
+    system: { memoryMB: memMB, contextPct: 0, intelligencePct: null, subAgents: 0 },
     lastUpdated: new Date().toISOString(),
   });
 }
@@ -467,6 +692,26 @@ function safeExec(cmd, timeoutMs) {
   }
 }
 
+// safeExec without a shell: the path in args is never parsed as shell syntax.
+function safeExecFile(file, args, timeoutMs) {
+  try {
+    return execFileSync(file, args, {
+      encoding: 'utf-8',
+      timeout: timeoutMs || 2000,
+      stdio: ['pipe', 'pipe', 'pipe'],
+      windowsHide: true,
+    }).trim();
+  } catch {
+    return '';
+  }
+}
+
+// Strip control characters and bidi overrides so text we print cannot emit
+// its own terminal sequences.
+function stripControlChars(value) {
+  return String(value).replace(/[\u0000-\u001f\u007f-\u009f\u202a-\u202e\u2066-\u2069]/g, '');
+}
+
 // Safe JSON file reader (returns null on failure)
 function readJSON(filePath) {
   try {
@@ -481,7 +726,7 @@ function readJSON(filePath) {
 
 function getGitInfo() {
   const result = {
-    name: path.basename(CWD) || 'project', gitBranch: '', modified: 0, untracked: 0,
+    name: stripControlChars(path.basename(CWD)) || 'project', gitBranch: '', modified: 0, untracked: 0,
     staged: 0, ahead: 0, behind: 0,
   };
 
@@ -504,8 +749,8 @@ function getGitInfo() {
   if (parts.length >= 5) {
     const projectName = path.basename(parts[0] || CWD) || path.basename(CWD) || 'project';
     const authorName = parts[1] || 'user';
-    result.name = CONFIG.identityMode === 'author' ? authorName : projectName;
-    result.gitBranch = parts[2] || '';
+    result.name = stripControlChars(CONFIG.identityMode === 'author' ? authorName : projectName);
+    result.gitBranch = stripControlChars(parts[2] || '');
 
     if (parts[3]) {
       for (const line of parts[3].split('\n')) {
@@ -681,10 +926,11 @@ function getPkgVersion() {
   // version (see generateStatuslineScript()'s doc comment) — correct even
   // when this renders via a pure npx invocation with no local install for
   // the candidate scan below to find.
-  let ver = "3.32.9";
+  let ver = "3.32.8";
   try {
     const home = os.homedir();
     const pkgPaths = [
+      ...(BAKED_INSTALL_ROOT ? [path.join(BAKED_INSTALL_ROOT, 'package.json')] : []),
       path.join(home, '.claude', 'plugins', 'marketplaces', 'ruflo', 'package.json'),
       path.join(CWD, 'node_modules', '@claude-flow', 'cli', 'package.json'),
       path.join(CWD, 'node_modules', 'ruflo', 'package.json'),
@@ -712,7 +958,12 @@ function getPkgVersion() {
       // #2221 follow-up: a custom npm prefix (e.g. ~/.npm-global) is decoupled from
       // the node binary location, so the binDir-derived probes above all miss. Also
       // probe the npm prefix from the environment and the common ~/.npm-global default.
-      for (const prefix of [process.env.npm_config_prefix, process.env.PREFIX, path.join(home, '.npm-global')]) {
+      for (const prefix of [
+        process.env.npm_config_prefix,
+        process.env.PREFIX,
+        path.join(home, '.local'),
+        path.join(home, '.npm-global'),
+      ]) {
         if (prefix) globalModuleDirs.push(path.join(prefix, 'lib', 'node_modules'));
       }
       for (const gm of globalModuleDirs) {
@@ -731,14 +982,12 @@ function getPkgVersion() {
     // right after a publish). Taking the first EXISTING candidate meant the
     // header could show a stale version even when a newer install (e.g.
     // node_modules/@claude-flow/cli from a plain npm install) was sitting right there.
-    let found = false;
     for (const p of pkgPaths) {
       if (!fs.existsSync(p)) continue;
       try {
         const pkg = JSON.parse(fs.readFileSync(p, 'utf-8'));
         if (pkg && typeof pkg.version === 'string' && pkg.version.length > 0) {
-          if (!found || compareVersions(pkg.version, ver) > 0) ver = pkg.version;
-          found = true;
+          if (compareVersions(pkg.version, ver) > 0) ver = pkg.version;
         }
       } catch { /* ignore */ }
     }
@@ -782,7 +1031,11 @@ function generateStatusline() {
   const activeAgents = swarm.activeAgents || 0;
   const maxAgents = swarm.maxAgents || CONFIG.maxAgents;
   const coordinationActive = swarm.coordinationActive || false;
-  const intelligencePct = system.intelligencePct || 0;
+  // null/undefined means "no source answered", which must not collapse to 0 --
+  // that is exactly the ambiguity this segment used to present.
+  const intelligencePct = (typeof system.intelligencePct === 'number')
+    ? system.intelligencePct
+    : null;
   const memoryMB = system.memoryMB || 0;
   const subAgents = system.subAgents || 0;
   const findings = Math.max(0, security.findings || 0);
@@ -838,23 +1091,27 @@ function generateStatusline() {
   // do next; diagnostic detail moves to `ruflo status --verbose`.
   const agentsColor = activeAgents > 0 ? c.brightGreen : c.dim;
   const hooksColor = hooksEnabled > 0 ? c.brightGreen : c.dim;
-  const intellColor = intelligencePct >= 80 ? c.brightGreen : intelligencePct >= 40 ? c.brightYellow : c.dim;
+  const intellColor = intelligencePct === null ? c.dim : intelligencePct >= 80 ? c.brightGreen : intelligencePct >= 40 ? c.brightYellow : c.dim;
   const swarmInd = coordinationActive ? c.brightGreen + '◉' + c.reset + ' ' : c.dim + '○' + c.reset + ' ';
   const healthAllGreen = (secStatus === 'CLEAN' || secStatus === 'NONE') && findings === 0;
   const opsParts = [];
   opsParts.push(c.cyan + 'Swarm ' + swarmInd + agentsColor + activeAgents + c.reset + '/' + c.brightWhite + maxAgents + c.reset);
   if (subAgents > 0) opsParts.push(c.brightPurple + '👥 ' + subAgents + c.reset);
   opsParts.push(c.cyan + 'Hooks ' + hooksColor + hooksEnabled + c.reset + '/' + c.brightWhite + hooksTotal + c.reset);
-  opsParts.push(intellColor + '🧠 ' + intelligencePct + '%' + c.reset);
+  opsParts.push(intellColor + '🧠 ' + (intelligencePct === null ? '—' : intelligencePct + '%') + c.reset);
   opsParts.push(c.brightCyan + '💾 ' + memoryMB + 'MB' + c.reset);
   // Health: one glyph when green, terse copy when there's something to act on.
   if (healthAllGreen) {
     opsParts.push(c.brightGreen + '🛡 ✓' + c.reset);
   } else {
+    // #2776: STALE gets dim/gray (distinct from the actionable yellow of
+    // PENDING/IN_PROGRESS) so a stale pill visibly stops shouting for
+    // attention — the user can act on the "run ruflo security scan" prompt or
+    // ignore it without a permanently-yellow indicator.
     if (secStatus === 'PENDING') opsParts.push(c.brightYellow + '🛡 scan pending' + c.reset);
     else if (secStatus === 'IN_PROGRESS') opsParts.push(c.brightYellow + '🛡 scanning…' + c.reset);
     else if (secStatus === 'ISSUES') opsParts.push(c.brightRed + '🛡 findings' + c.reset);
-    else if (secStatus === 'STALE') opsParts.push(c.brightYellow + '🛡 scan stale' + c.reset);
+    else if (secStatus === 'STALE') opsParts.push(c.dim + '🛡 scan stale' + c.reset);
     else if (secStatus !== 'NONE' && secStatus !== 'CLEAN') opsParts.push(c.brightRed + '🛡 ' + secStatus.toLowerCase() + c.reset);
     if (findings > 0) {
       opsParts.push(c.brightRed + '⚠ ' + findings + ' finding' + (findings === 1 ? '' : 's') + c.reset);
@@ -928,7 +1185,7 @@ function safeTerminalLink(label, url) {
   try { parsed = new URL(url); } catch { return label; }
   if (parsed.protocol !== 'https:') return label;
   if (!PROMO_LINK_HOSTS.has(parsed.hostname)) return label;
-  const cleanLabel = String(label).replace(/[\u0000-\u001f\u007f-\u009f\u202a-\u202e\u2066-\u2069]/g, '');
+  const cleanLabel = stripControlChars(label);
   if (cleanLabel.length === 0) return label;
   const ESC = '\u001b';
   return ESC + ']8;;' + parsed.href + ESC + '\\' + cleanLabel + ESC + ']8;;' + ESC + '\\';
@@ -946,9 +1203,7 @@ function getPromoRow(d) {
     // as truncated instead of chopping a word mid-character (was: silent
     // slice(0,100) that could produce output that looked like corrupt data).
     const MAX_LEN = 100;
-    const sanitized = promo.text
-      .replace(/[\u0000-\u001f\u007f-\u009f\u202a-\u202e\u2066-\u2069]/g, '')
-      ;
+    const sanitized = stripControlChars(promo.text);
     const text = (sanitized.length > MAX_LEN ? sanitized.slice(0, MAX_LEN - 1).trimEnd() + '…' : sanitized).trim();
     if (text.length === 0) return null;
     // Split the label from the trailing "· manage: ruflo settings" instruction
