@@ -16,17 +16,16 @@
   </div>
   <div>
     <div class="hero-stats">
-      {{- $lit := site.GetPage "/literature" }}{{ $gr := site.GetPage "/grammar" }}{{ $ex := site.GetPage "/exams" }}
+      {{- $lit := site.GetPage "/literature" }}{{ $gr := site.GetPage "/grammar" }}
       <div><div class="hero-stat-num">{{ with $lit }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">문학 작품</div></div>
       <div><div class="hero-stat-num">{{ with $gr }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">문법 정리</div></div>
-      <div><div class="hero-stat-num">{{ with $ex }}{{ len .RegularPagesRecursive }}{{ else }}0{{ end }}</div><div class="hero-stat-label">기출 자료</div></div>
       <div><div class="hero-stat-num">{{ len hugo.Data.idioms }}</div><div class="hero-stat-label">한자성어</div></div>
     </div>
   </div>
 </section>
 
 <section class="home-section" id="start">
-  <div class="section-head"><h2>어디부터 볼까요</h2><span class="sub">문학 · 문법 · 기출 · 한자성어</span></div>
+  <div class="section-head"><h2>어디부터 볼까요</h2><span class="sub">문학 · 문법 · 한자성어</span></div>
   <div class="pillars">
     {{- $defs := dict
         "literature" (dict "label" "문학" "desc" "고전시가부터 현대소설까지, 작품별 해설·핵심정리·출제이력" "unit" "편")

@@ -7,7 +7,6 @@
     {{- $items := slice
         (dict "u" "/literature/" "h" "문학" "d" "고전시가·현대시 작품 해설")
         (dict "u" "/grammar/" "h" "문법" "d" "음운·단어·문장·어문규정")
-        (dict "u" "/exams/" "h" "기출" "d" "수능·모평·학평 자료실")
         (dict "u" "/idioms/" "h" "한자성어" "d" "빈출 한자성어 뜻·예문") }}
     {{- range $items }}
     <a class="pillar" href="{{ .u | relURL }}">
