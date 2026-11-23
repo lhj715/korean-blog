@@ -77,7 +77,7 @@ def main():
         "grade": grade,
         "exam_id": exam_id,
         "sets": ranges,
-        "summary": f"{m['exam']} 지문 근거 찾기 — 선지마다 판단 근거를 지문에 표시 ({ranges})",
+        "summary": f"{m['exam']} 지문 근거 찾기. 선지마다 판단 근거를 지문에 표시했습니다.",
     }
     head = "---\n" + "\n".join(f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in fm.items()) + "\n---\n"
     out = os.path.join(ROOT, "content", "exams", f"{exam_id}.md")
