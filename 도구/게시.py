@@ -60,8 +60,20 @@ def main():
     os.makedirs(img_dir, exist_ok=True)
     bodies = []
     for _, path, s in sets:
-        names = [p["image"] for p in s["passage"] if p["type"] == "figure"]
-        names += [q["bogi"]["figure"]["image"] for q in s["questions"] if q.get("bogi") and q["bogi"].get("figure")]
+        names = []
+
+        def walk(o):
+            if isinstance(o, dict):
+                for k, v in o.items():
+                    if k in ("image", "display_image") and isinstance(v, str):
+                        names.append(v)
+                    else:
+                        walk(v)
+            elif isinstance(o, list):
+                for v in o:
+                    walk(v)
+        walk(s["passage"])
+        walk([q.get("bogi") for q in s["questions"]])
         for n in names:
             shutil.copy2(os.path.join(os.path.dirname(path), n), os.path.join(img_dir, n))
         bodies.append(render_set(s, lambda n: f"/images/exams/{exam_id}/{n}"))

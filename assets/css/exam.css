@@ -63,3 +63,5 @@
 .xm-rgi{background:rgba(0,0,0,.035)}
 .xm-figtags{font:12px 'Noto Sans KR',sans-serif;color:var(--ink-soft);margin-top:4px}
 .xm-fig.xm-hit{outline:2px solid var(--ev);outline-offset:4px;border-radius:4px}
+.xm-b{font-weight:700}
+.xm-imgtext{margin:6px 0}.xm-imgtext img{max-width:100%;height:auto;background:#fff}

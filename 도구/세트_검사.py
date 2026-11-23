@@ -7,12 +7,18 @@
  A3 배점 2/3, 3점 표시가 PDF 와 일치            A4 지문 항목 종류는 para/verse/label/note/omit/heading/figure 만
  B1 지문·발문·선지·상자 글자가 PDF 텍스트층과 일치(공백 무시)
  B2 그림 글자·보기 머리말·쪽 머리글·선지 기호가 지문·발문·선지에 섞이지 않음
- B3 빠짐 없음: PDF 의 지문·문항 구역 글자가 등록한 조각으로 남김없이 설명된다
+ B3 빠짐 없음(선지 번호는 글 앞·뒤 어느 쪽이든, 마지막 문항 뒤 «확인 사항» 안내는 구역 밖): PDF 의 지문·문항 구역 글자가 등록한 조각으로 남김없이 설명된다
     (그림·표 속 글자는 그림 항목의 pdf_text, 구간 표시 [A] 등은 ranges 의 mark)
  C1 밑줄 범위가 항목 글 안에 그대로 있고 기호 바로 뒤에 온다
  C2 발문·선지에 나오는 ㉠·ⓐ·[A] 등 기호가 지문에서 밑줄·구간으로 등록됨(상자 안 기호·글 속 빈칸 [가] 는 예외)
  C3 등록한 밑줄 범위가 PDF 에 실제로 그어진 밑줄(선 그림)과 글자 단위로 같다(no_line 표시는 쪽 그림으로 확인한 경우만)
  C4 구간 표시([A] 등)가 가리키는 항목·글이 지문에 있다
+ C5 굵은 글씨(bold: [글자 그대로])가 항목 글 안에 있다
+ C6 선지 밑줄(choice_underlines: {"선지번호": [글자 그대로]})이 그 선지 글 안에 있다
+ C7 display_image(쪽에서 잘라 낸 그림으로 대신 보여 주기)는 옛한글 PUA 글자가 든 항목에만
+ C9 PDF 에 밑줄이 그어진 글자가 선지에만 있으면 choice_underlines 에 등록(같은 쪽만 봄). 발문 밑줄 빠짐은 알림
+ (굵은 글씨는 PDF 에서 낱말 조각으로만 읽혀 자동 검사가 오탐투성이라 독립 검토자가 쪽 그림으로 확인한다)
+ C8 choices_in_box(계획표처럼 선지가 상자 항목으로 찍힌 문항)면 선지 글과 번호가 상자 글 안에 있다
  D1 정답 = 정답표                              D2 판단 5개, 정답 표시 1개 = 정답
  D3 판단 말(적절/부적절, 일치/불일치)이 발문 방향과 맞다
  E1 모든 선지에 근거가 1개 이상
@@ -29,12 +35,13 @@ import sys
 
 import fitz
 
-HEADER = re.compile(r"^(\d+|국어영역|국어 영역|고[123]|홀수형|짝수형)$")
+HEADER = re.compile(r"^(\d+|국어영역|국어 영역|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시)$")
 MARKS = "㉠㉡㉢㉣㉤㉥㉦㉧㉮㉯㉰㉱㉲ⓐⓑⓒⓓⓔⓕⓖ"
-NEG = {"부적절", "불일치", "미반영", "틀림"}
-POS = {"적절", "일치", "반영", "맞음"}
+NEG = {"부적절", "불일치", "미반영", "틀림", "확인 불가"}
+POS = {"적절", "일치", "반영", "맞음", "확인 가능"}
 TEXT_TYPES = {"para", "verse", "label", "note", "omit", "heading"}
 CIRS = "①②③④⑤"
+COMMON_NEG = {"않은", "않는", "없는", "아닌", "않다"}  # 발문 강조 밑줄로 흔한 말: 같은 쪽 다른 발문과 헷갈려 선지 검사에서 뺀다
 
 
 def squash(s):
@@ -48,7 +55,7 @@ def pdf_text(path):
     return "\n".join(out)
 
 
-def underlined_runs(path):
+def underlined_runs(path, with_page=False):
     """PDF 에 선으로 그려진 밑줄 위 글자를 읽는 순서(쪽 → 단 → 위아래 → 좌우)대로 돌려준다."""
     runs = []
     for pno, page in enumerate(fitz.open(path)):
@@ -64,12 +71,13 @@ def underlined_runs(path):
                  for l in b.get("lines", []) for sp in l["spans"] for c in sp["chars"]]
         seen = set()
         for x0, x1, y in segs:
-            t = squash("".join(c for c, r in chars if r.x0 >= x0 - 1 and r.x1 <= x1 + 1 and 0 <= y - r.y1 < 4))
+            # 글자 가운데가 선 위에 있으면 밑줄 글자로 본다(선이 마지막 글자보다 1pt 남짓 짧게 끝나는 PDF 가 있다)
+            t = squash("".join(c for c, r in chars if x0 - 0.5 <= (r.x0 + r.x1) / 2 <= x1 + 0.5 and 0 <= y - r.y1 < 4))
             key = (round(x0), round(y))
             if t and key not in seen:
                 seen.add(key)
                 runs.append(((pno, x0 >= half, round(y), x0), t))
-    return [t for _, t in sorted(runs)]
+    return [t for _, t in sorted(runs)] if not with_page else [(k[0], t) for k, t in sorted(runs)]
 
 
 def boxes(q):
@@ -121,7 +129,7 @@ def main():
             fail("A2", w, f"선지 {len(q['choices'])}개 또는 빈 선지")
         if q["points"] not in (2, 3):
             fail("A3", w, "배점이 2/3 이 아님")
-        m = re.search(rf"(^|\n){q['no']}\.\s(.{{0,400}}?)(\n①|①)", src, re.S)
+        m = re.search(rf"(^|\n){q['no']}\.\s(.{{0,3000}}?)(\n①|①)", src, re.S)
         has3 = bool(m and "[3점]" in m.group(2))
         if has3 != (q["points"] == 3):
             fail("A3", w, f"3점 표시 불일치(PDF {'있음' if has3 else '없음'})")
@@ -140,7 +148,7 @@ def main():
             while k > 0 and sq[:k] not in src_sq:
                 k -= 10
             fail("B1", where, f"PDF 와 다름 — {max(k,0)}자째 근처: «{sq[max(k,0):max(k,0)+25]}»")
-        if strict and re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣])|-{4,}|\+{4,}|===|[①②③④⑤]", t):
+        if strict and re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣])|-{4,}|\+{4,}|===|[①②③④⑤]|확인\s*사항|답안지", t):
             fail("B2", where, "그림 글자·보기 머리말·쪽 머리글·선지 기호가 섞임")
 
     # B3 빠짐 없음
@@ -173,7 +181,8 @@ def main():
     else:
         nxt = [m.start() for m in re.finditer(r"\[\d+~\d+\]", src_sq) if m.start() > starts[-1]]
         nq = [m.start() for m in re.finditer(rf"(?<!\d){hi+1}\.", src_sq) if m.start() > starts[-1]]
-        end = min(nxt[:1] + nq[:1] + [len(src_sq)])
+        notice = [m.start() for m in re.finditer(r"\*?확인사항", src_sq) if m.start() > starts[-1]]
+        end = min(nxt[:1] + nq[:1] + notice[:1] + [len(src_sq)])
         leftovers = []
         if s.get("guide") and g >= 0:
             region = src_sq[g + len(squash(s["guide"])): starts[0]]
@@ -188,7 +197,9 @@ def main():
                 pieces.append((f"상자{bi+1} 머리말", box.get("label", "")))
                 for it in box_items(box):
                     pieces.append((f"상자{bi+1} {it['id']}", it["text"] if it["type"] in TEXT_TYPES else it.get("pdf_text", "")))
-            pieces += [(f"선지 {CIRS[k]}", CIRS[k] + c) for k, c in enumerate(q["choices"])]
+            for k, c in enumerate(q["choices"] if not q.get("choices_in_box") else []):
+                before, after = CIRS[k] + squash(c), squash(c) + CIRS[k]
+                pieces.append((f"선지 {CIRS[k]}", before if before in region or after not in region else after))
             leftovers.append((f"{q['no']}번 구역", cut(region, pieces, f"{q['no']}번 구역")))
         # 구간 표시([A] 등)는 PDF 에서 쪽 끝 등 엉뚱한 자리에 찍히므로 남은 글자에서 한 번씩 지운다
         rest = "".join(r for _, r in leftovers)
@@ -199,6 +210,7 @@ def main():
                 fail("B3", "구간", f"구간 표시 «{rg['mark']}» 를 PDF 남은 글자에서 찾지 못함")
             else:
                 rest = rest[:k] + rest[k + len(mk):]
+        rest = rest.replace("◦", "")  # 메모·계획표의 글머리 기호는 장식이라 세지 않는다
         if rest:
             where = ", ".join(w for w, r in leftovers if r)
             fail("B3", where, f"등록되지 않은 PDF 글자가 남음: «{rest[:50]}»")
@@ -212,6 +224,26 @@ def main():
             marks.add(u["mark"])
             if (u["mark"] + u["text"]) not in p["text"] and (u["mark"] + " " + u["text"]) not in p["text"]:
                 fail("C1", f"{p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 기호 바로 뒤에 없음")
+    for p in ul_items:
+        for bt in p.get("bold", []):
+            t, n = (bt, 1) if isinstance(bt, str) else (bt.get("text", ""), bt.get("nth", 1))
+            if not t or p["text"].count(t) < n:
+                fail("C5", f"{p['id']}", f"굵은 글씨 «{t[:20]}»({n}번째) 가 항목 글에 없음")
+    for q in qs:
+        if any(t not in q["stem"] for t in q.get("stem_underlines", [])):
+            fail("C6", f"{q['no']}번", f"발문 밑줄 {q.get('stem_underlines')} 이 발문 글에 없음")
+        if q.get("choices_in_box"):
+            # 계획표처럼 선지가 상자 안 항목으로 찍힌 문항: 선지 글은 상자 글 안에 있어야 하고, 번호 ①~⑤ 도 상자 글에 있어야 한다
+            bt = squash(" ".join(it["text"] for box in boxes(q) for it in box_items(box) if it["type"] in TEXT_TYPES))
+            for k, c in enumerate(q["choices"]):
+                if squash(c) not in bt or CIRS[k] not in bt:
+                    fail("C8", f"{q['no']}번 {CIRS[k]}", "choices_in_box 인데 선지 글·번호가 상자 글에 없음")
+        for k, lst in (q.get("choice_underlines") or {}).items():
+            if not k.isdigit() or not 1 <= int(k) <= 5 or any(t not in q["choices"][int(k) - 1] for t in lst):
+                fail("C6", f"{q['no']}번", f"선지 밑줄 {k}: {lst} 이 선지 글에 없음")
+    for p in ul_items:
+        if p.get("display_image") and not re.search("[-]", p["text"]):
+            fail("C7", f"{p['id']}", "display_image 는 화면에서 깨지는 글자(옛한글 PUA)가 있는 항목에만 쓴다")
     for rg in ranges:
         marks.add(rg["mark"])
         if "paras" in rg:
@@ -250,6 +282,30 @@ def main():
             ok = m not in passage_text and m in box_text
         if not ok:
             fail("C2", "세트", f"{m} 이 발문·선지에 나오는데 지문의 밑줄·구간으로 등록되지 않음")
+
+    # C9: PDF 에 밑줄이 그어진 글자가 선지에만 나오면(지문·상자에는 없음) choice_underlines 에 등록돼 있어야 한다
+    #     발문 밑줄(예: '않은')이 빠진 것은 알림만 한다
+    plain = squash(passage_text + box_text)
+    notes = []
+    page_runs = underlined_runs(prob_pdf, with_page=True)
+    page_sq = [squash(pg.get_text("text")) for pg in fitz.open(prob_pdf)]
+    for q in qs:
+        cu = q.get("choice_underlines") or {}
+        # 이 문항의 발문·선지가 찍힌 쪽의 밑줄만 본다(다른 쪽의 같은 글자 밑줄과 헷갈리지 않게)
+        keys = [squash(q["stem"])[:12]] + [squash(c)[:12] for c in q["choices"]]
+        pages = {i for i, t in enumerate(page_sq) for k in keys if k and k in t}
+        q_runs = {t for pno, t in page_runs if pno in pages}
+        for k, c in enumerate(q["choices"]):
+            reg = "".join(squash(t) for t in cu.get(str(k + 1), []))
+            for r in q_runs:
+                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg:
+                    fail("C9", f"{q['no']}번 {CIRS[k]}", f"PDF 에 밑줄이 그어진 «{r}» 가 선지에 있는데 choice_underlines 에 없음")
+        su = "".join(squash(t) for t in q.get("stem_underlines", []))
+        for r in q_runs:
+            if len(r) >= 2 and r in squash(q["stem"]) and r not in plain and r not in su:
+                notes.append(f"{q['no']}번 발문 «{r}»")
+    if notes:
+        review.append("(알림) 발문 밑줄 확인: " + ", ".join(sorted(set(notes))))
 
     # D, E
     for q in qs:

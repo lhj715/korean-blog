@@ -72,7 +72,7 @@ def main():
     questions = []
     for n in range(start, end + 1):
         block = lines[qi[n]: (qi[n + 1] if n < end else nxt)]
-        idx = [i for i, l in enumerate(block) if l[:1] in CIRCLED]
+        idx = [i for i, l in enumerate(block) if l[:1] and l[:1] in CIRCLED]
         stem_lines = block[: idx[0]]
         stem = join(stem_lines)
         stem = re.sub(rf"^{n}\.\s*", "", stem)

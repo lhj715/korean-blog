@@ -38,6 +38,8 @@ def _spans(text, marks):
             cls.append("xm-ul")
         if any(m[2] == "rg" for m in cover):
             cls.append("xm-rgi")
+        if any(m[2] == "b" for m in cover):
+            cls.append("xm-b")
         if evs:
             cls.append("xm-ev")
             if any(e["ans"] for e in evs):
@@ -60,8 +62,18 @@ def _tag(e):
     return f'<a class="xm-tag{" xm-ans" if e["ans"] else ""}" href="#prob{e["q"]}" data-pick="q{e["q"]}-{e["c"]}">{e["label"]}</a>'
 
 
-def _marks(text, evs, uls=(), rgs=()):
+def _marks(text, evs, uls=(), rgs=(), bolds=()):
     ms = []
+    for bt in bolds:
+        # 글자 그대로 또는 {"text": 글자, "nth": n} (n번째로 나오는 것, 1부터)
+        t, n = (bt, 1) if isinstance(bt, str) else (bt["text"], bt.get("nth", 1))
+        i = -1
+        for _ in range(n):
+            i = text.find(t, i + 1)
+            if i < 0:
+                break
+        if i >= 0:
+            ms.append((i, i + len(t), "b", None))
     for e in evs:
         i = text.find(e["quote"])
         if i < 0:
@@ -86,7 +98,14 @@ def _item(p, evs, inline_rgs, anchor):
         dev = f" data-ev='{ids}'" if ids else ""
         return (f"<figure class='xm-fig' id='{anchor}'{dev}><img src='{p['_src']}' alt='{html.escape(p.get('alt', ''))}' loading='lazy'>"
                 f"{'<figcaption>' + html.escape(p['caption']) + '</figcaption>' if p.get('caption') else ''}{tagline}</figure>")
-    body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs))
+    if p.get("display_image"):
+        # 옛한글(PUA)처럼 글꼴로 못 보여 주는 항목: 쪽에서 잘라 낸 그림을 보인다(글은 alt 로 남긴다)
+        tags = "".join(_tag(e) for e in evs)
+        ids = " ".join(e["id"] for e in evs)
+        dev = f" data-ev='{ids}'" if ids else ""
+        return (f"<div class='xm-imgtext' id='{anchor}'{dev}><img src='{p['_src']}' alt='{html.escape(p['text'])}' loading='lazy'>"
+                f"{'<div class=xm-figtags>근거 ' + tags + '</div>' if tags else ''}</div>")
+    body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", [])))
     cls = {"para": "xm-dlg" if p.get("dialogue") else "", "verse": "xm-verse", "label": "xm-label",
            "note": "xm-note", "omit": "xm-omit", "heading": "xm-head"}[t]
     return f"<p class='{cls}' id='{anchor}'>{body}</p>" if cls else f"<p id='{anchor}'>{body}</p>"
@@ -136,6 +155,8 @@ def render_set(s, img):
                 if rg:
                     h.append(f"<div class='xm-rg'><span class='xm-rgl'>{html.escape(rg)}</span>")
                 cur = rg
+            if p.get("display_image"):
+                p = dict(p, _src=img(p["display_image"]))
             if p["type"] == "figure":
                 p = dict(p, _src=img(p["image"]))
                 evs = by_fig.get(p["id"], [])
@@ -150,7 +171,9 @@ def render_set(s, img):
         J = {j["choice"]: j for j in q["judgments"]}
         h.append(f"<div class='xm-q' id='prob{q['no']}'>")
         pt = " <span class='xm-pt'>[3점]</span>" if q["points"] == 3 else ""
-        h.append(f"<p class='xm-stem'><b>{q['no']}.</b> {html.escape(q['stem'])}{pt}</p>")
+        st = q["stem"]
+        stem_html = _spans(st, [(st.find(t), st.find(t) + len(t), "ul", None) for t in q.get("stem_underlines", []) if t in st])
+        h.append(f"<p class='xm-stem'><b>{q['no']}.</b> {stem_html}{pt}</p>")
         box_evs = list(by_box.get(q["no"], []))
         for box in _boxes(q):
             h.append("<div class='xm-bogi'>")
@@ -162,15 +185,19 @@ def render_set(s, img):
                     mine = by_fig.get(it["id"], [])
                     h.append(_item(it, mine, [], f"q{q['no']}-{it['id']}"))
                 else:
+                    if it.get("display_image"):
+                        it = dict(it, _src=img(it["display_image"]))
                     mine = [e for e in box_evs if e["quote"] in it["text"]]
                     for e in mine:
                         box_evs.remove(e)
                     h.append(_item(it, mine, [], f"q{q['no']}-{it['id']}"))
             h.append("</div>")
         h.append("<ul class='xm-opts'>")
+        cu = q.get("choice_underlines") or {}
         for i, c in enumerate(q["choices"], 1):
             a = J[i]["is_answer"]
-            h.append(f"<li id='q{q['no']}-{i}'>{CIR[i-1]} {html.escape(c)}"
+            ctext = _spans(c, [(c.find(t), c.find(t) + len(t), "ul", None) for t in cu.get(str(i), []) if t in c])
+            h.append(f"<li id='q{q['no']}-{i}'>{CIR[i-1]} {ctext}"
                      f"<a class='xm-src{' xm-ans' if a else ''}' href='#set{lo}-{hi}' data-ev='e{q['no']}-{i}-'>{'정답 근거' if a else '지문 근거'}</a></li>")
         h.append("</ul>")
         h.append(f"<details class='xm-sol'><summary>해설 보기</summary><p class='xm-answer'>정답 <b>{CIR[q['answer']-1]}</b></p>"
