@@ -27,7 +27,7 @@ def main():
 
     css = open(os.path.join(ROOT, "assets", "css", "exam.css"), encoding="utf-8").read()
     js = open(os.path.join(ROOT, "static", "js", "exam.js"), encoding="utf-8").read()
-    body = render_set(s, img)
+    body = render_set(s, img, lambda n: os.path.join(base, n))
     title = s.get("meta", {}).get("exam", "")
     page = (f"<!doctype html><html lang='ko'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>"
             f"<title>리딩맵 미리보기</title><style>{TOKENS}{css}</style></head><body><main class='xm-page'>"

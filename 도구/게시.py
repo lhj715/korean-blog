@@ -76,7 +76,7 @@ def main():
         walk([q.get("bogi") for q in s["questions"]])
         for n in names:
             shutil.copy2(os.path.join(os.path.dirname(path), n), os.path.join(img_dir, n))
-        bodies.append(render_set(s, lambda n: f"/images/exams/{exam_id}/{n}"))
+        bodies.append(render_set(s, lambda n: f"/images/exams/{exam_id}/{n}", lambda n: os.path.join(img_dir, n)))
 
     m = sets[0][2]["meta"]
     date = f"{exam_id[:4]}-{exam_id[4:6]}-{exam_id[6:8]}"

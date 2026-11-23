@@ -6,7 +6,20 @@
 """
 import html
 
+from PIL import Image
+
 CIR = "①②③④⑤"
+# 원본 본문 글자 11.2pt ↔ 화면 본문 15px. 그림을 이 비율로 줄여 그림 속 글씨가 본문과 같은 크기로 보이게 한다.
+PX_PER_PT = 15 / 11.2
+
+
+def img_width(path):
+    """그림_자르기.py 가 적어 둔 dpi 로 원본 크기를 구해 화면 너비(px)를 낸다."""
+    im = Image.open(path)
+    dpi = im.info.get("dpi")
+    if not dpi:
+        raise ValueError(f"그림에 dpi 가 없음(도구/그림_자르기.py 로 다시 자를 것): {path}")
+    return round(im.width * 72 / dpi[0] * PX_PER_PT)
 TEXT_TYPES = {"para", "verse", "label", "note", "omit", "heading"}
 
 
@@ -96,14 +109,14 @@ def _item(p, evs, inline_rgs, anchor):
         tagline = f"<div class='xm-figtags'>그림·표 근거 {tags}</div>" if tags else ""
         ids = " ".join(e["id"] for e in evs)
         dev = f" data-ev='{ids}'" if ids else ""
-        return (f"<figure class='xm-fig' id='{anchor}'{dev}><img src='{p['_src']}' alt='{html.escape(p.get('alt', ''))}' loading='lazy'>"
+        return (f"<figure class='xm-fig' id='{anchor}'{dev}><img src='{p['_src']}' width='{p['_w']}' alt='{html.escape(p.get('alt', ''))}' loading='lazy'>"
                 f"{'<figcaption>' + html.escape(p['caption']) + '</figcaption>' if p.get('caption') else ''}{tagline}</figure>")
     if p.get("display_image"):
         # 옛한글(PUA)처럼 글꼴로 못 보여 주는 항목: 쪽에서 잘라 낸 그림을 보인다(글은 alt 로 남긴다)
         tags = "".join(_tag(e) for e in evs)
         ids = " ".join(e["id"] for e in evs)
         dev = f" data-ev='{ids}'" if ids else ""
-        return (f"<div class='xm-imgtext' id='{anchor}'{dev}><img src='{p['_src']}' alt='{html.escape(p['text'])}' loading='lazy'>"
+        return (f"<div class='xm-imgtext' id='{anchor}'{dev}><img src='{p['_src']}' width='{p['_w']}' alt='{html.escape(p['text'])}' loading='lazy'>"
                 f"{'<div class=xm-figtags>근거 ' + tags + '</div>' if tags else ''}</div>")
     body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", [])))
     cls = {"para": "xm-dlg" if p.get("dialogue") else "", "verse": "xm-verse", "label": "xm-label",
@@ -111,8 +124,11 @@ def _item(p, evs, inline_rgs, anchor):
     return f"<p class='{cls}' id='{anchor}'>{body}</p>" if cls else f"<p id='{anchor}'>{body}</p>"
 
 
-def render_set(s, img):
-    """img(파일명) → <img src> 에 넣을 주소."""
+def render_set(s, img, path):
+    """img(파일명) → <img src> 에 넣을 주소, path(파일명) → 그 그림 파일 경로(크기 계산용)."""
+    def pic(name):
+        return {"_src": img(name), "_w": img_width(path(name))}
+
     meta = s.get("meta", {})
     lo, hi = s["range"]
     by_para, by_box, by_fig = {}, {}, {}
@@ -156,9 +172,9 @@ def render_set(s, img):
                     h.append(f"<div class='xm-rg'><span class='xm-rgl'>{html.escape(rg)}</span>")
                 cur = rg
             if p.get("display_image"):
-                p = dict(p, _src=img(p["display_image"]))
+                p = dict(p, **pic(p["display_image"]))
             if p["type"] == "figure":
-                p = dict(p, _src=img(p["image"]))
+                p = dict(p, **pic(p["image"]))
                 evs = by_fig.get(p["id"], [])
             else:
                 evs = by_para.get(p["id"], [])
@@ -176,17 +192,18 @@ def render_set(s, img):
         h.append(f"<p class='xm-stem'><b>{q['no']}.</b> {stem_html}{pt}</p>")
         box_evs = list(by_box.get(q["no"], []))
         for box in _boxes(q):
-            h.append("<div class='xm-bogi'>")
+            # plain: 원본에 테두리가 없는 묶음(선지 표의 열 머리 등)
+            h.append("<div class='xm-bogi xm-plain'>" if box.get("plain") else "<div class='xm-bogi'>")
             if box.get("label"):
                 h.append(f"<p class='xm-bl'>{html.escape(box['label'])}</p>")
             for it in _box_items(box):
                 if it["type"] == "figure":
-                    it = dict(it, _src=img(it["image"]))
+                    it = dict(it, **pic(it["image"]))
                     mine = by_fig.get(it["id"], [])
                     h.append(_item(it, mine, [], f"q{q['no']}-{it['id']}"))
                 else:
                     if it.get("display_image"):
-                        it = dict(it, _src=img(it["display_image"]))
+                        it = dict(it, **pic(it["display_image"]))
                     mine = [e for e in box_evs if e["quote"] in it["text"]]
                     for e in mine:
                         box_evs.remove(e)

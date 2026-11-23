@@ -273,6 +273,7 @@
     },
     {
      "label": "",
+     "plain": true,
      "blocks": [
       {
        "id": "h1",
