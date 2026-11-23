@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{- with resources.Get "css/exam.css" }}{{ $c := . | minify | fingerprint }}<link rel="stylesheet" href="{{ $c.RelPermalink }}">{{ end }}
+<div class="wrap xm-page">
+  <div class="page-header">
+    <div class="work-kicker">{{ with .Params.grade }}{{ . }} · {{ end }}{{ .Params.category }}</div>
+    <h1>{{ .Title }}</h1>
+  </div>
+  <p class="xm-meta">공개한 세트: {{ .Params.sets }}</p>
+  {{ with index hugo.Data.exams .Params.exam_id }}{{ .html | safeHTML }}{{ end }}
+  <div class="xm-end"></div>
+</div>
+<script src="{{ "js/exam.js" | relURL }}" defer></script>
+{{ end }}

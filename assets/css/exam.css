@@ -1,0 +1,52 @@
+/* 기출 근거 찾기 화면 (도구/기출_렌더.py 가 찍는 xm- 클래스 전용)
+   사이트와 미리보기(도구/미리보기.py)가 이 파일 하나를 같이 쓴다. */
+.xm-page{max-width:800px}
+.xm-meta{font-size:13px;color:var(--ink-soft);margin:-8px 0 28px}
+.xm-set{margin:0 0 64px}
+.xm-set-h{font-size:15px;font-weight:700;color:var(--ink-mid);margin:0 0 12px;letter-spacing:-.01em}
+.xm-passage{background:#fff;border:1px solid var(--paper-line);border-radius:6px;padding:20px 24px;margin:0 0 28px;
+  font-family:'Noto Serif KR',serif;font-size:15.5px;line-height:2;color:var(--ink)}
+.xm-passage p{margin:0 0 6px;text-indent:1em}
+.xm-passage p.xm-guide{font-family:'Noto Sans KR',sans-serif;font-weight:700;text-indent:0;margin:0 0 6px}
+.xm-passage p.xm-legend{font-family:'Noto Sans KR',sans-serif;font-size:12.5px;line-height:1.7;color:var(--ink-soft);
+  text-indent:0;margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--paper-line)}
+.xm-fig{margin:12px 0;text-align:center}
+.xm-fig img,.xm-bogi img{max-width:100%;height:auto;background:#fff}
+.xm-fig figcaption{font-size:13px;color:var(--ink-soft);font-family:'Noto Sans KR',sans-serif}
+.xm-ul{text-decoration:underline;text-underline-offset:4px}
+.xm-ev{border-bottom:2px solid var(--ev);padding-bottom:1px}
+.xm-ev.xm-ans{border-bottom-color:#1f7a3d}
+.xm-ev.xm-hit{background:rgba(31,92,158,.14)}
+.xm-ev.xm-ans.xm-hit{background:rgba(31,122,61,.16)}
+.xm-tag{font:700 11px/1 'Noto Sans KR',sans-serif;color:var(--ev);vertical-align:super;margin:0 2px;cursor:pointer}
+.xm-tag.xm-ans{color:#1f7a3d}
+.xm-tag:hover{text-decoration:underline}
+.xm-q{margin:0 0 30px;scroll-margin-top:72px}
+.xm-stem{margin:0 0 8px;font-size:15.5px;line-height:1.8;color:var(--ink)}
+.xm-pt{color:var(--ink-soft);font-size:13px}
+.xm-bogi{border:1px solid var(--paper-line);background:#fff;border-radius:6px;padding:12px 18px;margin:8px 0 10px;
+  font-family:'Noto Serif KR',serif;font-size:15px;line-height:1.95}
+.xm-bogi p{margin:0 0 4px}
+.xm-bogi .xm-bl{text-align:center;color:var(--ink-mid);font-family:'Noto Sans KR',sans-serif;font-size:13px}
+.xm-opts{list-style:none;margin:0;padding:0}
+.xm-opts li{margin:3px 0;padding:3px 6px 3px 1.6em;text-indent:-1.2em;font-size:15px;line-height:1.75;border-radius:4px}
+.xm-opts li.xm-pick{background:rgba(31,92,158,.12)}
+.xm-src{font:700 12px 'Noto Sans KR',sans-serif;color:var(--ev);margin-left:6px;white-space:nowrap}
+.xm-src.xm-ans{color:#1f7a3d}
+.xm-sol{margin-top:12px}
+.xm-sol>summary{cursor:pointer;display:inline-block;padding:6px 14px;background:var(--ev);color:#fff;border-radius:4px;
+  font-size:13px;font-weight:700;list-style:none}
+.xm-sol>summary::-webkit-details-marker{display:none}
+.xm-answer{margin:12px 0 6px;font-size:14px}
+.xm-answer b{color:var(--ev);font-size:18px}
+.xm-jt{width:100%;border-collapse:collapse;font-size:14px;margin:6px 0}
+.xm-jt th,.xm-jt td{border:1px solid var(--paper-line);padding:7px 10px;text-align:left;vertical-align:top;line-height:1.7}
+.xm-jt th{background:var(--paper-warm)}
+.xm-jt td:first-child,.xm-jt td:nth-child(2){white-space:nowrap;text-align:center}
+.xm-jt tr.xm-ok td{color:#1f7a3d;font-weight:700}
+.xm-own{font:700 11px 'Noto Sans KR',sans-serif;color:#b0601b;margin-left:4px;white-space:nowrap}
+.xm-end{height:70vh}
+@media (max-width:640px){
+  .xm-passage{padding:16px 14px}
+  .xm-jt{font-size:13px}
+}

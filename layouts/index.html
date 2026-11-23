@@ -25,12 +25,12 @@
 </section>
 
 <section class="home-section" id="start">
-  <div class="section-head"><h2>어디부터 볼까요</h2><span class="sub">문학 · 문법 · 한자성어</span></div>
+  <div class="section-head"><h2>어디부터 볼까요</h2><span class="sub">문학 · 문법 · 기출 · 한자성어</span></div>
   <div class="pillars">
     {{- $defs := dict
         "literature" (dict "label" "문학" "desc" "고전시가부터 현대소설까지, 작품별 해설·핵심정리·출제이력" "unit" "편")
         "grammar"    (dict "label" "문법" "desc" "음운·단어·문장·어문규정·어휘를 체계별로 정리" "unit" "편")
-        "exams"      (dict "label" "기출" "desc" "수능·모의평가·학력평가 문제와 해설 자료실" "unit" "편")
+        "exams"      (dict "label" "기출" "desc" "기출 지문에서 선지마다 정답·오답의 근거 문장 찾기" "unit" "회")
         "idioms"     (dict "label" "한자성어" "desc" "수능·내신 빈출 한자성어를 뜻과 예문으로. 한글·한자·뜻 어느 것으로도 검색" "unit" "개") }}
     {{- range $key := slice "literature" "grammar" "exams" "idioms" }}
       {{- $s := site.GetPage (printf "/%s" $key) }}{{ $d := index $defs $key }}

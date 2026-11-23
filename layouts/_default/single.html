@@ -4,54 +4,12 @@
   <div class="page-header">
     <div class="work-kicker">{{ with .Params.category }}{{ . }}{{ end }}</div>
     <h1>{{ .Title }}</h1>
-    {{- if and .Params.summary (ne .Section "exams") }}<p>{{ .Params.summary }}</p>{{ end }}
+    {{- if .Params.summary }}<p>{{ .Params.summary }}</p>{{ end }}
   </div>
-  {{- if and .Params.keywords (ne .Section "exams") }}
+  {{- if .Params.keywords }}
   <div class="keyword-cloud">{{ range .Params.keywords }}<span class="keyword">{{ . }}</span>{{ end }}</div>
   {{- end }}
   <div class="prose">{{ .Content }}</div>
 </article>
 </div>
-{{ if eq .Section "exams" }}
-<script>
-function scrollToEl(el, offset){
-  if(!el) return;
-  var y = el.getBoundingClientRect().top + window.pageYOffset - (offset || 70);
-  window.scrollTo({ top: y, behavior: 'smooth' });
-}
-document.addEventListener('click', function(e){
-  // 지문 배지 → 문제 시작으로 이동 + 선지 강조
-  var a = e.target.closest('a.ev-tag');
-  if(a){
-    e.preventDefault();
-    var optId = (a.getAttribute('href') || '').slice(1);   // 예: q3-5, qA35-3
-    if(!optId) return;
-    // 선지 id → 문제 블록 id (고2 q3-5→prob3, 고3 선택과목 qA35-3→probA35)
-    var probId = 'prob' + optId.replace(/^q/, '').replace(/-[^-]*$/, '');
-    scrollToEl(document.getElementById(probId));           // 문제 시작 블록
-    var opt = document.getElementById(optId);
-    if(opt){
-      document.querySelectorAll('.opt-hl,.opt-hl-ans,.opt-hl-wrong').forEach(function(el){ el.classList.remove('opt-hl','opt-hl-ans','opt-hl-wrong'); });
-      opt.classList.add(a.classList.contains('ans') ? 'opt-hl-ans' : a.classList.contains('wrong') ? 'opt-hl-wrong' : 'opt-hl');
-    }
-    return;
-  }
-  // 선지의 '지문 근거/정답 근거' → 그 근거가 속한 '지문의 시작'으로 이동 + 밑줄 강조(색으로 감싸기)
-  var s = e.target.closest('a.src-tag');
-  if(s){
-    e.preventDefault();
-    var evId = (s.getAttribute('href') || '').slice(1);    // 예: ev6
-    var ev = document.getElementById(evId);
-    if(ev){
-      document.querySelectorAll('.ev-hl').forEach(function(el){ el.classList.remove('ev-hl','hlw','hlb','hla'); });
-      // 강조 박스 색 = 누른 버튼 색(오답=빨강/정답=녹/지문=파랑). 밑줄이 공유돼 파랑이어도 빨강 버튼이면 빨강 박스
-      var hl = s.classList.contains('wrong') ? 'hlw' : s.classList.contains('ans') ? 'hla' : 'hlb';
-      ev.classList.add('ev-hl', hl);                        // 해당 부분은 색으로 감싸 강조(유지)
-      var passage = ev.closest('.passage') || ev.closest('.seg') || ev;
-      scrollToEl(passage);                                  // 밑줄이 아니라 '지문의 시작'을 보여 줌
-    }
-  }
-});
-</script>
-{{ end }}
 {{ end }}
