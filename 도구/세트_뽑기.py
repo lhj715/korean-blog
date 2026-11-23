@@ -38,14 +38,20 @@ def main():
     lines = page_lines(doc)
 
     guide_re = re.compile(rf"^\[{start}\s*[~～]\s*{end}\]")
-    gi = next(i for i, l in enumerate(lines) if guide_re.match(l.strip()))
+    gi = next((i for i, l in enumerate(lines) if guide_re.match(l.strip())), None)
     q_re = lambda n: re.compile(rf"^{n}\.\s")
+    if gi is None:  # 안내문 없는 단독 문항 묶음(예: 문법 7~10번)
+        prev = next(i for i, l in enumerate(lines) if q_re(start - 1).match(l)) if start > 1 else 0
+        gi = next(i for i, l in enumerate(lines) if i > prev and q_re(start).match(l)) - 1
+        no_guide = True
+    else:
+        no_guide = False
     qi = {n: next(i for i, l in enumerate(lines) if i > gi and q_re(n).match(l)) for n in range(start, end + 1)}
     nxt = next((i for i, l in enumerate(lines) if i > qi[end] and re.match(r"^\[\d+\s*[~～]\s*\d+\]", l.strip())), len(lines))
 
     # 지문: 문단 시작어로 나눈다. 시작어 사이에 끼는 그림 글자(짧은 줄)는 버린다.
-    starts = [s.strip("\n") for s in open(starts_file, encoding="utf-8") if s.strip()]
-    body = lines[gi + 1: qi[start]]
+    starts = [s.strip("\n") for s in open(starts_file, encoding="utf-8") if s.strip()] if starts_file != "-" else []
+    body = [] if no_guide else lines[gi + 1: qi[start]]
     paras, cur = [], None
     for l in body:
         hit = next((s for s in starts if l.startswith(s)), None)
@@ -55,7 +61,8 @@ def main():
             cur = [l]
         elif cur is not None:
             cur.append(l)
-    paras.append(cur)
+    if cur:
+        paras.append(cur)
     passage = []
     for k, p in enumerate(paras, 1):
         # 그림 글자 제거: 문단 끝 문장부호 뒤에 붙은 짧은 줄들
@@ -77,7 +84,8 @@ def main():
         questions.append({"no": n, "points": points, "stem": stem, "bogi": None,
                           "choices": choices, "answer": None, "judgments": []})
 
-    data = {"guide": lines[gi].strip(), "range": [start, end], "passage": passage, "questions": questions}
+    data = {"guide": None if no_guide else lines[gi].strip(), "range": [start, end], "passage": passage, "questions": questions,
+            "raw_passage_lines": body}
     json.dump(data, open(out_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("passage", len(passage), "questions", len(questions))
 

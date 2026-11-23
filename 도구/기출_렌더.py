@@ -1,9 +1,29 @@
 """세트 JSON → 기출 화면 HTML 조각. 사이트(게시.py)와 미리보기(미리보기.py)가 이 함수 하나를 같이 쓴다.
 스타일은 assets/css/exam.css, 동작은 static/js/exam.js. HTML 을 손으로 쓰지 않는다.
+
+지문·상자 항목 종류: para(문단, dialogue=true 면 대화 줄) / verse(시·시조, 줄은 \n, 연은 빈 줄) / label((가) 등)
+ / note(각주·출처) / omit(중략 줄거리) / heading(초고의 제목·항목) / figure(그림·표 그림)
 """
 import html
 
 CIR = "①②③④⑤"
+TEXT_TYPES = {"para", "verse", "label", "note", "omit", "heading"}
+
+
+def _boxes(q):
+    b = q.get("bogi")
+    if not b:
+        return []
+    return b if isinstance(b, list) else [b]
+
+
+def _box_items(box):
+    if box.get("blocks"):
+        return box["blocks"]
+    items = [{"id": f"b{k+1}", "type": "para", "text": t} for k, t in enumerate(box.get("paras", []))]
+    figs = box.get("figures") or ([box["figure"]] if box.get("figure") else [])
+    items += [dict(f, type="figure", id=f.get("id", f"bf{k+1}")) for k, f in enumerate(figs)]
+    return items
 
 
 def _spans(text, marks):
@@ -11,11 +31,13 @@ def _spans(text, marks):
     out = []
     for a, b in zip(cuts, cuts[1:]):
         cover = [m for m in marks if m[0] <= a and b <= m[1]]
-        seg = html.escape(text[a:b])
+        seg = html.escape(text[a:b]).replace("\n", "<br>")
         evs = [m[3] for m in cover if m[2] == "ev"]
         cls = []
         if any(m[2] == "ul" for m in cover):
             cls.append("xm-ul")
+        if any(m[2] == "rg" for m in cover):
+            cls.append("xm-rgi")
         if evs:
             cls.append("xm-ev")
             if any(e["ans"] for e in evs):
@@ -24,13 +46,21 @@ def _spans(text, marks):
             ids = " ".join(e["id"] for e in evs)
             attr = f' data-ev="{ids}"' if ids else ""
             seg = f'<span class="{" ".join(cls)}"{attr}>{seg}</span>'
+        # 구간 표시(글 안 일부)는 시작 자리에 이름표
+        for m in marks:
+            if m[2] == "rg" and m[0] == a:
+                seg = f'<span class="xm-rgl">{html.escape(m[3])}</span>' + seg
         out.append(seg)
         for e in [m[3] for m in marks if m[2] == "ev" and m[1] == b]:
-            out.append(f'<a class="xm-tag{" xm-ans" if e["ans"] else ""}" href="#prob{e["q"]}" data-pick="q{e["q"]}-{e["c"]}">{e["label"]}</a>')
+            out.append(_tag(e))
     return "".join(out)
 
 
-def _marks(text, evs, uls=()):
+def _tag(e):
+    return f'<a class="xm-tag{" xm-ans" if e["ans"] else ""}" href="#prob{e["q"]}" data-pick="q{e["q"]}-{e["c"]}">{e["label"]}</a>'
+
+
+def _marks(text, evs, uls=(), rgs=()):
     ms = []
     for e in evs:
         i = text.find(e["quote"])
@@ -41,47 +71,101 @@ def _marks(text, evs, uls=()):
         i = text.find(u["mark"] + u["text"])
         start = i + len(u["mark"]) if i >= 0 else text.find(u["mark"] + " " + u["text"]) + len(u["mark"]) + 1
         ms.append((start, start + len(u["text"]), "ul", None))
+    for r in rgs:
+        i = text.find(r["text"])
+        ms.append((i, i + len(r["text"]), "rg", r["mark"]))
     return ms
+
+
+def _item(p, evs, inline_rgs, anchor):
+    t = p["type"]
+    if t == "figure":
+        tags = "".join(_tag(e) for e in evs)
+        tagline = f"<div class='xm-figtags'>그림·표 근거 {tags}</div>" if tags else ""
+        ids = " ".join(e["id"] for e in evs)
+        dev = f" data-ev='{ids}'" if ids else ""
+        return (f"<figure class='xm-fig' id='{anchor}'{dev}><img src='{p['_src']}' alt='{html.escape(p.get('alt', ''))}' loading='lazy'>"
+                f"{'<figcaption>' + html.escape(p['caption']) + '</figcaption>' if p.get('caption') else ''}{tagline}</figure>")
+    body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs))
+    cls = {"para": "xm-dlg" if p.get("dialogue") else "", "verse": "xm-verse", "label": "xm-label",
+           "note": "xm-note", "omit": "xm-omit", "heading": "xm-head"}[t]
+    return f"<p class='{cls}' id='{anchor}'>{body}</p>" if cls else f"<p id='{anchor}'>{body}</p>"
 
 
 def render_set(s, img):
     """img(파일명) → <img src> 에 넣을 주소."""
     meta = s.get("meta", {})
-    by_para, by_bogi = {}, {}
+    lo, hi = s["range"]
+    by_para, by_box, by_fig = {}, {}, {}
     for q in s["questions"]:
         for j in q["judgments"]:
             for k, e in enumerate(j["evidence"]):
                 item = {"id": f"e{q['no']}-{j['choice']}-{k}", "q": q["no"], "c": j["choice"],
                         "label": f"{q['no']}-{CIR[j['choice']-1]}", "ans": j["is_answer"], "quote": e["quote"]}
-                (by_para.setdefault(e["para"], []) if e["source"] == "passage" else by_bogi.setdefault(q["no"], [])).append(item)
+                if e["source"] == "passage":
+                    by_para.setdefault(e["para"], []).append(item)
+                elif e["source"] == "bogi":
+                    by_box.setdefault(q["no"], []).append(item)
+                else:
+                    by_fig.setdefault(e["fig"], []).append(item)
 
-    lo, hi = s["range"]
-    h = [f"<section class='xm-set' id='set{lo}-{hi}'>",
-         f"<h2 class='xm-set-h'>{lo}~{hi}번 {html.escape(meta.get('area', ''))} · {html.escape(meta.get('topic', ''))}</h2>",
-         "<div class='xm-passage'>",
-         f"<p class='xm-guide'>{html.escape(s['guide'])}</p>",
-         "<p class='xm-legend'><span class='xm-ev'>밑줄</span>은 선지 판단의 근거, <span class='xm-ev xm-ans'>초록 밑줄</span>은 정답의 근거입니다. "
-         "옆 번호를 누르면 그 문제로 돌아가고, 선지의 '지문 근거'를 누르면 이 밑줄로 옵니다.</p>"]
-    for p in s["passage"]:
-        if p["type"] == "para":
-            h.append(f"<p id='{lo}-{p['id']}'>{_spans(p['text'], _marks(p['text'], by_para.get(p['id'], []), p.get('underlines', [])))}</p>")
+    ranges = s.get("ranges", [])
+    block_rg = {}   # 항목 id → 구간 이름(여러 항목을 묶는 구간)
+    inline_rg = {}  # 항목 id → [글 안 구간]
+    for r in ranges:
+        if "paras" in r:
+            for pid in r["paras"]:
+                block_rg[pid] = r["mark"]
         else:
-            h.append(f"<figure class='xm-fig'><img src='{img(p['image'])}' alt='{html.escape(p.get('alt', ''))}' loading='lazy'>"
-                     f"<figcaption>{html.escape(p.get('caption', ''))}</figcaption></figure>")
-    h.append("</div>")
+            inline_rg.setdefault(r["para"], []).append(r)
+
+    title = f"{lo}~{hi}번" + (f" {meta['area']}" if meta.get("area") else "") + (f" · {meta['topic']}" if meta.get("topic") else "")
+    h = [f"<section class='xm-set' id='set{lo}-{hi}'>", f"<h2 class='xm-set-h'>{html.escape(title)}</h2>"]
+    if s["passage"] or s.get("guide"):
+        h.append("<div class='xm-passage'>")
+        if s.get("guide"):
+            h.append(f"<p class='xm-guide'>{html.escape(s['guide'])}</p>")
+        h.append("<p class='xm-legend'><span class='xm-ev'>밑줄</span>은 선지 판단의 근거, <span class='xm-ev xm-ans'>초록 밑줄</span>은 정답의 근거입니다. "
+                 "옆 번호를 누르면 그 문제로 돌아가고, 선지의 '지문 근거'를 누르면 이 밑줄로 옵니다.</p>")
+        cur = None
+        for p in s["passage"]:
+            rg = block_rg.get(p["id"])
+            if rg != cur:
+                if cur:
+                    h.append("</div>")
+                if rg:
+                    h.append(f"<div class='xm-rg'><span class='xm-rgl'>{html.escape(rg)}</span>")
+                cur = rg
+            if p["type"] == "figure":
+                p = dict(p, _src=img(p["image"]))
+                evs = by_fig.get(p["id"], [])
+            else:
+                evs = by_para.get(p["id"], [])
+            h.append(_item(p, evs, inline_rg.get(p["id"], []), f"{lo}-{p['id']}"))
+        if cur:
+            h.append("</div>")
+        h.append("</div>")
 
     for q in s["questions"]:
         J = {j["choice"]: j for j in q["judgments"]}
         h.append(f"<div class='xm-q' id='prob{q['no']}'>")
         pt = " <span class='xm-pt'>[3점]</span>" if q["points"] == 3 else ""
         h.append(f"<p class='xm-stem'><b>{q['no']}.</b> {html.escape(q['stem'])}{pt}</p>")
-        if q.get("bogi"):
-            b = q["bogi"]
-            h.append(f"<div class='xm-bogi'><p class='xm-bl'>{html.escape(b['label'])}</p>")
-            if b.get("figure"):
-                h.append(f"<img src='{img(b['figure']['image'])}' alt='{html.escape(b['figure'].get('alt', ''))}' loading='lazy'>")
-            for t in b["paras"]:
-                h.append(f"<p>{_spans(t, _marks(t, by_bogi.get(q['no'], [])))}</p>")
+        box_evs = list(by_box.get(q["no"], []))
+        for box in _boxes(q):
+            h.append("<div class='xm-bogi'>")
+            if box.get("label"):
+                h.append(f"<p class='xm-bl'>{html.escape(box['label'])}</p>")
+            for it in _box_items(box):
+                if it["type"] == "figure":
+                    it = dict(it, _src=img(it["image"]))
+                    mine = by_fig.get(it["id"], [])
+                    h.append(_item(it, mine, [], f"q{q['no']}-{it['id']}"))
+                else:
+                    mine = [e for e in box_evs if e["quote"] in it["text"]]
+                    for e in mine:
+                        box_evs.remove(e)
+                    h.append(_item(it, mine, [], f"q{q['no']}-{it['id']}"))
             h.append("</div>")
         h.append("<ul class='xm-opts'>")
         for i, c in enumerate(q["choices"], 1):

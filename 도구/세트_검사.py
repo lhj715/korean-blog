@@ -4,18 +4,24 @@
 
 검사 항목(번호는 보고서에 그대로 찍힌다)
  A1 문항 번호가 범위와 맞고 연속이다          A2 문항마다 선지 5개, 빈 선지 없음
- A3 배점 2/3, 3점 표시가 PDF 와 일치            B1 지문·발문·선지·보기 글자가 PDF 텍스트층과 일치(공백 무시)
- B2 그림 글자·보기 머리말·쪽 머리글·선지 기호가 섞이지 않음
- B3 빠짐 없음: PDF 의 지문·문항 구역 글자가 등록한 조각으로 남김없이 설명된다(그림 속 글자는 그림 항목의 pdf_text)
- C1 밑줄 범위가 지문 안에 그대로 있고 기호 바로 뒤에 온다
- C2 발문·선지에 나오는 ㉠㉡㉮ 등 기호가 모두 밑줄로 등록됨
- C3 등록한 밑줄 범위가 PDF 에 실제로 그어진 밑줄(선 그림)과 글자 단위로 같다
+ A3 배점 2/3, 3점 표시가 PDF 와 일치            A4 지문 항목 종류는 para/verse/label/note/omit/heading/figure 만
+ B1 지문·발문·선지·상자 글자가 PDF 텍스트층과 일치(공백 무시)
+ B2 그림 글자·보기 머리말·쪽 머리글·선지 기호가 지문·발문·선지에 섞이지 않음
+ B3 빠짐 없음: PDF 의 지문·문항 구역 글자가 등록한 조각으로 남김없이 설명된다
+    (그림·표 속 글자는 그림 항목의 pdf_text, 구간 표시 [A] 등은 ranges 의 mark)
+ C1 밑줄 범위가 항목 글 안에 그대로 있고 기호 바로 뒤에 온다
+ C2 발문·선지에 나오는 ㉠·ⓐ·[A] 등 기호가 지문에서 밑줄·구간으로 등록됨(상자 안 기호·글 속 빈칸 [가] 는 예외)
+ C3 등록한 밑줄 범위가 PDF 에 실제로 그어진 밑줄(선 그림)과 글자 단위로 같다(no_line 표시는 쪽 그림으로 확인한 경우만)
+ C4 구간 표시([A] 등)가 가리키는 항목·글이 지문에 있다
  D1 정답 = 정답표                              D2 판단 5개, 정답 표시 1개 = 정답
  D3 판단 말(적절/부적절, 일치/불일치)이 발문 방향과 맞다
- E1 모든 선지에 근거가 1개 이상                 E2 근거 인용이 지정한 문단(또는 보기)에 글자 그대로 있다
+ E1 모든 선지에 근거가 1개 이상
+ E2 근거 인용이 글자 그대로 있다: passage(para=지문 항목 id) / bogi(그 문항 상자 글) / figure(fig=그림 id, 그 그림의 pdf_text)
  E3 해설지 기반 판단은 해설지 인용이 그 문항 해설 안에 글자 그대로 있다
  E4 이유가 비어 있지 않고 금지 문자(em dash)가 없다
  R  해설지에 없는 선지(근거=자체)는 별도 검토자 확인이 필요한 목록으로 보고한다(불합격 사유는 아님)
+
+세트 데이터 구조는 CLAUDE.md 5절 «세트 데이터 구조».
 """
 import json
 import re
@@ -24,9 +30,11 @@ import sys
 import fitz
 
 HEADER = re.compile(r"^(\d+|국어영역|국어 영역|고[123]|홀수형|짝수형)$")
-MARKS = "㉠㉡㉢㉣㉤㉥㉦㉧㉮㉯㉰㉱㉲ⓐⓑⓒⓓⓔ"
+MARKS = "㉠㉡㉢㉣㉤㉥㉦㉧㉮㉯㉰㉱㉲ⓐⓑⓒⓓⓔⓕⓖ"
 NEG = {"부적절", "불일치", "미반영", "틀림"}
 POS = {"적절", "일치", "반영", "맞음"}
+TEXT_TYPES = {"para", "verse", "label", "note", "omit", "heading"}
+CIRS = "①②③④⑤"
 
 
 def squash(s):
@@ -64,6 +72,24 @@ def underlined_runs(path):
     return [t for _, t in sorted(runs)]
 
 
+def boxes(q):
+    """문항의 상자(<보기>·<자료>·계획표 등) 목록. bogi 는 dict 하나 또는 list."""
+    b = q.get("bogi")
+    if not b:
+        return []
+    return b if isinstance(b, list) else [b]
+
+
+def box_items(box):
+    """상자 안 항목: blocks 가 있으면 그대로, 없으면 paras + figure(s) 로 만든다."""
+    if box.get("blocks"):
+        return box["blocks"]
+    items = [{"id": f"b{k+1}", "type": "para", "text": t} for k, t in enumerate(box.get("paras", []))]
+    figs = box.get("figures") or ([box["figure"]] if box.get("figure") else [])
+    items += [dict(f, type="figure", id=f.get("id", f"bf{k+1}")) for k, f in enumerate(figs)]
+    return items
+
+
 def main():
     set_path, prob_pdf, expl_pdf, bundle_path = sys.argv[1:5]
     s = json.load(open(set_path, encoding="utf-8"))
@@ -79,7 +105,12 @@ def main():
 
     lo, hi = s["range"]
     qs = s["questions"]
-    paras = {p["id"]: p for p in s["passage"] if p["type"] == "para"}
+    texts_p = {p["id"]: p for p in s["passage"] if p["type"] in TEXT_TYPES}
+    figs_p = {p["id"]: p for p in s["passage"] if p["type"] == "figure"}
+    for p in s["passage"]:
+        if p["type"] not in TEXT_TYPES | {"figure"}:
+            fail("A4", f"지문 {p.get('id')}", f"모르는 항목 종류 «{p['type']}»")
+    ranges = s.get("ranges", [])
 
     # A
     if [q["no"] for q in qs] != list(range(lo, hi + 1)):
@@ -95,76 +126,105 @@ def main():
         if has3 != (q["points"] == 3):
             fail("A3", w, f"3점 표시 불일치(PDF {'있음' if has3 else '없음'})")
 
-    # B
-    texts = [(f"지문 {p['id']}", p["text"]) for p in paras.values()]
+    # B1·B2
+    texts = [(f"지문 {p['id']}", p["text"], True) for p in texts_p.values()]
     for q in qs:
-        texts.append((f"{q['no']}번 발문", q["stem"]))
-        texts += [(f"{q['no']}번 {'①②③④⑤'[i]}", c) for i, c in enumerate(q["choices"])]
-        if q.get("bogi"):
-            texts += [(f"{q['no']}번 보기 {i+1}", b) for i, b in enumerate(q["bogi"]["paras"])]
-    for where, t in texts:
+        texts.append((f"{q['no']}번 발문", q["stem"], True))
+        texts += [(f"{q['no']}번 {CIRS[i]}", c, True) for i, c in enumerate(q["choices"])]
+        for bi, box in enumerate(boxes(q)):
+            texts += [(f"{q['no']}번 상자{bi+1} {it['id']}", it["text"], False) for it in box_items(box) if it["type"] in TEXT_TYPES]
+    for where, t, strict in texts:
         if squash(t) not in src_sq:
-            # 어디서 어긋나는지 앞부분부터 찾아 보여 준다
             sq = squash(t)
             k = len(sq)
             while k > 0 and sq[:k] not in src_sq:
                 k -= 10
             fail("B1", where, f"PDF 와 다름 — {max(k,0)}자째 근처: «{sq[max(k,0):max(k,0)+25]}»")
-        if re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣])|-{4,}|\+{4,}|===|[①②③④⑤]", t):
+        if strict and re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣])|-{4,}|\+{4,}|===|[①②③④⑤]", t):
             fail("B2", where, "그림 글자·보기 머리말·쪽 머리글·선지 기호가 섞임")
 
-    # C
-    marks = set()
-    for p in paras.values():
-        for u in p.get("underlines", []):
-            marks.add(u["mark"])
-            needle = u["mark"] + u["text"]
-            if needle not in p["text"] and (u["mark"] + " " + u["text"]) not in p["text"]:
-                fail("C1", f"지문 {p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 기호 바로 뒤에 없음")
-    # B3: 빠짐 없음 — PDF 의 지문 구역·문항 구역 글자를, 등록한 조각(문단·그림 글자·발문·보기·선지)으로
-    #     하나씩 지워 나가 남는 글자가 없어야 한다. 잘린 문장·빠진 문단·빠진 그림 글자를 잡는다.
-    def cut_all(region, pieces, where):
+    # B3 빠짐 없음
+    def cut(region, pieces, where):
         for name, piece in pieces:
             sq = squash(piece)
-            k = region.find(sq) if sq else -1
+            if not sq:
+                continue
+            k = region.find(sq)
             if k < 0:
                 fail("B3", where, f"«{name}» 조각을 PDF 구역에서 찾지 못함")
                 continue
             region = region[:k] + region[k + len(sq):]
-        if region:
-            fail("B3", where, f"등록되지 않은 PDF 글자가 남음: «{region[:40]}»")
+        return region
 
-    g = src_sq.find(squash(s["guide"]))
     starts = []
-    pos = g
-    for n in range(lo, hi + 1):
-        pos = src_sq.find(f"{n}.", pos + 1)
-        starts.append(pos)
-    m_next = re.compile(r"\[\d+~\d+\]").search(src_sq, starts[-1])
-    end = m_next.start() if m_next else len(src_sq)
-    if g < 0 or min(starts) < 0:
-        fail("B3", "세트", "PDF 에서 안내문·문항 시작 위치를 찾지 못함")
+    pos = 0
+    g = -1
+    if s.get("guide"):
+        g = src_sq.find(squash(s["guide"]))
+        if g < 0:
+            fail("B3", "세트", "안내문을 PDF 에서 찾지 못함")
+        pos = max(g, 0)
+    for q in qs:
+        k = src_sq.find(f"{q['no']}." + squash(q["stem"])[:12], pos)
+        starts.append(k)
+        pos = max(k, pos)
+    if min(starts) < 0:
+        fail("B3", "세트", f"문항 시작 위치를 찾지 못함 {starts}")
     else:
-        region = src_sq[g + len(squash(s["guide"])): starts[0]]
-        pieces = [(p["id"], p["text"] if p["type"] == "para" else p.get("pdf_text", "")) for p in s["passage"]]
-        cut_all(region, pieces, "지문 구역")
+        nxt = [m.start() for m in re.finditer(r"\[\d+~\d+\]", src_sq) if m.start() > starts[-1]]
+        nq = [m.start() for m in re.finditer(rf"(?<!\d){hi+1}\.", src_sq) if m.start() > starts[-1]]
+        end = min(nxt[:1] + nq[:1] + [len(src_sq)])
+        leftovers = []
+        if s.get("guide") and g >= 0:
+            region = src_sq[g + len(squash(s["guide"])): starts[0]]
+            pieces = [(p["id"], p["text"] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
+            leftovers.append(("지문 구역", cut(region, pieces, "지문 구역")))
         for i, q in enumerate(qs):
             region = src_sq[starts[i]: starts[i + 1] if i + 1 < len(qs) else end]
             pieces = [("번호", f"{q['no']}."), ("발문", q["stem"])]
             if q["points"] == 3:
                 pieces.append(("[3점]", "[3점]"))
-            if q.get("bogi"):
-                pieces.append(("보기 머리말", q["bogi"]["label"]))
-                pieces += [(f"보기 {k+1}", b) for k, b in enumerate(q["bogi"]["paras"])]
-                if q["bogi"].get("figure"):
-                    pieces.append(("보기 그림 글자", q["bogi"]["figure"].get("pdf_text", "")))
-            pieces += [(f"선지 {'①②③④⑤'[k]}", "①②③④⑤"[k] + c) for k, c in enumerate(q["choices"])]
-            cut_all(region, pieces, f"{q['no']}번 구역")
+            for bi, box in enumerate(boxes(q)):
+                pieces.append((f"상자{bi+1} 머리말", box.get("label", "")))
+                for it in box_items(box):
+                    pieces.append((f"상자{bi+1} {it['id']}", it["text"] if it["type"] in TEXT_TYPES else it.get("pdf_text", "")))
+            pieces += [(f"선지 {CIRS[k]}", CIRS[k] + c) for k, c in enumerate(q["choices"])]
+            leftovers.append((f"{q['no']}번 구역", cut(region, pieces, f"{q['no']}번 구역")))
+        # 구간 표시([A] 등)는 PDF 에서 쪽 끝 등 엉뚱한 자리에 찍히므로 남은 글자에서 한 번씩 지운다
+        rest = "".join(r for _, r in leftovers)
+        for rg in ranges:
+            mk = squash(rg["mark"])
+            k = rest.find(mk)
+            if k < 0:
+                fail("B3", "구간", f"구간 표시 «{rg['mark']}» 를 PDF 남은 글자에서 찾지 못함")
+            else:
+                rest = rest[:k] + rest[k + len(mk):]
+        if rest:
+            where = ", ".join(w for w, r in leftovers if r)
+            fail("B3", where, f"등록되지 않은 PDF 글자가 남음: «{rest[:50]}»")
 
-    # C3: 등록한 밑줄 = PDF 에 실제로 그어진 밑줄(줄바꿈으로 나뉜 조각은 이어 붙여 비교)
-    runs = underlined_runs(prob_pdf)
-    for p in paras.values():
+    # C 밑줄·구간
+    marks = set()
+    box_text_items = [it for q in qs for box in boxes(q) for it in box_items(box) if it["type"] in TEXT_TYPES]
+    ul_items = list(texts_p.values()) + box_text_items
+    for p in ul_items:
         for u in p.get("underlines", []):
+            marks.add(u["mark"])
+            if (u["mark"] + u["text"]) not in p["text"] and (u["mark"] + " " + u["text"]) not in p["text"]:
+                fail("C1", f"{p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 기호 바로 뒤에 없음")
+    for rg in ranges:
+        marks.add(rg["mark"])
+        if "paras" in rg:
+            for pid in rg["paras"]:
+                if pid not in texts_p:
+                    fail("C4", "구간", f"{rg['mark']} 의 항목 {pid} 가 지문에 없음")
+        elif rg.get("para") not in texts_p or not rg.get("text") or rg["text"] not in texts_p[rg["para"]]["text"]:
+            fail("C4", "구간", f"{rg['mark']} «{rg.get('text', '')[:20]}» 이 {rg.get('para')} 에 없음")
+    runs = underlined_runs(prob_pdf)
+    for p in ul_items:
+        for u in p.get("underlines", []):
+            if u.get("no_line"):
+                continue
             want = squash(u["text"])
             ok = False
             for i in range(len(runs)):
@@ -178,10 +238,18 @@ def main():
                 if ok:
                     break
             if not ok:
-                fail("C3", f"지문 {p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 PDF 에 그어진 밑줄 범위와 다름")
-    used = set(re.findall(f"[{MARKS}]", " ".join([q["stem"] for q in qs] + [c for q in qs for c in q["choices"]])))
+                fail("C3", f"{p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 PDF 에 그어진 밑줄 범위와 다름")
+    stem_text = " ".join([q["stem"] for q in qs] + [c for q in qs for c in q["choices"]])
+    used = set(re.findall(f"[{MARKS}]", stem_text)) | set(re.findall(r"\[[A-Z]\]", stem_text))
+    passage_text = " ".join(p["text"] for p in texts_p.values())
+    box_text = " ".join(it["text"] for it in box_text_items)
     for m in sorted(used - marks):
-        fail("C2", "세트", f"{m} 이 발문·선지에 나오는데 지문 밑줄로 등록되지 않음")
+        if m.startswith("["):
+            ok = m in passage_text or m in box_text
+        else:
+            ok = m not in passage_text and m in box_text
+        if not ok:
+            fail("C2", "세트", f"{m} 이 발문·선지에 나오는데 지문의 밑줄·구간으로 등록되지 않음")
 
     # D, E
     for q in qs:
@@ -201,25 +269,34 @@ def main():
             v = j["verdict"]
             want = (NEG if negative else POS) if j["is_answer"] else (POS if negative else NEG)
             if v not in want:
-                fail("D3", f"{w} {'①②③④⑤'[j['choice']-1]}", f"판단 «{v}» 이 발문 방향과 안 맞음(기대: {'/'.join(sorted(want))})")
+                fail("D3", f"{w} {CIRS[j['choice']-1]}", f"판단 «{v}» 이 발문 방향과 안 맞음(기대: {'/'.join(sorted(want))})")
         sec = re.search(rf"(^|\n){q['no']}\.\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.\s*\[출제의도\]|\n\[\d+\s*[~～]\s*\d+\]|\Z)", expl, re.S)
         sec_sq = squash(sec.group(2)) if sec else ""
         if not sec:
             fail("E3", w, "해설지에서 이 문항 해설을 찾지 못함")
+        q_texts = [it["text"] for box in boxes(q) for it in box_items(box) if it["type"] in TEXT_TYPES]
+        q_figs = {it["id"]: it.get("pdf_text", "") for box in boxes(q) for it in box_items(box) if it["type"] == "figure"}
+        q_figs.update({f["id"]: f.get("pdf_text", "") for f in figs_p.values()})
         for j in js:
-            ww = f"{w} {'①②③④⑤'[j['choice']-1]}"
+            ww = f"{w} {CIRS[j['choice']-1]}"
             if not j.get("evidence"):
                 fail("E1", ww, "근거 없음")
             for e in j.get("evidence", []):
                 if e["source"] == "passage":
-                    p = paras.get(e["para"])
+                    p = texts_p.get(e["para"])
                     if not p or e["quote"] not in p["text"]:
                         fail("E2", ww, f"인용 «{e['quote'][:30]}» 이 {e['para']} 에 글자 그대로 없음")
                 elif e["source"] == "bogi":
-                    if not q.get("bogi") or not any(e["quote"] in b for b in q["bogi"]["paras"]):
-                        fail("E2", ww, f"인용 «{e['quote'][:30]}» 이 보기에 글자 그대로 없음")
+                    if not any(e["quote"] in t for t in q_texts):
+                        fail("E2", ww, f"인용 «{e['quote'][:30]}» 이 이 문항 상자 글에 글자 그대로 없음")
+                elif e["source"] == "figure":
+                    fig = q_figs.get(e.get("fig"))
+                    if fig is None:
+                        fail("E2", ww, f"그림 id «{e.get('fig')}» 가 지문 그림이나 이 문항 상자 그림에 없음")
+                    elif not e["quote"].strip() or squash(e["quote"]) not in squash(fig):
+                        fail("E2", ww, f"인용 «{e['quote'][:30]}» 이 그림 {e.get('fig')} 의 글자(pdf_text)에 없음")
                 else:
-                    fail("E2", ww, f"근거 출처 «{e['source']}» 는 passage/bogi 만 허용")
+                    fail("E2", ww, f"근거 출처 «{e['source']}» 는 passage/bogi/figure 만 허용")
             if j["basis"] == "해설지":
                 if not j.get("explanation_quote") or squash(j["explanation_quote"]) not in sec_sq:
                     fail("E3", ww, "해설지 인용이 이 문항 해설에 글자 그대로 없음")

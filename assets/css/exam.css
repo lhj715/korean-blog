@@ -50,3 +50,16 @@
   .xm-passage{padding:16px 14px}
   .xm-jt{font-size:13px}
 }
+/* 형식별 항목 */
+.xm-passage p.xm-dlg{text-indent:0;padding-left:4.2em;text-indent:-4.2em}
+.xm-passage p.xm-verse,.xm-bogi p.xm-verse{text-indent:0;margin:0 0 14px;line-height:2}
+.xm-passage p.xm-label{text-indent:0;font-weight:700;margin:16px 0 6px}
+.xm-passage p.xm-note,.xm-bogi p.xm-note{text-indent:0;font-size:13px;line-height:1.7;color:var(--ink-mid);margin:2px 0}
+.xm-passage p.xm-omit{text-indent:0;font-size:14px;line-height:1.8;color:var(--ink-mid);background:var(--paper-warm);padding:6px 10px;border-radius:4px;margin:10px 0}
+.xm-passage p.xm-head,.xm-bogi p.xm-head{text-indent:0;font-weight:700;margin:12px 0 4px}
+.xm-rg{border-left:2px solid var(--ink-soft);padding-left:12px;margin:6px 0 6px -2px;position:relative}
+.xm-rgl{font:700 12px 'Noto Sans KR',sans-serif;color:var(--ink-mid);margin-right:4px}
+.xm-rg>.xm-rgl{display:block;margin:0 0 2px}
+.xm-rgi{background:rgba(0,0,0,.035)}
+.xm-figtags{font:12px 'Noto Sans KR',sans-serif;color:var(--ink-soft);margin-top:4px}
+.xm-fig.xm-hit{outline:2px solid var(--ev);outline-offset:4px;border-radius:4px}

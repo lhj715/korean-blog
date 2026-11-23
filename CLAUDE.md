@@ -113,11 +113,19 @@ D:\Work\블로그\리딩맵\   = GitHub lhj715/korean-blog (★공개 저장소)
 
 ### 세트 데이터 구조 (`세트_<범위>.json`)
 
-- `meta`: exam, exam_id, area, topic, problem_pdf, explanation_pdf
-- `guide`: "[14 ~ 17] 다음 글을 읽고 물음에 답하시오." / `range`: [14, 17]
-- `passage`: 순서대로 `{"id":"p1","type":"para","text":..., "underlines":[{"mark":"㉠","text":"수직 방식"}]}` 또는 `{"id":"fig1","type":"figure","caption":"<그림>","image":..., "pdf_text":<그림 속 글자 그대로>, "alt":...}`
-- `questions[]`: `no`, `points`(2/3), `stem`([3점] 뺀 발문), `bogi`(없으면 null; `label`, `paras[]`, `figure{image,pdf_text,alt}`), `choices[5]`(원문자 뺀 선지), `answer`(1~5), `judgments[5]`
-- `judgments[]`: `choice`, `verdict`(적절/부적절, 일치/불일치, 반영/미반영), `is_answer`, `evidence[]`(`{"source":"passage","para":"p2","quote":<문단 글자 그대로>}` 또는 `{"source":"bogi","para":null,"quote":...}`), `basis`("해설지"/"자체"), `explanation_quote`(basis=해설지일 때 해설지 글자 그대로), `reason`(학생용 짧은 이유)
+- `meta`: exam, exam_id, area(예: "독서(기술)", "화법", "문법", "문학(현대시)"), topic(지문 제목·작품명, 없으면 ""), problem_pdf, explanation_pdf
+- `guide`: "[14 ~ 17] 다음 글을 읽고 물음에 답하시오." (안내문 없는 단독 문항 묶음은 null) / `range`: [14, 17]
+- `passage`: 순서대로 항목. 모든 글 항목은 `{"id","type","text","underlines":[{"mark":"㉠","text":...}]}`
+  - `para` 문단. 대화 줄이면 `"dialogue": true` (text 는 "사회자: ..." 처럼 말한 이 포함)
+  - `verse` 시·시조·가사. 줄은 `\n`, 연 사이는 빈 줄(`\n\n`)
+  - `label` (가)·(나) 같은 소제목 / `heading` 초고의 제목·항목(Ⅰ. 서론 등) / `note` 각주·출처(* ..., - 작자 미상, ｢…｣ -) / `omit` [중략 부분 줄거리] 등
+  - `figure` 그림·표·그래프: `{"id","type":"figure","caption","image","pdf_text":<그림 속 글자 그대로>,"alt"}`. 표도 쪽에서 잘라 그림으로 넣고, 표 안 글자는 pdf_text 에 둔다.
+  - 밑줄은 PDF 선과 대조된다(C3). 선 없이 기호만 붙은 경우는 쪽 그림으로 확인하고 `"no_line": true`.
+- `ranges`: [A]·[B] 같은 구간 표시. 여러 항목을 묶으면 `{"mark":"[A]","paras":["p3","p4"]}`, 한 항목 안 일부면 `{"mark":"[A]","para":"v1","text":<그 부분 글자 그대로>}`
+- `questions[]`: `no`, `points`(2/3), `stem`([3점] 뺀 발문), `bogi`, `choices[5]`(원문자 뺀 선지), `answer`(1~5), `judgments[5]`
+  - `bogi`: 없으면 null. 상자 하나는 `{"label":"< 보 기 >","paras":[...],"figure":{...}}` 또는 `{"label":...,"blocks":[지문 항목과 같은 모양 ...]}`. 상자가 여럿(<보기>와 <자료>, 계획표 등)이면 list. 머리말 없는 상자는 label "".
+- `judgments[]`: `choice`, `verdict`(적절/부적절, 일치/불일치, 반영/미반영), `is_answer`, `evidence[]`, `basis`("해설지"/"자체"), `explanation_quote`(basis=해설지일 때 해설지 글자 그대로), `reason`(학생용 짧은 이유)
+  - `evidence`: `{"source":"passage","para":<지문 항목 id>,"quote":<그 항목 글자 그대로>}` / `{"source":"bogi","para":null,"quote":<그 문항 상자 글자 그대로>}` / `{"source":"figure","fig":<그림 id>,"quote":<그 그림 pdf_text 일부>}`
 
 ### 화면 동작 규칙 (사용자 지시)
 
