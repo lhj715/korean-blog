@@ -44,7 +44,12 @@ CIRS = "①②③④⑤"
 COMMON_NEG = {"않은", "않는", "없는", "아닌", "않다"}  # 발문 강조 밑줄로 흔한 말: 같은 쪽 다른 발문과 헷갈려 선지 검사에서 뺀다
 
 
+TEXTLAYER_SUBS = {}  # 세트 meta.textlayer_subs: PDF 텍스트층이 한자를 엉뚱한 한글로 읽은 곳({"靑": "복", "輸": "드"}). 데이터에는 쪽 그림대로 한자를 쓰고, 검사는 같게 본다
+
+
 def squash(s):
+    for _k, _v in TEXTLAYER_SUBS.items():
+        s = s.replace(_k, _v)
     # 겹낫표 『 』 는 PDF 텍스트층에서 사용자 정의 글자(U+F000)로 나온다. 같게 본다. 폭 없는 공백(U+200B)은 공백으로 본다
     return re.sub(r"[\s​]+", "", s.replace("靑", "복").replace("뺷", "").replace("뺸", "").replace("『", "").replace("』", "").replace("∼", "~").replace("～", "~"))
 
@@ -109,6 +114,7 @@ def box_items(box):
 def main():
     set_path, prob_pdf, expl_pdf, bundle_path = sys.argv[1:5]
     s = json.load(open(set_path, encoding="utf-8"))
+    TEXTLAYER_SUBS.update(s.get("meta", {}).get("textlayer_subs", {}))
     src = pdf_text(prob_pdf)
     src_sq = squash(src)
     expl = pdf_text(expl_pdf)
