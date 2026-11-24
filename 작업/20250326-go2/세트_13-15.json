@@ -1,0 +1,544 @@
+{
+ "guide": null,
+ "range": [
+  13,
+  15
+ ],
+ "passage": [],
+ "questions": [
+  {
+   "no": 13,
+   "points": 2,
+   "stem": "<학습 활동>의 ⓐ~ ⓒ에 들어갈 예문으로 적절한 것은?",
+   "bogi": {
+    "label": "학습 활동",
+    "blocks": [
+     {
+      "id": "b1",
+      "type": "para",
+      "text": "※ 다음 [조건]이 실현된 예문을 만들어 보자.",
+      "underlines": []
+     },
+     {
+      "id": "b2",
+      "type": "para",
+      "text": "[조건]",
+      "bold": [
+       "[조건]"
+      ],
+      "underlines": []
+     },
+     {
+      "id": "b3",
+      "type": "para",
+      "text": "ㄱ. 안긴문장에 시간을 나타내는 부사어를 포함할 것.",
+      "underlines": []
+     },
+     {
+      "id": "b4",
+      "type": "para",
+      "text": "ㄴ. 안은문장의 서술어에 과거 시제 선어말 어미를 포함할 것.",
+      "underlines": []
+     },
+     {
+      "id": "b5",
+      "type": "para",
+      "text": "ㄷ. 안은문장의 사건이 안긴문장의 사건보다 나중에 일어날 것.",
+      "underlines": []
+     },
+     {
+      "id": "f1",
+      "type": "figure",
+      "caption": "",
+      "image": "그림_13-15_13_조건표.png",
+      "pdf_text": "조건실현된 예문ㄱ+ ㄴⓐㄱ+ ㄷⓑㄴ+ ㄷⓒ",
+      "raster_text": "",
+      "alt": "표: 조건 ㄱ+ㄴ은 예문 ⓐ, 조건 ㄱ+ㄷ은 예문 ⓑ, 조건 ㄴ+ㄷ은 예문 ⓒ에 해당한다."
+     }
+    ]
+   },
+   "choices": [
+    "ⓐ: 우리는 내일 만나기로 약속했다.",
+    "ⓐ: 그해 고향에 남은 친구가 생각난다.",
+    "ⓑ: 그는 자신이 대회에서 우승했음을 알렸다.",
+    "ⓑ: 형은 동생이 읽을 책을 도서관에서 빌렸다.",
+    "ⓒ: 나는 작년에 산 모자를 좋아한다."
+   ],
+   "answer": 1,
+   "judgments": [
+    {
+     "choice": 1,
+     "verdict": "적절",
+     "is_answer": true,
+     "basis": "해설지",
+     "reason": "‘내일’이 안긴문장의 시간 부사어이고, 안은문장의 서술어 ‘약속했다’에 과거 시제 선어말 어미가 있어 ⓐ의 조건 ㄱ과 ㄴ이 모두 실현된다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄱ. 안긴문장에 시간을 나타내는 부사어를 포함할 것."
+      },
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄴ. 안은문장의 서술어에 과거 시제 선어말 어미를 포함할 것."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "ㄱ+ ㄴⓐ"
+      }
+     ],
+     "explanation_quote": "안긴문장에 시간을 나타내는 부사어 ‘내일’이 사용되었고, 안은문장의 서술어에 과거 시제 선어말 어미가 사용되어 두 조건이 모두 실현되었다."
+    },
+    {
+     "choice": 2,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "안은문장의 서술어 ‘생각난다’에 과거 시제 선어말 어미가 없어 ⓐ의 조건 ㄴ이 실현되지 않았다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄴ. 안은문장의 서술어에 과거 시제 선어말 어미를 포함할 것."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "ㄱ+ ㄴⓐ"
+      }
+     ],
+     "explanation_quote": "② 안은문장의 서술어에 과거 시제 선어말 어미가 포함되지 않았다"
+    },
+    {
+     "choice": 3,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "안긴문장 ‘자신이 대회에서 우승했음’에 시간 부사어가 없어 ⓑ의 조건 ㄱ이 실현되지 않았다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄱ. 안긴문장에 시간을 나타내는 부사어를 포함할 것."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "ㄱ+ ㄷⓑ"
+      }
+     ],
+     "explanation_quote": "③ 안긴문장에 시간을 나타내는 부사어가 포함되지 않았다"
+    },
+    {
+     "choice": 4,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "안긴문장 ‘동생이 읽을’에 시간 부사어가 없어 ⓑ의 조건 ㄱ이 실현되지 않았다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄱ. 안긴문장에 시간을 나타내는 부사어를 포함할 것."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "ㄱ+ ㄷⓑ"
+      }
+     ],
+     "explanation_quote": "④ 안긴문장에 시간을 나타내는 부사어가 포함되지 않았다"
+    },
+    {
+     "choice": 5,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "안은문장의 서술어 ‘좋아한다’에 과거 시제 선어말 어미가 없어 ⓒ의 조건 ㄴ이 실현되지 않았다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄴ. 안은문장의 서술어에 과거 시제 선어말 어미를 포함할 것."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "ㄴ+ ㄷⓒ"
+      }
+     ],
+     "explanation_quote": "⑤ 안은문장의 서술어에 과거 시제 선어말 어미가 포함되지 않았다"
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "points": 2,
+   "stem": "<보기>의 [A] ~ [C]에 들어갈 내용을 바르게 짝지은 것은?",
+   "bogi": [
+    {
+     "label": "보 기",
+     "blocks": [
+      {
+       "id": "b1",
+       "type": "para",
+       "dialogue": true,
+       "text": "선생님: 파생어는 어근과 접사로 이루어진 단어를 말합니다. [자료]의 파생어를 분류해 봅시다.",
+       "bold": [
+        "선생님"
+       ],
+       "underlines": []
+      },
+      {
+       "id": "h1",
+       "type": "para",
+       "text": "[자료]",
+       "bold": [
+        "[자료]"
+       ],
+       "underlines": [],
+       "inbox": "자료"
+      },
+      {
+       "id": "e1",
+       "type": "para",
+       "text": "ㄱ. 겁쟁이          ㄴ. 날고기          ㄷ. 넓히다",
+       "underlines": [],
+       "inbox": "자료"
+      },
+      {
+       "id": "e2",
+       "type": "para",
+       "text": "ㄹ. 맡기다          ㅁ. 지우개          ㅂ. 풋사랑",
+       "underlines": [],
+       "inbox": "자료"
+      },
+      {
+       "id": "f1",
+       "type": "figure",
+       "caption": "",
+       "image": "그림_13-15_14_순서도.png",
+       "pdf_text": "접사가 어근 뒤에 결합하는가?→아니요[A] ↓예파생어의 품사가 어근의 품사와 동일한가?→아니요[B] ↓예[C]",
+       "raster_text": "",
+       "alt": "순서도: ‘접사가 어근 뒤에 결합하는가?’에 아니요면 [A], 예면 ‘파생어의 품사가 어근의 품사와 동일한가?’로 간다. 이 물음에 아니요면 [B], 예면 [C]이다."
+      }
+     ]
+    },
+    {
+     "label": "",
+     "plain": true,
+     "blocks": [
+      {
+       "id": "th",
+       "type": "heading",
+       "text": "[A]　　　　　　[B]　　　　　　[C]",
+       "underlines": [
+        {
+         "mark": "",
+         "text": "[A]"
+        },
+        {
+         "mark": "",
+         "text": "[B]"
+        },
+        {
+         "mark": "",
+         "text": "[C]"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "choices": [
+    "ㄱ, ㄴ　　　　ㄷ, ㅁ　　　　ㄹ, ㅂ",
+    "ㄱ, ㄴ　　　　ㄹ, ㅁ　　　　ㄷ, ㅂ",
+    "ㄴ, ㅂ　　　　ㄷ, ㄹ　　　　ㄱ, ㅁ",
+    "ㄴ, ㅂ　　　　ㄷ, ㅁ　　　　ㄱ, ㄹ",
+    "ㄷ, ㅁ　　　　ㄴ, ㅂ　　　　ㄱ, ㄹ"
+   ],
+   "answer": 4,
+   "judgments": [
+    {
+     "choice": 1,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "ㄱ ‘겁쟁이’는 접미사가 어근 뒤에 결합했으므로 [A]에 들어가지 않는다. [A]에는 접두사가 결합한 ㄴ, ㅂ이 들어간다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄱ. 겁쟁이"
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "접사가 어근 뒤에 결합하는가?"
+      }
+     ],
+     "explanation_quote": "ㄴ과 ㅂ은 모두 접두사가 결합한 파생어이므로 접사가 어근 뒤에 결합하지 않은 [A]에 해당한다"
+    },
+    {
+     "choice": 2,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "ㄱ ‘겁쟁이’는 어근 뒤에 접미사가 결합한 파생어이므로 [A]에 들어가지 않는다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄱ. 겁쟁이"
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "아니요[A]"
+      }
+     ],
+     "explanation_quote": "ㄴ과 ㅂ은 모두 접두사가 결합한 파생어이므로 접사가 어근 뒤에 결합하지 않은 [A]에 해당한다"
+    },
+    {
+     "choice": 3,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "ㅁ ‘지우개’는 동사 어근에 접미사가 결합해 명사가 되었으므로 품사가 달라 [B]에 해당한다. ㄹ ‘맡기다’는 품사가 같아 [C]에 해당한다. 그래서 ㄷ, ㄹ을 [B]에, ㄱ, ㅁ을 [C]에 둔 것은 틀렸다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㅁ. 지우개"
+      },
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄹ. 맡기다"
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "파생어의 품사가 어근의 품사와 동일한가?"
+      }
+     ],
+     "explanation_quote": "ㄷ은 형용사 어근 뒤에 접미사가 결합하여 형성된 동사이며, ㅁ은 동사 어근 뒤에 접미사가 결합하여 형성된 명사이므로, ㄷ과 ㅁ은 접사가 어근 뒤에 결합하고, 파생어의 품사와 어근의 품사가 동일하지 않은 [B]에 해당한다. ㄱ은 명사 어근 뒤에 접미사가 결합하여 형성된 명사이며, ㄹ은 동사 어근 뒤에 접미사가 결합하여 형성된 동사이므로, ㄱ과 ㄹ은 모두 접사가 어근 뒤에 결합하고 파생어의 품사와 어근의 품사가 동일한 [C]에 해당된다"
+    },
+    {
+     "choice": 4,
+     "verdict": "적절",
+     "is_answer": true,
+     "basis": "해설지",
+     "reason": "[A]는 접두사가 결합한 ㄴ, ㅂ, [B]는 접미사가 결합하고 품사가 바뀐 ㄷ, ㅁ, [C]는 접미사가 결합하고 품사가 같은 ㄱ, ㄹ이다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㅁ. 지우개"
+      },
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄹ. 맡기다"
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "quote": "아니요[B]"
+      }
+     ],
+     "explanation_quote": "ㄴ과 ㅂ은 모두 접두사가 결합한 파생어이므로 접사가 어근 뒤에 결합하지 않은 [A]에 해당한다. ㄷ은 형용사 어근 뒤에 접미사가 결합하여 형성된 동사이며, ㅁ은 동사 어근 뒤에 접미사가 결합하여 형성된 명사이므로, ㄷ과 ㅁ은 접사가 어근 뒤에 결합하고, 파생어의 품사와 어근의 품사가 동일하지 않은 [B]에 해당한다. ㄱ은 명사 어근 뒤에 접미사가 결합하여 형성된 명사이며, ㄹ은 동사 어근 뒤에 접미사가 결합하여 형성된 동사이므로, ㄱ과 ㄹ은 모두 접사가 어근 뒤에 결합하고 파생어의 품사와 어근의 품사가 동일한 [C]에 해당된다"
+    },
+    {
+     "choice": 5,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "ㄷ, ㅁ은 접사가 어근 뒤에 결합하므로 접사가 어근 뒤에 결합하지 않는 [A]에 들어갈 수 없다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㄷ. 넓히다"
+      },
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "ㅁ. 지우개"
+      }
+     ],
+     "explanation_quote": "ㄴ과 ㅂ은 모두 접두사가 결합한 파생어이므로 접사가 어근 뒤에 결합하지 않은 [A]에 해당한다"
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "points": 2,
+   "stem": "<보기>의 ㉠~ ㉤에 대한 이해로 적절하지 않은 것은?",
+   "bogi": {
+    "label": "보 기",
+    "blocks": [
+     {
+      "id": "b1",
+      "type": "para",
+      "text": "음운 변동은 어떤 음운이 다른 음운으로 바뀌는 교체, 어떤 음운이 없어지는 탈락, 어떤 음운과 다른 음운이 합쳐지는 축약, 새로운 음운이 생기는 첨가로 나눌 수 있다. 음운 변동의 결과 음운의 개수가 달라지기도 한다.",
+      "underlines": []
+     },
+     {
+      "id": "e1",
+      "type": "para",
+      "text": "◦올해는 내가 대학에 간 ㉠첫해[처태]이다.",
+      "underlines": [
+       {
+        "mark": "㉠",
+        "text": "첫해[처태]"
+       }
+      ]
+     },
+     {
+      "id": "e2",
+      "type": "para",
+      "text": "◦아버지는 ㉡넋두리[넉뚜리] 같은 혼잣말을 했다.",
+      "underlines": [
+       {
+        "mark": "㉡",
+        "text": "넋두리[넉뚜리]"
+       }
+      ]
+     },
+     {
+      "id": "e3",
+      "type": "para",
+      "text": "◦물체 겉면의 넓이를 ㉢겉넓이[건널비]라고 한다.",
+      "underlines": [
+       {
+        "mark": "㉢",
+        "text": "겉넓이[건널비]"
+       }
+      ]
+     },
+     {
+      "id": "e4",
+      "type": "para",
+      "text": "◦그는 초면인데도 왜인지 ㉣낯익어[난니거] 보인다.",
+      "underlines": [
+       {
+        "mark": "㉣",
+        "text": "낯익어[난니거]"
+       }
+      ]
+     },
+     {
+      "id": "e5",
+      "type": "para",
+      "text": "◦동생은 아주 쓴 ㉤물약[물략]을 단숨에 마셔 버렸다.",
+      "underlines": [
+       {
+        "mark": "㉤",
+        "text": "물약[물략]"
+       }
+      ]
+     }
+    ]
+   },
+   "choices": [
+    "㉠은 교체와 축약이 한 번씩 일어나 음운의 개수가 줄었다.",
+    "㉡은 탈락과 첨가가 한 번씩 일어나 음운의 개수가 변하지 않았다.",
+    "㉢은 교체가 두 번 일어나 음운의 개수가 변하지 않았다.",
+    "㉣은 교체가 두 번, 첨가가 한 번 일어나 음운의 개수가 늘었다.",
+    "㉤은 첨가와 교체가 한 번씩 일어나 음운의 개수가 늘었다."
+   ],
+   "answer": 2,
+   "judgments": [
+    {
+     "choice": 1,
+     "verdict": "적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "‘첫해[처태]’는 ㅅ이 ㄷ으로 바뀌는 교체와 ㄷ과 ㅎ이 ㅌ으로 합쳐지는 축약이 한 번씩 일어나 음운이 하나 줄었다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "㉠첫해[처태]"
+      }
+     ],
+     "explanation_quote": "①　㉠은 음운 변동 중 음운의 교체와 축약이 일어나 음운 변동의 결과 음운의 개수가 하나 줄었다"
+    },
+    {
+     "choice": 2,
+     "verdict": "부적절",
+     "is_answer": true,
+     "basis": "해설지",
+     "reason": "‘넋두리[넉뚜리]’는 첨가가 일어나지 않고 탈락과 교체가 일어나 음운의 개수가 하나 줄었다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "㉡넋두리[넉뚜리]"
+      }
+     ],
+     "explanation_quote": "㉡은 음운의 첨가가 일어나지 않았으며, 음운의 탈락과 교체가 일어나 음운의 개수가 하나 줄었다"
+    },
+    {
+     "choice": 3,
+     "verdict": "적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "‘겉넓이[건널비]’는 교체만 일어나 음운의 개수에 변화가 없다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "㉢겉넓이[건널비]"
+      }
+     ],
+     "explanation_quote": "③ ㉢은 음운 변동 중 교체만이 일어나 음운 변동의 결과 음운의 개수에 변화가 없다"
+    },
+    {
+     "choice": 4,
+     "verdict": "적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "‘낯익어[난니거]’는 교체와 첨가가 일어나 음운의 개수가 하나 늘었다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "㉣낯익어[난니거]"
+      }
+     ],
+     "explanation_quote": "④ ㉣은 음운 변동 중 음운의 교체와 첨가가 일어나 음운 변동의 결과 음운의 개수가 하나 늘었다"
+    },
+    {
+     "choice": 5,
+     "verdict": "적절",
+     "is_answer": false,
+     "basis": "해설지",
+     "reason": "‘물약[물략]’은 첨가와 교체가 일어나 음운의 개수가 하나 늘었다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "㉤물약[물략]"
+      }
+     ],
+     "explanation_quote": "⑤　㉤은 음운 변동 중 음운의 첨가와 교체가 일어나 음운 변동의 결과 음운의 개수가 하나 늘었다"
+    }
+   ],
+   "stem_underlines": [
+    "않은"
+   ]
+  }
+ ],
+ "meta": {
+  "exam": "2025년 3월 고2 전국연합학력평가 국어",
+  "exam_id": "20250326-go2",
+  "area": "문법",
+  "topic": "안은문장과 안긴문장·파생어의 분류·음운 변동",
+  "problem_pdf": "20250326-go2-problem-kor_mun_4XZ5B8N3.pdf",
+  "explanation_pdf": "20250326-go2-explanation-kor_hsj_E4P12771.pdf"
+ }
+}

@@ -399,7 +399,7 @@ def main():
             if v not in want:
                 fail("D3", f"{w} {CIRS[j['choice']-1]}", f"판단 «{v}» 이 발문 방향과 안 맞음(기대: {'/'.join(sorted(want))})")
         # 선택과목 해설 PDF 는 화작·언매 해설이 같은 번호로 두 벌 들어 있다: 언어와 매체는 뒤의 것, 그 밖에는 앞의 것
-        secs = list(re.finditer(rf"(^|\n){q['no']}\.?\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.?\s*\[출제의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
+        secs = list(re.finditer(rf"(^|\n){q['no']}\.?\s*\[출제 ?의도\](.*?)(?=\n{q['no']+1}\.?\s*\[출제 ?의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         if not secs:  # 2025-11 수능 해설지: «N. 제목» 다음 줄에 «정답해설 :» 이 오는 형식
             secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*([가-힣 ·・,:\[\]]*\n.*?)(?=\n{q['no']+1}\.\s*[가-힣]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         sec = (secs[-1] if "언어와 매체" in s.get("meta", {}).get("exam", "") else secs[0]) if secs else None
