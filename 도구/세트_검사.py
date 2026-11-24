@@ -35,7 +35,7 @@ import sys
 
 import fitz
 
-HEADER = re.compile(r"^(\d+|국어영역|국어 영역|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시)$")
+HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시)$")
 MARKS = "㉠㉡㉢㉣㉤㉥㉦㉧㉮㉯㉰㉱㉲ⓐⓑⓒⓓⓔⓕⓖ"
 NEG = {"부적절", "불일치", "미반영", "틀림", "확인 불가"}
 POS = {"적절", "일치", "반영", "맞음", "확인 가능"}
@@ -45,7 +45,8 @@ COMMON_NEG = {"않은", "않는", "없는", "아닌", "않다"}  # 발문 강조
 
 
 def squash(s):
-    return re.sub(r"\s+", "", s)
+    # 겹낫표 『 』 는 PDF 텍스트층에서 사용자 정의 글자(U+F000)로 나온다. 같게 본다. 폭 없는 공백(U+200B)은 공백으로 본다
+    return re.sub(r"[\s​]+", "", s.replace("『", "").replace("』", ""))
 
 
 def pdf_text(path):
@@ -67,6 +68,11 @@ def underlined_runs(path, with_page=False):
                     segs.append((min(it[1].x, it[2].x), max(it[1].x, it[2].x), it[1].y))
                 elif it[0] == "re" and it[1].height < 1.2 and it[1].width > 3:
                     segs.append((it[1].x0, it[1].x1, it[1].y1))
+        # 쪽 가운데 아래 쪽번호 상자(윗변·아랫변 두 선, 쪽 가운데에 놓임)는 밑줄이 아니다
+        mid = page.rect.width / 2
+        segs = [s for s in segs
+                if not (abs((s[0] + s[1]) / 2 - mid) < 3 and s[2] > page.rect.height * 0.88
+                        and any(o is not s and abs(o[0] - s[0]) < 1 and abs(o[1] - s[1]) < 1 and 10 < abs(o[2] - s[2]) < 30 for o in segs))]
         chars = [(c["c"], fitz.Rect(c["bbox"])) for b in page.get_text("rawdict")["blocks"]
                  for l in b.get("lines", []) for sp in l["spans"] for c in sp["chars"]]
         seen = set()
@@ -74,7 +80,7 @@ def underlined_runs(path, with_page=False):
             # 글자 가운데가 선 위에 있으면 밑줄 글자로 본다(선이 마지막 글자보다 1pt 남짓 짧게 끝나는 PDF 가 있다)
             # 선이 글자 아랫변보다 아주 조금(소수점) 위에 그어진 PDF 가 있고, 위첨자 '*'(각주 표시)는 아랫변이 선보다 훨씬 위다
             t = squash("".join(c for c, r in chars if x0 - 0.5 <= (r.x0 + r.x1) / 2 <= x1 + 0.5
-                               and -0.5 <= y - r.y1 < (9 if c == "*" else 4)))
+                               and -0.7 <= y - r.y1 < (9 if c == "*" else 4)))
             key = (round(x0), round(y))
             if t and key not in seen:
                 seen.add(key)
@@ -131,7 +137,7 @@ def main():
             fail("A2", w, f"선지 {len(q['choices'])}개 또는 빈 선지")
         if q["points"] not in (2, 3):
             fail("A3", w, "배점이 2/3 이 아님")
-        m = re.search(rf"(^|\n){q['no']}\.\s(.{{0,3000}}?)(\n①|①)", src, re.S)
+        m = re.search(rf"(^|\n)　?{q['no']}\.\s(.{{0,3000}}?)(\n①|①)", src, re.S)
         has3 = bool(m and "[3점]" in m.group(2))
         if has3 != (q["points"] == 3):
             fail("A3", w, f"3점 표시 불일치(PDF {'있음' if has3 else '없음'})")
@@ -296,8 +302,8 @@ def main():
     stem_text = " ".join([q["stem"] for q in qs] + [c for q in qs for c in q["choices"]])
     used = set(re.findall(f"[{MARKS}]", stem_text)) | set(re.findall(r"\[[A-Z]\]", stem_text))
     # 그림 속 글자([A]·㉠ 꼬리표 등)도 기호가 있는 자리로 친다
-    passage_text = " ".join([p["text"] for p in texts_p.values()] + [f.get("pdf_text", "") for f in figs_p.values()])
-    box_text = " ".join([it["text"] for it in box_text_items] + [it.get("pdf_text", "") for q in qs for box in boxes(q) for it in box_items(box) if it["type"] == "figure"])
+    passage_text = " ".join([p["text"] for p in texts_p.values()] + [(f.get("pdf_text", "") + " " + f.get("raster_text", "")).strip() for f in figs_p.values()])
+    box_text = " ".join([it["text"] for it in box_text_items] + [(it.get("pdf_text", "") + " " + it.get("raster_text", "")).strip() for q in qs for box in boxes(q) for it in box_items(box) if it["type"] == "figure"])
     # 발문 안에서 이름을 붙인 기호('화이트[A]'처럼 낱말 바로 뒤에 붙은 [A])는 지문 구간이 아니다
     defined = set(re.findall(r"[가-힣A-Za-z)](\[[A-Z]\])", " ".join(q["stem"] for q in qs)))
     for m in sorted(used - marks - defined):
@@ -356,8 +362,8 @@ def main():
         if not sec:
             fail("E3", w, "해설지에서 이 문항 해설을 찾지 못함")
         q_texts = [it["text"] for box in boxes(q) for it in box_items(box) if it["type"] in TEXT_TYPES]
-        q_figs = {it["id"]: it.get("pdf_text", "") for box in boxes(q) for it in box_items(box) if it["type"] == "figure"}
-        q_figs.update({f["id"]: f.get("pdf_text", "") for f in figs_p.values()})
+        q_figs = {it["id"]: (it.get("pdf_text", "") + " " + it.get("raster_text", "")).strip() for box in boxes(q) for it in box_items(box) if it["type"] == "figure"}
+        q_figs.update({f["id"]: (f.get("pdf_text", "") + " " + f.get("raster_text", "")).strip() for f in figs_p.values()})
         for j in js:
             ww = f"{w} {CIRS[j['choice']-1]}"
             if not j.get("evidence"):

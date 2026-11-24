@@ -56,7 +56,7 @@ def _spans(text, marks):
             cls.append("xm-b")
         if any(m[2] == "bx" for m in cover):
             cls.append("xm-bx")
-            if re.fullmatch(r"\[[A-Z가-힣]\]", text[a:b]):  # 글 속 네모 빈칸 [A]: 원본처럼 넓은 칸
+            if re.fullmatch(r"\[[A-Z가-힣]\]|[ⓐ-ⓩ㉠-㉿]", text[a:b]):  # 글 속 네모 빈칸 [A]: 원본처럼 넓은 칸
                 cls.append("xm-bxblank")
         if evs:
             cls.append("xm-ev")
@@ -198,7 +198,13 @@ def render_set(s, img, path):
                 evs = by_fig.get(p["id"], [])
             else:
                 evs = by_para.get(p["id"], [])
-            h.append(_item(p, evs, inline_rg.get(p["id"], []), f"{lo}-{p['id']}"))
+            x = _item(p, evs, inline_rg.get(p["id"], []), f"{lo}-{p['id']}")
+            if p.get("cont") and h[-1].endswith("</p>") and x.startswith("<p"):
+                # 쪽 경계에서 끊긴 문단: 앞 항목에 이어 한 문단으로 보인다("cont": true)
+                # "cont": "join" 은 낱말 중간에서 끊긴 경우(공백 없이 잇는다), true 는 낱말 사이(공백 한 칸)
+                h[-1] = h[-1][:-4] + ("" if p["cont"] == "join" else " ") + re.sub(r"^<p[^>]*>", "", x)
+            else:
+                h.append(x)
         if cur:
             h.append("</div>")
         h.append("</div>")
