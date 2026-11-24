@@ -54,6 +54,8 @@ def _spans(text, marks):
             cls.append("xm-rgi")
         if any(m[2] == "b" for m in cover):
             cls.append("xm-b")
+        if any(m[2] == "sup" for m in cover):
+            cls.append("xm-sup")
         if any(m[2] == "bx" for m in cover):
             cls.append("xm-bx")
             if re.fullmatch(r"\[[A-Z가-힣]\]|[ⓐ-ⓩ㉠-㉿]", text[a:b]):  # 글 속 네모 빈칸 [A]: 원본처럼 넓은 칸
@@ -91,8 +93,14 @@ def _find_nth(text, bt):
     return i, len(t)
 
 
-def _marks(text, evs, uls=(), rgs=(), bolds=(), boxed=()):
+def _marks(text, evs, uls=(), rgs=(), bolds=(), boxed=(), sups=()):
     ms = []
+    for sp in sups:  # 위첨자: «밑|위» (예: «2|4» → 본문 «24» 의 뒤 글자만 위첨자). {"text": "2|4", "nth": 2} 도 가능
+        t, n = (sp, 1) if isinstance(sp, str) else (sp["text"], sp.get("nth", 1))
+        base, up = t.split("|", 1)
+        i, _ = _find_nth(text, {"text": base + up, "nth": n})
+        if i >= 0:
+            ms.append((i + len(base), i + len(base) + len(up), "sup", None))
     for kind, lst in (("b", bolds), ("bx", boxed)):
         for bt in lst:
             i, n = _find_nth(text, bt)
@@ -129,7 +137,7 @@ def _item(p, evs, inline_rgs, anchor):
         dev = f" data-ev='{ids}'" if ids else ""
         return (f"<div class='xm-imgtext' id='{anchor}'{dev}><img src='{p['_src']}' width='{p['_w']}' alt='{html.escape(p['text'])}' loading='lazy'>"
                 f"{'<div class=xm-figtags>근거 ' + tags + '</div>' if tags else ''}</div>")
-    body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", []), p.get("boxed", [])))
+    body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", []), p.get("boxed", []), p.get("sup", [])))
     if p.get("blank"):  # 빈칸 밑줄 위의 글자(예: 학생: ____[가]____)
         b = html.escape(p["blank"])
         body = body.replace(b, f"<span class='xm-blank'>{b}</span>", 1)

@@ -78,3 +78,5 @@
 .xm-inbox.xm-dotted{border-style:dotted}
 .xm-imgtext{margin:6px 0}.xm-imgtext img{max-width:100%;height:auto;background:#fff}
 .xm-inl{height:1.15em;width:auto;vertical-align:text-bottom;background:#fff}
+
+.xm-sup{vertical-align:super;font-size:.75em;line-height:0}

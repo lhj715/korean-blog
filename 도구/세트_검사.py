@@ -355,7 +355,7 @@ def main():
         for k, c in enumerate(q["choices"]):
             reg = "".join(squash(t) for t in cu.get(str(k + 1), []))
             for r in q_runs:
-                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg and ul_total[r] > reg_total[r]:
+                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg and ul_total[r] > reg_total[r] and not q.get("table_border"):  # table_border: 선지 표 칸 테두리가 밑줄로 읽히는 문항(검토자가 쪽 그림으로 확인)
                     fail("C9", f"{q['no']}번 {CIRS[k]}", f"PDF 에 밑줄이 그어진 «{r}» 가 선지에 있는데 choice_underlines 에 없음")
         su = "".join(squash(t) for t in q.get("stem_underlines", []))
         for r in q_runs:
@@ -377,14 +377,14 @@ def main():
         picked = [j["choice"] for j in js if j["is_answer"]]
         if picked != [q["answer"]]:
             fail("D2", w, f"정답 표시 {picked} != 정답 {q['answer']}")
-        negative = bool(re.search(r"(않은|않는|없는|틀린|적절하지)", q["stem"]))
+        negative = bool(re.search(r"(않은|않는|없는|틀린|적절하지|아닌)", q["stem"]))
         for j in js:
             v = j["verdict"]
             want = (NEG if negative else POS) if j["is_answer"] else (POS if negative else NEG)
             if v not in want:
                 fail("D3", f"{w} {CIRS[j['choice']-1]}", f"판단 «{v}» 이 발문 방향과 안 맞음(기대: {'/'.join(sorted(want))})")
         # 선택과목 해설 PDF 는 화작·언매 해설이 같은 번호로 두 벌 들어 있다: 언어와 매체는 뒤의 것, 그 밖에는 앞의 것
-        secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.\s*\[출제의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
+        secs = list(re.finditer(rf"(^|\n){q['no']}\.?\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.?\s*\[출제의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         if not secs:  # 2025-11 수능 해설지: «N. 제목» 다음 줄에 «정답해설 :» 이 오는 형식
             secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*([가-힣 ·,\[\]]*\n.*?)(?=\n{q['no']+1}\.\s*[가-힣]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         sec = (secs[-1] if "언어와 매체" in s.get("meta", {}).get("exam", "") else secs[0]) if secs else None
