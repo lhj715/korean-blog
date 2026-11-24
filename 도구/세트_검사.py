@@ -171,7 +171,7 @@ def main():
                 continue
             k = region.find(sq)
             if k < 0:
-                if name.startswith("그림:"):
+                if name.startswith("그림:") or name.startswith("상자"):  # 계획표 등 상자 글이 다음 문항 구역·쪽 끝에 찍히는 PDF(2025-10 고1 2번)
                     deferred.append((name, sq, where))
                 else:
                     fail("B3", where, f"«{name}» 조각을 PDF 구역에서 찾지 못함")
@@ -237,7 +237,7 @@ def main():
         for name, sq, where in deferred:
             k = rest.find(sq)
             if k < 0:
-                fail("B3", where, f"«{name[3:]}» 그림 글자를 PDF 구역에서 찾지 못함")
+                fail("B3", where, f"«{name[3:] if name.startswith('그림:') else name}» 글자를 PDF 구역에서 찾지 못함")
             else:
                 rest = rest[:k] + rest[k + len(sq):]
         for rg in ranges:
