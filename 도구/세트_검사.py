@@ -150,7 +150,14 @@ def main():
         texts.append((f"{q['no']}번 발문", q["stem"], True))
         if q.get("sub_guide"):
             texts.append((f"{q['no']}번 작은 안내문", q["sub_guide"], False))
-        texts += [(f"{q['no']}번 {CIRS[i]}", c, True) for i, c in enumerate(q["choices"])]
+        if q.get("choices_raster"):
+            # 선지가 PDF 에 글자 없이 그림(표)으로만 있는 문항: 선지 글은 그 문항 그림의 raster_text 에 글자 그대로 있어야 한다
+            rt = squash(" ".join((it.get("pdf_text", "") + " " + it.get("raster_text", "")) for box in boxes(q) for it in box_items(box) if it["type"] == "figure"))
+            for i, c in enumerate(q["choices"]):
+                if squash(c) not in rt:
+                    fail("B1", f"{q['no']}번 {CIRS[i]}", "choices_raster 인데 선지 글이 그림 raster_text 에 없음")
+        else:
+            texts += [(f"{q['no']}번 {CIRS[i]}", c, True) for i, c in enumerate(q["choices"])]
         for bi, box in enumerate(boxes(q)):
             texts += [(f"{q['no']}번 상자{bi+1} {it['id']}", it["text"], False) for it in box_items(box) if it["type"] in TEXT_TYPES]
     for where, t, strict in texts:
@@ -173,6 +180,8 @@ def main():
                 continue
             k = region.find(sq)
             if k < 0:
+                if sq.isdigit():  # 숫자만 있는 줄(연 번호 1·2·3)은 쪽 번호 필터(HEADER)가 지워 PDF 글자에 없다(2025-06 고3 31~34번)
+                    continue
                 if name.startswith("그림:") or name.startswith("상자"):  # 계획표 등 상자 글이 다음 문항 구역·쪽 끝에 찍히는 PDF(2025-10 고1 2번)
                     deferred.append((name, sq, where))
                 else:
@@ -231,7 +240,7 @@ def main():
                 pieces.append((f"상자{bi+1} 머리말", box.get("label", "")))
                 for it in box_items(box):
                     pieces.append(((f"상자{bi+1} " if it["type"] in TEXT_TYPES else "그림:") + it["id"], it["text"] if it["type"] in TEXT_TYPES else it.get("pdf_text", "")))
-            for k, c in enumerate(q["choices"] if not q.get("choices_in_box") else []):
+            for k, c in enumerate(q["choices"] if not (q.get("choices_in_box") or q.get("choices_raster")) else []):
                 before, after = CIRS[k] + squash(c), squash(c) + CIRS[k]
                 pieces.append((f"선지 {CIRS[k]}", before if before in region or after not in region else after))
             leftovers.append((f"{q['no']}번 구역", cut(region, pieces, f"{q['no']}번 구역")))
@@ -255,6 +264,8 @@ def main():
         # 이웃 세트 지문의 구간 표시([A] 등)가 이 세트 구역 끝에 찍혀 나온 것은 빠진 글자가 아니다(2025-09 고2 12~15·34~37번)
         rest = re.sub(r"\[[A-E]\]", "", rest)
         rest = rest.replace("◦", "").replace("<>", "")  # <보 기> 머리말의 꺾쇠(2025-11 수능 텍스트층은 꺾쇠째 찍힘)  # 메모·계획표의 글머리 기호는 장식이라 세지 않는다
+        if rest and set(rest) == {"("}:  # 2025-04 평가원 텍스트층은 <보 기>·<학습 활동> 꺾쇠를 «(» 한 글자로 찍는다
+            rest = ""
         if rest:
             where = ", ".join(w for w, r in leftovers if r)
             fail("B3", where, f"등록되지 않은 PDF 글자가 남음: «{rest[:50]}»")
@@ -390,7 +401,7 @@ def main():
         # 선택과목 해설 PDF 는 화작·언매 해설이 같은 번호로 두 벌 들어 있다: 언어와 매체는 뒤의 것, 그 밖에는 앞의 것
         secs = list(re.finditer(rf"(^|\n){q['no']}\.?\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.?\s*\[출제의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         if not secs:  # 2025-11 수능 해설지: «N. 제목» 다음 줄에 «정답해설 :» 이 오는 형식
-            secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*([가-힣 ·,\[\]]*\n.*?)(?=\n{q['no']+1}\.\s*[가-힣]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
+            secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*([가-힣 ·・,:\[\]]*\n.*?)(?=\n{q['no']+1}\.\s*[가-힣]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         sec = (secs[-1] if "언어와 매체" in s.get("meta", {}).get("exam", "") else secs[0]) if secs else None
         sec_sq = squash(sec.group(2)) if sec else ""
         if not sec:

@@ -45,7 +45,7 @@ def _spans(text, marks):
     out = []
     for a, b in zip(cuts, cuts[1:]):
         cover = [m for m in marks if m[0] <= a and b <= m[1]]
-        seg = html.escape(text[a:b]).replace("\n", "<br>").replace("­", "-").replace("", "-")  # 소프트 하이픈·PUA 하이픈은 보이는 «-» 로
+        seg = html.escape(text[a:b]).replace("\n", "<br>").replace("­", "-").replace("󰡔", "『").replace("󰡕", "』").replace("", "-")  # 소프트 하이픈·PUA 하이픈은 보이는 «-» 로
         evs = [m[3] for m in cover if m[2] == "ev"]
         cls = []
         if any(m[2] == "ul" for m in cover):
