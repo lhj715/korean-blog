@@ -5,6 +5,7 @@
  / note(각주·출처) / omit(중략 줄거리) / heading(초고의 제목·항목) / figure(그림·표 그림)
 """
 import html
+import re
 
 from PIL import Image
 
@@ -119,10 +120,17 @@ def _item(p, evs, inline_rgs, anchor):
         return (f"<div class='xm-imgtext' id='{anchor}'{dev}><img src='{p['_src']}' width='{p['_w']}' alt='{html.escape(p['text'])}' loading='lazy'>"
                 f"{'<div class=xm-figtags>근거 ' + tags + '</div>' if tags else ''}</div>")
     body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", [])))
+    if p.get("blank"):  # 빈칸 밑줄 위의 글자(예: 학생: ____[가]____)
+        b = html.escape(p["blank"])
+        body = body.replace(b, f"<span class='xm-blank'>{b}</span>", 1)
     cls = {"para": "xm-dlg" if p.get("dialogue") else "", "verse": "xm-verse", "label": "xm-label",
            "note": "xm-note", "omit": "xm-omit", "heading": "xm-head"}[t]
     if p.get("center"):
         cls = (cls + " xm-center").strip()
+    if t == "note" and re.match(r"^[-–] .+ [-–]$", p["text"]):  # 작품 출처 줄(- 작자, ｢제목｣ -)은 원본처럼 오른쪽
+        cls += " xm-right"
+    if t == "verse":  # 연시조의 <제1수> 같은 표시는 원본처럼 그 수 끝 오른쪽
+        body = re.sub(r"(?:<br>)?(&lt;제\d+수&gt;)(?:<br>)?", r"<span class='xm-suno'>\1</span>", body)
     return f"<p class='{cls}' id='{anchor}'>{body}</p>" if cls else f"<p id='{anchor}'>{body}</p>"
 
 

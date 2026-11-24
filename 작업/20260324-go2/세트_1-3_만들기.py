@@ -60,6 +60,9 @@ Q[3]["bogi"] = {"label": "< 보 기 >", "blocks": [
 for b in Q[3]["bogi"]["blocks"]:  # 쪽 그림에서 '선생님'·'학생' 만 굵은 글씨(A·B 는 보통 글씨)
     if b["text"].startswith(("선생님", "학생")):
         b["bold"] = [b["text"].split(":")[0]]
+    if b["text"][:2] in ("A:", "B:"):  # 원본: A·B 대화는 화면 모양 안쪽 상자 안
+        b["inbox"] = "대화"
+Q[3]["bogi"]["blocks"][-1]["blank"] = "[가]"  # 원본: '[가]' 가 긴 빈칸 밑줄 위에 있다
 Q[3]["choices"] = [c for c in Q[3]["choices"] if c.strip()]  # 초안 끝의 빈 조각 제거
 c5 = Q[3]["choices"][4]
 Q[3]["choices"][4] = c5[: c5.index("2026학년도")].strip()

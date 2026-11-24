@@ -32,6 +32,9 @@
 .xm-inbox{border:1px solid var(--ink-soft);padding:8px 14px;margin:6px 0 8px}
 .xm-bogi .xm-inbox>p:last-child{margin-bottom:0}
 .xm-bogi p.xm-center{text-align:center}
+.xm-passage p.xm-right,.xm-bogi p.xm-right{text-align:right}
+.xm-suno{display:block;text-align:right}
+.xm-blank{display:inline-block;min-width:60%;border-bottom:1px solid var(--ink);text-align:center;line-height:1.5}
 .xm-bogi .xm-bl{text-align:center;color:var(--ink-mid);font-family:'Noto Sans KR',sans-serif;font-size:13px}
 .xm-opts{list-style:none;margin:0;padding:0}
 .xm-opts li{margin:3px 0;padding:3px 6px 3px 1.6em;text-indent:-1.2em;font-size:15px;line-height:1.75;border-radius:4px}

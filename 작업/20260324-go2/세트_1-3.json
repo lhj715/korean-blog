@@ -340,14 +340,16 @@
         "mark": "ⓐ",
         "text": "중간고사 준비는 잘되고 있니?"
        }
-      ]
+      ],
+      "inbox": "대화"
      },
      {
       "id": "t2",
       "type": "para",
       "dialogue": true,
       "text": "B: 아니, 아직 시작도 못 했어.",
-      "underlines": []
+      "underlines": [],
+      "inbox": "대화"
      },
      {
       "id": "t3",
@@ -359,14 +361,16 @@
         "mark": "ⓑ",
         "text": "근데 왜 계속 동아리 회의 자료만 보고 있어?"
        }
-      ]
+      ],
+      "inbox": "대화"
      },
      {
       "id": "t4",
       "type": "para",
       "dialogue": true,
       "text": "B: 오늘 두 시에 회의인데 회의 준비를 다 못했거든.",
-      "underlines": []
+      "underlines": [],
+      "inbox": "대화"
      },
      {
       "id": "t5",
@@ -378,7 +382,8 @@
         "mark": "ⓒ",
         "text": "바람도 쐴 겸 잠깐 나랑 나갔다 올래?"
        }
-      ]
+      ],
+      "inbox": "대화"
      },
      {
       "id": "t6",
@@ -390,7 +395,8 @@
         "mark": "ⓓ",
         "text": "마침 열두 시니 같이 급식 먹을까?"
        }
-      ]
+      ],
+      "inbox": "대화"
      },
      {
       "id": "t7",
@@ -402,14 +408,16 @@
         "mark": "ⓔ",
         "text": "오늘 급식 식단표 좀 보여 줄 수 있어"
        }
-      ]
+      ],
+      "inbox": "대화"
      },
      {
       "id": "t8",
       "type": "para",
       "dialogue": true,
       "text": "B: 응, 그럼. 요즘 학생회에서 자세히 공유해 주더라.",
-      "underlines": []
+      "underlines": [],
+      "inbox": "대화"
      },
      {
       "id": "t9",
@@ -419,7 +427,8 @@
       "underlines": [],
       "bold": [
        "학생"
-      ]
+      ],
+      "blank": "[가]"
      }
     ]
    },
