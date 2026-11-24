@@ -255,7 +255,9 @@ def main():
         for name, sq, where in deferred:
             k = rest.find(sq)
             if k < 0:
-                fail("B3", where, f"«{name[3:] if name.startswith('그림:') else name}» 글자를 PDF 구역에서 찾지 못함")
+                # <보기> 상자 글이 이웃 세트 구역에 찍힌 PDF(2024-09 고2 9번 <보기> 가 11~12번 지문 한가운데에 찍힘)는 PDF 전체에서 찾는다
+                if sq not in src_sq:
+                    fail("B3", where, f"«{name[3:] if name.startswith('그림:') else name}» 글자를 PDF 구역에서 찾지 못함")
             else:
                 rest = rest[:k] + rest[k + len(sq):]
         for rg in ranges:
@@ -274,6 +276,32 @@ def main():
         rest = rest.replace("◦", "").replace("<>", "")  # <보 기> 머리말의 꺾쇠(2025-11 수능 텍스트층은 꺾쇠째 찍힘)  # 메모·계획표의 글머리 기호는 장식이라 세지 않는다
         if rest and set(rest) == {"("}:  # 2025-04 평가원 텍스트층은 <보 기>·<학습 활동> 꺾쇠를 «(» 한 글자로 찍는다
             rest = ""
+        if rest:  # 이웃 세트의 <보기> 글자가 이 세트 구역 안에 찍힌 것은 같은 폴더의 다른 세트 글자와 대조해 지운다(2024-09 고2 11~12번)
+            import glob, os
+            sib = ""
+            for sp in sorted(glob.glob(os.path.join(os.path.dirname(os.path.abspath(set_path)), "세트_*.json"))):
+                if os.path.abspath(sp) == os.path.abspath(set_path):
+                    continue
+                try:
+                    sj = json.load(open(sp, encoding="utf-8"))
+                except Exception:
+                    continue
+                parts = [(it.get("text", "") or it.get("pdf_text", "")) + it.get("raster_text", "") for it in sj.get("passage", [])]
+                for sq_ in sj.get("questions", []):
+                    parts.append(sq_.get("stem", ""))
+                    for bx in boxes(sq_):
+                        parts.append(bx.get("label", ""))
+                        parts += [(it.get("text", "") or it.get("pdf_text", "")) + it.get("raster_text", "") for it in box_items(bx)]
+                    parts += sq_.get("choices", [])
+                sib += squash("".join(parts)).replace("<", "").replace(">", "")
+            rest = rest.replace("<", "").replace(">", "")
+            while rest:
+                n = len(rest)
+                while n >= 8 and rest[:n] not in sib:
+                    n -= 1
+                if n < 8:
+                    break
+                rest = rest[n:]
         if rest:
             where = ", ".join(w for w, r in leftovers if r)
             fail("B3", where, f"등록되지 않은 PDF 글자가 남음: «{rest[:50]}»")
