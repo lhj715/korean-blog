@@ -259,6 +259,10 @@ def render_set(s, img, path):
         for i, c in enumerate(q["choices"], 1):
             a = J[i]["is_answer"]
             ctext = _spans(c, [(c.find(t), c.find(t) + len(t), "ul", None) for t in cu.get(str(i), []) if t in c])
+            for ci in (q.get("choice_images") or {}).get(str(i), []):
+                # 옛한글(PUA) 글자 하나를 쪽에서 오려 낸 작은 그림으로 대신 보인다
+                if ci["text"] in ctext:
+                    ctext = ctext.replace(ci["text"], f"<img class='xm-inl' src='{img(ci['image'])}' alt='{html.escape(ci.get('alt', ''))}'>", 1)
             h.append(f"<li id='q{q['no']}-{i}'>{CIR[i-1]} {ctext}"
                      f"<a class='xm-src{' xm-ans' if a else ''}' href='#set{lo}-{hi}' data-ev='e{q['no']}-{i}-'>{'정답 근거' if a else '지문 근거'}</a></li>")
         h.append("</ul>")

@@ -207,6 +207,16 @@ def main():
         leftovers = []
         if s.get("guide") and g >= 0:
             region = src_sq[g + len(squash(s["guide"])): starts[0]]
+            # 텍스트층 순서가 «지문 → 문항 → * 확인 사항 → 지문 나머지(다음 쪽)» 로 뒤섞인 PDF: 확인 사항 문구 뒤 ~ 다음 안내문 앞을 지문 구역에 합친다
+            if notice and end == notice[0]:  # 이 세트 끝에서 처음 만나는 게 확인 사항일 때만
+                tail0 = src_sq.find("확인하시오.", notice[0])
+                if tail0 >= 0:
+                    tail0 += len("확인하시오.")
+                    after = [m.start() for m in re.finditer(r"\[\d+~\d+\]", src_sq) if m.start() >= tail0]
+                    tail = src_sq[tail0: after[0] if after else len(src_sq)]
+                    # 다음 선택과목 안내문(「선택과목(…)」문제가제시되오니 …확인하시오.)은 지문이 아니다
+                    tail = re.sub(r"이어서,?「선택과목\([^)]*\)」문제가제시되오니,?자신이선택한과목인지확인하시오\.", "", tail)
+                    region += tail
             pieces = [(p["id"] if p["type"] in TEXT_TYPES else "그림:" + p["id"], p["text"] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
             leftovers.append(("지문 구역", cut(region, pieces, "지문 구역")))
         for i, q in enumerate(qs):
@@ -269,6 +279,12 @@ def main():
         for k, lst in (q.get("choice_underlines") or {}).items():
             if not k.isdigit() or not 1 <= int(k) <= 5 or any(t not in q["choices"][int(k) - 1] for t in lst):
                 fail("C6", f"{q['no']}번", f"선지 밑줄 {k}: {lst} 이 선지 글에 없음")
+    for q in qs:
+        for k, lst in (q.get("choice_images") or {}).items():
+            for ci in lst:
+                ok7 = k.isdigit() and 1 <= int(k) <= 5 and len(ci.get("text", "")) == 1 and "" <= ci["text"] <= "" and ci["text"] in q["choices"][int(k) - 1]
+                if not ok7:
+                    fail("C7", f"{q['no']}번 선지 {k}", "choice_images 의 text 는 그 선지에 든 옛한글 PUA 글자 하나여야 함")
     for p in ul_items:
         if p.get("display_image") and not re.search("[-]", p["text"]):
             fail("C7", f"{p['id']}", "display_image 는 화면에서 깨지는 글자(옛한글 PUA)가 있는 항목에만 쓴다")
@@ -310,7 +326,10 @@ def main():
         if m.startswith("["):
             ok = m in passage_text or m in box_text
         else:
-            ok = m not in passage_text and m in box_text
+            # 지문 글에는 없고(밑줄로 등록), 상자 안 또는 지문 그림 속 꼬리표로만 있는 기호는 예외
+            plain_p = " ".join(p["text"] for p in texts_p.values())
+            fig_p = " ".join((f.get("pdf_text", "") + " " + f.get("raster_text", "")).strip() for f in figs_p.values())
+            ok = m not in plain_p and (m in box_text or m in fig_p)
         if not ok:
             fail("C2", "세트", f"{m} 이 발문·선지에 나오는데 지문의 밑줄·구간으로 등록되지 않음")
 
@@ -357,7 +376,9 @@ def main():
             want = (NEG if negative else POS) if j["is_answer"] else (POS if negative else NEG)
             if v not in want:
                 fail("D3", f"{w} {CIRS[j['choice']-1]}", f"판단 «{v}» 이 발문 방향과 안 맞음(기대: {'/'.join(sorted(want))})")
-        sec = re.search(rf"(^|\n){q['no']}\.\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.\s*\[출제의도\]|\n\[\d+\s*[~～]\s*\d+\]|\Z)", expl, re.S)
+        # 선택과목 해설 PDF 는 화작·언매 해설이 같은 번호로 두 벌 들어 있다: 언어와 매체는 뒤의 것, 그 밖에는 앞의 것
+        secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.\s*\[출제의도\]|\n\[\d+\s*[~～]\s*\d+\]|\Z)", expl, re.S))
+        sec = (secs[-1] if "언어와 매체" in s.get("meta", {}).get("exam", "") else secs[0]) if secs else None
         sec_sq = squash(sec.group(2)) if sec else ""
         if not sec:
             fail("E3", w, "해설지에서 이 문항 해설을 찾지 못함")
