@@ -46,7 +46,7 @@ COMMON_NEG = {"않은", "않는", "없는", "아닌", "않다"}  # 발문 강조
 
 def squash(s):
     # 겹낫표 『 』 는 PDF 텍스트층에서 사용자 정의 글자(U+F000)로 나온다. 같게 본다. 폭 없는 공백(U+200B)은 공백으로 본다
-    return re.sub(r"[\s​]+", "", s.replace("뺷", "").replace("뺸", "").replace("『", "").replace("』", "").replace("∼", "~").replace("～", "~"))
+    return re.sub(r"[\s​]+", "", s.replace("靑", "복").replace("뺷", "").replace("뺸", "").replace("『", "").replace("』", "").replace("∼", "~").replace("～", "~"))
 
 
 def pdf_text(path):
@@ -139,7 +139,7 @@ def main():
             fail("A2", w, "발문이 비어 있음")
         if q["points"] not in (2, 3):
             fail("A3", w, "배점이 2/3 이 아님")
-        m = re.search(rf"(^|\n)　?{q['no']}\.\s(.{{0,3000}}?)(\n①|①)", src, re.S)
+        m = re.search(rf"(^|\n)　?{q['no']}\.\s(.{{0,3000}}?)(\n①|①|\n　?{q['no']+1}\.\s)", src, re.S)  # 선지가 그림뿐인 문항은 다음 문항 번호에서 끊는다(2025학년도 수능 39번)
         has3 = bool(m and "[3점]" in m.group(2))
         if has3 != (q["points"] == 3):
             fail("A3", w, f"3점 표시 불일치(PDF {'있음' if has3 else '없음'})")
@@ -257,7 +257,7 @@ def main():
             k = rest.find(mk)
             if k < 0:
                 # 구간 표시가 안내문 앞(쪽 머리 자리)에 찍히는 PDF(2025-09 고2 38~42번)는 이 세트 구역 밖에 있다
-                if mk not in src_sq[: max(g, 0)]:
+                if mk not in src_sq:  # 쪽 끝에 찍힌 [A] 가 이웃 세트 구역에 들어간 PDF(2025학년도 수능 35~36번)
                     fail("B3", "구간", f"구간 표시 «{rg['mark']}» 를 PDF 남은 글자에서 찾지 못함")
             else:
                 rest = rest[:k] + rest[k + len(mk):]
@@ -303,6 +303,8 @@ def main():
         for k, lst in (q.get("choice_images") or {}).items():
             for ci in lst:
                 ok7 = k.isdigit() and 1 <= int(k) <= 5 and (len(ci.get("text", "")) == 1 or ci.get("text") == "‘ ’") and (("" <= ci["text"] <= "") or ci["text"] == "‘ ’") and ci["text"] in q["choices"][int(k) - 1]
+                if not ok7 and ci.get("plain") and k.isdigit() and 1 <= int(k) <= 5 and len(ci.get("text", "")) == 1 and ci["text"] in q["choices"][int(k) - 1]:
+                    ok7 = True  # plain: 텍스트층에서 일반 한글로 읽힌 옛한글(예: ㅿ 이 든 글자가 «틀»)을 그림으로 대신 보일 때(검토자가 쪽 그림 확인)
                 if not ok7:
                     fail("C7", f"{q['no']}번 선지 {k}", "choice_images 의 text 는 그 선지에 든 옛한글 PUA 글자 하나여야 함")
     for p in ul_items:
