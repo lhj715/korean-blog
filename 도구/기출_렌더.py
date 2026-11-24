@@ -58,7 +58,7 @@ def _spans(text, marks):
             cls.append("xm-sup")
         if any(m[2] == "bx" for m in cover):
             cls.append("xm-bx")
-            if re.fullmatch(r"\[[A-Z가-힣]\]|[ⓐ-ⓩ㉠-㉿]", text[a:b]):  # 글 속 네모 빈칸 [A]: 원본처럼 넓은 칸
+            if re.fullmatch(r"\[[A-Z가-힣]\]|[ⓐ-ⓩ㉠-㉿Ⓐ-Ⓩ]", text[a:b]):  # 글 속 네모 빈칸 [A]: 원본처럼 넓은 칸
                 cls.append("xm-bxblank")
         if evs:
             cls.append("xm-ev")
