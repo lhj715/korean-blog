@@ -33,7 +33,7 @@ for p in d["passage"]:
         who = re.sub(r"학생\s?(\d)", r"학생 \1", m.group(1))
         p["text"] = who + ": " + p["text"][m.end():]
         p["dialogue"] = True
-        p["bold"] = ["학생" if who.startswith("학생") else who]
+        p["bold"] = [who]
 d["ranges"] = [{"mark": "[A]", "paras": ["p14", "p15", "p16", "p17", "p18", "p19"]},
                {"mark": "[B]", "paras": ["p24", "p25", "p26"]}]
 Q = {q["no"]: q for q in d["questions"]}
@@ -80,7 +80,7 @@ blocks = [
 ]
 for k, t in enumerate(ops, 4):
     t = re.sub(r"^학생(\d) :\s*", r"학생 \1: ", t)
-    blocks.append({"id": f"b{k}", "type": "para", "text": t, "underlines": [], "dialogue": True, "bold": ["학생"]})
+    blocks.append({"id": f"b{k}", "type": "para", "text": t, "underlines": [], "dialogue": True, "bold": [t.split(":")[0]]})
 Q[42]["bogi"] = {"label": "", "blocks": blocks}
 
 
