@@ -1,0 +1,220 @@
+{
+ "meta": {
+  "exam": "2025년 9월 고2 전국연합학력평가 국어",
+  "exam_id": "20250903-go2",
+  "area": "문법",
+  "topic": "구조에 따른 문장의 종류",
+  "problem_pdf": "20250903-go2-problem-kor_mun_8HG61RY3_1.pdf",
+  "explanation_pdf": "20250903-go2-explanation-kor_hsj_ICT76N4K_1.pdf"
+ },
+ "guide": null,
+ "range": [
+  11,
+  11
+ ],
+ "passage": [],
+ "questions": [
+  {
+   "no": 11,
+   "points": 2,
+   "stem": "<보기>의 ⓐ～ⓒ에 들어갈 문장을 바르게 분류한 것은?",
+   "bogi": [
+    {
+     "label": "보 기",
+     "blocks": [
+      {
+       "id": "f1",
+       "type": "figure",
+       "caption": "",
+       "image": "그림_11_11_순서도.png",
+       "pdf_text": "하나의 문장에 다른 문장이 문장 성분의 자격으로 들어가 있는가? 안긴문장이 안은문장에서 체언을 수식하고 있는가? ⓒ 아니요 아니요 예 예 ⓐ ⓑ",
+       "alt": "순서도: ‘하나의 문장에 다른 문장이 문장 성분의 자격으로 들어가 있는가?’에 ‘아니요’이면 ⓐ, ‘예’이면 ‘안긴문장이 안은문장에서 체언을 수식하고 있는가?’로 넘어가고, 여기서 ‘아니요’이면 ⓑ, ‘예’이면 ⓒ."
+      },
+      {
+       "id": "b1",
+       "type": "para",
+       "text": "[자료]",
+       "underlines": [],
+       "bold": [
+        "[자료]"
+       ]
+      },
+      {
+       "id": "e1",
+       "type": "para",
+       "text": "ㄱ. 동생이 돌아왔다는 이야기를 들었다.",
+       "underlines": [],
+       "inbox": "자료"
+      },
+      {
+       "id": "e2",
+       "type": "para",
+       "text": "ㄴ. 나는 어버이날에 부모님께 편지를 썼다.",
+       "underlines": [],
+       "inbox": "자료"
+      },
+      {
+       "id": "e3",
+       "type": "para",
+       "text": "ㄷ. 그녀는 누구보다도 마음 씀씀이가 크다.",
+       "underlines": [],
+       "inbox": "자료"
+      },
+      {
+       "id": "e4",
+       "type": "para",
+       "text": "ㄹ. 옆집에 사는 친구와 요즘 매일 학교에 같이 간다.",
+       "underlines": [],
+       "inbox": "자료"
+      }
+     ]
+    },
+    {
+     "label": "",
+     "plain": true,
+     "blocks": [
+      {
+       "id": "h1",
+       "type": "heading",
+       "text": "　　ⓐ　　　ⓑ　　　ⓒ",
+       "underlines": [
+        {
+         "mark": "",
+         "text": "ⓐ"
+        },
+        {
+         "mark": "",
+         "text": "ⓑ"
+        },
+        {
+         "mark": "",
+         "text": "ⓒ"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "choices": [
+    "ㄴ　　　ㄷ　　　ㄱ, ㄹ",
+    "ㄴ　　　ㄷ, ㄹ　　　ㄱ",
+    "ㄷ　　　ㄴ　　　ㄱ, ㄹ",
+    "ㄱ, ㄷ　　　ㄴ　　　ㄹ",
+    "ㄱ, ㄹ　　　ㄷ　　　ㄴ"
+   ],
+   "answer": 1,
+   "judgments": [
+    {
+     "choice": 1,
+     "verdict": "적절",
+     "is_answer": true,
+     "basis": "해설지",
+     "reason": "ㄴ은 다른 문장이 들어가 있지 않은 홑문장이라 ⓐ이다. ㄷ은 ‘마음 씀씀이가 크다’라는 서술절을 안은 문장으로 체언을 수식하는 안긴문장이 아니어서 ⓑ이다. ㄱ은 ‘동생이 돌아왔다는’, ㄹ은 ‘옆집에 사는’이라는 관형절이 체언을 꾸미므로 ⓒ이다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "나는 어버이날에 부모님께 편지를 썼다."
+      },
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "그녀는 누구보다도 마음 씀씀이가 크다."
+      },
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "동생이 돌아왔다는 이야기를 들었다."
+      },
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "옆집에 사는 친구와 요즘 매일 학교에 같이 간다."
+      }
+     ],
+     "explanation_quote": "ㄱ은 ‘동생이 돌아왔다는’이라는 관형절을 가진 안은문장이고, ㄹ은 ‘옆집에 사는’이라는 관형절을 가진 안은문장이다. ㄴ은 홑문장이며 ㄷ은 ‘마음 씀씀이가 크다’라는 서술절을 가진 안은문장이다."
+    },
+    {
+     "choice": 2,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "자체",
+     "reason": "ㄹ은 ‘옆집에 사는’이 체언 ‘친구’를 꾸미는 관형절이어서 ‘체언을 수식하고 있는가?’에 ‘예’이므로 ⓑ이 아니라 ⓒ에 들어가야 한다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "옆집에 사는 친구와 요즘 매일 학교에 같이 간다."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "para": null,
+       "quote": "안긴문장이 안은문장에서 체언을 수식하고 있는가?"
+      }
+     ]
+    },
+    {
+     "choice": 3,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "자체",
+     "reason": "ㄷ은 ‘마음 씀씀이가 크다’라는 서술절이 문장 성분으로 들어 있어 첫 물음에 ‘예’이므로 ⓐ에 들어갈 수 없다. ⓐ에는 ㄴ이 들어간다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "그녀는 누구보다도 마음 씀씀이가 크다."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "para": null,
+       "quote": "하나의 문장에 다른 문장이 문장 성분의 자격으로 들어가 있는가?"
+      }
+     ]
+    },
+    {
+     "choice": 4,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "자체",
+     "reason": "ㄱ은 ‘동생이 돌아왔다는’이라는 관형절이 문장 성분으로 들어 있어 첫 물음에 ‘예’이므로 ⓐ에 들어갈 수 없고, 체언을 수식하므로 ⓒ에 들어간다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "동생이 돌아왔다는 이야기를 들었다."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "para": null,
+       "quote": "하나의 문장에 다른 문장이 문장 성분의 자격으로 들어가 있는가?"
+      }
+     ]
+    },
+    {
+     "choice": 5,
+     "verdict": "부적절",
+     "is_answer": false,
+     "basis": "자체",
+     "reason": "ㄴ은 다른 문장이 문장 성분으로 들어 있지 않은 홑문장이어서 첫 물음에 ‘아니요’이므로 ⓒ이 아니라 ⓐ에 들어가야 한다.",
+     "evidence": [
+      {
+       "source": "bogi",
+       "para": null,
+       "quote": "나는 어버이날에 부모님께 편지를 썼다."
+      },
+      {
+       "source": "figure",
+       "fig": "f1",
+       "para": null,
+       "quote": "하나의 문장에 다른 문장이 문장 성분의 자격으로 들어가 있는가?"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -48,7 +48,10 @@ def main():
         if r.returncode:
             bad.append(f"{os.path.basename(path)}: 프로그램 검사 불합격\n{r.stdout}")
         lo, hi = s["range"]
-        reviews = sorted(glob.glob(os.path.join(work, f"독립검토_{lo}-{hi}*.md")))
+        if lo == hi:  # 문항 하나짜리 세트: 독립검토_11.md, 독립검토_11_2차.md (독립검토_11-12.md 와 섞이지 않게)
+            reviews = sorted(glob.glob(os.path.join(work, f"독립검토_{lo}.md")) + glob.glob(os.path.join(work, f"독립검토_{lo}_*.md")))
+        else:
+            reviews = sorted(glob.glob(os.path.join(work, f"독립검토_{lo}-{hi}*.md")))
         if not reviews or not re.search(r"최종 판정:\s*\**\s*통과", open(reviews[-1], encoding="utf-8").read()):
             bad.append(f"{os.path.basename(path)}: 독립 검토 통과 기록 없음 ({os.path.basename(reviews[-1]) if reviews else '파일 없음'})")
     if bad:
