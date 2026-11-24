@@ -46,7 +46,7 @@ COMMON_NEG = {"않은", "않는", "없는", "아닌", "않다"}  # 발문 강조
 
 def squash(s):
     # 겹낫표 『 』 는 PDF 텍스트층에서 사용자 정의 글자(U+F000)로 나온다. 같게 본다. 폭 없는 공백(U+200B)은 공백으로 본다
-    return re.sub(r"[\s​]+", "", s.replace("『", "").replace("』", "").replace("∼", "~").replace("～", "~"))
+    return re.sub(r"[\s​]+", "", s.replace("뺷", "").replace("뺸", "").replace("『", "").replace("』", "").replace("∼", "~").replace("～", "~"))
 
 
 def pdf_text(path):
