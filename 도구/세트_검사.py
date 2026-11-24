@@ -399,6 +399,29 @@ def main():
     from collections import Counter
     ul_total = Counter(t for _, t in page_runs)
     reg_total = Counter(squash(t) for q in qs for lst in (q.get("choice_underlines") or {}).values() for t in lst)
+    # 같은 폴더의 다른 세트에 등록된 밑줄(같은 쪽에 두 세트가 걸칠 때 그쪽 밑줄을 이 세트 선지로 오인하지 않게)
+    import glob as _glob, os as _os
+    def _ul_texts(o, out):
+        if isinstance(o, dict):
+            for kk, vv in o.items():
+                if kk == "underlines" and isinstance(vv, list):
+                    out.update(squash(u.get("text", "")) for u in vv if isinstance(u, dict))
+                elif kk in ("choice_underlines", "stem_underlines"):
+                    vals = vv.values() if isinstance(vv, dict) else [vv]
+                    for lst in vals:
+                        out.update(squash(t) for t in lst)
+                else:
+                    _ul_texts(vv, out)
+        elif isinstance(o, list):
+            for vv in o:
+                _ul_texts(vv, out)
+    other_ul = set()
+    for _sp in _glob.glob(_os.path.join(_os.path.dirname(_os.path.abspath(set_path)), "세트_*.json")):
+        if _os.path.abspath(_sp) != _os.path.abspath(set_path):
+            try:
+                _ul_texts(json.load(open(_sp, encoding="utf-8")), other_ul)
+            except Exception:
+                pass
     for q in qs:
         cu = q.get("choice_underlines") or {}
         # 이 문항의 발문·선지가 찍힌 쪽의 밑줄만 본다(다른 쪽의 같은 글자 밑줄과 헷갈리지 않게)
@@ -408,7 +431,7 @@ def main():
         for k, c in enumerate(q["choices"]):
             reg = "".join(squash(t) for t in cu.get(str(k + 1), []))
             for r in q_runs:
-                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg and ul_total[r] > reg_total[r] and not q.get("table_border"):  # table_border: 선지 표 칸 테두리가 밑줄로 읽히는 문항(검토자가 쪽 그림으로 확인)
+                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg and ul_total[r] > reg_total[r] and not (any(r in o for o in other_ul) and ul_total[r] <= reg_total[r] + 1) and not q.get("table_border"):  # table_border: 선지 표 칸 테두리가 밑줄로 읽히는 문항(검토자가 쪽 그림으로 확인)
                     fail("C9", f"{q['no']}번 {CIRS[k]}", f"PDF 에 밑줄이 그어진 «{r}» 가 선지에 있는데 choice_underlines 에 없음")
         su = "".join(squash(t) for t in q.get("stem_underlines", []))
         for r in q_runs:
