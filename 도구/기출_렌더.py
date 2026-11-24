@@ -227,7 +227,7 @@ def render_set(s, img, path):
             # plain: 원본에 테두리가 없는 묶음(선지 표의 열 머리 등)
             h.append("<div class='xm-bogi xm-plain'>" if box.get("plain") else "<div class='xm-bogi'>")
             if box.get("label"):
-                h.append(f"<p class='xm-bl'>{html.escape(box['label'])}</p>")
+                h.append(f"<p class='xm-bl'>{html.escape('< 보 기 >' if box['label'] == '보 기' else box['label'])}</p>")
             inbox = None  # 상자 안 상자: 이어진 항목의 "inbox" 값이 같으면 한 테두리로 묶는다
             for it in _box_items(box):
                 if it.get("inbox") != inbox:

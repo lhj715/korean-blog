@@ -37,7 +37,7 @@ def main():
     doc = fitz.open(pdf)
     lines = page_lines(doc)
 
-    guide_re = re.compile(rf"^\[{start}\s*[~～]\s*{end}\]")
+    guide_re = re.compile(rf"^\[{start}\s*[~～∼]\s*{end}\]")
     gi = next((i for i, l in enumerate(lines) if guide_re.match(l.strip())), None)
     q_re = lambda n: re.compile(rf"^{n}\.\s")
     if gi is None:  # 안내문 없는 단독 문항 묶음(예: 문법 7~10번)
@@ -47,7 +47,7 @@ def main():
     else:
         no_guide = False
     qi = {n: next(i for i, l in enumerate(lines) if i > gi and q_re(n).match(l)) for n in range(start, end + 1)}
-    nxt = next((i for i, l in enumerate(lines) if i > qi[end] and re.match(r"^\[\d+\s*[~～]\s*\d+\]", l.strip())), len(lines))
+    nxt = next((i for i, l in enumerate(lines) if i > qi[end] and re.match(r"^\[\d+\s*[~～∼]\s*\d+\]", l.strip())), len(lines))
 
     # 지문: 문단 시작어로 나눈다. 시작어 사이에 끼는 그림 글자(짧은 줄)는 버린다.
     starts = [s.strip("\n") for s in open(starts_file, encoding="utf-8") if s.strip()] if starts_file != "-" else []

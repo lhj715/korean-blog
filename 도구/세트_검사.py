@@ -35,7 +35,7 @@ import sys
 
 import fitz
 
-HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시)$")
+HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시\s*\d*)$")
 MARKS = "㉠㉡㉢㉣㉤㉥㉦㉧㉮㉯㉰㉱㉲ⓐⓑⓒⓓⓔⓕⓖ"
 NEG = {"부적절", "불일치", "미반영", "틀림", "확인 불가"}
 POS = {"적절", "일치", "반영", "맞음", "확인 가능"}
@@ -46,7 +46,7 @@ COMMON_NEG = {"않은", "않는", "없는", "아닌", "않다"}  # 발문 강조
 
 def squash(s):
     # 겹낫표 『 』 는 PDF 텍스트층에서 사용자 정의 글자(U+F000)로 나온다. 같게 본다. 폭 없는 공백(U+200B)은 공백으로 본다
-    return re.sub(r"[\s​]+", "", s.replace("『", "").replace("』", ""))
+    return re.sub(r"[\s​]+", "", s.replace("『", "").replace("』", "").replace("∼", "~").replace("～", "~"))
 
 
 def pdf_text(path):
@@ -202,7 +202,7 @@ def main():
     else:
         nxt = [m.start() for m in re.finditer(r"\[\d+~\d+\]", src_sq) if m.start() > starts[-1]]
         nq = [m.start() for m in re.finditer(rf"(?<!\d){hi+1}\.", src_sq) if m.start() > starts[-1]]
-        notice = [m.start() for m in re.finditer(r"\*?확인사항", src_sq) if m.start() > starts[-1]]
+        notice = [m.start() for m in re.finditer(r"[*※]?확인사항", src_sq) if m.start() > starts[-1]]
         end = min(nxt[:1] + nq[:1] + notice[:1] + [len(src_sq)])
         leftovers = []
         if s.get("guide") and g >= 0:
@@ -339,6 +339,10 @@ def main():
     notes = []
     page_runs = underlined_runs(prob_pdf, with_page=True)
     page_sq = [squash(pg.get_text("text")) for pg in fitz.open(prob_pdf)]
+    # 같은 글자의 밑줄이 PDF 전체에서 등록된 선지 밑줄 수보다 많을 때만 «등록 빠짐» 으로 본다(같은 쪽 다른 문항의 밑줄과 헷갈리지 않게)
+    from collections import Counter
+    ul_total = Counter(t for _, t in page_runs)
+    reg_total = Counter(squash(t) for q in qs for lst in (q.get("choice_underlines") or {}).values() for t in lst)
     for q in qs:
         cu = q.get("choice_underlines") or {}
         # 이 문항의 발문·선지가 찍힌 쪽의 밑줄만 본다(다른 쪽의 같은 글자 밑줄과 헷갈리지 않게)
@@ -348,7 +352,7 @@ def main():
         for k, c in enumerate(q["choices"]):
             reg = "".join(squash(t) for t in cu.get(str(k + 1), []))
             for r in q_runs:
-                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg:
+                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg and ul_total[r] > reg_total[r]:
                     fail("C9", f"{q['no']}번 {CIRS[k]}", f"PDF 에 밑줄이 그어진 «{r}» 가 선지에 있는데 choice_underlines 에 없음")
         su = "".join(squash(t) for t in q.get("stem_underlines", []))
         for r in q_runs:
@@ -377,7 +381,7 @@ def main():
             if v not in want:
                 fail("D3", f"{w} {CIRS[j['choice']-1]}", f"판단 «{v}» 이 발문 방향과 안 맞음(기대: {'/'.join(sorted(want))})")
         # 선택과목 해설 PDF 는 화작·언매 해설이 같은 번호로 두 벌 들어 있다: 언어와 매체는 뒤의 것, 그 밖에는 앞의 것
-        secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.\s*\[출제의도\]|\n\[\d+\s*[~～]\s*\d+\]|\Z)", expl, re.S))
+        secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.\s*\[출제의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         sec = (secs[-1] if "언어와 매체" in s.get("meta", {}).get("exam", "") else secs[0]) if secs else None
         sec_sq = squash(sec.group(2)) if sec else ""
         if not sec:
