@@ -23,6 +23,7 @@
 .xm-tag:hover{text-decoration:underline}
 .xm-q{margin:0 0 30px;scroll-margin-top:72px}
 .xm-stem{margin:0 0 8px;font-size:15.5px;line-height:1.8;color:var(--ink)}
+.xm-subguide{margin:0 0 8px;font-family:'Noto Sans KR',sans-serif;font-weight:700;font-size:15px;line-height:1.8}
 .xm-pt{color:var(--ink-soft);font-size:13px}
 .xm-bogi{border:1px solid var(--paper-line);background:#fff;border-radius:6px;padding:12px 18px;margin:8px 0 10px;
   font-family:'Noto Serif KR',serif;font-size:15px;line-height:1.95}
@@ -72,4 +73,7 @@
 .xm-figtags{font:12px 'Noto Sans KR',sans-serif;color:var(--ink-soft);margin-top:4px}
 .xm-fig.xm-hit{outline:2px solid var(--ev);outline-offset:4px;border-radius:4px}
 .xm-b{font-weight:700}
+.xm-bx{border:1px solid var(--ink);padding:0 2px}
+.xm-bx.xm-bxblank{display:inline-block;min-width:5em;text-align:center;line-height:1.4;padding:0 6px}
+.xm-inbox.xm-dotted{border-style:dotted}
 .xm-imgtext{margin:6px 0}.xm-imgtext img{max-width:100%;height:auto;background:#fff}

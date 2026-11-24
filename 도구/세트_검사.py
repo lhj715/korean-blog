@@ -72,7 +72,9 @@ def underlined_runs(path, with_page=False):
         seen = set()
         for x0, x1, y in segs:
             # 글자 가운데가 선 위에 있으면 밑줄 글자로 본다(선이 마지막 글자보다 1pt 남짓 짧게 끝나는 PDF 가 있다)
-            t = squash("".join(c for c, r in chars if x0 - 0.5 <= (r.x0 + r.x1) / 2 <= x1 + 0.5 and 0 <= y - r.y1 < 4))
+            # 선이 글자 아랫변보다 아주 조금(소수점) 위에 그어진 PDF 가 있고, 위첨자 '*'(각주 표시)는 아랫변이 선보다 훨씬 위다
+            t = squash("".join(c for c, r in chars if x0 - 0.5 <= (r.x0 + r.x1) / 2 <= x1 + 0.5
+                               and -0.5 <= y - r.y1 < (9 if c == "*" else 4)))
             key = (round(x0), round(y))
             if t and key not in seen:
                 seen.add(key)
@@ -138,6 +140,8 @@ def main():
     texts = [(f"지문 {p['id']}", p["text"], True) for p in texts_p.values()]
     for q in qs:
         texts.append((f"{q['no']}번 발문", q["stem"], True))
+        if q.get("sub_guide"):
+            texts.append((f"{q['no']}번 작은 안내문", q["sub_guide"], False))
         texts += [(f"{q['no']}번 {CIRS[i]}", c, True) for i, c in enumerate(q["choices"])]
         for bi, box in enumerate(boxes(q)):
             texts += [(f"{q['no']}번 상자{bi+1} {it['id']}", it["text"], False) for it in box_items(box) if it["type"] in TEXT_TYPES]
@@ -152,6 +156,8 @@ def main():
             fail("B2", where, "그림 글자·보기 머리말·쪽 머리글·선지 기호가 섞임")
 
     # B3 빠짐 없음
+    deferred = []  # 그림 속 글자는 텍스트층에서 쪽 끝 등 다른 자리에 찍히기도 해서, 구역에 없으면 남은 글자 전체에서 찾는다
+
     def cut(region, pieces, where):
         for name, piece in pieces:
             sq = squash(piece)
@@ -159,7 +165,10 @@ def main():
                 continue
             k = region.find(sq)
             if k < 0:
-                fail("B3", where, f"«{name}» 조각을 PDF 구역에서 찾지 못함")
+                if name.startswith("그림:"):
+                    deferred.append((name, sq, where))
+                else:
+                    fail("B3", where, f"«{name}» 조각을 PDF 구역에서 찾지 못함")
                 continue
             region = region[:k] + region[k + len(sq):]
         return region
@@ -173,6 +182,12 @@ def main():
             fail("B3", "세트", "안내문을 PDF 에서 찾지 못함")
         pos = max(g, 0)
     for q in qs:
+        if q.get("sub_guide"):
+            # 문항 사이 작은 안내문([13 ~ 14] <보기>는 …)과 공용 상자는 그 문항 번호보다 앞에 찍힌다
+            k = src_sq.find(squash(q["sub_guide"]), pos)
+            starts.append(k)
+            pos = max(k, pos)
+            continue
         k = src_sq.find(f"{q['no']}." + squash(q["stem"])[:12], pos)
         starts.append(k)
         pos = max(k, pos)
@@ -186,23 +201,29 @@ def main():
         leftovers = []
         if s.get("guide") and g >= 0:
             region = src_sq[g + len(squash(s["guide"])): starts[0]]
-            pieces = [(p["id"], p["text"] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
+            pieces = [(p["id"] if p["type"] in TEXT_TYPES else "그림:" + p["id"], p["text"] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
             leftovers.append(("지문 구역", cut(region, pieces, "지문 구역")))
         for i, q in enumerate(qs):
             region = src_sq[starts[i]: starts[i + 1] if i + 1 < len(qs) else end]
-            pieces = [("번호", f"{q['no']}."), ("발문", q["stem"])]
+            pieces = [("작은 안내문", q.get("sub_guide", "")), ("번호", f"{q['no']}."), ("발문", q["stem"])]
             if q["points"] == 3:
                 pieces.append(("[3점]", "[3점]"))
             for bi, box in enumerate(boxes(q)):
                 pieces.append((f"상자{bi+1} 머리말", box.get("label", "")))
                 for it in box_items(box):
-                    pieces.append((f"상자{bi+1} {it['id']}", it["text"] if it["type"] in TEXT_TYPES else it.get("pdf_text", "")))
+                    pieces.append(((f"상자{bi+1} " if it["type"] in TEXT_TYPES else "그림:") + it["id"], it["text"] if it["type"] in TEXT_TYPES else it.get("pdf_text", "")))
             for k, c in enumerate(q["choices"] if not q.get("choices_in_box") else []):
                 before, after = CIRS[k] + squash(c), squash(c) + CIRS[k]
                 pieces.append((f"선지 {CIRS[k]}", before if before in region or after not in region else after))
             leftovers.append((f"{q['no']}번 구역", cut(region, pieces, f"{q['no']}번 구역")))
         # 구간 표시([A] 등)는 PDF 에서 쪽 끝 등 엉뚱한 자리에 찍히므로 남은 글자에서 한 번씩 지운다
         rest = "".join(r for _, r in leftovers)
+        for name, sq, where in deferred:
+            k = rest.find(sq)
+            if k < 0:
+                fail("B3", where, f"«{name[3:]}» 그림 글자를 PDF 구역에서 찾지 못함")
+            else:
+                rest = rest[:k] + rest[k + len(sq):]
         for rg in ranges:
             mk = squash(rg["mark"])
             k = rest.find(mk)
@@ -225,13 +246,14 @@ def main():
             if (u["mark"] + u["text"]) not in p["text"] and (u["mark"] + " " + u["text"]) not in p["text"]:
                 fail("C1", f"{p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 기호 바로 뒤에 없음")
     for p in ul_items:
-        for bt in p.get("bold", []):
-            t, n = (bt, 1) if isinstance(bt, str) else (bt.get("text", ""), bt.get("nth", 1))
-            if not t or p["text"].count(t) < n:
-                fail("C5", f"{p['id']}", f"굵은 글씨 «{t[:20]}»({n}번째) 가 항목 글에 없음")
+        for key, word in (("bold", "굵은 글씨"), ("boxed", "네모 친 글자")):
+            for bt in p.get(key, []):
+                t, n = (bt, 1) if isinstance(bt, str) else (bt.get("text", ""), bt.get("nth", 1))
+                if not t or p["text"].count(t) < n:
+                    fail("C5", f"{p['id']}", f"{word} «{t[:20]}»({n}번째) 가 항목 글에 없음")
     for q in qs:
-        if any(t not in q["stem"] for t in q.get("stem_underlines", [])):
-            fail("C6", f"{q['no']}번", f"발문 밑줄 {q.get('stem_underlines')} 이 발문 글에 없음")
+        if any(t not in q["stem"] for t in q.get("stem_underlines", []) + q.get("stem_boxed", [])):
+            fail("C6", f"{q['no']}번", f"발문 밑줄·네모 {q.get('stem_underlines')} {q.get('stem_boxed')} 이 발문 글에 없음")
         if q.get("choices_in_box"):
             # 계획표처럼 선지가 상자 안 항목으로 찍힌 문항: 선지 글은 상자 글 안에 있어야 하고, 번호 ①~⑤ 도 상자 글에 있어야 한다
             bt = squash(" ".join(it["text"] for box in boxes(q) for it in box_items(box) if it["type"] in TEXT_TYPES))
@@ -273,9 +295,12 @@ def main():
                 fail("C3", f"{p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 PDF 에 그어진 밑줄 범위와 다름")
     stem_text = " ".join([q["stem"] for q in qs] + [c for q in qs for c in q["choices"]])
     used = set(re.findall(f"[{MARKS}]", stem_text)) | set(re.findall(r"\[[A-Z]\]", stem_text))
-    passage_text = " ".join(p["text"] for p in texts_p.values())
-    box_text = " ".join(it["text"] for it in box_text_items)
-    for m in sorted(used - marks):
+    # 그림 속 글자([A]·㉠ 꼬리표 등)도 기호가 있는 자리로 친다
+    passage_text = " ".join([p["text"] for p in texts_p.values()] + [f.get("pdf_text", "") for f in figs_p.values()])
+    box_text = " ".join([it["text"] for it in box_text_items] + [it.get("pdf_text", "") for q in qs for box in boxes(q) for it in box_items(box) if it["type"] == "figure"])
+    # 발문 안에서 이름을 붙인 기호('화이트[A]'처럼 낱말 바로 뒤에 붙은 [A])는 지문 구간이 아니다
+    defined = set(re.findall(r"[가-힣A-Za-z)](\[[A-Z]\])", " ".join(q["stem"] for q in qs)))
+    for m in sorted(used - marks - defined):
         if m.startswith("["):
             ok = m in passage_text or m in box_text
         else:

@@ -54,6 +54,10 @@ def _spans(text, marks):
             cls.append("xm-rgi")
         if any(m[2] == "b" for m in cover):
             cls.append("xm-b")
+        if any(m[2] == "bx" for m in cover):
+            cls.append("xm-bx")
+            if re.fullmatch(r"\[[A-Z가-힣]\]", text[a:b]):  # 글 속 네모 빈칸 [A]: 원본처럼 넓은 칸
+                cls.append("xm-bxblank")
         if evs:
             cls.append("xm-ev")
             if any(e["ans"] for e in evs):
@@ -76,18 +80,24 @@ def _tag(e):
     return f'<a class="xm-tag{" xm-ans" if e["ans"] else ""}" href="#prob{e["q"]}" data-pick="q{e["q"]}-{e["c"]}">{e["label"]}</a>'
 
 
-def _marks(text, evs, uls=(), rgs=(), bolds=()):
+def _find_nth(text, bt):
+    # 글자 그대로 또는 {"text": 글자, "nth": n} (n번째로 나오는 것, 1부터)
+    t, n = (bt, 1) if isinstance(bt, str) else (bt["text"], bt.get("nth", 1))
+    i = -1
+    for _ in range(n):
+        i = text.find(t, i + 1)
+        if i < 0:
+            break
+    return i, len(t)
+
+
+def _marks(text, evs, uls=(), rgs=(), bolds=(), boxed=()):
     ms = []
-    for bt in bolds:
-        # 글자 그대로 또는 {"text": 글자, "nth": n} (n번째로 나오는 것, 1부터)
-        t, n = (bt, 1) if isinstance(bt, str) else (bt["text"], bt.get("nth", 1))
-        i = -1
-        for _ in range(n):
-            i = text.find(t, i + 1)
-            if i < 0:
-                break
-        if i >= 0:
-            ms.append((i, i + len(t), "b", None))
+    for kind, lst in (("b", bolds), ("bx", boxed)):
+        for bt in lst:
+            i, n = _find_nth(text, bt)
+            if i >= 0:
+                ms.append((i, i + n, kind, None))
     for e in evs:
         i = text.find(e["quote"])
         if i < 0:
@@ -119,7 +129,7 @@ def _item(p, evs, inline_rgs, anchor):
         dev = f" data-ev='{ids}'" if ids else ""
         return (f"<div class='xm-imgtext' id='{anchor}'{dev}><img src='{p['_src']}' width='{p['_w']}' alt='{html.escape(p['text'])}' loading='lazy'>"
                 f"{'<div class=xm-figtags>근거 ' + tags + '</div>' if tags else ''}</div>")
-    body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", [])))
+    body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", []), p.get("boxed", [])))
     if p.get("blank"):  # 빈칸 밑줄 위의 글자(예: 학생: ____[가]____)
         b = html.escape(p["blank"])
         body = body.replace(b, f"<span class='xm-blank'>{b}</span>", 1)
@@ -198,8 +208,14 @@ def render_set(s, img, path):
         h.append(f"<div class='xm-q' id='prob{q['no']}'>")
         pt = " <span class='xm-pt'>[3점]</span>" if q["points"] == 3 else ""
         st = q["stem"]
-        stem_html = _spans(st, [(st.find(t), st.find(t) + len(t), "ul", None) for t in q.get("stem_underlines", []) if t in st])
-        h.append(f"<p class='xm-stem'><b>{q['no']}.</b> {stem_html}{pt}</p>")
+        stem_html = _spans(st, [(st.find(t), st.find(t) + len(t), "ul", None) for t in q.get("stem_underlines", []) if t in st]
+                           + [(st.find(t), st.find(t) + len(t), "bx", None) for t in q.get("stem_boxed", []) if t in st])
+        stem_p = f"<p class='xm-stem'><b>{q['no']}.</b> {stem_html}{pt}</p>"
+        if q.get("sub_guide"):
+            # 문항 사이 작은 안내문([13 ~ 14] <보기>는 …)과 두 문항 공용 상자는 원본처럼 발문보다 앞에 둔다
+            h.append(f"<p class='xm-subguide'>{html.escape(q['sub_guide'])}</p>")
+        else:
+            h.append(stem_p)
         box_evs = list(by_box.get(q["no"], []))
         for box in _boxes(q):
             # plain: 원본에 테두리가 없는 묶음(선지 표의 열 머리 등)
@@ -212,7 +228,9 @@ def render_set(s, img, path):
                     if inbox:
                         h.append("</div>")
                     if it.get("inbox"):
-                        h.append("<div class='xm-inbox'>")
+                        # "inbox_line": "dotted" 이면 원본처럼 점선 테두리
+                        dot = " xm-dotted" if it.get("inbox_line") == "dotted" else ""
+                        h.append(f"<div class='xm-inbox{dot}'>")
                     inbox = it.get("inbox")
                 if it["type"] == "figure":
                     it = dict(it, **pic(it["image"]))
@@ -228,6 +246,8 @@ def render_set(s, img, path):
             if inbox:
                 h.append("</div>")
             h.append("</div>")
+        if q.get("sub_guide"):
+            h.append(stem_p)
         h.append("<ul class='xm-opts'>")
         cu = q.get("choice_underlines") or {}
         for i, c in enumerate(q["choices"], 1):
