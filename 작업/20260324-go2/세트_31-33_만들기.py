@@ -46,6 +46,9 @@ Q[33]["bogi"] = {"label": "< 학습 활동 >", "blocks": [
     {"id": "b4", "type": "para", "text": "◦ ⓒ 조력의 방식: 해결 방안 제시, 초월적 능력 발휘, 죽음 이후 개입",
      "underlines": [{"mark": "ⓒ", "text": "조력의 방식"}], "bold": ["조력의 방식"]},
 ]}
+# 원본: ⓐ~ⓒ 와 흐름도가 안쪽 상자로 한 번 더 묶여 있다
+for _b in Q[33]["bogi"]["blocks"][1:]:
+    _b["inbox"] = "자료"
 
 
 def J(choice, verdict, ans, ev, basis, reason, xq=None):

@@ -100,7 +100,8 @@ Q[10]["stem"] = s10[: s10.index("[3점]")].strip()
 Q[10]["bogi"] = {"label": "< 학습 활동 >", "blocks": [
     {"id": "b1", "type": "para", "text": between(s10, "음운 변동은 그 결과", "일어난 예이다."), "underlines": []},
     {"id": "b2", "type": "para", "text": "◦위의 내용을 바탕으로 다음 단어의 음운 변동을 분석하시오.", "underlines": []},
-    {"id": "b3", "type": "verse", "text": "굳히다[구치다]  쑥대밭[쑥때받]  끓다[끌타]\n장미꽃[장미꼳]  부엌[부억]", "underlines": []}]}
+    {"id": "b3", "type": "verse", "text": "굳히다[구치다]  쑥대밭[쑥때받]  끓다[끌타]\n장미꽃[장미꼳]  부엌[부억]", "underlines": [],
+     "inbox": "낱말", "center": True}]}  # 원본: 안쪽 상자, 가운데 맞춤
 
 
 def J(choice, verdict, ans, ev, basis, reason, xq=None):

@@ -121,6 +121,8 @@ def _item(p, evs, inline_rgs, anchor):
     body = _spans(p["text"], _marks(p["text"], evs, p.get("underlines", []), inline_rgs, p.get("bold", [])))
     cls = {"para": "xm-dlg" if p.get("dialogue") else "", "verse": "xm-verse", "label": "xm-label",
            "note": "xm-note", "omit": "xm-omit", "heading": "xm-head"}[t]
+    if p.get("center"):
+        cls = (cls + " xm-center").strip()
     return f"<p class='{cls}' id='{anchor}'>{body}</p>" if cls else f"<p id='{anchor}'>{body}</p>"
 
 
@@ -196,7 +198,14 @@ def render_set(s, img, path):
             h.append("<div class='xm-bogi xm-plain'>" if box.get("plain") else "<div class='xm-bogi'>")
             if box.get("label"):
                 h.append(f"<p class='xm-bl'>{html.escape(box['label'])}</p>")
+            inbox = None  # 상자 안 상자: 이어진 항목의 "inbox" 값이 같으면 한 테두리로 묶는다
             for it in _box_items(box):
+                if it.get("inbox") != inbox:
+                    if inbox:
+                        h.append("</div>")
+                    if it.get("inbox"):
+                        h.append("<div class='xm-inbox'>")
+                    inbox = it.get("inbox")
                 if it["type"] == "figure":
                     it = dict(it, **pic(it["image"]))
                     mine = by_fig.get(it["id"], [])
@@ -208,6 +217,8 @@ def render_set(s, img, path):
                     for e in mine:
                         box_evs.remove(e)
                     h.append(_item(it, mine, [], f"q{q['no']}-{it['id']}"))
+            if inbox:
+                h.append("</div>")
             h.append("</div>")
         h.append("<ul class='xm-opts'>")
         cu = q.get("choice_underlines") or {}

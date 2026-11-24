@@ -577,7 +577,9 @@
       "id": "b3",
       "type": "verse",
       "text": "굳히다[구치다]  쑥대밭[쑥때받]  끓다[끌타]\n장미꽃[장미꼳]  부엌[부억]",
-      "underlines": []
+      "underlines": [],
+      "inbox": "낱말",
+      "center": true
      }
     ]
    },
