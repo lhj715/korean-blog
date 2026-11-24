@@ -35,7 +35,7 @@ import sys
 
 import fitz
 
-HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시\s*\d*|이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다\.|\(화법과 작문\)|\(언어와 매체\)|<\s*>)$")
+HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지\s*\d*|제\s*\d\s*교시\s*\d*|이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다\.|\(화법과 작문\)|\(언어와 매체\)|<\s*>|━+|고[123]\s+\d+|\d+\s+고[123])$")
 MARKS = "㉠㉡㉢㉣㉤㉥㉦㉧㉮㉯㉰㉱㉲ⓐⓑⓒⓓⓔⓕⓖ"
 NEG = {"부적절", "불일치", "미반영", "틀림", "확인 불가"}
 POS = {"적절", "일치", "반영", "맞음", "확인 가능"}
@@ -80,7 +80,7 @@ def underlined_runs(path, with_page=False):
             # 글자 가운데가 선 위에 있으면 밑줄 글자로 본다(선이 마지막 글자보다 1pt 남짓 짧게 끝나는 PDF 가 있다)
             # 선이 글자 아랫변보다 아주 조금(소수점) 위에 그어진 PDF 가 있고, 위첨자 '*'(각주 표시)는 아랫변이 선보다 훨씬 위다
             t = squash("".join(c for c, r in chars if x0 - 0.5 <= (r.x0 + r.x1) / 2 <= x1 + 0.5
-                               and -0.7 <= y - r.y1 < (9 if c == "*" else 4)))
+                               and -1.2 <= y - r.y1 < (9 if c == "*" else 4)))
             key = (round(x0), round(y))
             if t and key not in seen:
                 seen.add(key)
@@ -204,7 +204,7 @@ def main():
     else:
         nxt = [m.start() for m in re.finditer(r"\[\d+~\d+\]", src_sq) if m.start() > starts[-1]]
         nq = [m.start() for m in re.finditer(rf"(?<!\d){hi+1}\.", src_sq) if m.start() > starts[-1]]
-        notice = [m.start() for m in re.finditer(r"[*※]?확인사항", src_sq) if m.start() > starts[-1]]
+        notice = [m.start() for m in re.finditer(r"[*＊※]?확인사항", src_sq) if m.start() > starts[-1]]
         end = min(nxt[:1] + nq[:1] + notice[:1] + [len(src_sq)])
         leftovers = []
         if s.get("guide") and g >= 0:
@@ -218,7 +218,7 @@ def main():
                     tail = src_sq[tail0: after[0] if after else len(src_sq)]
                     # 다음 선택과목 안내문(「선택과목(…)」문제가제시되오니 …확인하시오.)은 지문이 아니다
                     tail = re.sub(r"이어서,?[「｢]선택과목\([^)]*\)[」｣]문제가제시되오니,?자신이선택한과목인지확인하시오\.", "", tail)
-                    tail = re.sub(r"\*?확인사항◦?답안지의해당란에필요한내용을정확히기입\(표기\)했는지확인하시오\.", "", tail)  # 마지막 쪽에 안내가 두 번 찍히는 PDF(2025-11 수능)
+                    tail = re.sub(r"[*＊]?확인사항◦?답안지의해당란에필요한내용을정확히기입\(표기\)했는지확인하시오\.", "", tail)  # 마지막 쪽에 안내가 두 번 찍히는 PDF(2025-11 수능)
                     region += tail
             pieces = [(p["id"] if p["type"] in TEXT_TYPES else "그림:" + p["id"], p["text"] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
             leftovers.append(("지문 구역", cut(region, pieces, "지문 구역")))

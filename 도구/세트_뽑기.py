@@ -12,7 +12,7 @@ import sys
 
 import fitz
 
-HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형)$")
+HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|━+|고[123]\s+\d+)$")
 CIRCLED = "①②③④⑤"
 
 
