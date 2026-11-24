@@ -35,7 +35,7 @@ import sys
 
 import fitz
 
-HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시\s*\d*)$")
+HEADER = re.compile(r"^(\d+|국어\s*영역(?:\s*\([^)]*\))?|고[123]|홀수형|짝수형|\d{4}학년도 .*문제지|제\s*\d\s*교시\s*\d*|이 문제지에 관한 저작권은 한국교육과정평가원에 있습니다\.|\(화법과 작문\)|\(언어와 매체\)|<\s*>)$")
 MARKS = "㉠㉡㉢㉣㉤㉥㉦㉧㉮㉯㉰㉱㉲ⓐⓑⓒⓓⓔⓕⓖ"
 NEG = {"부적절", "불일치", "미반영", "틀림", "확인 불가"}
 POS = {"적절", "일치", "반영", "맞음", "확인 가능"}
@@ -135,6 +135,8 @@ def main():
         w = f"{q['no']}번"
         if len(q["choices"]) != 5 or any(not c.strip() for c in q["choices"]):
             fail("A2", w, f"선지 {len(q['choices'])}개 또는 빈 선지")
+        if not q.get("stem", "").strip():
+            fail("A2", w, "발문이 비어 있음")
         if q["points"] not in (2, 3):
             fail("A3", w, "배점이 2/3 이 아님")
         m = re.search(rf"(^|\n)　?{q['no']}\.\s(.{{0,3000}}?)(\n①|①)", src, re.S)
@@ -215,7 +217,8 @@ def main():
                     after = [m.start() for m in re.finditer(r"\[\d+~\d+\]", src_sq) if m.start() >= tail0]
                     tail = src_sq[tail0: after[0] if after else len(src_sq)]
                     # 다음 선택과목 안내문(「선택과목(…)」문제가제시되오니 …확인하시오.)은 지문이 아니다
-                    tail = re.sub(r"이어서,?「선택과목\([^)]*\)」문제가제시되오니,?자신이선택한과목인지확인하시오\.", "", tail)
+                    tail = re.sub(r"이어서,?[「｢]선택과목\([^)]*\)[」｣]문제가제시되오니,?자신이선택한과목인지확인하시오\.", "", tail)
+                    tail = re.sub(r"\*?확인사항◦?답안지의해당란에필요한내용을정확히기입\(표기\)했는지확인하시오\.", "", tail)  # 마지막 쪽에 안내가 두 번 찍히는 PDF(2025-11 수능)
                     region += tail
             pieces = [(p["id"] if p["type"] in TEXT_TYPES else "그림:" + p["id"], p["text"] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
             leftovers.append(("지문 구역", cut(region, pieces, "지문 구역")))
@@ -247,7 +250,7 @@ def main():
                 fail("B3", "구간", f"구간 표시 «{rg['mark']}» 를 PDF 남은 글자에서 찾지 못함")
             else:
                 rest = rest[:k] + rest[k + len(mk):]
-        rest = rest.replace("◦", "")  # 메모·계획표의 글머리 기호는 장식이라 세지 않는다
+        rest = rest.replace("◦", "").replace("<>", "")  # <보 기> 머리말의 꺾쇠(2025-11 수능 텍스트층은 꺾쇠째 찍힘)  # 메모·계획표의 글머리 기호는 장식이라 세지 않는다
         if rest:
             where = ", ".join(w for w, r in leftovers if r)
             fail("B3", where, f"등록되지 않은 PDF 글자가 남음: «{rest[:50]}»")
@@ -282,11 +285,11 @@ def main():
     for q in qs:
         for k, lst in (q.get("choice_images") or {}).items():
             for ci in lst:
-                ok7 = k.isdigit() and 1 <= int(k) <= 5 and len(ci.get("text", "")) == 1 and "" <= ci["text"] <= "" and ci["text"] in q["choices"][int(k) - 1]
+                ok7 = k.isdigit() and 1 <= int(k) <= 5 and (len(ci.get("text", "")) == 1 or ci.get("text") == "‘ ’") and (("" <= ci["text"] <= "") or ci["text"] == "‘ ’") and ci["text"] in q["choices"][int(k) - 1]
                 if not ok7:
                     fail("C7", f"{q['no']}번 선지 {k}", "choice_images 의 text 는 그 선지에 든 옛한글 PUA 글자 하나여야 함")
     for p in ul_items:
-        if p.get("display_image") and not re.search("[-]", p["text"]):
+        if p.get("display_image") and not re.search("[-]", p["text"]) and not re.search(r"‘\s+’", p["text"]) and not p.get("blank_hangul"):
             fail("C7", f"{p['id']}", "display_image 는 화면에서 깨지는 글자(옛한글 PUA)가 있는 항목에만 쓴다")
     for rg in ranges:
         marks.add(rg["mark"])
@@ -382,6 +385,8 @@ def main():
                 fail("D3", f"{w} {CIRS[j['choice']-1]}", f"판단 «{v}» 이 발문 방향과 안 맞음(기대: {'/'.join(sorted(want))})")
         # 선택과목 해설 PDF 는 화작·언매 해설이 같은 번호로 두 벌 들어 있다: 언어와 매체는 뒤의 것, 그 밖에는 앞의 것
         secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*\[출제의도\](.*?)(?=\n{q['no']+1}\.\s*\[출제의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
+        if not secs:  # 2025-11 수능 해설지: «N. 제목» 다음 줄에 «정답해설 :» 이 오는 형식
+            secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*([가-힣 ·,\[\]]*\n.*?)(?=\n{q['no']+1}\.\s*[가-힣]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         sec = (secs[-1] if "언어와 매체" in s.get("meta", {}).get("exam", "") else secs[0]) if secs else None
         sec_sq = squash(sec.group(2)) if sec else ""
         if not sec:
