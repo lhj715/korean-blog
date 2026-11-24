@@ -247,9 +247,13 @@ def main():
             mk = squash(rg["mark"])
             k = rest.find(mk)
             if k < 0:
-                fail("B3", "구간", f"구간 표시 «{rg['mark']}» 를 PDF 남은 글자에서 찾지 못함")
+                # 구간 표시가 안내문 앞(쪽 머리 자리)에 찍히는 PDF(2025-09 고2 38~42번)는 이 세트 구역 밖에 있다
+                if mk not in src_sq[: max(g, 0)]:
+                    fail("B3", "구간", f"구간 표시 «{rg['mark']}» 를 PDF 남은 글자에서 찾지 못함")
             else:
                 rest = rest[:k] + rest[k + len(mk):]
+        # 이웃 세트 지문의 구간 표시([A] 등)가 이 세트 구역 끝에 찍혀 나온 것은 빠진 글자가 아니다(2025-09 고2 12~15·34~37번)
+        rest = re.sub(r"\[[A-E]\]", "", rest)
         rest = rest.replace("◦", "").replace("<>", "")  # <보 기> 머리말의 꺾쇠(2025-11 수능 텍스트층은 꺾쇠째 찍힘)  # 메모·계획표의 글머리 기호는 장식이라 세지 않는다
         if rest:
             where = ", ".join(w for w, r in leftovers if r)

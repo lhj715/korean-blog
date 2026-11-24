@@ -80,3 +80,7 @@
 .xm-inl{height:1.15em;width:auto;vertical-align:text-bottom;background:#fff}
 
 .xm-sup{vertical-align:super;font-size:.75em;line-height:0}
+.xm-leaderline{display:flex;align-items:baseline;gap:.35em}
+.xm-ldt{flex:0 1 auto}
+.xm-ldl{flex:1 1 1.5em;min-width:1.5em;border-bottom:1.5px dotted currentColor;transform:translateY(-.2em)}
+.xm-ldn{flex:none}
