@@ -32,7 +32,7 @@
 
   <div class="work-tags genre-filters exam-filters" data-group="month" style="margin-bottom:28px">
     <button type="button" class="work-tag active" data-val="ALL">전체 월</button>
-    {{- range $m := slice "3" "4" "5" "6" "7" "9" "10" "11" }}
+    {{- range $m := slice "3" "5" "6" "7" "9" "10" "11" }}
     <button type="button" class="work-tag" data-val="{{ $m }}">{{ $m }}월</button>
     {{- end }}
   </div>
@@ -41,8 +41,9 @@
   <section class="exam-year" data-year="{{ .Key }}">
     <div class="section-head"><h2>{{ .Key }}년</h2><span class="sub"><span class="year-count">{{ len .Pages }}</span>회차</span></div>
     <div class="works-grid" style="margin-bottom:28px">
-      {{- range .Pages }}
+      {{- range sort .Pages "Params.exam_id" "asc" }}
       {{- $month := int (.Date.Format "1") }}
+      {{- if eq $month 4 }}{{ $month = 5 }}{{ end }}{{/* 4월 30일 시행분은 공식 이름이 5월 학력평가 */}}
       {{- $kind := .Params.category }}
       {{- if eq $month 11 }}{{ $kind = "수능" }}{{ end }}
       {{- $part := "" }}
