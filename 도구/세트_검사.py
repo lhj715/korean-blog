@@ -150,8 +150,17 @@ def main():
         if has3 != (q["points"] == 3):
             fail("A3", w, f"3점 표시 불일치(PDF {'있음' if has3 else '없음'})")
 
+    # 빈칸(blank) 글자 [가] 가 텍스트층에서 화자 줄과 떨어져 쪽 끝에 찍힌 PDF(2026-06 고2 6번): 글은 빈칸을 뺀 채 대조하고, 빈칸 글자는 구간 표시처럼 남은 글자에서 찾는다
+    blank_marks, body = [], {}
+    for p in texts_p.values():
+        body[p["id"]] = p["text"]
+        b = p.get("blank")
+        if b and p["text"].rstrip().endswith(b) and squash(p["text"]) not in src_sq:
+            body[p["id"]] = p["text"].rstrip()[:-len(b)]
+            blank_marks.append({"mark": b})
+
     # B1·B2
-    texts = [(f"지문 {p['id']}", p["text"], True) for p in texts_p.values()]
+    texts = [(f"지문 {p['id']}", body[p["id"]], True) for p in texts_p.values()]
     for q in qs:
         texts.append((f"{q['no']}번 발문", q["stem"], True))
         if q.get("sub_guide"):
@@ -235,7 +244,7 @@ def main():
                     tail = re.sub(r"이어서,?[「｢]선택과목\([^)]*\)[」｣]문제가제시되오니,?자신이선택한과목인지확인하시오\.", "", tail)
                     tail = re.sub(r"[*＊]?확인사항◦?답안지의해당란에필요한내용을정확히기입\(표기\)했는지확인하시오\.", "", tail)  # 마지막 쪽에 안내가 두 번 찍히는 PDF(2025-11 수능)
                     region += tail
-            pieces = [(p["id"] if p["type"] in TEXT_TYPES else "그림:" + p["id"], p["text"] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
+            pieces = [(p["id"] if p["type"] in TEXT_TYPES else "그림:" + p["id"], body[p["id"]] if p["type"] in TEXT_TYPES else p.get("pdf_text", "")) for p in s["passage"]]
             leftovers.append(("지문 구역", cut(region, pieces, "지문 구역")))
         for i, q in enumerate(qs):
             region = src_sq[starts[i]: starts[i + 1] if i + 1 < len(qs) else end]
@@ -260,7 +269,7 @@ def main():
                     fail("B3", where, f"«{name[3:] if name.startswith('그림:') else name}» 글자를 PDF 구역에서 찾지 못함")
             else:
                 rest = rest[:k] + rest[k + len(sq):]
-        for rg in ranges:
+        for rg in ranges + blank_marks:
             mk = squash(rg["mark"])
             k = rest.find(mk)
             if k < 0:
@@ -314,7 +323,9 @@ def main():
     for p in ul_items:
         for u in p.get("underlines", []):
             marks.add(u["mark"])
-            if (u["mark"] + u["text"]) not in p["text"] and (u["mark"] + " " + u["text"]) not in p["text"]:
+            # 기호와 밑줄 사이에 여는 따옴표가 선 없이 놓인 꼴(㉣“엄마 …, 2026-06 고1 35~38번)은 따옴표 하나를 건너뛴 것도 «바로 뒤» 로 본다
+            seps = ("", " ", "“", "‘") if u["mark"] else ("", " ")
+            if all((u["mark"] + sep + u["text"]) not in p["text"] for sep in seps):
                 fail("C1", f"{p['id']}", f"밑줄 {u['mark']} «{u['text']}» 이 기호 바로 뒤에 없음")
     for p in ul_items:
         for key, word in (("bold", "굵은 글씨"), ("boxed", "네모 친 글자")):

@@ -114,6 +114,11 @@ def _marks(text, evs, uls=(), rgs=(), bolds=(), boxed=(), sups=()):
     for u in uls:
         i = text.find(u["mark"] + u["text"])
         start = i + len(u["mark"]) if i >= 0 else text.find(u["mark"] + " " + u["text"]) + len(u["mark"]) + 1
+        if i < 0 and u["mark"] and u["mark"] + " " + u["text"] not in text:  # 기호와 밑줄 사이의 여는 따옴표(㉣“…)에는 선이 없다
+            for q in ("“", "‘"):
+                j = text.find(u["mark"] + q + u["text"])
+                if j >= 0:
+                    start = j + len(u["mark"]) + 1
         ms.append((start, start + len(u["text"]), "ul", None))
     for r in rgs:
         i = text.find(r["text"])
@@ -145,12 +150,12 @@ def _item(p, evs, inline_rgs, anchor):
            "note": "xm-note", "omit": "xm-omit", "heading": "xm-head"}[t]
     if p.get("center"):
         cls = (cls + " xm-center").strip()
-    if t == "note" and re.match(r"^[-–] .+ [-–]$", p["text"]):  # 작품 출처 줄(- 작자, ｢제목｣ -)은 원본처럼 오른쪽
+    if t == "note" and re.match(r"^[-–] .+(?: |(?<=[｣」』]))[-–]$", p["text"]):  # 작품 출처 줄(- 작자, ｢제목｣ -, 닫는 낫표에 붙은 ｣- 포함)은 원본처럼 오른쪽
         cls += " xm-right"
     if t == "verse":  # 연시조의 <제1수> 같은 표시는 원본처럼 그 수 끝 오른쪽
         body = re.sub(r"(?:<br>)?(&lt;제\d+수&gt;)(?:<br>)?", r"<span class='xm-suno'>\1</span>", body)
     # 점선 지시선(······ ①)이 긴 줄은 화면 폭에서 줄이 꺾이므로, 점은 CSS 점선 칸으로 바꿔 남는 폭만 채우게 한다
-    ld = re.match(r"^(.*?)\s*[·∙⋅]{4,}\s*([①-⑤])$", body, re.S)
+    ld = re.match(r"^(.*?)\s*(?:[·∙⋅]{4,}|…{2,})\s*([①-⑤])$", body, re.S)
     if ld and t == "para":
         body = (f"<span class='xm-ldt'>{ld.group(1)}</span><span class='xm-ldl'></span><span class='xm-ldn'>{ld.group(2)}</span>")
         cls = (cls + " xm-leaderline").strip()
