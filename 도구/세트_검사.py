@@ -182,7 +182,7 @@ def main():
             while k > 0 and sq[:k] not in src_sq:
                 k -= 10
             fail("B1", where, f"PDF 와 다름 — {max(k,0)}자째 근처: «{sq[max(k,0):max(k,0)+25]}»")
-        if strict and re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣])|-{4,}|\+{4,}|===|[①②③④⑤]|확인\s*사항|답안지", t):
+        if strict and re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣]|\s*모두(?![가-힣]))|-{4,}|\+{4,}|===|[①②③④⑤]|확인\s*사항|답안지", t):
             fail("B2", where, "그림 글자·보기 머리말·쪽 머리글·선지 기호가 섞임")
 
     # B3 빠짐 없음
@@ -474,7 +474,7 @@ def main():
         # 선택과목 해설 PDF 는 화작·언매 해설이 같은 번호로 두 벌 들어 있다: 언어와 매체는 뒤의 것, 그 밖에는 앞의 것
         secs = list(re.finditer(rf"(^|\n)[ \t]*{q['no']}\.?\s*\[출제 ?의도\](.*?)(?=\n[ \t]*{q['no']+1}\.?\s*\[출제 ?의도\]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         if not secs:  # 2025-11 수능 해설지: «N. 제목» 다음 줄에 «정답해설 :» 이 오는 형식
-            secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*([가-힣 ·・,:\[\]]*\n.*?)(?=\n{q['no']+1}\.\s*[가-힣]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
+            secs = list(re.finditer(rf"(^|\n){q['no']}\.\s*([가-힣 ·・,:.\-–\[\]]*\n.*?)(?=\n{q['no']+1}\.\s*[가-힣]|\n\[\d+\s*[~～∼]\s*\d+\]|\Z)", expl, re.S))
         sec = (secs[-1] if "언어와 매체" in s.get("meta", {}).get("exam", "") else secs[0]) if secs else None
         sec_sq = squash(sec.group(2)) if sec else ""
         if not sec:

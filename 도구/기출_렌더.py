@@ -155,8 +155,8 @@ def _item(p, evs, inline_rgs, anchor):
     if t == "verse":  # 연시조의 <제1수> 같은 표시는 원본처럼 그 수 끝 오른쪽
         body = re.sub(r"(?:<br>)?(&lt;제\d+수&gt;)(?:<br>)?", r"<span class='xm-suno'>\1</span>", body)
     # 점선 지시선(······ ①)이 긴 줄은 화면 폭에서 줄이 꺾이므로, 점은 CSS 점선 칸으로 바꿔 남는 폭만 채우게 한다
-    ld = re.match(r"^(.*?)\s*(?:[·∙⋅]{4,}|…{2,})\s*([①-⑤])$", body, re.S)
-    if ld and t == "para":
+    ld = re.match(r"^(.*?)(?<![·∙⋅])\s*(?:[·∙⋅]{2,}|…{2,})\s*([①-⑤㉠-㉤])$", body, re.S)
+    if ld and t == "para" and ld.group(1):  # 점만 있는 줄(……… ㉠)은 그대로 둔다
         body = (f"<span class='xm-ldt'>{ld.group(1)}</span><span class='xm-ldl'></span><span class='xm-ldn'>{ld.group(2)}</span>")
         cls = (cls + " xm-leaderline").strip()
     return f"<p class='{cls}' id='{anchor}'>{body}</p>" if cls else f"<p id='{anchor}'>{body}</p>"
