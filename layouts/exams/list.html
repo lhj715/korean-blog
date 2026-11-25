@@ -1,0 +1,102 @@
+{{ define "main" }}
+{{- $exams := .RegularPages.ByDate.Reverse }}
+<div class="wrap">
+  <div class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
+    <p class="count" style="margin-top:8px"><strong>총 <span id="visible-count">{{ len $exams }}</span>회차</strong> 수록</p>
+  </div>
+
+  <div class="work-tags genre-filters exam-filters" data-group="grade" style="margin-bottom:12px">
+    <button type="button" class="work-tag active" data-val="ALL">전체 학년</button>
+    {{- range $g := slice "고1" "고2" "고3" }}
+    <button type="button" class="work-tag" data-val="{{ $g }}">{{ $g }}</button>
+    {{- end }}
+  </div>
+
+  <div class="work-tags genre-filters exam-filters" data-group="kind" style="margin-bottom:12px">
+    <button type="button" class="work-tag active" data-val="ALL">전체 구분</button>
+    <button type="button" class="work-tag" data-val="학력평가">학력평가</button>
+    <button type="button" class="work-tag" data-val="모의평가">모의평가</button>
+    <button type="button" class="work-tag" data-val="수능">수능</button>
+  </div>
+
+  {{- $years := slice }}
+  {{- range $exams }}{{ $y := .Date.Format "2006" }}{{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}{{ end }}
+  <div class="work-tags genre-filters exam-filters" data-group="year" style="margin-bottom:12px">
+    <button type="button" class="work-tag active" data-val="ALL">전체 시기</button>
+    {{- range $years }}
+    <button type="button" class="work-tag" data-val="{{ . }}">{{ . }}년</button>
+    {{- end }}
+  </div>
+
+  <div class="work-tags genre-filters exam-filters" data-group="month" style="margin-bottom:28px">
+    <button type="button" class="work-tag active" data-val="ALL">전체 월</button>
+    {{- range $m := slice "3" "4" "5" "6" "7" "9" "10" "11" }}
+    <button type="button" class="work-tag" data-val="{{ $m }}">{{ $m }}월</button>
+    {{- end }}
+  </div>
+
+  {{- range $exams.GroupByDate "2006" "desc" }}
+  <section class="exam-year" data-year="{{ .Key }}">
+    <div class="section-head"><h2>{{ .Key }}년</h2><span class="sub"><span class="year-count">{{ len .Pages }}</span>회차</span></div>
+    <div class="works-grid" style="margin-bottom:28px">
+      {{- range .Pages }}
+      {{- $month := int (.Date.Format "1") }}
+      {{- $kind := .Params.category }}
+      {{- if eq $month 11 }}{{ $kind = "수능" }}{{ end }}
+      {{- $part := "" }}
+      {{- if eq .Params.grade "고3" }}
+        {{- if strings.HasSuffix .Params.exam_id "korB" }}{{ $part = "선택 · 언어와 매체" }}{{ else }}{{ $part = "공통 + 화법과 작문" }}{{ end }}
+      {{- end }}
+      <a class="work-card exam-card" href="{{ .RelPermalink }}" data-grade="{{ .Params.grade }}" data-kind="{{ $kind }}" data-year="{{ .Date.Format "2006" }}" data-month="{{ $month }}">
+        <div class="wc-num">{{ .Params.grade }} · {{ $kind }}</div>
+        <div class="wc-title">{{ .Date.Format "2006" }}년 {{ $month }}월</div>
+        <div class="wc-author">{{ .Title }}</div>
+        {{- with $part }}<div class="work-tags"><span class="work-tag">{{ . }}</span></div>{{ end }}
+      </a>
+      {{- end }}
+    </div>
+  </section>
+  {{- end }}
+  <p id="exam-empty" class="count" style="display:none">조건에 맞는 기출이 없습니다.</p>
+</div>
+
+<script>
+(function(){
+  var cards = document.querySelectorAll('.exam-card');
+  var sections = document.querySelectorAll('.exam-year');
+  var counter = document.getElementById('visible-count');
+  var empty = document.getElementById('exam-empty');
+  var cur = {grade:'ALL', kind:'ALL', year:'ALL', month:'ALL'};
+  function apply(){
+    var n = 0;
+    cards.forEach(function(c){
+      var show = Object.keys(cur).every(function(k){ return cur[k] === 'ALL' || c.dataset[k] === cur[k]; });
+      c.style.display = show ? '' : 'none';
+      if(show) n++;
+    });
+    sections.forEach(function(s){
+      var vis = 0;
+      s.querySelectorAll('.exam-card').forEach(function(c){ if(c.style.display !== 'none') vis++; });
+      s.style.display = vis ? '' : 'none';
+      var yc = s.querySelector('.year-count'); if(yc) yc.textContent = vis;
+    });
+    if(counter) counter.textContent = n;
+    if(empty) empty.style.display = n ? 'none' : '';
+  }
+  document.querySelectorAll('.exam-filters').forEach(function(box){
+    var group = box.dataset.group;
+    box.querySelectorAll('button[data-val]').forEach(function(b){
+      b.addEventListener('click', function(e){
+        e.preventDefault();
+        box.querySelectorAll('button').forEach(function(x){ x.classList.remove('active'); });
+        b.classList.add('active');
+        cur[group] = b.dataset.val;
+        apply();
+      });
+    });
+  });
+})();
+</script>
+{{ end }}

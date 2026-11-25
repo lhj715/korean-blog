@@ -48,6 +48,7 @@ D:\Work\블로그\리딩맵\   = GitHub lhj715/korean-blog (★공개 저장소)
 - Hugo 정적 사이트 → GitHub Actions(`.github/workflows/deploy.yml`) → GitHub Pages, 도메인 `static/CNAME`, Cloudflare 프록시. **`main` 에 push 하면 바로 배포된다.**
 - 로컬 확인: `hugo --gc --minify -d <임시폴더>` (hugo extended 설치됨, winget). 눌러 보며 확인할 때는 `.claude/launch.json` 의 `readingmap-hugo`(hugo server :1313).
 - 메뉴: 문학 · 문법 · 기출 · 한자성어 (+작가·검색). 기출은 2026-11-24 새 방식으로 다시 열었다(첫 세트: 2026-03 고2 14~17번).
+- 기출 목록 화면: `layouts/exams/list.html` — 학년(고1·고2·고3)·구분(학력평가·모의평가·수능, 11월 = 수능)·시행 연도·월 필터와 연도별 묶음(front matter 의 `grade`·`category`·`date` 를 씀). 첫 페이지 통계 칸에 기출 회차 수가 나온다(`layouts/index.html`).
 - 기출 화면 파일: `layouts/exams/single.html`(틀), `assets/css/exam.css`(모양), `static/js/exam.js`(누르기 동작), `도구/기출_렌더.py`(HTML 찍기). 미리보기도 같은 파일을 쓴다. 클래스는 모두 `xm-` 로 시작한다.
 - 기출 페이지는 `도구/게시.py` 만 만든다: `content/exams/<회차ID>.md`(머리말) + `data/exams/<회차ID>.json`(화면 HTML) + `static/images/exams/<회차ID>/`(그림). 손으로 고치지 않는다(Hugo 가 .html 원고를 막아서 HTML 은 data 파일에 둔다).
 - 콘텐츠(2026-11-23): 문학 345편(고전시가 + 현대시 149편), 문법 29글(문법 지도 `content/grammar/map.md`), 한자성어 394개(`data/idioms.json`), 문학사 연표.
