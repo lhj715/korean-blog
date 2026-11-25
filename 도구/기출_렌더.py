@@ -258,7 +258,9 @@ def render_set(s, img, path):
                     inbox = it.get("inbox")
                 if it["type"] == "figure":
                     it = dict(it, **pic(it["image"]))
-                    mine = by_fig.get(it["id"], [])
+                    # 같은 그림 id 가 여러 문항 상자에 있으면(예: 두 문항이 각각 f1) 근거 꼬리표는 그 문항의 그림에만 붙인다
+                    shared = sum(1 for qq in s["questions"] for b in _boxes(qq) for x2 in _box_items(b) if x2["type"] == "figure" and x2["id"] == it["id"])
+                    mine = [e for e in by_fig.get(it["id"], []) if shared < 2 or e["q"] == q["no"]]
                     h.append(_item(it, mine, [], f"q{q['no']}-{it['id']}"))
                 else:
                     if it.get("display_image"):
