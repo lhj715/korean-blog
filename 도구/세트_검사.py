@@ -199,6 +199,8 @@ def main():
                     continue
                 if name.startswith("그림:") or name.startswith("상자"):  # 계획표 등 상자 글이 다음 문항 구역·쪽 끝에 찍히는 PDF(2025-10 고1 2번)
                     deferred.append((name, sq, where))
+                elif name.startswith("선지") and len(sq) >= 12 and sq in src_sq:  # 선지 ①~⑤ 가 다음 세트 지문 뒤에 찍히는 PDF(2026-07 고3 17번): 번호+글이 PDF 에 이어져 있으면 인정
+                    deferred.append((name, sq, where))
                 else:
                     fail("B3", where, f"«{name}» 조각을 PDF 구역에서 찾지 못함")
                 continue
@@ -303,6 +305,7 @@ def main():
                         parts.append(bx.get("label", ""))
                         parts += [(it.get("text", "") or it.get("pdf_text", "")) + it.get("raster_text", "") for it in box_items(bx)]
                     parts += sq_.get("choices", [])
+                    parts += [CIRS[ci] + c for ci, c in enumerate(sq_.get("choices", [])[:5])]  # 이웃 세트 선지가 번호째 이 세트 구역에 찍힌 PDF(2026-07 고3 17번 → 18~21번 지문)
                 sib += squash("".join(parts)).replace("<", "").replace(">", "")
             rest = rest.replace("<", "").replace(">", "")
             while rest:
