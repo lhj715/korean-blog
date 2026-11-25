@@ -182,7 +182,7 @@ def main():
             while k > 0 and sq[:k] not in src_sq:
                 k -= 10
             fail("B1", where, f"PDF 와 다름 — {max(k,0)}자째 근처: «{sq[max(k,0):max(k,0)+25]}»")
-        if strict and re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣]|\s*모두(?![가-힣]))|-{4,}|\+{4,}|===|[①②③④⑤]|확인\s*사항|답안지", t):
+        if strict and re.search(r"<\s*그\s*림\s*>(?![가-힣])|<\s*보\s*기\s*>(?![가-힣]|\s*모두(?![가-힣]))|-{4,}|\+{4,}|===|[①②③④⑤]|확인\s*사항|답안지의\s*해당란", t):
             fail("B2", where, "그림 글자·보기 머리말·쪽 머리글·선지 기호가 섞임")
 
     # B3 빠짐 없음
@@ -446,7 +446,7 @@ def main():
         for k, c in enumerate(q["choices"]):
             reg = "".join(squash(t) for t in cu.get(str(k + 1), []))
             for r in q_runs:
-                if len(r) >= 2 and r not in COMMON_NEG and r in squash(c) and r not in plain and r not in reg and ul_total[r] > reg_total[r] and not (any(r in o for o in other_ul) and ul_total[r] <= reg_total[r] + 1) and not q.get("table_border"):  # table_border: 선지 표 칸 테두리가 밑줄로 읽히는 문항(검토자가 쪽 그림으로 확인)
+                if len(r) >= 2 and r not in COMMON_NEG and not re.fullmatch(r"\[[A-Z]\]?", r) and r in squash(c) and r not in plain and r not in reg and ul_total[r] > reg_total[r] and not (any(r in o for o in other_ul) and ul_total[r] <= reg_total[r] + 1) and not q.get("table_border"):  # table_border: 선지 표 칸 테두리가 밑줄로 읽히는 문항(검토자가 쪽 그림으로 확인)
                     fail("C9", f"{q['no']}번 {CIRS[k]}", f"PDF 에 밑줄이 그어진 «{r}» 가 선지에 있는데 choice_underlines 에 없음")
         su = "".join(squash(t) for t in q.get("stem_underlines", []))
         for r in q_runs:
